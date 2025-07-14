@@ -246,16 +246,16 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="2461.2000000000003,5403.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1949,5560" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:CommentOut DisplayName="Extraccion Datos" sap:VirtualizedContainerService.HintSize="1395.2,135.2" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+    <ui:CommentOut DisplayName="Extraccion Datos" sap:VirtualizedContainerService.HintSize="1404,136" sap2010:WorkflowViewState.IdRef="CommentOut_1">
       <ui:CommentOut.Body>
-        <Sequence DisplayName="Actividades ignoradas" sap:VirtualizedContainerService.HintSize="449.6,24.8" sap2010:WorkflowViewState.IdRef="Sequence_6">
+        <Sequence DisplayName="Actividades ignoradas" sap:VirtualizedContainerService.HintSize="450,25" sap2010:WorkflowViewState.IdRef="Sequence_6">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -376,25 +376,25 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <ueab:SequenceX DisplayName="Ámbito del proceso de Excel único" sap:VirtualizedContainerService.HintSize="1395.2,5213.6" sap2010:WorkflowViewState.IdRef="SequenceX_1">
+    <ueab:SequenceX DisplayName="Ámbito del proceso de Excel único" sap:VirtualizedContainerService.HintSize="1404,5370" sap2010:WorkflowViewState.IdRef="SequenceX_1">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Utilice el archivo de Excel" sap:VirtualizedContainerService.HintSize="1361.6,5130.4" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="datos\Base de Datos Secop.xlsx">
+      <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Utilice el archivo de Excel" sap:VirtualizedContainerService.HintSize="1370,5287" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="datos\Base de Datos Secop.xlsx">
         <ueab:ExcelApplicationCard.Body>
           <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="ue:IWorkbookQuickHandle" Name="Excel" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1328,4797.6" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1336,4995" sap2010:WorkflowViewState.IdRef="Sequence_4">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ueab:ExcelForEachRowX DisplayName="Para cada fila de Excel" EmptyRowBehavior="Stop" HasHeaders="True" sap:VirtualizedContainerService.HintSize="1294.4,4737.6" sap2010:WorkflowViewState.IdRef="ExcelForEachRowX_1" Range="[Excel.Sheet(&quot;Licitaciones&quot;)]" SaveAfterEachRow="False">
+              <ueab:ExcelForEachRowX DisplayName="Para cada fila de Excel" EmptyRowBehavior="Stop" HasHeaders="True" sap:VirtualizedContainerService.HintSize="1302,4935" sap2010:WorkflowViewState.IdRef="ExcelForEachRowX_1" Range="[Excel.Sheet(&quot;Licitaciones&quot;)]" SaveAfterEachRow="False">
                 <ueab:ExcelForEachRowX.Body>
                   <ActivityAction x:TypeArguments="ue:CurrentRowQuickHandle, x:Int32">
                     <ActivityAction.Argument1>
@@ -403,43 +403,69 @@
                     <ActivityAction.Argument2>
                       <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentIndex" />
                     </ActivityAction.Argument2>
-                    <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1260.8,4521.6" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                    <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1268,4722" sap2010:WorkflowViewState.IdRef="Sequence_5">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Licitaciones - Contratos" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1227.2,4461.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="23136466-2763-4f1f-bdb3-c739171fb739" Version="V2">
-                        <uix:NApplicationCard.Body>
-                          <ActivityAction x:TypeArguments="x:Object">
-                            <ActivityAction.Argument>
-                              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
-                            </ActivityAction.Argument>
-                            <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1193.6,4221.6" sap2010:WorkflowViewState.IdRef="Sequence_7">
-                              <sap:WorkflowViewStateService.ViewState>
-                                <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                </scg:Dictionary>
-                              </sap:WorkflowViewStateService.ViewState>
-                              <If Condition="[String.IsNullOrEmpty(FilaActual.ByField(&quot;Descarga_Documentos&quot;).StringValue)]" DisplayName="Si" sap:VirtualizedContainerService.HintSize="1160,4160" sap2010:WorkflowViewState.IdRef="If_2">
-                                <If.Then>
-                                  <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="1158.4,3940.8" sap2010:WorkflowViewState.IdRef="Sequence_18">
+                      <If Condition="[String.IsNullOrEmpty(FilaActual.ByField(&quot;Descarga_Documentos&quot;).StringValue)]" DisplayName="Si" sap:VirtualizedContainerService.HintSize="1234,4662" sap2010:WorkflowViewState.IdRef="If_2">
+                        <If.Then>
+                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="1232,4444" sap2010:WorkflowViewState.IdRef="Sequence_18">
+                            <Sequence.Variables>
+                              <Variable x:TypeArguments="x:String" Name="UbicacionCarpeta" />
+                              <Variable x:TypeArguments="x:String" Name="UbicacionMover" />
+                            </Sequence.Variables>
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                            <ui:MultipleAssign DisplayName="Asignación múltiple" sap:VirtualizedContainerService.HintSize="1198,179" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+                              <ui:MultipleAssign.AssignOperations>
+                                <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
+                                    <ui:AssignOperation.To>
+                                      <OutArgument x:TypeArguments="x:String">[UbicacionCarpeta]</OutArgument>
+                                    </ui:AssignOperation.To>
+                                    <ui:AssignOperation.Value>
+                                      <InArgument x:TypeArguments="x:String">C:\Users\Maikol Vergara\Downloads</InArgument>
+                                    </ui:AssignOperation.Value>
+                                  </ui:AssignOperation>
+                                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
+                                    <ui:AssignOperation.To>
+                                      <OutArgument x:TypeArguments="x:String">[UbicacionMover]</OutArgument>
+                                    </ui:AssignOperation.To>
+                                    <ui:AssignOperation.Value>
+                                      <InArgument x:TypeArguments="x:String">Tesis_02</InArgument>
+                                    </ui:AssignOperation.Value>
+                                  </ui:AssignOperation>
+                                </scg:List>
+                              </ui:MultipleAssign.AssignOperations>
+                            </ui:MultipleAssign>
+                            <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Licitaciones - Contratos" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1198,4205" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="23136466-2763-4f1f-bdb3-c739171fb739" Version="V2">
+                              <uix:NApplicationCard.Body>
+                                <ActivityAction x:TypeArguments="x:Object">
+                                  <ActivityAction.Argument>
+                                    <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+                                  </ActivityAction.Argument>
+                                  <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1164,3965" sap2010:WorkflowViewState.IdRef="Sequence_7">
                                     <sap:WorkflowViewStateService.ViewState>
                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                       </scg:Dictionary>
                                     </sap:WorkflowViewStateService.ViewState>
-                                    <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="1124.8,114.4" sap2010:WorkflowViewState.IdRef="NGoToUrl_2" Url="[FilaActual(&quot;Enlace&quot;).ToString]" Version="V5" />
-                                    <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="1124.8,122.4" sap2010:WorkflowViewState.IdRef="Delay_1" />
-                                    <uix:NCheckState DisplayName="Comprobar estado de aplicación 'Descargar todos los doc…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1124.8,3644" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
+                                    <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="1130,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_2" Url="[FilaActual(&quot;Enlace&quot;).ToString]" Version="V5" />
+                                    <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="1130,122" sap2010:WorkflowViewState.IdRef="Delay_1" />
+                                    <uix:NCheckState DisplayName="Comprobar estado de aplicación 'Descargar todos los doc…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1130,3667" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
                                       <uix:NCheckState.IfExists>
-                                        <Sequence DisplayName="Aparece el destino" sap:VirtualizedContainerService.HintSize="604.8,3402.4" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                                        <Sequence DisplayName="Aparece el destino" sap:VirtualizedContainerService.HintSize="608,3385" sap2010:WorkflowViewState.IdRef="Sequence_11">
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
-                                          <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Clic 'Ver docs'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="571.2,225.6" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
+                                          <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Clic 'Ver docs'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="574,225" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
                                             <uix:NClick.Target>
                                               <uix:TargetAnchorable BrowserURL="col.licitaciones.info/detalle-contrato" CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" ContentHash="w64T7Aya7kOIrPjjdlz_-Q" CvElementArea="3146, 1244, 582, 44" CvTextArea="3404, 1256, 85, 18" CvTextArgument="Ver docs" CvType="Button" DesignTimeRectangle="3150, 1622, 578, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='info-seccion-contrato' tag='BUTTON' type='' class='btn btn-new-gray btnRadius d-inline-block descargar-ver-docs boton-lateral_posicion' aaname=' Ver docs' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Ver docs' /&gt;" Guid="dc793f9a-8b73-461b-904b-4211575cdf6a" InformativeScreenshot="9d8a303f3efe38e4339079477657790b.png" Reference="qCejIrBFe0qRQF-PnoPYfQ/f5O3IiSgIka37khvG0ynyg" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO - Subasta Inversa SED-SA-SI-OTIC-036-2025-' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
                                                 <uix:TargetAnchorable.Anchors>
@@ -460,12 +486,12 @@
                                               </uix:VerifyExecutionOptions>
                                             </uix:NClick.VerifyOptions>
                                           </uix:NClick>
-                                          <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Extraer datos de tabla 'Extraer datos de tabla'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Item' ReferenceIdx='0' Name='Item'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Nombre' ReferenceIdx='1' Name='Nombre'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tipo' ReferenceIdx='2' Name='Tipo'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tipo Src' ReferenceIdx='3' Name='Tipo_Src'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Documento' ReferenceIdx='4' Name='Documento'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Documento Url' ReferenceIdx='5' Name='Documento_Url'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Item' attr='fulltext' /&gt;&lt;column name='Nombre' attr='fulltext' /&gt;&lt;column name='Tipo' attr='fulltext' name2='Tipo Src' attr2='src' /&gt;&lt;column name='Documento' attr='fulltext' name2='Documento Url' attr2='href' /&gt;&lt;/extract-table&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="571.2,189.6" sap2010:WorkflowViewState.IdRef="NExtractData_1" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
+                                          <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Extraer datos de tabla 'Extraer datos de tabla'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Item' ReferenceIdx='0' Name='Item'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Nombre' ReferenceIdx='1' Name='Nombre'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tipo' ReferenceIdx='2' Name='Tipo'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Tipo Src' ReferenceIdx='3' Name='Tipo_Src'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Documento' ReferenceIdx='4' Name='Documento'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Documento Url' ReferenceIdx='5' Name='Documento_Url'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Item' attr='fulltext' /&gt;&lt;column name='Nombre' attr='fulltext' /&gt;&lt;column name='Tipo' attr='fulltext' name2='Tipo Src' attr2='src' /&gt;&lt;column name='Documento' attr='fulltext' name2='Documento Url' attr2='href' /&gt;&lt;/extract-table&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="574,189" sap2010:WorkflowViewState.IdRef="NExtractData_1" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
                                             <uix:NExtractData.Target>
                                               <uix:TargetAnchorable BrowserURL="https://col.licitaciones.info/detalle-contrato?random=6854ad342ffc53.15205732#/" ContentHash="jFY8DCjCeEK7vSo7x0ck8g" DesignTimeRectangle="1298, 800, 1254, 1873" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl parentid='modal_documentos___BV_modal_body_' tag='TABLE' /&gt;" Guid="352e0fec-2bd5-492c-9882-90e442436331" InformativeScreenshot="383cfccfcc4de8cf19fa1c0674e038a5.png" Reference="qCejIrBFe0qRQF-PnoPYfQ/5bPMYnosvUO-n8K7fx-Y0A" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO - Subasta Inversa SED-SA-SI-OTIC-036-2025-' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" />
                                             </uix:NExtractData.Target>
                                           </uix:NExtractData>
-                                          <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="571.2,114.4" sap2010:WorkflowViewState.IdRef="Assign_6">
+                                          <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="574,114" sap2010:WorkflowViewState.IdRef="Assign_6">
                                             <Assign.To>
                                               <OutArgument x:TypeArguments="x:Int32">[CanDocumentos]</OutArgument>
                                             </Assign.To>
@@ -473,13 +499,13 @@
                                               <InArgument x:TypeArguments="x:Int32">0</InArgument>
                                             </Assign.Value>
                                           </Assign>
-                                          <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Para cada fila de la tabla de datos" sap:VirtualizedContainerService.HintSize="571.2,2626.4" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+                                          <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Para cada fila de la tabla de datos" sap:VirtualizedContainerService.HintSize="574,2611" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
                                             <ui:ForEachRow.Body>
                                               <ActivityAction x:TypeArguments="sd:DataRow">
                                                 <ActivityAction.Argument>
                                                   <DelegateInArgument x:TypeArguments="sd:DataRow" Name="FilaExtraida" />
                                                 </ActivityAction.Argument>
-                                                <Sequence DisplayName="Cuerpo" sap:VirtualizedContainerService.HintSize="569.6,2444.8" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                                                <Sequence DisplayName="Cuerpo" sap:VirtualizedContainerService.HintSize="572,2431" sap2010:WorkflowViewState.IdRef="Sequence_13">
                                                   <Sequence.Variables>
                                                     <Variable x:TypeArguments="si:FileInfo" Name="fileInfo" />
                                                   </Sequence.Variables>
@@ -488,10 +514,10 @@
                                                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                     </scg:Dictionary>
                                                   </sap:WorkflowViewStateService.ViewState>
-                                                  <ui:GetEnvironmentFolder DisplayName="Get the download folder path." FolderPath="[GlobalVariablesNamespace.GlobalVariables.downloadFolderPath]" sap:VirtualizedContainerService.HintSize="536,117.6" sap2010:WorkflowViewState.IdRef="GetEnvironmentFolder_1" SpecialFolder="Desktop" />
-                                                  <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="536,114.4" sap2010:WorkflowViewState.IdRef="NGoToUrl_3" Url="[FilaExtraida(&quot;Documento_Url&quot;).ToString]" Version="V5" />
-                                                  <Delay DisplayName="Retraso" Duration="00:00:05.5000000" sap:VirtualizedContainerService.HintSize="536,122.4" sap2010:WorkflowViewState.IdRef="Delay_2" />
-                                                  <ui:ForEachFileX DisplayName="For each file in the download folder" Folder="C:\Users\Maikol Vergara\Downloads" sap:VirtualizedContainerService.HintSize="536,2030.4" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
+                                                  <ui:GetEnvironmentFolder DisplayName="Get the download folder path." FolderPath="[GlobalVariablesNamespace.GlobalVariables.downloadFolderPath]" sap:VirtualizedContainerService.HintSize="538,117" sap2010:WorkflowViewState.IdRef="GetEnvironmentFolder_1" SpecialFolder="Desktop" />
+                                                  <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="538,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_3" Url="[FilaExtraida(&quot;Documento_Url&quot;).ToString]" Version="V5" />
+                                                  <Delay DisplayName="Retraso" Duration="00:00:05.5000000" sap:VirtualizedContainerService.HintSize="538,122" sap2010:WorkflowViewState.IdRef="Delay_2" />
+                                                  <ui:ForEachFileX DisplayName="For each file in the download folder" Folder="[UbicacionCarpeta]" sap:VirtualizedContainerService.HintSize="538,2018" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
                                                     <ui:ForEachFileX.Body>
                                                       <ActivityAction x:TypeArguments="si:FileInfo, x:Int32">
                                                         <ActivityAction.Argument1>
@@ -500,7 +526,7 @@
                                                         <ActivityAction.Argument2>
                                                           <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentIndex" />
                                                         </ActivityAction.Argument2>
-                                                        <Sequence DisplayName="" sap:VirtualizedContainerService.HintSize="502.4,1742.4" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                                                        <Sequence DisplayName="" sap:VirtualizedContainerService.HintSize="504,1735" sap2010:WorkflowViewState.IdRef="Sequence_15">
                                                           <Sequence.Variables>
                                                             <Variable x:TypeArguments="x:String" Name="Comparacion" />
                                                           </Sequence.Variables>
@@ -509,10 +535,10 @@
                                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                             </scg:Dictionary>
                                                           </sap:WorkflowViewStateService.ViewState>
-                                                          <ui:GetFileInfoX DisplayName="Get the file name." FilePath="[CurrentFile.FullName]" sap:VirtualizedContainerService.HintSize="468.8,166.4" sap2010:WorkflowViewState.IdRef="GetFileInfoX_1" Output="[fileInfo]" />
-                                                          <If Condition="[CurrentFile.FullName.Contains(FilaExtraida(&quot;Nombre&quot;).ToString())]" DisplayName="If the file name contains FilaExtraida(&quot;Nombre&quot;).ToString" sap:VirtualizedContainerService.HintSize="468.8,1516" sap2010:WorkflowViewState.IdRef="If_1">
+                                                          <ui:GetFileInfoX DisplayName="Get the file name." FilePath="[CurrentFile.FullName]" sap:VirtualizedContainerService.HintSize="470,165" sap2010:WorkflowViewState.IdRef="GetFileInfoX_1" Output="[fileInfo]" />
+                                                          <If Condition="[CurrentFile.FullName.Contains(FilaExtraida(&quot;Nombre&quot;).ToString())]" DisplayName="If the file name contains FilaExtraida(&quot;Nombre&quot;).ToString" sap:VirtualizedContainerService.HintSize="470,1510" sap2010:WorkflowViewState.IdRef="If_1">
                                                             <If.Then>
-                                                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="467.2,1296.8" sap2010:WorkflowViewState.IdRef="Sequence_16">
+                                                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="468,1292" sap2010:WorkflowViewState.IdRef="Sequence_16">
                                                                 <Sequence.Variables>
                                                                   <Variable x:TypeArguments="x:String" Name="Nuevo_Nombre" />
                                                                   <Variable x:TypeArguments="x:String" Name="Comparacion" />
@@ -522,10 +548,10 @@
                                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                   </scg:Dictionary>
                                                                 </sap:WorkflowViewStateService.ViewState>
-                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="433.6,176" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[CurrentFile.FullName]" />
-                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="433.6,176" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[fileInfo.Name]" />
-                                                                <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="433.6,122.4" sap2010:WorkflowViewState.IdRef="Delay_3" />
-                                                                <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_4">
+                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[CurrentFile.FullName]" />
+                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[fileInfo.Name]" />
+                                                                <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="434,122" sap2010:WorkflowViewState.IdRef="Delay_3" />
+                                                                <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="434,114" sap2010:WorkflowViewState.IdRef="Assign_4">
                                                                   <Assign.To>
                                                                     <OutArgument x:TypeArguments="x:String">[Nuevo_Nombre]</OutArgument>
                                                                   </Assign.To>
@@ -533,10 +559,10 @@
                                                                     <InArgument x:TypeArguments="x:String">[FilaActual("Codigo").ToString() + "_" + fileInfo.Name]</InArgument>
                                                                   </Assign.Value>
                                                                 </Assign>
-                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="433.6,176" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[Nuevo_Nombre]" />
-                                                                <ui:RenameFileX DisplayName="Renombrar archivo" FilePath="[&quot;C:\Users\Maikol Vergara\Downloads\&quot; +fileInfo.Name]" sap:VirtualizedContainerService.HintSize="433.6,176" sap2010:WorkflowViewState.IdRef="RenameFileX_1" KeepExtension="True" NewName="[Nuevo_Nombre]" />
-                                                                <ui:MoveFile ContinueOnError="{x:Null}" DestinationResource="{x:Null}" PathResource="{x:Null}" Destination="C:\Users\Maikol Vergara\Downloads\Tesis_02" DisplayName="Mover archivo" sap:VirtualizedContainerService.HintSize="433.6,192" sap2010:WorkflowViewState.IdRef="MoveFile_1" Overwrite="True" Path="[&quot;C:\Users\Maikol Vergara\Downloads\&quot; + Nuevo_Nombre]" />
-                                                                <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="433.6,104.8" sap2010:WorkflowViewState.IdRef="Assign_7">
+                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[Nuevo_Nombre]" />
+                                                                <ui:RenameFileX DisplayName="Renombrar archivo" FilePath="[UbicacionCarpeta+&quot;\&quot; +fileInfo.Name]" sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="RenameFileX_1" KeepExtension="True" NewName="[Nuevo_Nombre]" />
+                                                                <ui:MoveFile ContinueOnError="{x:Null}" DestinationResource="{x:Null}" PathResource="{x:Null}" Destination="[UbicacionCarpeta+&quot;\&quot;+UbicacionMover]" DisplayName="Mover archivo" sap:VirtualizedContainerService.HintSize="434,191" sap2010:WorkflowViewState.IdRef="MoveFile_1" Overwrite="True" Path="[UbicacionCarpeta+&quot;\&quot; + Nuevo_Nombre]" />
+                                                                <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="434,105" sap2010:WorkflowViewState.IdRef="Assign_7">
                                                                   <Assign.To>
                                                                     <OutArgument x:TypeArguments="x:Int32">[CanDocumentos]</OutArgument>
                                                                   </Assign.To>
@@ -547,7 +573,7 @@
                                                               </Sequence>
                                                             </If.Then>
                                                             <If.Else>
-                                                              <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="467.2,89.6" sap2010:WorkflowViewState.IdRef="Sequence_17">
+                                                              <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="468,89" sap2010:WorkflowViewState.IdRef="Sequence_17">
                                                                 <sap:WorkflowViewStateService.ViewState>
                                                                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -570,23 +596,23 @@
                                               </ActivityAction>
                                             </ui:ForEachRow.Body>
                                           </ui:ForEachRow>
-                                          <ueab:WriteCellX Cell="[FilaActual.ByField(&quot;Descarga_Documentos&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="571.2,184.8" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[CanDocumentos]" />
+                                          <ueab:WriteCellX Cell="[FilaActual.ByField(&quot;Descarga_Documentos&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="574,184" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[CanDocumentos]" />
                                         </Sequence>
                                       </uix:NCheckState.IfExists>
                                       <uix:NCheckState.IfNotExists>
-                                        <Sequence DisplayName="No aparece el destino" sap:VirtualizedContainerService.HintSize="467.2,246.4" sap2010:WorkflowViewState.IdRef="Sequence_12">
+                                        <Sequence DisplayName="No aparece el destino" sap:VirtualizedContainerService.HintSize="468,246" sap2010:WorkflowViewState.IdRef="Sequence_12">
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                             </scg:Dictionary>
                                           </sap:WorkflowViewStateService.ViewState>
-                                          <ueab:WriteCellX Cell="[FilaActual.ByField(&quot;Descarga_Documentos&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="433.6,184.8" sap2010:WorkflowViewState.IdRef="WriteCellX_2" Value="[&quot;0&quot;]" />
+                                          <ueab:WriteCellX Cell="[FilaActual.ByField(&quot;Descarga_Documentos&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="434,184" sap2010:WorkflowViewState.IdRef="WriteCellX_2" Value="[&quot;0&quot;]" />
                                         </Sequence>
                                       </uix:NCheckState.IfNotExists>
                                       <uix:NCheckState.Target>
                                         <uix:TargetAnchorable BrowserURL="col.licitaciones.info/detalle-contrato" CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" ContentHash="cNFEloxXTEWEuRAFR8TFBA" CvTextArea="315, 1251, 303, 22" CvTextArgument="Descargar todos los documentos:" CvType="Text" DesignTimeRectangle="317, 1247, 542, 30" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;b' idx='3' parentid='info-seccion-contrato' tag='B' /&gt;" Guid="f3a83ae9-0d6c-41f5-8d6e-df359e40111f" InformativeScreenshot="4ff5bbab53837b57b06037d6f2f175be.png" Reference="qCejIrBFe0qRQF-PnoPYfQ/l-X9pKCe0ESBNhb2w6s4Hw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO - Subasta Inversa SED-SA-SI-OTIC-036-2025-' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
                                           <uix:TargetAnchorable.Anchors>
-                                            <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                                            <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
                                               <uix:Target CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" CvElementArea="265, 1248, 36, 28" CvType="Icon" DesignTimeRectangle="268, 1247, 31, 31" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='info-seccion-contrato' src='https://col.licitaciones.info/img/detalle-contrato/svg/Detalle-zip.svg' tag='IMG' /&gt;" Guid="01a6898a-9a94-46a0-b8c7-159f7c93093e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEUSURBVFhH7Zc9CsJAEIVtvYSd97C3tfOn1OgBBF2wsRJkrewEmTss1kIgrbbxCsYzjEwwkmQzEWJCFObB14SQ9y1s8dLAH0oj/aDOiAwXkeGSKxMEQSZVxZLxfR+VUug4DovWuhKphAwVRIWw6SFsBwi7McJu+kavp5UJJWSMMWGR2XcRz03EyxDxOrYgqUioCNSTdZCEDACEJfdTG9FtWRJZQkVRy4UlVFjmG6KDeJ4Xr69H5nZ63UuAeH09Mg93IjKZiAyHyHCIDIfIcPyvjHfs5O6ZbzGHWdhDuyaehAztC7WYhy/qVR9hO7KWXhnQ94ncPUOhjfFpA5cBbe10LJko6T+CMuHCytQRkeEiMlx+SuYJXZfDgGNt8MgAAAAASUVORK5CYII=" SearchSteps="Selector, CV" />
                                             </scg:List>
                                           </uix:TargetAnchorable.Anchors>
@@ -600,24 +626,24 @@
                                       </sap:WorkflowViewStateService.ViewState>
                                     </uix:NCheckState>
                                   </Sequence>
-                                </If.Then>
-                                <If.Else>
-                                  <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="1158.4,89.6" sap2010:WorkflowViewState.IdRef="Sequence_19">
-                                    <sap:WorkflowViewStateService.ViewState>
-                                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                      </scg:Dictionary>
-                                    </sap:WorkflowViewStateService.ViewState>
-                                  </Sequence>
-                                </If.Else>
-                              </If>
-                            </Sequence>
-                          </ActivityAction>
-                        </uix:NApplicationCard.Body>
-                        <uix:NApplicationCard.TargetApp>
-                          <uix:TargetApp Area="-9, -9, 3858, 2118" BrowserType="Edge" ContentHash="opsAEf2EdEeg62Q7Fsgd3w" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJNSURBVDhPlZRZqE5hFIYf85BZCuVISVLKUApRSLmgRJJcmDtIyiwzSYZcGDJlCL0UkUJJoeT2jRyuEFcuDBniRkTrWH/+s/9z+F2s+vb+3u/Z61trvRtk/hEDkXchP0T+ivwe+Q7yUuSuFfqKF3+iNfIO5E/IP5G/I79F/pDPEU+Rp1cD7IJ8Ow89QZ6P3BO5A3In5KHIh5B/pGbT34DNkW+k8CByC+RuyHOR1yGvR56Y2sHIz1K7qCngwhScyufJyMeRdyOvRV6MfAV5M3LfjHfIH+vXBVib/OIb5PbIU5CPIm9E7oi8DLkX8qiEn0Vuhzwvk9heBI7IjT3IbRMU0OvIJzPTncjnkC8hj0NekmWJLB8XgVGnAI5HHok8BrlfHpyQmfVG3oB8Js+sRG6FfBP5SxEYsxXAQchTkbcg78v6rUFelTVbgHwt9dHt6P4J5G9F4JwEjkYeizwbeVICItP9yHuzo4ezy9uQWyJfrR/8AnB42Vx1zusEPK63OmczmhR1PI88AHl5nn2NXFcERi3qkF8gN8uans4souu1yP0z+yjHZeTuOVqNdjkiDsVm2C6eZyEfQ16RNZuWHQ/gkHROJBAWrSnCapBd5tW4cryPWm1FPoJ8IGsYGfdAvp/aMEQDpwQszF6CleJWXjFmraQNr0e2YYDQxLz+3stFnyZgd5E/5zqs9Rz5Vdn+S+QZDW6JPAz5USOwkpfjLxP+vYD8APleOmZmzl/5LeuBF5uARZcbiquJLG50rQSLdaWw2shF/ANjplQh+M/4BUFp0RBdb/iqAAAAAElFTkSuQmCC" InformativeScreenshot="69882635fcd8d8217a568c0460689eb5.jpg" Reference="qCejIrBFe0qRQF-PnoPYfQ/cAom9sKM9ky0YaaJ5B9gJA" Selector="&lt;html app='msedge.exe' title='Licitaciones - Contratos' /&gt;" Url="https://col.licitaciones.info/*" Version="V2" />
-                        </uix:NApplicationCard.TargetApp>
-                      </uix:NApplicationCard>
+                                </ActivityAction>
+                              </uix:NApplicationCard.Body>
+                              <uix:NApplicationCard.TargetApp>
+                                <uix:TargetApp Area="-9, -9, 3858, 2118" BrowserType="Edge" ContentHash="opsAEf2EdEeg62Q7Fsgd3w" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJNSURBVDhPlZRZqE5hFIYf85BZCuVISVLKUApRSLmgRJJcmDtIyiwzSYZcGDJlCL0UkUJJoeT2jRyuEFcuDBniRkTrWH/+s/9z+F2s+vb+3u/Z61trvRtk/hEDkXchP0T+ivwe+Q7yUuSuFfqKF3+iNfIO5E/IP5G/I79F/pDPEU+Rp1cD7IJ8Ow89QZ6P3BO5A3In5KHIh5B/pGbT34DNkW+k8CByC+RuyHOR1yGvR56Y2sHIz1K7qCngwhScyufJyMeRdyOvRV6MfAV5M3LfjHfIH+vXBVib/OIb5PbIU5CPIm9E7oi8DLkX8qiEn0Vuhzwvk9heBI7IjT3IbRMU0OvIJzPTncjnkC8hj0NekmWJLB8XgVGnAI5HHok8BrlfHpyQmfVG3oB8Js+sRG6FfBP5SxEYsxXAQchTkbcg78v6rUFelTVbgHwt9dHt6P4J5G9F4JwEjkYeizwbeVICItP9yHuzo4ezy9uQWyJfrR/8AnB42Vx1zusEPK63OmczmhR1PI88AHl5nn2NXFcERi3qkF8gN8uans4souu1yP0z+yjHZeTuOVqNdjkiDsVm2C6eZyEfQ16RNZuWHQ/gkHROJBAWrSnCapBd5tW4cryPWm1FPoJ8IGsYGfdAvp/aMEQDpwQszF6CleJWXjFmraQNr0e2YYDQxLz+3stFnyZgd5E/5zqs9Rz5Vdn+S+QZDW6JPAz5USOwkpfjLxP+vYD8APleOmZmzl/5LeuBF5uARZcbiquJLG50rQSLdaWw2shF/ANjplQh+M/4BUFp0RBdb/iqAAAAAElFTkSuQmCC" InformativeScreenshot="69882635fcd8d8217a568c0460689eb5.jpg" Reference="qCejIrBFe0qRQF-PnoPYfQ/cAom9sKM9ky0YaaJ5B9gJA" Selector="&lt;html app='msedge.exe' title='Licitaciones - Contratos' /&gt;" Url="https://col.licitaciones.info/*" Version="V2" />
+                              </uix:NApplicationCard.TargetApp>
+                            </uix:NApplicationCard>
+                          </Sequence>
+                        </If.Then>
+                        <If.Else>
+                          <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="1232,89" sap2010:WorkflowViewState.IdRef="Sequence_19">
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                          </Sequence>
+                        </If.Else>
+                      </If>
                     </Sequence>
                   </ActivityAction>
                 </ueab:ExcelForEachRowX.Body>
