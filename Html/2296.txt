@@ -1,0 +1,94 @@
+Title: Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bc4699f5ce5.10541495
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 10:37:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir un software de preservación digital que permita la aplicación de estrategias de preservación digital a los documentos que se encuentran en diferentes soportes electrónicos en el Archivo Central de la Superintendencia de Industria y Comercio, facilitando su almacenamiento y garantizando integridad, disposición y consulta
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80161506 - Servicios de archivo de datos
+
+**Códigos adicionales UNSPSC:**
+
+43232202 - Software de manejo de documentos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 13 N 27-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 03:33 pm
+
+**Plazo para solicitar aclaraciones:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+13/May/2025 - 12:00 pm

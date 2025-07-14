@@ -1,0 +1,133 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA EUGENIO SANCHEZ CARDENAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823986e88eb93.33868489
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 17:52:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+USO MEDIANTE LICENCIA CONCURRENTE DEL SOPORTE LÓGICO O SOFTWARE DENOMINADO, SISTEMA INTEGRADO DE GESTION ADMINISTRATIVA SIGAA 100 WEB EN LA INSTITUCION EDUCATIVA DURANTE LA VIGENCIA DE 2025-2026
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Lorica
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232305 - Software de reportes de bases de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREGIMIENTO TIERRALTA Lorica Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232305 | MANTENIMIENTO DE PLATAFORMA SIGA | Contratación régimen especial - Régimen especial | SGP | $2.000.000 | IE EUGENIO SANCHEZ CARDENAS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 01:38 pm
+
+**Fecha de Firma del Contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+23/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8253796 | Publicación modificación | 19/May/2025 - 10:07 am |  |  |
+| Avisos | CO1.REQ.8253796 | Publicación modificación | 15/May/2025 - 08:15 am |  |  |

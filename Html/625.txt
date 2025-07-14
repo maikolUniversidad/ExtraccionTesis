@@ -1,0 +1,282 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68100a1f0804e8.71430425
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 09:43:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO Y ACTUALIZACIÓN AL SISTEMA DE INCORPORACIÓN Y DEL SITIO WEB HAZTEMARINO DE LA DIRECCIÓN DE INCORPORACIÓN NAVAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "102,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 40A # 8-37 Barrio Teusaquillo Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231501 | ATENCION AL CIUDADANO | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $215.151.560 | DINCOR |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 06:05 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+07/May/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 04:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 05:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 05:01 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/May/2025 - 06:00 pm | 10/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 06:00 pm | 10/Sep/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 09/May/2025 - 06:00 pm | 10/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 23,800,000
+
+**Informes proceso de selección CO1.AWD.2247295 de 23/May/2025 - 07:00 am. Valor $23.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 06:02 pm |  |
+| Informe de evaluación | 09/May/2025 - 06:02 pm |  |
+| Informe de evaluación | 12/May/2025 - 07:07 pm |  |
+| Informe de evaluación | 12/May/2025 - 07:07 pm |  |
+| Informe de selección | 23/May/2025 - 07:00 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247295**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Royal Tech Group SAS * **Tipo documento:** NIT * **Documento:** 901394655 | * **Nombre:** Hector David Mendoza Arroyo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1140834004 | Barranquilla - Atlántico | $23.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247295****
+
+**ID del contrato en SECOP:**
+
+0117-ARC-CBNL06-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+10/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 23,800,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247295 | Informe de selección CO1.AWD.2247295 | 23/May/2025 - 07:00 pm |  | - |
+| General | CO1.MSG.7932574 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 23/May/2025 - 06:58 pm |  | - |
+| Objeciones | CO1.MSG.7873117 | [Respondido] RE:Observaciones al informe | 23/May/2025 - 06:55 pm |  | - |
+| Objeciones | CO1.MSG.7874534 | [Respondido] RE:observacion | 23/May/2025 - 06:55 pm |  | - |
+| Objeciones | CO1.MSG.7870339 | [Respondido] RE:SUBSANACIONES ROYAL TECH GROUP SAS | 23/May/2025 - 06:54 pm |  | - |
+| Objeciones | CO1.MSG.7867580 | [Respondido] RE:observacion al informe 01 | 23/May/2025 - 06:53 pm |  | - |
+| Avisos | CO1.REQ.8177849 | Publicación modificación | 23/May/2025 - 06:39 pm |  |  |
+| Objeciones | CO1.MSG.7874534 | observacion | 13/May/2025 - 02:56 pm |  | - |
+| Objeciones | CO1.MSG.7873117 | Observaciones al informe | 13/May/2025 - 12:09 pm |  | - |
+| Objeciones | CO1.MSG.7870339 | SUBSANACIONES ROYAL TECH GROUP SAS | 12/May/2025 - 07:34 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247295 | Informe de evaluación 2 CO1.AWD.2247295 | 12/May/2025 - 07:07 pm |  | - |
+| Objeciones | CO1.MSG.7867580 | observacion al informe 01 | 12/May/2025 - 02:56 pm |  | - |
+| General | CO1.MSG.7866949 | SUBSANACIONES ROYAL TECH GROUP SAS | 12/May/2025 - 01:35 pm |  | - |
+| General | CO1.MSG.7866122 | OBSERVACIONES AL 1er INFORME DE EVALUACION | 12/May/2025 - 11:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2247295 | Informe de evaluación 1 CO1.AWD.2247295 | 09/May/2025 - 06:02 pm |  | - |
+| Avisos | CO1.REQ.8177849 | Publicación modificación | 09/May/2025 - 05:54 pm |  |  |
+| Avisos | CO1.MSG.7854521 | Publicación de la lista de ofertas del proceso 0123-ARC-BNL06-2025. | 08/May/2025 - 03:40 pm |  | - |
+| Avisos | CO1.MSG.7854489 | La lista de oferentes del proceso 0123-ARC-BNL06-2025 publicada por ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA | 08/May/2025 - 03:37 pm |  | - |
+| General | CO1.MSG.7847684 | RE: OBSERVAIONES | 07/May/2025 - 04:44 pm |  | - |
+| General | CO1.MSG.7846709 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 07/May/2025 - 03:20 pm |  | - |
+| Avisos | CO1.REQ.8177849 | Publicación modificación | 30/Abr/2025 - 06:29 pm |  |  |
+| Aclaraciones | CO1.MSG.7811460 | Observaciones | 29/Abr/2025 - 10:39 am |  | - |
+| Aclaraciones | CO1.MSG.7811066 | Limitacion a MiPymes BOGOTA | 29/Abr/2025 - 10:02 am |  | - |

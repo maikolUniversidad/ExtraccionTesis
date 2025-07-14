@@ -1,0 +1,257 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68362d0fc84d11.92439449
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 17:51:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE TÓNER Y CARTUCHOS PARA EL ÁREA DE IMPRENTA Y PUBLICACIONES DE COGFM, DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103 | TONER IMPRENTA DIADF | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $131.000.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 03:36 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 02:30 pm
+
+**Apertura de sobres:**
+
+30/May/2025 - 02:35 pm
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 02:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 17/Jun/2025 - 05:00 pm | 14/May/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 17/Jun/2025 - 05:00 pm | 14/May/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** YANCRED | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 131,000,000
+
+**Informes proceso de selección CO1.AWD.2282535 de 24/Jun/2025 - 04:44 am. Valor $131.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 01:46 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 01:46 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 01:46 pm |  |
+| Informe de selección | 24/Jun/2025 - 04:44 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2282535**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** YANCRED TECHNOLOGY SAS * **Tipo documento:** NIT * **Documento:** 901415822 | * **Nombre:** WILLIAM ANDRES MARIN GOMEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 15459607 | Bogotá - Distrito Capital de Bogotá | $131.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2282535****
+
+**ID del contrato en SECOP:**
+
+CONTRATO 208COGFM DIADF 2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+14/Nov/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 131,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2282535 | Informe de selección CO1.AWD.2282535 | 24/Jun/2025 - 04:44 pm |  | - |
+| Reporte preliminar | CO1.AWD.2282535 | Informe de evaluación 1 CO1.AWD.2282535 | 16/Jun/2025 - 01:46 pm |  | - |
+| General | CO1.MSG.8009937 | ADENDA No 1 | 10/Jun/2025 - 05:24 pm |  | - |
+| Avisos | CO1.REQ.8312407 | Publicación modificación | 10/Jun/2025 - 04:50 pm |  |  |
+| General | CO1.MSG.7963534 | RE: TÓNER KONICA MINOLTA TN616 DESCONTINUADO | 30/May/2025 - 08:45 am |  | - |
+| Aclaraciones | CO1.MSG.7961535 | RE: OBSERVACIONES, FINANCIERAS | 29/May/2025 - 05:16 pm |  | - |
+| General | CO1.MSG.7956495 | LIMITCION A MIPYMES DE ORDEN NACIONAL | 29/May/2025 - 08:36 am |  | - |
+| Aclaraciones | CO1.MSG.7947591 | OBSERVACIONES, FINANCIERAS | 27/May/2025 - 06:32 pm |  | - |

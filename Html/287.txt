@@ -1,0 +1,321 @@
+Title: Licitaciones - MINISTERIO DE HACIENDA Y CREDITO PUBLICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68279913d7ebc9.72047685
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-22 06:45:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir horas de acompañamiento técnico para la solución de interoperabilidad CA Layer7 API Management del Ministerio de Hacienda y Crédito Público.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81112209 - Mantenimiento de software de desarrollo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 6 C 38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+190 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 453,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111500, 81112200, 81112209 | Adquirir horas de desarrollo y acompañamiento técnico para la solución de interoperabilidad CA Layer7 API Management del Ministerio de Hacienda y Crédito Público. DGT-383 | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $453.000.000 | DIRECCIÓN ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 02:55 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 07:27 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+05/Jun/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+05/Jun/2025 - 10:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+09/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+17/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+19/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+25/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+01/Jul/2025 - 11:58 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 11:58 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 25/Jun/2025 - 12:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 01/Ene/2026 - 12:00 am | 01/Ene/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** M.S.L. DISTRIBUCIONES Y CIA S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 247,276,800
+
+**Informes proceso de selección CO1.AWD.2276120 de 20/Jun/2025 - 09:41 am. Valor $247.276.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 05:13 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 05:13 pm |  |
+| Informe de selección | 20/Jun/2025 - 09:41 am |  |
+| Informe de selección | 20/Jun/2025 - 09:41 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2276120**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** M.S.L. DISTRIBUCIONES Y CIA S.A.S * **Tipo documento:** NIT * **Documento:** 830031855 | * **Nombre:** Camilo Montenegro Cajigas * **Tipo documento:** NIT * **Documento:** 80415541 | - Distrito Capital de Bogotá | $247.276.800 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2276120****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8001919
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 247,276,800
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+17/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+17/Jun/2025 - 11:00 am
+
+**Fecha fin:**
+
+17/Jun/2025 - 11:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2276120 | Informe de selección CO1.AWD.2276120 | 20/Jun/2025 - 09:41 am |  | - |
+| General | CO1.MSG.8039359 | AVISO INFORMATIVO NO REALIZACION SUBASTA | 16/Jun/2025 - 05:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2276120 | Informe de evaluación 2 CO1.AWD.2276120 | 16/Jun/2025 - 05:13 pm |  | - |
+| Avisos | CO1.MSG.8010307 | Publicación de la lista de ofertas del proceso MHCP-SIE-05-2025 (Presentación de oferta). | 10/Jun/2025 - 04:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2276120 | Informe de evaluación 1 CO1.AWD.2276120 | 09/Jun/2025 - 05:58 pm |  | - |
+| Avisos | CO1.MSG.7985925 | La lista de oferentes del proceso MHCP-SIE-05-2025 (Presentación de oferta) publicada por MINISTERIO DE HACIENDA Y CREDITO PUBLICO | 05/Jun/2025 - 10:08 am |  | - |
+| Aclaraciones | CO1.MSG.7931668 | Observaciones MSL al pliego de condiciones | 23/May/2025 - 04:59 pm |  | - |

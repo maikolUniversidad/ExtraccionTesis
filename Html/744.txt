@@ -1,0 +1,228 @@
+Title: Licitaciones - DISPENSARIO MEDICO DE BUCARAMANGA*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fff1c2eb6ec8.51642670
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:54:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+EL SUMINISTRO DE CONSUMIBLES DE IMPRESIÓN (TONER) PARA LAS IMPRESORAS DE LA REGIONAL 2 Y SUS ESTABLECIMIENTOS DE SANIDAD MILITAR CENTRALIZADOS EN SANTANDER, NORTE DE SANTANDER AGUACHICA CESAR Y SANTA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar: Aguachica ; Santander: Bucaramanga ; Norte de Santander: San José de Cúcuta ; Bolívar: Santa Rosa del Sur
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA QUEBRADA SECA Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103 | SUMINISTRO DE TONERS PARA LAS IMPRESORAS DE LOS ESM DE LA REGIONAL II | Mínima cuantía | Presupuesto de entidad nacional | $40.000.000 | DISPENSARIO MEDICO DE BUCARAMANGA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 12:41 pm
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 01:00 pm
+
+**Publicación de la invitación:**
+
+16/Abr/2025 - 01:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/Abr/2025 - 01:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/Abr/2025 - 01:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 12:20 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/May/2025 - 07:00 pm | 30/May/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 02/May/2025 - 07:00 pm | 02/May/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 40,000,000
+
+**Informes proceso de selección CO1.AWD.2237093 de 06/May/2025 - 12:23 pm. Valor $40.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/Abr/2025 - 06:58 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:58 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:58 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:58 pm |  |
+| Informe de evaluación | 05/May/2025 - 09:20 am |  |
+| Informe de evaluación | 05/May/2025 - 09:20 am |  |
+| Informe de selección | 06/May/2025 - 12:23 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7840366 | CONTRATO FIRMADO | 06/May/2025 - 03:29 pm |  | - |
+| Reporte final | CO1.AWD.2237093 | Informe de selección CO1.AWD.2237093 | 06/May/2025 - 12:23 pm |  | - |
+| General | CO1.MSG.7838751 | ADENDA No 2 MODIFICACIÓN CRONOGRAMA | 06/May/2025 - 12:19 pm |  | - |
+| Avisos | CO1.REQ.8133385 | Publicación modificación | 06/May/2025 - 12:17 pm |  |  |
+| Reporte preliminar | CO1.AWD.2237093 | Informe de evaluación 2 CO1.AWD.2237093 | 05/May/2025 - 09:20 am |  | - |
+| General | CO1.MSG.7820981 | Subsanacion | 30/Abr/2025 - 04:27 pm |  | - |
+| Avisos | CO1.MSG.7815965 | Publicación de la lista de ofertas del proceso MC267-DIGSA-DMBUG-2025. | 29/Abr/2025 - 06:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237093 | Informe de evaluación 1 CO1.AWD.2237093 | 29/Abr/2025 - 06:58 pm |  | - |
+| General | CO1.MSG.7809152 | ADENDA N.1 MODIFICACION CRONOGRAMA | 28/Abr/2025 - 06:33 pm |  | - |
+| Avisos | CO1.REQ.8133385 | Publicación modificación | 28/Abr/2025 - 06:30 pm |  |  |
+| General | CO1.MSG.7798215 | ACTA DE CIERRE | 25/Abr/2025 - 10:08 am |  | - |
+| Avisos | CO1.MSG.7798185 | La lista de oferentes del proceso MC267-DIGSA-DMBUG-2025 publicada por DISPENSARIO MEDICO DE BUCARAMANGA* | 25/Abr/2025 - 10:05 am |  | - |
+| General | CO1.MSG.7797629 | RE: OBSERVACION NO HAY PRECIOS DE REFERENCIA | 25/Abr/2025 - 09:06 am |  | - |
+| General | CO1.MSG.7794850 | RESPUESTA A MANIFESTACIONES A LIMITACIÓN DE MIPYMES EXTEMPORANEAS | 24/Abr/2025 - 04:23 pm |  | - |
+| General | CO1.MSG.7794824 | RESPUESTA aclaracion presupuesto | 24/Abr/2025 - 04:19 pm |  | - |
+| General | CO1.MSG.7774762 | AVISO DE NO LIMITACION A MIPYMES NACIONALES | 21/Abr/2025 - 04:04 pm |  | - |

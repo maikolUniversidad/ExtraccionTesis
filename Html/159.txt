@@ -1,0 +1,274 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68097949ae7e19.73387002
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 06:54:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Requiere contratar la adquisición de Nodos, repuestos y el mantenimiento para los equipos que conforman la red MPLS de la RIC (Incluye: Suministro de los bienes, transporte, mano de obra, elementos y accesorios necesarios para su instalación, implementación, configuración, pruebas, mantenimiento y puesta en funcionamiento) a todo costo y todo incluido, de acuerdo con las especificaciones técnicas RESERVADAS del ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201404 - Tarjetas de interface de red
+
+**Códigos adicionales UNSPSC:**
+
+43201407 - Tarjetas periféricas controladoras,43222609 - Enrutadores (routers) de red,43222635 - Kit de actualización de equipo de redes,43222814 - Kits de instalación o modificación de equipos de telecomunicaciones,72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,81161712 - Servicio de voz en la red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Interventoría - Consultoría - Estudios y diseños de obras de telecomunicaciones, -Diseño, desarrollo y/o Mantenimiento de software, -Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "99,101,102,105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222609 | ADQUISICIÓN NODOS MPLS DE ACCESO (7705 SAR-8) CGDJ6 | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $630.000.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 06:27 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/Abr/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+07/May/2025 - 07:42 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+07/May/2025 - 08:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+07/May/2025 - 08:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/May/2025 - 08:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés:**
+
+09/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+14/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+15/May/2025 - 02:03 pm
+
+**Informe de presentación de Ofertas:**
+
+15/May/2025 - 02:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+30/May/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+04/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+10/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/Jun/2025 - 07:00 am | 28/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 06/Jun/2025 - 07:00 am | 28/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 06/Jun/2025 - 07:00 am | 28/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 06/Jun/2025 - 07:00 am | 28/Nov/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NEWSAT SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 628,374,992
+
+**Informes proceso de selección CO1.AWD.2259321 de 30/May/2025 - 02:48 am. Valor $628.374.992**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 22/May/2025 - 11:08 am |  |
+| Informe de evaluación | 22/May/2025 - 11:08 am |  |
+| Informe de evaluación | 30/May/2025 - 02:33 pm |  |
+| Informe de evaluación | 30/May/2025 - 02:33 pm |  |
+| Informe de selección | 30/May/2025 - 02:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2259321**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NEWSAT SAS * **Tipo documento:** NIT * **Documento:** 830513366 | * **Nombre:** CARLOS ENRIQUE ROSERO * **Tipo documento:** NIT * **Documento:** 6386024 | - Distrito Capital de Bogotá | $628.374.992 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2259321****
+
+**Cuantía a la firma del contrato:**
+
+$ 628,374,992
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2259321 | Informe de selección CO1.AWD.2259321 | 30/May/2025 - 02:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2259321 | Informe de evaluación 2 CO1.AWD.2259321 | 30/May/2025 - 02:33 pm |  | - |
+| Objeciones | CO1.MSG.7927122 | [Respondido] RE:SUBSANACIÓN - CERTIFICADO BANCARIO | 30/May/2025 - 02:33 pm |  | - |
+| Objeciones | CO1.MSG.7927122 | SUBSANACIÓN - CERTIFICADO BANCARIO | 23/May/2025 - 08:48 am |  | - |
+| Avisos | CO1.MSG.7921596 | Publicación de la lista de ofertas del proceso 187COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 22/May/2025 - 11:11 am |  | - |
+| Reporte preliminar | CO1.AWD.2259321 | Informe de evaluación 1 CO1.AWD.2259321 | 22/May/2025 - 11:08 am |  | - |
+| Avisos | CO1.MSG.7888791 | La lista de oferentes del proceso 187COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 15/May/2025 - 03:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7857567 | OBSERVACION AL PLIEGO DEFINITIVO | 09/May/2025 - 08:46 am |  | - |

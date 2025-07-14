@@ -1,0 +1,218 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE LETICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68503a41de6af8.78884536
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPIO DE LETICIA - Contratación mínima cuantía MC-039-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-16 10:37:51
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+INTERVENTORÍA TÉCNICA, ADMINISTRATIVA, LEGAL, FINANCIERA, CONTABLE Y AMBIENTAL PARA LA FASE DE IMPLEMENTACIÓN DEL SISTEMA DE EMERGENCIA Y SEGURIDAD - SIES CIRCUITO CERRADO DE TELEVISIÓN (CCTV)- DE LA CIUDAD DE LETICIA EN EL MARCO DEL CONVENIO SUSCRITO ENTRE EL MUNICIPIO DE LETICIA Y EL MINISTERIO DEL INTERIOR No. CD 13402023
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Amazonas : Leticia
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+77101800 - Auditoría ambiental
+
+**Códigos adicionales UNSPSC:**
+84111500 - Servicios contables,80101600 - Gerencia de proyectos,93151600 - Finanzas públicas
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de obras de telecomunicaciones", "licicodigos": "101" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+120 Días
+
+**Dirección de ejecución del contrato:**
+calle 10 # 10- 47 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Interventoría
+
+**Plazo del contrato:**
+36 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 77101700, 80111601, 84111502, 94131603 | LINEA 802 - INTERVENTORÍA TÉCNICA, ADMINISTRATIVA, LEGAL, FINANCIERA, CONTABLE Y AMBIENTAL A LAS ETAPAS DE ESTUDIOS Y DISEÑOS E IMPLEMENTACIÓN DEL SISTEMA DE EMERGENCIA Y SEGURIDAD - SIES CIRCUITO CERRADO DE TELEVISIÓN (CCTV)- DE LA CIUDAD DE LETICIA EN EL MARCO DEL CONVENIO SUSCRITO ENTRE EL MUNICIPIO DE LETICIA Y EL MINISTERIO DEL INTERIOR No. CD 13402023. | Mínima cuantía | Recursos propios | $39.858.000 | Oficina Asesora Juridica Alcaldia de Leticia |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 10:26 am
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 06:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 06:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+×Close
+
+#### Mis notas
+
+Hoy 10:26 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

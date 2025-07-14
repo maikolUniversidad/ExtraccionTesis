@@ -1,0 +1,133 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA GABRIELA MISTRAL.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68561d45d59369.03679958
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 20:42:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COMPRA DE TELEVISORES, IMPRESORA, CABINA Y MICROFONOS PARA LAS SEDES DE LA IE GABRIELA MISTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Jamundí
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161505 - Televisores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Electrodomésticos", "licicodigos": "105,115,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREGIMIENTO DE LA LIBERIA Jamundí Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+20/Jun/2025 - 09:30 pm
+
+**Fecha límite de presentación de ofertas:**
+
+24/Jun/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+24/Jun/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8073409 | La lista de oferentes del proceso IEGM-006-2025 publicada por INSTITUCION EDUCATIVA GABRIELA MISTRAL. | 24/Jun/2025 - 03:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8069211 | SOLICITUD LIMITACION MIPYME DEPARTAMENTAL | 21/Jun/2025 - 10:56 pm |  | - |

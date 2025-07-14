@@ -1,0 +1,94 @@
+Title: Licitaciones - ANM - Solicitud de información a los Proveedores (SECOPII) SIP-048-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6825064dee1713.39885527
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:54:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Renovar las licencias de software Adobe Creative Cloud y Adobe Pro actualmente asignadas a la Agencia Nacional de Minería (ANM) bajo su VIP ID institucional, y adquirir nuevas licencias de software Adobe Creative Cloud y Adobe Pro.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 03:54 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2028 - 05:00 pm

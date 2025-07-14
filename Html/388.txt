@@ -1,0 +1,309 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681943b6181a65.79751674
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-22 06:39:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+LA ADQUISICIÓN DE LICENCIA PARA EL FORTALECIMIENTO DE LA HERRAMIENTA DE LA MESA DE AYUDA; DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS DEL ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233203 | ADQUISICIÓN Y FORTALECIMINETO DE LICENCIA DE LA HERRAMINETA MESA DE AYUDA | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $150.000.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+05/May/2025 - 05:59 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+05/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+15/May/2025 - 11:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+16/May/2025 - 03:10 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+16/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+16/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+21/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+28/May/2025 - 02:35 pm
+
+**Informe de presentación de Ofertas:**
+
+28/May/2025 - 02:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+19/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+25/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+27/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 18/Jun/2025 - 11:59 pm | 31/Jul/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 18/Jun/2025 - 12:00 am | 31/Jul/2025 - 11:59 pm |
+| Calidad del servicio | 35,00 | 18/Jun/2025 - 11:59 pm | 31/Jul/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GoTec SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 129,304,014
+
+**Informes proceso de selección CO1.AWD.2278029 de 20/Jun/2025 - 03:40 am. Valor $129.304.014**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 11/Jun/2025 - 02:37 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 02:37 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 02:37 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 04:49 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 04:49 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 04:49 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 03:04 pm |  |
+| Informe de selección | 20/Jun/2025 - 03:40 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2278029**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GLOBAL OPEN TECHNOLOGIES SAS * **Tipo documento:** NIT * **Documento:** 900461960 | * **Nombre:** Javier Mauricio Ardila Garzon * **Tipo documento:** * **Documento:** 93398319 | Bogotá - Distrito Capital de Bogotá | $129.304.014 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2278029****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7998425
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 129,304,014
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2278029 | Informe de selección CO1.AWD.2278029 | 20/Jun/2025 - 03:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278029 | Informe de evaluación 3 CO1.AWD.2278029 | 17/Jun/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.8039147 | RESPUESTA OBSERVACION AL INFORME DE EVALUACION PRESENTADA POR GLOBAL OPEN TECHNOLOGIES SAS | 16/Jun/2025 - 05:02 pm |  | - |
+| Avisos | CO1.REQ.8325125 | Publicación modificación | 16/Jun/2025 - 04:01 pm |  |  |
+| General | CO1.MSG.8038155 | ADENDA No 1 | 16/Jun/2025 - 03:48 pm |  | - |
+| General | CO1.MSG.8031834 | CUADERNILLO No. 2 PREGUNTAS Y RESPUESTAS | 13/Jun/2025 - 04:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278029 | Informe de evaluación 2 CO1.AWD.2278029 | 13/Jun/2025 - 04:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278029 | Informe de evaluación 1 CO1.AWD.2278029 | 11/Jun/2025 - 02:37 pm |  | - |
+| General | CO1.MSG.8015646 | CUADERNILLO DE RESPUESTA A LAS OBSERVACIONES | 11/Jun/2025 - 02:06 pm |  | - |
+| Objeciones | CO1.MSG.7997007 | GoTec 2 - Respuesta Observaciones | 06/Jun/2025 - 06:21 pm |  | - |
+| Objeciones | CO1.MSG.7996920 | GoTec - Respuesta evaluación | 06/Jun/2025 - 06:08 pm |  | - |
+| Objeciones | CO1.MSG.7996907 | Respuesta Observaciones | 06/Jun/2025 - 06:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271305 | Informe de evaluación 1 CO1.AWD.2271305 | 04/Jun/2025 - 08:06 am |  | - |
+| Avisos | CO1.MSG.7952864 | La lista de oferentes del proceso 188COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 28/May/2025 - 03:28 pm |  | - |
+| Avisos | CO1.MSG.7952874 | Publicación de la lista de ofertas del proceso 188COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 28/May/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.7925473 | RE: FORMULARIO RESPUESTA DE OBSERVACIONES DEFINITIVOS | 22/May/2025 - 05:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7882116 | Respuesta a las Observaciones Proyecto Pliego 188COGFM DIADF 2025 | 14/May/2025 - 03:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7864470 | Observaciones | 12/May/2025 - 08:51 am |  | - |
+| Aclaraciones | CO1.MSG.7864069 | Observaciones Proyecto Pliego 188COGFM DIADF 2025 | 12/May/2025 - 07:55 am |  | - |

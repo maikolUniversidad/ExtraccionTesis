@@ -1,0 +1,189 @@
+Title: Licitaciones - INSTITUTO CARO Y CUERVO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ca22c1ccf06.83471924
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 17:12:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Suministrar certificados de firmas digitales de función pública, certificadas en token criptográfico y/o servidor seguro, requeridas para el cargue de información, realizar transacciones en SIIF Nación y firmar documentos oficiales del Instituto Caro y Cuervo
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233201 - Software de servidor de autenticación
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,43211715 - Terminales portátiles de ingreso de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 10 # 4-69 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+195 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 04:54 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 06:30 pm
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 06:31 pm
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 06:35 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:59 pm |

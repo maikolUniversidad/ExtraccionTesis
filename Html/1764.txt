@@ -1,0 +1,101 @@
+Title: Licitaciones - Consejo Nacional Electoral
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b3677685455.48819448
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:36:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestación de servicios para la elaboración y ejecución de la estrategia publicitaria para la promoción, divulgación y comunicaciones del proceso electoral de los Consejos Municipales y Locales de Juventud en la vigencia 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101801 - Servicios de campañas publicitarias
+
+**Códigos adicionales UNSPSC:**
+
+82101802 - Servicios de producción publicitaria,82101602 - Publicidad en televisión,82101603 - Publicidad en internet,82101902 - Inserción en televisión,82101903 - Inserción en internet,83121701 - Servicios relacionados con la televisión,83121702 - Servicios relacionados con la radio,83121703 - Servicios relacionados con el internet,82101501 - Publicidad en vallas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mercadeo, ventas y publicidad, -Televisión - Radio - Prensa, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "160,198,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 32-42 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 06:35 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8461188 | Publicación modificación | 01/Jul/2025 - 12:10 pm |  |  |
+| General | CO1.MSG.8099915 | RE: PLAZO PARA PRESENTAR COTIZACION | 01/Jul/2025 - 12:00 pm |  | - |

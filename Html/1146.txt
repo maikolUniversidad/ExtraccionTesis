@@ -1,0 +1,284 @@
+Title: Licitaciones - FONDO ROTATORIO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d2e960bbdf9.73153065
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 06:29:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ALQUILER DE EQUIPOS CELULARES, QUE INCLUYA PLAN DE DATOS Y MINUTOS PARA EL FONDO ROTATORIO DE LA POLICÍA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83111603 - Servicios de telefonía celular
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Telefonía móvil, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "405,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 66ª N° 43–18 Barrio Salitre – El Greco Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+20/May/2025 - 08:20 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 12:01 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 02:02 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 30/May/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 pm | 30/May/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/May/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC. / POLICÍA NACIONAL - DIJIN | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 17,500,000
+
+**Informes proceso de selección CO1.AWD.2266457 de 09/Jun/2025 - 06:04 am. Valor $17.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 04:22 pm |  |
+| Informe de evaluación | 29/May/2025 - 04:22 pm |  |
+| Informe de evaluación | 29/May/2025 - 04:22 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 02:09 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 02:09 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 02:09 pm |  |
+| Informe de selección | 09/Jun/2025 - 06:04 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266457**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC. / POLICÍA NACIONAL - DIJIN * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 830122566 | * **Nombre:** JAVIER BRAVO HERNÁNDEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79383447 | Bogotá - Distrito Capital de Bogotá | $17.500.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266457****
+
+**Contrato CTO 055-2-25 de COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC. / POLICÍA NACIONAL - DIJIN:**
+
+**ID del contrato en SECOP:**
+
+CTO 055-2-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ALQUILER DE EQUIPOS CELULARES, QUE INCLUYA PLAN DE DATOS Y MINUTOS PARA EL FONDO ROTATORIO DE LA POLICIA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 83111603 | ALQUILER DE EQUIPOS CELULARES, QUE INCLUYA PLAN DE DATOS Y MINUTOS PARA EL FONDO ROTATORIO DE LA POLICIA | 1,00 | UN | 17.937.626,00 | 17.500.000,00 | 17.937.626,00 | 17.500.000,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+6 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 17,500,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACIÓN DE OFERTA 0 55 - 2. 25 MC-012-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266457 | Informe de selección CO1.AWD.2266457 | 09/Jun/2025 - 06:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266457 | Informe de evaluación 2 CO1.AWD.2266457 | 05/Jun/2025 - 02:09 pm |  | - |
+| Objeciones | CO1.MSG.7970947 | [Respondido] RE:SUBSNACION COLOMBIA TELECOMUNICACIONES | 05/Jun/2025 - 02:07 pm |  | - |
+| Objeciones | CO1.MSG.7970947 | SUBSNACION COLOMBIA TELECOMUNICACIONES | 03/Jun/2025 - 04:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266457 | Informe de evaluación 1 CO1.AWD.2266457 | 29/May/2025 - 04:22 pm |  | - |
+| Avisos | CO1.MSG.7942379 | Publicación de la lista de ofertas del proceso MC-012-2025. | 27/May/2025 - 10:10 am |  | - |
+| Avisos | CO1.MSG.7942378 | La lista de oferentes del proceso MC-012-2025 publicada por FONDO ROTATORIO DE LA POLICIA NACIONAL | 27/May/2025 - 10:09 am |  | - |
+| Avisos | CO1.REQ.8288068 | Publicación modificación | 23/May/2025 - 05:43 pm |  |  |
+| General | CO1.MSG.7931664 | Documento de respuesta a observaciones | 23/May/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7926468 | RE: Observaciones al procesos MC-012-2025 | 22/May/2025 - 10:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7916267 | Observaciones al procesos MC-012-2025 | 21/May/2025 - 02:47 pm |  | - |

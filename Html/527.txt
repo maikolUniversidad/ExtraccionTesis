@@ -1,0 +1,278 @@
+Title: Licitaciones - SECRETARIA DE TRANSITO Y TRANSPORTE DEL MUNICIPIO DE BUENAVENTURA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685bf4ab25aae4.07497473
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:56:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE RADIOS, TELEVISIÓN, VIDEOS Y CÁMARAS DIGITALES, ELEMENTOS DE COMUNICACIÓN PARA EL CUERPO OPERATIVO DE AGENTES Y LAS INSTALACIONES DE LA SECRETARÍA DE TRÁNSITO Y TRANSPORTE DISTRITAL DE BUENAVENTURA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Buenaventura
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191510 - Radios de dos vías
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Equipos audiovisuales, -Electrodomésticos", "licicodigos": "110,115,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 10 # 5A-12 Buenaventura Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43191510 | ADQUISICION DE RADIOS, TELEVISION, VIDEOS Y CAMARAS DIGITALES ELEMENTOS DE COMUNICACION PARA EL CUERPO OPERATIVO DE AGENTES Y LAS INSTALACIONES DE LA SECRETARÍA DE TRANSITO Y TRANSPORTE DISTRITAL DE BUENAVENTURA | Mínima cuantía | Recursos propios | $92.000.000 | OFICINA DE CONTRATACION STT |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 07:42 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 11:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 12:00 pm | 09/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jul/2025 - 12:00 pm | 09/Nov/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** OPERACIONES DILA SAS | Buenaventura - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 90,219,500
+
+**Informes proceso de selección CO1.AWD.2297320 de 07/Jul/2025 - 08:08 am. Valor $90.219.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jul/2025 - 05:02 pm |  |
+| Informe de selección | 07/Jul/2025 - 08:08 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2297320**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** OPERACIONES DILA SAS * **Tipo documento:** NIT * **Documento:** 901191969 | * **Nombre:** INGRID LUCYED MORENO CORTES * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1006194745 | Buenaventura - Valle del Cauca | $90.219.500 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2297320****
+
+**Contrato STTD-2025-012 de OPERACIONES DILA SAS:**
+
+**ID del contrato en SECOP:**
+
+STTD-2025-012
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE RADIOS, TELEVISIÓN, VIDEOS Y CÁMARAS DIGITALES, ELEMENTOS DE COMUNICACIÓN PARA EL CUERPO OPERATIVO DE AGENTES Y LAS INSTALACIONES DE LA SECRETARÍA DE TRÁNSITO Y TRANSPORTE DISTRITAL DE BUENAVENTURA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43191510 | ADQUISICIÓN DE RADIOS, TELEVISIÓN, VIDEOS Y CÁMARAS DIGITALES, ELEMENTOS DE COMUNICACIÓN PARA EL CUERPO OPERATIVO DE AGENTES Y LAS INSTALACIONES DE LA SECRETARÍA DE TRÁNSITO Y TRANSPORTE DISTRITAL DE BUENAVENTURA | 1,00 | UN | 92.000.000,00 | 90.219.500,00 | 92.000.000,00 | 90.219.500,00 |
+
+**Fecha de terminación del contrato:**
+
+09/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+5 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 90,219,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 7- ACEPTACION DE LA OFERTA_ADQUISICION DE RADIOS.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2297320 | Informe de selección CO1.AWD.2297320 | 07/Jul/2025 - 08:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297320 | Informe de evaluación 1 CO1.AWD.2297320 | 03/Jul/2025 - 05:01 pm |  | - |
+| Avisos | CO1.REQ.8461899 | Publicación modificación | 02/Jul/2025 - 05:15 pm |  |  |
+| Avisos | CO1.MSG.8093132 | La lista de oferentes del proceso STTD-MC-2025-011 publicada por SECRETARIA DE TRANSITO Y TRANSPORTE DEL MUNICIPIO DE BUENAVENTURA | 27/Jun/2025 - 12:10 pm |  | - |
+| General | CO1.MSG.8085655 | RESPUESTA A OBSERVACIONES | 26/Jun/2025 - 10:42 am |  | - |
+| General | CO1.MSG.8085688 | AVISO LIMITACION MIPYMES | 26/Jun/2025 - 10:42 am |  | - |
+| Aclaraciones | CO1.MSG.8078314 | observacion | 25/Jun/2025 - 10:23 am |  | - |

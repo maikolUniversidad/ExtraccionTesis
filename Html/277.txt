@@ -1,0 +1,258 @@
+Title: Licitaciones - SENA REGIONAL ANTIOQUIA Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d928b4fb55.84904824
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:11:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+5_9402_204 COMPRAR MÁQUINAS Y EQUIPOS REQUERIDOS PARA EL DESARROLLO DE PROYECTOS DE BASE TECNOLÓGICA DEL TECNOPARQUE NODO MEDELLIN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60106400 - Equipo de enseñanza de electrónica y suministros
+
+**Códigos adicionales UNSPSC:**
+
+41113600 - Equipo de medición y comprobación eléctrica,43211500 - Computadores,41112200 - Instrumentos de medida de temperatura y calor,60106100 - Materiales de enseñanza vocacional,60106200 - Materiales de enseñanza de tecnología
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Electrónica - Robótica, -Maquinaria industrial, -Básculas, instrumentos de medida, observación y ensayo", "licicodigos": "212,228,272" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 51 No 57-70 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+138 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 300,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+17/Jun/2025 - 03:59 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+17/Jun/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Jun/2025 - 11:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/Jun/2025 - 10:34 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/Jun/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/Jun/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jul/2025 - 11:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jul/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+08/Jul/2025 - 11:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jul/2025 - 09:00 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jul/2025 - 09:30 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 11:00 pm
+
+**Apertura del sobre económico:**
+
+21/Jul/2025 - 09:01 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jul/2025 - 03:00 pm | 31/Mar/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 25/Jul/2025 - 03:00 pm | 31/Mar/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+21/Jul/2025 - 05:00 pm
+
+**Fecha de inicio:**
+
+22/Jul/2025 - 09:00 am
+
+**Fecha fin:**
+
+22/Jul/2025 - 09:50 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2304216 | Informe de evaluación 1 CO1.AWD.2304216 | 11/Jul/2025 - 09:21 am |  | - |
+| Avisos | CO1.MSG.8140060 | Publicación de la lista de ofertas del proceso SASI-ANT-CSGE-0002-2025 (Presentación de oferta). | 09/Jul/2025 - 09:24 am |  | - |
+| Avisos | CO1.MSG.8139904 | La lista de oferentes del proceso SASI-ANT-CSGE-0002-2025 (Presentación de oferta) publicada por SENA REGIONAL ANTIOQUIA Grupo de Apoyo Administrativo Mixto | 09/Jul/2025 - 09:09 am |  | - |
+| Aclaraciones | CO1.MSG.8120779 | RE: Observaciones | 04/Jul/2025 - 01:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8117599 | Observaciones | 03/Jul/2025 - 09:53 pm |  | - |
+| General | CO1.MSG.8105400 | RE: Solicitud limitacion mipymes | 02/Jul/2025 - 09:57 am |  | - |
+| General | CO1.MSG.8088381 | limitacion a mipymes | 26/Jun/2025 - 03:56 pm |  | - |
+| General | CO1.MSG.8088366 | RESPUESTA A OBSERVACIONES AL PROYECTO DE PLIEGO | 26/Jun/2025 - 03:55 pm |  | - |
+| Aclaraciones | CO1.MSG.8088351 | RE: Observaciones a prepliegos | 26/Jun/2025 - 03:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8083825 | Observaciones a prepliegos | 25/Jun/2025 - 10:34 pm |  | - |

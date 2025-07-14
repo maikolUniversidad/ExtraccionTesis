@@ -1,0 +1,118 @@
+Title: Licitaciones - COLEGIO LUIS LOPEZ DE MESA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680967c1b52fa5.54745252
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-24 09:07:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA PRESTACIÓN DE SERVICIOS DE SISTEMATIZACIÓN DE BOLETINES DE RENDIMIENTO ESCOLAR A TRAVÉS DEL SOFTWARE TEXCOMPUTO, PROPIEDAD DE LA IED COLEGIO LUIS LÓPEZ DE MESA , PARA 409 ESTUDIANTES CICLO V, VIGENCIA 2025, ENTREGA IMPRESA DE LOS CORRESPONDIENTES INFORMES Y SOFTWARE ACTUALIZADO. PARA EL COLEGIO LUIS LOPEZ DE MESA I.E.D.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 65 H Sur No 78 03 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+261 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 04:25 pm
+
+**Fecha de Firma del Contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+23/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8157573 | Publicación modificación | 24/Abr/2025 - 08:11 am |  |  |

@@ -1,0 +1,246 @@
+Title: Licitaciones - INSTITUTO DE CULTURA Y TURISMO DE MANIZALES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e2c8f736949.46515875
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-06 20:18:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE EQUIPOS E INSUMOS DE TECNOLOGIA PARA DOTAR DEPENDENCIAS DE LA PROMOTORA DE EVENTOS Y TURISMO S.A.S., SEGÚN LAS ESPECIFICACIONES DEL PRESENTE PROCESO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador,43201803 - Unidades de disco duro,39121014 - Bancos de capacitores,43211708 - Mouse o bola de seguimiento para computador,43211706 - Teclados,81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro partes de computador y/o Periféricos", "licicodigos": "103,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+EXPOFERIAS KILOMETRO 2 VIA AL MAGDALENA Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43212100, 43201803, 39121014, 43211708, 43211706, 81112501 | COMPRA DE EQUIPOS E INSUMOS DE TECNOLOGIA PARA DOTAR DEPENDENCIAS DE LA PROMOTORA DE EVENTOS Y TURISMO S.A.S., SEGÚN LAS ESPECIFICACIONES DEL PRESENTE PROCESO. | Mínima cuantía | Recursos propios | $19.352.655 | GRUPO CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 02:34 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 02:35 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 02:35 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 02:35 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 02:35 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 02:35 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 02:35 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 02:35 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 02:35 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 02:36 pm
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 02:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 02:35 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 02:35 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 02:35 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jun/2025 - 12:00 pm | 18/Oct/2025 - 12:00 pm |
+| Calidad del servicio | 20,00 | 03/Jun/2025 - 12:00 pm | 18/Oct/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GTI-JURIDICA | Manizales - Caldas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 17,935,203
+
+**Informes proceso de selección CO1.AWD.2264003 de 28/May/2025 - 09:07 am. Valor $17.935.203**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 08:59 am |  |
+| Informe de selección | 28/May/2025 - 09:07 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264003**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GTI ALBERTO ALVAREZ LOPEZ SAS * **Tipo documento:** NIT * **Documento:** 901039927 | * **Nombre:** ALBERTO ALVAREZ LOPEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10271281 | Manizales - Caldas | $17.935.203 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264003****
+
+**Cuantía a la firma del contrato:**
+
+$ 17,935,203
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264003 | Informe de selección CO1.AWD.2264003 | 28/May/2025 - 09:07 am |  | - |
+| Reporte preliminar | CO1.AWD.2264003 | Informe de evaluación 1 CO1.AWD.2264003 | 27/May/2025 - 08:59 am |  | - |
+| Avisos | CO1.REQ.8298390 | Publicación modificación | 22/May/2025 - 03:50 pm |  |  |
+| Aclaraciones | CO1.MSG.7923828 | LIMITACIÓN A MIPYMES DEPARTAMENTALES | 22/May/2025 - 03:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7920412 | RE: Solicitud de informacion sobre retenciones a realizar | 22/May/2025 - 09:23 am |  | - |
+| Aclaraciones | CO1.MSG.7919603 | Solicitud de informacion sobre retenciones a realizar | 21/May/2025 - 11:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7919599 | Observaciones. | 21/May/2025 - 11:43 pm |  | - |

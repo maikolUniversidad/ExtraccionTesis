@@ -1,0 +1,358 @@
+Title: Licitaciones - GOBIERNO DEPARTAMENTAL - Subasta Inversa SUB-042-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68278f4e7f0b68.01793219
+
+Markdown Content:
+Licitaciones - GOBIERNO DEPARTAMENTAL - Subasta Inversa SUB-042-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-18 06:28:56
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR EL SUMINISTRO DE ELEMENTOS DE ARCHIVO Y PAPELERIA E INSUMOS DE OFICINA PARA LA GOBERNACIÓN DEL TOLIMA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Tolima : Ibagué
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+12171703 - Tintas
+
+**Códigos adicionales UNSPSC:**
+13102000 - Plásticos termoplásticos,14111506 - Papel para impresión de computadores,14111700 - Productos de papel para uso personal,14111813 - Formatos o libros de correspondencia,14121500 - Cartón y papel para embalaje,24112500 - Cartón ondulado y otros materiales para distribución,31162600 - Ganchos,31201500 - Cinta adhesiva,43201803 - Unidades de disco duro,43202001 - Discos compactos cd,43211700 - Dispositivos informáticos de entrada de datos,44101602 - Máquinas perforadoras o para unir papel,44111515 - Cajas u organizadores de almacenamiento de archivos,44121613 - Removedores de grapas (saca ganchos),44121704 - Esferos de punta redonda,44121804 - Borradores,44122003 - Carpetas,44122104 - Clips para papel,55121500 - Rótulos,55121600 - Etiquetas,60105705 - Cinta pegante libre de ácido
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Productos para archivo", "licicodigos": "127,312,313" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+carrera 3 calle entre calle 10 y 11 edificio gobernacion del tolima Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 380,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 12171703, 13102000, 14111506, 14111700, 14111813, 14121500, 24112500, 31162600, 31201500, 43201803, 43202001, 43211700, 44101602, 44111515, 44121613, 44121704, 44121804, 44122003, 44122104, 55121500, 55121600, 60105705 | SA-TH-0167 "CONTRATAR EL SUMINISTRO DE ELEMENTOS DE ARCHIVO Y PAPELERIA E INSUMOS DE OFICINA PARA LA GOBERNACIÓN DEL TOLIMA" | Selección abreviada subasta inversa | Recursos propios | $380.000.000 | SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 01:37 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 03:00 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 03:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/May/2025 - 11:01 am
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 03:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 04:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 04:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+03/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+03/Jun/2025 - 09:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+05/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+12/Jun/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+17/Jun/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+18/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 24/Jun/2025 - 01:00 am | 19/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 24/Jun/2025 - 01:00 am | 16/Oct/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JDI SAS | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 380,000,000
+
+**Informes proceso de selección CO1.AWD.2278133 de 16/Jun/2025 - 04:08 am. Valor $380.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 11/Jun/2025 - 12:33 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 12:33 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 02:38 pm |  |
+| Informe de selección | 16/Jun/2025 - 04:08 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2278133**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA Y SUMINISTROS JDI SAS * **Tipo documento:** NIT * **Documento:** 901800130 | * **Nombre:** JULIO CESAR BELTRAN GARZON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93386132 | Ibagué - Tolima | $380.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2278133****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7987394
+
+**Estado del contrato:**
+
+Borrador
+
+**Cuantía a la firma del contrato:**
+
+$ 380,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+12/Jun/2025 - 09:00 am
+
+**Fecha de inicio:**
+12/Jun/2025 - 11:00 am
+
+**Fecha fin:**
+12/Jun/2025 - 11:30 am
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2278133 | Informe de selección CO1.AWD.2278133 | 16/Jun/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.8024251 | ADENDA 001 | 12/Jun/2025 - 03:58 pm |  | - |
+| Avisos | CO1.REQ.8326551 | Publicación modificación | 12/Jun/2025 - 03:57 pm |  |  |
+| Reporte preliminar | CO1.AWD.2278133 | Informe de evaluación 2 CO1.AWD.2278133 | 12/Jun/2025 - 02:38 pm |  | - |
+| Avisos | CO1.MSG.8020771 | Publicación de la lista de ofertas del proceso SUB-042-2025 (Presentación de oferta). | 12/Jun/2025 - 09:53 am |  | - |
+| Avisos | CO1.MSG.8020767 | La lista de oferentes del proceso SUB-042-2025 (Presentación de oferta) publicada por GOBIERNO DEPARTAMENTAL | 12/Jun/2025 - 09:52 am |  | - |
+| Reporte preliminar | CO1.AWD.2278133 | Informe de evaluación 1 CO1.AWD.2278133 | 11/Jun/2025 - 12:33 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272833 | Informe de evaluación 1 CO1.AWD.2272833 | 05/Jun/2025 - 02:22 pm |  | - |
+| Avisos | CO1.MSG.7971412 | Publicación de la lista de ofertas del proceso SUB-042-2025 (Presentación de oferta). | 03/Jun/2025 - 09:32 am |  | - |
+| Avisos | CO1.MSG.7971383 | La lista de oferentes del proceso SUB-042-2025 (Presentación de oferta) publicada por GOBIERNO DEPARTAMENTAL | 03/Jun/2025 - 09:29 am |  | - |
+| General | CO1.MSG.7959402 | RESPUESTA OBSERVACIONES PLIEGO | 29/May/2025 - 02:13 pm |  | - |
+| General | CO1.MSG.7959383 | RESPUESTAS A LAS SOLICITUDES MIPYMES | 29/May/2025 - 02:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7908162 | observacion No 2 Tecnica | 20/May/2025 - 12:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7907511 | observacion proyecto de pliegos | 20/May/2025 - 11:22 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:17 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

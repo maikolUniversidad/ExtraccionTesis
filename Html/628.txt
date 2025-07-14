@@ -1,0 +1,241 @@
+Title: Licitaciones - CONGRESO DE LA REPÚBLICA - HONORABLE SENADO DE LA REPÚBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68195311a80ea6.95635707
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 06:39:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LA RENOVACIÓN DEL LICENCIAMIENTO DE LA PLATAFORMA DE VIDEOCONFERENCIAS ZOOM CON TODAS SUS FUNCIONALIDADES, PARA LA REALIZACIÓN DE SESIONES PLENARIAS, COMISIONES Y REUNIONES VIRTUALES EN EL MARCO DEL PROYECTO DE INVERSIÓN FORTALECIMIENTO Y MODERNIZACIÓN DE LOS SISTEMAS DE INFORMACIÓN Y DE LA INFRAESTRUCTURA TECNOLÓGICA DEL SENADO DE LA REPÚBLICA, NACIONAL CON TODAS SUS FUNCIONALIDADES, DE ACUERDO A LO PREVISTO EN EL ANEXO TÉCNICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 5 No. 10-69 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111811 | SERVICIO SOPORTE MESA AYUDA | Contratación directa | Presupuesto de entidad nacional | $1.680.000.000 | DIRECCIÓN GENERAL ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 06:56 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+07/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+07/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+08/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+08/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+08/May/2025 - 10:06 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 05:05 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+12/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 05:00 pm | 31/May/2027 - 05:00 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 05:00 pm | 31/May/2027 - 05:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 15/May/2025 - 05:00 pm | 31/May/2027 - 05:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SYS IP S.A.S. | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 48,591,801
+
+**Informes proceso de selección CO1.AWD.2246131 de 12/May/2025 - 07:25 am. Valor $48.591.801**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 05:28 pm |  |
+| Informe de evaluación | 08/May/2025 - 05:28 pm |  |
+| Informe de evaluación | 08/May/2025 - 05:28 pm |  |
+| Informe de selección | 12/May/2025 - 07:25 pm |  |
+| Informe de selección | 12/May/2025 - 07:25 pm |  |
+| Informe de selección | 12/May/2025 - 07:25 pm |  |
+| Informe de selección | 12/May/2025 - 07:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246131**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** S&S IP S.A.S. * **Tipo documento:** NIT * **Documento:** 900345534 | * **Nombre:** ARACELLY HOYOS GARCES * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 31131603 | - Distrito Capital de Bogotá | $48.591.801 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246131****
+
+**Cuantía a la firma del contrato:**
+
+$ 48,591,801
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246131 | Informe de selección CO1.AWD.2246131 | 12/May/2025 - 07:25 pm |  | - |
+| Avisos | CO1.REQ.8211932 | Publicación modificación | 08/May/2025 - 06:37 pm |  |  |
+| General | CO1.MSG.7856385 | ADENDA | 08/May/2025 - 06:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246131 | Informe de evaluación 1 CO1.AWD.2246131 | 08/May/2025 - 05:28 pm |  | - |
+| Avisos | CO1.MSG.7851429 | Publicación de la lista de ofertas del proceso IP-SEN-01-2025. | 08/May/2025 - 10:08 am |  | - |
+| Avisos | CO1.MSG.7851426 | La lista de oferentes del proceso IP-SEN-01-2025 publicada por CONGRESO DE LA REPÚBLICA - HONORABLE SENADO DE LA REPÚBLICA | 08/May/2025 - 10:08 am |  | - |
+| General | CO1.MSG.7849217 | RESPUESTA DE OBSERVACIONES Y AVISO | 07/May/2025 - 06:39 pm |  | - |
+| Avisos | CO1.REQ.8211932 | Publicación modificación | 07/May/2025 - 06:34 pm |  |  |

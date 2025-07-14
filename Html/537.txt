@@ -1,0 +1,247 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bc7a0eb26d2.71855550
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:37:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar servicios profesionales para el desarrollo de nuevas funcionalidades, soporte y mantenimiento del aplicativo ERP SICAPITAL que tiene el DASCD y lo relacionado con BOG DATA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet
+
+**Códigos adicionales UNSPSC:**
+
+81111510 - Servicios de desarrollo de aplicaciones para servidores de internet / intranet,81112205 - Mantenimiento de software de sistemas de gestión de bases de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 30 No 25-90 piso 9 costado oriental Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111509, 81111510, 81112205 | Prestar servicios profesionales para el desarrollo de nuevas funcionalidades, soporte y mantenimiento del aplicativo ERP SICAPITAL que tiene el DASCD y lo relacionado con BOG DATA. | Selección abreviada menor cuantía | Recursos propios | $90.000.000 | SUBDIRECCION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 06:47 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+29/May/2025 - 08:43 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 09:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 09:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+29/May/2025 - 09:00 pm
+
+**Plazo para manifestación de interés:**
+
+30/May/2025 - 06:00 pm
+
+**Realización del sorteo:**
+
+03/Jun/2025 - 09:00 am
+
+**Publicación de la lista de precalificados:**
+
+04/Jun/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+06/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+10/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+19/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 19/Jun/2025 - 12:00 pm | 19/Oct/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 19/Jun/2025 - 12:00 pm | 19/Jun/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 19/Jun/2025 - 12:00 pm | 19/Oct/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8051665 | DOCUMENTOS DECLARATORIA DE DESIERTA | 18/Jun/2025 - 02:29 pm |  | - |
+| General | CO1.MSG.8008890 | rta obs. | 16/Jun/2025 - 05:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2279088 | Informe de evaluación 1 CO1.AWD.2279088 | 12/Jun/2025 - 05:04 pm |  | - |
+| General | CO1.MSG.8008918 | Solicitud Información | 10/Jun/2025 - 03:05 pm |  | - |
+| Avisos | CO1.MSG.8005905 | Publicación de la lista de ofertas del proceso DASCD-SAMC-007-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 10/Jun/2025 - 09:07 am |  | - |
+| Avisos | CO1.MSG.8005902 | La lista de oferentes del proceso DASCD-SAMC-007-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 10/Jun/2025 - 09:06 am |  | - |
+| General | CO1.MSG.7996096 | RE: Observaciones al Pliego | 06/Jun/2025 - 04:39 pm |  | - |
+| General | CO1.MSG.7947538 | RE: Observaciones | 27/May/2025 - 06:26 pm |  | - |

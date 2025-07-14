@@ -1,0 +1,123 @@
+Title: Licitaciones - FONDO NACIONAL DE GARANTIAS S.A. - FNG
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b027d3efcf1.65209492
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:45:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+RENOVACIÓN DE LA GARANTÍA Y SOPORTE TÉCNICO DE LOS EQUIPOS Y ELEMENTOS MARCA HEWLETT PACKARD - HP QUE CONFORMA LA INFRAESTRUCTURA TECNOLÓGICA DEL FNG
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101707 - Mantenimiento de equipos de impresión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 26 a 3 13-97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 06:05 pm
+
+**Fecha de Firma del Contrato:**
+
+15/May/2025 - 11:59 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo de ejecución del contrato:**
+
+24/May/2026 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 14/May/2025 - 04:06 pm |  |  |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 13/May/2025 - 11:11 am |  |  |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 07/May/2025 - 05:07 pm |  |  |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 05/May/2025 - 03:12 pm |  |  |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 02/May/2025 - 05:46 pm |  |  |
+| Avisos | CO1.REQ.8165525 | Publicación modificación | 30/Abr/2025 - 06:30 pm |  |  |

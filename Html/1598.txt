@@ -1,0 +1,151 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA TECNICO FRANCISCO LUCEA - Régimen Especial INVITACION PÚBLICA No RE ITEF 005
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851f5202241e4.79242380
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 14:55:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE INTERNET EN FIBRA OPTICA CON VELOCIDAD DE 110 MEGAS CON UN ANCHO DE BANDA DEDICADO 1.1, DISTRIBUIDOS EN DOS PUNTOS PARA LA SEDE PRINCIPAL Y UN PUNTO PARA LA SEDE HUGO GAMBOA DE LA INSTITUCIÓN EDUCATIVA TÉCNICO FRANCISCO LUCEA DEL MUNICIPIO DE SAN LUIS DE PALENQUE (CASANARE).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Casanare : San Luis De Palenque
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Códigos adicionales UNSPSC:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CR 7 3 17 PISO 2 San Luis De Palenque Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,168,577
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101 | 2.03.01.02.01.02.02.02 Servicio de Internet | Contratación régimen especial - Régimen especial | SGP | $3.168.577 | INSTITUCION EDUCATIVA TECNICO FRANCISCO LUCEA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 05:46 pm
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 02:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/Jun/2025 - 03:00 pm
+
+**Plazo de ejecución del contrato:**
+
+19/Sep/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/Jun/2025 - 05:40 pm | 23/Oct/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 19/Jun/2025 - 05:40 pm | 23/Oct/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:36 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:36 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:34 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:34 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:33 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:31 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:17 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:16 pm |  |  |
+| Avisos | CO1.REQ.8430974 | Publicación modificación | 19/Jun/2025 - 05:15 pm |  |  |

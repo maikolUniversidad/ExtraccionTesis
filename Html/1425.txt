@@ -1,0 +1,175 @@
+Title: Licitaciones - INSTITUTO DE EDUCACIÓN TÉCNICA PROFESIONAL DE ROLDANILLO VALLE DEL CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68220798c5c3b8.68434435
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-19 08:00:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE LA PLATAFORMA EDUCATIVA CLASSVR DE LAS GAFAS DE REALIDAD VIRTUAL Y AUMENTADA CON FINES ACADÉMICOS PARA LOS ESTUDIANTES DE LA UNIDAD DE SISTEMAS Y ELECTRICIDAD DEL INSTITUTO DE EDUCACIÓN TÉCNICA PROFESIONAL DE ROLDANILLO VALLLE, INTEP.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Roldanillo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232200 - Software de gestión de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 # 10-20 Roldanillo Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232200 | Renovación de las licencias de las gafas de realidad virtual y aumentada CLASSVR para el Instituto de Educación Técnica Profesional de Roldanillo, Valle - INTEP | Mínima cuantía | Recursos propios | $7.745.432 | Contratacion |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 09:27 am
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+12/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+19/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+19/May/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8244376 | Publicación modificación | 16/May/2025 - 10:23 am |  |  |
+| Aclaraciones | CO1.MSG.7893037 | Respuesta Observaciones al Proceso Invitación Pública No. 015-MC-2025 | 16/May/2025 - 10:21 am |  | - |
+| General | CO1.MSG.7888580 | AVISO DE NO LIMINATACIÓN A MIPYMES | 15/May/2025 - 02:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7882600 | Observaciones al Proceso Invitación Pública No. 015-MC-2025 | 14/May/2025 - 03:53 pm |  | - |

@@ -1,0 +1,277 @@
+Title: Licitaciones - GOBERNACION DEL CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681002c12fb3b0.12845208
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 08:14:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE MATERIALES PARA ORGANIZACIONES AGROPECUARIAS Y EJECUCIÓN DE ACTIVIDADES DE FORTALECIMIENTO DE CAPACIDADES TÉCNICAS, ASOCIATIVAS Y ORGANIZACIONALES EN EL DEPARTAMENTO DEL CAQUETÁ, EN EL MARCO DE LA EJECUCIÓN DEL PROYECTO DE INVERSIÓN BPIN 202500000017797 DENOMINADO FORTALECIMIENTO DE LAS ASOCIACIONES AGROPECUARIAS DEL CAQUETÁ, PARA EL CRECIMIENTO PROGRESIVO DE LA COMPETITIVIDAD DE LAS CADENAS PRODUCTIVAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40151500 - Bombas
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 13 CALLE 15 ESQUINA Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,261,406,967
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 40151500, 31211500, 24111500 | SUMINISTRO DE MATERIALES PARA ORGANIZACIONES AGROPECUARIAS Y EJECUCIÓN DE ACTIVIDADES DE FORTALECIMIENTO DE CAPACIDADES TÉCNICAS, ASOCIATIVAS Y ORGANIZACIONALES EN EL DEPARTAMENTO DEL CAQUETÁ. | Licitación pública | Recursos propios | $1.261.406.967 | DEPARTAMENTO DE CAQUETÁ |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+28/Abr/2025 - 05:25 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+28/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+28/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+14/May/2025 - 07:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 08:57 am
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 09:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 09:00 am
+
+**Audiencia de asignación de Riesgos:**
+
+14/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 07:00 am
+
+**Apertura de Ofertas:**
+
+23/May/2025 - 07:01 am
+
+**Informe de presentación de Ofertas:**
+
+23/May/2025 - 07:09 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 07:00 pm
+
+**Audiencia de Adjudicación:**
+
+02/Jun/2025 - 02:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+02/Jun/2025 - 03:00 am
+
+**Firma del Contrato:**
+
+02/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jun/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 02/Jun/2025 - 05:00 pm | 30/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 02/Jun/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jun/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ALMACEN TIERRA Y GANADO SAS | Florencia - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,261,190,967
+
+**Informes proceso de selección CO1.AWD.2260449 de 03/Jun/2025 - 05:09 am. Valor $1.261.190.967**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 04:03 pm |  |
+| Informe de selección | 03/Jun/2025 - 05:09 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260449**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ALMACEN TIERRA Y GANADO SAS * **Tipo documento:** NIT * **Documento:** 900763696 | * **Nombre:** HELENA VARGAS ROJAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1036616855 | Florencia - Caquetá | $1.261.190.967 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260449****
+
+**ID del contrato en SECOP:**
+
+202500000599
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+30/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 1,261,190,967
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260449 | Informe de selección CO1.AWD.2260449 | 03/Jun/2025 - 05:09 pm |  | - |
+| General | CO1.MSG.7973975 | ACTA AUDIENCIA DE ADJUDICACION | 03/Jun/2025 - 02:48 pm |  | - |
+| General | CO1.MSG.7973191 | NOTIFICACION LINK AUDIENCIA ADJUDICACION | 03/Jun/2025 - 12:39 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260449 | Informe de evaluación 1 CO1.AWD.2260449 | 23/May/2025 - 04:03 pm |  | - |
+| Avisos | CO1.MSG.7926785 | La lista de oferentes del proceso DC-AG-LP-009-2025 (Presentación de oferta) publicada por GOBERNACION DEL CAQUETA | 23/May/2025 - 07:44 am |  | - |
+| Avisos | CO1.MSG.7926787 | Publicación de la lista de ofertas del proceso DC-AG-LP-009-2025 (Presentación de oferta). | 23/May/2025 - 07:44 am |  | - |
+| General | CO1.MSG.7883095 | ACTA DE ASIGNACION DE RIESGOS | 14/May/2025 - 04:26 pm |  | - |
+| General | CO1.MSG.7875377 | NOTIFICACION LINK AUDIENCIA DE ASIGNACION DE RIESGOS | 14/May/2025 - 08:08 am |  | - |

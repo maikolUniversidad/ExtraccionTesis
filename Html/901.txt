@@ -1,0 +1,203 @@
+Title: Licitaciones - INSTITUTO DISTRITAL DE GESTIÓN DE RIESGOS Y CAMBIO CLIMÁTICO - IDIGER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ccb6d049ab2.74101099
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 12:12:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR SERVICIO DE SOLUCIÓN PARA COMUNICACIONES CRÍTICAS MEDIANTE EL USO DE TALKPLUS (PTT) PARA GARANTIZAR LA COMUNICACIÓN GRUPAL E INDIVIDUAL EN VALIDACIÓN DE LOS DIVERSOS ESCENARIOS ATENDIDOS POR EL IDIGER.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221500 - Sistemas de gestión de llamadas o accesorios
+
+**Códigos adicionales UNSPSC:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,81112202 - Actualizaciones o parches de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+DIAGONAL 47 # 77 A -09 INT 11 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112202, 43221500, 72103302 | Prestar servicio de solución para comunicaciones críticas mediante el uso de talkplus (PTT) para garantizar la comunicación grupal e individual en validación de los diversos escenarios atendidos por el IDIGER. | Contratación directa | Recursos propios | $39.000.000 | OFICINA JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 07:41 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 10:00 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 10:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 11:00 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/Jun/2025 - 08:00 pm | 10/Ene/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 19/Jun/2025 - 08:00 pm | 10/Jul/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 19/Jun/2025 - 08:00 pm | 10/Ene/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8411973 | Publicación modificación | 17/Jun/2025 - 05:54 pm |  |  |
+| Aclaraciones | CO1.MSG.8040498 | MANIFESTACION DE INTERES DE LIMITAR EL PROCESO A MYPIME NACIONAL | 16/Jun/2025 - 08:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8037714 | Observación por inclusión de marca específica en proceso de contratación | 16/Jun/2025 - 03:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8036705 | MANIFESTACION DE DE LIMITAR A MIPYMES NACIONALES | 16/Jun/2025 - 12:30 pm |  | - |

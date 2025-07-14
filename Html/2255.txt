@@ -1,0 +1,99 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68129f5d6b0879.20481007
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:39:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de suscripciones para renovación del soporte de la plataforma VMWARE para Federación Colombiana de Municipios en cumplimiento de la función pública asignada
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 05:04 pm
+
+**Plazo para solicitar aclaraciones:**
+
+06/May/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+08/May/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7835602 | RE: Solicitud de informacion | 05/May/2025 - 05:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7832045 | RE: Aclaración dudas | 05/May/2025 - 11:24 am |  | - |
+| General | CO1.MSG.7831956 | RE: Informacion para licenciamiento de Fabrica - Broadcom | 05/May/2025 - 11:18 am |  | - |
+| Aclaraciones | CO1.MSG.7826631 | Aclaración dudas | 02/May/2025 - 02:52 pm |  | - |

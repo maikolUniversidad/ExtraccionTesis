@@ -1,0 +1,203 @@
+Title: Licitaciones - COMISIÓN DE REGULACIÓN DE COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68278e3a287d82.72794848
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 15:39:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la adquisición, asistencia en la instalación y configuración de los certificados de firma digital de función pública compatible con el sistema SIIF Nación II y del certificado de Firma Digital de Persona Jurídica, para funcionarios de la Comisión de Regulación de Comunicaciones por dos (2) años
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111801 - Seguridad de los computadores, redes o internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 59 a Bis # 5 - 53 Piso 9 EDIFICIO LINK SIETE SESENTA Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+2 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111801, 81111502, 81111820 | Adquisición/Renovación Certificados firmas digitales Suministrar catorce (14) certificados de firma digital para el sistema SIIF Nación. | Mínima cuantía | Recursos propios | $16.500.000 | Unidad de Contratación |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 12:30 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 12:30 pm
+
+**Fecha de publicación:**
+
+16/May/2025 - 01:50 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 03:02 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 03:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/May/2025 - 12:00 am | 27/Mar/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/May/2025 - 12:00 am | 27/May/2028 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7943596 | SOLICITUD JUSTIFICACION OFERTA ECONOMICA ARTIFICIAMENTE BAJA | 27/May/2025 - 12:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262578 | Informe de evaluación 1 CO1.AWD.2262578 | 26/May/2025 - 04:43 pm |  | - |
+| Avisos | CO1.MSG.7930932 | La lista de oferentes del proceso MINIMA CUANTIA 76 DE 2025 publicada por COMISIÓN DE REGULACIÓN DE COMUNICACIONES | 23/May/2025 - 04:01 pm |  | - |
+| General | CO1.MSG.7922550 | AVISO NO LIMITACIÓN A MIPYMES | 22/May/2025 - 01:15 pm |  | - |
+| Avisos | CO1.REQ.8273478 | Publicación modificación | 22/May/2025 - 01:01 pm |  |  |
+| Avisos | CO1.REQ.8273478 | Publicación modificación | 21/May/2025 - 09:56 am |  |  |
+| General | CO1.MSG.7912321 | DOCUMENTO DE RESPUESTAS A OBSERVACIONES INVITACION MC | 20/May/2025 - 09:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7904015 | OBSERVACIONES AL PROCESO | 19/May/2025 - 05:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7903086 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 19/May/2025 - 04:06 pm |  | - |

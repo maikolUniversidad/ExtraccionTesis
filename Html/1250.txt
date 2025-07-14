@@ -1,0 +1,171 @@
+Title: Licitaciones - REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680965a2746685.96312810
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 07:27:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN A TODO COSTO DE LICENCIAS Y EL MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE SOFTWARE Y HARDWARE PARA LOS EQUIPOS DE COMPUTO Y PERIFÉRICOS DE LA REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA SEDE CAUCASIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Caucasia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "103,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 21 # 14 – 04; Mall Portal El Triángulo Caucasia Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 04:48 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 11:45 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 12:00 pm
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 01:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/Abr/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/Abr/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7803480 | La lista de oferentes del proceso MC-SUM-003-2025 publicada por REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA | 27/Abr/2025 - 08:29 am |  | - |
+| General | CO1.MSG.7795711 | LIMITACION MIPYME TERRITORIAL CAUCASIA | 24/Abr/2025 - 05:34 pm |  | - |

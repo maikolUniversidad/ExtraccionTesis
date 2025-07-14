@@ -1,0 +1,348 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL DE REHABILITACIÓN Y MANTENIMIENTO VIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812c966319a37.74831349
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:34:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DEL SOFTWARE DE VIRTUALIZACIÓN VMWARE DE LA UAERMV
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+43233415 - Software de respaldo o archivo,43233400 - Software de controladores de dispositivos y utilidades
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA CALLE 26 No. 69-76. edificio elemento, piso 3 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 140,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233415, 81111800, 43233400 | RENOVACIÓN DEL SOFTWARE DE VIRTUALIZACIÓN VMWARE DE LA UAERMV. | Selección abreviada subasta inversa | Recursos propios | $140.000.000 | PROCESO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+30/Abr/2025 - 07:15 pm
+
+**Publicación Estudios Previos:**
+
+30/Abr/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+08/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 08:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+14/May/2025 - 08:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 05:05 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/May/2025 - 08:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+22/May/2025 - 08:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/May/2025 - 10:02 am
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 10:20 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jun/2025 - 08:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/Jun/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+18/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+19/Jun/2025 - 08:00 pm
+
+**Firma del Contrato:**
+
+20/Jun/2025 - 08:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+27/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 10/Jun/2025 - 12:00 am | 06/Feb/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 10/Jun/2025 - 12:00 am | 06/Ago/2028 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 138,156,800
+
+**Informes proceso de selección CO1.AWD.2268307 de 27/Jun/2025 - 04:11 am. Valor $138.156.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 02/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 02/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 02/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 02/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 08:33 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 08:33 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 08:33 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 08:33 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 08:33 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 10:10 am |  |
+| Informe de evaluación | 18/Jun/2025 - 10:10 am |  |
+| Informe de evaluación | 18/Jun/2025 - 10:10 am |  |
+| Informe de evaluación | 18/Jun/2025 - 10:10 am |  |
+| Informe de evaluación | 18/Jun/2025 - 10:10 am |  |
+| Informe de selección | 27/Jun/2025 - 04:11 pm |  |
+| Informe de selección | 27/Jun/2025 - 04:11 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2268307**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GREEN SERVICES AND SOLUTIONS S.A.S. * **Tipo documento:** NIT * **Documento:** 900571849 | * **Nombre:** DIEGO ALEJANDRO ARBOLEDA GIRALDO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 3413830 | Medellín - Antioquia | $138.156.800 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2268307****
+
+**ID del contrato en SECOP:**
+
+CTO-451-2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 138,156,800
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jun/2025 - 02:00 am
+
+**Fecha de inicio:**
+
+18/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+18/Jun/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8100710 | RE: ADJUDICACION | 01/Jul/2025 - 02:23 pm |  | - |
+| Reporte final | CO1.AWD.2268307 | Informe de selección CO1.AWD.2268307 | 27/Jun/2025 - 04:11 pm |  | - |
+| General | CO1.MSG.8052182 | EVENTO DE SUBASTA | 18/Jun/2025 - 03:12 pm |  | - |
+| General | CO1.MSG.8049558 | RE: OBSERVACIONES AL INFORME 2 DE EVALUACION | 18/Jun/2025 - 10:14 am |  | - |
+| Reporte preliminar | CO1.AWD.2268307 | Informe de evaluación 3 CO1.AWD.2268307 | 18/Jun/2025 - 10:10 am |  | - |
+| General | CO1.MSG.8019151 | RESOLUCION DE SANEAMIENTO | 11/Jun/2025 - 08:39 pm |  | - |
+| Reporte preliminar | CO1.AWD.2268307 | Informe de evaluación 2 CO1.AWD.2268307 | 11/Jun/2025 - 08:33 pm |  | - |
+| Avisos | CO1.REQ.8268945 | Publicación modificación | 11/Jun/2025 - 06:33 pm |  |  |
+| General | CO1.MSG.8016002 | interes general | 11/Jun/2025 - 02:44 pm |  | - |
+| Avisos | CO1.REQ.8268945 | Publicación modificación | 10/Jun/2025 - 05:41 pm |  |  |
+| General | CO1.MSG.8008959 | INFORMACION DE INTERES | 10/Jun/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.8006282 | AVISO APERTURA DE SOBRE ECONOMICO | 10/Jun/2025 - 10:01 am |  | - |
+| General | CO1.MSG.7976336 | RE: Solicitud Publicación Ofertas | 03/Jun/2025 - 06:52 pm |  | - |
+| Avisos | CO1.MSG.7975780 | Publicación de la lista de ofertas del proceso UMV-SASI-006-2025 (Presentación de oferta). | 03/Jun/2025 - 05:50 pm |  | - |
+| Avisos | CO1.REQ.8268945 | Publicación modificación | 03/Jun/2025 - 04:12 pm |  |  |
+| General | CO1.MSG.7970525 | informe preliminar | 02/Jun/2025 - 09:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2268307 | Informe de evaluación 1 CO1.AWD.2268307 | 02/Jun/2025 - 09:13 pm |  | - |
+| Avisos | CO1.MSG.7942428 | La lista de oferentes del proceso UMV-SASI-006-2025 (Presentación de oferta) publicada por UNIDAD ADMINISTRATIVA ESPECIAL DE REHABILITACIÓN Y MANTENIMIENTO VIAL | 27/May/2025 - 10:13 am |  | - |
+| General | CO1.MSG.7942004 | RESPUESTA | 27/May/2025 - 09:39 am |  | - |
+| General | CO1.MSG.7941911 | RESPUESTAS OBSERVACIONES | 27/May/2025 - 09:29 am |  | - |
+| Aclaraciones | CO1.MSG.7924881 | RESPUETAS OBSERVACIONES PLIEGO DEFINITIVO | 22/May/2025 - 04:57 pm |  | - |
+| General | CO1.MSG.7924862 | RESPUESTAS OBSERVACIONES PLIEGO DEFINITIVO | 22/May/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7910526 | Observaciones | 20/May/2025 - 05:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7907967 | Observaciones UMV-SASI-006-2025-2 | 20/May/2025 - 12:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7877349 | RESPUESTAS A TODAS LAS OBSERVACIONES | 13/May/2025 - 07:04 pm |  | - |
+| General | CO1.MSG.7877337 | RESPUETAS A TODAS LAS OBSERVACIONES | 13/May/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7856743 | OBSERVACIONES PREPLIEGO | 08/May/2025 - 07:36 pm |  | - |
+| Aclaraciones | CO1.MSG.7855607 | SOLICITUD CONVOCATORIA MIPYMES | 08/May/2025 - 05:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7853260 | Mipyme | 08/May/2025 - 02:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7853246 | Observaciones | 08/May/2025 - 02:06 pm |  | - |

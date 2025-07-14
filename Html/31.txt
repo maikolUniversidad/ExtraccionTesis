@@ -1,0 +1,253 @@
+Title: Licitaciones - AEROCIVIL - Subasta Inversa 25000850 H2
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685449f94d01b3.75892553
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:55:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUIRIR, INSTALAR Y PONER EN FUNCIONAMIENTO UNA SOLUCIÓN DE VIRTUALIZACIÓN, PROCESAMIENTO Y ALMACENAMIENTO PARA LOS SERVICIOS DE LA SECRETARÍA DE TI
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232304 - Software de sistemas de manejo de base datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Servicios en la nube (Cloud), -Servidores (Suministro y alquiler)", "licicodigos": "102,437,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 57 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado No. 103 - 15 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,037,698,884
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232304, 43232305, 43232306, 43232307, 43232300 | 58000C1060 ADQUIRIR, INSTALAR Y PONER EN FUNCIONAMIENTO UNA SOLUCIÓN DE VIRTUALIZACIÓN, PROCESAMIENTO Y ALMACENAMIENTO PARA LOS SERVICIOS DE LA SECRETARIA DE TI. | Selección abreviada subasta inversa | Recursos propios | $4.037.698.884 | NIVEL CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 11:41 am
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+19/Jun/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 06:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jul/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 05:29 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+11/Jul/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+15/Jul/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+15/Jul/2025 - 10:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+18/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jul/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+30/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Ago/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+08/Ago/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Ago/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Ago/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/Ago/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 12/Ago/2025 - 07:00 pm | 15/Abr/2026 - 11:00 pm |
+| Pago de salarios | 20,00 | 12/Ago/2025 - 07:00 pm | 15/Dic/2028 - 11:00 pm |
+| Calidad del servicio | 20,00 | 15/Dic/2025 - 02:00 pm | 15/Dic/2028 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Dic/2025 - 02:00 pm | 15/Dic/2028 - 11:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+29/Jul/2025 - 07:00 pm
+
+**Fecha de inicio:**
+
+30/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+30/Jul/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8159171 | respuesta observaciones | 11/Jul/2025 - 05:23 pm |  | - |
+| Avisos | CO1.REQ.8516856 | Publicación modificación | 11/Jul/2025 - 05:22 pm |  |  |
+| Aclaraciones | CO1.MSG.8138424 | Obs. Pliego Def. | 08/Jul/2025 - 06:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8138040 | Observaciones al Pliego de Condiciones Definitivo - 25000850 H2 | 08/Jul/2025 - 06:12 pm |  | - |
+| General | CO1.MSG.8133251 | RE: SOLICITUD AJUSTAR CRONOGRAMA | 08/Jul/2025 - 10:08 am |  | - |
+| General | CO1.MSG.8124703 | respuesta observaciones nuevamente | 06/Jul/2025 - 10:14 am |  | - |
+| Aclaraciones | CO1.MSG.8096264 | OBSERVACIONES PREPLIEGO GREEN | 27/Jun/2025 - 06:58 pm |  | - |

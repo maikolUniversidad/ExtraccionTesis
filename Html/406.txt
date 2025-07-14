@@ -1,0 +1,289 @@
+Title: Licitaciones - MUNICIPIO DE SAN JOSE DE CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849f7a227d019.28272552
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:40:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE INSUMOS Y SISTEMA DE COMUNICACIÓN DIGITAL PARA LA GEOREFERENCIACIÓN DE AMBULANCIAS PARA LA EJECUCCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MÉDICAS S.E.M. DE LA SECRETARIA DE SALUD DEL MUNICIPIO DE SAN JOSÉ DE CÚCUTA. NOTA: LOS PAGOS DEBEN PACTARSE DE ACUERDO A LA PROGRAMACION DEL PAC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232701 - Software de servidor de aplicaciones
+
+**Códigos adicionales UNSPSC:**
+
+43232700 - Software de aplicaciones de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -GPS y servicio de monitoreo, -Servidores (Suministro y alquiler)", "licicodigos": "102,110,377,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 11 # 5-49 PALACIO MUNICIPAL Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232700 | 2025C-299 2025C-299 SUMINISTRO DE INSUMOS Y SISTEMA DE COMUNICACIÓN DIGITAL PARA LA GEOREFERENCIACIÓN DE AMBULANCIAS PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MÉDICAS S.E.M., DE LA SECRETARÍA DE SALUD DEL MUNICIPIO DE SAN JOSÉ DE CÚCUTA. | Mínima cuantía | Recursos propios | $142.000.000 | SECRETARIA DE SALUD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:16 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 04:30 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 04:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+13/Jun/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+13/Jun/2025 - 06:07 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+17/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+19/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jun/2025 - 10:00 am | 17/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 18/Jun/2025 - 10:00 am | 17/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** V.H.F. COMUNICACIONES LIMITADA | Cúcuta - Norte de Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 141,800,000
+
+**Informes proceso de selección CO1.AWD.2283959 de 19/Jun/2025 - 04:12 am. Valor $141.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 17/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 04:04 pm |  |
+| Informe de selección | 19/Jun/2025 - 04:12 pm |  |
+| Informe de selección | 19/Jun/2025 - 04:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2283959**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** V.H.F. COMUNICACIONES LIMITADA * **Tipo documento:** NIT * **Documento:** 800185190 | * **Nombre:** ROSALBA VELASQUEZ VASQUEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 37231142 | Cúcuta - Norte de Santander | $141.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2283959****
+
+**Contrato 3287-2025 de V.H.F. COMUNICACIONES LIMITADA:**
+
+**ID del contrato en SECOP:**
+
+3287-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE INSUMOS Y SISTEMA DE COMUNICACIÓN DIGITAL PARA LA GEOREFERENCIACION DE AMBULANCIAS PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MÉDICAS DE LA SECRETARIA DE SALUD DEL MUNICIPIO DE SAN JOSÉ DE CÚCUTA. NOTA: LOS PAGOS DEBEN ACORDARSE DE ACUERDO CON EL CRONOGRAMA DEL PAC
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43232701 | SUMINISTRO DE INSUMOS Y SISTEMA DE COMUNICACIÓN DIGITAL PARA LA GEOREFERENCIACIÓN DE AMBULANCIAS PARA LA EJECUCCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MÉDICAS S.E.M. DE LA SECRETARIA DE SALUD DEL MUNICIPIO DE SAN JOSÉ DE CÚCUTA. NOTA: LOS PAGOS DEBEN PACTARSE DE ACUERDO A LA PROGRAMACION DEL PAC | 1,00 | UN | 142.000.000,00 | 141.800.000,00 | 142.000.000,00 | 141.800.000,00 |
+
+**Fecha de terminación del contrato:**
+
+19/Oct/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+4 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 141,800,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 1 SolicitudPlanAdquisicion.pdf |  |
+|  | 2 CertificadoPlanAdquisicion.pdf |  |
+|  | 3- 4 CDP 3437 SOLICITUD 3552.pdf |  |
+|  | 5 ESTUDIOS PREVIOS TURBONET.pdf |  |
+|  | ACEPTACION OK.pdf |  |
+|  | CONCEPTO JURIDICIO OK.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2283959 | Informe de selección CO1.AWD.2283959 | 19/Jun/2025 - 04:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283959 | Informe de evaluación 2 CO1.AWD.2283959 | 19/Jun/2025 - 04:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283959 | Informe de evaluación 1 CO1.AWD.2283959 | 17/Jun/2025 - 04:32 pm |  | - |
+| Avisos | CO1.MSG.8045946 | Publicación de la lista de ofertas del proceso SSM-MC-005-2025. | 17/Jun/2025 - 04:26 pm |  | - |
+| Avisos | CO1.REQ.8399890 | Publicación modificación | 17/Jun/2025 - 04:18 pm |  |  |
+| Avisos | CO1.MSG.8032591 | La lista de oferentes del proceso SSM-MC-005-2025 publicada por MUNICIPIO DE SAN JOSE DE CUCUTA | 13/Jun/2025 - 06:07 pm |  | - |

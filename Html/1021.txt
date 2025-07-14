@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA JUAN XXIII - ALGECIRAS 2
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cb5f2162d78.81656701
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:39:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SOPORTE TÉCNICO (PREVENTIVO-CORRECTIVO) DEL SISTEMA INFORMATICO DE LAS 18 SEDES DE LA INSTITUCIOIN EDUCATIVA JUAN XXIII DE ALGECIRAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Algeciras
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151800 - Servicios de mantenimiento y reparación de instalación de máquinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 5 N° 5-57 SUR Algeciras Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 24,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72151800 | Mantenimiento y soporte preventivo y correctivo de los computos | Contratación régimen especial - Régimen especial | SGP | $24.000.000 | UNIDAD DE CONTRATACION GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 11:57 am
+
+**Fecha de Firma del Contrato:**
+
+28/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+30/May/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

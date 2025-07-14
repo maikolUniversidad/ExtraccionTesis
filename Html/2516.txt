@@ -1,0 +1,90 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICÍA GUAVIARE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cfccd2a8585.51627851
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:35:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE ACCESORIOS PARA RADIOS DE COMUNICACIÓN, RED DE VOZ Y DATOS Y MEDIDORES DE RED Y ENERGIA, PARA EL DEPARTAMENTO DE POLICÍA GUAVIARE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Guaviare : San José Del Guaviare
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111711 - Baterías de litio
+
+**Códigos adicionales UNSPSC:**
+
+26121542 - Cable de instalación,43191600 - Partes o accesorios de dispositivos de comunicación personal,26111704 - Cargadores de baterías,43221706 - Antenas de radio,43191621 - Adaptadores de auriculares,43222609 - Enrutadores (routers) de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 9 No. 21-20 San José Del Guaviare Guaviare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 04:40 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 12:00 pm

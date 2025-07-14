@@ -1,0 +1,234 @@
+Title: Licitaciones - INSTITUTO DE DEPORTES Y RECREACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685cadd447db91.61104166
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:21:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, QUE INCLUYEN INSUMOS, REPUESTOS Y MANO DE OBRA, PARA EQUIPOS TALES COMO: DESTRUCTORES DE DOCUEMTOS, ESCANERES, IMPRESORAS, PLOTTER Y VIDEO PROYECTORES DE DIVERSAS MARCAS Y REFERENCIAS DEL INSTITUTO DE DEPORTE Y RECREACIÓN DEL INDER MEDELLÍN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81101700 - Ingeniería eléctrica y electrónica,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales, -Equipos de oficina (Destructoras de papel, otros)", "licicodigos": "106,115,476" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 47d 75 276 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 102,401,489
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Jun/2025 - 08:57 pm
+
+**Publicación Estudios Previos:**
+
+25/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+03/Jul/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+07/Jul/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+07/Jul/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+08/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+08/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+11/Jul/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+15/Jul/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+15/Jul/2025 - 09:07 am
+
+**Publicación del informe de verificación o evaluación:**
+
+17/Jul/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 12:00 pm
+
+**Apertura del sobre económico:**
+
+21/Jul/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 01:00 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 23/Jul/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 23/Jul/2025 - 12:00 pm | 30/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 23/Jul/2025 - 12:00 pm | 25/Abr/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+21/Jul/2025 - 01:00 pm
+
+**Fecha de inicio:**
+
+21/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+21/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8087466 | OBSERVACIONES FINANCIERAS | 26/Jun/2025 - 02:36 pm |  | - |

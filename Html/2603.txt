@@ -1,0 +1,92 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68264ffe1e3c50.51702485
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:51:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE WAF EN NUBE Y SOPORTE TÉCNICO PARA PROTECCIÓN DE LAS APLICACIONES WEB DE LA SECRETARÍA DISTRITAL DE MOVILIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:27 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 11:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7913279 | RE: Observaciones Ancho de Banda Requerido. | 21/May/2025 - 09:18 am |  | - |

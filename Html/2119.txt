@@ -1,0 +1,116 @@
+Title: Licitaciones - DEPARTAMENTO DE CUNDINAMARCA- SECRETARIA DE SALUD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854cffdef16c6.63882009
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:48:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A LA RED DE COMUNICACIONES DEL CRUE DE CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222817 - Repetidores de telecomunicaciones
+
+**Códigos adicionales UNSPSC:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,43222903 - Torre o soporte para telecomunicaciones,43231500 - Software funcional específico de la empresa,72141118 - Servicio de construcción de torres de transmisión para telecomunicaciones,81112204 - Mantenimiento de software de sistemas operativos,81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112208 - Mantenimiento de software de protección y seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición", "licicodigos": "100" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 51 53 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 163,390,082
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222817, 72103302 | Realizar mantenimiento preventivo y correctivo de la Red de Comunicaciones del CRUE | Mínima cuantía | Recursos propios | $163.390.082 | DIRECCIÓN ADMINISTRATIVA Y FINANCIERA SECRETARIA SALUD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 09:43 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 05:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8075807 | RE: Aclaraciones | 24/Jun/2025 - 06:16 pm |  | - |
+| General | CO1.MSG.8075694 | Publicación de documento - Respuesta a observaciones | 24/Jun/2025 - 06:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8068263 | Aclaraciones | 20/Jun/2025 - 06:40 pm |  | - |

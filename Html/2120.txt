@@ -1,0 +1,105 @@
+Title: Licitaciones - (Secretaría Distrital de Integración Social)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854ad0e9cb480.51103231
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:49:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN FORTIANALYZER Y FORTIADC, RENOVACIÓN LICENCIAMIENTO, GARANTÍA Y ESQUEMA DE SOPORTE PARA LA PLATAFORMA DE SEGURIDAD FORTINET DE LA SECRETARÍA DISTRITAL DE INTEGRACIÓN SOCIAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 No. 32-16 PISO 20 EDIFICIO SAN MARTIN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 07:25 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+08/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8120398 | RE: Observaciones Gamma Ingenieros | 07/Jul/2025 - 02:10 pm |  | - |
+| Avisos | CO1.REQ.8444814 | Publicación modificación | 03/Jul/2025 - 11:25 am |  |  |
+| General | CO1.MSG.8110458 | RE: Observaciones Secretaría Distrital de Integración Social | 02/Jul/2025 - 07:11 pm |  | - |
+| General | CO1.MSG.8110420 | RE: Observaciones Heimcore SAS | 02/Jul/2025 - 07:07 pm |  | - |
+| General | CO1.MSG.8110353 | RE: Observaciones a la solicitud de información | 02/Jul/2025 - 07:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8080776 | Observaciones Gamma Ingenieros | 25/Jun/2025 - 03:41 pm |  | - |

@@ -1,0 +1,285 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827ccfd834e71.05827115
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+FORTALECIMIENTO DE INFRAESTRUCTURA DE HARDWARE DE ALTO RENDIMIENTO EN ALMACENAMIENTO PARA INCREMENTAR LAS CAPACIDADES DE PROCESAMIENTO DEL MODELO NUMÉRICO WRF DEL SISTEMA DE INFORMACIÓN METEOROLÓGICA DE LA FUERZA AEROESPACIAL COLOMBIANA Y AVIACIÓN DE ESTADO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201835 - Dispositivo de almacenamiento unido a la red nas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201835 | JEMOV - NODO DE ALTO ALMACENAMIENTO | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $185.000.000 | COMANDO FUERZA AEROESPACIAL COLOMBIANA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 06:14 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 04:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 04:30 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 07:41 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 08:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 04:30 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 04:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+16/Jun/2025 - 10:02 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 11:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 04:30 pm
+
+**Apertura del sobre económico:**
+
+02/Jul/2025 - 10:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+08/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 02:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 04/Jul/2025 - 07:00 am | 28/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 31/Ago/2025 - 07:00 am | 31/Ago/2028 - 11:59 am |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 185,000,000
+
+**Informes proceso de selección CO1.AWD.2287133 de 10/Jul/2025 - 07:50 am. Valor $185.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 11:39 am |  |
+| Informe de evaluación | 08/Jul/2025 - 11:39 am |  |
+| Informe de evaluación | 08/Jul/2025 - 11:39 am |  |
+| Informe de evaluación | 08/Jul/2025 - 11:39 am |  |
+| Informe de selección | 10/Jul/2025 - 07:50 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jul/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+04/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+04/Jul/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287133 | Informe de selección CO1.AWD.2287133 | 10/Jul/2025 - 07:50 am |  | - |
+| Reporte preliminar | CO1.AWD.2287133 | Informe de evaluación 2 CO1.AWD.2287133 | 08/Jul/2025 - 11:39 am |  | - |
+| Objeciones | CO1.MSG.8087455 | [Respondido] RE:Observaciones sobre evaluacion preliminar | 01/Jul/2025 - 10:04 am |  | - |
+| Objeciones | CO1.MSG.8087455 | Observaciones sobre evaluacion preliminar | 26/Jun/2025 - 02:37 pm |  | - |
+| Avisos | CO1.MSG.8084272 | Publicación de la lista de ofertas del proceso 034-00-A-COFAC-CEGOT-2025 (Presentación de oferta). | 26/Jun/2025 - 08:13 am |  | - |
+| Reporte preliminar | CO1.AWD.2287133 | Informe de evaluación 1 CO1.AWD.2287133 | 20/Jun/2025 - 05:00 pm |  | - |
+| General | CO1.MSG.8057633 | SUBSANACION | 19/Jun/2025 - 11:37 am |  | - |
+| Avisos | CO1.MSG.8035525 | La lista de oferentes del proceso 034-00-A-COFAC-CEGOT-2025 (Presentación de oferta) publicada por FUERZA AEROESPACIAL COLOMBIANA | 16/Jun/2025 - 10:27 am |  | - |
+| Avisos | CO1.REQ.8330202 | Publicación modificación | 10/Jun/2025 - 03:55 pm |  |  |
+| Aclaraciones | CO1.MSG.8004369 | RE: Observaciones SELECCIÓN ABREVIADA SUBASTA INVERSA No. 034-00-A-COFAC-CEGOT-2025, Observaciones Pliego de Condiciones Definitivo, Solicitud prorrogar el cierre de la propuesta | 09/Jun/2025 - 06:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7988863 | Observaciones SELECCIÓN ABREVIADA SUBASTA INVERSA No. 034-00-A-COFAC-CEGOT-2025 | 05/Jun/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7986715 | Observaciones Pliego de Condiciones Definitivo | 05/Jun/2025 - 11:23 am |  | - |
+| Aclaraciones | CO1.MSG.7986086 | Solicitud prorrogar el cierre de la propuesta | 05/Jun/2025 - 10:31 am |  | - |
+| Aclaraciones | CO1.MSG.7947118 | Respuesta a las Observaciones al Proyecto de Pliego de condiciones | 27/May/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7941545 | AVISO DE NO Limitación a MiPymes | 27/May/2025 - 08:56 am |  | - |
+| Aclaraciones | CO1.MSG.7930645 | Observaciones Borrador SELECCIÓN ABREVIADA SUBASTA INVERSA No. 034-00-A-COFAC-CEGOT-2025 | 23/May/2025 - 03:43 pm |  | - |
+| General | CO1.MSG.7907437 | AVISO DE CONVOCATORIA PUBLICA | 20/May/2025 - 11:22 am |  | - |

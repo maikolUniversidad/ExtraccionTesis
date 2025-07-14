@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO SAN ISIDRO SUR ORIENTAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68082b81c03633.56243959
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-22 18:51:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El Colegio San Isidro Sur Oriental requiere adquirir a título de compraventa Materiales Equipo o insumos para la impresión del boletín escolar características establecidas en la convocatoria pública.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82121500 - Impresión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 34 SUR # 7A 88 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82121500 | Adquirir a título de compraventa Materiales Equipo o insumos para la impresión del boletín escolar características establecidas en la convocatoria pública. | Contratación régimen especial - Régimen especial | SGP | $1.350.000 | IED SAN ISIDRO SUR ORIENTAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 04:11 pm
+
+**Fecha de Firma del Contrato:**
+
+25/Abr/2025 - 02:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+25/Abr/2025 - 03:00 pm
+
+**Plazo de ejecución del contrato:**
+
+26/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

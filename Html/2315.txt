@@ -1,0 +1,101 @@
+Title: Licitaciones - SUPERVIGILANCIA - MD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681eb5112dd760.17394193
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:22:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLICITUD DE INFORMACIÓN A PROVEEDORES PARA LA ADQUISICIÓN Y RENOVACIÓN DE LICENCIAMIENTO DE SOLUCIONES DE SEGURIDAD INFORMÁTICA, INCLUYENDO MÓDULOS DE EXPANSIÓN, DISPOSITIVOS DE EXTENSIÓN REMOTA Y LICENCIAS COMPLEMENTARIAS DE SEGURIDAD; ASÍ COMO LA PRESTACIÓN DEL SERVICIO DE SOPORTE TÉCNICO ESPECIALIZADO Y MANTENIMIENTO PARA LA SOLUCIÓN DE SEGURIDAD PERIMETRAL Y DE PROTECCIÓN DE INFORMACIÓN ACTUALMENTE IMPLEMENTADA EN LA ENTIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81112208 - Mantenimiento de software de protección y seguridad,81111801 - Seguridad de los computadores, redes o internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 Numero 57 - 41 Torre 8 Piso 11 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 09:05 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7869422 | RESPUESTA: Observación MD Solic. de información a los Proveedores (SECOPII) ECO- 007- 2025 | 12/May/2025 - 05:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7866732 | Observación MD Solic. de información a los Proveedores (SECOPII) ECO- 007- 2025 | 12/May/2025 - 01:01 pm |  | - |

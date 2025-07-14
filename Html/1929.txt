@@ -1,0 +1,94 @@
+Title: Licitaciones - TRANSMILENIO S.A. - Solicitud de información a los Proveedores (SECOPII) TMSA-SIP-12-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fed0d86b65b5.78323344
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-21 10:07:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el servicio integral de impresión y fotocopiado, incluyendo mantenimiento, soporte técnico especializado y suministro de insumos esenciales, con el fin de atender las necesidades operativas de TRANSMILENIO S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80161800 - Servicios de alquiler o arrendamiento de equipo de oficina
+
+**Códigos adicionales UNSPSC:**
+
+82121503 - Impresión digital,82121701 - Servicios de copias en blanco y negro o de cotejo,45101507 - Prensas impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "106,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av. El dorado No. 69 - 76 / Edificio Elemento Torre 1 Piso 5 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 04:24 pm
+
+**Plazo para solicitar aclaraciones:**
+
+15/Abr/2025 - 04:30 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Abr/2025 - 04:30 pm

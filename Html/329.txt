@@ -1,0 +1,293 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE CANDELARIA VALLE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68155e0110e0e6.15221254
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:28:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON EL SUMINISTRO DE REPUESTOS Y COMPRA IMPRESORAS DE ALTO RENDIMIENTO DE LA ALCALDÍA MUNICIPAL DE CANDELARIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Candelaria
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "105,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 9 N° 7-69 Parque Principal Candelaria Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212100 | PRESTACION DE SERVICIOS DE MATENIMIENTO PREVENTIVO Y CORRECTIVO CON EL SUMINISTRO DE RESPUESTOS PARA LAS IMPRESORAS DE ALTO RENDIMIENTO KYOCERA DE LA ALCALDIA MUNICIPAL DE CANDELARIA. | Selección abreviada menor cuantía | Recursos propios | $200.000.000 | ALCALDIA DE CANDELARIA |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+02/May/2025 - 06:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+02/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+13/May/2025 - 10:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+14/May/2025 - 10:00 am
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+14/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 05:10 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+14/May/2025 - 05:16 pm
+
+**Plazo para manifestación de interés:**
+
+19/May/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+21/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+23/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 12:00 pm
+
+**Apertura de Ofertas:**
+
+30/May/2025 - 12:05 pm
+
+**Informe de presentación de Ofertas:**
+
+30/May/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jun/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+11/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+12/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/Jun/2025 - 05:00 pm | 22/Abr/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/Jun/2025 - 05:00 pm | 22/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 09/Jun/2025 - 05:00 pm | 22/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MICRONET SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 189,983,857
+
+**Informes proceso de selección CO1.AWD.2272001 de 11/Jun/2025 - 08:45 am. Valor $189.983.857**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 05:27 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 04:33 pm |  |
+| Informe de selección | 11/Jun/2025 - 08:45 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272001**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MICRONET SAS * **Tipo documento:** NIT * **Documento:** 815001055 | * **Nombre:** DIEGO TRUJILLO BENITEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 16260038 | Cali - Valle del Cauca | $189.983.857 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272001****
+
+**ID del contrato en SECOP:**
+
+203-11-08-819
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+22/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 189,983,857
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272001 | Informe de selección CO1.AWD.2272001 | 11/Jun/2025 - 08:45 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272001 | Informe de evaluación 2 CO1.AWD.2272001 | 11/Jun/2025 - 04:33 pm |  | - |
+| Avisos | CO1.REQ.8336909 | Publicación modificación | 10/Jun/2025 - 06:39 pm |  |  |
+| Avisos | CO1.REQ.8336909 | Publicación modificación | 10/Jun/2025 - 11:39 am |  |  |
+| Avisos | CO1.MSG.7983103 | Publicación de la lista de ofertas del proceso MDC-DAP-SAMC-001-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 04/Jun/2025 - 05:28 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272001 | Informe de evaluación 1 CO1.AWD.2272001 | 04/Jun/2025 - 05:27 pm |  | - |
+| Avisos | CO1.REQ.8336909 | Publicación modificación | 03/Jun/2025 - 06:08 pm |  |  |
+| Avisos | CO1.MSG.7965603 | La lista de oferentes del proceso MDC-DAP-SAMC-001-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDÍA MUNICIPAL DE CANDELARIA VALLE | 30/May/2025 - 12:31 pm |  | - |
+| General | CO1.MSG.7959859 | AVISO PUBLICO - LIMITACION A MYPIMES DEPARTAMENTALES | 29/May/2025 - 03:01 pm |  | - |
+| Avisos | CO1.REQ.8336909 | Publicación modificación | 29/May/2025 - 10:00 am |  |  |
+| General | CO1.MSG.7929115 | RESPUESTA A LAS OBSERVACIONES AL PLIEGO DE CONDICIONES DEFINITIVO | 23/May/2025 - 12:17 pm |  | - |

@@ -1,0 +1,199 @@
+Title: Licitaciones - MUNICIPIO DE SOTAQUIRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a1af458aed2.21841379
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 11:53:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS DE CÓMPUTO DESTINADOS A LA INSTITUCIÓN EDUCATIVA ADOLFO MARÍA JIMÉNEZ, CON EL FIN DE FORTALECER LAS CAPACIDADES TECNOLÓGICAS DE LOS ESTUDIANTES MEDIANTE LA DOTACIÓN DE HERRAMIENTAS QUE FACILITEN EL ACCESO A ENTORNOS DIGITALES Y CONTRIBUYAN AL MEJORAMIENTO DE LOS PROCESOS DE ENSEÑANZA Y APRENDIZAJE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Sotaquirá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador,44103100 - Suministros para impresora, fax y fotocopiadora,83101900 - Conservación de energía
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 7 No. 6-64 Sotaquirá Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43212100, 44103100, 83101900 | SUMINISTRO DE EQUIPOS DE CÓMPUTO DESTINADOS A LA INSTITUCIÓN EDUCATIVA ADOLFO MARÍA JIMÉNEZ, CON EL FIN DE FORTALECER LAS CAPACIDADES TECNOLÓGICAS DE LOS ESTUDIANTES MEDIANTE LA DOTACIÓN DE HERRAMIENTAS QUE FACILITEN EL ACCESO A ENTORNOS DIGITALES Y CONTRIBUYAN AL MEJORAMIENTO DE LOS PROCESOS DE ENSEÑANZA Y APRENDIZAJE | Mínima cuantía | SGP | $28.350.000 | DIRECCION ADMINSITARTIVA DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 06:42 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/Jun/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 04:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/Jun/2025 - 04:30 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+13/Jun/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+13/Jun/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+16/Jun/2025 - 01:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 16/Jun/2025 - 01:00 pm | 31/Oct/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 16/Jun/2025 - 01:00 pm | 31/Oct/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8025673 | aviso mipymes | 12/Jun/2025 - 05:38 pm |  | - |

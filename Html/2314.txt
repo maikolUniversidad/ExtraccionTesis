@@ -1,0 +1,97 @@
+Title: Licitaciones - IDARTES - Solicitud de información a los Proveedores (SECOPII) IDARTES-COT. 080-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681ebcb63b2611.61226239
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:22:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR SERVICIOS Y LICENCIAS DE LA PLATAFORMA ARCGIS CON EL FIN DE ASEGURAR LA CONTINUIDAD DE LOS PROYECTOS INSTITUCIONALES QUE HACEN USO DE SISTEMAS DE GEORREFERENCIACIÓN, FACILITANDO LA RECOLECCIÓN, ORGANIZACIÓN, GESTIÓN Y DISTRIBUCIÓN DE INFORMACIÓN GEOGRÁFICA, CONFORME A LAS NECESIDADES TÉCNICAS Y ESTRATÉGICAS DEL IDARTES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231511 - Software de sistemas expertos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 15-46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 09:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+14/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8240765 | Publicación modificación | 12/May/2025 - 08:54 am |  |  |
+| Avisos | CO1.REQ.8240765 | Publicación modificación | 12/May/2025 - 08:52 am |  |  |

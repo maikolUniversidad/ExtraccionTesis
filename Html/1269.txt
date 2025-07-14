@@ -1,0 +1,287 @@
+Title: Licitaciones - INSTITUTO NACIONAL PARA CIEGOS - Contratación mínima cuantía 079
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bd290bcb5d9.04757128
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 08:19:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Servicio de mantenimiento y ajustes a IPv6 - Incluye permanencia en LACNIC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83121700 - Servicios de comunicación masiva
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Acceso a internet", "licicodigos": "102,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 13 No. 34 -91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+219 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 83121700 | Servicio de mantenimiento y ajustes a IPv6 - Incluye permanencia en "LACNIC" | Mínima cuantía | Recursos propios | $12.000.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 04:34 pm
+
+**Publicación de estudios previos:**
+
+08/May/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+08/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+12/May/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 11:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+13/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+15/May/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+15/May/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/May/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/May/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:05 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 21/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 21/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 21/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 14/May/2025 - 04:32 pm | * **Nombre:** MCE NET SOLUTIONS SAS | Cundinamarca |
+| 2 | 15/May/2025 - 09:34 am | * **Nombre:** MCO GLOBAL SAS | Distrito Capital de Bogotá |
+| 3 | 15/May/2025 - 10:52 am | * **Nombre:** GCPRO | Pasto - Nariño |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,000,000
+
+**Informes proceso de selección CO1.AWD.2253721 de 21/May/2025 - 10:07 am. Valor $12.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/May/2025 - 11:27 am |  |
+| Informe de evaluación | 16/May/2025 - 11:27 am |  |
+| Informe de evaluación | 16/May/2025 - 11:27 am |  |
+| Informe de evaluación | 19/May/2025 - 02:20 pm |  |
+| Informe de evaluación | 19/May/2025 - 02:20 pm |  |
+| Informe de evaluación | 19/May/2025 - 02:20 pm |  |
+| Informe de selección | 21/May/2025 - 10:07 am |  |
+| Informe de selección | 21/May/2025 - 10:07 am |  |
+| Informe de selección | 21/May/2025 - 10:07 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2253721**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MCO GLOBAL SAS * **Tipo documento:** NIT * **Documento:** 9007498203 | * **Nombre:** MIGUEL ARTURO SANCHEZ TORRES * **Tipo documento:** NIT * **Documento:** 7163606 | - Distrito Capital de Bogotá | $12.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2253721****
+
+**Contrato 080 - 2025 de MCO GLOBAL SAS:**
+
+**ID del contrato en SECOP:**
+
+080 - 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Servicio de mantenimiento y ajustes a IPv6 - Incluye permanencia en "LACNIC"
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 83121700 | Servicio de mantenimiento y ajustes a IPv6 Incluye permanencia en LACNIC | 1,00 | UN | 12.000.000,00 | 12.000.000,00 | 12.000.000,00 | 12.000.000,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+219 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 12,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 7. ACEPTACION DE OFERTA 080 MCO GLOBAL.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2253721 | Informe de selección CO1.AWD.2253721 | 21/May/2025 - 10:07 am |  | - |
+| Reporte preliminar | CO1.AWD.2253721 | Informe de evaluación 2 CO1.AWD.2253721 | 19/May/2025 - 02:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2253721 | Informe de evaluación 1 CO1.AWD.2253721 | 16/May/2025 - 11:27 am |  | - |
+| Avisos | CO1.MSG.7887282 | Publicación de la lista de ofertas del proceso 079 - 2025. | 15/May/2025 - 11:33 am |  | - |
+| Avisos | CO1.MSG.7887278 | La lista de oferentes del proceso 079 - 2025 publicada por INSTITUTO NACIONAL PARA CIEGOS | 15/May/2025 - 11:33 am |  | - |
+| General | CO1.MSG.7885193 | RE: Observaciones | 15/May/2025 - 06:21 am |  | - |

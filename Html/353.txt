@@ -1,0 +1,275 @@
+Title: Licitaciones - UNGRD - Subasta Inversa UNGRD-SASI-001-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c83b9acecc9.67763855
+
+Markdown Content:
+Licitaciones - UNGRD - Subasta Inversa UNGRD-SASI-001-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 09:26:18
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+Adquisición de elementos de papelería, tóner, cintas para impresora, artículos de oficina, elementos de uso y conservación documental para el normal funcionamiento de la Unidad Nacional para la Gestión del Riesgo de Desastres UNGRD.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111530 - Papel de notas autoadhesivas
+
+**Códigos adicionales UNSPSC:**
+14111507 - Papel para impresora o fotocopiadora,14111510 - Papel para plotter,14111514 - Blocs o cuadernos de papel,14111519 - Papeles cartulina,14111531 - Papel libros o cuadernos para bitácoras,14111537 - Etiquetas de papel,44101716 - Unidades de perforación de orificios,44111515 - Cajas u organizadores de almacenamiento de archivos,44121503 - Sobres,44121615 - Grapadoras,44121619 - Tajalápices manuales,44121716 - Resaltadores,44121902 - Repuestos de minas,44122003 - Carpetas,44122010 - Separadores,44122029 - Folders de clasificación,44121804 - Borradores,44121805 - Esferos de corrección,44121907 - Repuestos de tinta para estilógrafos,44121612 - Cortadoras de papel o repuestos,44122101 - Cauchos,44122104 - Clips para papel,44122107 - Grapas,55121616 - Banderas auto adhesivas,60105704 - Barras de pegante libres de ácido,60121124 - Papel kraft,26111702 - Pilas alcalinas,31121517 - Objetos maquinados de compuestos fundidos en molde en concha,44103105 - Cartuchos de tinta,44103112 - Cinta de impresora,60121518 - Lápices de grafito
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Productos para archivo", "licicodigos": "127,312,313" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+Av. Calle 26 No. 92-32 Piso 2 Gold 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 170,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111530, 14111507, 14111514, 14111510, 14111519, 14111537, 14111531, 44101716, 44111515, 44121503, 44121615, 44121619, 44121621, 44121700 | 11.Adquisición de útiles de escritorio y elementos de oficina para la Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD | Mínima cuantía | Presupuesto de entidad nacional | $170.000.000 | UNIDAD DE CONTRATACIÓN UNGRD |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Jun/2025 - 06:05 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Jun/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+25/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+03/Jul/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+08/Jul/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+09/Jul/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jul/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+14/Jul/2025 - 11:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+17/Jul/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+22/Jul/2025 - 10:03 am
+
+**Informe de presentación de ofertas:**
+
+22/Jul/2025 - 11:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+25/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+05/Ago/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+08/Ago/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+08/Ago/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Ago/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Ago/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 08/Ago/2025 - 08:00 am | 30/Jun/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 08/Ago/2025 - 08:00 am | 15/Dic/2027 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+05/Ago/2025 - 08:00 am
+
+**Fecha de inicio:**
+05/Ago/2025 - 10:30 am
+
+**Fecha fin:**
+05/Ago/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8093492 | OBSERVACIÓN UNGRED UNGRD-SASI-001-2025 | 27/Jun/2025 - 01:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8087658 | OBSERVACIONES FINANCIERAS | 26/Jun/2025 - 02:53 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:34 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

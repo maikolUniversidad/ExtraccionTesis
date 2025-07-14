@@ -1,0 +1,259 @@
+Title: Licitaciones - IDARTES - Subasta Inversa IDARTES-SA-SI-014-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851fd0263ecb5.52923795
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:09:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO, INCLUYENDO REPUESTOS QUE SEAN NECESARIOS PARA EQUIPOS ESPECIALIZADOS COMO ESCÁNER, PROYECTORES DE DIFERENTES MARCAS, EQUIPOS DE CÓMPUTO ESPECÍFICOS, IMPRESORAS 3D Y CORTADORAS LÁSER, DISTRIBUIDOS EN LAS SEDES DEL INSTITUTO DISTRITAL DE LAS ARTES - IDARTES, GARANTIZANDO SU ÓPTIMO FUNCIONAMIENTO Y CUMPLIMIENTO DE LOS REQUERIMIENTOS OPERACIONALES Y TÉCNICOS DE LA ENTIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora,45111616 - Proyectores de video,45111600 - Proyectores y suministros,43211700 - Dispositivos informáticos de entrada de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Maquinaria industrial, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "106,228,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 15-46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 100,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+17/Jun/2025 - 06:36 pm
+
+**Publicación Estudios Previos:**
+
+17/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+17/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/Jun/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+01/Jul/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/Jul/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+02/Jul/2025 - 07:16 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jul/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 09:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+22/Jul/2025 - 07:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+28/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 25/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:00 pm |
+| Pago de salarios | 10,00 | 25/Jul/2025 - 12:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 25/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 25/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/Jul/2025 - 11:30 am
+
+**Fecha de inicio:**
+
+22/Jul/2025 - 11:50 am
+
+**Fecha fin:**
+
+22/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8154633 | Publicación de la lista de ofertas del proceso IDARTES-SA-SI-014-2025 (Presentación de oferta). | 11/Jul/2025 - 09:30 am |  | - |
+| Avisos | CO1.MSG.8154582 | La lista de oferentes del proceso IDARTES-SA-SI-014-2025 (Presentación de oferta) publicada por IDARTES | 11/Jul/2025 - 09:23 am |  | - |
+| General | CO1.MSG.8145457 | Respuesta Observación Extemporanea | 09/Jul/2025 - 06:07 pm |  | - |
+| General | CO1.MSG.8144722 | Respuestas Observaciones Pliego Definitivo | 09/Jul/2025 - 05:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8069752 | Observaciones sobre proceso mantenimiento | 23/Jun/2025 - 09:08 pm |  | - |

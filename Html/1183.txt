@@ -1,0 +1,308 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE BETULIA - ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e6d9fc03751.74157640
+
+Markdown Content:
+Licitaciones - CONCEJO MUNICIPAL DE BETULIA - ANTIOQUIA - Contratación mínima cuantía MC-002-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-30 07:07:10
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+Suministro de un videoproyector, papelería, insumos de aseo, cafetería y diferentes componentes de oficina y empastado de libros para el buen funcionamiento y buena gestión del Honorable Concejo de Betulia Antioquia, para ser utilizados en las diferentes sesiones de la Corporación
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Betulia
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44121600 - Suministros de escritorio
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Papelería y elementos de oficina, -Artículos de cafetería y víveres, -Artículos de aseo, -Encuadernación, empastado y argollado", "licicodigos": "115,127,186,260,415" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 20 No 20 - 14 Betulia Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121600 | Suministros de escritorio | Mínima cuantía | Recursos propios | $9.616.058 | CONCEJO MUNICIPAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 06:43 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:40 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:40 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+24/May/2025 - 08:00 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 07:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 08:00 am
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Papeleria Dora | Betulia - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 15,341,458
+
+**Informes proceso de selección CO1.AWD.2262103 de 29/May/2025 - 08:19 am. Valor $15.341.458**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/May/2025 - 05:17 pm |  |
+| Informe de selección | 29/May/2025 - 08:19 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262103**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Papeleria y Variedades Dora * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 21559892 | * **Nombre:** Dora Maria Garcia Caro * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 21559892 | Betulia - Antioquia | $15.341.458 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262103****
+
+**Contrato CONTRATO 002 DE 2025 de Papeleria y Variedades Dora:**
+
+**ID del contrato en SECOP:**
+
+CONTRATO 002 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+Suministro de un videoproyector, papelería, insumos de aseo, cafetería y diferentes componentes de oficina y empastado de libros para el buen funcionamiento y buena gestión del Honorable Concejo de Betulia Antioquia, para ser utilizados en las diferentes sesiones de la Corporación
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121600 | Indicar el valor de la propuesta, con los valores de retenciones e IVA incluidos | 1,00 | UN | 15.341.458,00 | 15.341.458,00 | 15.341.458,00 | 15.341.458,00 |
+
+**Fecha inicio del contrato:**
+
+30/May/2025 - 08:00 am
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 06:00 pm
+
+**Plazo de ejecución:**
+
+198 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 15,341,458
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Acta de Inicio.pdf |  |
+|  | Comunicacion de aceptacion MC-002-2025.pdf |  |
+|  | CONTRATO 002 DE 2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262103 | Informe de selección CO1.AWD.2262103 | 29/May/2025 - 08:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262103 | Informe de evaluación 1 CO1.AWD.2262103 | 25/May/2025 - 05:17 pm |  | - |
+| Avisos | CO1.MSG.7933787 | La lista de oferentes del proceso MC-002-2025 publicada por CONCEJO MUNICIPAL DE BETULIA - ANTIOQUIA | 25/May/2025 - 05:10 pm |  | - |
+| Avisos | CO1.REQ.8300716 | Publicación modificación | 22/May/2025 - 06:36 pm |  |  |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:15 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

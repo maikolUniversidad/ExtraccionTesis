@@ -1,0 +1,153 @@
+Title: Licitaciones - ENTerritorio S.A - Régimen Especial CEG-012-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68351968137e75.93708198
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-04 14:59:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO REST DE FIRMA DIGITAL CON SUMINISTRO DE CERTIFICADOS DIGITALES, Y SERVICIO WEB DE VALIDACIÓN DE IDENTIDAD BIOMÉTRICA FACIAL Y SOCIODEMOGRÁFICA, INCLUIDA LA INSTALACIÓN, INTEGRACIÓN, ASÍ COMO EL SOPORTE TÉCNICO, ACTUALIZACIONES Y MANTENIMIENTO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+43232300 - Software de consultas y gestión de datos,43233200 - Software de seguridad y protección,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No. 13-19 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - Honduras, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+26/May/2025 - 08:37 pm
+
+**Fecha límite de presentación de ofertas:**
+
+06/Jun/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+06/Jun/2025 - 11:05 am
+
+**Fecha de Firma del Contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/Jul/2025 - 08:00 am
+
+**Plazo de ejecución del contrato:**
+
+01/Jul/2026 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/Jun/2025 - 08:00 am | 20/Feb/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7976707 | DOCUMENTO DE RESPUESTA OBSERVACIONES PRESENTADAS AL PROCESO CEG-012-2025 DENTRO Y FUERA DEL PLAZO - EXTEMPORANEAS | 03/Jun/2025 - 08:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7964811 | Observaciones proceso | 30/May/2025 - 11:14 am |  | - |
+| Avisos | CO1.REQ.8323999 | Publicación modificación | 29/May/2025 - 05:41 pm |  |  |
+| Aclaraciones | CO1.MSG.7959007 | Observaciones | 29/May/2025 - 01:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7956565 | Observación - Software Colombia Servicios Informáticos S.A.S. | 29/May/2025 - 08:52 am |  | - |
+| Aclaraciones | CO1.MSG.7955297 | Observaciones al proceso | 28/May/2025 - 07:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7954821 | OBSERVACIONES JURÍDICAS Y DE EXPERIENCIA AL PROCESO CEG-012-2025 | 28/May/2025 - 05:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7954828 | Observaciones al proceso | 28/May/2025 - 05:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7954589 | OBSERVACIONES PROCESO ENTERRITORIO | 28/May/2025 - 05:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7954133 | OBSERVACIONES TÉCNICAS Y FINANCIERAS CEG-012-2025 CAMERFIRMA | 28/May/2025 - 05:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7952072 | Observaciones al Proceso | 28/May/2025 - 02:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7951335 | Solicitud prórroga proceso CEG-012-2025 | 28/May/2025 - 01:02 pm |  | - |
+| Aclaraciones | CO1.MSG.7949319 | observaciones | 28/May/2025 - 09:28 am |  | - |
+| Aclaraciones | CO1.MSG.7948700 | Observaciones técnicas al pliego de condiciones | 28/May/2025 - 09:04 am |  | - |

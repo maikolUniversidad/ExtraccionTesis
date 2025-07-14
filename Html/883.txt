@@ -1,0 +1,228 @@
+Title: Licitaciones - MUNICIPIO DE TIMBIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680aeebcbab934.42478488
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-10 01:43:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+EL CONTRATISTA SE OBLIGA CON EL MUNICIPIO DE TIMBÍO A TRANSFERIR A TITULO DE COMPRAVENTA UN COMPUTADOR, PERIFÉRICOS E IMPRESORA HOMOLOGADA POR EL RUNT 2.0, PARA ELABORACIÓN DE LICENCIAS DE CONDUCCIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Timbío
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212108 - Impresoras de cinta térmica
+
+**Códigos adicionales UNSPSC:**
+
+43211507 - Computadores de escritorio,46151715 - Equipo de huellas dactilares
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "104,105,468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 15 CARRERA 17 Timbío Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,850,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 08:56 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 10:30 am
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+03/May/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/May/2025 - 09:00 am | 20/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/May/2025 - 09:00 am | 20/Sep/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 08:42 am | * **Nombre:** INTEXUS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 34,600,000
+
+**Informes proceso de selección CO1.AWD.2241113 de 09/May/2025 - 05:58 am. Valor $34.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 09:46 am |  |
+| Informe de selección | 09/May/2025 - 05:58 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241113**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INTEXUS * **Tipo documento:** NIT * **Documento:** 9005369260 | * **Nombre:** JAIME CONCHA * **Tipo documento:** * **Documento:** 3228878 | Bogotá - Distrito Capital de Bogotá | $34.600.000 | - |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241113****
+
+**Cuantía a la firma del contrato:**
+
+$ 34,600,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241113 | Informe de selección CO1.AWD.2241113 | 09/May/2025 - 05:58 pm |  | - |
+| Avisos | CO1.MSG.7824412 | Publicación de la lista de ofertas del proceso IMC-018-2025. | 02/May/2025 - 09:47 am |  | - |
+| Reporte preliminar | CO1.AWD.2241113 | Informe de evaluación 1 CO1.AWD.2241113 | 02/May/2025 - 09:46 am |  | - |
+| Avisos | CO1.MSG.7812085 | La lista de oferentes del proceso IMC-018-2025 publicada por MUNICIPIO DE TIMBIO | 29/Abr/2025 - 11:42 am |  | - |
+| Avisos | CO1.REQ.8165436 | Publicación modificación | 28/Abr/2025 - 11:03 am |  |  |

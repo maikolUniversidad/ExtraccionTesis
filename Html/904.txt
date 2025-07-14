@@ -1,0 +1,211 @@
+Title: Licitaciones - MUNICIPIO DE GACHANCIPA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cc55357f107.70016226
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 00:42:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ARRENDAMIENTO, SOPORTE Y MANTENIMIENTO DE EQUIPOS DE FOTOCOPIADOS, IMPRESIÓN Y ESCANEO PARA LA ALCALDÍA MUNICIPAL DE GACHANCIPÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Gachancipá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112400 - Servicios de alquiler o arrendamiento de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Fotocopiadoras, repuestos e insumos, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "108,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 6 No. 2 - 10, piso 3 Gachancipá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Arrendamiento de muebles
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,850,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112400 | ARRENDAMIENTO DE EQUIPOS MULTIFUNCIONALES DE IMPRESION Y COPIADO CON DESTINO A LAS DIFERENTES DEPENDENCIAS DEL NIVEL CENTRAL DEL MUNICIPIO DE GACHANCIPA | Mínima cuantía | Recursos propios | $40.000.000 | 6. SECRETARIA DE DESARROLLO INSTITUCIONAL |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+20/May/2025 - 12:35 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 12:35 pm
+
+**Fecha de publicación:**
+
+20/May/2025 - 12:36 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 12:35 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 12:35 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 09:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/May/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 26/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 26/May/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(5/06/2025 3:05:46 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE GACHANCIPA en 9 horas de tiempo transcurrido (5/06/2025 3:05:46 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: RESOLUCIÓN N° 323 DEL 03 DE JUNIOPOR LA CUAL SE DECLARA DESIERTO EL PROCESO
+
+**Fecha de la cancelación:**
+
+05/Jun/2025 - 03:05 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2267309 | Informe de evaluación 1 CO1.AWD.2267309 | 30/May/2025 - 09:11 am |  | - |
+| Reporte preliminar | CO1.AWD.2262737 | Informe de evaluación 2 CO1.AWD.2262737 | 30/May/2025 - 09:06 am |  | - |
+| Reporte preliminar | CO1.AWD.2262737 | Informe de evaluación 1 CO1.AWD.2262737 | 26/May/2025 - 02:16 pm |  | - |
+| Avisos | CO1.REQ.8289732 | Publicación modificación | 23/May/2025 - 02:28 pm |  |  |
+| Avisos | CO1.MSG.7922074 | La lista de oferentes del proceso SMC 017-2025 publicada por MUNICIPIO DE GACHANCIPA | 22/May/2025 - 11:57 am |  | - |
+| Aclaraciones | CO1.MSG.7912950 | OBSERVACION | 21/May/2025 - 08:35 am |  | - |

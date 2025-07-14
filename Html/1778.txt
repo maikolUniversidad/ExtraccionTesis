@@ -1,0 +1,100 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC AVIACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c4170e27877.97078433
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:30:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE CARGADORES SOLARES PORTÁTILES PARA LOS SISTEMAS DE AERONAVES NO TRIPULADAS PERTENECIENTES A LA DIVISIÓN DE AVIACIÓN ASALTO AÉREO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111704 - Cargadores de baterías
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "93,489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO EL DORADO - CENAC AVIACION Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 01:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8145581 | SOLICITUD ACLARACION TECNICA DE LAS COTIZACIONES | 09/Jul/2025 - 06:28 pm |  | - |
+| Avisos | CO1.REQ.8459661 | Publicación modificación | 09/Jul/2025 - 03:05 pm |  |  |
+| General | CO1.MSG.8111805 | RE: Solicitud extensión plazo de cotización estudio de mercado | 03/Jul/2025 - 09:05 am |  | - |
+| Avisos | CO1.REQ.8459661 | Publicación modificación | 03/Jul/2025 - 09:04 am |  |  |
+| General | CO1.MSG.8100932 | Solicitud Alcance de Cotizacion | 01/Jul/2025 - 02:51 pm |  | - |

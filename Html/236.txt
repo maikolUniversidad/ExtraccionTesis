@@ -1,0 +1,309 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834ecf69931d3.40939776
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:40:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar el servicio de hosting y API´s para la plataforma tecnológica del DASCD, integrando la renovación de Veeambackup para almacenamiento en la nube.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112105 - Servicios de hospedaje de operación de sitios web
+
+**Códigos adicionales UNSPSC:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting, -Servicios en la nube (Cloud)", "licicodigos": "111,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 30 No 25-90 piso 9 costado oriental Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+225 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105 | Prestar el servicio de hosting y API´s para la plataforma tecnológica del DASCD, integrando la renovación de Veeambackup para almacenamiento en la nube. | Selección abreviada menor cuantía | Recursos propios | $391.075.000 | SUBDIRECCION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 05:36 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+04/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+05/Jun/2025 - 08:40 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 09:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+05/Jun/2025 - 09:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 09:00 pm
+
+**Plazo para manifestación de interés:**
+
+06/Jun/2025 - 06:00 pm
+
+**Realización del sorteo:**
+
+09/Jun/2025 - 10:00 am
+
+**Publicación de la lista de precalificados:**
+
+09/Jun/2025 - 10:10 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+12/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+16/Jun/2025 - 10:10 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+27/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:20 pm | 12/Jul/2025 - 04:20 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 339,865,000
+
+**Informes proceso de selección CO1.AWD.2285310 de 26/Jun/2025 - 06:54 am. Valor $339.865.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 18/Jun/2025 - 05:23 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:23 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:23 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 07:46 am |  |
+| Informe de evaluación | 26/Jun/2025 - 07:46 am |  |
+| Informe de selección | 26/Jun/2025 - 06:54 pm |  |
+| Informe de selección | 26/Jun/2025 - 06:54 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2285310**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GOPHER GROUP SAS * **Tipo documento:** NIT * **Documento:** 900425485 | * **Nombre:** Helmunt David Sierra Abril * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80184284 | Bogotá - Distrito Capital de Bogotá | $339.865.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2285310****
+
+**ID del contrato en SECOP:**
+
+CPS-097-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+11/Feb/2026 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 339,865,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285310 | Informe de selección CO1.AWD.2285310 | 26/Jun/2025 - 06:54 pm |  | - |
+| Objeciones | CO1.MSG.8084348 | [Respondido] RE:Observaciones | 26/Jun/2025 - 06:39 pm |  | - |
+| Objeciones | CO1.MSG.8084348 | Observaciones | 26/Jun/2025 - 08:26 am |  | - |
+| Reporte preliminar | CO1.AWD.2285310 | Informe de evaluación 2 CO1.AWD.2285310 | 26/Jun/2025 - 07:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2285310 | Informe de evaluación 1 CO1.AWD.2285310 | 18/Jun/2025 - 05:23 pm |  | - |
+| Avisos | CO1.MSG.8035471 | Publicación de la lista de ofertas del proceso DASCD-SAMC-008-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 16/Jun/2025 - 10:22 am |  | - |
+| Avisos | CO1.MSG.8035458 | La lista de oferentes del proceso DASCD-SAMC-008-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 16/Jun/2025 - 10:21 am |  | - |
+| Aclaraciones | CO1.MSG.8026246 | RE: Solicitud de respuesta a observaciones y preguntas presentadas | 12/Jun/2025 - 06:41 pm |  | - |
+| Aclaraciones | CO1.MSG.8026225 | RE: Observaciones al pliego | 12/Jun/2025 - 06:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8025974 | RE: Observaciones | 12/Jun/2025 - 06:34 pm |  | - |
+| Aclaraciones | CO1.MSG.8005678 | Solicitud de respuesta a observaciones y preguntas presentadas | 10/Jun/2025 - 08:44 am |  | - |
+| Aclaraciones | CO1.MSG.8000880 | Observaciones al pliego | 09/Jun/2025 - 12:09 pm |  | - |
+| Aclaraciones | CO1.MSG.8000804 | Observaciones | 09/Jun/2025 - 12:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7974896 | Observaciones Heimcore SAS | 03/Jun/2025 - 05:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7974620 | OBSERVACIONES AL PROCESO | 03/Jun/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7964609 | Observaciones al proceso. | 30/May/2025 - 10:39 am |  | - |

@@ -1,0 +1,257 @@
+Title: Licitaciones - GOBERNACION DEL HUILA*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812909dd88ae8.10414790
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 07:37:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ESTAR LOS SERVICIOS PARA EL SOPORTE, ADMINISTRACIÓN Y MANTENIMIENTO DE LOS SERVICIOS TECNOLÓGICOS DE LA INFRAESTRUCTURA TI DE LA GOBERNACIÓN DEL HUILA, INCLUYENDO EL SUMINISTRO DE REPUESTOS QUE SE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32131000 - Accesorios, materias primas y piezas de componentes electrónicos
+
+**Códigos adicionales UNSPSC:**
+
+72151600 - Servicios de sistemas especializados de comunicación,80101500 - Servicios de consultoría de negocios y administración corporativa,80161500 - Servicios de apoyo gerencial,81111500 - Ingeniería de software o hardware,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 4 CALLE 8 ESQUINA Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+9 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,209,975,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+30/Abr/2025 - 03:54 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/May/2025 - 06:01 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/May/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+12/May/2025 - 11:59 pm
+
+**Realización del sorteo:**
+
+13/May/2025 - 03:00 pm
+
+**Publicación de la lista de precalificados:**
+
+13/May/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+13/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+14/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+20/May/2025 - 09:02 am
+
+**Informe de presentación de Ofertas:**
+
+20/May/2025 - 09:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/May/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+28/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+29/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 959,257,847
+
+**Informes proceso de selección CO1.AWD.2258606 de 27/May/2025 - 02:47 am. Valor $959.257.847**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 27/May/2025 - 09:59 am |  |
+| Informe de evaluación | 27/May/2025 - 09:59 am |  |
+| Informe de evaluación | 27/May/2025 - 09:59 am |  |
+| Informe de evaluación | 27/May/2025 - 09:59 am |  |
+| Informe de selección | 27/May/2025 - 02:47 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2258606**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TECNOMUSIC SOLUCIONES INTEGRALES SAS * **Tipo documento:** NIT * **Documento:** 901086065 | * **Nombre:** ALVARO CUELLAR CASTAÑO * **Tipo documento:** * **Documento:** 12109419 | - Huila | $959.257.847 | - | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2258606****
+
+**Cuantía a la firma del contrato:**
+
+$ 959,257,847
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2258606 | Informe de selección CO1.AWD.2258606 | 27/May/2025 - 02:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2258606 | Informe de evaluación 2 CO1.AWD.2258606 | 27/May/2025 - 09:59 am |  | - |
+| Reporte preliminar | CO1.AWD.2258606 | Informe de evaluación 1 CO1.AWD.2258606 | 21/May/2025 - 04:08 pm |  | - |
+| Avisos | CO1.MSG.7906473 | Publicación de la lista de ofertas del proceso SGSAMECSM0001-25 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 20/May/2025 - 09:36 am |  | - |
+| Avisos | CO1.MSG.7906469 | La lista de oferentes del proceso SGSAMECSM0001-25 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por GOBERNACION DEL HUILA* | 20/May/2025 - 09:35 am |  | - |
+| General | CO1.MSG.7866584 | ANEXOS EDITABLES | 12/May/2025 - 12:13 pm |  | - |

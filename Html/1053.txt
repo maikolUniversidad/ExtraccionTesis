@@ -1,0 +1,198 @@
+Title: Licitaciones - UNP - Contratación mínima cuantía PMC-UNP-045-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683640d6532ad3.21203783
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-04 14:26:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de certificados digitales de persona natural y jurídica, así como el certificado SSL Wildcard.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 63 # 14 - 97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512 | 1100/010 Contratar la adquisición de certificados digitales de persona natural y jurídica, así como el certificado SSL Wilcard. | Mínima cuantía | Presupuesto de entidad nacional | $36.500.000 | CONTRATOS |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+27/May/2025 - 05:08 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+06/Jun/2025 - 11:03 am
+
+**Informe de presentación de ofertas:**
+
+06/Jun/2025 - 11:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+11/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2026 - 06:00 pm | 30/Nov/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/Jun/2026 - 06:00 pm | 30/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 09/Jun/2026 - 06:00 pm | 30/May/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7973649 | respuesta a observaciones | 03/Jun/2025 - 02:13 pm |  | - |
+| Avisos | CO1.REQ.8328036 | Publicación modificación | 30/May/2025 - 01:30 pm |  |  |
+| General | CO1.MSG.7958211 | Publicación aviso NO limitación mipyme | 29/May/2025 - 11:26 am |  | - |

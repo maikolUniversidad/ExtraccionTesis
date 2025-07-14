@@ -1,0 +1,238 @@
+Title: Licitaciones - INVIPASTO - Contratación mínima cuantía CMC 2025 005
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682609db179106.11518847
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 06:40:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+El Contratista se compromete a la renovación de las licencias sobre software - ESET PROTECT ENTRY para la protección de los equipos de cómputo del Instituto, con las características de protección de tecnología de última generación y con licencia vigente por un (01) año contado a partir de su reactivación.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CAM ANGANOY LOS ROSALES II Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 10:29 am
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 10:30 am
+
+**Publicación de la invitación:**
+
+15/May/2025 - 10:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+19/May/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 4,025,000
+
+**Informes proceso de selección CO1.AWD.2259453 de 23/May/2025 - 08:10 am. Valor $4.025.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 22/May/2025 - 02:17 pm |  |
+| Informe de selección | 23/May/2025 - 08:10 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2259453**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC ON LINE ALTA TECNOLOGIA SAS * **Tipo documento:** NIT * **Documento:** 900707916 | * **Nombre:** HECTOS EMILIO MEDINA SALGADO * **Tipo documento:** NIT * **Documento:** 86059341 | - | $4.025.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2259453****
+
+**ID del contrato en SECOP:**
+
+CONTRATO DE SUMINISTRO 2025 - 062
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+30/May/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 4,025,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2259453 | Informe de selección CO1.AWD.2259453 | 23/May/2025 - 08:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2259453 | Informe de evaluación 1 CO1.AWD.2259453 | 22/May/2025 - 02:17 pm |  | - |
+| Avisos | CO1.MSG.7922914 | Publicación de la lista de ofertas del proceso CMC 2025 005. | 22/May/2025 - 02:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256058 | Informe de evaluación 1 CO1.AWD.2256058 | 20/May/2025 - 11:24 pm |  | - |
+| Avisos | CO1.MSG.7911537 | La lista de oferentes del proceso CMC 2025 005 publicada por INVIPASTO | 20/May/2025 - 06:21 pm |  | - |
+| Avisos | CO1.REQ.8263343 | Publicación modificación | 20/May/2025 - 06:20 pm |  |  |
+| General | CO1.MSG.7904048 | ADENDA 001 | 19/May/2025 - 05:13 pm |  | - |
+| Avisos | CO1.REQ.8263343 | Publicación modificación | 19/May/2025 - 05:12 pm |  |  |
+| General | CO1.MSG.7903831 | RESOLUCION DESIGNACION COMITE EVALUADOR | 19/May/2025 - 05:08 pm |  | - |
+| General | CO1.MSG.7896445 | AVISO NO LIMITACIÓN A MIPYME INVITACIÓN PÚBLICA DE MÍNIMA CUANTÍA No. CMC- 2024 003 | 16/May/2025 - 04:44 pm |  | - |

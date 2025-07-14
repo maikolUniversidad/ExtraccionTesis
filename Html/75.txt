@@ -1,0 +1,326 @@
+Title: Licitaciones - UAECD - Subasta Inversa UAECD-SASI-006-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68153ce6d41cd9.86652558
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestación de servicios de garantía, soporte, mantenimiento y actualización para los equipos de seguridad informática, con que cuenta la UAECD, así como el servicio de monitoreo y seguridad SOC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43232800 - Software de administración de redes,43233200 - Software de seguridad y protección,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,425,407,309
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43222600, 43233200, 81111800, 81112200 | I - SCDPI-200-00240-25 - Prestación de servicios de garantía, soporte, mantenimiento y actualización para los equipos de seguridad informática, con que cuenta la UAECD, así como el servicio de monitoreo y seguridad SOC. | Selección abreviada subasta inversa | NotApplied | $1.425.407.309 | Subgerencia de Contratación |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+02/May/2025 - 04:25 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 08:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+14/May/2025 - 11:46 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+14/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+19/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+23/May/2025 - 11:01 am
+
+**Informe de presentación de Ofertas:**
+
+23/May/2025 - 11:20 am
+
+**Publicación del informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+05/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+10/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+Si
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 12/Jun/2025 - 12:00 pm | 01/Nov/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 12/Jun/2025 - 12:00 pm | 01/Nov/2028 - 12:00 pm |
+| Calidad del servicio | 30,00 | 12/Jun/2025 - 12:00 pm | 01/Nov/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 12/Jun/2025 - 12:00 pm | 01/Nov/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DATASEC S.A.S. | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,424,900,663
+
+**Informes proceso de selección CO1.AWD.2264138 de 09/Jun/2025 - 07:24 am. Valor $1.424.900.663**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 01:56 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 11:33 am |  |
+| Informe de selección | 09/Jun/2025 - 07:24 pm |  |
+| Informe de selección | 09/Jun/2025 - 07:24 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264138**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DATASEC S.A.S. * **Tipo documento:** NIT * **Documento:** 901223827 | * **Nombre:** DATASEC S.A.S. * **Tipo documento:** NIT * **Documento:** 66720601 | - Distrito Capital de Bogotá | $1.424.900.663 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264138****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7964566
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 1,424,900,663
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+05/Jun/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+05/Jun/2025 - 04:00 pm
+
+**Fecha fin:**
+
+05/Jun/2025 - 04:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264138 | Informe de selección CO1.AWD.2264138 | 09/Jun/2025 - 07:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264138 | Informe de evaluación 3 CO1.AWD.2264138 | 05/Jun/2025 - 11:33 am |  | - |
+| Reporte preliminar | CO1.AWD.2272912 | Informe de evaluación 1 CO1.AWD.2272912 | 05/Jun/2025 - 11:30 am |  | - |
+| Avisos | CO1.MSG.7985900 | Publicación de la lista de ofertas del proceso UAECD-SASI-006-2025 (Presentación de oferta). | 05/Jun/2025 - 10:06 am |  | - |
+| Reporte preliminar | CO1.AWD.2264138 | Informe de evaluación 2 CO1.AWD.2264138 | 04/Jun/2025 - 04:31 pm |  | - |
+| Objeciones | CO1.MSG.7965109 | [Respondido] RE:SUBSANACIÓN TÉCNICA_DATASEC | 04/Jun/2025 - 04:15 pm |  | - |
+| General | CO1.MSG.7972948 | GAMMA INGENIEROS S.A.S | 03/Jun/2025 - 12:06 pm |  | - |
+| General | CO1.MSG.7967616 | RESPUESTA AL INFORME DE EVALUACION 1 | 30/May/2025 - 04:55 pm |  | - |
+| Objeciones | CO1.MSG.7965109 | SUBSANACIÓN TÉCNICA_DATASEC | 30/May/2025 - 11:33 am |  | - |
+| Reporte preliminar | CO1.AWD.2264138 | Informe de evaluación 1 CO1.AWD.2264138 | 27/May/2025 - 01:56 pm |  | - |
+| Avisos | CO1.MSG.7928633 | La lista de oferentes del proceso UAECD-SASI-006-2025 (Presentación de oferta) publicada por UAECD | 23/May/2025 - 11:23 am |  | - |
+| Aclaraciones | CO1.MSG.7881388 | RE: Observaciones DTS | 14/May/2025 - 02:06 pm |  | - |
+| General | CO1.MSG.7881390 | RESPUESTAS A LAS OBSERVACIONES | 14/May/2025 - 02:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7860359 | Observaciones DTS | 09/May/2025 - 02:40 pm |  | - |

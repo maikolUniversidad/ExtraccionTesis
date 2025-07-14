@@ -1,0 +1,342 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE FONSECA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b1f16147b29.48379974
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 06:29:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+FORTALECIMIENTO DE LOS PROCESOS DE ENSEÑANZA Y APRENDIZAJE MEDIANTE EL MEJORAMIENTO DE LA CALIDAD EDUCATIVA CON EL MONTAJE E INSTALACIÓN DE AULAS INTERACTIVAS MULTIFUNCIONALES EN LAS INSTITUCIONES EDUCATIVAS OFICIALES DEL DEPARTAMENTO DE LA GUAJIRA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+La Guajira : Fonseca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121635 - Regulador de voltaje
+
+**Códigos adicionales UNSPSC:**
+
+40101701 - Aires acondicionados,43232505 - Software educacional multimedios,44111911 - Tableros blancos interactivos o accesorios,72151504 - Servicio de acondicionamiento de energía para computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Diseño, desarrollo y/o Mantenimiento de software, -UPS y baterías de gran capacidad, -Equipos audiovisuales, -Aire acondicionado", "licicodigos": "93,102,109,115,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 12 # 18-05 Fonseca La Guajira COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 20,337,342,800
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 06:45 am
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 07:00 am
+
+**Publicación Estudios Previos:**
+
+19/May/2025 - 07:00 am
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 07:00 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 09:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 11:56 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/May/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+30/May/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+30/May/2025 - 05:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+09/Jun/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jun/2025 - 05:30 pm
+
+**Firma del Contrato:**
+
+12/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+17/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago | Porcentaje de amortización |
+| --- | --- | --- |
+| 1 | 12,5 | 12,5 |
+| 2 | 12,5 | 12,5 |
+| 3 | 12,5 | 12,5 |
+| 4 | 12,5 | 12,5 |
+| 5 | 12,5 | 12,5 |
+| 6 | 12,5 | 12,5 |
+| 7 | 12,5 | 12,5 |
+| 8 | 12,5 | 12,5 |
+| **total** | **100** | **100** |
+
+**Anticipos:**
+
+Si
+
+**% de anticipo sobre el valor total del contrato:**
+
+30 %
+
+**Propiedad independiente:**
+
+No
+
+**Cuenta bancaria:**
+
+Si
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Buen manejo y correcta inversión del anticipo | 100,00 | 12/Jun/2025 - 12:00 pm | 11/Feb/2026 - 12:00 pm |
+| Cumplimiento del contrato | 10,00 | 12/Jun/2025 - 12:00 pm | 11/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 12/Jun/2025 - 12:00 pm | 11/Feb/2029 - 12:00 pm |
+| Calidad del servicio | 10,00 | 12/Jun/2025 - 12:00 pm | 11/Jun/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 12/Jun/2025 - 12:00 pm | 11/Feb/2027 - 12:00 pm |
+
+**Buen manejo y correcta inversión del anticipo:**
+
+100,00% del valor del contrato, desde 12/Jun/2025 - 12:00 pm hasta 11/Feb/2026 - 12:00 pm
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UNION TEMPORAL MTGUAJIRA | Riohacha |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 20,336,207,500
+
+**Informes proceso de selección CO1.AWD.2271404 de 09/Jun/2025 - 05:12 am. Valor $20.336.207.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 07:55 am |  |
+| Informe de selección | 09/Jun/2025 - 05:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271404**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UNION TEMPORAL MTGUAJIRA * **Tipo documento:** * **Documento:** 0 | - | Riohacha - | $20.336.207.500 |  |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271404****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7964141
+
+**Estado del contrato:**
+
+Borrador
+
+**Cuantía a la firma del contrato:**
+
+$ 20,336,207,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+09/Jun/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+09/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+09/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271404 | Informe de selección CO1.AWD.2271404 | 09/Jun/2025 - 05:12 pm |  | - |
+| Avisos | CO1.MSG.8003217 | Publicación de la lista de ofertas del proceso SASI-001-2025 (Presentación de oferta). | 09/Jun/2025 - 04:48 pm |  | - |
+| Avisos | CO1.MSG.8003211 | La lista de oferentes del proceso SASI-001-2025 (Presentación de oferta) publicada por ALCALDIA MUNICIPAL DE FONSECA | 09/Jun/2025 - 04:47 pm |  | - |
+| General | CO1.MSG.8003177 | Acta de apertura de oferta economica | 09/Jun/2025 - 04:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271404 | Informe de evaluación 1 CO1.AWD.2271404 | 04/Jun/2025 - 07:55 am |  | - |
+| Avisos | CO1.MSG.7972722 | Publicación de la lista de ofertas del proceso SASI-001-2025 (Presentación de oferta). | 03/Jun/2025 - 11:40 am |  | - |
+| Avisos | CO1.MSG.7968223 | La lista de oferentes del proceso SASI-001-2025 (Presentación de oferta) publicada por ALCALDIA MUNICIPAL DE FONSECA | 30/May/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.7957356 | Respuesta a observaciones | 29/May/2025 - 10:05 am |  | - |
+| General | CO1.MSG.7952049 | RE: Solicitud | 28/May/2025 - 02:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7932176 | Observaciones al proceso | 23/May/2025 - 05:49 pm |  | - |
+| General | CO1.MSG.7931604 | RE: solicitud de diagrama del atril | 23/May/2025 - 04:53 pm |  | - |
+| Avisos | CO1.REQ.8280807 | Publicación modificación | 20/May/2025 - 07:28 am |  |  |

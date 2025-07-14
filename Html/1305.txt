@@ -1,0 +1,196 @@
+Title: Licitaciones - IDARTES - Contratación mínima cuantía IDARTES-IP-MIC-008-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fe92161d4a22.08507947
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-10 19:38:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+OBTENER UNA SUSCRIPCIÓN PARA EL SERVICIO DE ENVÍO DE CORREO ELECTRÓNICO CERTIFICADO CON EL PROPÓSITO DE ASEGURAR LA VALIDEZ LEGAL Y PROBATORIA DE LAS NOTIFICACIONES DE INFORMACIÓN ENVIADAS POR EL INSTITUTO DISTRITAL DE LAS ARTES - IDARTES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161600 - Servicios de correo electrónico y mensajería
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 15-46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 12:01 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 06:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+23/Abr/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+23/Abr/2025 - 10:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+28/Abr/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/Abr/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/May/2025 - 12:00 pm | 31/Oct/2026 - 10:00 pm |
+| Pago de salarios | 5,00 | 01/May/2025 - 12:00 pm | 30/Abr/2029 - 10:00 pm |
+| Calidad del servicio | 20,00 | 01/May/2025 - 12:00 pm | 31/Oct/2026 - 10:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7783418 | Respuesta observaciones extemporáneas - Alcance a lo contestado IDARTES-IP-MIC-008-2025. | 22/Abr/2025 - 09:46 pm |  | - |
+| General | CO1.MSG.7783011 | Respuesta a observaciones extemporáneas IDARTES-IP-MIC-008-2025. | 22/Abr/2025 - 06:56 pm |  | - |
+| General | CO1.MSG.7779736 | Respuesta a observaciones extemporáneas | 22/Abr/2025 - 01:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7774273 | RE: RESPUESTA - Observaciones al proceso | 21/Abr/2025 - 03:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7769240 | Observaciones al proceso | 16/Abr/2025 - 03:49 pm |  | - |

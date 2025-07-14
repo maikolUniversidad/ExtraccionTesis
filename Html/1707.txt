@@ -1,0 +1,135 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DISTRITAL VISTA BELLA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e411a7b2d87.88094772
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 16:49:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar una solución integral que incluya herramientas, plantillas y soporte técnico que permitan complementar y fortalecer la gestión contable, financiero y de contratación del Colegio Vista Bella durante la vigencia 2025, garantizando el cumplimiento normativo, la eficiencia operativa y la capacitación del personal.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112213 - Mantenimiento del software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 167 A N° 54 B 40 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,100,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300, 81112213 | ACTUALIZACION Y MANTENIMIENTO PLANTILLA PARA PAGADURIA | Contratación régimen especial - Régimen especial | SGP | $1.100.000 | PAGADURIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 03:42 pm
+
+**Fecha de Firma del Contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+18/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8298777 | Publicación modificación | 06/Jun/2025 - 03:02 pm |  |  |
+| Avisos | CO1.REQ.8298777 | Publicación modificación | 29/May/2025 - 12:23 pm |  |  |
+| Avisos | CO1.REQ.8298777 | Publicación modificación | 26/May/2025 - 03:01 pm |  |  |
+| Avisos | CO1.REQ.8298777 | Publicación modificación | 21/May/2025 - 04:07 pm |  |  |

@@ -1,0 +1,109 @@
+Title: Licitaciones - MINISTERIO DEL INTERIOR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d893867c04.82637705
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:17:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de un sistema de infraestructura hiperconvergente (HCI) y almacenamiento para copias de respaldo, en cumplimiento de las especificaciones técnicas determinadas en el anexo dispuesto por la Entidad
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43201800 - Dispositivos de almacenamiento,43212200 - Sistemas de manejo de almacenamiento de datos de computador,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,81111600 - Programadores de computador,81111900 - Sistemas de recuperación de información,81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 8 No. 12b-31 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 03:58 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/May/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7992353 | AMPLIACIÓN PLAZO DE COTIZACIÓN | 06/Jun/2025 - 09:19 am |  | - |
+| Avisos | CO1.REQ.8313253 | Publicación modificación | 06/Jun/2025 - 09:18 am |  |  |
+| Avisos | CO1.REQ.8313253 | Publicación modificación | 04/Jun/2025 - 07:00 am |  |  |
+| General | CO1.MSG.7976923 | Respuesta observaciones paquete 2 | 03/Jun/2025 - 10:08 pm |  | - |
+| General | CO1.MSG.7976669 | Respuesta GLOBAL TECHNOLOGY SERVICES GTS S.A | 03/Jun/2025 - 08:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7969137 | OBSERVACIONES GREEN | 30/May/2025 - 07:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7958757 | OBSERVACIONES AL PROCESO | 29/May/2025 - 12:21 pm |  | - |
+| Avisos | CO1.REQ.8313253 | Publicación modificación | 28/May/2025 - 04:26 pm |  |  |
+| Avisos | CO1.REQ.8313253 | Publicación modificación | 28/May/2025 - 01:00 pm |  |  |
+| Aclaraciones | CO1.MSG.7942800 | urgente - extender tiempos cronograma | 27/May/2025 - 10:50 am |  | - |

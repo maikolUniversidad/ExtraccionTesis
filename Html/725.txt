@@ -1,0 +1,269 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d1b0990da77.23066657
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-15 06:31:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el servicio de desarrollo, parametrización e implementación de cursos dirigidos a reforzar los conocimientos de los consumidores financieros, bajo el formato SCORM, incluido el soporte y actualización de la plataforma E-learning actual.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Capacitación y educación no formal", "licicodigos": "102,103,165" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+195 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200 | Servicio de soporte plataforma E-Learning | Mínima cuantía | Recursos propios | $44.684.500 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 06:38 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+28/May/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 16/Jun/2025 - 12:00 am | 15/Ago/2026 - 12:00 am |
+| Pago de salarios | 10,00 | 16/Jun/2025 - 12:00 am | 15/Dic/2028 - 12:00 am |
+| Calidad del servicio | 30,00 | 16/Jun/2025 - 12:00 am | 15/Ago/2026 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 16/Jun/2025 - 12:00 am | 15/Ago/2026 - 12:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BRANDER | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,900,000
+
+**Informes proceso de selección CO1.AWD.2272943 de 12/Jun/2025 - 09:16 am. Valor $18.900.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:35 pm |  |
+| Informe de selección | 12/Jun/2025 - 09:16 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272943**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BRANDER IDEAS SAS * **Tipo documento:** NIT * **Documento:** 900646665 | * **Nombre:** ANDERSON ARDILA * **Tipo documento:** NIT * **Documento:** 80092941 | Bogotá - Distrito Capital de Bogotá | $18.900.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272943****
+
+**ID del contrato en SECOP:**
+
+CA.015-2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 18,900,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272943 | Informe de selección CO1.AWD.2272943 | 12/Jun/2025 - 09:16 pm |  | - |
+| General | CO1.MSG.8026629 | RE: Solicitud de requerimiento de justificación de precios artificialmente bajos - Proceso SF.MC-015-2025 | 12/Jun/2025 - 08:20 pm |  | - |
+| Objeciones | CO1.MSG.7995423 | [Respondido] RE:Observaciones al informe | 12/Jun/2025 - 08:19 pm |  | - |
+| Objeciones | CO1.MSG.7995423 | Observaciones al informe | 06/Jun/2025 - 03:33 pm |  | - |
+| Avisos | CO1.MSG.7989375 | Publicación de la lista de ofertas del proceso SF.MC-015-2025 . | 05/Jun/2025 - 04:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272943 | Informe de evaluación 1 CO1.AWD.2272943 | 05/Jun/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.7977811 | RE: REQUERIMIENTO PRECIOS ARTIFICIALMENTE BAJOS | 04/Jun/2025 - 08:59 am |  | - |
+| Avisos | CO1.MSG.7950566 | La lista de oferentes del proceso SF.MC-015-2025 publicada por SUPERINTENDENCIA FINANCIERA DE COLOMBIA | 28/May/2025 - 11:26 am |  | - |
+| Aclaraciones | CO1.MSG.7940288 | Respuesta Observaciones SF.MC-015-2025 | 26/May/2025 - 07:12 pm |  | - |
+| General | CO1.MSG.7939693 | Aviso no limitación a Mipymes proceso SF.MC-0015- 2025 | 26/May/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7924906 | OBSERVACIONES ADICIONALES | 22/May/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7922862 | OBSERVACIONES GENERALES | 22/May/2025 - 02:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7920405 | Observaciones SFC-SF.MC-015-2025 | 22/May/2025 - 09:20 am |  | - |

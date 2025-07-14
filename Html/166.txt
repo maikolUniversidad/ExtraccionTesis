@@ -1,0 +1,324 @@
+Title: Licitaciones - MUNICIPIO DE MONTERIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d1c5c609157.57100821
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS COMPONENTES DEL SISTEMA SIES DEL MUNICIPIO DE MONTERÍA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Montería
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121600 - Cables eléctricos y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+43201800 - Dispositivos de almacenamiento,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,45121500 - Cámaras,46171600 - Equipo de vigilancia y detección,72151500 - Servicios de sistemas eléctricos,81101500 - Ingeniería civil y arquitectura,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,83112300 - Servicios de telecomunicaciones por fibra,92121700 - Servicios de sistemas de seguridad,40101700 - Enfriamiento,72151700 - Servicios de instalación de sistemas de seguridad física e industrial,72153700 - Servicios de instalación, mantenimiento y reparación de equipos y construcción de parqueaderos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales, -Plantas eléctricas, generadores eléctricas, -Aire acondicionado, -Control de acceso, -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "105,106,115,227,263,315,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 36 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 27 No. 3 -16 Montería Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+189 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 600,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 26121600, 43201800, 43223300, 45121500, 46171600, 72151500, 81111500, 81112200, 81112300, 83112300, 92121700, 40101700, 72151700, 72153700 | 3969-SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS COMPONENTES DEL SISTEMA SIES DEL MUNICIPIO DE MONTERÍA | Selección abreviada subasta inversa | Recursos propios | $600.000.000 | UC - SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 06:48 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 05:23 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+06/Jun/2025 - 08:10 am
+
+**Informe de presentación de Ofertas:**
+
+06/Jun/2025 - 09:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+13/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+13/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+16/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+20/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 16/Jun/2025 - 11:59 pm | 01/Jul/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 16/Jun/2025 - 11:59 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 16/Jun/2025 - 11:59 pm | 01/Jul/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 16/Jun/2025 - 11:59 pm | 01/Jul/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** VIPERS TECNOLOGIA | Montería - Córdoba |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 599,997,003
+
+**Informes proceso de selección CO1.AWD.2278262 de 17/Jun/2025 - 07:33 am. Valor $599.997.003**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 11/Jun/2025 - 04:55 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 11:58 am |  |
+| Informe de selección | 17/Jun/2025 - 07:33 pm |  |
+| Informe de selección | 17/Jun/2025 - 07:33 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2278262**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** VIPERS TECNOLOGIA S.A.S * **Tipo documento:** NIT * **Documento:** 900488656 | * **Nombre:** RAMIRO ENRIQUE SANCHEZ MEJIA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 6879386 | Montería - Córdoba | $599.997.003 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2278262****
+
+**ID del contrato en SECOP:**
+
+SI-SGOB-013-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 599,997,003
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+13/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+13/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+13/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2278262 | Informe de selección CO1.AWD.2278262 | 17/Jun/2025 - 07:33 pm |  | - |
+| Avisos | CO1.MSG.8046261 | Publicación de la lista de ofertas del proceso SI-SGOB-013-2025 (Presentación de oferta). | 17/Jun/2025 - 04:49 pm |  | - |
+| Avisos | CO1.MSG.8029404 | La lista de oferentes del proceso SI-SGOB-013-2025 (Presentación de oferta) publicada por MUNICIPIO DE MONTERIA | 13/Jun/2025 - 12:01 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278262 | Informe de evaluación 2 CO1.AWD.2278262 | 13/Jun/2025 - 11:58 am |  | - |
+| General | CO1.MSG.8028888 | RE: SUBSANACION | 13/Jun/2025 - 11:08 am |  | - |
+| General | CO1.MSG.8018411 | SUBSANACION | 12/Jun/2025 - 02:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278262 | Informe de evaluación 1 CO1.AWD.2278262 | 11/Jun/2025 - 04:55 pm |  | - |
+| Avisos | CO1.MSG.8012748 | Publicación de la lista de ofertas del proceso SI-SGOB-013-2025 (Presentación de oferta). | 11/Jun/2025 - 08:28 am |  | - |
+| Avisos | CO1.MSG.7991875 | La lista de oferentes del proceso SI-SGOB-013-2025 (Presentación de oferta) publicada por MUNICIPIO DE MONTERIA | 06/Jun/2025 - 08:12 am |  | - |
+| Aclaraciones | CO1.MSG.7955361 | RE: Observaciones al proceso de Subasta Inversa SI-SGOB-013-2025, OBSERVACIONES, Observaciones proceso Subasta inversa SI-SGOB-013-2025 | 28/May/2025 - 07:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7947852 | Observaciones al proceso de Subasta Inversa SI-SGOB-013-2025 | 27/May/2025 - 07:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7946932 | OBSERVACIONES | 27/May/2025 - 05:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7917164 | Observaciones proceso Subasta inversa SI-SGOB-013-2025 | 21/May/2025 - 04:08 pm |  | - |

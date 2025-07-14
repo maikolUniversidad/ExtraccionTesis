@@ -1,0 +1,94 @@
+Title: Licitaciones - JUNTA NACIONAL DE CALIFICACION DE INVALIDEZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810ceb41fe766.15589744
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-19 09:27:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de elementos tecnológicos para los trabajadores de la Junta Nacional de Calificación de Invalidez.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211600 - Accesorios de computador
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores,43211700 - Dispositivos informáticos de entrada de datos,43211800 - Accesorios de dispositivos de entrada de datos de computador,43212000 - Accesorios de pantallas de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad, -Pilas y baterías desechables y recargables, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Materiales para redes de comunicación", "licicodigos": "105,109,299,312,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Carrera 19 no. 102-53 Ed. Clinica la Sabana Primer Piso Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 08:05 am
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+05/May/2025 - 05:00 pm

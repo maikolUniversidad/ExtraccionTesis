@@ -1,0 +1,50 @@
+Title: Licitaciones - COMANDO AEREO DE COMBATE No. 6
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f8bd2d0bc08.38687591
+
+Markdown Content:
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 52161511 | RADIOS ESTACIÓN BASE VEHICULAR VHF | Mínima cuantía | Presupuesto de entidad nacional | $7.000.000 | CACOM-6 |
+| 43222600 | ACCESS POINT INDOOR | Mínima cuantía | Presupuesto de entidad nacional | $6.917.224 | CACOM-6 |
+| 43222600 | ACCESS POINT OUTDOOR | Mínima cuantía | Presupuesto de entidad nacional | $7.259.583 | CACOM-6 |
+| 41104213 | AGUA DESMINERALIZADA PARA BATERÍAS X GALON | Mínima cuantía | Presupuesto de entidad nacional | $1.100.000 | CACOM-6 |
+| 39121700 | ANTISTATIC ELECTRONIC EQUIPMENT CLEAN | Mínima cuantía | Presupuesto de entidad nacional | $800.000 | CACOM-6 |
+| 41111506 | BASCULA HASTA 200 KL | Mínima cuantía | Presupuesto de entidad nacional | $280.000 | CACOM-6 |
+| 26111700 | BATERIA 123 | Mínima cuantía | Presupuesto de entidad nacional | $640.000 | CACOM-6 |
+| 26111700 | BATERIA -ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $2.860.000 | CACOM-6 |
+| 26111702 | BATERIAS AA -AAA | Mínima cuantía | Presupuesto de entidad nacional | $480.000 | CACOM-6 |
+| 26111701 | BATERIAS CUADRADAS DE 9 VOLTIOS | Mínima cuantía | Presupuesto de entidad nacional | $572.400 | CACOM-6 |
+| 26111700 | BATERIAS CUADRADAS DE 9 VOLTIOS CON CARGADOR-ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $381.600 | CACOM-6 |
+| 26111700 | BATERIAS -ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $720.000 | CACOM-6 |
+| 31151904 | BRIDAS DE PLASTICO- ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $800.000 | CACOM-6 |
+| 26121609 | CABLE UTP CAT 6A EXTERIORES | Mínima cuantía | Presupuesto de entidad nacional | $2.000.000 | CACOM-6 |
+| 39121721 | CINTA ELECTRICA 23 18MM X 9.1 M- 33 19MM X 20,1 -ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $1.200.000 | CACOM-6 |
+| 26121630 | CONECTORES DE RADIOFRECUENCIA PARA CABLE COAXIAL | Mínima cuantía | Presupuesto de entidad nacional | $1.800.000 | CACOM-6 |
+| 46171633 | DETECTOR DE SEGURIAD | Mínima cuantía | Presupuesto de entidad nacional | $3.140.000 | CACOM-6 |
+| 43201827 | DISCO ESTADO SOLIDO | Mínima cuantía | Presupuesto de entidad nacional | $1.050.000 | CACOM-6 |
+| 47121803 | ESPONJA ABRASIVA DE COBRE | Mínima cuantía | Presupuesto de entidad nacional | $750.000 | CACOM-6 |
+| 15111505 | GAS BUTANO EN SPRAY 300ML - ESTIN | Mínima cuantía | Presupuesto de entidad nacional | $150.000 | CACOM-6 |
+| 49211803 | GPS | Mínima cuantía | Presupuesto de entidad nacional | $2.500.000 | CACOM-6 |
+| 31211904 | KIT DE CEPILLOS-LIMPIEZA PARA COMPUTADORES | Mínima cuantía | Presupuesto de entidad nacional | $918.750 | CACOM-6 |
+| 27113203 | KIT DE HERRAMIENTAS DE ELECTRONICA DE 160 PIEZAS CON ESTANDAR AERONAUTICO | Mínima cuantía | Presupuesto de entidad nacional | $2.000.000 | CACOM-6 |
+| 47132100 | KIT DE LIMPIEZA -PARA IMPRESORA | Mínima cuantía | Presupuesto de entidad nacional | $500.000 | CACOM-6 |
+| 20102103 | KIT MOTOTOOL 170W 8000-32000RPM 152 ACCESORIOS | Mínima cuantía | Presupuesto de entidad nacional | $400.000 | CACOM-6 |
+| 47131800 | LIMPIA PANTALLAS | Mínima cuantía | Presupuesto de entidad nacional | $500.000 | CACOM-6 |
+| 32101622 | MEMORIAS RAM | Mínima cuantía | Presupuesto de entidad nacional | $1.200.000 | CACOM-6 |
+| 52161520 | MICRÓFONO INALÁMBRICO DE MESA | Mínima cuantía | Presupuesto de entidad nacional | $1.500.000 | CACOM-6 |
+| 41113630 | MULTIMETRO 600 V | Mínima cuantía | Presupuesto de entidad nacional | $800.000 | CACOM-6 |
+| 47131909 | PAÑO DE LIMPIEZA POR ROLLO | Mínima cuantía | Presupuesto de entidad nacional | $1.108.490 | CACOM-6 |
+| 15121520 | PETROLATUM,WHITE -VASELINA REF. VV-P-236 | Mínima cuantía | Presupuesto de entidad nacional | $705.000 | CACOM-6 |
+| 41113700 | PROBADOR DE CABLE DE RED CON MEDIDOR DE POTENCIA ÓPTICA VFL, CAT5 CAT6 TÓNER DE CABLE ETHERNET PROBADOR DE CABLE ETHERNET, PROBADOR DE RED RJ11 RJ45 PARA TELÉFONO, ETHERNET, VIDEO, PROBADOR POE | Mínima cuantía | Presupuesto de entidad nacional | $520.000 | CACOM-6 |
+| 39121009 | PROTECTOR ELECTRICO AIRE ACONDICIONADO 220V | Mínima cuantía | Presupuesto de entidad nacional | $512.500 | CACOM-6 |
+| 23152203 | RADAR--BANCO DE TRABAJO REF TIPO B | Mínima cuantía | Presupuesto de entidad nacional | $3.800.000 | CACOM-6 |
+| 39121440 | RADAR--EXTENSION ELECTRICA 30 MTS | Mínima cuantía | Presupuesto de entidad nacional | $750.000 | CACOM-6 |
+| 39111610 | RADAR--LINTERNA RECARGABLE 120 M 2 MODOS DE ILUMINACION | Mínima cuantía | Presupuesto de entidad nacional | $175.000 | CACOM-6 |
+| 46182103 | RADAR--PROTECTOR ELECTRICO AIRE ACONDICIONADO 220V | Mínima cuantía | Presupuesto de entidad nacional | $512.500 | CACOM-6 |
+| 27112830 | RADAR--PUNTAS PARA MULTIMETRO X 2 PZ | Mínima cuantía | Presupuesto de entidad nacional | $300.000 | CACOM-6 |
+| 27112845 | SET BROCAS PUNTAS PARA MADERA METAL CONCRETO 91 PIEZAS 27112845 | Mínima cuantía | Presupuesto de entidad nacional | $210.900 | CACOM-6 |
+| 12352310 | SILICONA ROJA | Mínima cuantía | Presupuesto de entidad nacional | $350.000 | CACOM-6 |
+| 42144003 | SISTEMA DE SONIDO | Mínima cuantía | Presupuesto de entidad nacional | $10.000.000 | CACOM-6 |
+| 45111609 | TELÓN DE PROYECCIÓN | Mínima cuantía | Presupuesto de entidad nacional | $4.000.000 | CACOM-6 |
+| 45111616 | VIDEOPROYECTOR | Mínima cuantía | Presupuesto de entidad nacional | $10.000.000 | CACOM-6 |

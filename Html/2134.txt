@@ -1,0 +1,107 @@
+Title: Licitaciones - FONDO NACIONAL DEL AHORRO S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855b8357bcca8.30244935
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:46:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar los servicios de una solución tecnológica que incluya el licenciamiento, desarrollo, implementación, migración y puesta en funcionamiento, soporte y mantenimiento de una plataforma de hiperautomatización de bajo código, que optimice el desarrollo ágil y la automatización de los procesos de negocio del fondo nacional del ahorro S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa,81112200 - Mantenimiento y soporte de software,81112000 - Servicios de datos,81111600 - Programadores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 # 11 - 83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 02:28 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 11:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jul/2025 - 10:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8447770 | Publicación modificación | 02/Jul/2025 - 04:52 pm |  |  |
+| General | CO1.MSG.8103270 | Respuestas a las observaciones y solicitudes de aclaraciòn | 01/Jul/2025 - 06:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8103210 | RE: Solicitud Aclaraciones , Observaciones solicitud de informacion, Observaciones DACARTEC | 01/Jul/2025 - 06:12 pm |  | - |
+| Avisos | CO1.REQ.8447770 | Publicación modificación | 01/Jul/2025 - 07:07 am |  |  |
+| Avisos | CO1.REQ.8447770 | Publicación modificación | 27/Jun/2025 - 11:41 am |  |  |
+| Aclaraciones | CO1.MSG.8085383 | Solicitud Aclaraciones | 26/Jun/2025 - 10:26 am |  | - |
+| Aclaraciones | CO1.MSG.8081206 | Observaciones solicitud de informacion | 25/Jun/2025 - 03:55 pm |  | - |
+| Aclaraciones | CO1.MSG.8079157 | Observaciones DACARTEC | 25/Jun/2025 - 11:45 am |  | - |

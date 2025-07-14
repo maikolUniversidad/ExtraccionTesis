@@ -1,0 +1,264 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827c4ef0b7293.92323314
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN Y MANTENIMIENTO DE EQUIPOS DE HIPERC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43201900 - Accesorios de dispositivos de almacenamiento,43212200 - Sistemas de manejo de almacenamiento de datos de computador,72151600 - Servicios de sistemas especializados de comunicación,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111500 - Ingeniería de software o hardware,72151700 - Servicios de instalación de sistemas de seguridad física e industrial,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "104,105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+BASE NAVAL No. 6 ARC BOGOTA CRA 65 #14-91 ZONA INDUSTRIAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800 | adquisicion de mantenimiento de equipos de hiperconvergencia para la ARC | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $1.422.000.000 | DITIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 05:44 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/Jun/2025 - 05:56 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/Jun/2025 - 06:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/Jun/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés:**
+
+12/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+25/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 03:00 pm
+
+**Apertura de Ofertas:**
+
+01/Jul/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+01/Jul/2025 - 03:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+11/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 05:02 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 03:39 pm | 12/Jul/2025 - 03:39 pm |
+
+Listado de oferentes y ofertas:
+
+**Sorteo realizado:**
+
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,374,000,000
+
+**Informes proceso de selección CO1.AWD.2296428 de 10/Jul/2025 - 05:43 am. Valor $1.374.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 06:20 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 06:20 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 06:20 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:57 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:57 pm |  |
+| Informe de selección | 10/Jul/2025 - 05:43 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2296428 | Informe de selección CO1.AWD.2296428 | 10/Jul/2025 - 05:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296428 | Informe de evaluación 2 CO1.AWD.2296428 | 07/Jul/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.8098032 | Subsanación_ | 07/Jul/2025 - 10:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2296428 | Informe de evaluación 1 CO1.AWD.2296428 | 02/Jul/2025 - 06:20 pm |  | - |
+| Avisos | CO1.MSG.8101425 | La lista de oferentes del proceso 0140-ARC-CBNL06-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA | 01/Jul/2025 - 03:33 pm |  | - |
+| Avisos | CO1.REQ.8408652 | Publicación modificación | 27/Jun/2025 - 05:44 pm |  |  |
+| General | CO1.MSG.8094763 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 27/Jun/2025 - 04:00 pm |  | - |
+| General | CO1.MSG.8056092 | AVISO ENTREGA INFORMACIÓN RESERVADA | 19/Jun/2025 - 08:50 am |  | - |
+| Avisos | CO1.REQ.8408652 | Publicación modificación | 17/Jun/2025 - 05:44 pm |  |  |
+| General | CO1.MSG.8041678 | AVISO ENTREGA INFORMACIÓN RESERVADA | 17/Jun/2025 - 09:25 am |  | - |
+| General | CO1.MSG.8032475 | AVISO ENTREGA INFORMACIÓN RESERVADA | 13/Jun/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8015447 | SOLICITUD DE ANEXO TECNICO | 11/Jun/2025 - 01:37 pm |  | - |
+| Aclaraciones | CO1.MSG.8007743 | Publicidad anexo Técnico | 10/Jun/2025 - 12:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8007340 | Publicidad anexo Técnico | 10/Jun/2025 - 11:35 am |  | - |
+| General | CO1.MSG.7945531 | RESPUESTA | 27/May/2025 - 03:49 pm |  | - |
+| General | CO1.MSG.7899132 | RESPUESTA | 19/May/2025 - 08:25 am |  | - |

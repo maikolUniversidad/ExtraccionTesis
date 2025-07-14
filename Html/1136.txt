@@ -1,0 +1,122 @@
+Title: Licitaciones - I.E.D. PAULO vi
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fd44c1b29a1.45683215
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 14:18:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el servicio de Mantenimiento Especializado de fotocopiadora RICOH , incluye repuestos ORIGINALES de desgaste regular
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154065 - Mantenimiento de equipos eléctricos de copiado
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos", "licicodigos": "106,108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 72 N # 17-41 sur Kennedy Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 15,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 10:38 am
+
+**Fecha de Firma del Contrato:**
+
+06/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+06/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

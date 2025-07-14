@@ -1,0 +1,166 @@
+Title: Licitaciones - MUNICIPIO DE PAYA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ffcb20a9105.73382020
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 17:11:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE INTERNET POR FIBRA ÓPTICA PARA LAS DIFERENTES OFICINAS DE LA ADMINISTRACIÓN MUNICIPAL, LA BIBLIOTECA MUNICIPAL, CENTRO VIDA Y LAS INSTITUCIONES EDUCATIVAS SIMONA AMAYA Y EL ROSARIO DE MORCOTE DEL MUNICIPIO DE PAYA BOYACA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Paya
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 3 N° 3 - 49 Paya Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 04:39 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 09:30 am
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 04:30 am
+
+**Apertura de sobres:**
+
+02/May/2025 - 04:31 am
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 06:01 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 06:00 am
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 10:30 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

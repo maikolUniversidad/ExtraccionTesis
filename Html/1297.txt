@@ -1,0 +1,348 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACION DE ARMENIA - SITIO OFICIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68193e71d86da6.33680936
+
+Markdown Content:
+Licitaciones - INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACION DE ARMENIA - SITIO OFICIAL - Contratación mínima cuantía IMDERA-SMIC-015 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-14 19:21:30
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Quindío : Armenia
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112102 - Proveedor de servicio de correo electrónico
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Estadio Centenario PIso 2 Km 1 vía aeropuerto El Edén Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112102 | ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA | Mínima cuantía | Recursos propios | $10.858.274 | OFICINA ASESORA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 05:32 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 05:35 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 05:35 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 05:35 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 05:35 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+06/May/2025 - 05:40 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+06/May/2025 - 05:45 pm
+
+**Plazo máximo para expedir adendas:**
+
+06/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 11:59 pm
+
+**Apertura de sobres:**
+
+08/May/2025 - 08:00 am
+
+**Informe de presentación de ofertas:**
+
+08/May/2025 - 08:01 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 02:00 pm | 27/Nov/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/May/2025 - 02:00 pm | 27/Nov/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 07/May/2025 - 04:13 pm | * **Nombre:** SAS | Armenia - Quindío |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,916,100
+
+**Informes proceso de selección CO1.AWD.2246179 de 09/May/2025 - 06:19 am. Valor $9.916.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 05:37 pm |  |
+| Informe de evaluación | 08/May/2025 - 05:37 pm |  |
+| Informe de evaluación | 09/May/2025 - 06:09 pm |  |
+| Informe de selección | 09/May/2025 - 06:19 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246179**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** AVT INGENIERIA SAS * **Tipo documento:** NIT * **Documento:** 900808887 | * **Nombre:** DAVID MORALES CORREA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 9726198 | Armenia - Quindío | $9.916.100 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246179****
+
+**Contrato IMDERA-SMIC-015 DE 2025 de AVT INGENIERIA SAS:**
+
+**ID del contrato en SECOP:**
+
+IMDERA-SMIC-015 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112102 | ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA | 1,00 | UN | 10.858.274,00 | 9.916.100,00 | 10.858.274,00 | 9.916.100,00 |
+
+**Fecha inicio del contrato:**
+
+13/May/2025 - 08:00 am
+
+**Fecha de terminación del contrato:**
+
+27/May/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 9,916,100
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 09_COMUNICACION_ACEPTACION_OFERTA_SMIC_015_DE_2025_CORREOS_CORPORATIVOS.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 10_APROBACION_GARANTIAS_SMIC_015_DE_2025_CORREOS_CORPORATIVOS.pdf |  |
+|  | 12_OFICIO_SUPERVISOR_SMIC_015_DE_2025_CORREOS_CORPORATIVOS.pdf |  |
+|  | 13_ACTA_INICIO_SMIC_015_DE_2025_CORREOS_CORPORATIVOS.pdf |  |
+|  | SMIC_015_DE_2025_POLIZA.pdf |  |
+|  | SMIC_015_DE_2025_RP.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246179 | Informe de selección CO1.AWD.2246179 | 09/May/2025 - 06:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246179 | Informe de evaluación 2 CO1.AWD.2246179 | 09/May/2025 - 06:09 pm |  | - |
+| General | CO1.MSG.7856137 | ACLARACION DOCUMENTOS | 08/May/2025 - 05:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246179 | Informe de evaluación 1 CO1.AWD.2246179 | 08/May/2025 - 05:37 pm |  | - |
+| Avisos | CO1.MSG.7850343 | Publicación de la lista de ofertas del proceso IMDERA-SMIC-015 DE 2025. | 08/May/2025 - 08:16 am |  | - |
+| Avisos | CO1.MSG.7850341 | La lista de oferentes del proceso IMDERA-SMIC-015 DE 2025 publicada por INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACION DE ARMENIA - SITIO OFICIAL | 08/May/2025 - 08:16 am |  | - |
+| General | CO1.MSG.7842816 | 05_AVISO_LIMITACION_MIPYMES_SMIC_015_DE_2025_CORREOS_CORPORATIVOS | 06/May/2025 - 07:36 pm |  | - |
+| General | CO1.MSG.7842814 | 04_RESPUESTA_OBSERVACIONES_SMIC_015_DE_2025_CORREOS_CORPORATIVOS | 06/May/2025 - 07:35 pm |  | - |
+| Aclaraciones | CO1.MSG.7842812 | RE: Observacion , limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA , limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA , Observaciones al Pliego de Condiciones | 06/May/2025 - 07:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7839237 | Observacion | 06/May/2025 - 01:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7837951 | limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA | 06/May/2025 - 10:43 am |  | - |
+| Aclaraciones | CO1.MSG.7837744 | limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA | 06/May/2025 - 10:06 am |  | - |
+| Aclaraciones | CO1.MSG.7836789 | Observaciones al Pliego de Condiciones | 06/May/2025 - 12:14 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:29 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

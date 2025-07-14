@@ -1,0 +1,294 @@
+Title: Licitaciones - INFIBAGUE** - Subasta Inversa SASI-005-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d12465ec135.65598907
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA COMPRA DE ELEMENTOS DE PAPELERIA; UTILES DE OFICINA Y ELEMENTOS DE IMPRESION QUE PERMITAN EL CORRECTO CUMPLIMIENTO Y DESARROLLO DE LOS DIFERENTES PROCESOS FUNCIONALES DEL INSTITUTO DE FINANCIAMIENTO PROMOCIÓN Y DESARROLO DE IBAGUE - INFIBAGUE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14121500 - Cartón y papel para embalaje
+
+**Códigos adicionales UNSPSC:**
+
+14111500 - Papel de imprenta y papel de escribir,27112300 - Herramientas de marcar,43221700 - Equipo fijo de red y componentes,44111500 - Agendas y accesorios,44111800 - Suministros de dibujo,44121500 - Suministros de correo,44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,44122000 - Carpetas de archivo, carpetas y separadores,60121500 - Utensilios de dibujo, suministros y accesorios,82121500 - Impresión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+INFIBAGUÉ, CALLE 60 CRA 5A, EDIFICIO CAMI NORTE , BARRIO LA FLORESTA Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121905, 44121621, 44121612, 44121701, 44121804, 44101809, 44111519, 31201517, 31201503, 44122104, 44121805, 44121615, 44122034, 60121301, 44121706, 44121708 | CONTRATAR LA COMPRA DE ELEMENTOS DE PAPELERIA Y UTILES DE OFICINA QUE PERMITAN EL CORRECTO CUMPLIMIENTO Y DESARROLLO DE LOS DIFERENTES PROCESOS FUNCIONALES DEL INSTITUTO DE FINANCIAMIENTO PROMOCION Y DESARROLLO DE IBAGUE-INFIBAGUE. | Selección abreviada subasta inversa | Recursos propios | $110.000.000 | INFIBAGUE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 06:20 pm
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 08:00 am
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 08:00 am
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 09:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+30/May/2025 - 10:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 02:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/Jun/2025 - 03:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+17/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+19/Jun/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+19/Jun/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+03/Jul/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+08/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 08:00 am | 26/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 27/Jun/2025 - 08:00 am | 26/Dic/2025 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 107,354,051
+
+**Informes proceso de selección CO1.AWD.2291044 de 09/Jul/2025 - 05:17 am. Valor $107.354.051**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Jun/2025 - 04:08 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 10:50 am |  |
+| Informe de evaluación | 02/Jul/2025 - 10:50 am |  |
+| Informe de evaluación | 02/Jul/2025 - 10:50 am |  |
+| Informe de evaluación | 03/Jul/2025 - 07:52 am |  |
+| Informe de evaluación | 03/Jul/2025 - 05:04 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:17 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:17 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jul/2025 - 11:00 am
+
+**Fecha de inicio:**
+
+03/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+03/Jul/2025 - 03:15 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2291044 | Informe de selección CO1.AWD.2291044 | 09/Jul/2025 - 05:17 pm |  | - |
+| General | CO1.MSG.8120554 | ACTA DE TRAZABILIDAD DE PROCESO -SASI-005-2025 | 04/Jul/2025 - 01:08 pm |  | - |
+| General | CO1.MSG.8116115 | EVALUACION SOBRE ECONOMICO 2 PROCESO SASI-005-2025 | 03/Jul/2025 - 05:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291044 | Informe de evaluación 4 CO1.AWD.2291044 | 03/Jul/2025 - 05:04 pm |  | - |
+| Avisos | CO1.MSG.8113211 | La lista de oferentes del proceso SASI-005-2025 (Presentación de oferta) publicada por INFIBAGUE** | 03/Jul/2025 - 11:27 am |  | - |
+| General | CO1.MSG.8111354 | RE: Observaciones informe definitivo tecnico SASI-005-2025 03-07-25 | 03/Jul/2025 - 07:59 am |  | - |
+| Reporte preliminar | CO1.AWD.2291044 | Informe de evaluación 3 CO1.AWD.2291044 | 03/Jul/2025 - 07:52 am |  | - |
+| Reporte preliminar | CO1.AWD.2291044 | Informe de evaluación 2 CO1.AWD.2291044 | 02/Jul/2025 - 10:50 am |  | - |
+| Reporte preliminar | CO1.AWD.2291044 | Informe de evaluación 1 CO1.AWD.2291044 | 25/Jun/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.8058517 | ADENDA 02 AL PROCESO -SASI -005-2025 -PAPELERIA | 19/Jun/2025 - 01:13 pm |  | - |
+| Avisos | CO1.REQ.8378067 | Publicación modificación | 19/Jun/2025 - 01:10 pm |  |  |
+| Avisos | CO1.MSG.8056989 | Publicación de la lista de ofertas del proceso SASI-005-2025 (Presentación de oferta). | 19/Jun/2025 - 10:15 am |  | - |
+| Avisos | CO1.MSG.8056984 | La lista de oferentes del proceso SASI-005-2025 (Presentación de oferta) publicada por INFIBAGUE** | 19/Jun/2025 - 10:15 am |  | - |
+| General | CO1.MSG.8046248 | RESPUESTA OBSERVACIONES PLIEGO DEFINITIVO DE CONDICIONES -SASI -005-2025 | 17/Jun/2025 - 04:50 pm |  | - |
+| General | CO1.MSG.8016862 | ADENDA N°1 AL PROCESO SASI-005-2025 | 11/Jun/2025 - 03:58 pm |  | - |
+| Avisos | CO1.REQ.8378067 | Publicación modificación | 11/Jun/2025 - 03:54 pm |  |  |
+| General | CO1.MSG.7995141 | PLIEGO DE CONDICIONES DEFINITIVO Y ANEXOS DEFINITIVOS -SASI -005-2025 | 06/Jun/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.7965907 | RESPUESTA OBSERVACIONES PRESENTADAS AL PROYECTO DE PLIEGO DE CONDICIONES -SASI -005-2025 | 30/May/2025 - 01:30 pm |  | - |
+| General | CO1.MSG.7965790 | RESPUESTA OBSERVACIONES PRESENTADAS AL PROYECTO DE PLIEGO DE CONDICIONES -SASI-004-2025 | 30/May/2025 - 01:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7945535 | observacion al pliego de condiciones | 27/May/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7945477 | OBSERVACION AL PLIEGO DE CONDICIONES | 27/May/2025 - 03:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7942552 | Observaciones Financieras | 27/May/2025 - 10:27 am |  | - |
+| Aclaraciones | CO1.MSG.7917747 | MIPYMES NACIONALES | 21/May/2025 - 04:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7917651 | OBSERVACIONES, FINANCIERAS | 21/May/2025 - 04:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7915130 | OBSERVACION | 21/May/2025 - 12:02 pm |  | - |

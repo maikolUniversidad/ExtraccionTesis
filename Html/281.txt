@@ -1,0 +1,231 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE DOSQUEBRADAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68547bd1ca26c1.95382949
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-02 08:16:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE ESCÁNER E IMPRESORAS, SUMINISTRO DE TÓNER, CARTUCHOS Y TINTAS PARA IMPRESORAS Y SOLUCIONES INTEGRALES DE IMPRESIÓN Y ESCANEO PARA LA ALCALDÍA MUNICIPAL DE DOSQUEBRADAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Dosquebradas
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121700 - Ferretería eléctrica y suministros
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora,73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA SIMON BOLIVAR #36-44 Dosquebradas Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 39121700 | Equipos, suministros y componentes eléctricos | Mínima cuantía | Recursos propios | $65.000.000 | SECRETARÍA DE ASUNTOS ADMINISTRATIVOS |
+| 73152108 | Servicio de mantenimiento y reparación deequipos eléctricos | Selección abreviada menor cuantía | Recursos propios | $100.000.000 | ASESORÍA PRIVADA DEL DESPACHO DEL ALCALDE |
+| 44103103 | Tóner para impresoras o fax | Selección abreviada menor cuantía | Recursos propios | $90.000.000 | ASESORÍA PRIVADA DEL DESPACHO DEL ALCALDE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 03:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+01/Jul/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+01/Jul/2025 - 04:20 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+01/Jul/2025 - 05:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+01/Jul/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+01/Jul/2025 - 05:00 pm
+
+**Plazo para manifestación de Interés:**
+
+02/Jul/2025 - 02:00 pm
+
+**Realización del sorteo:**
+
+02/Jul/2025 - 03:00 pm
+
+**Publicación de la lista de precalificados:**
+
+02/Jul/2025 - 03:30 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+02/Jul/2025 - 05:01 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Apertura de Ofertas:**
+
+03/Jul/2025 - 06:01 pm
+
+**Informe de presentación de Ofertas:**
+
+03/Jul/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jul/2025 - 02:00 am
+
+**Firma del Contrato:**
+
+11/Jul/2025 - 02:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 11:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 02:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/Jul/2025 - 07:00 am | 15/Abr/2026 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 15/Jul/2025 - 07:00 am | 15/Jun/2026 - 11:59 am |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8099346 | AVISO DE LIMINACIÓN A MIPYMES | 01/Jul/2025 - 11:01 am |  | - |

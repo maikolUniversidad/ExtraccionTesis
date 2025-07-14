@@ -1,0 +1,131 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DISTRITAL LA TOSCANA LISBOA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ae3015ee693.10398682
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+: Contratar el servicio de plataforma de mensajería de texto para padres de familia y/o acudientes del colegio La Toscana Lisboa para la vigencia 2025 en el marco del proyecto de convivencia escolar, salud mental y habilidades socioemocionales y ciudadanas (mensajería ilimitada).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223204 - Plataforma de mensajes unificados
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Envíos masivos de mensajes de texto y correos electrónicos", "licicodigos": "103,488" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CLL 132D BIS No 132-05 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,400,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 01:39 pm
+
+**Fecha de Firma del Contrato:**
+
+02/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+02/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8162517 | Publicación modificación | 06/May/2025 - 12:22 pm |  |  |
+| Avisos | CO1.REQ.8162517 | Publicación modificación | 02/May/2025 - 08:12 am |  |  |
+| Avisos | CO1.REQ.8162517 | Publicación modificación | 29/Abr/2025 - 07:50 am |  |  |
+| Avisos | CO1.REQ.8162517 | Publicación modificación | 28/Abr/2025 - 11:12 am |  |  |

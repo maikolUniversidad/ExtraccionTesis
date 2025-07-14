@@ -1,0 +1,239 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE FLORENCIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bb30a526d17.36470989
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:12:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS DE VIDEO, COMUNICACIONES Y PERIFÉRICOS Y MATERIALES PARA SU INSTALACIÓN CON DESTINO EL CONCEJO MUNICIPAL DE FLORENCIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,45121500 - Cámaras,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad, -Equipos audiovisuales, -Materiales para redes de comunicación", "licicodigos": "104,105,109,115,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 12 CALLE 15 ESQUINA Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43222600, 45121500, 45111800 | ADQUISICION PROPIEDAD PLANTA Y EQUIPO | Mínima cuantía | Recursos propios | $39.843.333 | CONCEJO DE FLORENCIA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+19/May/2025 - 05:10 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 05:10 pm
+
+**Fecha de publicación:**
+
+19/May/2025 - 05:16 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+22/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:01 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/May/2025 - 04:00 pm | 28/Oct/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/May/2025 - 04:00 pm | 28/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JIMMY ALEXANDER PIMENTEL SANCHEZ Y/O JP COMPUTADORES | Florencia - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 37,851,168
+
+**Informes proceso de selección CO1.AWD.2264536 de 29/May/2025 - 11:12 am. Valor $37.851.168**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 06:58 pm |  |
+| Informe de selección | 29/May/2025 - 11:12 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264536**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** JIMMY ALEXANDER PIMENTEL SANCHEZ Y/O JP COMPUTADORES * **Tipo documento:** Nit de Persona Natural * **Documento:** 6804676 | * **Nombre:** JIMMY ALEXANDER PIMENTEL SANCHEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 6804676 | Florencia - Caquetá | $37.851.168 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264536****
+
+**Cuantía a la firma del contrato:**
+
+$ 37,851,168
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264536 | Informe de selección CO1.AWD.2264536 | 29/May/2025 - 11:12 am |  | - |
+| Reporte preliminar | CO1.AWD.2264536 | Informe de evaluación 1 CO1.AWD.2264536 | 27/May/2025 - 06:58 pm |  | - |
+| General | CO1.MSG.7947648 | ADENDA No. 2025001 | 27/May/2025 - 06:46 pm |  | - |
+| Avisos | CO1.REQ.8286026 | Publicación modificación | 27/May/2025 - 06:44 pm |  |  |
+| Avisos | CO1.MSG.7934650 | Publicación de la lista de ofertas del proceso 2025007. | 26/May/2025 - 09:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2260801 | Informe de evaluación 1 CO1.AWD.2260801 | 23/May/2025 - 05:36 pm |  | - |
+| Avisos | CO1.MSG.7932098 | La lista de oferentes del proceso 2025007 publicada por CONCEJO MUNICIPAL DE FLORENCIA | 23/May/2025 - 05:36 pm |  | - |
+| General | CO1.MSG.7918145 | AVISO DE LIMITACIÓN A MIPYME | 21/May/2025 - 05:22 pm |  | - |

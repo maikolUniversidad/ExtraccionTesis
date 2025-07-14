@@ -1,0 +1,138 @@
+Title: Licitaciones - COLEGIO LA FLORESTA SUR INSTITUCION EDUCATIVA DISTRITAL IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fcf446a6584.91358131
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Se hace necesario contratar una empresa natural o jurídica que realice la actualización de los aplicativos ayudantes Financiero, Presupuestal y de Almacen a fin de optimizar los recursos y mantener un control administrativo y documental para el COLEGIO LA FLORESTA SUR vigencia 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 68 b bis 1 - 09 sur Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,300,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231500, 43233201, 43231508 | ACTUALIZACION APLICATIVO DE INVENTARIOS Y PRESUPUESTAL, FIRMA DIGITAL INFORMES CONTRALORIA | Contratación régimen especial - Régimen especial | SGP | $2.300.000 | Colegio La Floresta Sur |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 11:19 am
+
+**Fecha de Firma del Contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+21/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 11/Jun/2025 - 03:55 pm |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 12/May/2025 - 12:08 pm |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 08/May/2025 - 01:41 pm |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 07/May/2025 - 04:03 pm |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 05/May/2025 - 12:09 pm |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 28/Abr/2025 - 11:54 am |  |  |
+| Avisos | CO1.REQ.8176490 | Publicación modificación | 28/Abr/2025 - 11:22 am |  |  |

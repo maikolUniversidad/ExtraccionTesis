@@ -1,0 +1,94 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682dddf366c2c2.78335122
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 10:55:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.087 SOPORTE Y MANTENIMIENTO AL SISTEMA DE LA PLATAFORMA DE SERVICIOS MICROSOFT DEL EJÉRCITO NACIONAL A EJECUTAR EN LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111506 - Servicios de programación para clientes o servidores
+
+**Códigos adicionales UNSPSC:**
+
+43231512 - Software de manejo de licencias,81112212 - Mantenimiento de software de administración de relaciones con el consumidor,81112210 - Mantenimiento de software de gestión de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 08:54 am
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 08:00 am

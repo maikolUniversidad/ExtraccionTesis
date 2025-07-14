@@ -1,0 +1,199 @@
+Title: Licitaciones - CAJA DE RETIRO DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685490f0a29d61.51105442
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:51:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO INCLUIDA BOLSA DE REPUESTOS PARA SERVIDORES, IMPRESORAS, ESCÁNER, UPS Y AIRES ACONDICIONADOS DE ACUERDO CON LAS ESPECIFICACIONES DEL ANEXO TÉCNICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados
+
+**Códigos adicionales UNSPSC:**
+
+81112305 - Mantenimiento de servidores x86,81112306 - Mantenimiento de impresoras,72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Aire acondicionado, -Servidores (Suministro y alquiler)", "licicodigos": "106,109,263,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+KRA 10 # 27-27 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 05:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/Jul/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+16/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 15,00 | 02/Jul/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 12:00 pm | 30/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 02/Jul/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jul/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2293312 | Informe de evaluación 4 CO1.AWD.2293312 | 11/Jul/2025 - 04:17 pm |  | - |
+| Avisos | CO1.REQ.8442060 | Publicación modificación | 11/Jul/2025 - 03:26 pm |  |  |
+| Reporte preliminar | CO1.AWD.2293312 | Informe de evaluación 3 CO1.AWD.2293312 | 07/Jul/2025 - 06:17 pm |  | - |
+| Avisos | CO1.REQ.8442060 | Publicación modificación | 07/Jul/2025 - 06:04 pm |  |  |
+| Reporte preliminar | CO1.AWD.2293312 | Informe de evaluación 2 CO1.AWD.2293312 | 03/Jul/2025 - 04:36 pm |  | - |
+| Avisos | CO1.REQ.8442060 | Publicación modificación | 03/Jul/2025 - 04:02 pm |  |  |
+| Reporte preliminar | CO1.AWD.2293312 | Informe de evaluación 1 CO1.AWD.2293312 | 27/Jun/2025 - 05:24 pm |  | - |
+| Avisos | CO1.MSG.8095611 | Publicación de la lista de ofertas del proceso MC 023-2025. | 27/Jun/2025 - 05:18 pm |  | - |
+| Avisos | CO1.REQ.8442060 | Publicación modificación | 26/Jun/2025 - 05:10 pm |  |  |
+| Avisos | CO1.MSG.8078208 | La lista de oferentes del proceso MC 023-2025 publicada por CAJA DE RETIRO DE LAS FUERZAS MILITARES | 25/Jun/2025 - 10:14 am |  | - |
+| General | CO1.MSG.8071246 | INFORMACION MIPYME | 24/Jun/2025 - 10:34 am |  | - |

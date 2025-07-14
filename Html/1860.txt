@@ -1,0 +1,101 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) 001-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68097a32a4c649.05226598
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 10:01:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO PLATAFORMA BASES DE DATOS, SISTEMAS OPERATIVOS Y SERVICIOS DE APLICACIÓN DE LA POLICÍA NACIONAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 59 26-21 Can Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 06:11 pm
+
+**Plazo para solicitar aclaraciones:**
+
+07/May/2025 - 04:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+07/May/2025 - 04:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8154276 | Publicación modificación | 05/May/2025 - 04:06 pm |  |  |
+| Avisos | CO1.REQ.8154276 | Publicación modificación | 28/Abr/2025 - 02:43 pm |  |  |
+| Aclaraciones | CO1.MSG.7806920 | RE: Preguntas Proceso | 28/Abr/2025 - 02:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7805409 | Preguntas Proceso | 28/Abr/2025 - 10:51 am |  | - |
+| Avisos | CO1.REQ.8154276 | Publicación modificación | 24/Abr/2025 - 06:01 pm |  |  |
+| Avisos | CO1.REQ.8154276 | Publicación modificación | 23/Abr/2025 - 06:21 pm |  |  |

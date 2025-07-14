@@ -1,0 +1,106 @@
+Title: Licitaciones - SENA REGIONAL GUAJIRA Grupo Mixto de Apoyo Administrativo
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68544463625a38.54352435
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:55:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir a título de compraventa toner, tintas y/o cintas de impresión y otros elementos de oficina para el Centro Industrial y de Energías Alternativas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+La Guajira : Riohacha
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 No 15 - 100 Riohacha La Guajira COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 11,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 12:01 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8441317 | Publicación modificación | 24/Jun/2025 - 09:13 am |  |  |

@@ -1,0 +1,202 @@
+Title: Licitaciones - ESTABLECIMIENTO PUBLICO AMBIENTAL BARRANQUILLA VERDE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ca221598079.09088031
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:34:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS DE CÓMPUTO, DISPOSITIVOS PERIFÉRICOS Y ELEMENTOS TECNOLÓGICOS PARA EL EPA BARRANQUILLA VERDE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Buzones, relojes de correspondencia y entrada, -Biometría", "licicodigos": "104,105,467,627" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 60 # 72-19 Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 04:00 pm
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 05:01 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+17/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+24/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 24/Jun/2025 - 12:00 pm | 24/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 24/Jun/2025 - 12:00 pm | 31/Jul/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2285668 | Informe de evaluación 1 CO1.AWD.2285668 | 19/Jun/2025 - 04:31 pm |  | - |
+| General | CO1.MSG.8060417 | DECLARATORIA DE DESIERTA | 19/Jun/2025 - 04:25 pm |  | - |
+| Avisos | CO1.MSG.8050438 | Publicación de la lista de ofertas del proceso BV-MC-015-2025. | 18/Jun/2025 - 11:35 am |  | - |
+| Avisos | CO1.MSG.8050432 | La lista de oferentes del proceso BV-MC-015-2025 publicada por ESTABLECIMIENTO PUBLICO AMBIENTAL BARRANQUILLA VERDE | 18/Jun/2025 - 11:34 am |  | - |
+| Avisos | CO1.REQ.8412826 | Publicación modificación | 17/Jun/2025 - 06:19 pm |  |  |
+| General | CO1.MSG.8047033 | RE: OBSERVACIONES AL PROCESO FORMATO DE OFERTA ECONOMICA | 17/Jun/2025 - 05:59 pm |  | - |
+| General | CO1.MSG.8047044 | RE: Observacion Proceso | 17/Jun/2025 - 05:59 pm |  | - |
+| General | CO1.MSG.8047025 | RE: OBSERVACION | 17/Jun/2025 - 05:58 pm |  | - |
+| Aclaraciones | CO1.MSG.8047012 | RE: OBSERVACIONES AL LOS PRECIOS PROMEDIO | 17/Jun/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.8047018 | RE: SOLICITUD DE ACLARACION | 17/Jun/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.8046280 | AVISO DE LIMITACIÓN A MIPYME | 17/Jun/2025 - 04:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8035843 | OBSERVACIONES AL LOS PRECIOS PROMEDIO | 16/Jun/2025 - 12:12 pm |  | - |

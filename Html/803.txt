@@ -1,0 +1,217 @@
+Title: Licitaciones - MUNICIPIO DE OTANCHE - Contratación mínima cuantía MC - 049
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b053b2e5891.83695862
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 10:37:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO E INSTALACIÓN DEL HARDWARE Y ELEMENTOS NECESARIOS PARA EL CAMBIO Y ACTUALIZACIÓN DE LA RED ETHERNET Y WIRELESS DEL EDIFICIO MUNICIPAL DE LA ALCALDIA DE OTANCHE -BOYACÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Otanche
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222639 - Hardware de subsistemas multimedia de protocolo de internet ip
+
+**Códigos adicionales UNSPSC:**
+
+43222612 - Interruptores de red,43222628 - Módems,43222635 - Kit de actualización de equipo de redes,43222600 - Equipo de servicio de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 6 #3-30 Otanche Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222639, 43222612, 43222628, 43222635, 43222600 | SUMINISTRO E INSTALACIÓN DEL HARDWARE Y ELEMENTOS NECESARIOS PARA EL CAMBIO Y ACTUALIZACIÓN DE LA RED ETHERNET Y WIRELESS DEL EDIFICIO MUNICIPAL DE LA ALCALDIA DE OTANCHE -BOYACÁ | Mínima cuantía | SGP | $40.000.000 | Oficina de Contratación |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 02:55 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 02:55 pm
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 02:56 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 02:30 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 02:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 03:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 03:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 05:15 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 12:00 pm | 18/Nov/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 12:00 pm | 18/Jul/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jul/2025 - 12:00 pm | 18/Nov/2025 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(7/07/2025 6:22:40 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ALCALDIA DE OTANCHE en 16 horas de tiempo transcurrido (7/07/2025 6:22:40 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: DECLARATORIA DESIERTA
+
+**Fecha de la cancelación:**
+
+07/Jul/2025 - 06:22 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8130967 | INFORME DE EVALUACION FINAL | 07/Jul/2025 - 06:22 pm |  | - |
+| General | CO1.MSG.8130963 | RESOLUCION DECLARATORIA DESIERTA | 07/Jul/2025 - 06:20 pm |  | - |
+| Objeciones | CO1.MSG.8105664 | SUBSANACION MC-049-2025 | 02/Jul/2025 - 10:21 am |  | - |
+| Reporte preliminar | CO1.AWD.2295906 | Informe de evaluación 1 CO1.AWD.2295906 | 02/Jul/2025 - 09:01 am |  | - |
+| Avisos | CO1.MSG.8090252 | La lista de oferentes del proceso MC - 049 - 2025 publicada por MUNICIPIO DE OTANCHE | 26/Jun/2025 - 06:47 pm |  | - |
+| Avisos | CO1.MSG.8090257 | Publicación de la lista de ofertas del proceso MC - 049 - 2025. | 26/Jun/2025 - 06:47 pm |  | - |
+| General | CO1.MSG.8081471 | RESPUESTA A OBSERVACIONES | 25/Jun/2025 - 04:13 pm |  | - |
+| Avisos | CO1.REQ.8458993 | Publicación modificación | 25/Jun/2025 - 04:11 pm |  |  |

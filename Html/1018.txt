@@ -1,0 +1,203 @@
+Title: Licitaciones - MUNICIPIO DE ENVIGADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68080cc6c74956.85991856
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 09:17:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SERVICIO DE PLATAFORMA TECNOLÓGICA PARA EL PAGO ELECTRÓNICO DE PEAJES PARA LOS VEHÍCULOS QUE PRESTAN SERVICIO AL MUNICIPIO DE ENVIGADO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+95141711 - Cabina de peaje
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 43 Nº 38 Sur 35 Envigado Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+240 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 95141711 | SERVICIO DE PLATAFORMA TECNOLÓGICA PARA EL PAGO ELECTRÓNICO DE PEAJES PARA LOS VEHÍCULOS QUE PRESTAN SERVICIO AL MUNICIPIO DE ENVIGADO | Mínima cuantía | Recursos propios | $25.217.877 | SECRETARIA GENERAL - DIRECCION DE APOYO LOGISTICO |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 04:00 pm
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 04:13 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Abr/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Devolución del pago anticipado | 100,00 | 06/May/2025 - 12:00 am | 31/Dic/2025 - 11:59 pm |
+| Cumplimiento del contrato | 10,00 | 06/May/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+**Devolución del pago anticipado:**
+
+100,00% del valor del contrato, desde 06/May/2025 - 12:00 am hasta 31/Dic/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7807560 | SOLICITUD POSIBLE PRECIO ARTIFICIALMENTE BAJO | 28/Abr/2025 - 04:27 pm |  | - |
+| Avisos | CO1.MSG.7804534 | Publicación de la lista de ofertas del proceso ENV-11/Ago/0184-25_4. | 28/Abr/2025 - 09:08 am |  | - |
+| Avisos | CO1.MSG.7804532 | La lista de oferentes del proceso ENV-11/Ago/0184-25_4 publicada por MUNICIPIO DE ENVIGADO | 28/Abr/2025 - 09:08 am |  | - |
+| General | CO1.MSG.7795931 | AVISO INFORMATIVO | 24/Abr/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.7784464 | AVISO INFORMATIVO | 23/Abr/2025 - 09:36 am |  | - |

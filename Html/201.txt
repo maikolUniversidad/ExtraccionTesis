@@ -1,0 +1,237 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d1f3505621.57289079
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:37:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+contratar la renovación, soporte, mantenimiento, actualización y ampliación de la herramienta Backup del COGFM, de acuerdo con las especificaciones técnicas del ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111901 - Recuperación de información de las bases de datos
+
+**Códigos adicionales UNSPSC:**
+
+43201835 - Dispositivo de almacenamiento unido a la red nas,43232309 - Software de recuperación o búsqueda de información,81112205 - Mantenimiento de software de sistemas de gestión de bases de datos,81112220 - Mantenimiento de software de servidores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 03:21 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+06/Jun/2025 - 03:23 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+06/Jun/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+10/Jun/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+16/Jun/2025 - 02:03 pm
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 02:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+02/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+08/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 07:00 am | 28/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 07:00 am | 28/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 04/Jul/2025 - 07:00 am | 28/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jul/2025 - 07:00 am | 28/Nov/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 443,100,000
+
+**Informes proceso de selección CO1.AWD.2285670 de 01/Jul/2025 - 11:58 am. Valor $443.100.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 04:32 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:49 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:49 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:49 pm |  |
+| Informe de selección | 01/Jul/2025 - 11:58 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285670 | Informe de selección CO1.AWD.2285670 | 01/Jul/2025 - 11:58 am |  | - |
+| Reporte preliminar | CO1.AWD.2285670 | Informe de evaluación 2 CO1.AWD.2285670 | 27/Jun/2025 - 03:49 pm |  | - |
+| Avisos | CO1.MSG.8060606 | Publicación de la lista de ofertas del proceso 226COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 19/Jun/2025 - 04:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285670 | Informe de evaluación 1 CO1.AWD.2285670 | 19/Jun/2025 - 04:32 pm |  | - |
+| Avisos | CO1.MSG.8037283 | La lista de oferentes del proceso 226COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 16/Jun/2025 - 02:23 pm |  | - |

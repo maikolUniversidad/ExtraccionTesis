@@ -1,0 +1,217 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826423f66ce76.85454581
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 14:36:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, ASÍ COMO EL DESMONTE, TRASLADO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DEL SIMULADOR DE VUELO C-208B, DE ACUERDO AL ANEXO TÉCNICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151800 - Servicios de mantenimiento y reparación de instalación de máquinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Simuladores de vuelo y terrestres (capacitación, mantenimiento, suministro)", "licicodigos": "820" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72151800 | MANTENIMIENTO PARA EL SIMULADOR FTD C-208B | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $215.579.796 | COMANDO FUERZA AEROESPACIAL COLOMBIANA |
+| 72151800 | SERVICIO DE INSTALACION DE MAQUINARIA SIMULADOR FTD C-208B | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $68.107.204 | COMANDO FUERZA AEROESPACIAL COLOMBIANA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 02:06 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 09:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 09:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 04:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 04:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+29/May/2025 - 08:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 08:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jun/2025 - 04:30 pm
+
+**Plazo para manifestación de Interés:**
+
+04/Jun/2025 - 04:30 pm
+
+**Realización del sorteo:**
+
+05/Jun/2025 - 11:00 am
+
+**Publicación de la lista de precalificados:**
+
+05/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+09/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jun/2025 - 09:30 am
+
+**Apertura de Ofertas:**
+
+11/Jun/2025 - 09:33 am
+
+**Informe de presentación de Ofertas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+17/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 04:30 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+01/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+04/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/Jul/2025 - 12:00 pm | 31/Jul/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 pm | 26/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 50,00 | 26/Dic/2025 - 12:00 am | 26/Dic/2026 - 11:59 pm |

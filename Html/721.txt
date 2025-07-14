@@ -1,0 +1,266 @@
+Title: Licitaciones - POLICIA METROPOLITANA SANTIAGO DE CALI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827e8777c8c21.83049096
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 12:08:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, CALIBRACIÓN Y/O REPARACIÓN DE EQUIPOS ELECTRÓNICOS, PARA UNAS UNIDADES DE LA POLICÍA NACIONAL EN EL DEPARTAMENTO DE POLICÍA VALLE, METROPOLITANA SANTIAGO DE CALI Y GRUPO REGIONAL DE POLICÍA CIENTÍFICA Y CRIMINALÍSTICA No. 4
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81141504 - Reparación o calibración de pruebas de equipo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Básculas, instrumentos de medida, observación y ensayo, -Metrología y calibración de instrumentos de medida", "licicodigos": "115,272,303" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 # 1N-65 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 143,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81141504, 72151606 | MANTENIMIENTO, CALIBRACION Y/O REPARACION DE EQUIPOS ELECTRONICOS, DE MEDICION, PESO Y OTROS (GPS MAP) - MECAL DEVAL REGI4 | Mínima cuantía | Recursos propios | $45.470.000 | OFICINA DE CONTRATOS |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+16/May/2025 - 08:33 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/Jun/2025 - 12:00 am | 19/May/2026 - 11:59 pm |
+| Calidad del servicio | 50,00 | 19/Jun/2025 - 12:00 am | 19/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** METLAB SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 45,470,000
+
+**Informes proceso de selección CO1.AWD.2264517 de 20/Jun/2025 - 04:13 am. Valor $45.470.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 05:35 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:35 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:35 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:31 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:33 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 10/Jun/2025 - 10:12 am |  |
+| Informe de evaluación | 12/Jun/2025 - 06:15 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:15 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:15 pm |  |
+| Informe de selección | 20/Jun/2025 - 04:13 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264517**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** METLAB SAS * **Tipo documento:** NIT * **Documento:** 901125565 | * **Nombre:** HASBLEYDER DIAZ * **Tipo documento:** * **Documento:** 5820989 | Bogotá - Distrito Capital de Bogotá | $45.470.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264517****
+
+**Cuantía a la firma del contrato:**
+
+$ 45,470,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264517 | Informe de selección CO1.AWD.2264517 | 20/Jun/2025 - 04:13 pm |  | - |
+| Avisos | CO1.REQ.8265289 | Publicación modificación | 19/Jun/2025 - 06:07 pm |  |  |
+| Reporte preliminar | CO1.AWD.2264517 | Informe de evaluación 5 CO1.AWD.2264517 | 12/Jun/2025 - 06:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264517 | Informe de evaluación 4 CO1.AWD.2264517 | 10/Jun/2025 - 10:12 am |  | - |
+| Reporte preliminar | CO1.AWD.2264517 | Informe de evaluación 3 CO1.AWD.2264517 | 05/Jun/2025 - 04:33 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264517 | Informe de evaluación 2 CO1.AWD.2264517 | 30/May/2025 - 06:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264517 | Informe de evaluación 1 CO1.AWD.2264517 | 27/May/2025 - 05:35 pm |  | - |
+| Avisos | CO1.MSG.7937294 | La lista de oferentes del proceso PN MECAL MIC 046 2025 publicada por POLICIA METROPOLITANA SANTIAGO DE CALI | 26/May/2025 - 02:25 pm |  | - |
+| Avisos | CO1.REQ.8265289 | Publicación modificación | 19/May/2025 - 06:38 pm |  |  |
+| General | CO1.MSG.7904500 | RESPUESTA A OBSERVACIONES | 19/May/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7904489 | RE: Observaciones al proceso PN MECAL MIC 046 2025, Observacion al pliego de condiciones, Observaciones #2 | 19/May/2025 - 05:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7902838 | Observaciones al proceso PN MECAL MIC 046 2025 | 19/May/2025 - 04:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7900285 | Observaciones #2 | 19/May/2025 - 10:30 am |  | - |
+| Aclaraciones | CO1.MSG.7899581 | Observacion al pliego de condiciones | 19/May/2025 - 09:29 am |  | - |

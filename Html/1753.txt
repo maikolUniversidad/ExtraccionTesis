@@ -1,0 +1,16 @@
+Title: Licitaciones - ALCALDIA LOCAL DE SUMAPAZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b13c6411fa9.75636224
+
+Markdown Content:
+**Clasificación UNSPSC por la entidad contratante:**
+
+42192210 - Sillas de ruedas
+
+**Códigos adicionales UNSPSC:**
+
+42192209 - Rampas para sillas de ruedas,42211501 - Bastones o accesorios para bastones,42211503 - Dispositivos de posicionamiento,42211504 - Levantadores o ayudas para ponerse de pie,42211507 - Dispositivos de cuerpo entero para deslizarse o voltearse,42211508 - Dispositivos o accesorios de movilidad multifuncional,42211603 - Elevadores para baño o accesorios para los discapacitados físicamente,42211607 - Asientos de inodoro elevados para los discapacitados físicamente,42211608 - Barras de sujeción o barandas para la tina para los discapacitados físicamente,42211610 - Asientos o sillas para la ducha o el baño para los discapacitados físicamente,42211611 - Baños de asiento para los discapacitados físicamente,42211612 - Soportes de brazos para el inodoro para los discapacitados físicamente,42211614 - Asientos de inodoro para los discapacitados físicamente,42211701 - Interruptores de comunicación adaptativa para los discapacitados físicamente,42211702 - Dispositivos braille para los discapacitados físicamente,42211705 - Ayudas auditivas para los discapacitados físicamente,42211706 - Tableros de letras o símbolos para los discapacitados físicamente,42211707 - Dispositivos de telecomunicación tdd o teletipos tty para los discapacitados físicamente,42211807 - Cuidado de la boca para los discapacitados físicamente,42211808 - Cortaúñas o limas para los discapacitados físicamente,42211809 - Ganchos para sujetarse los pantalones para los discapacitados físicamente,42211810 - Calzadores para los discapacitados físicamente,42211811 - Hormas de zapatos para los discapacitados físicamente,42211812 - Media o ayudas para apilar para los discapacitados físicamente,42211813 - Jaladores de cremalleras para los discapacitados físicamente,42211901 - Materiales anti resbalón para los discapacitados físicamente,42211907 - Cubiertos o utensilios para los discapacitados físicamente,42211914 - Ayudas para medir para los discapacitados físicamente,42212112 - Ayudas de costura para los discapacitados físicamente,42212301 - Materiales o dispositivos de agarre para los discapacitados físicamente,42212302 - Sujetadores para los discapacitados físicamente,42212303 - Abridores de contenedores para los discapacitados físicamente,42212304 - Alcanzadores para los discapacitados físicamente,42142303 - Productos de identificación de pacientes,52121508 - Cobijas,53121503 - Piezas individuales de maletas,53131503 - Cepillos de dientes,53131504 - Seda dental,53131506 - Kits dentales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos médicos, -Suministro material y/o dispositivos médicos, -Atención al discapacitado, - Sillas de ruedas, camillas, muletas y artículos ortopédicos, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "105,119,190,282,361,423" }

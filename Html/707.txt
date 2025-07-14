@@ -1,0 +1,213 @@
+Title: Licitaciones - DEPARTAMENTO DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682df3c890c488.25599643
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 21:21:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES DE LOS CONSEJEROS DEPARTAMENTALES DE JUVENTUDES, EN EL MARCO DEL PROYECTO DESARROLLO DE ACCIONES ESTRATÉGICAS PARA FOMENTAR REDES DE INNOVACIÓN SOCIAL Y POTENCIALIZAR EL TALENTO DE LOS JÓVENES EN EL DEPARTAMENTO DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 37 # 10-30 oficina 417 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 10:11 am
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 11:00 am
+
+**Publicación de la invitación:**
+
+21/May/2025 - 11:00 am
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 11:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 11:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 04:59 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 08:00 am | 28/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 29/May/2025 - 08:00 am | 28/Jun/2028 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(18/Jun/2025 - 10:58 am AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal DEPARTAMENTO DE SANTANDER en 10 horas de tiempo transcurrido (18/Jun/2025 - 10:58 am AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: SE CANCELA EL PROCESO, POR CUANTO SE DECLARÓ DESIERTO MEDIANTE RESOLUCIÓN 9875 DEL 29 DE MAYO DE 2025 Y NO SE PRESENTARON RECURSOS AL ACTO ADMINISTRATIVO DURANTE EL TÉRMINO DE TRASLADO.
+
+**Fecha de la cancelación:**
+
+18/Jun/2025 - 10:58 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8002362 | Publicación de la lista de ofertas del proceso DS-MC-25-02. | 09/Jun/2025 - 03:41 pm |  | - |
+| Avisos | CO1.MSG.8002358 | La lista de oferentes del proceso DS-MC-25-02 publicada por DEPARTAMENTO DE SANTANDER | 09/Jun/2025 - 03:40 pm |  | - |
+| General | CO1.MSG.7971924 | RESOLUCIÓN 09875 DE 2025 DECLARA DESIERTO EL PROCESO DS-MC-25-02 | 03/Jun/2025 - 10:23 am |  | - |
+| General | CO1.MSG.7960547 | INFORME DE EVALUACIÓN DEFINITIVO DS-MC-25-02 | 29/May/2025 - 03:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264328 | Informe de evaluación 1 CO1.AWD.2264328 | 27/May/2025 - 01:17 pm |  | - |
+| General | CO1.MSG.7943702 | INFORME DE EVALUACIÓN DE OFERTAS DS-MC-25-02 | 27/May/2025 - 12:15 pm |  | - |
+| General | CO1.MSG.7943665 | DESIGNACIÓN COMITÉ EVALUADOR DS-MC-25-02 | 27/May/2025 - 12:10 pm |  | - |
+| Avisos | CO1.REQ.8292678 | Publicación modificación | 23/May/2025 - 05:18 pm |  |  |
+| General | CO1.MSG.7931829 | ADENDA N° 3 MODIFICA INVITACIÓN PÚBLICA | 23/May/2025 - 05:16 pm |  | - |
+| General | CO1.MSG.7931736 | RESPUESTA A OBSERVACIONES A LA INVITACION | 23/May/2025 - 05:05 pm |  | - |
+| General | CO1.MSG.7925800 | AVISO LIMITACION MIPYME | 22/May/2025 - 06:24 pm |  | - |
+| General | CO1.MSG.7925639 | ADENDA N° 1 - MODIFICACIÓN DE CRONOGRAMA | 22/May/2025 - 06:07 pm |  | - |
+| Avisos | CO1.REQ.8292678 | Publicación modificación | 22/May/2025 - 06:02 pm |  |  |
+| Aclaraciones | CO1.MSG.7920895 | MANIFESTACION DE LIMITAR A MYPIMES MUNICIPAL | 22/May/2025 - 10:14 am |  | - |
+| Aclaraciones | CO1.MSG.7920319 | observacion tecnica invitacion | 22/May/2025 - 09:47 am |  | - |
+| Aclaraciones | CO1.MSG.7916706 | MANIFESTACION DE DE LIMITAR A MIPYMES DEPARTAMENTAL (SANTANDER) | 21/May/2025 - 03:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7914903 | solicitud | 21/May/2025 - 11:47 am |  | - |

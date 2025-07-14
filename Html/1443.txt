@@ -1,0 +1,182 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE UBATE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68518bf6bad806.99775701
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 10:39:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+adquisición de elementos para el programa de educación formal de la cárcel y penitenciaria de media seguridad de ubate (cpms-uba), recluidos en la cárcel y penitenciaria de media seguridad de Ubaté
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Villa De San Diego De Ubate
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+11121802 - Algodón
+
+**Códigos adicionales UNSPSC:**
+
+31151508 - Cabuya,50305603 - Piña hilo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Textiles y productos para confección, -Papelería y elementos de oficina, -Implementos deportivos y/o gimnasio, -Artículos domésticos", "licicodigos": "115,125,127,137,209" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+1 Meses
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 6-41 Villa De San Diego De Ubate Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 11121802, 31151508, 50305603 | adquisición de elementos para el programa de educación formal de la cárcel y penitenciaria de media seguridad de ubate (cpms-uba), recluidos en la cárcel y penitenciaria de media seguridad de Ubaté | Mínima cuantía | Recursos propios | $6.260.000 | GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 09:42 am
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 09:43 am
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 09:43 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 07:00 am
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 07:01 am
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+21/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

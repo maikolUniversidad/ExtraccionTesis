@@ -1,0 +1,311 @@
+Title: Licitaciones - SUPERINTENDENCIA NACIONAL DE SALUD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681ea6ba4a7a54.74466871
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suscripción a un servicio de consulta de información vía web en listas restrictivas, vinculantes, sancionatorias, cautelares, judiciales y fuentes de información pública, mediante una herramienta tecnológica, así como el soporte técnico de la misma, con el objetivo de fortalecer las funciones de inspección, vigilancia y control asignadas a la Superintendencia Nacional de Salud
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232304 - Software de sistemas de manejo de base datos
+
+**Códigos adicionales UNSPSC:**
+
+81112003 - Servicios de centros de datos,43232300 - Software de consultas y gestión de datos,81112006 - servicios de almacenamiento de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "102,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 68 A # 24 B 10 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232304, 81112003, 81112006, 43232300 | Suscripción a un servicio de consulta de información vía web en listas restrictivas, vinculantes, sancionatorias, cautelares, judiciales y fuentes de información pública, mediante una herramienta tecnológica, así como el soporte técnico de la misma, con el objetivo de fortalecer las funciones de inspección, vigilancia y control asignadas a la Superintendencia Nacional de Salud. [2025284] | Mínima cuantía | Recursos propios | $30.000.000 | Secretaria General |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+09/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+09/May/2025 - 08:02 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+12/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 01:00 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 01:01 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 01:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 22/May/2025 - 05:00 pm | 21/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 22/May/2025 - 05:00 pm | 21/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 22/May/2025 - 05:00 pm | 21/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** RISKS INTERNATIONAL SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,640,300
+
+**Informes proceso de selección CO1.AWD.2256603 de 27/May/2025 - 08:06 am. Valor $18.640.300**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:27 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:04 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:04 pm |  |
+| Informe de evaluación | 21/May/2025 - 04:04 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 22/May/2025 - 07:30 pm |  |
+| Informe de evaluación | 26/May/2025 - 07:38 pm |  |
+| Informe de evaluación | 26/May/2025 - 07:38 pm |  |
+| Informe de evaluación | 26/May/2025 - 07:38 pm |  |
+| Informe de selección | 27/May/2025 - 08:06 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2256603**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** RISKS INTERNATIONAL SAS * **Tipo documento:** NIT * **Documento:** 900352786 | * **Nombre:** SILVIA CATALINA REINA ARCHILA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1049611974 | - Distrito Capital de Bogotá | $18.640.300 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2256603****
+
+**ID del contrato en SECOP:**
+
+120 DE 2025
+
+**Estado del contrato:**
+
+En ejecución
+
+**Fecha inicio del contrato:**
+
+04/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+03/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 18,640,300
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2256603 | Informe de selección CO1.AWD.2256603 | 27/May/2025 - 08:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256603 | Informe de evaluación 4 CO1.AWD.2256603 | 26/May/2025 - 07:38 pm |  | - |
+| General | CO1.MSG.7926365 | SUBSANACIÓN INFORME JURIDICO Y TECNICO | 23/May/2025 - 08:43 am |  | - |
+| Reporte preliminar | CO1.AWD.2256603 | Informe de evaluación 3 CO1.AWD.2256603 | 22/May/2025 - 07:30 pm |  | - |
+| General | CO1.MSG.7918694 | ADENDA No. 1 | 21/May/2025 - 06:02 pm |  | - |
+| Avisos | CO1.REQ.8228279 | Publicación modificación | 21/May/2025 - 05:44 pm |  |  |
+| Reporte preliminar | CO1.AWD.2256603 | Informe de evaluación 2 CO1.AWD.2256603 | 21/May/2025 - 04:03 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256603 | Informe de evaluación 1 CO1.AWD.2256603 | 19/May/2025 - 07:27 pm |  | - |
+| Avisos | CO1.MSG.7901412 | Publicación de la lista de ofertas del proceso SNS-MC-10-2025. | 19/May/2025 - 12:40 pm |  | - |
+| Avisos | CO1.MSG.7894531 | La lista de oferentes del proceso SNS-MC-10-2025 publicada por SUPERINTENDENCIA NACIONAL DE SALUD | 16/May/2025 - 01:34 pm |  | - |
+| General | CO1.MSG.7877023 | RESPUESTA A OBSERVACIONES | 13/May/2025 - 06:08 pm |  | - |

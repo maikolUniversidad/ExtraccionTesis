@@ -1,0 +1,240 @@
+Title: Licitaciones - CONTRALORIA GENERAL DE BOYACA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e9a1dc8c206.22241469
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-17 02:05:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL PARQUE DE IMPRESIÓN Y SUMINISTRO DE TÓNERS PARA LA CONTRALORÍA GENERAL DE BOYACÁ VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Tunja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103125 - Kit de mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+44103108 - Reveladores para impresoras o fotocopiadoras,44103103 - Tóner para impresoras o fax,44103122 - Bandas de impresión,72154066 - Mantenimiento general de equipos de oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Contraloría General de Boyacá ubicada en la Carrera 9 N° 17 - 60 pisos 3 y 4 de la ciudad de Tunja. Tunja Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+210 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154066 | MANTENIMIENTO EQUIPOS (impresoras, toner, scanner y computadores) | Mínima cuantía | Recursos propios | $15.000.000 | 2025 CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 07:03 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 07:30 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 07:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/May/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+12/May/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+13/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+13/May/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+13/May/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/May/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 12/May/2025 - 12:00 pm | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 12/May/2025 - 12:00 pm | 12/May/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 12/May/2025 - 12:00 pm | 28/Feb/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 13/May/2025 - 03:29 pm | * **Nombre:** COMPUCENTRO SAS | Tunja - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 10,000,000
+
+**Informes proceso de selección CO1.AWD.2252006 de 15/May/2025 - 09:47 am. Valor $10.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 08:27 pm |  |
+| Informe de evaluación | 15/May/2025 - 09:20 pm |  |
+| Informe de selección | 15/May/2025 - 09:47 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2252006**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMPUCENTRO INTERNET GARAGOA SAS * **Tipo documento:** NIT * **Documento:** 901428686 | * **Nombre:** EDGAR CORDOBA RODRIGUEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 7331172 | Garagoa - Boyacá | $10.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2252006****
+
+**Cuantía a la firma del contrato:**
+
+$ 10,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2252006 | Informe de selección CO1.AWD.2252006 | 15/May/2025 - 09:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2252006 | Informe de evaluación 2 CO1.AWD.2252006 | 15/May/2025 - 09:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2252006 | Informe de evaluación 1 CO1.AWD.2252006 | 14/May/2025 - 08:27 pm |  | - |
+| Avisos | CO1.MSG.7877819 | La lista de oferentes del proceso MC-007-2025 publicada por CONTRALORIA GENERAL DE BOYACA | 13/May/2025 - 10:00 pm |  | - |
+| General | CO1.MSG.7876012 | RESPUESTA A LA OBSERVACION PRESENTADA DENTRO DE LA CONVOCATORIA PUBLICA N°007-2025 | 13/May/2025 - 04:51 pm |  | - |

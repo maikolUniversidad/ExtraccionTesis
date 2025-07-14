@@ -1,0 +1,90 @@
+Title: Licitaciones - ENTerritorio S.A - Solicitud de información a los Proveedores (SECOPII) SIP-074-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68253748e67c99.36668474
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 09:18:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Fortalecimiento de La Casa Vergeleña: Memoria, Cultura y Autosostenibilidad
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño: La Llanada
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31162800 - Ferretería en general
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores,43211600 - Accesorios de computador,56112102 - Sillas para grupos de trabajo,80141607 - Gestión de eventos,39112000 - Proyectores móviles,44101500 - Máquinas de duplicación,44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax,45111500 - Atriles, sistemas de sonido y accesorios,45111600 - Proyectores y suministros,45111609 - Proyectores multimedia,90101501 - Restaurantes,90101604 - Servicios de cáterin en la obra o lugar de trabajo,90101802 - Servicios de comidas a domicilio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales, -Papelería y elementos de oficina, -Mobiliario, -Capacitación y educación no formal, -Servicio de pintura, -Capacitación en artes y en manufactura (Música, danzas, pintura)", "licicodigos": "104,115,127,128,165,342,426" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 No.13-19 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 07:23 pm
+
+**Plazo para solicitar aclaraciones:**
+
+16/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2025 - 05:00 pm

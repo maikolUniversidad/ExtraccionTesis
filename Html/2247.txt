@@ -1,0 +1,90 @@
+Title: Licitaciones - INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIO TÉCNICOS EN EL EXTERIOR MARIANO OSPINA PEREZ.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681122b47079c7.11441119
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 15:14:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de plataforma tecnológica de subastas ascendentes electrónicas para el ICETEX
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Códigos adicionales UNSPSC:**
+
+81161501 - Servicio de administración de aplicaciones de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Subastas, remates y enajenación de bienes", "licicodigos": "103,291" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotá Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 01:49 pm
+
+**Plazo para solicitar aclaraciones:**
+
+05/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+08/May/2025 - 05:00 pm

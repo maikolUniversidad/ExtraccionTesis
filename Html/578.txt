@@ -1,0 +1,300 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffe2be5a6882.63226522
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-15 06:28:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el Servicio de ajustes, parametrización y soporte del Micrositio Web Sello de Educación Financiera bajo la modalidad de bolsa horas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+195 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800 | Soporte micrositio web Sello de Educación Financiera | Selección abreviada menor cuantía | Recursos propios | $89.371.900 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Abr/2025 - 11:49 am
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Abr/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+05/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 10:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+14/May/2025 - 02:46 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+14/May/2025 - 11:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés:**
+
+19/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+22/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 03:00 pm
+
+**Apertura de Ofertas:**
+
+27/May/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 03:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+13/Jun/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+18/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/Jun/2025 - 12:00 pm | 15/Ago/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 13/Jun/2025 - 12:00 pm | 15/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 13/Jun/2025 - 12:00 pm | 15/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BRANDER | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 36,374,500
+
+**Informes proceso de selección CO1.AWD.2270953 de 12/Jun/2025 - 09:09 am. Valor $36.374.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 07:50 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:50 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:50 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:50 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:50 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 04:34 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 04:34 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 04:34 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 04:34 pm |  |
+| Informe de selección | 12/Jun/2025 - 09:09 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270953**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BRANDER IDEAS SAS * **Tipo documento:** NIT * **Documento:** 900646665 | * **Nombre:** ANDERSON ARDILA * **Tipo documento:** NIT * **Documento:** 80092941 | Bogotá - Distrito Capital de Bogotá | $36.374.500 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270953****
+
+**ID del contrato en SECOP:**
+
+SF.021-2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 36,374,500
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270953 | Informe de selección CO1.AWD.2270953 | 12/Jun/2025 - 09:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270953 | Informe de evaluación 2 CO1.AWD.2270953 | 11/Jun/2025 - 04:34 pm |  | - |
+| General | CO1.MSG.8017212 | Respuesta Obervaciones Evaluación B2B TIC S.A.S. | 11/Jun/2025 - 04:29 pm |  | - |
+| General | CO1.MSG.7979492 | OBSERVACIÓN Y JUSTIFICACIÓN PRECIO ARTIFICIALMENTE BAJO | 04/Jun/2025 - 11:59 am |  | - |
+| Avisos | CO1.MSG.7977164 | Publicación de la lista de ofertas del proceso SF.PMC-004-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 04/Jun/2025 - 05:13 am |  | - |
+| Reporte preliminar | CO1.AWD.2270953 | Informe de evaluación 1 CO1.AWD.2270953 | 03/Jun/2025 - 07:50 pm |  | - |
+| General | CO1.MSG.7972423 | RE: Requerimiento Precio Artificialmente Bajo BRANDER IDEAS S.A.S. | 03/Jun/2025 - 11:16 am |  | - |
+| Avisos | CO1.MSG.7945078 | La lista de oferentes del proceso SF.PMC-004-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por SUPERINTENDENCIA FINANCIERA DE COLOMBIA | 27/May/2025 - 03:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7925959 | Respuesta Obervaciones Pliegos Definitivos SF.PMC-004-2025 | 22/May/2025 - 06:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7910492 | Observaciones al proceso | 20/May/2025 - 04:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7909133 | OBSERVACIONES SF.PMC-004-2025 | 20/May/2025 - 03:02 pm |  | - |
+| Aclaraciones | CO1.MSG.7872157 | Respuesta Obervaciones Proyecto de Pliegos SF.PMC-004-2025 | 13/May/2025 - 10:04 am |  | - |
+| Aclaraciones | CO1.MSG.7800636 | Observaciones Sinergy & Lowells S.A.S | 25/Abr/2025 - 03:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7800241 | Observaciones Proyecto Pliego SF.PMC-004-2025 | 25/Abr/2025 - 02:49 pm |  | - |

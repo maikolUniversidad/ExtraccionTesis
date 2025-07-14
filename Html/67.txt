@@ -1,0 +1,293 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682270e9b748e0.48668897
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-03 14:45:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la adquisición de switch core, switch de acceso (Incluye: Suministro de los bienes, transporte, mano de obra, elementos y accesorios necesarios para su instalación, migración, implementación, configuración, pruebas, y puesta en funcionamiento) a todo costo y todo incluido, de acuerdo con las especificaciones técnicas del ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222604 - Equipo de red de entrega de contenido
+
+**Códigos adicionales UNSPSC:**
+
+43222609 - Enrutadores (routers) de red,43222610 - Concentradores o hubs de servicio de red,43223303 - Cable de conexión de comunicación de datos,43232804 - Software de administración,81111809 - Servicio de instalación de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Materiales para redes de comunicación", "licicodigos": "105,106,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222609 | ADQUISICIÓN DE EQUIPOS SWITCH CORE, BORDE, DISTRIBUCIÓN CGDJ6 | Licitación pública | Presupuesto de entidad nacional | $1.619.354.893 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/May/2025 - 04:40 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+23/May/2025 - 04:40 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+23/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+23/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+27/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+30/May/2025 - 02:03 pm
+
+**Informe de presentación de Ofertas:**
+
+30/May/2025 - 02:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+13/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+17/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/Jun/2025 - 08:00 am | 28/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 19/Jun/2025 - 08:00 am | 28/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 19/Jun/2025 - 08:00 am | 28/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 19/Jun/2025 - 08:00 am | 28/Nov/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NETWORK & ACCESORIES SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,618,796,000
+
+**Informes proceso de selección CO1.AWD.2272803 de 13/Jun/2025 - 03:51 am. Valor $1.618.796.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 09:03 am |  |
+| Informe de evaluación | 05/Jun/2025 - 09:03 am |  |
+| Informe de evaluación | 05/Jun/2025 - 09:03 am |  |
+| Informe de evaluación | 12/Jun/2025 - 04:29 pm |  |
+| Informe de selección | 13/Jun/2025 - 03:51 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272803**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NETWORK & ACCESORIES SAS * **Tipo documento:** NIT * **Documento:** 901159165 | * **Nombre:** YORGUIN MAURICIO NIÑO PRADA * **Tipo documento:** NIT * **Documento:** 91181962 | - Distrito Capital de Bogotá | $1.618.796.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272803****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7981103
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+28/Nov/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 1,618,796,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272803 | Informe de selección CO1.AWD.2272803 | 13/Jun/2025 - 03:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272803 | Informe de evaluación 2 CO1.AWD.2272803 | 12/Jun/2025 - 04:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272803 | Informe de evaluación 1 CO1.AWD.2272803 | 05/Jun/2025 - 09:03 am |  | - |
+| Avisos | CO1.MSG.7985260 | Publicación de la lista de ofertas del proceso 213COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 05/Jun/2025 - 09:03 am |  | - |
+| Avisos | CO1.MSG.7966130 | La lista de oferentes del proceso 213COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 30/May/2025 - 02:15 pm |  | - |
+| General | CO1.MSG.7958825 | FORMULARIO No. 1 DE PREGUNTAS Y RESPUESTAS | 29/May/2025 - 12:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7938390 | Aclaración | 26/May/2025 - 04:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7903845 | Observaciones proyecto pliego | 19/May/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7902826 | Observaciones pliego | 19/May/2025 - 03:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7901825 | Observaciones al proceso | 19/May/2025 - 02:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7894143 | Observaciones al pliego de condiciones | 16/May/2025 - 01:59 pm |  | - |

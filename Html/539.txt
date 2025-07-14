@@ -1,0 +1,185 @@
+Title: Licitaciones - GOBERNACION DEL CHOCÓ.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b0537ccc138.61420906
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+IP-004-II 2025 // Suministro de papeleria y toner y demás elementos de oficina necesarios para el buen funcionamiento de la Secretaria de Educación del Departamento del Chocó (MAQUINAS DE OFICINAS)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Chocó : Quibdó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CLL. 30 No. 8-04 Quibdó Chocó COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44122100, 44121600, 44121700, 44122000, 44111500, 44103100, 44103103 | Suministro de papeleria y toner y demás elementos de oficina necesarios para el buen funcionamiento de la Secretaria de Educación del Departamento del Chocó (MAQUINAS DE OFICINAS) | Mínima cuantía | SGP | $11.110.000 | GOBERNACION - EDUCACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 02:56 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 04:15 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 04:20 pm
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 04:22 pm
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 04:25 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 11:30 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8093789 | Publicación de la lista de ofertas del proceso IP-004-II 2025. | 27/Jun/2025 - 02:21 pm |  | - |
+| Avisos | CO1.MSG.8093786 | La lista de oferentes del proceso IP-004-II 2025 publicada por GOBERNACION DEL CHOCÓ. | 27/Jun/2025 - 02:20 pm |  | - |
+| General | CO1.MSG.8085933 | RE: OBSERVACION | 26/Jun/2025 - 11:05 am |  | - |
+| Aclaraciones | CO1.MSG.8082574 | RE: LIMITACION MIPYMES TERRITORIA | 25/Jun/2025 - 05:41 pm |  | - |
+| Aclaraciones | CO1.MSG.8082530 | RE: observacion | 25/Jun/2025 - 05:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8082561 | RE: LIMITACION MIPYMES TERRITORIA | 25/Jun/2025 - 05:40 pm |  | - |
+| General | CO1.MSG.8082490 | aviso de limitación | 25/Jun/2025 - 05:35 pm |  | - |
+| Aclaraciones | CO1.MSG.8075777 | LIMITACION MIPYMES TERRITORIA | 24/Jun/2025 - 06:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8075527 | LIMITACION MIPYMES TERRITORIA | 24/Jun/2025 - 05:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8074955 | observacion | 24/Jun/2025 - 05:01 pm |  | - |

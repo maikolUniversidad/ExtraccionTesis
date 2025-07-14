@@ -1,0 +1,90 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c318977a990.34076465
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+EL MINISTERIO DE DEFENSA NACIONAL - COMANDO GENERAL DE LAS FUERZAS MILITARES - DIRECCIÓN ADMINISTRATIVA Y FINANCIERA, requiere contratar la adquisición de switch core, switch de acceso (Incluye: Suministro de los bienes, transporte, mano de obra, elementos y accesorios necesarios para su instalación, migración, implementación, configuración, pruebas, y puesta en funcionamiento) a todo costo y todo incluido, de acuerdo con las especificaciones técnicas del ANEXO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Materiales para redes de comunicación", "licicodigos": "105,106,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 07:50 pm
+
+**Plazo para solicitar aclaraciones:**
+
+29/Abr/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 03:00 pm

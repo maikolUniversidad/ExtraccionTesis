@@ -1,0 +1,101 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cf9802d7ca0.23052833
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:27:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la actualización y soporte del software de gestión de vulnerabilidades de la infraestructura tecnológica de la Secretaría General de la Alcaldía Mayor de Bogotá D.C
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 01:16 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7873986 | Observaciones Secretaria General de la Alcaldía Mayor de Bogotá | 13/May/2025 - 01:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7872510 | observaciones a la solicitud de informacion | 13/May/2025 - 10:38 am |  | - |

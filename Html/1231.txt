@@ -1,0 +1,128 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DISTRITAL SAN BENITO ABAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ce985814710.26352764
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 10:20:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Realizar los mantenimientos preventivos y correctivos de las máquinas impresión y copiado de la I.E.D., y suministro de repuestos originales necesarios para el correcto funcionamiento.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101707 - Mantenimiento de equipos de impresión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos", "licicodigos": "106,108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 58 NRO. 19 B 67 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 06:55 pm
+
+**Fecha de Firma del Contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+20/Nov/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8415061 | Publicación modificación | 17/Jun/2025 - 06:46 pm |  |  |

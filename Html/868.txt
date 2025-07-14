@@ -1,0 +1,256 @@
+Title: Licitaciones - MUNICIPIO DE OBANDO VALLE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e4face4c679.98309706
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 20:12:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERIA, UTILES DE ESCRITORIO, PERIFERICOS Y ARTICULOS DE OFICINA PARA LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPAL DE OBANDO, VALLE DEL CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Obando
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 3 CON CRA 1 ESQUINA Obando Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+200 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 04:58 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DIANA MILENA PINO BEDOYA | Dosquebradas - Risaralda |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 36,107,900
+
+**Informes proceso de selección CO1.AWD.2265213 de 28/May/2025 - 07:03 am. Valor $36.107.900**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 10:32 am |  |
+| Informe de selección | 28/May/2025 - 07:03 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265213**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DIANA MILENA PINO BEDOYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 66753007 | * **Nombre:** DIANA MILENA PINO BEDOYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 66753007 | Dosquebradas - Risaralda | $36.107.900 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265213****
+
+**Contrato 202585 de DIANA MILENA PINO BEDOYA:**
+
+**ID del contrato en SECOP:**
+
+202585
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERIA, UTILES DE ESCRITORIO, PERIFERICOS Y ARTICULOS DE OFICINA PARA LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPAL DE OBANDO, VALLE DEL CAUCA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 14111500 | SUMINISTRO DE ELEMENTOS DE PAPELERIA, UTILES DE ESCRITORIO, PERIFERICOS Y ARTICULOS DE OFICINA PARA LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPAL DE OBANDO, VALLE DEL CAUCA | 1,00 | UN | 36.107.900,00 | 36.107.900,00 | 36.107.900,00 | 36.107.900,00 |
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+200 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 36,107,900
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 6. COMUNICACION ACEPTACION 202585.pdf |  |
+|  | 7. Designación de Supervisor.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265213 | Informe de selección CO1.AWD.2265213 | 28/May/2025 - 07:03 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265213 | Informe de evaluación 1 CO1.AWD.2265213 | 28/May/2025 - 10:32 am |  | - |
+| Avisos | CO1.MSG.7939928 | Publicación de la lista de ofertas del proceso MC-011-2025. | 26/May/2025 - 06:19 pm |  | - |
+| Avisos | CO1.MSG.7939924 | La lista de oferentes del proceso MC-011-2025 publicada por MUNICIPIO DE OBANDO VALLE | 26/May/2025 - 06:18 pm |  | - |
+| Avisos | CO1.REQ.8299577 | Publicación modificación | 23/May/2025 - 02:18 pm |  |  |
+| General | CO1.MSG.7929721 | Aviso de limitación Mipyme | 23/May/2025 - 02:16 pm |  | - |
+| Avisos | CO1.REQ.8299577 | Publicación modificación | 21/May/2025 - 05:20 pm |  |  |

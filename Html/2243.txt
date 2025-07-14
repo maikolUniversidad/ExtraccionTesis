@@ -1,0 +1,92 @@
+Title: Licitaciones - INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIO TÉCNICOS EN EL EXTERIOR MARIANO OSPINA PEREZ.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681146df30bec1.40504257
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-30 11:28:57
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El proponente deberá hacer el cargue de los fondos o recursos económicos suficientes y disponibles en la cuenta LACNIC de la entidad, para cubrir el costo de la suscripcion anual para para las vigencias 2025, 2026 y 2027 pasra dar continuidad con el uso del Direccionamiento IPV6 asignada por LACNIC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232801 - Software de monitoreo de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotá Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 04:07 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 07:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7815950 | SOLICITUD DE ACLARACION PLIEGO | 29/Abr/2025 - 06:53 pm |  | - |

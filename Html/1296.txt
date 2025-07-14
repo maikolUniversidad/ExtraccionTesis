@@ -1,0 +1,204 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACION DE ARMENIA - SITIO OFICIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68095e8763dc56.71276218
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:48:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112102 - Proveedor de servicio de correo electrónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Estadio Centenario PIso 2 Km 1 vía aeropuerto El Edén Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112102 | ADQUISICIÓN DE LICENCIAS DE CORREOS ELECTRÓNICOS CORPORATIVOS PARA EL INSTITUTO MUNICIPAL DEL DEPORTE Y LA RECREACIÓN DE ARMENIA IMDERA | Mínima cuantía | Recursos propios | $10.858.274 | OFICINA ASESORA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 04:37 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 04:40 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 04:40 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 04:40 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 04:40 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 09:10 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 09:30 am
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 11:59 pm
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 08:00 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 08:01 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/May/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/Abr/2025 - 08:00 am | 16/Nov/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/Abr/2025 - 08:00 am | 16/Nov/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7813494 | 057_DECLARATORIA_DESIERTA_SMIC_013_2025_CORREOS_CORPORATIVOS | 29/Abr/2025 - 03:01 pm |  | - |
+| General | CO1.MSG.7797905 | 06_AVISO_LIMITACION_MIPYMES_SMIC_013_DE_2025_CORREOS_CORPORATIVOS | 25/Abr/2025 - 09:31 am |  | - |
+| Avisos | CO1.REQ.8156888 | Publicación modificación | 25/Abr/2025 - 09:10 am |  |  |
+| General | CO1.MSG.7797642 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 25/Abr/2025 - 09:04 am |  | - |
+| Aclaraciones | CO1.MSG.7797628 | RE: Observaciones a la invitacion , limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA , Solicitud de Informacion, >> CARTA DISTRIBUIDOR AUTORIZADO DIRECTAMENTE POR GOOGLE | 25/Abr/2025 - 09:03 am |  | - |
+| Avisos | CO1.REQ.8156888 | Publicación modificación | 24/Abr/2025 - 06:58 pm |  |  |
+| Aclaraciones | CO1.MSG.7792920 | Observaciones a la invitacion | 24/Abr/2025 - 12:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7792643 | limitado a MIPYMES con domicilio en el MUNICIPIO DE ARMENIA | 24/Abr/2025 - 12:02 pm |  | - |
+| Aclaraciones | CO1.MSG.7792310 | Solicitud de Informacion | 24/Abr/2025 - 11:21 am |  | - |
+| Aclaraciones | CO1.MSG.7791450 | >> CARTA DISTRIBUIDOR AUTORIZADO DIRECTAMENTE POR GOOGLE | 24/Abr/2025 - 09:49 am |  | - |

@@ -1,0 +1,94 @@
+Title: Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c45935102c8.44238681
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:39:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovación de suscripciones y licenciamiento, con derecho a servicios conexos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231513 - Software para oficinas
+
+**Códigos adicionales UNSPSC:**
+
+81112501 - Servicio de licencias del software del computador,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 13 N 27-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 10:12 am
+
+**Plazo para solicitar aclaraciones:**
+
+17/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/Jun/2025 - 11:59 pm

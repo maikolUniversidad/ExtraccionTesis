@@ -1,0 +1,190 @@
+Title: Licitaciones - MUNICIPIO DE TENJO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68543cf9506432.94137087
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-19 11:38:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIO PARA LA CONFIGURACIÓN, ACTUALIZACIÓN Y MANTENIMIENTO INCLUIDO SUMINISTROS DE LA PLANTA TELEFÓNICA ALCALDÍA DE TENJO CUNDINAMARCA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Tenjo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191500 - Dispositivos de comunicación personal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 3 No. 3 - 86 Tenjo Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43191500, 72151600, 81111800 | ACTUALIZACIÓN Y CONFIGURACIÓN DE PLANTA TELEFÓNICA CON LOS NUEVOS REQUERIMIENTOS Y ÁREAS DE LA ENTIDAD. | Mínima cuantía | Recursos propios | $10.000.000 | GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 10:30 am
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 10:30 am
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 11:09 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 10:30 am
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 10:30 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 04:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 05:10 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 12:00 pm | 28/Feb/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 01/Jul/2025 - 12:00 pm | 31/Ago/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 01/Jul/2025 - 12:00 pm | 28/Feb/2026 - 12:00 pm |

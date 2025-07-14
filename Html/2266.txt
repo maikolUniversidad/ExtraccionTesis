@@ -1,0 +1,104 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6814df8f9e3288.17491234
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:37:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Implementar la primera fase del plan de recuperación de desastres en nube de los servicios críticos priorizados que actualmente están en infraestructura On-Premise, con el fin de proteger la información y garantizar la continuidad de la operación en caso de un evento inesperado para la Secretaría General de la Alcaldía Mayor de Bogotá D.C
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112004 - Servicios de recuperación de desastres
+
+**Códigos adicionales UNSPSC:**
+
+81111902 - Servicio de recuperación de información de las bases de datos en línea
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática, -Servicios en la nube (Cloud)", "licicodigos": "297,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+02/May/2025 - 09:39 am
+
+**Plazo para solicitar aclaraciones:**
+
+06/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7872749 | RESPUESTA A LAS OBSERVACIONES PRESENTADAS | 13/May/2025 - 11:01 am |  | - |
+| Avisos | CO1.REQ.8198738 | Publicación modificación | 12/May/2025 - 04:51 pm |  |  |
+| Avisos | CO1.REQ.8198738 | Publicación modificación | 08/May/2025 - 04:43 pm |  |  |
+| Aclaraciones | CO1.MSG.7841504 | Entrega de observaciones EY | 06/May/2025 - 04:58 pm |  | - |
+| Avisos | CO1.REQ.8198738 | Publicación modificación | 05/May/2025 - 10:04 am |  |  |

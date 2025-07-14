@@ -1,0 +1,269 @@
+Title: Licitaciones - MUNICIPIO DE FUNZA - ALCALDÍA DE FUNZA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c0f18565874.78514794
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 16:09:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS PARA LA IMPLEMENTACION Y SOPORTE TECNICO DE LA HERRAMIENTA TECNOLOGICA CHAT BOT IA PARA LA ALCALDIA DEL MUNICIPIO DE FUNZA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Funza
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231501 - Software de mesa de ayuda o centro de llamadas (call center)
+
+**Códigos adicionales UNSPSC:**
+
+43231511 - Software de sistemas expertos,43231513 - Software para oficinas,43232201 - Software de flujo de trabajo de contenido,43233504 - Software de mensajería instantánea,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Helpdesk o mesa de ayuda", "licicodigos": "102,374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 14 No. 13-05 Funza Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 03:00 pm
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 05:29 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+02/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 09:07 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 12:00 am | 15/Ene/2026 - 12:00 am |
+| Calidad del servicio | 10,00 | 15/May/2025 - 12:00 am | 15/Ene/2026 - 12:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 11:09 am | * **Nombre:** STRATIK PUBLICIDAD SAS | Bogotá - Distrito Capital de Bogotá |
+| 2 | 30/Abr/2025 - 04:51 pm | * **Nombre:** GRUPO VECTOR SAS | - |
+| 3 | 30/Abr/2025 - 06:28 pm | * **Nombre:** Avanti it SAS | Cali - Valle del Cauca |
+| 4 | 01/May/2025 - 06:50 pm | * **Nombre:** PLANIDEA | Medellín - Antioquia |
+| 5 | 01/May/2025 - 10:39 pm | * **Nombre:** FRANK ENRRIQUE PEREZ DE LA VICTORIA CONSULTORIA INTEGRAL SAS | Barranquilla - Atlántico |
+| 6 | 02/May/2025 - 01:56 am | * **Nombre:** DEVBOTIC | Bogotá - Distrito Capital de Bogotá |
+| 7 | 02/May/2025 - 07:51 am | * **Nombre:** NUVOLL | Cundinamarca |
+| 8 | 02/May/2025 - 08:02 am | * **Nombre:** BRANDER | Bogotá - Distrito Capital de Bogotá |
+| 9 | 02/May/2025 - 08:20 am | * **Nombre:** Natura Software | Bogotá - Distrito Capital de Bogotá |
+| 10 | 02/May/2025 - 08:53 am | * **Nombre:** In-Nova Corporation SAS | Bogotá - Distrito Capital de Bogotá |
+| 11 | 02/May/2025 - 08:54 am | * **Nombre:** INNOVATECH IT S.A.S - BPO HAPPIFY° | Distrito Capital de Bogotá |
+| 12 | 02/May/2025 - 08:57 am | * **Nombre:** HELP SOLUCIONES INFORMATICAS HSI SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 26,606,393
+
+**Informes proceso de selección CO1.AWD.2244484 de 12/May/2025 - 03:59 am. Valor $26.606.393**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/May/2025 - 06:03 pm |  |
+| Informe de evaluación | 08/May/2025 - 02:05 pm |  |
+| Informe de selección | 12/May/2025 - 03:59 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2244484**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRUPO VECTOR SOCIEDAD POR ACCIONES SIMPLIFICADA * **Tipo documento:** NIT * **Documento:** 900020684 | * **Nombre:** CHRISTIAN MAURICIO REBELLON ROMERO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93414229 | - | $26.606.393 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2244484****
+
+**Cuantía a la firma del contrato:**
+
+$ 26,606,393
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2244484 | Informe de selección CO1.AWD.2244484 | 12/May/2025 - 03:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2244484 | Informe de evaluación 2 CO1.AWD.2244484 | 08/May/2025 - 02:05 pm |  | - |
+| Objeciones | CO1.MSG.7842881 | [Respondido] RE:RESPUESTA A EVALUACIÓN | 08/May/2025 - 12:56 pm |  | - |
+| Objeciones | CO1.MSG.7842881 | RESPUESTA A EVALUACIÓN | 06/May/2025 - 07:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2244484 | Informe de evaluación 1 CO1.AWD.2244484 | 06/May/2025 - 06:03 pm |  | - |
+| Avisos | CO1.MSG.7825471 | Publicación de la lista de ofertas del proceso MC-0009-2025. | 02/May/2025 - 11:40 am |  | - |
+| Avisos | CO1.MSG.7824247 | La lista de oferentes del proceso MC-0009-2025 publicada por MUNICIPIO DE FUNZA - ALCALDÍA DE FUNZA | 02/May/2025 - 09:29 am |  | - |
+| General | CO1.MSG.7816230 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 29/Abr/2025 - 08:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7816229 | RE: PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (4) | 29/Abr/2025 - 08:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7816228 | RE: PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (2) | 29/Abr/2025 - 08:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7816226 | RE: PLANIDEA - OBSERVACIONES PROCESO DE CONTRATACION | 29/Abr/2025 - 08:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7816220 | RE: PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (1) | 29/Abr/2025 - 08:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7816213 | RE: PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 | 29/Abr/2025 - 08:36 pm |  | - |
+| General | CO1.MSG.7814209 | Limitacion Mipymes | 29/Abr/2025 - 04:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7806911 | PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (4) | 28/Abr/2025 - 04:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7806906 | PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (2) | 28/Abr/2025 - 03:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7806045 | PLANIDEA - OBSERVACIONES PROCESO DE CONTRATACION | 28/Abr/2025 - 12:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7804797 | PLANIDEA - SOLICITUD DE LIMITACION DE PARTICIPACION A MIPYME | 28/Abr/2025 - 09:41 am |  | - |
+| Aclaraciones | CO1.MSG.7804649 | SOLICITUD LIMITACIÓN MIPYME | 28/Abr/2025 - 09:27 am |  | - |
+| Aclaraciones | CO1.MSG.7803761 | PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 (1) | 27/Abr/2025 - 09:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7803759 | PRESENTACIÓN DE OBSERVACIONES Y SOLICITUD DE ACLARACIONES - PROCESO MC-0009-2025 | 27/Abr/2025 - 09:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7803748 | CARTA DE MANIFESTACION DE INTERES PARA LIMITAR LA CONVOCATORIA A MIPYMES | 27/Abr/2025 - 09:34 pm |  | - |

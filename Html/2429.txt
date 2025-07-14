@@ -1,0 +1,100 @@
+Title: Licitaciones - SUPERINTENDENCIA DE LA ECONOMIA SOLIDARIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835cea693ac93.49396919
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:10:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR LA RENOVACION DEL LICENCIAMIENTO DE VEEAM BACKUP Y SU RESPECTIVO SOPORTE PARA LA SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43231600 - Software de planificación de recursos empresariales (ERP) y contabilidad financiera,43232000 - Software de entretenimiento o juegos de computador,43232200 - Software de gestión de contenidos,43232400 - Programas de desarrollo,43232600 - Software específico para la industria,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,43233500 - Software de intercambio de información,43233600 - Software de equipo eléctrico,43233700 - Software de administración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 No.31-10 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 09:16 am
+
+**Plazo para solicitar aclaraciones:**
+
+03/Jun/2025 - 07:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7955124 | Solicitud aclaraciones | 28/May/2025 - 06:33 pm |  | - |

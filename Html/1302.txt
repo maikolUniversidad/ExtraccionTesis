@@ -1,0 +1,126 @@
+Title: Licitaciones - BOGOTÁ - COLEGIO OFELIA URIBE DE ACOSTA INSTITUCION EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681294b67cac15.53000507
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-03 18:15:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LAS FOTOCOPIADORAS, IMPRESORAS Y DUPLICADOR DEL COLEGIO, AL IGUAL QUE EL SUMINISTRO Y LOS REPUESTOS DE ESTOS, LA CUAL SE REQUIEREN PARA ATENDER LA DEMANDA DE FOTOCOPIAS DE GUÍAS Y TALLERES DE TRABAJO ELABORADAS POR LOS DOCENTES PARA CON LOS ESTUDIANTES Y ASÍ COMO OTRAS ACTIVIDADES DE LA INSTITUCIÓN EDUCATIVA, SE HARA VISITA MININO UNA MENSUAL Y/O LAS NECESARIAS QUE SE REQUIERAN PARA EL FUNCIONAMIENTO DE LOS EQUIPOS DURANTE EL CONTRATO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos", "licicodigos": "105,106,108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TV 1 ESTE 85 10 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+210 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 12,211,343
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300, 81101700 | Mantenimiento de Equipos Electronicos Y/O Fotocopiadoras Y Duplicadores Y Equipos de la orquesta Institucional. | Contratación régimen especial - Régimen especial | SGP | $12.211.343 | COLEGIO OFELIA URIBE DE ACOSTA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 03:36 pm
+
+**Fecha de Firma del Contrato:**
+
+14/May/2025 - 06:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+14/May/2025 - 06:01 pm
+
+**Plazo de ejecución del contrato:**
+
+10/Dic/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

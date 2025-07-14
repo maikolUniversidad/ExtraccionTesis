@@ -1,0 +1,341 @@
+Title: Licitaciones - Jardín Botánico José Celestino Mutis
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812adc07b7177.61359822
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 16:06:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+139-03-8100-RENOVACIÓN DEL SOPORTE Y LICENCIAMIENTO DEL SOFTWARE DE SEGURIDAD PERIMETRAL PARA EL JARDÍN BOTÁNICO DE BOGOTÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Códigos adicionales UNSPSC:**
+
+43233203 - Software de manejo de seguridad de red o de redes privadas virtuales vpn,43222501 - Equipo de seguridad de red cortafuegos (firewall),81112302 - Mantenimiento de sistemas de copias de seguridad o de nearline,81111809 - Servicio de instalación de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Avenida Calle 63 # 68 -95 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Comunidad Andina, Estados AELC
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 118,823,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112302, 43233205, 43233203, 43222501, 81111809 | 139-03-8100-RENOVACIÓN DEL SOPORTE Y LICENCIAMIENTO DEL SOFTWARE DE SEGURIDAD PERIMETRAL PARA EL JARDÍN BOTÁNICO JOSE CELESTINO MUTIS | Selección abreviada subasta inversa | Recursos propios | $118.823.000 | DIRECCION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+30/Abr/2025 - 05:47 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+30/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+08/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 08:23 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+12/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+14/May/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+20/May/2025 - 09:03 am
+
+**Informe de presentación de Ofertas:**
+
+20/May/2025 - 09:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+26/May/2025 - 11:19 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+03/Jun/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+06/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 02:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 12:00 pm | 09/Jul/2026 - 11:19 pm |
+| Calidad del servicio | 10,00 | 06/Jun/2025 - 12:00 pm | 09/Jul/2026 - 11:58 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 06/Jun/2025 - 12:00 pm | 09/Jul/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ECOMIL SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 65,827,090
+
+**Informes proceso de selección CO1.AWD.2263708 de 06/Jun/2025 - 05:17 am. Valor $65.827.090**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 08:26 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:58 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 12:38 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:04 pm |  |
+| Informe de selección | 06/Jun/2025 - 05:17 pm |  |
+| Informe de selección | 06/Jun/2025 - 05:17 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2263708**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ECOMIL SAS * **Tipo documento:** NIT * **Documento:** 830133271 | * **Nombre:** ALEXANDER SANCHEZ * **Tipo documento:** NIT * **Documento:** 79654719 | - Distrito Capital de Bogotá | $65.827.090 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2263708****
+
+**ID del contrato en SECOP:**
+
+JBB-CTO-1024-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+11/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 65,827,090
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jun/2025 - 11:00 am
+
+**Fecha de inicio:**
+
+03/Jun/2025 - 11:00 am
+
+**Fecha fin:**
+
+03/Jun/2025 - 11:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2263708 | Informe de selección CO1.AWD.2263708 | 06/Jun/2025 - 05:17 pm |  | - |
+| Objeciones | CO1.MSG.7961043 | [Respondido] RE:RESPUESTA A INFORME | 06/Jun/2025 - 05:15 pm |  | - |
+| Objeciones | CO1.MSG.7959542 | [Respondido] RE:Subsanación Data y Service | 06/Jun/2025 - 05:14 pm |  | - |
+| Avisos | CO1.REQ.8250291 | Publicación modificación | 05/Jun/2025 - 04:23 pm |  |  |
+| Reporte preliminar | CO1.AWD.2263708 | Informe de evaluación 4 CO1.AWD.2263708 | 03/Jun/2025 - 07:04 pm |  | - |
+| General | CO1.MSG.7976405 | REQUERIMIENTO PRECIOS ARTIFICIALMENTE BAJOS | 03/Jun/2025 - 07:03 pm |  | - |
+| General | CO1.MSG.7973265 | EVENTO DE SUBASTA | 03/Jun/2025 - 12:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2263708 | Informe de evaluación 3 CO1.AWD.2263708 | 03/Jun/2025 - 12:38 pm |  | - |
+| General | CO1.MSG.7971532 | COMPLEMENTO SUB | 03/Jun/2025 - 09:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2263708 | Informe de evaluación 2 CO1.AWD.2263708 | 30/May/2025 - 07:58 pm |  | - |
+| General | CO1.MSG.7966284 | PLAZO PARA SUBSANACIÓN DE REQUISITOS HABILITANTES | 30/May/2025 - 02:31 pm |  | - |
+| Objeciones | CO1.MSG.7961043 | RESPUESTA A INFORME | 29/May/2025 - 04:44 pm |  | - |
+| Objeciones | CO1.MSG.7959542 | Subsanación Data y Service | 29/May/2025 - 02:31 pm |  | - |
+| General | CO1.MSG.7957548 | Subsanación informe de evaluación | 29/May/2025 - 10:24 am |  | - |
+| Avisos | CO1.MSG.7940489 | Publicación de la lista de ofertas del proceso JBB-SA-SI-005-2025 (Presentación de oferta). | 26/May/2025 - 08:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2263708 | Informe de evaluación 1 CO1.AWD.2263708 | 26/May/2025 - 08:26 pm |  | - |
+| Avisos | CO1.MSG.7906254 | La lista de oferentes del proceso JBB-SA-SI-005-2025 (Presentación de oferta) publicada por Jardín Botánico José Celestino Mutis | 20/May/2025 - 09:13 am |  | - |
+| Aclaraciones | CO1.MSG.7896433 | RE: Observación minuta del contrato | 16/May/2025 - 04:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7881730 | Observación minuta del contrato | 14/May/2025 - 02:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7868679 | RE: Observaciones_JBB | 12/May/2025 - 04:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7868514 | RE: OBSERVACIONES PREPLIEGO | 12/May/2025 - 04:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7854474 | Observaciones_JBB | 08/May/2025 - 03:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7854229 | OBSERVACIONES PREPLIEGO | 08/May/2025 - 03:22 pm |  | - |

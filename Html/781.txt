@@ -1,0 +1,214 @@
+Title: Licitaciones - MUNICIPIO DE CHOCONTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685475f3d0beb9.53740646
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE TINTAS, TÓNER Y ELEMENTOS DE COMPUTO PARA EL FUNCIONAMIENTO DE LOS EQUIPOS DE TECNOLOGÍA DE LA ALCALDÍA MUNICIPAL DE CHOCONTÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Chocontá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 5 N5-19 Chocontá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44101700, 44103100, 44103103, 44103125, 81112306 | ADQUISICION DE TINTAS, TONER Y ELEMENTOS DE COMPUTO PARA EL FUNCIONAMIENTO DE LOS EQUIPOS DE TECNOLOGÍA DE LA ALCALDÍA MUNICIPAL DE CHOCONTÁ. | Mínima cuantía | Recursos propios | $39.850.000 | MUNICIPIO DE CHOCONTA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 03:16 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 12:00 pm | 19/Ene/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 04/Jul/2025 - 12:00 pm | 19/Ene/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,850,000
+
+**Informes proceso de selección CO1.AWD.2295951 de 08/Jul/2025 - 11:35 am. Valor $39.850.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 03:07 pm |  |
+| Informe de selección | 08/Jul/2025 - 11:35 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295951 | Informe de selección CO1.AWD.2295951 | 08/Jul/2025 - 11:35 am |  | - |
+| Reporte preliminar | CO1.AWD.2295951 | Informe de evaluación 1 CO1.AWD.2295951 | 02/Jul/2025 - 03:07 pm |  | - |
+| Avisos | CO1.MSG.8078494 | Publicación de la lista de ofertas del proceso MC-20-2025. | 25/Jun/2025 - 10:37 am |  | - |
+| General | CO1.MSG.8078450 | RE: ACLARACION MIPYMES | 25/Jun/2025 - 10:34 am |  | - |
+| Avisos | CO1.MSG.8078350 | La lista de oferentes del proceso MC-20-2025 publicada por MUNICIPIO DE CHOCONTÁ | 25/Jun/2025 - 10:25 am |  | - |
+| General | CO1.MSG.8065925 | RESPUESTA OBSERVACIONES | 20/Jun/2025 - 02:48 pm |  | - |
+| Aclaraciones | CO1.MSG.8060443 | Solicitud Limitación Mipyme | 19/Jun/2025 - 04:46 pm |  | - |

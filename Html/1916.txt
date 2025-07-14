@@ -1,0 +1,94 @@
+Title: Licitaciones - ESM BATALLON DE ASPC NO.2 CACIQUE ALFONSO XEQUE ¨NIVEL I
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffe2ed7cbed6.84854758
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-16 12:04:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO EQUIPOS DE CÓMPUTO PERTENECIENTES A LOS DIFERENTES ESTABLECIMIENTOS DE SANIDAD MILITAR CENTRALIZADOS POR LA REGIONAL 01 BAS02 BARRANQUILLA (ATLANTICO) PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111811 - Servicios de soporte técnico o de mesa de ayuda
+
+**Códigos adicionales UNSPSC:**
+
+81112306 - Mantenimiento de impresoras,81112204 - Mantenimiento de software de sistemas operativos,81112301 - Mantenimiento de sistemas de almacenamiento de discos,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 68 #79 - 00 Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 11:50 am
+
+**Plazo para solicitar aclaraciones:**
+
+21/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/Abr/2025 - 05:00 pm

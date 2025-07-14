@@ -1,0 +1,174 @@
+Title: Licitaciones - ARCHIVO GENERAL DE LA NACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68503a99dffc12.41862221
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 08:39:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar los servicios de soporte técnico para la telefonía (Teams).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231513 - Software para oficinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 No. 6- 91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231513, 81112200 | CPi_SGGTI27 Contratar los servicios de soporte técnico para la telefonía (Teams). | Mínima cuantía | Presupuesto de entidad nacional | $40.000.000 | PROCESO DE GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 10:06 am
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 11:02 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 11:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+08/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

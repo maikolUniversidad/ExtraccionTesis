@@ -1,0 +1,224 @@
+Title: Licitaciones - MUNICIPIO DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c963c5cbe41.25959375
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:48:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONSULTORIA ESPECIALIZADA PARA EL ESTUDIO FACTIBILIDAD DE UNA SOLUCION INTEGRAL DE GESTION PROCESAL TRANSACIONAL PARA LAS COMISARIAS DE FAMILIA E INSPECCIONES DE POLICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233400 - Software de controladores de dispositivos y utilidades
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,43233700 - Software de administración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+1 Meses
+
+**Dirección de ejecución del contrato:**
+
+CALLE 35 No. 10-43 FASE I PISO 2 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101500 | CONTRATAR UNA CONSULTORÍA ESPECIALIZADA PARA EL DESARROLLO DE SOFTWARE, ANÁLISISDE REQUERIMIENTOS, DISEÑO, DESARROLLO, IMPLEMENTACIÓN, CAPACITACIÓN Y MANTENIMIENTO DE UNA SOLUCIÓN INTEGRAL DE GESTIÓN PROCESAL TRANSACCIONAL PARA LAS COMISARÍAS DE FAMILIA E INSPECCIONES DE POLICIA DEL MUNICIPIO DE BUCARAMANGA. | Mínima cuantía | Recursos propios | $90.000.000 | SECRETARIA DE INTERIOR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 07:13 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/Jul/2025 - 06:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/Jul/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+04/Jul/2025 - 08:10 am
+
+**Informe de presentación de ofertas:**
+
+04/Jul/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/Jul/2025 - 05:00 am | 07/May/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 08/Jul/2025 - 05:00 am | 07/May/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 08/Jul/2025 - 05:00 am | 07/May/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 90,000,000
+
+**Informes proceso de selección CO1.AWD.2299927 de 09/Jul/2025 - 05:16 am. Valor $90.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/Jul/2025 - 12:05 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 12:05 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 12:05 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:16 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2299927 | Informe de selección CO1.AWD.2299927 | 09/Jul/2025 - 05:16 pm |  | - |
+| Objeciones | CO1.MSG.8131365 | [Respondido] RE:Constancia experiencia proponente | 09/Jul/2025 - 05:15 pm |  | - |
+| Objeciones | CO1.MSG.8131365 | Constancia experiencia proponente | 07/Jul/2025 - 08:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2299927 | Informe de evaluación 1 CO1.AWD.2299927 | 07/Jul/2025 - 12:05 pm |  | - |
+| Avisos | CO1.MSG.8118516 | Publicación de la lista de ofertas del proceso SINT-MC-008-2025. | 04/Jul/2025 - 09:11 am |  | - |
+| Avisos | CO1.MSG.8118501 | La lista de oferentes del proceso SINT-MC-008-2025 publicada por MUNICIPIO DE BUCARAMANGA | 04/Jul/2025 - 09:10 am |  | - |
+| Aclaraciones | CO1.MSG.8106287 | RESPUESTA A OBSERVACIONES SINT-MC-008-2025 | 02/Jul/2025 - 11:22 am |  | - |
+| Avisos | CO1.REQ.8393535 | Publicación modificación | 01/Jul/2025 - 03:33 pm |  |  |
+| General | CO1.MSG.8101377 | RESOLUCION POR MEDIO DE LA CUAL SE ORDENA EFECTUAR EL SANEAMIENTO DE VICIO DEL PROCESO DE MINIMA CUANTIA SINT-MC-008-2025 | 01/Jul/2025 - 03:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8088947 | Observaciones | 26/Jun/2025 - 04:41 pm |  | - |

@@ -1,0 +1,242 @@
+Title: Licitaciones - DEPARTAMENTO DE CORDOBA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684cca307ea638.75169182
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:29:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Concurso de méritos abierto
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+INTERVENTORÍA DEL PROYECTO IMPLEMENTACION DE ZONAS DE ACCESO GRATUITO PUBLICO A INTERNET EN EL DEPARTAMENTO DE CORDOBA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Montería
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101505 - Ingeniería estructural
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 29 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 27 No 3-28 Montería Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Estados Unidos, Unión Europea, Estados AELC, Alianza Pacífico - Chile, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Interventoría
+
+**Plazo del contrato:**
+
+10 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,000,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81101505 | 0194-INTERVENTORÍA DEL PROYECTO "IMPLEMENTACIÓN DE ZONAS DE ACCESO GRATUITO PÚBLICO A INTERNET EN EL DEPARTAMENTO DE CÓRDOBA". | Concurso de méritos abierto | Recursos propios | $1.000.000.000 | SECRETARÍA DE COMPETITIVIDAD Y COOPERACIÓN |
+
+Cronograma:
+
+**Fecha de Publicación del Proyecto de Pliego de Condiciones:**
+
+13/Jun/2025 - 07:43 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto Pliego de Condiciones:**
+
+24/Jun/2025 - 06:59 pm
+
+**Respuesta a las observaciones al proyecto de pliegos y condiciones:**
+
+24/Jun/2025 - 06:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+24/Jun/2025 - 07:00 pm
+
+**Fecha prevista de publicación de los pliegos de condiciones definitivos:**
+
+24/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivo:**
+
+26/Jun/2025 - 07:00 pm
+
+**Fecha de publicación de los pliegos de condiciones definitivos:**
+
+01/Jul/2025 - 06:03 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+08/Jul/2025 - 08:00 am
+
+**Apertura de Ofertas:**
+
+08/Jul/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+08/Jul/2025 - 08:10 am
+
+**Entrega de las garantías o pólizas de ejecución del contrato:**
+
+11/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe evaluación de las ofertas:**
+
+16/Jul/2025 - 11:59 pm
+
+**Expedición del acto de adjudicación o de declaratoria desierta:**
+
+17/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+18/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+18/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jul/2025 - 06:00 pm | 30/Nov/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 18/Jul/2025 - 06:00 pm | 31/May/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 18/Jul/2025 - 06:00 pm | 30/Nov/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8160183 | Publicación de la lista de ofertas del proceso SCO-CMA-002-2025 (Presentación de oferta). | 11/Jul/2025 - 09:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2305010 | Informe de evaluación 1 CO1.AWD.2305010 | 11/Jul/2025 - 09:55 pm |  | - |
+| Avisos | CO1.MSG.8132236 | La lista de oferentes del proceso SCO-CMA-002-2025 (Presentación de oferta) publicada por DEPARTAMENTO DE CORDOBA | 08/Jul/2025 - 08:08 am |  | - |
+| Aclaraciones | CO1.MSG.8067504 | Observaciones Borradores Dpto Cordoba SCO-CMA- 002 -2025 | 20/Jun/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.8067147 | observaciones | 20/Jun/2025 - 04:30 pm |  | - |
+| Aclaraciones | CO1.MSG.8064965 | Observaciones preliminares al proceso- ARG | 20/Jun/2025 - 12:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8063804 | OBSERVACIONES AL PROCESO | 20/Jun/2025 - 10:12 am |  | - |
+| Aclaraciones | CO1.MSG.8052679 | Observaciones términos de referencia SCO-CMA-002-2025 | 18/Jun/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8052428 | OBSERVACIONES FUNDASOL | 18/Jun/2025 - 03:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8050153 | Observaciones al proyecto de pliego condiciones | 18/Jun/2025 - 11:13 am |  | - |
+| General | CO1.MSG.8042581 | RE: Solicitud de publicación completa de Matrices y anexos | 17/Jun/2025 - 10:46 am |  | - |

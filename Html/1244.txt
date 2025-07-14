@@ -1,0 +1,235 @@
+Title: Licitaciones - DIVRI - Contratación mínima cuantía MC 049/2025 MDN-VVGSED-DIVRI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812131963cb42.57475567
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 06:40:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestación del servicio de alquiler de un sistema de votación electrónica que cumpla con los estándares de seguridad, confiabilidad, libertad y secreto del voto, para la elección del Consejo de Veteranos 2025-2027
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Alquiler de computadores y software", "licicodigos": "103,107" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 # 44 40 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Entre semana
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 162,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101, 83111507 | Prestación de servicio de alquiler de sistema de votación virtual para elección del Consejo de Veteranos periodo (2025-2027) | Mínima cuantía | Presupuesto de entidad nacional | $15.000.000 | DIRECCION DE VETARNOS Y REHABILITACIN INCLUSIVA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 06:14 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+02/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+02/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+05/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+07/May/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 02:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 12:00 pm | 19/Dic/2025 - 12:00 pm |
+| Calidad del servicio | 20,00 | 14/May/2025 - 12:00 pm | 19/Dic/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NUVOLL | Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,823,000
+
+**Informes proceso de selección CO1.AWD.2247605 de 13/May/2025 - 09:46 am. Valor $9.823.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 08:48 am |  |
+| Informe de evaluación | 09/May/2025 - 08:48 am |  |
+| Informe de evaluación | 09/May/2025 - 08:48 am |  |
+| Informe de selección | 13/May/2025 - 09:46 am |  |
+| Informe de selección | 13/May/2025 - 09:46 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247605**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NUVOLL DESARROLLO WEB * **Tipo documento:** NIT * **Documento:** 900568015 | * **Nombre:** RAFAEL BERNAL * **Tipo documento:** NIT * **Documento:** 79611873 | - Cundinamarca | $9.823.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247605****
+
+**Cuantía a la firma del contrato:**
+
+$ 9,823,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247605 | Informe de selección CO1.AWD.2247605 | 13/May/2025 - 09:46 am |  | - |
+| General | CO1.MSG.7857593 | REQUERIMIENTO PROVEEDOR EVALUADO | 09/May/2025 - 08:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2247605 | Informe de evaluación 1 CO1.AWD.2247605 | 09/May/2025 - 08:48 am |  | - |
+| Avisos | CO1.MSG.7845382 | La lista de oferentes del proceso MC 049/2025 MDN-VVGSED-DIVRI publicada por DIVRI | 07/May/2025 - 01:26 pm |  | - |

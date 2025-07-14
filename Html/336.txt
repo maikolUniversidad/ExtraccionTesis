@@ -1,0 +1,353 @@
+Title: Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68084af21b0950.81987914
+
+Markdown Content:
+Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO - Selección abreviada de menor cuantía (Ley 1150 de 2007) SIC 9 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-08 06:40:27
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+Prestación de servicios para apoyar en las actuaciones de Cobro Persuasivo, adelantadas por la Superintendencia de Industria y Comercio, a través de la implementación de herramientas tecnológicas.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43232304 - Software de sistemas de manejo de base datos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 13 No. 27 - 00 Edificio Bochica Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232804, 43232401, 43231507, 43231511, 43232304, 43232402, 43232407, 43232301, 43232701, 80121601, 80121609 | 20.37 - Servicios de Gestión de Cobranzas | Selección abreviada menor cuantía | Recursos propios | $219.838.523 | Unidad de Contratación - Grupo de contratación SIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 08:45 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+02/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+06/May/2025 - 08:52 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+06/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+06/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés:**
+
+08/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+12/May/2025 - 07:00 am
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 07:00 am
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+15/May/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+15/May/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/Jun/2025 - 12:00 pm | 02/Ago/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jun/2025 - 12:00 pm | 02/Feb/2029 - 12:00 pm |
+| Calidad del servicio | 20,00 | 02/Jun/2025 - 12:00 pm | 02/Ago/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Inversiones Gutiérrez García y Cía S en C | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 194,854,072
+
+**Informes proceso de selección CO1.AWD.2257245 de 05/Jun/2025 - 09:37 am. Valor $194.854.072**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 20/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 20/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 20/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:53 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:53 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:53 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 08:25 pm |  |
+| Informe de selección | 05/Jun/2025 - 09:37 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2257245**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Inversiones Gutiérrez García y Cía S en C * **Tipo documento:** NIT * **Documento:** 860450079 | * **Nombre:** Maria Eugenia García de Gutiérrez * **Tipo documento:** NIT * **Documento:** 41572479 | Bogotá - Distrito Capital de Bogotá | $194.854.072 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2257245****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7954010
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+02/Feb/2026 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 194,854,072
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2257245 | Informe de selección CO1.AWD.2257245 | 05/Jun/2025 - 09:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257245 | Informe de evaluación 3 CO1.AWD.2257245 | 05/Jun/2025 - 08:25 pm |  | - |
+| Objeciones | CO1.MSG.7965564 | [Respondido] RE:Alcance a la subsanacion | 05/Jun/2025 - 07:47 pm |  | - |
+| Objeciones | CO1.MSG.7950467 | [Respondido] RE:Observaciones al informe preliminar de calificación | 05/Jun/2025 - 07:46 pm |  | - |
+| Objeciones | CO1.MSG.7965564 | Alcance a la subsanacion | 30/May/2025 - 12:35 pm |  | - |
+| Objeciones | CO1.MSG.7950467 | Observaciones al informe preliminar de calificación | 28/May/2025 - 11:18 am |  | - |
+| Reporte preliminar | CO1.AWD.2257245 | Informe de evaluación 2 CO1.AWD.2257245 | 27/May/2025 - 05:53 pm |  | - |
+| General | CO1.MSG.7947140 | ADENDA # 2 | 27/May/2025 - 05:41 pm |  | - |
+| Avisos | CO1.REQ.8233513 | Publicación modificación | 27/May/2025 - 05:39 pm |  |  |
+| Objeciones | CO1.MSG.7909521 | [Respondido] RE:Subsanación | 27/May/2025 - 04:41 pm |  | - |
+| Avisos | CO1.REQ.8233513 | Publicación modificación | 26/May/2025 - 06:38 pm |  |  |
+| Objeciones | CO1.MSG.7909521 | Subsanación | 20/May/2025 - 04:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257245 | Informe de evaluación 1 CO1.AWD.2257245 | 20/May/2025 - 02:23 pm |  | - |
+| Avisos | CO1.MSG.7886110 | La lista de oferentes del proceso SIC 9 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO | 15/May/2025 - 09:46 am |  | - |
+| Avisos | CO1.MSG.7886118 | Publicación de la lista de ofertas del proceso SIC 9 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 15/May/2025 - 09:46 am |  | - |
+| General | CO1.MSG.7866594 | AVISO IMPORTANTE ANEXO OFRECIMIENTO PONDERABLES TÉCNICOS | 12/May/2025 - 12:21 pm |  | - |
+| General | CO1.MSG.7842740 | RE: Manifestacion de interes | 06/May/2025 - 07:19 pm |  | - |
+| General | CO1.MSG.7824169 | RESPUESTA A OBSERVACIONES PROYECTO DE PLIEGO | 02/May/2025 - 09:22 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:32 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

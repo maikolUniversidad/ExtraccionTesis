@@ -1,0 +1,287 @@
+Title: Licitaciones - TRANSMILENIO S.A. - Contratación mínima cuantía TMSA-MIN-03-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b0750e3613.91510230
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 07:04:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+DTC84 CONTRATAR LA ADQUISICION Y AMPLIACION DE LA COBERTURA DEL LICENCIAMIENTO DE AUTOCAD EXISTENTE EN TRANSMILENIO S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232600 - Software específico para la industria
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. El dorado No. 69 - 76 / Edificio Elemento Torre 1 Piso 5 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232600 | DTC84 Contratar la adquisición y ampliación de la cobertura del licenciamiento de AutoCAD existente en Transmilenio S.A. | Mínima cuantía | Recursos propios | $46.799.000 | GRUPO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 04:30 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 11:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 11:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 11:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 12:10 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 12:15 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 11:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:00 pm | 29/Nov/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 29/May/2025 - 12:00 pm | 29/May/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 29/May/2025 - 12:00 pm | 29/May/2027 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MCAD TRAINING & CONSULTING S.A.S. | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 35,200,000
+
+**Informes proceso de selección CO1.AWD.2264333 de 30/May/2025 - 09:36 am. Valor $35.200.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:45 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:45 pm |  |
+| Informe de evaluación | 29/May/2025 - 03:42 pm |  |
+| Informe de evaluación | 29/May/2025 - 03:42 pm |  |
+| Informe de selección | 30/May/2025 - 09:36 am |  |
+| Informe de selección | 30/May/2025 - 09:36 am |  |
+| Informe de selección | 30/May/2025 - 09:36 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264333**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MCAD TRAINING & CONSULTING S.A.S. * **Tipo documento:** NIT * **Documento:** 901510263 | * **Nombre:** AGUSTIN FERNANDEZ URIBE * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 70551399 | Medellín - Antioquia | $35.200.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264333****
+
+**Contrato CTO1335-25 de MCAD TRAINING & CONSULTING S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CTO1335-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+DTC84 CONTRATAR LA ADQUISICION Y AMPLIACION DE LA COBERTURA DEL LICENCIAMIENTO DE AUTOCAD EXISTENTE EN TRANSMILENIO S.A.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43232600 | DTC84 CONTRATAR LA ADQUISICION Y AMPLIACION DE LA COBERTURA DEL LICENCIAMIENTO DE AUTOCAD EXISTENTE EN TRANSMILENIO S.A. | 1,00 | VG | 46.798.867,00 | 35.200.000,00 | 46.798.867,00 | 35.200.000,00 |
+
+**Fecha de terminación del contrato:**
+
+02/Ago/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+2 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 35,200,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | LINEAMIENTOS GENERALES PARA CONTRATOS DE PROCESOS DE MINIMA.pdf |  |
+|  | Anexo - Acuerdo de Confidencialidad.pdf |  |
+|  | 37. Designacion de Supervision.docx |  |
+|  | ACEPTACION DE OFERTA - TMSA-MIN-03-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264333 | Informe de selección CO1.AWD.2264333 | 30/May/2025 - 09:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2264333 | Informe de evaluación 2 CO1.AWD.2264333 | 29/May/2025 - 03:42 pm |  | - |
+| Avisos | CO1.MSG.7946397 | Publicación de la lista de ofertas del proceso TMSA-MIN-03-2025. | 27/May/2025 - 04:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264333 | Informe de evaluación 1 CO1.AWD.2264333 | 27/May/2025 - 04:44 pm |  | - |
+| Avisos | CO1.MSG.7929122 | La lista de oferentes del proceso TMSA-MIN-03-2025 publicada por TRANSMILENIO S.A. | 23/May/2025 - 12:16 pm |  | - |
+| General | CO1.MSG.7922904 | AVISO CONVOCATORIA DE LIMITACIÓN A MIPYMES | 22/May/2025 - 02:14 pm |  | - |
+| General | CO1.MSG.7917011 | RESPUESTA OBSERVACIONES | 21/May/2025 - 03:53 pm |  | - |

@@ -1,0 +1,228 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855db98c7f383.67787412
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:44:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE DISEÑO, DESARROLLO E IMPLEMENTACIÓN DE GEOAI PARA EL COMANDO GENERAL DE LAS FUERZAS MILITARES HACIENDO USO DEL LICENCIAMIENTO DE ARCGIS Y CIENCIA DE DATOS DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS DEL ANEXO EN SU PRIMERA FASE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43232400 - Programas de desarrollo,81111500 - Ingeniería de software o hardware,43232300 - Software de consultas y gestión de datos,43231511 - Software de sistemas expertos,81112205 - Mantenimiento de software de sistemas de gestión de bases de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112205 | Soporte, mantenimiento preventivo, correctivo y actualización del BISIGOI (CGDJ3-CGDJ4-CGDJ9) | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $350.000.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/Jun/2025 - 04:50 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+04/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/Jul/2025 - 04:38 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jul/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/Jul/2025 - 05:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/Jul/2025 - 05:00 pm
+
+**Plazo para manifestación de interés:**
+
+10/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+11/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+16/Jul/2025 - 09:03 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jul/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+28/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+30/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+31/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/Jul/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/Jul/2025 - 05:00 pm | 30/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 30/Jul/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8149332 | Observaciones al pliego | 10/Jul/2025 - 12:33 pm |  | - |
+| Aclaraciones | CO1.MSG.8146298 | Observaciones Pliegos Finales | 10/Jul/2025 - 10:44 am |  | - |
+| Aclaraciones | CO1.MSG.8133556 | RE: Observaciones al Proyecto de Pliego de Condiciones del Proceso de Selección Abreviada de Menor Cuantía No. 200 COGFM DIADF 2025. | 08/Jul/2025 - 10:37 am |  | - |
+| Aclaraciones | CO1.MSG.8102198 | Observaciones al Proyecto de Pliego de Condiciones del Proceso de Selección Abreviada de Menor Cuantía No. 200 COGFM DIADF 2025. | 01/Jul/2025 - 04:35 pm |  | - |
+| General | CO1.MSG.8085530 | ANEXO CONFIDENCIALIDAD | 26/Jun/2025 - 10:31 am |  | - |

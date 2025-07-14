@@ -1,0 +1,267 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE FACATATIVA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffb2473dc067.23458056
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-05 16:16:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVAR LICENCIAS PARA EL CONJUNTO DE SOLUCIONES CLOUD; CORREOS ELECTRÓNICOS, ALMACENAMIENTO Y HERRAMIENTAS DE COMUNICACIÓN, CAPACITACION Y SEGURIDAD DE LA INFORMACIÓN COMO PARTE DE LAS ACCIONES PARA GARANTIZAR LA ASISTENCIA TECNICA EN LA IMPLEMENTACION DE LA ESTRATEGIA DE GOBIERNO DIGITAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 3 No. 5-68 Piso 2 Alcaldía Municipal de Facatativa Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112100 | 20250410. RENOVAR LICENCIAS PARA EL CONJUNTO DE SOLUCIONES CLOUD; CORREOS ELECTRÒNICOS, ALMACENAMIENTO Y HERRAMIENTAS DE COMUNICACIÒN, CAPACITACIÒN Y SEGURIDAD DE LA INFORMACIÒN COMO PARTE DE LAS ACCIONES PARA GARANTIZAR LA ASISTENCIA TÈCNICA EN LA IMPLEMENTACIÒN DE LA ESTRATEGIA DE GOBIERNO DIGITAL. | Mínima cuantía | Recursos propios | $37.410.262 | Oficina jurídica |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 08:35 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/Abr/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+23/Abr/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+23/Abr/2025 - 02:02 pm
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/May/2025 - 12:00 pm | 01/May/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 02/May/2025 - 12:00 pm | 01/May/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 35,726,800
+
+**Informes proceso de selección CO1.AWD.2235007 de 06/May/2025 - 11:58 am. Valor $35.726.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Abr/2025 - 09:07 am |  |
+| Informe de evaluación | 25/Abr/2025 - 09:07 am |  |
+| Informe de evaluación | 28/Abr/2025 - 05:04 pm |  |
+| Informe de evaluación | 28/Abr/2025 - 05:04 pm |  |
+| Informe de selección | 06/May/2025 - 11:58 am |  |
+| Informe de selección | 06/May/2025 - 11:58 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2235007**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Royal Tech Group SAS * **Tipo documento:** NIT * **Documento:** 901394655 | * **Nombre:** Hector David Mendoza Arroyo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1140834004 | Barranquilla - Atlántico | $35.726.800 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2235007****
+
+**ID del contrato en SECOP:**
+
+FACATATIVA-553-25
+
+**Estado del contrato:**
+
+En ejecución
+
+**Fecha inicio del contrato:**
+
+09/May/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+23/May/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 35,726,800
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2235007 | Informe de selección CO1.AWD.2235007 | 06/May/2025 - 11:58 am |  | - |
+| Reporte preliminar | CO1.AWD.2235007 | Informe de evaluación 2 CO1.AWD.2235007 | 28/Abr/2025 - 05:04 pm |  | - |
+| General | CO1.MSG.7804929 | RE: SUBSANACIONES ROYAL TECH GROUP SAS | 28/Abr/2025 - 09:55 am |  | - |
+| Reporte preliminar | CO1.AWD.2235007 | Informe de evaluación 1 CO1.AWD.2235007 | 25/Abr/2025 - 09:07 am |  | - |
+| Avisos | CO1.MSG.7790086 | La lista de oferentes del proceso FACATATIVA-MC-020-25 publicada por ALCALDIA MUNICIPAL DE FACATATIVA | 23/Abr/2025 - 07:46 pm |  | - |
+| Avisos | CO1.MSG.7790087 | Publicación de la lista de ofertas del proceso FACATATIVA-MC-020-25. | 23/Abr/2025 - 07:46 pm |  | - |
+| General | CO1.MSG.7782148 | RE: Solicitud de Informacion | 22/Abr/2025 - 05:15 pm |  | - |
+| General | CO1.MSG.7781898 | RE: Solicitud de Informacion | 22/Abr/2025 - 05:12 pm |  | - |

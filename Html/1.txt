@@ -1,0 +1,266 @@
+Title: Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854ad342ffc53.15205732
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:49:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE ADMINISTRACIÓN, OPERACIÓN, DESARROLLO, IMPLEMENTACIÓN, SOPORTE Y MANTENIMIENTO DE LOS DATA CENTER Y MESA DE SOLUCIONES DE TI, PARA EL NIVEL CENTRAL, LOCAL E INSTITUCIONAL DE LA SECRETARÍA DE EDUCACIÓN DEL DISTRITO -SED
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales, -Materiales para obras eléctricas en general, -Mobiliario, -Plantas telefónicas - PBX - Teléfonos IP - Teléfonos, -Acceso a internet, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores, -Servidores (Suministro y alquiler)", "licicodigos": "104,115,121,128,210,285,454,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado No. 66-63 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+DE CONFORMIDAD CON EL PLIEGO DE CONDICIONES ANEXO
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Costa Rica, Israel, Reino Unido e Irlanda del Norte
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+27 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 70,744,982,985
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 07:36 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+19/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+02/Jul/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+08/Jul/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+09/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+14/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+17/Jul/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/Jul/2025 - 07:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+21/Jul/2025 - 07:05 am
+
+**Informe de presentación de ofertas:**
+
+21/Jul/2025 - 07:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+28/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+31/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+05/Ago/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Ago/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+14/Ago/2025 - 06:59 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Ago/2025 - 06:59 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Ago/2025 - 05:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/Sep/2025 - 11:59 pm | 30/Abr/2028 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Sep/2025 - 11:59 pm | 30/Oct/2030 - 11:59 pm |
+| Calidad del servicio | 20,00 | 01/Sep/2025 - 11:59 pm | 30/Abr/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 01/Sep/2025 - 11:59 pm | 30/Abr/2028 - 11:59 pm |
+| AMPARO DE REPUESTOS Y ACCESORIOS | 10,00 | 01/Sep/2025 - 11:59 pm | 19/Abr/2028 - 11:59 pm |
+
+**Responsabilidad civil extracontractual:**
+
+5% del valor de la oferta
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+31/Jul/2025 - 01:00 pm
+
+**Fecha de inicio:**
+
+31/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+31/Jul/2025 - 02:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8111096 | Obs. Pre Pliego SED-SA-SI-OTIC-036-2025 _ Educación | 02/Jul/2025 - 11:16 pm |  | - |
+| Aclaraciones | CO1.MSG.8111083 | Observaciones al Proyecto de Pliego de Condiciones | 02/Jul/2025 - 11:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8110920 | Observaciones Pre Pleigo | 02/Jul/2025 - 10:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8110751 | Observaciones al Proceso de Subasta SED-SA-SI-OTIC-036-2025 | 02/Jul/2025 - 09:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8110754 | Observaciones_ | 02/Jul/2025 - 09:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8110085 | Observaciones Sinergy | 02/Jul/2025 - 06:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8109276 | Observaciones Selcomp Ingeniería SAS | 02/Jul/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.8109038 | OBSERVACIONES AL PROYECTO DE PLIEGO | 02/Jul/2025 - 04:50 pm |  | - |
+| Aclaraciones | CO1.MSG.8107993 | Observaciones Formato 0 - SONDA | 02/Jul/2025 - 03:21 pm |  | - |
+| Aclaraciones | CO1.MSG.8107487 | observaciones SA-SI-OTIC-036-2025 | 02/Jul/2025 - 02:27 pm |  | - |
+| Aclaraciones | CO1.MSG.8106959 | OBSERVACIONES FIRMADAS | 02/Jul/2025 - 12:46 pm |  | - |
+| Aclaraciones | CO1.MSG.8106948 | OBSERVACIONES | 02/Jul/2025 - 12:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8106840 | Observaciones proyecto de pliego de condiciones | 02/Jul/2025 - 12:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8103977 | OBSERVACIONES AL PROYECTO DE PLIEGO SED-SA-SI-OTIC-036-2025 | 01/Jul/2025 - 09:22 pm |  | - |
+| Aclaraciones | CO1.MSG.8101572 | OBSERVACIONES AL PLIEGO | 01/Jul/2025 - 04:11 pm |  | - |
+| Aclaraciones | CO1.MSG.8096586 | Observaciones Comware | 27/Jun/2025 - 11:25 pm |  | - |
+| Aclaraciones | CO1.MSG.8096096 | OBSERVACIONES PROCESO No. SED-SA-SI-OTIC-036-2025- | 27/Jun/2025 - 06:22 pm |  | - |
+| Aclaraciones | CO1.MSG.8095734 | Observaciones al proyecto de pliegos | 27/Jun/2025 - 05:37 pm |  | - |
+| Avisos | CO1.REQ.8444835 | Publicación modificación | 26/Jun/2025 - 06:33 pm |  |  |
+| Aclaraciones | CO1.MSG.8087106 | OBSERVACIONES PREPLIEGOS | 26/Jun/2025 - 01:50 pm |  | - |
+| Aclaraciones | CO1.MSG.8086580 | Respuesta - Solicitud Ampliación Cronograma de Observaciones. | 26/Jun/2025 - 12:16 pm |  | - |
+| Aclaraciones | CO1.MSG.8078659 | Solicitud Ampliación Cronograma de Observaciones. | 25/Jun/2025 - 11:02 am |  | - |
+| Aclaraciones | CO1.MSG.8064983 | Asunto: Observaciones prepliego- Subasta Inversa SED-SA-SI-OTIC-036-2025 | 20/Jun/2025 - 12:09 pm |  | - |

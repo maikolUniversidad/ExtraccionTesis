@@ -1,0 +1,120 @@
+Title: Licitaciones - FIDUCIARIA COLOMBIANA DE COMERCIO EXTERIOR S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68083d98550a30.81639855
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:49:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+La Fiduciaria Colombiana de Comercio Exterior S.A. FIDUCOLDEX, está nteresada en recibir propuestas para la renovación del licenciamiento y el soporte de fábrica de equipos FORTINET y la adquisición y configuración de un FORTIGATE 100F, en remplazo de un FORTIGATE 100E, de acuerdo con las especificaciones detalladas en el anexo, denominado para los efectos como; Anexo Técnico - Anexo Técnico Fortinet 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 # 13 A 24 Piso 6 Torre B Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 06:59 pm
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+23/May/2026 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8152354 | Publicación modificación | 13/May/2025 - 09:15 am |  |  |
+| Avisos | CO1.REQ.8152354 | Publicación modificación | 06/May/2025 - 12:16 pm |  |  |
+| Avisos | CO1.REQ.8152354 | Publicación modificación | 30/Abr/2025 - 02:39 pm |  |  |

@@ -1,0 +1,209 @@
+Title: Licitaciones - UAE FONDO NACIONAL DE ESTUPEFACIENTES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b0c96e22033.83706509
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-10 14:08:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir útiles de oficina e insumos de impresión y escáner para el Fondo Nacional de Estupefacientes.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121900 - Repuestos de tinta y minas de lápices
+
+**Códigos adicionales UNSPSC:**
+
+44122000 - Carpetas de archivo, carpetas y separadores,14111500 - Papel de imprenta y papel de escribir,44101501 - Fotocopiadoras,44103100 - Suministros para impresora, fax y fotocopiadora,44121600 - Suministros de escritorio,44121612 - Cortadoras de papel o repuestos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 25D #100-12 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121900, 44122000, 14111500, 44101501, 44103100, 44121600 | 029-ADQUIRIR ÚTILES DE OFICINA E INSUMOS DE IMPRESIÓN Y REPUESTOS DE ESCÁNER PARA EL FONDO NACIONAL DE ESTUPEFACIENTES. | Mínima cuantía | Presupuesto de entidad nacional | $31.374.000 | Oficina Jurídica |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 12:00 pm
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 03:35 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+04/Jul/2025 - 11:10 am
+
+**Informe de presentación de ofertas:**
+
+04/Jul/2025 - 11:25 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+14/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 12/Jul/2025 - 12:00 pm | 28/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 25,00 | 12/Jul/2025 - 12:00 pm | 30/Ago/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8149136 | ADENDA No. 2 AL PROCESO DE SELECCIÓN DE MÍNIMA CUANTÍA FNE-MC-009-2025 | 10/Jul/2025 - 12:11 pm |  | - |
+| General | CO1.MSG.8146257 | REQUERIMIENTO POR PRECIOS ARTIFICIALMENTE BAJOS. | 09/Jul/2025 - 09:48 pm |  | - |
+| Avisos | CO1.MSG.8138958 | Publicación de la lista de ofertas del proceso FNE-MC-009-2025. | 08/Jul/2025 - 09:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2301522 | Informe de evaluación 1 CO1.AWD.2301522 | 08/Jul/2025 - 07:13 pm |  | - |
+| Avisos | CO1.MSG.8121615 | La lista de oferentes del proceso FNE-MC-009-2025 publicada por UAE FONDO NACIONAL DE ESTUPEFACIENTES | 04/Jul/2025 - 03:21 pm |  | - |
+| Avisos | CO1.REQ.8431410 | Publicación modificación | 02/Jul/2025 - 06:49 pm |  |  |
+| General | CO1.MSG.8101515 | AVISO DE LIMITACION A MIPYMES | 01/Jul/2025 - 03:44 pm |  | - |
+| Aclaraciones | CO1.MSG.8101466 | RE: ACLARACION LIMITACION MIPYMES, Solicitud Limitación Mipyme , OBSERVACIÓN UAE FNE-MC-009-2025 | 01/Jul/2025 - 03:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8079615 | ACLARACION LIMITACION MIPYMES | 25/Jun/2025 - 01:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8075730 | OBSERVACIÓN UAE FNE-MC-009-2025 | 24/Jun/2025 - 06:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8075179 | Solicitud Limitación Mipyme | 24/Jun/2025 - 05:18 pm |  | - |

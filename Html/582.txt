@@ -1,0 +1,229 @@
+Title: Licitaciones - UNIDAD PRESTADORA DE SALUD META POLICÍA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68508e95c1a445.69470551
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:43:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN E INSTALACION Y PUESTA EN FUNCIONAMIENTO DE UN EQUIPO DE COMPUTO TIPO SERVIDOR PARA LA UNIDAD PRESTADORA DE SALUD META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211501 - Servidores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 15 No. 15ª-33 del barrio El Estero de la ciudad de Villavicencio – Meta Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 04:11 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 04:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 07:00 pm | 31/Ene/2026 - 06:00 pm |
+| Pago de salarios | 5,00 | 25/Jun/2025 - 07:00 pm | 25/Jul/2028 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 25/Jun/2025 - 07:00 pm | 25/Jul/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** APICOM SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 69,125,714
+
+**Informes proceso de selección CO1.AWD.2292168 de 01/Jul/2025 - 06:42 am. Valor $69.125.714**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 05:56 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:56 pm |  |
+| Informe de selección | 01/Jul/2025 - 06:42 pm |  |
+| Informe de selección | 01/Jul/2025 - 06:42 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8111265 | RE: Observaciones al Informe de Evaluación final | 03/Jul/2025 - 07:24 am |  | - |
+| General | CO1.MSG.8103438 | RE: Observaciones a subsanaciones | 01/Jul/2025 - 06:43 pm |  | - |
+| Reporte final | CO1.AWD.2292168 | Informe de selección CO1.AWD.2292168 | 01/Jul/2025 - 06:42 pm |  | - |
+| Objeciones | CO1.MSG.8095131 | [Respondido] RE:subsanacion Cloud city | 01/Jul/2025 - 06:41 pm |  | - |
+| Objeciones | CO1.MSG.8096100 | [Respondido] RE:Observaciones al Informe de Evaluación y Subsanaciones TEAMCO | 01/Jul/2025 - 06:41 pm |  | - |
+| Objeciones | CO1.MSG.8096267 | [Respondido] RE:Observaciones al Informe de Evaluación y Subsanaciones TEAMCO_ Anexo 8 | 01/Jul/2025 - 06:41 pm |  | - |
+| Objeciones | CO1.MSG.8096267 | Observaciones al Informe de Evaluación y Subsanaciones TEAMCO_ Anexo 8 | 27/Jun/2025 - 06:59 pm |  | - |
+| Objeciones | CO1.MSG.8096100 | Observaciones al Informe de Evaluación y Subsanaciones TEAMCO | 27/Jun/2025 - 06:27 pm |  | - |
+| Objeciones | CO1.MSG.8095131 | subsanacion Cloud city | 27/Jun/2025 - 04:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292168 | Informe de evaluación 1 CO1.AWD.2292168 | 26/Jun/2025 - 05:56 pm |  | - |
+| Avisos | CO1.MSG.8089900 | Publicación de la lista de ofertas del proceso PN UPRES META MIC 074 2025. | 26/Jun/2025 - 05:55 pm |  | - |
+| Avisos | CO1.REQ.8422424 | Publicación modificación | 25/Jun/2025 - 03:44 pm |  |  |
+| Avisos | CO1.MSG.8067134 | La lista de oferentes del proceso PN UPRES META MIC 074 2025 publicada por UNIDAD PRESTADORA DE SALUD META POLICÍA NACIONAL | 20/Jun/2025 - 04:28 pm |  | - |
+| General | CO1.MSG.8061686 | Respuesta a observaciones presentadas y Adenda de la Invitación Publica del Proceso PN UPRES META MIC 074 2025 | 19/Jun/2025 - 06:14 pm |  | - |
+| Avisos | CO1.REQ.8422424 | Publicación modificación | 18/Jun/2025 - 06:19 pm |  |  |
+| Aclaraciones | CO1.MSG.8041803 | OBSERVACIONES RESPECTIVO PROCESO | 17/Jun/2025 - 09:54 am |  | - |
+| Aclaraciones | CO1.MSG.8040646 | Observaciones al proyecto de Pliego de Condiciones | 16/Jun/2025 - 09:24 pm |  | - |

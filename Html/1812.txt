@@ -1,0 +1,105 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) PN DILOF DIPON 001 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ff5cbb550a2.80715865
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN, ADECUACIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DEL COMPONENTE TECNOLÓGICO PARA EL FORTALECIMIENTO Y ACTUALIZACIÓN DEL SISTEMA DE SEGURIDAD FÍSICA DE INSTALACIONES POLICIALES COMPLEJO DIPON
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46171600 - Equipo de vigilancia y detección
+
+**Códigos adicionales UNSPSC:**
+
+40101700 - Enfriamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Aire acondicionado", "licicodigos": "115,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 59 No. 26-21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+120 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 03:19 pm
+
+**Plazo para solicitar aclaraciones:**
+
+06/May/2025 - 08:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/May/2025 - 08:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7913934 | ACLARACIÓN ESPECIFICACIONES TÉCNICAS MÍNIMAS - CONDICIONES AMBIENTALES | 21/May/2025 - 11:30 am |  | - |
+| General | CO1.MSG.7906942 | ACLARACIÓN FORMA DE PAGO | 20/May/2025 - 10:32 am |  | - |
+| General | CO1.MSG.7906527 | ACLARACIÓN, ESPECIFICACIONES TÉCNICAS MÍNIMAS Y GARANTÍAS. | 20/May/2025 - 09:51 am |  | - |
+| General | CO1.MSG.7894542 | SOLICITUD VERIFICACIÓN OFERTA | 16/May/2025 - 01:44 pm |  | - |
+| Avisos | CO1.REQ.8179303 | Publicación modificación | 06/May/2025 - 11:22 am |  |  |
+| Avisos | CO1.REQ.8179303 | Publicación modificación | 05/May/2025 - 07:50 am |  |  |

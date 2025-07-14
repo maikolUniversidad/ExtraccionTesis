@@ -1,0 +1,297 @@
+Title: Licitaciones - DISPENSARIO MEDICO DE MEDELLIN//
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bf9d5472f39.18341359
+
+Markdown Content:
+Licitaciones - DISPENSARIO MEDICO DE MEDELLIN// - Contratación mínima cuantía 355-DMMED-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-08 15:56:35
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SERVICIO DE MANTENIMIENTO, REPARACIÓN E INSTALACIÓN DE EQUIPOS DE CÓMPUTO - ACTIVOS INFORMÁTICO PCS, IMPRESORAS, ESCÁNER, CENTROS DE CABLEADO, SISTEMA DE SONIDO, RED DE DATOS Y CONTROL DE ACCESO A CENTROS DE CÓMPUTO, A TODO COSTO CON SERVICIO TÉCNICO INFORMÁTICO EN SITIO Y SERVICIO DE MESA DE AYUDA EN LAS INSTALACIONES DEL DISPENSARIO MÉDICO DE MEDELLÍN Y SUS SATÉLITES (GMCOR, BIPEB, BAJES, BIGIR, BIOSP, BINUT, BITER4) Y LOS ESTABLECIMIENTOS DE SANIDAD MILITAR SATÉLITES CENTRALIZADOS: BASPC11 MO
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Medellín
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales, -Control de acceso", "licicodigos": "99,106,115,315" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 77 C No. 51 – 136 Los Colores Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200, 81112300, 81111800 | SERVICIO DE MANTENIMIENTO, REPARACIÓN E INSTALACIÓN DE EQUIPOS DE CÓMPUTO - ACTIVOS INFORMÁTICO PCS, IMPRESORAS, ESCÁNER, CENTROS DE CABLEADO, SISTEMA DE SONIDO, RED DE DATOS Y CONTROL DE ACCESO A CENTROS DE CÓMPUTO, A TODO COSTO CON SERVICIO TÉCNICO INFORMÁTICO EN SITIO Y SERVICIO DE MESA DE AYUDA EN LAS INSTALACIONES DEL DISPENSARIO MÉDICO DE MEDELLÍN Y SUS SATÉLITES (GMCOR, BIPEB, BAJES, BIGIR, BIOSP, BINUT, BITER4) Y LOS ESTABLECIMIENTOS DE SANIDAD MILITAR SATÉLITES CENTRALIZADOS: BASPC11 MONTERÍA (BIRIF, BAEEV5, BITER11), BAS14 PUERTO BERRIO (BIBOM, BAEEV8, BIBAR, BICAB), BAS15 QUIBDÓ (BIJUL, BIAMA), BAS17 CAREPA (BIVEL), INCLUYE INSUMOS, EQUIPOS Y TALENTO HUMANO REQUERIDO PARA LA PRESTACIÓN DEL SERVICIO A LA REGIONAL PARA LA VIGENCIA 2025 | Mínima cuantía | Presupuesto de entidad nacional | $120.000.000 | DMMED - REGIONAL 7 VIGENCIA 2025 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 03:39 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 04:30 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 04:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 04:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/May/2025 - 06:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/May/2025 - 06:00 pm | 30/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 05/May/2025 - 06:00 pm | 30/Nov/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/May/2025 - 06:00 pm | 30/Nov/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 11:35 am | * **Nombre:** DISTRIBUIDORA RED COMPUTO SAS | Bogotá - Distrito Capital de Bogotá |
+| 2 | 29/Abr/2025 - 01:34 pm | * **Nombre:** PROVEEDOR | Medellín - Antioquia |
+| 3 | 29/Abr/2025 - 02:20 pm | * **Nombre:** BomBo Origen | Medellín - Antioquia |
+| 4 | 29/Abr/2025 - 03:09 pm | * **Nombre:** EQUIPARO SAS | Antioquia |
+| 5 | 29/Abr/2025 - 03:50 pm | * **Nombre:** XANTHIA TELECOMUNICACIONES SAS | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 120,000,000
+
+**Informes proceso de selección CO1.AWD.2238559 de 06/May/2025 - 04:00 am. Valor $120.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 06:03 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 06:03 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 06:03 pm |  |
+| Informe de evaluación | 05/May/2025 - 01:56 pm |  |
+| Informe de evaluación | 05/May/2025 - 01:56 pm |  |
+| Informe de evaluación | 05/May/2025 - 01:56 pm |  |
+| Informe de selección | 06/May/2025 - 04:00 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2238559**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DISTRIBUDORA RED COMPUTO SAS * **Tipo documento:** NIT * **Documento:** 901158838 | * **Nombre:** RICHARD EDUARDO NIEVES CHAPARRO * **Tipo documento:** NIT * **Documento:** 1102719186 | Bogotá - Distrito Capital de Bogotá | $120.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2238559****
+
+**Cuantía a la firma del contrato:**
+
+$ 120,000,000
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2238559 | Informe de selección CO1.AWD.2238559 | 06/May/2025 - 04:00 pm |  | - |
+| General | CO1.MSG.7833644 | publicacion segundo informe de evaluacion tecnica corregido | 05/May/2025 - 02:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238559 | Informe de evaluación 2 CO1.AWD.2238559 | 05/May/2025 - 01:56 pm |  | - |
+| Avisos | CO1.MSG.7824142 | La lista de oferentes del proceso 355-DMMED-2025 publicada por DISPENSARIO MEDICO DE MEDELLIN// | 02/May/2025 - 09:17 am |  | - |
+| Avisos | CO1.MSG.7824147 | Publicación de la lista de ofertas del proceso 355-DMMED-2025. | 02/May/2025 - 09:17 am |  | - |
+| General | CO1.MSG.7824042 | Subsanacion | 02/May/2025 - 09:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2238559 | Informe de evaluación 1 CO1.AWD.2238559 | 30/Abr/2025 - 06:02 pm |  | - |
+| General | CO1.MSG.7805419 | AVISO LIMITACIÓN MIPYMES | 28/Abr/2025 - 10:52 am |  | - |
+| General | CO1.MSG.7805417 | RE: SOLICITUD LIMITACION MIPYMES DEPARTAMENTAL | 28/Abr/2025 - 10:50 am |  | - |
+| General | CO1.MSG.7805411 | RE: SOLICITUD LIMITACION MIPYMES DEPARTAMENTAL | 28/Abr/2025 - 10:49 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:45 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

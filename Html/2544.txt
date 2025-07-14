@@ -1,0 +1,100 @@
+Title: Licitaciones - SENA REGIONAL ANTIOQUIA Grupo Administrativo CTMAE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bb2848ce876.08011452
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:37:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+5_9502_010 CONTRATAR LA COMPRA DE INSUMOS PARA ATENDER LAS DIFERENTES ACTIVIDADES DERIVADAS DEL PLAN DE ACCIÓN DE BIENESTAR AL APRENDIZ DEL COMPLEJO TECNOLÓGICO MINERO AGROEMPRESARIAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Puerto Berrío
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60105302 - Materiales de enseñanza de habilidades laborales básicas
+
+**Códigos adicionales UNSPSC:**
+
+60105200 - Materiales educativos de recursos de aptitudes de vida,60105202 - Materiales de enseñanza de habilidades de estudio,60105300 - Materiales educativos de educación de carrera,31211507 - Pinturas en aerosol,31211508 - Pinturas acrílicas,60121125 - Paneles de lienzo,14111519 - Papeles cartulina,31201610 - Pegamentos,31201512 - Cinta transparente,49181507 - Mesas de tenis (ping pong)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Papelería y elementos de oficina, -Implementos deportivos y/o gimnasio, -Suministro material y/o dispositivos médicos, -Merchandising", "licicodigos": "115,127,137,190,257" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 NO 49 -20 BARRIO EL HOYO Puerto Berrío Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 05:24 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8286142 | Publicación modificación | 20/May/2025 - 12:16 pm |  |  |

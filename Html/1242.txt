@@ -1,0 +1,285 @@
+Title: Licitaciones - PERSONERIA MUNICIPAL DE GIRARDOT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809721166f135.46232918
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-04 01:45:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA COMPRAVENTA DE LOS ELEMENTOS DE PAPELERÍA Y ÚTILES DE OFICINA, E INSUMOS PARA IMPRESORAS CON DESTINO AL FUNCIONAMIENTO ADMINISTRATIVO DE LA PERSONERÍA MUNICIPAL DE GIRARDOT (CUNDINAMARCA)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Girardot
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 11 CALLE 17 ESQUINA EDIFICIO CAM Girardot Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 44121500, 44121600, 44121700, 44121800, 44121900, 44122000, 44122100 | Suministro de elementos de papelería y útiles de oficina | Mínima cuantía | Recursos propios | $13.000.000 | contratacion |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 06:02 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 06:02 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 03:10 pm
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 03:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 08:10 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 08:10 am
+
+**Aceptación de ofertas:**
+
+02/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/May/2025 - 10:00 am | 01/Sep/2025 - 10:00 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/May/2025 - 10:00 am | 01/Sep/2025 - 10:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 24/Abr/2025 - 10:03 pm | * **Nombre:** INCREA CONSULTORES S.A.S. | Cajicá - Cundinamarca |
+| 2 | 25/Abr/2025 - 02:46 pm | * **Nombre:** YOELMA NUÑEZ | Girardot - Cundinamarca |
+| 3 | 25/Abr/2025 - 02:46 pm | * **Nombre:** DERLY VIVIANA ARCE NIÑO | Girardot - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 10,648,094
+
+**Informes proceso de selección CO1.AWD.2239402 de 02/May/2025 - 09:44 am. Valor $10.648.094**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 07:58 am |  |
+| Informe de selección | 02/May/2025 - 09:44 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2239402**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CONSULTORES INCREA INGENIERIA S.A.S. * **Tipo documento:** NIT * **Documento:** 901268219 | * **Nombre:** Jose David Vargas Cruz * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1075625820 | Cajicá - Cundinamarca | $10.648.094 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2239402****
+
+**Contrato CC-063-2025 de CONSULTORES INCREA INGENIERIA S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CC-063-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+CONTRATAR LA COMPRAVENTA DE LOS ELEMENTOS DE PAPELERÍA Y ÚTILES DE OFICINA, E INSUMOS PARA IMPRESORAS CON DESTINO AL FUNCIONAMIENTO ADMINISTRATIVO DE LA PERSONERÍA MUNICIPAL DE GIRARDOT (CUNDINAMARCA)
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121600 | ELEMENTOS DE PAPELERÍA Y ÚTILES DE OFICINA, E INSUMOS PARA IMPRESORAS CON DESTINO AL FUNCIONAMIENTO ADMINISTRATIVO DE LA PERSONERÍA MUNICIPAL DE GIRARDOT (CUNDINAMARCA) | 1,00 | UN | 12.579.969,00 | 10.648.094,00 | 12.579.969,00 | 10.648.094,00 |
+
+**Fecha de terminación del contrato:**
+
+16/May/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+16 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 10,648,094
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | COMUNICACION DE ACEPTACION.pdf |  |
+|  | MINUTA SECOP 2 FINAL.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2239402 | Informe de selección CO1.AWD.2239402 | 02/May/2025 - 09:44 am |  | - |
+| Reporte preliminar | CO1.AWD.2239402 | Informe de evaluación 1 CO1.AWD.2239402 | 30/Abr/2025 - 07:58 am |  | - |
+| General | CO1.MSG.7811034 | RE: SUBSANACION PROVEEDOR OFERTA REQUISITOS HABILITNTES | 29/Abr/2025 - 09:59 am |  | - |
+| General | CO1.MSG.7810364 | SUBSANACION PROVEEDOR OFERTA REQUISITOS HABILITNTES | 29/Abr/2025 - 08:48 am |  | - |
+| Avisos | CO1.REQ.8158093 | Publicación modificación | 29/Abr/2025 - 08:40 am |  |  |
+| Avisos | CO1.MSG.7800541 | La lista de oferentes del proceso MC-002-2025 publicada por PERSONERIA MUNICIPAL DE GIRARDOT | 25/Abr/2025 - 03:13 pm |  | - |
+| General | CO1.MSG.7800320 | OFERTA ECONOMICA DERLY VIVIANA ARCE | 25/Abr/2025 - 02:54 pm |  | - |
+| General | CO1.MSG.7800185 | RE: observación al proceso mc 02-2025 personería de Girardot | 25/Abr/2025 - 02:39 pm |  | - |
+| General | CO1.MSG.7795757 | RESPUESTA A SOLICITUD DE LIMITACION A MIPYMES | 24/Abr/2025 - 05:41 pm |  | - |
+| Avisos | CO1.REQ.8158093 | Publicación modificación | 24/Abr/2025 - 05:36 pm |  |  |
+| General | CO1.MSG.7792144 | RE: Anexos en WORD | 24/Abr/2025 - 10:57 am |  | - |

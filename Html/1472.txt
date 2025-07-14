@@ -1,0 +1,218 @@
+Title: Licitaciones - UPRA - Contratación mínima cuantía UPRA-MC-005-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850bfd1d09226.71469262
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:43:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Renovar ante lacnic la suscripción del pool de direcciones de los prefijos IPV6 en cumplimiento de la normatividad de mintic.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112107 - Nombres de los dominio de internet
+
+**Códigos adicionales UNSPSC:**
+
+81111803 - Mantenimiento o soporte de redes de área local (lan),81102702 - Servicio de ingeniería y diseño para sistemas de control de procesos,43233203 - Software de manejo de seguridad de red o de redes privadas virtuales vpn
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 No. 13-22 Torre C, piso 3. Edificio Palma Real Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+177 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112107, 81111803, 81102702, 43233203 | FOR_097 Renovar ante lacnic la suscripcion del pool de direcciones de los prefijos IPV6 en cumplimiento de la normatividad de mintic | Mínima cuantía | Presupuesto de entidad nacional | $7.000.000 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 07:38 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 10:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 10:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 10:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 04/Jul/2025 - 10:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,599,000
+
+**Informes proceso de selección CO1.AWD.2294870 de 04/Jul/2025 - 06:35 am. Valor $3.599.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 05:40 pm |  |
+| Informe de selección | 04/Jul/2025 - 06:35 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2294870 | Informe de selección CO1.AWD.2294870 | 04/Jul/2025 - 06:35 pm |  | - |
+| Reporte preliminar | CO1.AWD.2294870 | Informe de evaluación 1 CO1.AWD.2294870 | 01/Jul/2025 - 05:40 pm |  | - |
+| General | CO1.MSG.8086720 | REQUERIMIENTO PRECIOS ARTIFICIALMENTE BAJOS | 26/Jun/2025 - 12:37 pm |  | - |
+| Avisos | CO1.MSG.8084760 | Publicación de la lista de ofertas del proceso UPRA-MC-005-2025. | 26/Jun/2025 - 09:12 am |  | - |
+| Avisos | CO1.MSG.8084755 | La lista de oferentes del proceso UPRA-MC-005-2025 publicada por UPRA | 26/Jun/2025 - 09:12 am |  | - |
+| General | CO1.MSG.8065113 | AVISO NO LIMITA MIPYMES | 20/Jun/2025 - 12:43 pm |  | - |

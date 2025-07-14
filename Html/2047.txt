@@ -1,0 +1,86 @@
+Title: Licitaciones - UARIV-UNIDAD PARA LA ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68516f83cb1ee0.31802586
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 08:37:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición de token certificados digitales para ingresar al aplicativo del ministerio de hacienda - SIIF Nación II, transacciones presupuestal, financiera y contable UARIV Y FRV. Y que tiene por códigos clasificadores
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 85 D No. 46 A 65, Complejo Logístico San Cayetano, Bogotá, D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 08:06 am
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 05:00 pm

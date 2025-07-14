@@ -1,0 +1,240 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fb544683d42.07909895
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:08:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE CONEXIÓN Y ACCESO A LA RED DE INTERNET, MEDIANTE UN CANAL PRINCIPAL DEDICADO EXCLUSIVO, CON REÚSO 1:1 CON LA RENOVACIÓN DE LA MEMBRESÍA DE IPV6 ANTE LACNIC POR UN AÑO, A NOMBRE DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS, CON EL FIN DE CUMPLIR CON LAS FUNCIONES PROPIAS DE LA ENTIDAD DE ACUERDO CON LAS NECESIDADES ACTUALES DE COMUNICACIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Acceso a internet", "licicodigos": "102,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 10 No.15-22 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112100 | Prestar el servicio de conexión y acceso a la red de internet, mediante un canal principal dedicado exclusivo, con reúso 1:1 con la renovación de la membresía de IPv6 ante LACNIC por un año, a nombre de la Unidad Administrativa Especial de Organizaciones Solidarias, con el fin de cumplir con las funciones propias de la entidad de acuerdo con las necesidades actuales de comunicación. | Mínima cuantía | Presupuesto de entidad nacional | $12.000.000 | Grupo de Tecnologías de la Información |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+22/May/2025 - 06:15 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 06:15 pm
+
+**Fecha de publicación:**
+
+22/May/2025 - 06:17 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+27/May/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:01 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/May/2025 - 12:00 am | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/May/2025 - 12:00 am | 30/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 30/May/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MEDIA COMMERCE S A S | Pereira - Risaralda |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,500,000
+
+**Informes proceso de selección CO1.AWD.2264482 de 29/May/2025 - 12:04 pm. Valor $9.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:41 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:41 pm |  |
+| Informe de selección | 29/May/2025 - 12:04 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264482**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MEDIA COMMERCE PARTNER S.A.S * **Tipo documento:** NIT * **Documento:** 819006966 | * **Nombre:** IVAN ORLANDO DIAZ OCAMPO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 18497828 | Pereira - Risaralda | $9.500.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264482****
+
+**Cuantía a la firma del contrato:**
+
+$ 9,500,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264482 | Informe de selección CO1.AWD.2264482 | 29/May/2025 - 12:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264482 | Informe de evaluación 1 CO1.AWD.2264482 | 27/May/2025 - 04:41 pm |  | - |
+| Avisos | CO1.MSG.7945018 | Publicación de la lista de ofertas del proceso MC 006 DE 2025. | 27/May/2025 - 03:09 pm |  | - |
+| Avisos | CO1.MSG.7945015 | La lista de oferentes del proceso MC 006 DE 2025 publicada por UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS | 27/May/2025 - 03:08 pm |  | - |
+| General | CO1.MSG.7943018 | AVISO DE NO LIMITACIÓN A MIPYMES | 27/May/2025 - 11:10 am |  | - |
+| Aclaraciones | CO1.MSG.7939214 | RESPUESTA A OBSERVACIONES | 26/May/2025 - 05:09 pm |  | - |
+| General | CO1.MSG.7939232 | RESPUESTA A OBSERVACIONES | 26/May/2025 - 05:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7927468 | OBSERVACION 1 | 23/May/2025 - 09:29 am |  | - |

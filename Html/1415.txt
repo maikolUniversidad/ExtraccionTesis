@@ -1,0 +1,191 @@
+Title: Licitaciones - MUNICIPIO DE DAGUA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffd59189a814.89167477
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:54:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE TARJETAS EN PVC CON HOLOGRAMAS PERSONALIZADOS MÁS DISEÑO PARA LA POSTERIOR EMISION DE TARJETAS DE OPERACIÓN A LAS EMPRESAS DE TRANSPORTE PÚBLICO MIXTO - INDIVIDUAL - COLECTIVO DEL MUNICIPIO DE DAGUA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Dagua
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+55121802 - Tarjetas o bandas de identificación o productos similares
+
+**Códigos adicionales UNSPSC:**
+
+82141505 - Servicios de diseño por computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 11 #10-2 Dagua Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,844,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 55121802, 82141505 | gastos de imprevistos | Mínima cuantía | Recursos propios | $7.294.666 | CONTRATACIÓN DAGUA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 10:43 am
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+16/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/Abr/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/Abr/2025 - 12:10 pm
+
+**Presentación de Ofertas:**
+
+23/Abr/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+23/Abr/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+23/Abr/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+25/Abr/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/May/2025 - 08:00 am | 02/Sep/2025 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/May/2025 - 08:00 am | 02/Sep/2025 - 11:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7823960 | RESOLUCION DECLARATORIA DESIERTA A PROCESO DE MINIMA CUANTIA MC-005-2025 | 02/May/2025 - 09:03 am |  | - |
+| Objeciones | CO1.MSG.7801785 | [Respondido] RE:observación al informe de evaluación | 28/Abr/2025 - 11:47 am |  | - |
+| Objeciones | CO1.MSG.7803577 | [Respondido] RE:Observación al Informe de Evaluación | 28/Abr/2025 - 11:46 am |  | - |
+| Objeciones | CO1.MSG.7803577 | Observación al Informe de Evaluación | 27/Abr/2025 - 02:40 pm |  | - |
+| Objeciones | CO1.MSG.7801785 | observación al informe de evaluación | 25/Abr/2025 - 05:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2235252 | Informe de evaluación 1 CO1.AWD.2235252 | 25/Abr/2025 - 03:59 pm |  | - |
+| General | CO1.MSG.7794582 | SUBSANAR DOCUMENTACION | 24/Abr/2025 - 03:57 pm |  | - |
+| Avisos | CO1.MSG.7786151 | Publicación de la lista de ofertas del proceso MC-005-2025. | 23/Abr/2025 - 12:32 pm |  | - |
+| Avisos | CO1.MSG.7786133 | La lista de oferentes del proceso MC-005-2025 publicada por MUNICIPIO DE DAGUA | 23/Abr/2025 - 12:29 pm |  | - |

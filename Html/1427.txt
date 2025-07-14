@@ -1,0 +1,128 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DISTRITAL CARLOS ARANGO VELEZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809664fabb488.28741880
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 07:27:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar un proveedor idóneo que garantice la realización eficiente y oportuna del mantenimiento preventivo y correctivo de las fotocopiadoras y dúplex del colegio, asegurando su óptimo funcionamiento y prolongando la vida útil de los equipos para apoyar las actividades académicas y administrativas de la institución.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos", "licicodigos": "106,108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TRANSVERSAL 68G No. 35A-42 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 9,756,768
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 04:34 pm
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+05/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8157913 | Publicación modificación | 25/Abr/2025 - 11:02 am |  |  |

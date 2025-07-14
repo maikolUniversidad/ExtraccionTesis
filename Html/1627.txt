@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA JOSÉ MIGUEL DE LA CALLE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684aee9f0619d3.76129772
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-14 21:23:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE TONER PARA LA I.E. JOSE MIGUEL DE LA CALLE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 38 Sur # 45 A 87 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103 | COMPRA DE TONER | Contratación directa | SGP | $2.500.000 | Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 09:20 am
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+26/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

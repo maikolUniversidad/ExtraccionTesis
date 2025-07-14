@@ -1,0 +1,255 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680acc0bc152d1.66203998
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-18 01:57:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Renovación de licencias Adobe Creative Cloud para la Secretaría Distrital de Desarrollo Económico
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232103 - Software de creación y edición de video
+
+**Códigos adicionales UNSPSC:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 10 No. 28-49 TORRE A Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512 | Adquisición de herramienta para entrenamiento y simulación de phishing | Mínima cuantía | Recursos propios | $50.000.000 | Oficina Asesora Juridica |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 06:17 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 11:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+07/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 12/May/2025 - 12:00 pm | 12/Feb/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 12/May/2025 - 12:00 pm | 12/Ago/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 11:51 am | * **Nombre:** RIO TECHNOLOGY S.A.S. | Cota - Cundinamarca |
+| 2 | 06/May/2025 - 05:19 pm | * **Nombre:** PC MAC SA | Distrito Capital de Bogotá |
+| 3 | 06/May/2025 - 05:42 pm | * **Nombre:** XSYSTEM LTDA | - |
+| 4 | 06/May/2025 - 08:21 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 5 | 07/May/2025 - 08:08 am | * **Nombre:** MEGACAD | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,039,350
+
+**Informes proceso de selección CO1.AWD.2247446 de 17/May/2025 - 01:05 am. Valor $38.039.350**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 05:15 pm |  |
+| Informe de evaluación | 09/May/2025 - 05:15 pm |  |
+| Informe de evaluación | 09/May/2025 - 05:15 pm |  |
+| Informe de evaluación | 09/May/2025 - 05:15 pm |  |
+| Informe de selección | 17/May/2025 - 01:05 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247446**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MEGACAD INGENIERÍA Y SISTEMAS SAS * **Tipo documento:** NIT * **Documento:** 805008189 | * **Nombre:** MARIA DEL PILAR MENA COLORADO * **Tipo documento:** * **Documento:** 66863932 | Cali - Valle del Cauca | $38.039.350 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247446****
+
+**Cuantía a la firma del contrato:**
+
+$ 38,039,350
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247446 | Informe de selección CO1.AWD.2247446 | 17/May/2025 - 01:05 am |  | - |
+| Avisos | CO1.MSG.7864015 | Publicación de la lista de ofertas del proceso SDDE-IPMC-006-2025. | 11/May/2025 - 11:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247446 | Informe de evaluación 1 CO1.AWD.2247446 | 09/May/2025 - 05:15 pm |  | - |
+| General | CO1.MSG.7860855 | RE: Solicitud de canal alterno por indisponibilidad de SECOPII | 09/May/2025 - 05:12 pm |  | - |
+| Avisos | CO1.MSG.7844846 | La lista de oferentes del proceso SDDE-IPMC-006-2025 publicada por SECRETARIA DISTRITAL DE DESARROLLO ECONOMICO - ALCALDIA BOGOTÁ | 07/May/2025 - 12:26 pm |  | - |
+| General | CO1.MSG.7823090 | AVISO LIMITACION MIPYMES | 01/May/2025 - 12:21 pm |  | - |
+| General | CO1.MSG.7823087 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 01/May/2025 - 12:17 pm |  | - |

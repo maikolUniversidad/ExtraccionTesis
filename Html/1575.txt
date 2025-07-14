@@ -1,0 +1,134 @@
+Title: Licitaciones - COLEGIO BRAVO PAEZ I.E.D.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d13f78f23c3.62108611
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:34:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición de aplicativo y/o plataforma educativa de mensajería de texto ilimitada por 6 meses que permita la comunicación masiva a través desde SMS (shorts Messenger service ) mensaje de texto entre los padres de familia, acudientes y comunidad educativa del Colegio Bravo Páez IED.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112002 - Servicios de procesamiento o preparación de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Envíos masivos de mensajes de texto y correos electrónicos", "licicodigos": "102,488" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 37 SUR # 23 51 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 5,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112002 | SERVICIO DE PROCESAMIENTO DE DATOS | Contratación régimen especial - Régimen especial | SGP | $5.000.000 | COLEGIO BRAVO PAEZ IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 04:58 pm
+
+**Fecha de Firma del Contrato:**
+
+30/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Nov/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8292491 | Publicación modificación | 03/Jun/2025 - 09:58 am |  |  |
+| Avisos | CO1.REQ.8292491 | Publicación modificación | 27/May/2025 - 02:48 pm |  |  |
+| Avisos | CO1.REQ.8292491 | Publicación modificación | 26/May/2025 - 09:56 am |  |  |

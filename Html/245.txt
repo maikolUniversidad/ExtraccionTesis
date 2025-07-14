@@ -1,0 +1,267 @@
+Title: Licitaciones - PROSPERIDAD SOCIAL - Subasta Inversa SASI No. 01 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68503ac96a4407.11774742
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:26:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la prestación de los servicios de mesa de servicios de soporte tecnológico y mantenimiento preventivo y correctivo de hardware y software para el Departamento Administrativo para la Prosperidad Social
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111811 - Servicios de soporte técnico o de mesa de ayuda
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Helpdesk o mesa de ayuda", "licicodigos": "374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 39 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 32-12 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+163 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 308,105,464
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111811, 81111812, 81112200 | Contratar la prestación de los servicios de mesa de servicios de soporte tecnológico y mantenimiento preventivo y correctivo de hardware y software para el Departamento Administrativo para la Prosperidad Social. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $308.105.464 | PAA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Jun/2025 - 10:36 am
+
+**Publicación Estudios Previos:**
+
+16/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Jun/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 09:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/Jun/2025 - 06:40 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+01/Jul/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jul/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 10:08 am
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+23/Jul/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+28/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 02:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+31/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/Jul/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 28/Jul/2025 - 11:59 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 28/Jul/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+23/Jul/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+23/Jul/2025 - 04:00 pm
+
+**Fecha fin:**
+
+23/Jul/2025 - 04:15 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8155353 | Publicación de la lista de ofertas del proceso SASI No. 01 DE 2025 (Presentación de oferta). | 11/Jul/2025 - 10:45 am |  | - |
+| Avisos | CO1.MSG.8155321 | La lista de oferentes del proceso SASI No. 01 DE 2025 (Presentación de oferta) publicada por PROSPERIDAD SOCIAL | 11/Jul/2025 - 10:42 am |  | - |
+| General | CO1.MSG.8144516 | AVISO IMPORTANTE | 09/Jul/2025 - 04:52 pm |  | - |
+| General | CO1.MSG.8144095 | RESPUESTA A OBSERVACIONES TÉCNICAS PRESENTADAS EXTEMPORÁNEAMENTE AL PLIEGPO DE CONDICIONES DEFINITIVO | 09/Jul/2025 - 04:23 pm |  | - |
+| Avisos | CO1.REQ.8479697 | Publicación modificación | 09/Jul/2025 - 11:52 am |  |  |
+| Avisos | CO1.REQ.8479697 | Publicación modificación | 07/Jul/2025 - 05:56 pm |  |  |
+| General | CO1.MSG.8130101 | ANEXO Árbol Categorías PS (ANS) | 07/Jul/2025 - 05:08 pm |  | - |
+| General | CO1.MSG.8130014 | RESPUESTA A OBSERVACIONES TÉCNICAS RECIBIDAS AL PLIEGO DE CONDICIONES DEFINITIVO | 07/Jul/2025 - 05:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8129852 | RESPUESTA A OBSERVACIONES TÉCNICAS PLIEGO DE CONDICIONES DEFINITIVO : Sinergy & Lowells | 07/Jul/2025 - 04:51 pm |  | - |
+| General | CO1.MSG.8129673 | RESPUESTA A OBSERVACIONES FINANCIERAS Y ORGANIZACIONALES RECIBIDAS AL PLIEGO DE CONDICIONES DEFINITIVO | 07/Jul/2025 - 04:37 pm |  | - |
+| Aclaraciones | CO1.MSG.8129503 | RE: Observaciones proceso SASI NO. 01 DE 2025 Prosperidad Social | 07/Jul/2025 - 04:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8109122 | Observaciones proceso SASI NO. 01 DE 2025 Prosperidad Social | 02/Jul/2025 - 04:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8099338 | Sinergy & Lowells observaciones | 01/Jul/2025 - 11:00 am |  | - |
+| Aclaraciones | CO1.MSG.8072444 | Observaciones Sinergy & Lowells S.A.S | 24/Jun/2025 - 12:38 pm |  | - |

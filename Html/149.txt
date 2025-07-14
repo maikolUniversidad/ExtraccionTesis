@@ -1,0 +1,349 @@
+Title: Licitaciones - MUNICIPIO DE SAN JOSE DE CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680832efdb8e79.16336540
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE SAN JOSE DE CUCUTA - Subasta Inversa SG-SUB-007-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-20 02:03:20
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+2025R-627 ALQUILER DE EQUIPOS DE CÓMPUTO E IMPRESORAS: PORTÁTILES (LAPTOPS), DE ESCRITORIO (DESKTOP), MULTIFUNCIONALES CON SUS RESPECTIVOS SISTEMAS OPERATIVOS, SOFTWARE DE OFIMÁTICA, TONERS E INSUMOS NECESARIOS (EXCEPTO PAPEL) PARA EL CORRECTO FUNCIONAMIENTO DE LAS LABORES QUE DESEMPEÑAN LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE SAN JOSÉ DE CÚCUTA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Norte de Santander : Cúcuta
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112400 - Servicios de alquiler o arrendamiento de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,43211500 - Computadores,43211700 - Dispositivos informáticos de entrada de datos,80161800 - Servicios de alquiler o arrendamiento de equipo de oficina
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "104,105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+3 Meses
+
+**Dirección de ejecución del contrato:**
+Calle 11 N° 5-49 Palacio Municipal Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Alianza Pacífico - Chile, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+225 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 881,667,270
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211700, 80161800, 81112400, 81112500 | 2025R-627 2025R-627 ALQUILER DE EQUIPOS DE CÓMPUTO E IMPRESORAS: PORTÁTILES (LAPTOPS), DE ESCRITORIO (DESKTOP), MULTIFUNCIONALES CON SUS RESPECTIVOS SISTEMAS OPERATIVOS, SOFTWARE DE OFIMÁTICA, TONERS E INSUMOS NECESARIOS (EXCEPTO PAPEL) PARA EL CORRECTO FUNCIONAMIENTO DE LAS LABORES QUE DESEMPEÑAN LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE SAN JOSÉ DE CÚCUTA | Selección abreviada subasta inversa | Recursos propios | $881.667.270 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 07:14 pm
+
+**Publicación Estudios Previos:**
+
+22/Abr/2025 - 07:30 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 07:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 07:30 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+30/Abr/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+30/Abr/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+02/May/2025 - 04:25 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+02/May/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/May/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+08/May/2025 - 06:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+08/May/2025 - 06:10 pm
+
+**Informe de presentación de Ofertas:**
+
+08/May/2025 - 06:20 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+09/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+15/May/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/May/2025 - 04:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/May/2025 - 03:00 pm
+
+**Firma del Contrato:**
+
+19/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 03:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+19/May/2025 - 03:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 12:00 pm | 15/Jun/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 15/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 12:00 pm | 15/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 08/May/2025 - 05:42 pm | * **Nombre:** OFICANON | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 738,590,625
+
+**Informes proceso de selección CO1.AWD.2249582 de 19/May/2025 - 07:48 am. Valor $738.590.625**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/May/2025 - 04:25 pm |  |
+| Informe de evaluación | 12/May/2025 - 04:25 pm |  |
+| Informe de evaluación | 16/May/2025 - 03:28 pm |  |
+| Informe de evaluación | 19/May/2025 - 08:13 am |  |
+| Informe de selección | 19/May/2025 - 07:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2249582**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** RED-OFICANON * **Tipo documento:** * **Documento:** 0 | - | Bogotá - | $738.590.625 |  | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2249582****
+
+**Cuantía a la firma del contrato:**
+
+$ 738,590,625
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+15/May/2025 - 01:00 pm
+
+**Fecha de inicio:**
+15/May/2025 - 01:30 pm
+
+**Fecha fin:**
+15/May/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2249582 | Informe de selección CO1.AWD.2249582 | 19/May/2025 - 07:48 pm |  | - |
+| General | CO1.MSG.7901759 | RESOLUCION DEL COMITE EVALUDOR | 19/May/2025 - 02:01 pm |  | - |
+| Avisos | CO1.MSG.7899098 | Publicación de la lista de ofertas del proceso SG-SUB-007-2025 (Presentación de oferta). | 19/May/2025 - 08:17 am |  | - |
+| Reporte preliminar | CO1.AWD.2249582 | Informe de evaluación 3 CO1.AWD.2249582 | 19/May/2025 - 08:13 am |  | - |
+| Avisos | CO1.MSG.7895605 | La lista de oferentes del proceso SG-SUB-007-2025 (Presentación de oferta) publicada por MUNICIPIO DE SAN JOSE DE CUCUTA | 16/May/2025 - 03:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2249582 | Informe de evaluación 2 CO1.AWD.2249582 | 16/May/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.7882813 | SUBSANACIÓN POLIZA HOJA DE VIDA FUNCION PUBLICA Y RENTAS Y BIENES | 14/May/2025 - 04:07 pm |  | - |
+| Avisos | CO1.MSG.7868629 | Publicación de la lista de ofertas del proceso SG-SUB-007-2025 (Presentación de oferta). | 12/May/2025 - 04:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2249582 | Informe de evaluación 1 CO1.AWD.2249582 | 12/May/2025 - 04:25 pm |  | - |
+| Avisos | CO1.MSG.7856602 | La lista de oferentes del proceso SG-SUB-007-2025 (Presentación de oferta) publicada por MUNICIPIO DE SAN JOSE DE CUCUTA | 08/May/2025 - 06:54 pm |  | - |
+| Avisos | CO1.REQ.8201488 | Publicación modificación | 07/May/2025 - 06:31 pm |  |  |
+| Avisos | CO1.REQ.8201488 | Publicación modificación | 06/May/2025 - 06:06 pm |  |  |
+| General | CO1.MSG.7842271 | ADENDA N. 001 | 06/May/2025 - 06:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7830605 | Aclaración dudas | 05/May/2025 - 09:03 am |  | - |
+| Aclaraciones | CO1.MSG.7821855 | RE: Observaciones | 30/Abr/2025 - 05:30 pm |  | - |
+| Aclaraciones | CO1.MSG.7807311 | Observaciones | 28/Abr/2025 - 03:20 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:08 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

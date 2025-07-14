@@ -1,0 +1,203 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DEL CAUCA 12
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850cee7136eb3.20273175
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-19 23:08:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ACTUALIZACIÓN DE LICENCIAS DE SOFTWARE ANTIVIRUS ESET ULTIMA VERSION PARA LA PROTECCIÓN DE CADA UNO DE LOS EQUIPOS DE CÓMPUTO CLIENTES TERMINALES Y SERVIDORES DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA CORPORACIÓN AUTÓNOMA REGIONAL DEL CAUCA C.R.C.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111811 - Servicios de soporte técnico o de mesa de ayuda
+
+**Códigos adicionales UNSPSC:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 1N - 28 Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205, 81111811 | actualización de licencias de software antivirus ESET ultima versión para la protección de cada uno de los equipos de cómputo clientes terminales y servidores de la infraestructura tecnológica de la Corporación Autónoma Regional del Cauca – CRC | Mínima cuantía | Recursos propios | $39.920.036 | GRUPO CONTRATACION JURIDICA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 08:00 pm
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 08:49 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 08:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:10 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 06:15 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 11:35 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 11:36 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 11:45 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 11:59 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 20/Jun/2025 - 08:00 am | 16/Oct/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 20/Jun/2025 - 08:00 am | 16/Oct/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8413753 | Publicación modificación | 19/Jun/2025 - 05:33 pm |  |  |
+| Avisos | CO1.REQ.8413753 | Publicación modificación | 19/Jun/2025 - 11:35 am |  |  |
+| General | CO1.MSG.8051711 | Respuesta a observaciones | 18/Jun/2025 - 02:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8051686 | RE: FORMATOS INCOMPLETOS | 18/Jun/2025 - 02:30 pm |  | - |
+| Aclaraciones | CO1.MSG.8047467 | FORMATOS INCOMPLETOS | 17/Jun/2025 - 07:05 pm |  | - |

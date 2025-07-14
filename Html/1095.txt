@@ -1,0 +1,243 @@
+Title: Licitaciones - MUNICIPIO DE BARAYA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685356e9613f24.11957729
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 06:34:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICION DE EQUIPOS DE COMPUTO Y COMPONENTES MENORES CON DESTINO A LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL DE BARAYA HUILA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Baraya
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43212105 - Impresoras láser
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 2 CARRE 3 Baraya Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 43212105 | CONTRATAR LA ADQUISICION DE EQUIPOS DE COMPUTO Y COMPONENTES MENORES CON DESTINO A LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL DE BARAYA HUILA. | Mínima cuantía | SGP | $20.000.000 | SECRETARIA GENERAL Y DE GOBIERNO |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 06:57 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 06:57 pm
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 06:57 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 06:55 pm
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 06:55 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 06:58 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 06:58 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 06:58 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 06:58 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 06:59 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/Jun/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+24/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 24/Jun/2025 - 12:00 pm | 31/Dic/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 24/Jun/2025 - 12:00 pm | 31/Dic/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MARIA DEL PILAR RAMIREZ DIAZ | Altamira - Huila |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 16,051,950
+
+**Informes proceso de selección CO1.AWD.2287903 de 24/Jun/2025 - 12:13 pm. Valor $16.051.950**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/Jun/2025 - 10:49 am |  |
+| Informe de selección | 24/Jun/2025 - 12:13 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2287903**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MARIA DEL PILAR RAMIREZ DIAZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 26424760 | * **Nombre:** MARIA DEL PILAR RAMIREZ DIAZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 26424760 | Altamira - Huila | $16.051.950 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2287903****
+
+**Cuantía a la firma del contrato:**
+
+$ 16,051,950
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287903 | Informe de selección CO1.AWD.2287903 | 24/Jun/2025 - 12:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287903 | Informe de evaluación 1 CO1.AWD.2287903 | 21/Jun/2025 - 10:49 am |  | - |
+| Avisos | CO1.MSG.8068872 | Publicación de la lista de ofertas del proceso MC-020-2025. | 21/Jun/2025 - 10:47 am |  | - |
+| Avisos | CO1.MSG.8068871 | La lista de oferentes del proceso MC-020-2025 publicada por MUNICIPIO DE BARAYA | 21/Jun/2025 - 10:47 am |  | - |
+| Aclaraciones | CO1.MSG.8061719 | LIMITACION A MIPYMES DEPARTAMENTAL | 19/Jun/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.8059247 | ACREDITACION A MIPYMES DEPARTAMENTAL. | 19/Jun/2025 - 02:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8058116 | SOLICITUD MANIFESTACIÓN DE LIMITACIÓN DE INVITACIÓN A MIPYME NACIONAL | 19/Jun/2025 - 12:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8057546 | SOLICITUD MANIFESTACIÓN DE LIMITACIÓN DE INVITACIÓN A MIPYME DEPARTAMENTAL | 19/Jun/2025 - 11:11 am |  | - |

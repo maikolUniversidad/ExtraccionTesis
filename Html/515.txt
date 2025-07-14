@@ -1,0 +1,209 @@
+Title: Licitaciones - AEROCIVIL - Contratación mínima cuantía 25000903 H3 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b40b91c4fe0.87667758
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-19 15:21:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+53600C1034 REALIZAR MANTENIMIENTO DE LOS SISTEMAS RADAR DE CARIMAGUA Y VILLAVICENCIO DE LA REGIONAL ORIENTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41115200 - Sistemas y componentes de radar y sonar
+
+**Códigos adicionales UNSPSC:**
+
+46171616 - Detectores de radar,41115201 - Sistemas de vigilancia basados en radar,81101700 - Ingeniería eléctrica y electrónica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición", "licicodigos": "100" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO VANGUARDIA VILLAVICENCIO META Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43221718, 46171616, 41115201 | 53600C1034 REALIZAR MANTENIMIENTO DE LOS SISTEMAS RADAR DE CARIMAGUA Y VILLAVICENCIO DE LA REGIONAL ORIENTE | Mínima cuantía | Recursos propios | $95.000.000 | REGIONAL ORIENTE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 03:50 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 08:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 20,00 | 04/Jul/2025 - 08:00 pm | 30/Nov/2028 - 12:00 pm |
+| Estabilidad y calidad de la obra | 20,00 | 30/Nov/2025 - 12:00 pm | 30/Nov/2030 - 12:00 pm |
+| Calidad del servicio | 20,00 | 30/Nov/2025 - 12:00 pm | 29/Nov/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/Nov/2025 - 12:00 pm | 30/Nov/2026 - 12:00 pm |
+
+**Estabilidad y calidad de la obra:**
+
+20,00% del valor del contrato, desde 30/Nov/2025 - 12:00 pm hasta 30/Nov/2030 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8058566 | AVISO DE LIMITACION A MIPYMES | 19/Jun/2025 - 01:21 pm |  | - |
+| Avisos | CO1.REQ.8406410 | Publicación modificación | 17/Jun/2025 - 03:49 pm |  |  |
+| Aclaraciones | CO1.MSG.8044227 | RE: OBSERVACIONES A LA INVITACIÓN PÚBLICA No. 25000903 H3 DE 2025. | 17/Jun/2025 - 02:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8033790 | OBSERVACIONES A LA INVITACIÓN PÚBLICA No. 25000903 H3 DE 2025. | 14/Jun/2025 - 10:10 pm |  | - |

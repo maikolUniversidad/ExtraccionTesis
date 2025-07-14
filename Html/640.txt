@@ -1,0 +1,257 @@
+Title: Licitaciones - GOBERNACION DEL CHOCÓ.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849ff0adb0e71.30305674
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 14:56:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA RENOVACIÓN DE LICENCIAS DE ANTIVIRUS ESET ENDPOINT SECURITY Y DEL FIREWALL PALO ALTO NETWORKS PA 440, CON SU RESPECTIVO SERVICIO DE ACTUALIZACIÓN, SOPORTE Y ASISTENCIA TÉCNICA PARA ROBUSTECER EL ESQUEMA DE LA SEGURIDAD Y PRIVACIDAD DE LA INFORMACIÓN, EN CUMPLIMIENTO DE LOS LINEAMIENTOS, PLANES Y METAS DEL PROCESO DE GESTIÓN TIC EN LA GOBERNACIÓN DE CHOCÓ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Chocó : Quibdó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111601 - Asistencia de oficina o administrativa temporal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CLL 31 No. 1- 101 Edificio la Confianza Quibdó Chocó COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80111601 | Fortalecimiento técnico y tecnológico de la Secretaría de Planeación. | Selección abreviada menor cuantía | Recursos propios | $1.300.000.000 | GOBERNACION CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:59 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+13/Jun/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+13/Jun/2025 - 05:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+18/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jun/2025 - 02:00 pm | 18/Dic/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 18/Jun/2025 - 02:00 pm | 18/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INFORTEC SOLUCIONES SAS | Pereira - Risaralda |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 59,264,000
+
+**Informes proceso de selección CO1.AWD.2282949 de 19/Jun/2025 - 02:36 am. Valor $59.264.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 07:44 pm |  |
+| Informe de selección | 19/Jun/2025 - 02:36 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2282949**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INFORTEC SOLUCIONES SAS * **Tipo documento:** NIT * **Documento:** 900991717 | * **Nombre:** Federico Guillermo Giraldo Ricaurte * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10140817 | Pereira - Risaralda | $59.264.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2282949****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7994016
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+17/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 59,264,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2282949 | Informe de selección CO1.AWD.2282949 | 19/Jun/2025 - 02:36 pm |  | - |
+| Reporte preliminar | CO1.AWD.2282949 | Informe de evaluación 1 CO1.AWD.2282949 | 16/Jun/2025 - 07:44 pm |  | - |
+| Avisos | CO1.MSG.8032061 | Publicación de la lista de ofertas del proceso MC-GDCH-005 -2025. | 13/Jun/2025 - 05:09 pm |  | - |
+| Avisos | CO1.MSG.8032055 | La lista de oferentes del proceso MC-GDCH-005 -2025 publicada por GOBERNACION DEL CHOCÓ. | 13/Jun/2025 - 05:09 pm |  | - |
+| General | CO1.MSG.8024599 | AVISO PRECISANDO QUE EL PROCESO EFECTIVAMENTE SE LIMITA A MIPYMES NACIONALES | 12/Jun/2025 - 04:26 pm |  | - |

@@ -1,0 +1,125 @@
+Title: Licitaciones - EMPRESA DE OBRAS SANITARIAS DE CALDAS S.A E.S.P.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d0d56a04894.15371963
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:35:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE EQUIPOS ELECTRÓNICOS PARA UN SISTEMA VIDEOWALL CON 6 MONITORES DE 43 Y AIRE ACONDICIONADO TIPO CASSETTE DE 60,000 BTU (INCLUYE INSTALACIÓN).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161505 - Televisores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Electrodomésticos, -Aire acondicionado", "licicodigos": "115,139,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 23 N 75 82 Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 05:35 pm
+
+**Fecha de Firma del Contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8144483 | RESPUESTA OBSERVACIONES EVALUACION COMITÉ EXTRAORDINARIO | 09/Jul/2025 - 04:47 pm |  | - |
+| General | CO1.MSG.8120039 | COMITÉ DE COMPRAS EXTRAORDINARIO - MODIFICA POSTURA | 04/Jul/2025 - 11:49 am |  | - |
+| General | CO1.MSG.7975348 | RESPUESTA OBSERVACIONES ACTA | 03/Jun/2025 - 05:20 pm |  | - |
+| General | CO1.MSG.7968872 | ADENDA 2 | 30/May/2025 - 06:24 pm |  | - |
+| General | CO1.MSG.7961448 | ACTA DE COMITÉ | 29/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7930592 | ADENDA 1 | 23/May/2025 - 03:34 pm |  | - |
+| General | CO1.MSG.7930586 | ACLARACION RESPUESTA OBSERVACIONES | 23/May/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.7925775 | RESPUESTA OBSERVACIONES | 22/May/2025 - 06:20 pm |  | - |

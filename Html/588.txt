@@ -1,0 +1,312 @@
+Title: Licitaciones - MUNICIPIO DE EL SANTUARIO ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a5e75611b70.79612027
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:35:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE TINTAS PARA IMPRESORAS, ACCESORIOS Y REPUESTOS TECNOLOGICOS, RECARGAS DE TONERS, MANTENIMIENTO DE SCANER E IMPRESORAS DE LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL DE EL SANTUARIO ANTIOQUIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : El Santuario
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+12171700 - Compuestos de colores y dispersiones
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador,43211700 - Dispositivos informáticos de entrada de datos,44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 50 Nº 49-71 Plaza Mayor José María Córdova El Santuario Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 26,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 12171703, 81112306, 44103103 | Servicio de manufactura y recarga de tóners, mantenimiento de escáner e impresoras de las diferentes dependencias de la Administración Municipal de El santuario - Antioquia. | Contratación directa | Recursos propios | $26.000.000 | SECRETARIA DE HACIENDA |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+06/May/2025 - 01:00 pm
+
+**Publicación Estudios Previos:**
+
+06/May/2025 - 01:00 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 01:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+06/May/2025 - 01:58 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 03:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+15/May/2025 - 01:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/May/2025 - 03:30 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+15/May/2025 - 03:30 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 03:40 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+20/May/2025 - 03:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 03:05 pm
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 03:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 03:00 pm
+
+**Apertura del sobre económico:**
+
+19/Jun/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jun/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+24/Jun/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 03:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 16/Jun/2025 - 08:00 am | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 16/Jun/2025 - 08:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 16/Jun/2025 - 08:00 am | 30/Abr/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 70,033,580
+
+**Informes proceso de selección CO1.AWD.2271453 de 25/Jun/2025 - 02:12 am. Valor $70.033.580**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 01:34 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 10:29 am |  |
+| Informe de evaluación | 17/Jun/2025 - 04:04 pm |  |
+| Informe de selección | 25/Jun/2025 - 02:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271453**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** VIBE DISTRIBUCIONES SAS * **Tipo documento:** NIT * **Documento:** 901242336 | * **Nombre:** JEFERSON ANDRES VILLADA BEDOYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1001440542 | Rionegro - Antioquia | $70.033.580 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271453****
+
+**ID del contrato en SECOP:**
+
+120-SC-304-2024
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+27/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 70,033,580
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+20/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+20/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+20/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271453 | Informe de selección CO1.AWD.2271453 | 25/Jun/2025 - 02:12 pm |  | - |
+| Avisos | CO1.MSG.8065769 | Publicación de la lista de ofertas del proceso SASI-004-2025 (Presentación de oferta). | 20/Jun/2025 - 02:27 pm |  | - |
+| Avisos | CO1.MSG.8065746 | La lista de oferentes del proceso SASI-004-2025 (Presentación de oferta) publicada por MUNICIPIO DE EL SANTUARIO ANTIOQUIA | 20/Jun/2025 - 02:25 pm |  | - |
+| General | CO1.MSG.8065676 | NOTA ACLARATORIA | 20/Jun/2025 - 02:19 pm |  | - |
+| Avisos | CO1.REQ.8268816 | Publicación modificación | 18/Jun/2025 - 04:23 pm |  |  |
+| Reporte preliminar | CO1.AWD.2271453 | Informe de evaluación 3 CO1.AWD.2271453 | 17/Jun/2025 - 04:04 pm |  | - |
+| General | CO1.MSG.8035858 | INFORME REQUISITOS HABILITANTES | 16/Jun/2025 - 11:04 am |  | - |
+| Avisos | CO1.REQ.8268816 | Publicación modificación | 16/Jun/2025 - 10:45 am |  |  |
+| Reporte preliminar | CO1.AWD.2271453 | Informe de evaluación 2 CO1.AWD.2271453 | 12/Jun/2025 - 10:29 am |  | - |
+| Avisos | CO1.REQ.8268816 | Publicación modificación | 10/Jun/2025 - 10:18 am |  |  |
+| Reporte preliminar | CO1.AWD.2271453 | Informe de evaluación 1 CO1.AWD.2271453 | 04/Jun/2025 - 01:34 pm |  | - |
+| Avisos | CO1.MSG.7960249 | Publicación de la lista de ofertas del proceso SASI-004-2025 (Presentación de oferta). | 29/May/2025 - 03:32 pm |  | - |
+| Avisos | CO1.MSG.7960230 | La lista de oferentes del proceso SASI-004-2025 (Presentación de oferta) publicada por MUNICIPIO DE EL SANTUARIO ANTIOQUIA | 29/May/2025 - 03:30 pm |  | - |

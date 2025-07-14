@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL DISTRITO CAPITAL Grupo Administrativo Intercentros CGMLTI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f4accaa6e77.56820882
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 15:06:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición para suscribir el acceso a un recurso de información especializado en programas de formación ocupacional en el sector salud y actividad física.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232609 - Software de bibliotecas
+
+**Códigos adicionales UNSPSC:**
+
+24102011 - Accesorio de biblioteca,43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 45 - 52 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 10:55 am
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 11:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 11:00 am

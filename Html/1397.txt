@@ -1,0 +1,194 @@
+Title: Licitaciones - ESCUELA NACIONAL DE CARABINEROS POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680831f116b902.12094170
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-23 16:17:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y/O CORRECTIVO A TODO COSTO PARA LOS EQUIPOS DE CÓMPUTO (PERIFÉRICOS) Y DEMÁS COMPONENTE TECNOLÓGICO (INCLUYENDO CAMBIO DE ACCESORIOS Y/O REPUESTOS O PARTES DE SER NECESARIOS) DE LA ESCUELA NACIONAL DE CARABINEROS ALFONSO LÓPEZ PUMAREJO Y UNIDADES ADSCRITAS (ESGAC, ESCEQ, CILET).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones
+
+**Códigos adicionales UNSPSC:**
+
+81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,81112306 - Mantenimiento de impresoras,43211724 - Kit periférico para computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+KM. 4 VIA ECOPETROL-MANCILLA, HDA LAS MARGARITAS - ESCUELA NACIONAL DE CARABINEROS, OF. CONTRATOS Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112307, 72103302, 81112306 | ESCAR MANTENIMIENTO DE COMPUTADORES Y EQUIPO PERIFÉRICO | Mínima cuantía | Presupuesto de entidad nacional | $8.000.000 | ESCUELA NACIONAL DE CARABINEROS |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 06:26 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/May/2025 - 05:00 pm | 30/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 06/May/2025 - 05:00 pm | 02/Feb/2029 - 11:59 pm |
+| Calidad del servicio | 50,00 | 06/May/2025 - 05:00 pm | 02/Feb/2027 - 11:59 pm |

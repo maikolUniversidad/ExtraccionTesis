@@ -1,0 +1,190 @@
+Title: Licitaciones - SUBCUENTA DEL SISTEMA DE PARQUES NACIONALES NATURALES DEL FONDO NACIONAL AMBIENTAL -FONAM DTCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680beb912d3cc4.25995611
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 08:40:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CA02-3202008-15-013 Contratar el mantenimiento preventivo y correctivo, de los equipos de cómputo y demás herramientas digitales, periféricos y de comunicaciones, asignados al PNN Corales de Profundidad, según las descripciones y cantidades que se requieran, en las especificaciones técnicas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+78181500 - Servicios de mantenimiento y reparación de vehículos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 4 No. 3-204 Bocagrande Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+218 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,501
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 78181500 | CA02-3202008-15-013 Contratar el mantenimiento preventivo y correctivo, de los equipos de cómputo y demás herramientas digitales, perifericos y de comunicaciones, asignados al PNN Corales de Profundidad, según las descripciones y cantidades que se requieran, en las especificaciones técnicas. | Mínima cuantía | Recursos propios | $3.000.000 | DIRECCIÓN TERRITORIAL CARIBE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 02:44 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 07/May/2025 - 12:00 pm | 15/Dic/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 07/May/2025 - 12:00 pm | 15/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7808105 | AVISO DE NO LIMITACION A MIPYMES | 28/Abr/2025 - 04:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7803364 | LIMITACION MIPYME NACIONAL CORREGIDA Y DEFINITIVA | 26/Abr/2025 - 03:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7803363 | LIMITACION MIPYME BQ CORREGIDO | 26/Abr/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7803069 | LIMITACION MIPYME NACIONAL | 26/Abr/2025 - 09:47 am |  | - |

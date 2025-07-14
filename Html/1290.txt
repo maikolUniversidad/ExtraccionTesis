@@ -1,0 +1,130 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA FE Y ALEGRIA EL PROGRESO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682592636314e6.12381201
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 10:31:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+LICENCIA PLATAFORMA PRESUPUESTAL Y CONTABLE (MODULOS PRESUPUESTAL, CONTRACTUL Y CONTABLE Y MODULO DE INVENTARIOS PROPIEDADES PLANTAS Y EQUIPOS DIGITALIZACION ACTUALIZACION DEL INVENTARIO FISICO DE LAS PROPIEDADES PLANTAS Y EQUIPOS DE LA INSTITUCIÓN EDUCAT.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231508 - Software de manejo de inventarios
+
+**Códigos adicionales UNSPSC:**
+
+43232305 - Software de reportes de bases de datos,84111507 - Servicio de contabilidad de inventario
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+SAN PEDRO MARTIR CLLE 5 Nº 68B 25 STOR PROGRESO Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 11,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231508, 43232305, 84111507 | Inventario institucional | Contratación régimen especial - Régimen especial | SGP | $11.000.000 | UNIDAD DE CONTRATACION 1 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 10:40 pm
+
+**Fecha de Firma del Contrato:**
+
+16/May/2025 - 08:30 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+16/May/2025 - 09:00 am
+
+**Plazo de ejecución del contrato:**
+
+30/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

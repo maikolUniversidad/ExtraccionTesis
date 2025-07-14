@@ -1,0 +1,284 @@
+Title: Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f67cb1d6190.82712259
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:31:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación, configuración, implementación y puesta en funcionamiento de una solución de servidores físicos que permita la renovación y fortalecimiento de los servicios de gestión para la Superintendencia de Industria y Comercio.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112006 - servicios de almacenamiento de datos
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81111901 - Recuperación de información de las bases de datos,81112201 - Tarifas de soporte o mantenimiento,43201616 - Torres de arreglo de drives de discos duros,43201802 - Series de disco duro,43201803 - Unidades de disco duro,43201813 - Unidades de medios removibles de alta capacidad,43201825 - Publicador de discos,43201830 - Unidad de estado sólido ssd,43201834 - Controlador de dispositivo de almacenamiento,43201835 - Dispositivo de almacenamiento unido a la red nas,43201902 - Cambiadores de discos ópticos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 13 No. 27 - 00 Edificio Bochica Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 600,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201803, 43201802, 43201830, 81112201, 43201616, 43201834, 43201825, 43201835, 43201813, 43201902, 81111809, 81111812, 81112006, 81111901 | 20.1.1.2.54 - Adquisición para la renovación de los servidores de gestión para la Superintendencia de Industria y comercio | Selección abreviada subasta inversa | Recursos propios | $600.000.000 | Unidad de Contratación - Grupo de contratación SIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 12:53 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación Estudios Previos:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jun/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+05/Jun/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 08:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 09:36 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+16/Jun/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 11:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+19/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+03/Jul/2025 - 08:30 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 07/Jul/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jul/2025 - 09:30 am
+
+**Fecha de inicio:**
+
+03/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+03/Jul/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8159721 | RESPUESTA OBSERVACIONES UT B2BCON Y SINERGY | 11/Jul/2025 - 06:28 pm |  | - |
+| General | CO1.MSG.8134235 | Adjundicaciòn proceso. | 08/Jul/2025 - 11:51 am |  | - |
+| General | CO1.MSG.8120614 | REQUERIMIENTO UT AC INFRAESTRUCTURA 2025 | 04/Jul/2025 - 03:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2286169 | Informe de evaluación 3 CO1.AWD.2286169 | 03/Jul/2025 - 03:40 pm |  | - |
+| General | CO1.MSG.8114949 | EVENTO DE SUBASTA | 03/Jul/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.8114648 | CREACION EVENTO DE SUBASTA | 03/Jul/2025 - 03:07 pm |  | - |
+| Avisos | CO1.REQ.8373518 | Publicación modificación | 03/Jul/2025 - 10:57 am |  |  |
+| General | CO1.MSG.8112224 | LISTA DE PARTICIPANTES EN LA SUBASTA | 03/Jul/2025 - 09:48 am |  | - |
+| Reporte preliminar | CO1.AWD.2286169 | Informe de evaluación 2 CO1.AWD.2286169 | 03/Jul/2025 - 08:22 am |  | - |
+| General | CO1.MSG.8111414 | RESPUESTAS OBSERVACIONES EVALUACION PRELIMINAR | 03/Jul/2025 - 08:15 am |  | - |
+| Objeciones | CO1.MSG.8081234 | [Respondido] RE:SUBSANACION SIC | 03/Jul/2025 - 07:42 am |  | - |
+| Objeciones | CO1.MSG.8081682 | [Respondido] RE:SUBSANACIÓN - UT AC INFRAESTRUCTURA | 03/Jul/2025 - 07:42 am |  | - |
+| Objeciones | CO1.MSG.8080618 | [Respondido] RE:SUBSANACION SIC | 03/Jul/2025 - 07:42 am |  | - |
+| Avisos | CO1.REQ.8373518 | Publicación modificación | 02/Jul/2025 - 09:06 am |  |  |
+| Avisos | CO1.REQ.8373518 | Publicación modificación | 26/Jun/2025 - 06:56 pm |  |  |
+| Objeciones | CO1.MSG.8081234 | SUBSANACION SIC | 25/Jun/2025 - 04:55 pm |  | - |
+| Objeciones | CO1.MSG.8081682 | SUBSANACIÓN - UT AC INFRAESTRUCTURA | 25/Jun/2025 - 04:34 pm |  | - |
+| Objeciones | CO1.MSG.8080618 | SUBSANACION SIC | 25/Jun/2025 - 03:54 pm |  | - |
+| Reporte preliminar | CO1.AWD.2286169 | Informe de evaluación 1 CO1.AWD.2286169 | 19/Jun/2025 - 06:28 pm |  | - |
+| Avisos | CO1.MSG.8035991 | Publicación de la lista de ofertas del proceso SIC 12 DE 2025 (Presentación de oferta). | 16/Jun/2025 - 11:13 am |  | - |
+| Avisos | CO1.MSG.8035977 | La lista de oferentes del proceso SIC 12 DE 2025 (Presentación de oferta) publicada por SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO | 16/Jun/2025 - 11:12 am |  | - |
+| General | CO1.MSG.8034337 | RESPUESTA OBSERVACIONES EXTEMPORANEAS YEAPDATA | 16/Jun/2025 - 08:10 am |  | - |
+| Avisos | CO1.REQ.8373518 | Publicación modificación | 13/Jun/2025 - 07:01 am |  |  |
+| General | CO1.MSG.8025541 | RESPUESTAS OBSERVACIONES PLIEGO DEFINITIVO | 12/Jun/2025 - 05:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8025515 | RE: OBSERVACIÓN AL PROCESO | 12/Jun/2025 - 05:25 pm |  | - |
+| Aclaraciones | CO1.MSG.8006773 | OBSERVACIÓN AL PROCESO | 10/Jun/2025 - 10:30 am |  | - |
+| Aclaraciones | CO1.MSG.7960494 | OBSERVACIONES | 29/May/2025 - 03:54 pm |  | - |
+| Aclaraciones | CO1.MSG.7959866 | Observaciones | 29/May/2025 - 03:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7958603 | Obserbaciones SIC | 29/May/2025 - 12:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7956482 | OBSERVACIONES SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO | 29/May/2025 - 08:38 am |  | - |

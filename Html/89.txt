@@ -1,0 +1,279 @@
+Title: Licitaciones - INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA IDEA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834f02fcbf865.55197687
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:13:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN Y PUESTA EN MARCHA DE UNA PLATAFORMA TECNOLÓGICA DE VIRTUALIZACION DE SERVIDORES Y ALMACENAMIENTO DEL DATACENTER PARA SATISFACER LAS NECESIDADES DE ADMINISTRACIÓN DE INFORMACIÓN DEL INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA IDEA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81112000 - Servicios de datos,43201800 - Dispositivos de almacenamiento,43211500 - Computadores,43222600 - Equipo de servicio de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 42 N 52-259 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,265,812,032
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800, 43211500, 43222600, 80101600, 81111500, 81112000 | ADQUISICIÓN Y PUESTA EN MARCHA DE UNA PLATAFORMA TECNOLÓGICA DE VIRTUALIZACION DE SERVIDORES Y ALMACENAMIENTO DEL DATACENTER PARA SATISFACER LAS NECESIDADES DE ADMINISTRACIÓN DE INFORMACIÓN DEL INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA – IDEA | Selección abreviada subasta inversa | Recursos propios | $1.265.812.032 | Dirección Jurídica |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 12:00 pm
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 12:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 05:19 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jun/2025 - 12:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+10/Jun/2025 - 04:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+11/Jun/2025 - 04:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+11/Jun/2025 - 04:44 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+11/Jun/2025 - 04:58 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+18/Jun/2025 - 04:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+18/Jun/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/Jun/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+27/Jun/2025 - 05:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+03/Jul/2025 - 04:16 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+11/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jul/2025 - 03:00 pm
+
+**Firma del Contrato:**
+
+17/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+21/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jul/2025 - 04:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 09/Jul/2025 - 04:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 15,00 | 09/Jul/2025 - 04:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+11/Jul/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+14/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+14/Jul/2025 - 10:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2297215 | Informe de evaluación 3 CO1.AWD.2297215 | 11/Jul/2025 - 10:55 am |  | - |
+| Avisos | CO1.MSG.8155412 | Publicación de la lista de ofertas del proceso SASI 004-2025 (Presentación de oferta). | 11/Jul/2025 - 10:51 am |  | - |
+| Avisos | CO1.MSG.8155360 | La lista de oferentes del proceso SASI 004-2025 (Presentación de oferta) publicada por INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA IDEA | 11/Jul/2025 - 10:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2297215 | Informe de evaluación 2 CO1.AWD.2297215 | 11/Jul/2025 - 09:43 am |  | - |
+| Avisos | CO1.REQ.8400625 | Publicación modificación | 10/Jul/2025 - 10:24 am |  |  |
+| Objeciones | CO1.MSG.8137279 | CORRECCION CARTA IBM REDCOMPUTO LTDA | 08/Jul/2025 - 04:57 pm |  | - |
+| Objeciones | CO1.MSG.8135835 | OBSERVACIONES REDCOMPUTO LTDA | 08/Jul/2025 - 03:18 pm |  | - |
+| Objeciones | CO1.MSG.8135809 | OBSERVACIONES REDCOMPUTO LTDA | 08/Jul/2025 - 03:16 pm |  | - |
+| Objeciones | CO1.MSG.8135401 | SUBSANACION 3 REDCOMPUTO LTDA - Ingeniera Claudia Gerente de Proyectos | 08/Jul/2025 - 03:14 pm |  | - |
+| Objeciones | CO1.MSG.8135371 | SUBSANACION 2 REDCOMPUTO LTDA - Ingeniero Servidores DELL Daniel Montoya | 08/Jul/2025 - 02:42 pm |  | - |
+| Objeciones | CO1.MSG.8133674 | SUBSANACION REDCOMPUTO LTDA | 08/Jul/2025 - 02:39 pm |  | - |
+| General | CO1.MSG.8134307 | Subsanacion Team IT | 08/Jul/2025 - 11:58 am |  | - |
+| Objeciones | CO1.MSG.8117593 | SUBSANACION REDCOMPUTO LTDA | 08/Jul/2025 - 10:51 am |  | - |
+| Objeciones | CO1.MSG.8119381 | [Respondido] RE:OBSERVACIONES REDCOMPUTO LTDA | 04/Jul/2025 - 03:41 pm |  | - |
+| Objeciones | CO1.MSG.8119381 | OBSERVACIONES REDCOMPUTO LTDA | 04/Jul/2025 - 10:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2297215 | Informe de evaluación 1 CO1.AWD.2297215 | 03/Jul/2025 - 10:52 am |  | - |
+| Avisos | CO1.MSG.8095578 | Publicación de la lista de ofertas del proceso SASI 004-2025 (Presentación de oferta). | 27/Jun/2025 - 05:14 pm |  | - |
+| Avisos | CO1.MSG.8095569 | La lista de oferentes del proceso SASI 004-2025 (Presentación de oferta) publicada por INSTITUTO PARA EL DESARROLLO DE ANTIOQUIA IDEA | 27/Jun/2025 - 05:14 pm |  | - |
+| General | CO1.MSG.8077373 | FORMATO DE VINCULACIÓN REQUISITO HABILITANTE | 25/Jun/2025 - 08:49 am |  | - |
+| General | CO1.MSG.8077361 | RE: FORMATO DE CONOCIMIENTO DEL TERCERO O CONTRAPARTE | 25/Jun/2025 - 08:48 am |  | - |
+| Avisos | CO1.REQ.8400625 | Publicación modificación | 24/Jun/2025 - 05:00 pm |  |  |
+| Aclaraciones | CO1.MSG.8066976 | RE: Observacion Pliego, OBSERVACIONES PLIEGO DE CONDICIONES GREEN - IDEA, OBSERVACIONES PLIEGO DEFINITIVO - PROCESO SASI 004-2025 | 20/Jun/2025 - 04:15 pm |  | - |
+| General | CO1.MSG.8066960 | RESPUESTAS A LAS OBSERVACIONES AL PLIEGO DE CONDICIONES | 20/Jun/2025 - 04:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8051469 | Observacion Pliego | 18/Jun/2025 - 02:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8036042 | OBSERVACIONES PLIEGO DE CONDICIONES GREEN - IDEA | 16/Jun/2025 - 11:44 am |  | - |
+| Aclaraciones | CO1.MSG.8022589 | OBSERVACIONES PLIEGO DEFINITIVO - PROCESO SASI 004-2025 | 12/Jun/2025 - 12:48 pm |  | - |
+| General | CO1.MSG.8002056 | RESPUESTAS A LAS OBSERVACIONES | 09/Jun/2025 - 03:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8002046 | RE: OBSERVACIONES PROYECTO PLIEGO DE CONDICIONES - IDEA, Observaciones al proyecto pliego del proceso SASI 004-de 2025, Observaciones Sinergy & Lowells S.A.S, OBSERVACIONES SASI 004-2025 - PREPLIEGO DE CONDICIONES | 09/Jun/2025 - 03:14 pm |  | - |
+| Avisos | CO1.REQ.8319798 | Publicación modificación | 05/Jun/2025 - 04:41 pm |  |  |
+| Aclaraciones | CO1.MSG.7972927 | OBSERVACIONES SASI 004-2025 - PREPLIEGO DE CONDICIONES | 03/Jun/2025 - 12:00 pm |  | - |

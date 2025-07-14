@@ -1,0 +1,90 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834bc737b0562.04105541
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 09:08:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Renovar la suscripción al licenciamiento y soporte del antivirus Kaspersky para proteger la información y eliminar el malware de los equipos y dispositivos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 02:08 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/May/2025 - 03:00 pm

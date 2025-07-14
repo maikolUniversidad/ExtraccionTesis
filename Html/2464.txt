@@ -1,0 +1,102 @@
+Title: Licitaciones - FONDO NACIONAL DEL AHORRO S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6830b957761a08.35042362
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:26:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+RENOVAR EL LICENSAMIENTO PARA LA INFRAESTRUCTURA TECNOLÓGICA DE HARDWARE Y SOFTWARE CISCO, INCLUIDO EL SOPORTE ESPECIALIZADO SMART NET TOTAL CARE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 No.11-83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 12:45 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8310479 | Publicación modificación | 29/May/2025 - 04:52 pm |  |  |
+| Avisos | CO1.REQ.8310479 | Publicación modificación | 28/May/2025 - 04:34 pm |  |  |
+| Avisos | CO1.REQ.8310479 | Publicación modificación | 28/May/2025 - 04:07 pm |  |  |

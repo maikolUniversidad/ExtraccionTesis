@@ -1,0 +1,100 @@
+Title: Licitaciones - SECRETARIA GENERAL Y DE CERCANIA AL CIUDADANO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a63596c87e4.67230510
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 10:07:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+EXTENSIÓN DE GARANTÍAS, SOPORTE TÉCNICO Y AMPLIACIÓN DE CAPACIDADES PARA HARDWARE Y SOFTWARE DE HIPERCONVERGENCIA NUTANIX, SWITCHES TOR Y LICENCIAMIENTO UBICADOS EN EL DATACENTER PRINCIPAL DE LA GOBERNACIÓN DE CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112003 - Servicios de centros de datos
+
+**Códigos adicionales UNSPSC:**
+
+81112203 - Servicio de actualización o parcheo de firmware,81112202 - Actualizaciones o parches de software,81112220 - Mantenimiento de software de servidores,81111900 - Sistemas de recuperación de información,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "103,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 26 numero 51-53 torre central piso 8 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 10:36 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 11:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Abr/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7820860 | RESPUESTA A OBSERVACIONES | 30/Abr/2025 - 04:17 pm |  | - |

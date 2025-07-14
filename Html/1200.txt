@@ -1,0 +1,245 @@
+Title: Licitaciones - PERSONERÍA DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680aafe5414d16.62220970
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 06:36:57
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+: ADQUISICIÓN DE ELEMENTOS DE CONFORT ERGONÓMICO E HIGIENE POSTURAL PARA LOS FUNCIONARIOS(AS) DE LA PERSONERÍA DE BOGOTÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46182200 - Equipo de apoyo ergonómico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario", "licicodigos": "105,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 21 - 24 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 04:37 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+13/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/May/2025 - 02:10 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/May/2025 - 06:00 am | 30/Nov/2027 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/May/2025 - 06:00 am | 30/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** R&B SOLUCIONES INTEGRALES SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 11,318,000
+
+**Informes proceso de selección CO1.AWD.2247599 de 13/May/2025 - 05:11 am. Valor $11.318.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 07:17 pm |  |
+| Informe de selección | 13/May/2025 - 05:11 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247599**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** R&B SOLUCIONES INTEGRALES SAS * **Tipo documento:** NIT * **Documento:** 901777270 | * **Nombre:** Miguel Angel Rodriguez Sanchez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1010236113 | Bogotá - Distrito Capital de Bogotá | $11.318.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247599****
+
+**Cuantía a la firma del contrato:**
+
+$ 11,318,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247599 | Informe de selección CO1.AWD.2247599 | 13/May/2025 - 05:11 pm |  | - |
+| Objeciones | CO1.MSG.7864485 | [Respondido] RE:onservacion | 13/May/2025 - 05:10 pm |  | - |
+| Objeciones | CO1.MSG.7864485 | onservacion | 12/May/2025 - 08:45 am |  | - |
+| Reporte preliminar | CO1.AWD.2247599 | Informe de evaluación 1 CO1.AWD.2247599 | 09/May/2025 - 07:17 pm |  | - |
+| General | CO1.MSG.7854141 | REQUERIMIENTO PARA SUBSANAR | 08/May/2025 - 03:17 pm |  | - |
+| Avisos | CO1.REQ.7997552 | Publicación modificación | 07/May/2025 - 06:38 pm |  |  |
+| General | CO1.MSG.7841575 | REQUERIMIENTO PARA SUBSANAR | 06/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7835496 | REQUERIMIENTO SUBSANACIÓN | 05/May/2025 - 05:26 pm |  | - |
+| Avisos | CO1.REQ.7997552 | Publicación modificación | 30/Abr/2025 - 06:37 pm |  |  |
+| General | CO1.MSG.7822192 | ALCANCE AL REQUERIMIENTO SUBSANACIÓN | 30/Abr/2025 - 06:16 pm |  | - |
+| Avisos | CO1.MSG.7818038 | La lista de oferentes del proceso PB-MC-2025-0023 publicada por PERSONERÍA DE BOGOTA | 30/Abr/2025 - 10:45 am |  | - |
+| General | CO1.MSG.7814071 | REQUERIMIENTO SUBSANACIÓN | 29/Abr/2025 - 03:55 pm |  | - |
+| General | CO1.MSG.7806276 | NO LIMITACIÓN A MIPYMES | 28/Abr/2025 - 12:45 pm |  | - |

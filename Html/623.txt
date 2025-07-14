@@ -1,0 +1,290 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e3d433ce4b0.43750003
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 14:47:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LOS SERVICIOS DE INGENIERÍA DE SOFTWARE, PARA EL DESARROLLO DE MEJORAS O NUEVAS FUNCIONALIDADES PARA EL SISTEMA DE CERTIFICACIÓN DE PERITOS FORENSES PLATAFORMA WEB PROPIEDAD DEL INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232400 - Programas de desarrollo
+
+**Códigos adicionales UNSPSC:**
+
+43232408 - Software de desarrollo de plataformas web
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 13A No. 6A-97 Primer Piso, Bogotá D.C Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+VISITA NO OBLIGATORIA: Visita virtual de aclaración de las especificaciones técnicas Los interesados en presentar propuesta pueden asistir a una visita virtual en la cual se aclararán y resolverán inquietudes respecto a las especificaciones técnicas del aplicativo y a los requerimientos funcionales. Esta visita se realizará de acuerdo con el cronograma del proceso de contratación. El abstenerse de estar presente en la visita virtual, no será justificación para no entregar la nueva versión del aplicativo web que cumpla con los requerimientos funcionales y especificaciones técnicas solicitadas. Ver numeral 3.1.2. de los ESTUDIOS PREVIOS.
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Consultoría
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 12:28 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 09:20 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 12:00 am | 31/Oct/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jun/2025 - 12:00 am | 31/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 03/Jun/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INMOTICA LTDA | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 49,990,000
+
+**Informes proceso de selección CO1.AWD.2262718 de 06/Jun/2025 - 10:50 am. Valor $49.990.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 10:12 am |  |
+| Informe de evaluación | 28/May/2025 - 10:12 am |  |
+| Informe de evaluación | 28/May/2025 - 10:12 am |  |
+| Informe de evaluación | 30/May/2025 - 04:20 pm |  |
+| Informe de evaluación | 30/May/2025 - 04:20 pm |  |
+| Informe de evaluación | 30/May/2025 - 04:32 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 09:45 am |  |
+| Informe de evaluación | 03/Jun/2025 - 09:45 am |  |
+| Informe de evaluación | 03/Jun/2025 - 09:45 am |  |
+| Informe de evaluación | 06/Jun/2025 - 07:32 am |  |
+| Informe de evaluación | 06/Jun/2025 - 07:32 am |  |
+| Informe de selección | 06/Jun/2025 - 10:50 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262718**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INMOTICA LTDA. * **Tipo documento:** NIT * **Documento:** 900179430 | * **Nombre:** HECTOR JAVIER LOPEZ DIAZ * **Tipo documento:** NIT * **Documento:** 80226415 | Bogotá - Distrito Capital de Bogotá | $49.990.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262718****
+
+**ID del contrato en SECOP:**
+
+090-SG-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+31/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 49,990,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7998623 | DOCUMENTOS PARA LA FIRMA DEL CONTRATO - LEY 2013 DE 2019 | 09/Jun/2025 - 07:19 am |  | - |
+| Reporte final | CO1.AWD.2262718 | Informe de selección CO1.AWD.2262718 | 06/Jun/2025 - 10:50 am |  | - |
+| Reporte preliminar | CO1.AWD.2262718 | Informe de evaluación 5 CO1.AWD.2262718 | 06/Jun/2025 - 07:32 am |  | - |
+| General | CO1.MSG.7980707 | RE: SUBSANACION ANX TECNICO | 04/Jun/2025 - 02:29 pm |  | - |
+| General | CO1.MSG.7980704 | RE: SUBSANACION | 04/Jun/2025 - 02:28 pm |  | - |
+| General | CO1.MSG.7978231 | SUBSANACION ANX TECNICO | 04/Jun/2025 - 09:34 am |  | - |
+| General | CO1.MSG.7973526 | SUBSANACION | 03/Jun/2025 - 01:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262718 | Informe de evaluación 4 CO1.AWD.2262718 | 03/Jun/2025 - 09:45 am |  | - |
+| Avisos | CO1.REQ.8220837 | Publicación modificación | 03/Jun/2025 - 08:27 am |  |  |
+| Reporte preliminar | CO1.AWD.2262718 | Informe de evaluación 3 CO1.AWD.2262718 | 30/May/2025 - 04:32 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262718 | Informe de evaluación 2 CO1.AWD.2262718 | 30/May/2025 - 04:20 pm |  | - |
+| Objeciones | CO1.MSG.7962724 | [Respondido] RE:Subsanación | 30/May/2025 - 10:55 am |  | - |
+| Objeciones | CO1.MSG.7962724 | Subsanación | 29/May/2025 - 08:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262718 | Informe de evaluación 1 CO1.AWD.2262718 | 28/May/2025 - 10:12 am |  | - |
+| Avisos | CO1.MSG.7940363 | Publicación de la lista de ofertas del proceso MiC-009-SG-2025. | 26/May/2025 - 07:30 pm |  | - |
+| Avisos | CO1.MSG.7934691 | La lista de oferentes del proceso MiC-009-SG-2025 publicada por INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES | 26/May/2025 - 09:13 am |  | - |
+| General | CO1.MSG.7922801 | RESPUESTA: REPORTE DEL REGISTRO DE AUTOEVALUACIÓN DE ESTÁNDERES MÍNIMOS | 22/May/2025 - 01:59 pm |  | - |
+| General | CO1.MSG.7921472 | RESPUESTA: OBSERVACIONES EXTEMPORANEAS | 22/May/2025 - 01:59 pm |  | - |
+| Avisos | CO1.REQ.8220837 | Publicación modificación | 22/May/2025 - 09:41 am |  |  |
+| General | CO1.MSG.7908989 | RESPUESTAS OBSERVACIONES MIC-009-SG-2025 | 20/May/2025 - 05:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7909016 | RESPUESTAS A OBSERVACIONES | 20/May/2025 - 05:47 pm |  | - |
+| Avisos | CO1.REQ.8220837 | Publicación modificación | 19/May/2025 - 05:03 pm |  |  |
+| General | CO1.MSG.7901945 | AVISO LIMITACIÓN A MIPYMES | 19/May/2025 - 02:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7889576 | Observaciones Pliego de Condiciones | 15/May/2025 - 04:15 pm |  | - |
+| Aclaraciones | CO1.MSG.7878615 | OBSERVACIONES GENERALES | 14/May/2025 - 08:54 am |  | - |
+| General | CO1.MSG.7874307 | ACTA VIRTUAL VISITA NO OBLIGATORÍA - ACLARACIÓN ESPECIFICACIONES TÉCNICAS MiC-009-SG-2025 | 13/May/2025 - 02:33 pm |  | - |
+| General | CO1.MSG.7860602 | LINK VISITA NO OBLIGATORÍA - ACLARACIÓN REQUERIMIENTOS TÉCNICOS | 09/May/2025 - 03:24 pm |  | - |

@@ -1,0 +1,264 @@
+Title: Licitaciones - MUNICIPIO DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68083099c12163.61235018
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 02:49:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE IMPRESORAS 3D, ELEMENTOS DE AUDIO Y CÁMARA PROFESIONAL PARA LOS PUNTOS VIVE DIGITAL DEL MUNICIPIO DE BUCARAMANGA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Códigos adicionales UNSPSC:**
+
+45121504 - Cámaras digitales,45111713 - Amplificador de distribución de audio,43211719 - Micrófonos de voz para computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "115,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 35 No. 10-43 FASE I PISO 2 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212100, 45121504, 45111713, 43211719 | ADQUISICIÓN DE IMPRESORAS 3D, ELEMENTOS DE AUDIO Y CÁMARA PROFESIONAL PARA LOS PUNTOS VIVE DIGITAL DEL MUNICIPIO DE BUCARAMANGA | Mínima cuantía | Recursos propios | $80.040.372 | SECRETARIA ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 06:59 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 08:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 08:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/May/2025 - 05:00 pm | 06/Dic/2025 - 11:59 pm |
+| Pago de salarios | 20,00 | 02/May/2025 - 05:00 pm | 06/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 02/May/2025 - 05:00 pm | 06/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 05:33 pm | * **Nombre:** sommers Briggite campos campos | Bucaramanga - Santander |
+| 2 | 28/Abr/2025 - 06:10 pm | * **Nombre:** RAMIRO BAUTISTA CACERES | Bucaramanga - Santander |
+| 3 | 28/Abr/2025 - 10:55 pm | * **Nombre:** Comred SAS | Bucaramanga - Santander |
+| 4 | 29/Abr/2025 - 08:46 am | * **Nombre:** MULTITINTAS.INK S.A.S | Bucaramanga - Santander |
+| 5 | 29/Abr/2025 - 08:55 am | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+| 6 | 29/Abr/2025 - 08:55 am | * **Nombre:** ASIA DEL PACIFICO SAS | Bucaramanga - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 47,105,952
+
+**Informes proceso de selección CO1.AWD.2239572 de 06/May/2025 - 02:26 am. Valor $47.105.952**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 05:39 pm |  |
+| Informe de evaluación | 06/May/2025 - 12:33 pm |  |
+| Informe de selección | 06/May/2025 - 02:26 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2239572**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MULTITINTAS.INK S.A.S * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 901378857 | * **Nombre:** NIÑO SALCEDO LUIS FRANCISCO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 17594443 | Bucaramanga - Santander | $47.105.952 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2239572****
+
+**Cuantía a la firma del contrato:**
+
+$ 47,105,952
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2239572 | Informe de selección CO1.AWD.2239572 | 06/May/2025 - 02:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239572 | Informe de evaluación 2 CO1.AWD.2239572 | 06/May/2025 - 12:33 pm |  | - |
+| Objeciones | CO1.MSG.7828110 | [Respondido] RE:SUBSANACIÓN ASPECTOS TÉCNICOS JURIDICOS Y ECONÓMICOS | 06/May/2025 - 12:31 pm |  | - |
+| Objeciones | CO1.MSG.7828110 | SUBSANACIÓN ASPECTOS TÉCNICOS JURIDICOS Y ECONÓMICOS | 02/May/2025 - 06:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239572 | Informe de evaluación 1 CO1.AWD.2239572 | 30/Abr/2025 - 05:39 pm |  | - |
+| Avisos | CO1.MSG.7821897 | Publicación de la lista de ofertas del proceso SA-SA-MC-004-2025. | 30/Abr/2025 - 05:34 pm |  | - |
+| General | CO1.MSG.7819320 | Acta de Cierre y Apertura Proceso de Mínima Cuantía SA-SA-MC-004-2025 IMPRESORAS 3D | 30/Abr/2025 - 01:49 pm |  | - |
+| Avisos | CO1.MSG.7819336 | La lista de oferentes del proceso SA-SA-MC-004-2025 publicada por MUNICIPIO DE BUCARAMANGA | 30/Abr/2025 - 01:49 pm |  | - |
+| Avisos | CO1.REQ.8104716 | Publicación modificación | 25/Abr/2025 - 06:48 pm |  |  |
+| General | CO1.MSG.7802202 | RESPUESTA OBSERVACIONES A LA INVITACION PUBLICA DEL PROCESO DE MINIMA CUANTIA SA-SA-MC-004-2025 IMPRESORAS 3D | 25/Abr/2025 - 05:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7802228 | RE: SOLICITUD DE LIMITACION A MIPYMES NACIONAL, Solicitud - Limitación Mipyme Nacional, Solicitud de aclaraciones | 25/Abr/2025 - 05:47 pm |  | - |
+| General | CO1.MSG.7802188 | DESIGNACION DE COMITE EVALUADOR PROCESO DE MINIMA CUANTIA SA-SA-MC-004-2025 IMPRESORAS 3D | 25/Abr/2025 - 05:44 pm |  | - |
+| General | CO1.MSG.7802180 | AVISO LIMITACION PROCESO DE MINIMA CUANTIA SA-SA-MC-004-2025 IMPRESORAS 3D | 25/Abr/2025 - 05:43 pm |  | - |
+| Avisos | CO1.REQ.8104716 | Publicación modificación | 24/Abr/2025 - 06:37 pm |  |  |
+| Aclaraciones | CO1.MSG.7789471 | Solicitud de aclaraciones | 23/Abr/2025 - 06:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7788930 | SOLICITUD DE LIMITACION A MIPYMES NACIONAL | 23/Abr/2025 - 05:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7788277 | Solicitud - Limitación Mipyme Nacional | 23/Abr/2025 - 04:24 pm |  | - |

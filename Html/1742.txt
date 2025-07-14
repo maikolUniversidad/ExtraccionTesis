@@ -1,0 +1,108 @@
+Title: Licitaciones - TERMINAL DE TRANSPORTE S.A
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ae2197b7b97.25496039
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Realizar pruebas de vulnerabilidad a los activos de información conforme a la norma ISO 27001
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores,43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador,43222500 - Equipo de seguridad de red,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,60104900 - Materiales de física de electricidad,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Mantenimiento e instalación de equipos de cómputo, -Seguridad informática", "licicodigos": "103,106,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 23 #69-60 Ofi 502 BOGOTA Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 12:21 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 01:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8109430 | RE: Observaciones | 02/Jul/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8105308 | RE: Observaciones PWC - COT-37-2025 | 02/Jul/2025 - 09:48 am |  | - |
+| Avisos | CO1.REQ.8458730 | Publicación modificación | 02/Jul/2025 - 09:33 am |  |  |
+| Aclaraciones | CO1.MSG.8105071 | RE: OBSERVACIONES TERMINAL DE TRANSPORTE S.A | 02/Jul/2025 - 09:23 am |  | - |
+| General | CO1.MSG.8104792 | RE: Solicitud Ampliación | 02/Jul/2025 - 09:05 am |  | - |
+| Aclaraciones | CO1.MSG.8100014 | RE: OBSERVACIONES DS | 01/Jul/2025 - 12:19 pm |  | - |
+| Aclaraciones | CO1.MSG.8093236 | OBSERVACIONES TERMINAL DE TRANSPORTE S.A | 27/Jun/2025 - 12:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8093137 | OBSERVACIONES DS | 27/Jun/2025 - 12:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8091751 | Observaciones PWC - COT-37-2025 | 27/Jun/2025 - 09:37 am |  | - |

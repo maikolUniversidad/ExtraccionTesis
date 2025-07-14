@@ -1,0 +1,122 @@
+Title: Licitaciones - COLEGIO CODEMA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68084a1a60b697.87417218
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-22 21:02:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO O ACTUALIZACIÓN DE PROGRAMA PRESUPUESTAL Y DE INVENTARIOS PARA LAS AREAS DE PAGADURIA Y ALMACEN VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 2 93 28 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 02:44 pm
+
+**Fecha de Firma del Contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+10/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

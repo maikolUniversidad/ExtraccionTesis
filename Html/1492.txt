@@ -1,0 +1,136 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA SAN AGUSTIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826ef90a746a1.68700218
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 08:09:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+servicio de mantenimiento, reparación y suministro de equipos de cómputo de las salas de sistemas de la institución educativa san Agustín.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Samaná
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 5A #8-60 Samaná Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 5,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112204, 81112300 | Mantenimiento de equipos de computo con el fin de mejorar el sistema de procesamiento de informacion y reparacion de partes inservibles como teclado entre otros Formación integral FI | Contratación régimen especial - Régimen especial | SGP | $5.000.000 | CONTRATACION I.E SAN AGUSTIN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:22 pm
+
+**Fecha de Firma del Contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8268547 | Publicación modificación | 21/May/2025 - 10:20 am |  |  |
+| Avisos | CO1.REQ.8268547 | Publicación modificación | 20/May/2025 - 12:51 pm |  |  |
+| Avisos | CO1.REQ.8268547 | Publicación modificación | 19/May/2025 - 04:47 pm |  |  |
+| Avisos | CO1.REQ.8268547 | Publicación modificación | 19/May/2025 - 09:05 am |  |  |
+| Avisos | CO1.REQ.8268547 | Publicación modificación | 15/May/2025 - 03:50 pm |  |  |

@@ -1,0 +1,94 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cd9f60282f1.06237171
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:35:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ID-606 Adquirir una solución tecnológica de captura y análisis de datos Sistema Distrital de Archivos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232304 - Software de sistemas de manejo de base datos
+
+**Códigos adicionales UNSPSC:**
+
+80101600 - Gerencia de proyectos,80101601 - Estudios de factibilidad o selección de ideas de proyectos,80101604 - Planificación o administración de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 8 No. 10 - 65 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 02:34 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 11:59 pm

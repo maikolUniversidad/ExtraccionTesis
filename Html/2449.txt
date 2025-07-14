@@ -1,0 +1,103 @@
+Title: Licitaciones - SERVICIO GEOLOGICO COLOMBIANO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834a72266e429.01825954
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:18:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la adquisición de una solución de videoconferencia de tecnología LED para el auditorio de la sede principal del Servicio Geológico Colombiano.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45111600 - Proyectores y suministros
+
+**Códigos adicionales UNSPSC:**
+
+52161500 - Equipos audiovisuales,45111500 - Atriles, sistemas de sonido y accesorios,52161600 - Accesorios de equipo audiovisual
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales", "licicodigos": "104,105,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+DIAGONAL 53 NO. 34-53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 11:51 am
+
+**Plazo para solicitar aclaraciones:**
+
+29/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7996435 | Respuesta observaciones | 06/Jun/2025 - 05:10 pm |  | - |
+| General | CO1.MSG.7960390 | FECHA VISITAS | 29/May/2025 - 03:45 pm |  | - |
+| Avisos | CO1.REQ.8320618 | Publicación modificación | 29/May/2025 - 03:41 pm |  |  |
+| Aclaraciones | CO1.MSG.7952094 | OBSERVACIÓN AL PROCESO SGC-PSI-060-2025 SOLICITUD DE INFORMACIÓN | 28/May/2025 - 02:42 pm |  | - |

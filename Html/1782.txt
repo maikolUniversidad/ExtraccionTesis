@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL ANTIOQUIA Grupo Administrativo CTTAOA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c2e97e9a476.46583504
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 17:14:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Solicitud de Cotización para Contratar la compra de materiales y elementos necesarios para atender los programas de formación en el área de sistemas y diseño de software, en el Complejo Tecnológico Turístico y Agroindustrial del Occidente Antioqueño.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Santafé De Antioquia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232000 - Software de entretenimiento o juegos de computador
+
+**Códigos adicionales UNSPSC:**
+
+43222609 - Enrutadores (routers) de red,43202005 - Tarjeta flash de almacenamiento de memoria,43201800 - Dispositivos de almacenamiento,43232200 - Software de gestión de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro partes de computador y/o Periféricos, -Herramientas manuales, -Materiales para redes de comunicación", "licicodigos": "103,105,123,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 11 No. 12-42 y demas municipios segun minuta y pliegos Santafé De Antioquia Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 12:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Jun/2025 - 12:00 pm

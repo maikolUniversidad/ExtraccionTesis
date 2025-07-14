@@ -1,0 +1,243 @@
+Title: Licitaciones - GOBERNACION DEL AMAZONAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ca8fccd9571.76417502
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:33:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRAVENTA DEL CLOUD HOSTING, LICENCIAS DE POWER BI PREMIUM, DOMINIOS WEB Y LICENCIA APPSHEET PARA SECRETARIA DE PLANEACIÓN Y DESARROLLO TERRITORIAL DE LA GOBERNACIÓN DEL AMAZONAS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+
+81112105 - Servicios de hospedaje de operación de sitios web,81112106 - Proveedores de servicios de aplicación,81112107 - Nombres de los dominio de internet
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 10 # 10 - 77 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105, 81112106, 81112107, 81112501, 81112502 | DCTI- 013 - COMPRAVENTA DEL CLOUD HOSTING Y LICENCIAS DE POWER BI PARA LA SECRETARIA DE PLANEACIÓN Y DESARROLLO TERRITORIAL DE LA GOBERNACIÓN DEL AMAZONAS | Contratación directa | Recursos propios | $51.000.000 | Contratación Gobernación de Amazonas |
+| 80111620 | DCTI- 025-PRESTACIÓN DE SERVICIOS DE UN PROFESIONAL COMO APOYO AL PROGRAMA DE OBSERVATORIO ESTADISTICO DEL AMAZONAS Y AMAZONAS CIENCIA PARA LA VIDA, DE LA DIRECCION DE CIENCIA, TECNOLOGÍA E INNOVACIÓN ADSCRITA A LA SECRETARIA DE PLANEACIÓN Y DESARROLLO TERRITORIAL DE LA GOBERNACIÓN DE AMAZONAS. | Contratación directa | Recursos propios | $47.300.000 | Contratación Gobernación de Amazonas |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 11:05 am
+
+**Publicación de la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+27/May/2025 - 02:01 pm
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 02:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,950,000
+
+**Informes proceso de selección CO1.AWD.2272206 de 18/Jun/2025 - 09:16 am. Valor $18.950.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 06:28 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:22 am |  |
+| Informe de selección | 18/Jun/2025 - 09:16 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272206**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Royal Tech Group SAS * **Tipo documento:** NIT * **Documento:** 901394655 | * **Nombre:** Hector David Mendoza Arroyo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1140834004 | Barranquilla - Atlántico | $18.950.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272206****
+
+**ID del contrato en SECOP:**
+
+1655-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+20/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 18,950,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272206 | Informe de selección CO1.AWD.2272206 | 18/Jun/2025 - 09:16 am |  | - |
+| Objeciones | CO1.MSG.7989418 | [Respondido] RE:Observación a informe - Proceso 032-2025 - SUBSANACION | 17/Jun/2025 - 09:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272206 | Informe de evaluación 2 CO1.AWD.2272206 | 16/Jun/2025 - 08:22 am |  | - |
+| Avisos | CO1.MSG.7998412 | Publicación de la lista de ofertas del proceso GOB-AMA-MC-32-2025. | 08/Jun/2025 - 07:12 pm |  | - |
+| Avisos | CO1.MSG.7998411 | La lista de oferentes del proceso GOB-AMA-MC-32-2025 publicada por GOBERNACION DEL AMAZONAS | 08/Jun/2025 - 07:12 pm |  | - |
+| Objeciones | CO1.MSG.7989418 | Observación a informe - Proceso 032-2025 - SUBSANACION | 05/Jun/2025 - 04:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272206 | Informe de evaluación 1 CO1.AWD.2272206 | 04/Jun/2025 - 06:28 pm |  | - |
+| General | CO1.MSG.7936717 | RESPUESTA OBSERVACIONES | 26/May/2025 - 12:57 pm |  | - |
+| Avisos | CO1.REQ.8288412 | Publicación modificación | 21/May/2025 - 07:56 am |  |  |

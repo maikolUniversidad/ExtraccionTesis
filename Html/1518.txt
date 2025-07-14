@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834676242e295.10638859
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 05:56:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE ELEMENTOS DE OFICINA, PAPELERIA Y UTILES DE ESCRITORIO REQUERIDOS PARA EL INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN Y SUS DIFERENTES SEDES EDUCATIVAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44122000 - Carpetas de archivo, carpetas y separadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 16 VIA A PAMPLONA VEREDA ROSABLANCA Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,600,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44122000 | ADQUISICION DE ELEMENTOS DE OFICINA REQUERIDO PARA LA CIUDADELA GUSTAVO DUARTE ALEMAN | Contratación régimen especial - Régimen especial | SGP | $3.600.000 | INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 07:57 am
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/May/2025 - 10:00 am
+
+**Plazo de ejecución del contrato:**
+
+13/Jun/2025 - 12:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

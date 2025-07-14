@@ -1,0 +1,223 @@
+Title: Licitaciones - MUNICIPIO DE BERBEO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681131f5957032.27854081
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 01:54:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO E INSTALACIÓN DE ELEMENTOS DE OFICINA Y EQUIPOS DE COMPUTO PARA EL FUNCIONAMIENTO Y FORTALECIMIENTO DE LA ALCALDÍA MUNICIPAL BAJO LA MODALIDAD DE MONTO AGOTABLE DEL MUNICIPIO DE BERBEO BOYACÁ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Berbeo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56112103 - Sillas para visitantes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Mobiliario, -Seguridad informática", "licicodigos": "104,105,128,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 3 No. 5-23 Palacio Municipal Berbeo Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 02:41 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+29/Abr/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/May/2025 - 09:00 am
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+02/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 10:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 30/Abr/2025 - 11:01 am | * **Nombre:** CRR SOLUCIONES INTEGRALES S.A.S | Neiva - Huila |
+| 2 | 02/May/2025 - 07:56 am | * **Nombre:** CRISTIAN FELIPE MOGOLLON ALVAREZ | Tunja - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,000,000
+
+**Informes proceso de selección CO1.AWD.2244234 de 07/May/2025 - 06:42 am. Valor $18.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/May/2025 - 03:07 pm |  |
+| Informe de selección | 07/May/2025 - 06:42 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2244234**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CRISTIAN FELIPE MOGOLLON ALVAREZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1007400817 | * **Nombre:** CRISTIAN FELIPE MOGOLLON ALVAREZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1007400817 | Tunja - Boyacá | $18.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2244234****
+
+**Cuantía a la firma del contrato:**
+
+$ 18,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2244234 | Informe de selección CO1.AWD.2244234 | 07/May/2025 - 06:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2244234 | Informe de evaluación 1 CO1.AWD.2244234 | 06/May/2025 - 03:07 pm |  | - |
+| Avisos | CO1.MSG.7823622 | Publicación de la lista de ofertas del proceso PC-MB-MC-020-2025. | 02/May/2025 - 08:04 am |  | - |
+| Avisos | CO1.MSG.7823620 | La lista de oferentes del proceso PC-MB-MC-020-2025 publicada por MUNICIPIO DE BERBEO | 02/May/2025 - 08:04 am |  | - |
+| General | CO1.MSG.7822949 | AVISO DE LIMITACION | 01/May/2025 - 09:33 am |  | - |
+| Aclaraciones | CO1.MSG.7820902 | RE: Observacion | 30/Abr/2025 - 04:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7819290 | Observacion | 30/Abr/2025 - 01:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7817380 | Solicitud Mipymes Domiciliadas en el departamento de Boyacá | 30/Abr/2025 - 09:39 am |  | - |

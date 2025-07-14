@@ -1,0 +1,94 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bd2629f1360.16654720
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 09:51:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de mantenimiento preventivo y correctivo de la plataforma informática de la Regional Occidente del Instituto Nacional de Medicina Legal y Ciencias Forenses.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Pereira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103200 - Máquinas y accesorios de registrar la hora para la oficina
+
+**Códigos adicionales UNSPSC:**
+
+46171600 - Equipo de vigilancia y detección,73152100 - Servicios de mantenimiento y reparación de equipo de manufactura,81112200 - Mantenimiento y soporte de software,44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AV DE LAS AMERICAS # 98 - 25 Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 04:33 pm
+
+**Plazo para solicitar aclaraciones:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 05:00 pm

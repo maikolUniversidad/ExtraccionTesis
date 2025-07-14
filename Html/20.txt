@@ -1,0 +1,242 @@
+Title: Licitaciones - DIRECCION DE ANTINARCOTICOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682a055a3a8e29.20297521
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:40:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE ORDENADORES DE ALTO RENDIMIENTO TIPO WORKSTATION PARA EL ÁREA INTERVENCIÓN DE CULTIVOS ILÍCITOS DE LA DIRECCIÓN DE ANTINARCÓTICOS - POLICÍA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211507 - Computadores de escritorio,43211508 - Computadores personales,43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador,43233500 - Software de intercambio de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "104,105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+Aeropuerto Internacional El Dorado Entrada N°6 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+18/May/2025 - 10:44 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 11:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+05/Jun/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+08/Jul/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+09/Jul/2025 - 06:13 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jul/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jul/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+23/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Jul/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+30/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 10:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+01/Ago/2025 - 10:00 pm
+
+**Firma del Contrato:**
+
+06/Ago/2025 - 09:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Ago/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Ago/2025 - 10:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/Ago/2025 - 09:00 pm | 25/Jul/2026 - 11:00 am |
+| Pago de salarios | 5,00 | 06/Ago/2025 - 09:00 pm | 30/May/2028 - 11:00 am |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 06/Ago/2025 - 09:00 pm | 30/May/2027 - 11:00 am |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+30/Jul/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+30/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+30/Jul/2025 - 03:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8152996 | OBSERVACIONES COMWARE | 10/Jul/2025 - 06:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8152015 | OBSERVACIONES | 10/Jul/2025 - 05:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8151583 | Observación Pliego Definitivo | 10/Jul/2025 - 04:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8135743 | RE: OBSERVACIONES PROYECTO DE PLIEGO, OBSERVACIONES | 08/Jul/2025 - 03:11 pm |  | - |
+| General | CO1.MSG.8125542 | Actualización cronograma | 07/Jul/2025 - 08:50 am |  | - |
+| Aclaraciones | CO1.MSG.7931302 | OBSERVACIONES PROYECTO DE PLIEGO | 23/May/2025 - 04:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7929682 | OBSERVACIONES | 23/May/2025 - 02:12 pm |  | - |

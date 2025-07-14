@@ -1,0 +1,126 @@
+Title: Licitaciones - CGR-NIVEL CENTRAL - Régimen Especial CGR-210-SCC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68509e25f23248.07666928
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:22:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicios de consultoría para desarrollar la Fase III de implementación de una estrategia de gestión del cambio y comunicaciones, con enfoque de género y diversidad, con el objetivo de fortalecer la cultura digital, en el marco del Programa para la Transformación Digita
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 69 # 44-35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,200,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101600 | Consultoría para desarrollar la Fase III de implementación de una estrategia de gestión del cambio y comunicaciones, orientada al uso de herramientas y tecnologías de información y productividad, destinada a los servidores públicos de la Contraloría General de la República (CGR), incluyendo regionales con enfoque de género y diversidad, con el objetivo de fortalecer la cultura digital, en el marco del Programa para la Transformación Digital. 80116-43 | Contratación régimen especial - Banco multilateral y organismos multilaterales | CreditResources | $1.200.000.000 | GESTION CONTRACTUAL CGR NIVEL CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 04:14 pm
+
+**Fecha de Firma del Contrato:**
+
+30/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/Ago/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+13/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

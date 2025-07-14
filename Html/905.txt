@@ -1,0 +1,266 @@
+Title: Licitaciones - GOBERNACIÓN DE RISARALDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683601067b7b69.63726161
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-28 09:11:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE SOFTWARE PARA GESTIÓN DE CITAS Y/O TURNOS TIPO SAAS INCLUYE EQUIPOS; PARA LA SECRETARÍA DE HACIENDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Pereira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112400 - Servicios de alquiler o arrendamiento de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Turnos digitales o digiturnos", "licicodigos": "102,238" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 19 N°13-17 PISO 4 Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112400, 81112500 | SERVICIO DE SOFTWARE PARA GESTIÓN DE CITAS Y/O TURNOS TIPO SAAS INCLUYE EQUIPOS;PARA LA SECRETARÍA DE HACIENDA. | Mínima cuantía | Recursos propios | $36.541.370 | SECRETARÍA DE HACIENDA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 12:54 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+03/Jun/2025 - 12:03 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+10/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 50 |
+| 2 | 50 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** LA COMPUTIENDA | Pereira - Risaralda |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 32,746,539
+
+**Informes proceso de selección CO1.AWD.2272936 de 09/Jun/2025 - 05:02 am. Valor $32.746.539**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 03:01 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:01 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:01 pm |  |
+| Informe de selección | 09/Jun/2025 - 05:02 pm |  |
+| Informe de selección | 09/Jun/2025 - 05:02 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272936**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LA COMPUTIENDA S.A.S. * **Tipo documento:** NIT * **Documento:** 900885138 | * **Nombre:** JEYSON FABIAN MEJIA PORRAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10024069 | Pereira - Risaralda | $32.746.539 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272936****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7959437
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 32,746,539
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272936 | Informe de selección CO1.AWD.2272936 | 09/Jun/2025 - 05:02 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272936 | Informe de evaluación 1 CO1.AWD.2272936 | 05/Jun/2025 - 03:01 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273035 | Informe de evaluación 1 CO1.AWD.2273035 | 05/Jun/2025 - 02:52 pm |  | - |
+| Avisos | CO1.MSG.7973126 | La lista de oferentes del proceso STIC-IPMC-014-2025 publicada por GOBERNACIÓN DE RISARALDA | 03/Jun/2025 - 12:28 pm |  | - |
+| Avisos | CO1.REQ.8282485 | Publicación modificación | 29/May/2025 - 04:42 pm |  |  |
+| Aclaraciones | CO1.MSG.7961040 | RE: Observaciones a estudios previos y cotizaciones | 29/May/2025 - 04:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7948621 | Observaciones a estudios previos y cotizaciones | 28/May/2025 - 08:56 am |  | - |

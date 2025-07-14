@@ -1,0 +1,249 @@
+Title: Licitaciones - INSTITUCION UNIVERSITARIA DE ENVIGADO - Contratación mínima cuantía MC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812911e6032b3.60173276
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 06:40:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DEL LICENCIAMIENTO DE LA SOLUCIÓN VEEAM BACKUP Y VMWARE CON EL QUE CUENTA A LA INSTITUCIÓN UNIVERSITARIA DE ENVIGADO, PARA ASEGURAR EL RESPALDO DE LA INFORMACIÓN Y ADMINISTRACIÓN DE SERVIDORES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+43233400 - Software de controladores de dispositivos y utilidades
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra, 27 B # 39A Sur - 57 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+365 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | LICENCIAS VMWARE- VEAM BACKUP | Mínima cuantía | Recursos propios | $36.480.696 | Informatica |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 03:43 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+30/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+02/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+02/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+05/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+07/May/2025 - 10:04 am
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 10:06 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+13/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 13/May/2025 - 08:00 am | 18/Sep/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 13/May/2025 - 08:00 am | 18/Sep/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NOVOTECHNO DE COLOMBIA S.A.S. | Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 35,693,891
+
+**Informes proceso de selección CO1.AWD.2246372 de 13/May/2025 - 03:53 am. Valor $35.693.891**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 04:29 pm |  |
+| Informe de evaluación | 12/May/2025 - 04:11 pm |  |
+| Informe de selección | 13/May/2025 - 03:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246372**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NOVOTECHNO DE COLOMBIA S.A.S. * **Tipo documento:** NIT * **Documento:** 900443000 | * **Nombre:** JAIME ANDRES SALAZAR ESCOBAR * **Tipo documento:** NIT * **Documento:** 71314025 | - Antioquia | $35.693.891 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246372****
+
+**Cuantía a la firma del contrato:**
+
+$ 35,693,891
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246372 | Informe de selección CO1.AWD.2246372 | 13/May/2025 - 03:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246372 | Informe de evaluación 2 CO1.AWD.2246372 | 12/May/2025 - 04:11 pm |  | - |
+| General | CO1.MSG.7858764 | Subsanación Novotechno | 09/May/2025 - 10:54 am |  | - |
+| Reporte preliminar | CO1.AWD.2246372 | Informe de evaluación 1 CO1.AWD.2246372 | 08/May/2025 - 04:29 pm |  | - |
+| Avisos | CO1.MSG.7844720 | Publicación de la lista de ofertas del proceso MC - 20250007_1. | 07/May/2025 - 12:17 pm |  | - |
+| Avisos | CO1.MSG.7844718 | La lista de oferentes del proceso MC - 20250007_1 publicada por INSTITUCION UNIVERSITARIA DE ENVIGADO | 07/May/2025 - 12:17 pm |  | - |

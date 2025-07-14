@@ -1,0 +1,367 @@
+Title: Licitaciones - APOYO LOGISTICO COMANDO EJERCITO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d1c5d286419.45269170
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:38:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE BANNER, PAPELERÍA Y TINTAS PARA EL FORTALECIMIENTO DE LAS OPERACIONES MILITARES DESDE EL ESFUERZO NO ARMADO A CARGO DEL COMANDO DE APOYO DE ACCIÓN INTEGRAL Y DESARROLLO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60121905 - Lienzos estampables
+
+**Códigos adicionales UNSPSC:**
+
+14111507 - Papel para impresora o fotocopiadora,14101501 - Pulpa de papel,12171703 - Tintas,44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Litografía e Impresión a gran formato, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,155,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 54 N. 26 – 25 CAN Edificio Fortaleza oficina 257 - Bogotá D.C Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 491,329,460
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111507, 14101501, 12171703, 44103103, 60121905 | ADQUISICIÓN DE (BANNER, PAPELERÍA Y TINTAS) PARA EL FORTALECIMIENTO DE LAS OPERACIONES MILITARES DESDE EL ESFUERZO NO ARMADO A CARGO DEL COMANDO DE APOYO DE ACCIÓN INTEGRAL Y DESARROLLO | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $491.329.460 | APOYO LOGISTICO COMANDO EJERCITO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 07:19 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 09:07 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 10:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+18/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+02/Jul/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+07/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+09/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 11:00 pm | 28/Nov/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 26/Jun/2025 - 11:00 pm | 28/Jul/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 11:00 pm | 28/Ene/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 400,330,682
+
+**Informes proceso de selección CO1.AWD.2299917 de 07/Jul/2025 - 02:55 am. Valor $400.330.682**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/Jul/2025 - 10:23 am |  |
+| Informe de selección | 07/Jul/2025 - 02:55 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2299917**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMINCOL S A S * **Tipo documento:** NIT * **Documento:** 900438841 | * **Nombre:** ALEJANDRA LEON QUINTERO * **Tipo documento:** NIT * **Documento:** 1016064940 | - Distrito Capital de Bogotá | $400.330.682 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2299917****
+
+**Contrato 076-APOYOLOGISTICO-2025 de COMINCOL S A S:**
+
+**ID del contrato en SECOP:**
+
+076-APOYOLOGISTICO-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+LA ADQUISICIÓN DE BANNER, PAPELERÍA Y TINTAS PARA EL FORTALECIMIENTO DE LAS OPERACIONES MILITARES DESDE EL ESFUERZO NO ARMADO A CARGO DEL COMANDO DE APOYO DE ACCIÓN INTEGRAL Y DESARROLLO
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 60121905 | BANNER BRILLANTE 10 OZ X 1,62 CM ANCHO | 300,00 | M | 16.583,00 | 15.700,00 | 4.145.750,00 | 4.710.000,00 |
+| 2 | 60121905 | BANNER MATTE 10 OZ X 1,62 CM ANCHO | 300,00 | M | 16.575,00 | 15,70 | 4.143.750,00 | 4.710,00 |
+| 3 | 14111507 | PAPEL BOND | 510,00 | UN | 225.000,00 | 213.700,00 | 114.750.000,00 | 108.987.000,00 |
+| 4 | 14101501 | PAPEL DE SUBLIMACIÓN | 450,00 | UN | 250.000,00 | 237.000,00 | 112.500.000,00 | 106.650.000,00 |
+| 5 | 14101501 | PAPEL DE SUBLIMACIÓN | 410,00 | UN | 59.250,00 | 56.200,00 | 23.996.250,00 | 23.042.000,00 |
+| 6 | 14101501 | PAPEL DE SUBLIMACIÓN | 410,00 | UN | 91.367,00 | 86.700,00 | 37.460.470,00 | 35.547.000,00 |
+| 7 | 12171703 | Tintas de impresión (Black) referencia:TM49M1 | 300,00 | UN | 247.143,00 | 234.700,00 | 74.142.900,00 | 70.410.000,00 |
+| 8 | 12171703 | Tintas de impresión (Cyan) referencia:TM49M2 | 198,00 | UN | 165.714,00 | 157,00 | 32.314.230,00 | 31.086,00 |
+| 9 | 12171703 | Tintas de impresión (Magenta) referencia:TM49M3 | 198,00 | UN | 165.714,00 | 157,00 | 32.314.230,00 | 31.086,00 |
+| 10 | 12171703 | Tintas de impresión (Yellow) referencia:TM49M4 | 198,00 | UN | 165.714,00 | 157.000,00 | 32.314.230,00 | 31.086.000,00 |
+| 11 | 44103103 | Cartucho de tinta ComColor FT INK R (NEGRO), referencia S-8939UA | 3,00 | UN | 3.142.857,00 | 2.985.700,00 | 9.428.571,00 | 8.957.100,00 |
+| 12 | 44103103 | Cartucho de tinta ComColor FT INK R (CIAN), referencia: S-8940UA | 1,00 | UN | 3.815.700,00 | 3.624.900,00 | 3.815.700,00 | 3.624.900,00 |
+| 13 | 44103103 | Cartucho de tinta ComColor FT INK R (MAGENTA), referencia: S-8941UA | 1,00 | UN | 3.815.700,00 | 3.624.900,00 | 3.815.700,00 | 3.624.900,00 |
+| 14 | 44103103 | Cartucho de tinta ComColor FT INK R (AMARILLO), referencia: S-8942UA | 1,00 | UN | 3.815.700,00 | 3.624.900,00 | 3.815.700,00 | 3.624.900,00 |
+
+**Fecha de terminación del contrato:**
+
+15/Ago/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 400,330,682
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 081 CONTRATO JE.pdf |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+02/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+03/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+03/Jul/2025 - 02:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2299917 | Informe de selección CO1.AWD.2299917 | 07/Jul/2025 - 02:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2299917 | Informe de evaluación 1 CO1.AWD.2299917 | 07/Jul/2025 - 10:23 am |  | - |
+| Reporte preliminar | CO1.AWD.2285346 | Informe de evaluación 4 CO1.AWD.2285346 | 07/Jul/2025 - 09:32 am |  | - |
+| Avisos | CO1.REQ.8342878 | Publicación modificación | 02/Jul/2025 - 03:13 pm |  |  |
+| Avisos | CO1.MSG.8107045 | Publicación de la lista de ofertas del proceso 081-SASI-APOYOLOGISTICO-2025 (Presentación de oferta). | 02/Jul/2025 - 01:01 pm |  | - |
+| General | CO1.MSG.8106987 | PUBLICACION EVALUACION SOBRE ECONOMICO | 02/Jul/2025 - 12:53 pm |  | - |
+| Avisos | CO1.MSG.8106397 | La lista de oferentes del proceso 081-SASI-APOYOLOGISTICO-2025 (Presentación de oferta) publicada por APOYO LOGISTICO COMANDO EJERCITO | 02/Jul/2025 - 11:33 am |  | - |
+| General | CO1.MSG.8105787 | LISTA DEFINITIVA DE HABILITADOS PARA PARTICIPAR EN LA SUBASTA | 02/Jul/2025 - 10:31 am |  | - |
+| Reporte preliminar | CO1.AWD.2285346 | Informe de evaluación 3 CO1.AWD.2285346 | 02/Jul/2025 - 10:29 am |  | - |
+| General | CO1.MSG.8100529 | LISTA PREVIA DE HABILITADOS | 01/Jul/2025 - 02:01 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285346 | Informe de evaluación 2 CO1.AWD.2285346 | 01/Jul/2025 - 01:58 pm |  | - |
+| Avisos | CO1.REQ.8342878 | Publicación modificación | 01/Jul/2025 - 10:40 am |  |  |
+| General | CO1.MSG.8097498 | Subsanación | 30/Jun/2025 - 07:52 pm |  | - |
+| General | CO1.MSG.8082191 | ADENDA 3 | 25/Jun/2025 - 05:11 pm |  | - |
+| General | CO1.MSG.8076358 | SUSSANACION UT-G1A | 24/Jun/2025 - 08:28 pm |  | - |
+| General | CO1.MSG.8072269 | SUBSANACION REQUERIMIENTOS DE EVALUACIONES | 24/Jun/2025 - 05:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285346 | Informe de evaluación 1 CO1.AWD.2285346 | 18/Jun/2025 - 08:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285324 | Informe de evaluación 1 CO1.AWD.2285324 | 18/Jun/2025 - 08:54 pm |  | - |
+| General | CO1.MSG.8043970 | Adenda 2 | 17/Jun/2025 - 05:34 pm |  | - |
+| Avisos | CO1.REQ.8342878 | Publicación modificación | 17/Jun/2025 - 05:27 pm |  |  |
+| Avisos | CO1.MSG.8028340 | Publicación de la lista de ofertas del proceso 081-SASI-APOYOLOGISTICO-2025 (Presentación de oferta). | 13/Jun/2025 - 10:18 am |  | - |
+| Avisos | CO1.MSG.8028320 | La lista de oferentes del proceso 081-SASI-APOYOLOGISTICO-2025 (Presentación de oferta) publicada por APOYO LOGISTICO COMANDO EJERCITO | 13/Jun/2025 - 10:17 am |  | - |
+| General | CO1.MSG.8013631 | ADENDA No. 1 | 11/Jun/2025 - 09:59 am |  | - |
+| Avisos | CO1.REQ.8342878 | Publicación modificación | 11/Jun/2025 - 09:58 am |  |  |
+| General | CO1.MSG.8013525 | FORMULARIO DE PREGUNTAS Y RESPIUESTAS No 2 | 11/Jun/2025 - 09:51 am |  | - |
+| General | CO1.MSG.8013526 | RESOLUCION QUE SANEA VICIO | 11/Jun/2025 - 09:50 am |  | - |
+| General | CO1.MSG.7961075 | RE: Observación pliego de condiciones | 29/May/2025 - 04:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7961059 | RE: OBSERVACION EXPERIENCIA | 29/May/2025 - 04:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7961067 | RE: solicitud Limitacion a mipyme , Solicitud Limitación a Mipyme - STRATEGY SAS | 29/May/2025 - 04:38 pm |  | - |
+| General | CO1.MSG.7961050 | LIMITACIÓN MIPYMES | 29/May/2025 - 04:37 pm |  | - |

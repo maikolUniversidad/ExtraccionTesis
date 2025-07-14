@@ -1,0 +1,90 @@
+Title: Licitaciones - SENA REGIONAL ARAUCA Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68558e563ed339.18139248
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 10:41:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de equipos y materiales de formación requeridos en la Tecnoacademia Arauca, de acuerdo con las líneas tecnológicas establecidas para el Centro de Gestión y Desarrollo Agroindustrial de Arauca
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Arauca : Arauca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40101722 - Condensador de vapor
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "UPS y baterías de gran capacidad, -Materiales para obras eléctricas en general, -Electrónica - Robótica, -Purificadores de agua y máquinas dispensadoras de bebidas", "licicodigos": "109,121,212,445" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 20 No.28-163 Arauca Arauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 11:16 am
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 11:59 pm

@@ -1,0 +1,94 @@
+Title: Licitaciones - INSTITUTO NACIONAL PARA SORDOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e326e7a4f93.37447201
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar el licenciamiento, soporte y mantenimiento del software Antivirus (SYMANTEC PROTECTION SUITE ENTERPRISE), de LA LICENCIA BASIC SUPPORT/SUBSCRIPTION VMWARE VSPHERE 8 ESSENTIALS PLUS, del software de copias de seguridad y replicación (Veeam Backup), Office 365 E5 y Zoom Pro.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,43201800 - Dispositivos de almacenamiento,43212200 - Sistemas de manejo de almacenamiento de datos de computador,43211700 - Dispositivos informáticos de entrada de datos,43233400 - Software de controladores de dispositivos y utilidades,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 89A No. 64C - 30 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 02:48 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 02:00 pm

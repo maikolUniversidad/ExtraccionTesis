@@ -1,0 +1,268 @@
+Title: Licitaciones - DIRECCIÓN DE INTELIGENCIA POLICIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68265ecf65c749.18155475
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:30:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SOPORTE, ACTUALIZACIÓN Y MANTENIMIENTO DEL EDITOR DE TEXTO DEL SISTEMA DE INTELIGENCIA POLICIAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida Boyacá 142a-55 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200 | SOPORTE ACTUALIZACION Y MANTENIMIENTO DEL EDITOR DE TEXTO DEL SISTEMA DE INTELIGENCIA POLICIAL | Mínima cuantía | Presupuesto de entidad nacional | $40.000.000 | GRUPO CONTRATOS DIPOL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 04:09 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 07:00 pm | 16/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jun/2025 - 07:00 pm | 16/Mar/2029 - 11:59 pm |
+| Calidad del servicio | 50,00 | 03/Jun/2025 - 07:00 pm | 16/Mar/2029 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ACONPIEXPRESS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,200,000
+
+**Informes proceso de selección CO1.AWD.2264473 de 11/Jun/2025 - 12:00 pm. Valor $38.200.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:18 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:18 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:04 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:04 pm |  |
+| Informe de selección | 11/Jun/2025 - 12:00 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264473**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ACONPIEXPRESS SAS * **Tipo documento:** NIT * **Documento:** 830113886 | * **Nombre:** OMAR RIVERA PINILLA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79571527 | Bogotá - Distrito Capital de Bogotá | $38.200.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264473****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7941415
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+16/Nov/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 38,200,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264473 | Informe de selección CO1.AWD.2264473 | 11/Jun/2025 - 12:00 pm |  | - |
+| Objeciones | CO1.MSG.7952202 | [Respondido] RE:SUBSANACION ACOPIEXPRESS | 11/Jun/2025 - 11:59 am |  | - |
+| Reporte preliminar | CO1.AWD.2264473 | Informe de evaluación 2 CO1.AWD.2264473 | 29/May/2025 - 05:04 pm |  | - |
+| Objeciones | CO1.MSG.7952202 | SUBSANACION ACOPIEXPRESS | 28/May/2025 - 02:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264473 | Informe de evaluación 1 CO1.AWD.2264473 | 27/May/2025 - 04:18 pm |  | - |
+| Avisos | CO1.MSG.7934283 | La lista de oferentes del proceso PN DIPOL MIC 046-2025 publicada por DIRECCIÓN DE INTELIGENCIA POLICIAL | 26/May/2025 - 08:15 am |  | - |

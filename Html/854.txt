@@ -1,0 +1,270 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE EL BAGRE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ffc5d8e8161.35674041
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-03 02:08:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS ELECTRÓNICOS Y/O DE CÓMPUTO PARA EL ÓPTIMO DESEMPEÑO DEL CONCEJO MUNICIPAL DE EL BAGRE, ANTIOQUIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : El Bagre
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211508 - Computadores personales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 49 A 48 A -55 El Bagre Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211508 | COMPRA DE 13 COMPUTADORES PORTATILES PARA EL CONCEJO MUNICIPAL DE EL BAGRE, ANTIOQUIA | Mínima cuantía | Recursos propios | $37.218.350 | CONCEJO MUNICIPAL EL BAGRE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 04:44 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 04:45 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 04:45 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 04:45 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 04:45 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 04:46 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 04:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 04:55 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 04:55 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 04:56 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 05:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+02/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 30/Abr/2025 - 01:43 pm | * **Nombre:** EQUIPARO SAS | Antioquia |
+| 2 | 30/Abr/2025 - 02:54 pm | * **Nombre:** PROMOCIONALES Y TECNOLOGICOS MEDELLIN S.A.S | Medellín - Antioquia |
+| 3 | 30/Abr/2025 - 03:44 pm | * **Nombre:** SOLUCIONES LA VICTORIA G SAS | El Bagre - Antioquia |
+| 4 | 30/Abr/2025 - 04:49 pm | * **Nombre:** DISTRIBUIDORA DE SOFTWARE Y MOVILIDAD SAS | Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 36,218,351
+
+**Informes proceso de selección CO1.AWD.2240303 de 02/May/2025 - 04:25 am. Valor $36.218.351**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 09:58 pm |  |
+| Informe de selección | 02/May/2025 - 04:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2240303**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SOLUCIONES LA VICTORIA G SAS * **Tipo documento:** NIT * **Documento:** 901276573 | * **Nombre:** JENRY ALEXANDER GARCIA TAPIAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 8356283 | El Bagre - Antioquia | $36.218.351 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2240303****
+
+**Contrato CO1.PCCNTR.7835101 de SOLUCIONES LA VICTORIA G SAS:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7835101
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS ELECTRÓNICOS Y/O DE CÓMPUTO PARA EL ÓPTIMO DESEMPEÑO DEL CONCEJO MUNICIPAL DE EL BAGRE, ANTIOQUIA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211508 | ADQUISICIÓN DE EQUIPOS ELECTRÓNICOS Y/O DE CÓMPUTO PARA EL ÓPTIMO DESEMPEÑO DEL CONCEJO MUNICIPAL DE EL BAGRE, ANTIOQUIA | 1,00 | UN | 37.218.350,00 | 36.218.351,00 | 37.218.350,00 | 36.218.351,00 |
+
+**Fecha inicio del contrato:**
+
+02/May/2025 - 05:00 pm
+
+**Fecha de terminación del contrato:**
+
+07/May/2025 - 06:00 pm
+
+**Plazo de ejecución:**
+
+3 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 36,218,351
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACIÓN DE LA OFERTA.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2240303 | Informe de selección CO1.AWD.2240303 | 02/May/2025 - 04:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2240303 | Informe de evaluación 1 CO1.AWD.2240303 | 30/Abr/2025 - 09:58 pm |  | - |
+| Avisos | CO1.MSG.7822740 | Publicación de la lista de ofertas del proceso CM 07 DE 2025. | 30/Abr/2025 - 09:35 pm |  | - |
+| Avisos | CO1.MSG.7822739 | La lista de oferentes del proceso CM 07 DE 2025 publicada por CONCEJO MUNICIPAL DE EL BAGRE | 30/Abr/2025 - 09:34 pm |  | - |
+| Avisos | CO1.REQ.8179422 | Publicación modificación | 30/Abr/2025 - 07:57 am |  |  |
+| General | CO1.MSG.7815260 | LIMITACIÓN A MIPYME | 29/Abr/2025 - 05:24 pm |  | - |
+| Avisos | CO1.REQ.8179422 | Publicación modificación | 29/Abr/2025 - 04:09 pm |  |  |
+| Aclaraciones | CO1.MSG.7813240 | RE: Observación | 29/Abr/2025 - 02:36 pm |  | - |
+| Aclaraciones | CO1.MSG.7813231 | RE: OBSERVACIÓN A REQUISITO | 29/Abr/2025 - 02:35 pm |  | - |
+| Aclaraciones | CO1.MSG.7811352 | Observación | 29/Abr/2025 - 11:30 am |  | - |
+| Aclaraciones | CO1.MSG.7810695 | OBSERVACIÓN A REQUISITO | 29/Abr/2025 - 09:19 am |  | - |

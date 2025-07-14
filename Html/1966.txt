@@ -1,0 +1,16 @@
+Title: Licitaciones - SENA REGIONAL CASANARE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a1a63a57399.53877236
+
+Markdown Content:
+**Clasificación UNSPSC por la entidad contratante:**
+
+11101704 - Acero
+
+**Códigos adicionales UNSPSC:**
+
+11111701 - Arena de sílice,47121804 - Baldes para limpieza,30131517 - Bloque de adobe,23161607 - Arena de fundición,30111601 - Cemento,30111607 - Cal viva,30151807 - Materiales para terminados exteriores,30131600 - Ladrillos,30103600 - Productos estructurales,31162000 - Clavos,31161700 - Tuercas,31161500 - Tornillos,40141700 - Material de ferretería y accesorios,30131500 - Bloques,30101500 - Ángulos,30111800 - Agregados,27112135 - Alicates aislados,11111604 - Granito,11111611 - Gravilla,11111605 - Mármol,11111700 - Arena,27112132 - Abrazaderas de fijación,27111700 - Llaves inglesas y guías,27111900 - Herramientas gruesas y de acabado,30161500 - Materiales para acabados de paredes,20102105 - Broca o barrena de acero,23153038 - Caballete,30131700 - Azulejos y baldosas,30151703 - Canaletas,30121709 - Roca triturada sin grado,20142904 - Tanque plástico,31201502 - Cinta aislante eléctrica,27111800 - Herramientas de medida y bocetaje,31191506 - Discos abrasivos,23151604 - Esmeriladoras p pulidoras,30265900 - Alambre y bandas de plástico,30102223 - Placa de enchape de madera,31211500 - Pinturas y tapa poros,46181504 - Guantes de protección,39121500 - Conmutadores, controles y relés y accesorios,39121600 - Dispositivos y accesorios para la protección de circuitos,60104702 - Kits solares,60104701 - Dispositivos de recolección solar,26111800 - Componentes de la transmisión,39101600 - Lámparas y bombillas,30111900 - Elementos para reforzar concreto,27111500 - Herramientas de corte y engarzado y punzones,56101606 - Materas,10161500 - Árboles y arbustos,27112103 - Pinza de mano,23151607 - Prensas,13111201 - Películas de polietileno,12352310 - Siliconas,30151500 - Material para tejados y techos,30103605 - Tablones de madera,30103607 - Viguetas de madera,39121700 - Ferretería eléctrica y suministros,11111601 - Yeso
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Dotación para seguridad industrial, -Maquinaria pesada y equipos para construcción, -Pintura, -Agregados pétreos, -Equipo de topografía, -Sacos terreros y geomembranas", "licicodigos": "110,121,122,123,126,131,135,219,451,460" }

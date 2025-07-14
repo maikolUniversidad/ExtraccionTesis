@@ -1,0 +1,149 @@
+Title: Licitaciones - EMPRESA DE SEGURIDAD DEL ORIENTE SAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b5d7c48531.03707608
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 15:54:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA INFRAESTRUCTURA TECNOLÓGICA A CARGO DE LA ESO RIONEGRO S.A.S.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Rionegro
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Redes de transmisión de datos (Cableado estructurado), -Alarmas, -Circuito cerrado de televisión, -Control de acceso", "licicodigos": "98,99,112,114,315" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 46 # 30-425 Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+194 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111811 | Prestación de servicios de sostenimiento y mantenimiento de la conectividad para el municipio de Rionegro (Fibra óptica) | Contratación régimen especial - Régimen especial | NotApplied | $1.105.493.200 | ESO |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/May/2025 - 04:52 pm
+
+**Fecha límite de presentación de ofertas:**
+
+22/May/2025 - 03:30 pm
+
+**Fecha límite para la apertura de sobres:**
+
+22/May/2025 - 03:31 pm
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/May/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 23/May/2025 - 12:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 23/May/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7939056 | Aclaracion en item del informe de requisitos habilitantes | 26/May/2025 - 05:01 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260666 | Informe de evaluación 1 CO1.AWD.2260666 | 23/May/2025 - 04:17 pm |  | - |
+| Avisos | CO1.MSG.7931112 | Publicación de la lista de ofertas del proceso 244-2025-IP. | 23/May/2025 - 04:15 pm |  | - |
+| Avisos | CO1.MSG.7931108 | La lista de oferentes del proceso 244-2025-IP publicada por EMPRESA DE SEGURIDAD DEL ORIENTE SAS | 23/May/2025 - 04:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7910521 | RE: OBSERVACIONES | 20/May/2025 - 04:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7902174 | OBSERVACIONES | 19/May/2025 - 02:52 pm |  | - |

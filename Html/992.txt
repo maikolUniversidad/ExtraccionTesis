@@ -1,0 +1,195 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851fccae2de96.62524622
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 10:33:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA MAQUINAS EMPACADORAS, ROTULADORAS E IMPRESORAS DE USO FINAL EN LA DIRECCIÓN DE PRODUCCIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152100 - Servicios de mantenimiento y reparación de equipo de manufactura
+
+**Códigos adicionales UNSPSC:**
+
+73152104 - Servicio de mantenimiento y reparación de equipos para empacar,72151800 - Servicios de mantenimiento y reparación de instalación de máquinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Maquinaria industrial", "licicodigos": "106,228" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 95 No. 13-08 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+149 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 73152100, 73152104, 72151800 | SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA MAQUINAS EMPACADORAS, ROTULADORAS E IMPRESORAS DE USO FINAL EN LA DIRECCIÓN DE PRODUCCIÓN | Mínima cuantía | Recursos propios | $25.000.000 | SUBDIRECCION GENERAL DE CONTRATACION ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 06:33 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 02/Jul/2025 - 12:00 am | 28/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 12:00 am | 02/Jul/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 02/Jul/2025 - 12:00 am | 28/Nov/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jul/2025 - 12:00 am | 28/Nov/2026 - 11:59 pm |

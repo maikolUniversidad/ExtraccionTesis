@@ -1,0 +1,360 @@
+Title: Licitaciones - CORMACARENA - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC-010-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68253dd68ac957.02886525
+
+Markdown Content:
+Licitaciones - CORMACARENA - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC-010-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-08 06:43:28
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN, INSTALACIÓN Y CONFIGURACIÓN DE UN FIREWALL DE NUEVA GENERACIÓN PARA LA SEGURIDAD PERIMETRAL DE LA INFRAESTRUCTURA TECNOLÓGICA CONTRA AMENAZAS CIBERNÉTICAS DE LA CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ÁREA DE MANEJO ESPECIAL LA MACARENA - CORMACARENA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Meta: Villavicencio ; Meta: La Macarena
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+39121000 - Equipamiento para distribución y conversión de alimentación
+
+**Códigos adicionales UNSPSC:**
+43211500 - Computadores,43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43211800 - Accesorios de dispositivos de entrada de datos de computador,43222500 - Equipo de seguridad de red,43222600 - Equipo de servicio de red,43222700 - Equipo telegráfico,43222800 - Equipo de telefonía,43222900 - Accesorios de equipo de telefonía,43223200 - Plataformas de mensajería por móvil,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,45111600 - Proyectores y suministros,52161500 - Equipos audiovisuales
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CRA 44C No 33B-24 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Acuerdos comerciales (Lista de países):**
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 39121000, 43211500, 43211600, 43211700, 43211800, 43211900, 43212000, 43212100, 43212200, 43221500, 43221600, 43221700, 43221800, 43222500, 43222600, 43222700, 43222800, 43222900, 43223000, 43223100, 45111600, 52161500 | Ciberseguridad PAA276 | Selección abreviada menor cuantía | Recursos propios | $80.000.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 07:52 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+21/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+22/May/2025 - 06:34 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+22/May/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+22/May/2025 - 11:59 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+22/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+22/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 11:00 am
+
+**Plazo para manifestación de interés:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 08:00 am
+
+**Apertura de Ofertas:**
+
+27/May/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 06:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+03/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jun/2025 - 12:00 pm | 15/Mar/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 04/Jun/2025 - 12:00 pm | 15/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 04/Jun/2025 - 12:00 pm | 15/May/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MEGAPROYECTOS DE TECNOLOGIA S.A.S | Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 79,864,946
+
+**Informes proceso de selección CO1.AWD.2264638 de 03/Jun/2025 - 02:22 am. Valor $79.864.946**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 07:22 pm |  |
+| Informe de evaluación | 27/May/2025 - 07:22 pm |  |
+| Informe de evaluación | 27/May/2025 - 07:22 pm |  |
+| Informe de evaluación | 27/May/2025 - 07:22 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 11:58 am |  |
+| Informe de evaluación | 03/Jun/2025 - 11:58 am |  |
+| Informe de evaluación | 03/Jun/2025 - 11:58 am |  |
+| Informe de selección | 03/Jun/2025 - 02:22 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264638**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MEGAPROYECTOS DE TECNOLOGIA S.A.S * **Tipo documento:** NIT * **Documento:** 900714956 | * **Nombre:** FABIAN GUZMAN SOTO * **Tipo documento:** NIT * **Documento:** 86079311 | - Meta | $79.864.946 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264638****
+
+**ID del contrato en SECOP:**
+
+PS-GCT.2.7.25-699
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+04/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 79,864,946
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264638 | Informe de selección CO1.AWD.2264638 | 03/Jun/2025 - 02:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264638 | Informe de evaluación 2 CO1.AWD.2264638 | 03/Jun/2025 - 11:58 am |  | - |
+| Avisos | CO1.MSG.7948852 | Publicación de la lista de ofertas del proceso SAMC-010-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 28/May/2025 - 08:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2264638 | Informe de evaluación 1 CO1.AWD.2264638 | 27/May/2025 - 07:21 pm |  | - |
+| Avisos | CO1.MSG.7941227 | La lista de oferentes del proceso SAMC-010-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CORMACARENA | 27/May/2025 - 08:17 am |  | - |
+| General | CO1.MSG.7939715 | RE: Presentacion de la Oferta | 26/May/2025 - 05:55 pm |  | - |
+| General | CO1.MSG.7939689 | RE: Plazo para manifestación de Interés | 26/May/2025 - 05:52 pm |  | - |
+| General | CO1.MSG.7930504 | RESPUESTAS A OBSERVACIONES PRESENTADAS AL PLIEGO DE CONDICIONES DEFINITIVO | 23/May/2025 - 03:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7930485 | RE: Observaciones al pliego de condiciones | 23/May/2025 - 03:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7929060 | RESPUESTA A REITERACION DE OBSERVACIONES DENTRO DEL PROCESO SAMC-010-2025 | 23/May/2025 - 12:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7927363 | Observaciones al pliego de condiciones | 23/May/2025 - 09:17 am |  | - |
+| Aclaraciones | CO1.MSG.7926720 | Observaciones al proceso | 23/May/2025 - 07:13 am |  | - |
+| General | CO1.MSG.7923979 | RESPUESTA A OBSERVACIONES PRESENTADAS POR ROYAL TECH GROUP SAS | 22/May/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7923933 | RESPUESTA A OBSERVACIONES FORMULADAS DENTRL DEL PROCESO SAMC-010-2025 | 22/May/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7917255 | Observaciones #2 al proceso CORMACARENA | 21/May/2025 - 04:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7917209 | Observaciones #1 al proceso | 21/May/2025 - 04:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7916652 | OBSERVACION | 21/May/2025 - 03:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7914436 | SOLICITUD DE LIMITACIÓN A MIPYMES MUNICIPALES-adjunto | 21/May/2025 - 10:59 am |  | - |
+| Aclaraciones | CO1.MSG.7914423 | SOLICITUD DE LIMITACIÓN A MIPYMES MUNICIPALES | 21/May/2025 - 10:57 am |  | - |
+| Aclaraciones | CO1.MSG.7911016 | sOLICITUD DE LIMITACION MIPYME | 20/May/2025 - 05:35 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:01 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

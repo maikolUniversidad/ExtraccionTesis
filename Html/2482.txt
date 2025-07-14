@@ -1,0 +1,90 @@
+Title: Licitaciones - DIRECCION DE ANTINARCOTICOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f52fe496fb4.44676224
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 09:22:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE UN PROFESIONAL CON TÍTULO EN LAS ÁREAS DE INGENIERÍA DE SISTEMAS, SOFTWARE, TELECOMUNICACIONES Y ESPECIALIZACIÓN EN ARQUITECTURA EMPRESARIAL DE SOFTWARE, ESPECIALIZACIÓN EN INGENIERÍA DEL SOFTWARE O A FINES PARA GARANTIZAR EL SOPORTE, MANTENIMIENTO Y DESARROLLO DE LOS REQUERIMIENTOS AL SISTEMA DE INFORMACIÓN CONTROL EXPORTACIONES SICEX, DE ACUERDO A LA MISIONALIDAD DEL ÁREA DE CONTROL ANTINARCÓTICOS EN PUERTOS Y AEROPUERTOS DE LA DIRECCIÓN ANTINARCÓTICOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111600 - Servicios de personal temporal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO EL DORADO ENTRADA SEIS VIA CATAM Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 11:11 am
+
+**Plazo para solicitar aclaraciones:**
+
+01/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/Jun/2025 - 12:00 pm

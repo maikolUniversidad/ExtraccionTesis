@@ -1,0 +1,94 @@
+Title: Licitaciones - MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO - MINCIT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68504f1e5a96e0.96633553
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:26:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UNA SOLUCIÓN DE INFRAESTRUCTURA PARA VIRTUALIZACION DE SERVIDORES PARA EL MINISTERIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222600 - Equipo de servicio de red
+
+**Códigos adicionales UNSPSC:**
+
+43201400 - Tarjetas del sistema,43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43202200 - Subconjuntos para dispositivos electrónicos,43211500 - Computadores,43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 No. 13A -15 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 12:01 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 12:00 pm

@@ -1,0 +1,112 @@
+Title: Licitaciones - UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826f9fff0d543.92986905
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 10:16:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir el soporte y mantenimiento anual del servicio para la migración, uso e implementación de la Plataforma de Servicios Bibliotecarios (LSP) FOLIO para los servicios de la Unidad de Biblioteca, que cumpla con los estándares de seguridad, accesibilidad, eficiencia y actualización tecnológica requeridos, en modalidad CLOUD, en el marco del Proyecto de Fortalecimiento líneas CRAI, como apoyo a la investigación y docencia de la Universidad Proyecto de Inversión Nro. 8212, de acuerdo con las co
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83121502 - Bibliotecas de universidades o colleges
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "102,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 No. 31 - 75 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 01:51 pm
+
+**Fecha de Firma del Contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+29/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

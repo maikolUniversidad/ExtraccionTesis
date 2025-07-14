@@ -1,0 +1,90 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68279b4638ed78.81242887
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-19 09:27:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.038 SOPORTE DEL CORRELACIONADOR DE EVENTOS, A EJECUTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112208 - Mantenimiento de software de protección y seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 02:40 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 08:00 am

@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA NUESTRA SEÑORA DE LAS MERCEDES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682511bed22972.26255131
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 07:33:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA PRESTACIÓN DEL SERVICIO INTEGRAL, DURANTE EL AÑO LECTIVO 2025, QUE COMPRENDE EL ACCESO CONTINUO Y SOPORTE TÉCNICO DEL SISTEMA INTEGRAL PARA LA GESTIÓN DE INFORMACIÓN ACADÉMICA, JUNTO CON LOS SERVICIOS DE MAQUETACIÓN Y ADMINISTRACIÓN DE LA PÁGINA WEB INSTITUCIONAL DE LA INSTITUCIÓN EDUCATIVA NUESTRA SEÑORA DE LAS MERCEDES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Cajibío
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112106 - Proveedores de servicios de aplicación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREGIMIENTO LA PEDREGOSA Cajibío Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,230,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112106 | SOFTWARE ACADEMICO PARA LA VIGENCIA 2024 | Contratación régimen especial - Régimen especial | SGP | $3.230.000 | UNIDAD DE CONTRATACIÓN REGIMEN ESPECIAL IENSM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 04:06 pm
+
+**Fecha de Firma del Contrato:**
+
+16/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+16/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+12/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

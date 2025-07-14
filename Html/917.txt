@@ -1,0 +1,254 @@
+Title: Licitaciones - INDERHUILA - Contratación mínima cuantía IPMCIH005-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850a4131e5f60.11234051
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:43:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE ALOJAMIENTO WEB (HOSTING) Y LICENCIAS OFFICE ESTÁNDAR CON CORREOS ELECTRÓNICOS BAJO EL DOMINIO EMPRESARIAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112105 - Servicios de hospedaje de operación de sitios web
+
+**Códigos adicionales UNSPSC:**
+
+81112501 - Servicio de licencias del software del computador
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 18 CALLE 17 Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105, 81112501 | PRESTAR ELSERVICIO DE ALOJAMIENTO WEB (HOSTING) Y LICENCIAS OFFICE ESTÁNDAR CON CORREOS ELECTRÓNICOS BAJO EL DOMINIO EMPRESARIAL | Mínima cuantía | Recursos propios | $31.445.210 | AREA DE CONTRATACION INDERHUILA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 05:59 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 05:15 pm
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 05:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 07:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 24/Jun/2025 - 06:00 pm | 30/Oct/2026 - 11:25 pm |
+| Calidad del servicio | 20,00 | 24/Jun/2025 - 06:00 pm | 01/Jul/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IGNIWEB | Armenia - Quindío |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 27,344,600
+
+**Informes proceso de selección CO1.AWD.2290120 de 01/Jul/2025 - 06:49 am. Valor $27.344.600**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 06:41 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 06:41 pm |  |
+| Informe de selección | 01/Jul/2025 - 06:49 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8108445 | REGISTRO PRESUPUESTAL | 02/Jul/2025 - 04:01 pm |  | - |
+| Reporte final | CO1.AWD.2290120 | Informe de selección CO1.AWD.2290120 | 01/Jul/2025 - 06:49 pm |  | - |
+| Objeciones | CO1.MSG.8083194 | [Respondido] RE:CARTA SUBSNANCION | 01/Jul/2025 - 06:43 pm |  | - |
+| Objeciones | CO1.MSG.8076589 | [Respondido] RE:Documentos a subsanar | 01/Jul/2025 - 06:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290120 | Informe de evaluación 2 CO1.AWD.2290120 | 01/Jul/2025 - 06:41 pm |  | - |
+| General | CO1.MSG.8103415 | RE: RE: EVALUACION FINAL - OBSERVACION | 01/Jul/2025 - 06:38 pm |  | - |
+| General | CO1.MSG.8103408 | RESPUESTA - RE: objecion informe de evaluacion final | 01/Jul/2025 - 06:38 pm |  | - |
+| General | CO1.MSG.8092600 | RE: EVALUACION FINAL - OBSERVACION | 27/Jun/2025 - 11:09 am |  | - |
+| General | CO1.MSG.8091070 | ADENDA 2 | 27/Jun/2025 - 07:37 am |  | - |
+| Avisos | CO1.REQ.8421294 | Publicación modificación | 27/Jun/2025 - 07:36 am |  |  |
+| Avisos | CO1.REQ.8421294 | Publicación modificación | 27/Jun/2025 - 07:36 am |  |  |
+| General | CO1.MSG.8090750 | EVALUACION FINAL | 26/Jun/2025 - 09:58 pm |  | - |
+| General | CO1.MSG.8090750 | EVALUACION FINAL | 26/Jun/2025 - 09:58 pm |  | - |
+| Objeciones | CO1.MSG.8083194 | CARTA SUBSNANCION | 25/Jun/2025 - 06:59 pm |  | - |
+| General | CO1.MSG.8080639 | SUBSANACION DE DOCUMENTOS | 25/Jun/2025 - 06:06 pm |  | - |
+| General | CO1.MSG.8078748 | OBSERVACIONES AL INFORME DE EVALUACION | 25/Jun/2025 - 11:08 am |  | - |
+| General | CO1.MSG.8078385 | Subsanacíon documento HyperApp | 25/Jun/2025 - 10:34 am |  | - |
+| General | CO1.MSG.8077621 | SUBSNACION DE DOCUMENTOS | 25/Jun/2025 - 09:16 am |  | - |
+| General | CO1.MSG.8077506 | SUBSANACIÓN | 25/Jun/2025 - 09:07 am |  | - |
+| General | CO1.MSG.8076823 | SUBSANACIONES ROYAL TECH GROUP SAS | 25/Jun/2025 - 01:47 am |  | - |
+| Objeciones | CO1.MSG.8076589 | Documentos a subsanar | 24/Jun/2025 - 10:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290120 | Informe de evaluación 1 CO1.AWD.2290120 | 24/Jun/2025 - 07:02 pm |  | - |
+| Avisos | CO1.MSG.8070291 | Publicación de la lista de ofertas del proceso IPMCIH005-2025. | 24/Jun/2025 - 08:49 am |  | - |
+| General | CO1.MSG.8065267 | ADENDA 1 | 20/Jun/2025 - 01:03 pm |  | - |
+| Avisos | CO1.REQ.8421294 | Publicación modificación | 20/Jun/2025 - 01:02 pm |  |  |
+| Avisos | CO1.MSG.8063492 | La lista de oferentes del proceso IPMCIH005-2025 publicada por INDERHUILA | 20/Jun/2025 - 09:36 am |  | - |
+| General | CO1.MSG.8054717 | limitacion a MiPymes -Nacional | 18/Jun/2025 - 06:38 pm |  | - |
+| General | CO1.MSG.8054089 | RESPUESTA A LAS OBSERVACIONES EMITIDAS POR ROYAL TECH GROUP | 18/Jun/2025 - 05:33 pm |  | - |

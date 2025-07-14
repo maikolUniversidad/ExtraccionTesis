@@ -1,0 +1,662 @@
+Title: Licitaciones - Sena Regional Boyaca Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b493e31e5e9.65130804
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:33:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la adquisición de materiales de formación para el programa Campesena que atiende el Centro Industrial de Mantenimiento y Manufactura del SENA regional Boyacá a través de lotes.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Sogamoso
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31162800 - Ferretería en general
+
+**Códigos adicionales UNSPSC:**
+
+39121700 - Ferretería eléctrica y suministros,11162100 - Tejidos o telas especiales,60104200 - Pruebas del agua, conservación y ecología,27111600 - Herramientas de perfilar,60121500 - Utensilios de dibujo, suministros y accesorios,40161500 - Filtros,25171700 - Sistemas de frenado y componentes,44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,60106200 - Materiales de enseñanza de tecnología,60106100 - Materiales de enseñanza vocacional
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Bolsas plásticas y polietileno, -Básculas, instrumentos de medida, observación y ensayo, -Materiales para redes de comunicación, -Guadañas, motosierras, fumigadoras, nebulizadoras, -Filtros, aceites y lubricantes", "licicodigos": "93,121,122,123,249,272,438,473,609" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 30 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 12 No. 55 A 51 Sogamoso Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+172 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 230,336,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 10:05 am
+
+**Publicación Estudios Previos:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 05:50 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+29/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+05/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+05/Jun/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jun/2025 - 07:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 05:00 am
+
+**Apertura del sobre económico:**
+
+18/Jun/2025 - 02:30 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+20/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+24/Jun/2025 - 06:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/Jun/2025 - 06:00 pm | 30/Abr/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 19/Jun/2025 - 05:00 pm | 30/Abr/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 2 | - | * **Nombre:** DISTRIMODERNO R&S | Sogamoso - Boyacá |
+| 3 | - | * **Nombre:** TELARES MEDELLIN HOGAR SAS | Armenia - Quindío |
+| 4 | - | * **Nombre:** GRUPO EMPRESARIAL SAN MARTIN S.A.S | Sogamoso - Boyacá |
+| 5 | - | * **Nombre:** HECTOR GARCIA GONZALEZ | Sogamoso - Boyacá |
+| 6 | - | * **Nombre:** ADRIAN CARDENAS MEDINA | Sogamoso - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 53,632,020
+
+**Informes proceso de selección CO1.AWD.2290712 de 25/Jun/2025 - 01:57 am. Valor $53.632.020**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:42 pm |  |
+| Informe de selección | 25/Jun/2025 - 01:57 pm |  |
+
+**Cuantia del contrato:**
+
+$ 94,230,568
+
+**Informes proceso de selección CO1.AWD.2290802 de 25/Jun/2025 - 03:49 am. Valor $94.230.568**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:45 pm |  |
+| Informe de selección | 25/Jun/2025 - 03:49 pm |  |
+| Informe de selección | 25/Jun/2025 - 03:49 pm |  |
+
+**Cuantia del contrato:**
+
+$ 11,075,878
+
+**Informes proceso de selección CO1.AWD.2290803 de 25/Jun/2025 - 04:05 am. Valor $11.075.878**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:50 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:05 pm |  |
+
+**Cuantia del contrato:**
+
+$ 9,152,408
+
+**Informes proceso de selección CO1.AWD.2290129 de 25/Jun/2025 - 04:18 am. Valor $9.152.408**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:54 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:18 pm |  |
+
+**Cuantia del contrato:**
+
+$ 21,106,416
+
+**Informes proceso de selección CO1.AWD.2290130 de 25/Jun/2025 - 04:37 am. Valor $21.106.416**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:57 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:37 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:37 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:37 pm |  |
+
+**Cuantia del contrato:**
+
+$ 8,830,464
+
+**Informes proceso de selección CO1.AWD.2290131 de 25/Jun/2025 - 04:51 am. Valor $8.830.464**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 07:59 pm |  |
+| Informe de selección | 25/Jun/2025 - 04:51 pm |  |
+
+**Cuantia del contrato:**
+
+$ 26,308,246
+
+**Informes proceso de selección CO1.AWD.2290806 de 25/Jun/2025 - 07:23 am. Valor $26.308.246**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 08:07 pm |  |
+| Informe de selección | 25/Jun/2025 - 07:23 pm |  |
+| Informe de selección | 25/Jun/2025 - 07:23 pm |  |
+
+**Cuantia del contrato:**
+
+$ 6,000,000
+
+**Informes proceso de selección CO1.AWD.2290132 de 25/Jun/2025 - 05:07 am. Valor $6.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 08:12 pm |  |
+| Informe de selección | 25/Jun/2025 - 05:07 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2290130**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** HECTOR GARCIA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 5888679 | * **Nombre:** HECTOR GARCIA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 5888679 | Sogamoso - Boyacá | $21.106.416 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290803**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TELARES MEDELLIN HOGAR SAS * **Tipo documento:** NIT * **Documento:** 900257204 | * **Nombre:** MYRIAM RICAURTE DURAN * **Tipo documento:** NIT * **Documento:** 37891235 | Armenia - Quindío | $11.075.878 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290131**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ADRIAN CARDENAS MEDINA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 74082095 | * **Nombre:** ADRIAN CARDENAS MEDINA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 74082095 | Sogamoso - Boyacá | $8.830.464 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290806**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** HECTOR GARCIA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 5888679 | * **Nombre:** HECTOR GARCIA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 5888679 | Sogamoso - Boyacá | $26.308.246 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290129**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRUPO EMPRESARIAL SAN MARTIN * **Tipo documento:** NIT * **Documento:** 901776279 | * **Nombre:** FREDY HERNANDO CARDENAS MEDINA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 74184439 | Sogamoso - Boyacá | $9.152.408 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290712**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRUPO EMPRESARIAL SAN MARTIN * **Tipo documento:** NIT * **Documento:** 901776279 | * **Nombre:** FREDY HERNANDO CARDENAS MEDINA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 74184439 | Sogamoso - Boyacá | $53.632.020 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290132**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SANDRA MILENA ARCHILA NEIRA/DISTRIMODERNO R&S * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 46670795 | * **Nombre:** SANDRA MILENA ARCHILA NEIRA * **Tipo documento:** NIT * **Documento:** 46670795 | Sogamoso - Boyacá | $6.000.000 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2290802**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SANDRA MILENA ARCHILA NEIRA/DISTRIMODERNO R&S * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 46670795 | * **Nombre:** SANDRA MILENA ARCHILA NEIRA * **Tipo documento:** NIT * **Documento:** 46670795 | Sogamoso - Boyacá | $94.230.568 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2290129****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015622
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 9,152,408
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290130****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015627
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 21,106,416
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290131****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015629
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 8,830,464
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290132****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015551
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 6,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290712****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015813
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 53,632,020
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290802****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015817
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 94,230,568
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290803****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015621
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 11,075,878
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2290806****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015530
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+19/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 26,308,246
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jun/2025 - 06:00 pm
+
+**Fecha de inicio:**
+
+19/Jun/2025 - 09:00 am
+
+**Fecha fin:**
+
+19/Jun/2025 - 07:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2290806 | Informe de selección CO1.AWD.2290806 | 25/Jun/2025 - 07:23 pm |  | - |
+| Reporte final | CO1.AWD.2290132 | Informe de selección CO1.AWD.2290132 | 25/Jun/2025 - 05:07 pm |  | - |
+| Reporte final | CO1.AWD.2290131 | Informe de selección CO1.AWD.2290131 | 25/Jun/2025 - 04:51 pm |  | - |
+| Reporte final | CO1.AWD.2290130 | Informe de selección CO1.AWD.2290130 | 25/Jun/2025 - 04:37 pm |  | - |
+| Reporte final | CO1.AWD.2290129 | Informe de selección CO1.AWD.2290129 | 25/Jun/2025 - 04:17 pm |  | - |
+| Reporte final | CO1.AWD.2290803 | Informe de selección CO1.AWD.2290803 | 25/Jun/2025 - 04:05 pm |  | - |
+| Reporte final | CO1.AWD.2290802 | Informe de selección CO1.AWD.2290802 | 25/Jun/2025 - 03:48 pm |  | - |
+| Reporte final | CO1.AWD.2290712 | Informe de selección CO1.AWD.2290712 | 25/Jun/2025 - 01:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290132 | Informe de evaluación 1 CO1.AWD.2290132 | 24/Jun/2025 - 08:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290806 | Informe de evaluación 1 CO1.AWD.2290806 | 24/Jun/2025 - 08:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290131 | Informe de evaluación 1 CO1.AWD.2290131 | 24/Jun/2025 - 07:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290130 | Informe de evaluación 1 CO1.AWD.2290130 | 24/Jun/2025 - 07:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290129 | Informe de evaluación 1 CO1.AWD.2290129 | 24/Jun/2025 - 07:54 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290803 | Informe de evaluación 1 CO1.AWD.2290803 | 24/Jun/2025 - 07:50 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290802 | Informe de evaluación 1 CO1.AWD.2290802 | 24/Jun/2025 - 07:45 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290712 | Informe de evaluación 1 CO1.AWD.2290712 | 24/Jun/2025 - 07:42 pm |  | - |
+| General | CO1.MSG.8053394 | LISTADO HABILITADOS-HORA SUBASTA POR LOTE | 18/Jun/2025 - 04:40 pm |  | - |
+| Objeciones | CO1.MSG.8033963 | [Respondido] RE:Observaciones1 al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) SASI-BYC-CIMM-001-2025 | 18/Jun/2025 - 01:15 pm |  | - |
+| Objeciones | CO1.MSG.8034002 | [Respondido] RE:Observaciones2 al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) SASI-BYC-CIMM-001-2025 | 18/Jun/2025 - 01:15 pm |  | - |
+| General | CO1.MSG.8051195 | RESPUESTA A OBSERVACIONES INFORME | 18/Jun/2025 - 01:11 pm |  | - |
+| Reporte preliminar | CO1.AWD.2284708 | Informe de evaluación 1 CO1.AWD.2284708 | 18/Jun/2025 - 09:40 am |  | - |
+| Reporte preliminar | CO1.AWD.2284616 | Informe de evaluación 1 CO1.AWD.2284616 | 18/Jun/2025 - 09:38 am |  | - |
+| Reporte preliminar | CO1.AWD.2284905 | Informe de evaluación 1 CO1.AWD.2284905 | 18/Jun/2025 - 09:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2284904 | Informe de evaluación 1 CO1.AWD.2284904 | 18/Jun/2025 - 09:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2284615 | Informe de evaluación 1 CO1.AWD.2284615 | 18/Jun/2025 - 09:32 am |  | - |
+| Reporte preliminar | CO1.AWD.2284810 | Informe de evaluación 1 CO1.AWD.2284810 | 18/Jun/2025 - 09:29 am |  | - |
+| Reporte preliminar | CO1.AWD.2284707 | Informe de evaluación 1 CO1.AWD.2284707 | 18/Jun/2025 - 09:27 am |  | - |
+| Reporte preliminar | CO1.AWD.2284706 | Informe de evaluación 1 CO1.AWD.2284706 | 18/Jun/2025 - 09:26 am |  | - |
+| Avisos | CO1.REQ.8335997 | Publicación modificación | 17/Jun/2025 - 06:45 pm |  |  |
+| Objeciones | CO1.MSG.8034002 | Observaciones2 al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) SASI-BYC-CIMM-001-2025 | 15/Jun/2025 - 06:56 pm |  | - |

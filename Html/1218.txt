@@ -1,0 +1,171 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DE CULTURA JOAQUIN PIÑEROS CORPAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68081c9e140b56.64975089
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 09:04:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS EQUIPOS DE CÓMPUTO Y DVR INSTALADOS EN LA RED DE BIBLIOTECAS PUBLICAS, ASÍ COMO LA IDENTIFICACIÓN Y DIAGNÓSTICO TÉCNICO DE LOS EQUIPOS NO FUNCIONALES PARA SU DISPOSICIÓN ADECUADA, DEL INSTITUTO DE CULTURA JOAQUIN PIÑEROS CORPAS DEL MUNICPIO TABIO CUNDINAMARCA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Tabio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 4 No. 3-89 Tabio Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 05:10 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 05:30 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 05:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 01:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 01:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 01:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 08:00 am | 04/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 05/May/2025 - 08:00 am | 04/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2237134 | Informe de evaluación 1 CO1.AWD.2237134 | 28/Abr/2025 - 12:18 pm |  | - |
+| Avisos | CO1.MSG.7805099 | Publicación de la lista de ofertas del proceso IPMC-002-2025. | 28/Abr/2025 - 10:15 am |  | - |
+| Avisos | CO1.MSG.7805095 | La lista de oferentes del proceso IPMC-002-2025 publicada por INSTITUTO MUNICIPAL DE CULTURA JOAQUIN PIÑEROS CORPAS | 28/Abr/2025 - 10:14 am |  | - |
+| General | CO1.MSG.7791672 | RESPUESTA OBSERVACIONES A LA INVITACIÓN PÚBLICA IPMC-002-2025 | 24/Abr/2025 - 10:09 am |  | - |
+| Aclaraciones | CO1.MSG.7791640 | RE: Observacion Pliego de condiciones | 24/Abr/2025 - 10:06 am |  | - |
+| General | CO1.MSG.7791078 | Aviso de No limitación a Mipymes | 24/Abr/2025 - 09:00 am |  | - |
+| Aclaraciones | CO1.MSG.7788187 | Observacion Pliego de condiciones | 23/Abr/2025 - 04:33 pm |  | - |

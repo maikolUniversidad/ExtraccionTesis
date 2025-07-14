@@ -1,0 +1,279 @@
+Title: Licitaciones - Escuela Internacional de Entrenamiento de la Policía de Colombia “Brigadier General Jaime Ramírez Gómez”
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fe525d205ec1.63365159
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 02:05:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A LA INFRAESTRUCTURA DE LA RED DE DATOS, PARA LA ESCUELA INTERNACIONAL DE ENTRENAMIENTO DE LA POLICÍA DE COLOMBIA CENOP.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : San Luis
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+Hacienda Los Pijaos, Vereda La Laguna San Luis Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 07:29 am
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 07:30 am
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 07:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+22/Abr/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+22/Abr/2025 - 05:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+28/Abr/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/Abr/2025 - 05:00 pm | 26/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 29/Abr/2025 - 05:00 pm | 28/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 22/Abr/2025 - 08:59 am | * **Nombre:** CONSORCIO REDES CENOP 2025 | Ibagué |
+| 2 | 22/Abr/2025 - 02:19 pm | * **Nombre:** SMITHDATATEL | San Andrés - San Andrés, Providencia y Santa Catalina |
+| 3 | 22/Abr/2025 - 04:37 pm | * **Nombre:** TM7 | Espinal - Tolima |
+| 4 | 22/Abr/2025 - 04:45 pm | * **Nombre:** Consorcio fenix-rpc | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 100,000,000
+
+**Informes proceso de selección CO1.AWD.2233149 de 29/Abr/2025 - 11:59 am. Valor $100.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/Abr/2025 - 05:31 pm |  |
+| Informe de evaluación | 28/Abr/2025 - 09:56 am |  |
+| Informe de selección | 29/Abr/2025 - 11:59 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2233149**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TM7 SAS * **Tipo documento:** NIT * **Documento:** 901774475 | * **Nombre:** YENY PATRICIA URUEÑA NUÑEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1105679086 | Espinal - Tolima | $100.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2233149****
+
+**Contrato 105-7-10022-25 de TM7 SAS:**
+
+**ID del contrato en SECOP:**
+
+105-7-10022-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A LA INFRAESTRUCTURA DE LA RED DE DATOS, PARA LA ESCUELA INTERNACIONAL DE ENTRENAMIENTO DE LA POLICÍA DE COLOMBIA "CENOP
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112300 | SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A LA INFRAESTRUCTURA DE LA RED DE DATOS, PARA LA ESCUELA INTERNACIONAL DE ENTRENAMIENTO DE LA POLICIA DE COLOMBIA CENOP | 1,00 | UN | 100.000.000,00 | 100.000.000,00 | 100.000.000,00 | 100.000.000,00 |
+
+**Fecha de terminación del contrato:**
+
+02/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+60 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 100,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION OFERTA MTO. RED DATOS 2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2233149 | Informe de selección CO1.AWD.2233149 | 29/Abr/2025 - 11:58 am |  | - |
+| General | CO1.MSG.7805843 | RE: OBSERVACIONES A LOS OFERENTES TM7 | 28/Abr/2025 - 11:40 am |  | - |
+| Reporte preliminar | CO1.AWD.2233149 | Informe de evaluación 2 CO1.AWD.2233149 | 28/Abr/2025 - 09:56 am |  | - |
+| Objeciones | CO1.MSG.7790504 | [Respondido] RE:OBSERVACIONES AL INFORME DE EVALUACION | 28/Abr/2025 - 09:54 am |  | - |
+| General | CO1.MSG.7804873 | RE: Observación A La Evaluacion Del Proceso PN CENOP MIC 029 2025 | 28/Abr/2025 - 09:50 am |  | - |
+| Avisos | CO1.MSG.7790677 | Publicación de la lista de ofertas del proceso PN CENOP MIC 029 2025. | 24/Abr/2025 - 07:59 am |  | - |
+| Objeciones | CO1.MSG.7790504 | OBSERVACIONES AL INFORME DE EVALUACION | 24/Abr/2025 - 04:12 am |  | - |
+| General | CO1.MSG.7790001 | SUBSANACION EVALUACION 1 | 23/Abr/2025 - 07:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2233149 | Informe de evaluación 1 CO1.AWD.2233149 | 23/Abr/2025 - 05:31 pm |  | - |
+| Avisos | CO1.MSG.7782078 | La lista de oferentes del proceso PN CENOP MIC 029 2025 publicada por Escuela Internacional de Entrenamiento de la Policía de Colombia “Brigadier General Jaime Ramírez Gómez” | 22/Abr/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.7777456 | RE: OBSERVACION OFERTA ECONOMICA | 22/Abr/2025 - 08:38 am |  | - |
+| General | CO1.MSG.7775180 | LIMITACION A MIPYMES PROCESO PN CENOP MIC 029 2025 | 21/Abr/2025 - 04:42 pm |  | - |

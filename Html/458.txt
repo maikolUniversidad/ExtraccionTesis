@@ -1,0 +1,373 @@
+Title: Licitaciones - ESM BATALLON DE ASPC NO.2 CACIQUE ALFONSO XEQUE ¨NIVEL I
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68193f38e92178.05717812
+
+Markdown Content:
+Licitaciones - ESM BATALLON DE ASPC NO.2 CACIQUE ALFONSO XEQUE ¨NIVEL I - Contratación mínima cuantía 224-ESMBAS02-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-28 06:40:13
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SERVICIO DE MANTENIMIENTO EQUIPOS DE CÓMPUTO PERTENECIENTES A LOS DIFE-RENTES ESTABLECIMIENTOS DE SANIDAD MILITAR CENTRALIZADOS POR LA REGIONAL 01 BAS02 BARRANQUILLA (ATLANTICO), PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Atlántico : Barranquilla
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81111811 - Servicios de soporte técnico o de mesa de ayuda
+
+**Códigos adicionales UNSPSC:**
+81112200 - Mantenimiento y soporte de software
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 68 #79 - 00 Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111811, 81112200 | MANTENIMIENTO EQUIPO DE EQUIPO DE COMPUTO - BAS02 | Mínima cuantía | Recursos propios | $116.000.000 | ESM BAS02 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 04:45 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+07/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+07/May/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+08/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+08/May/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+08/May/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 05:00 pm | 15/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 15/May/2025 - 05:00 pm | 15/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 05:00 pm | 15/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** EQUAC | Sabanalarga - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 116,000,000
+
+**Informes proceso de selección CO1.AWD.2249473 de 21/May/2025 - 05:25 am. Valor $116.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/May/2025 - 04:58 pm |  |
+| Informe de evaluación | 12/May/2025 - 04:58 pm |  |
+| Informe de evaluación | 12/May/2025 - 04:58 pm |  |
+| Informe de evaluación | 14/May/2025 - 06:01 pm |  |
+| Informe de evaluación | 14/May/2025 - 06:01 pm |  |
+| Informe de evaluación | 15/May/2025 - 05:06 pm |  |
+| Informe de evaluación | 15/May/2025 - 05:06 pm |  |
+| Informe de evaluación | 15/May/2025 - 05:06 pm |  |
+| Informe de evaluación | 19/May/2025 - 05:07 pm |  |
+| Informe de evaluación | 19/May/2025 - 05:07 pm |  |
+| Informe de evaluación | 19/May/2025 - 05:07 pm |  |
+| Informe de selección | 21/May/2025 - 05:25 pm |  |
+| Informe de selección | 21/May/2025 - 05:25 pm |  |
+| Informe de selección | 21/May/2025 - 05:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2249473**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** EQUACPRODUCE INNOVATION & TECNOLOGY S.A.S * **Tipo documento:** NIT * **Documento:** 901850970 | * **Nombre:** MERLY MERCEDES ZAMBRANO BERMEJO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1042998584 | Sabanalarga - Atlántico | $116.000.000 | - |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2249473****
+
+**Contrato 225-ESMBAS02-2025 de EQUACPRODUCE INNOVATION & TECNOLOGY S.A.S:**
+
+**ID del contrato en SECOP:**
+
+225-ESMBAS02-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SERVICIO DE MANTENIMIENTO EQUIPOS DE CÓMPUTO PERTENECIENTES A LOS DIFERENTES ESTABLECIMIENTOS DE SANIDAD MILITAR CENTRALIZADOS POR LA REGIONAL 01 BAS02 BARRANQUILLA (ATLANTICO), PARA LA VIGENCIA 2025
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81111811 | SERVICIO DE MANTENIMIENTO EQUIPOS DE CÓMPUTO PERTENECIENTES A LOS DIFE-RENTES ESTABLECIMIENTOS DE SANIDAD MILITAR CENTRALIZADOS POR LA REGIONAL 01 BAS02 BARRANQUILLA (ATLANTICO), PARA LA VIGENCIA 2025 | 1,00 | UN | 116.000.000,00 | 116.000.000,00 | 116.000.000,00 | 116.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+27/May/2025 - 05:30 pm
+
+**Fecha de terminación del contrato:**
+
+30/Nov/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+193 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 116,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | COMUNICACION DE ACEPTACION DE OFERTA PCS 224-ESMBAS02-2025 ok01.pdf |  |
+|  | CDP 29825 MTO COMPUTO_0001.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | RP-35625.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7930969 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 23/May/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.7929696 | RE: URGENTE OBSERVACION INFORME DE SELECCIONNO CUMPLE | 23/May/2025 - 02:13 pm |  | - |
+| General | CO1.MSG.7929691 | RE: OBSERVACION COMITE SOLICITUD REEVALUACION . | 23/May/2025 - 02:12 pm |  | - |
+| Reporte final | CO1.AWD.2249473 | Informe de selección CO1.AWD.2249473 | 21/May/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.7918185 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 21/May/2025 - 05:21 pm |  | - |
+| General | CO1.MSG.7915054 | SOLICITUD NO CUMPLE - | 21/May/2025 - 11:55 am |  | - |
+| General | CO1.MSG.7913595 | RE: observaciones -solicitud de no cumple EQUACPRODUCE INNOVATION & TECNOLOGY S.A.S | 21/May/2025 - 09:43 am |  | - |
+| General | CO1.MSG.7912054 | observaciones -solicitud de no cumple EQUACPRODUCE INNOVATION & TECNOLOGY S.A.S | 20/May/2025 - 08:20 pm |  | - |
+| Objeciones | CO1.MSG.7907999 | [Respondido] RE:SUBSANACION PROCESO COMPUTO- ESMBAS02-2025 | 20/May/2025 - 01:09 pm |  | - |
+| Objeciones | CO1.MSG.7907999 | SUBSANACION PROCESO COMPUTO- ESMBAS02-2025 | 20/May/2025 - 12:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2249473 | Informe de evaluación 4 CO1.AWD.2249473 | 19/May/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.7903708 | ADENDA 03 | 19/May/2025 - 04:50 pm |  | - |
+| Avisos | CO1.REQ.8209984 | Publicación modificación | 19/May/2025 - 04:47 pm |  |  |
+| Reporte preliminar | CO1.AWD.2249473 | Informe de evaluación 3 CO1.AWD.2249473 | 15/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7890219 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 15/May/2025 - 05:03 pm |  | - |
+| General | CO1.MSG.7884277 | ADENDA 02 | 14/May/2025 - 06:09 pm |  | - |
+| Avisos | CO1.REQ.8209984 | Publicación modificación | 14/May/2025 - 06:08 pm |  |  |
+| Reporte preliminar | CO1.AWD.2249473 | Informe de evaluación 2 CO1.AWD.2249473 | 14/May/2025 - 06:01 pm |  | - |
+| General | CO1.MSG.7881105 | RE: OBSERVACION SOLICITUD DE NO CUMPLE EMPRESA DISTRIBUIDORA RED COMPUTO S.A.S | 14/May/2025 - 01:13 pm |  | - |
+| General | CO1.MSG.7880861 | OBSERVACION SOLICITUD DE NO CUMPLE EMPRESA DISTRIBUIDORA RED COMPUTO S.A.S | 14/May/2025 - 12:32 pm |  | - |
+| General | CO1.MSG.7874932 | SUBSANACION 3 | 13/May/2025 - 03:26 pm |  | - |
+| General | CO1.MSG.7874297 | subsanaron 2 | 13/May/2025 - 03:14 pm |  | - |
+| General | CO1.MSG.7874216 | SUBSANACION | 13/May/2025 - 02:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2249473 | Informe de evaluación 1 CO1.AWD.2249473 | 12/May/2025 - 04:58 pm |  | - |
+| General | CO1.MSG.7859971 | ADENDA 01 | 09/May/2025 - 01:40 pm |  | - |
+| Avisos | CO1.REQ.8209984 | Publicación modificación | 09/May/2025 - 01:39 pm |  |  |
+| Avisos | CO1.MSG.7854978 | Publicación de la lista de ofertas del proceso 224-ESMBAS02-2025. | 08/May/2025 - 04:13 pm |  | - |
+| Avisos | CO1.MSG.7854971 | La lista de oferentes del proceso 224-ESMBAS02-2025 publicada por ESM BATALLON DE ASPC NO.2 CACIQUE ALFONSO XEQUE ¨NIVEL I | 08/May/2025 - 04:12 pm |  | - |
+| General | CO1.MSG.7847768 | RE: SOLICITUD DE ACLARACION ITEM OFERTA ECONOMICA | 07/May/2025 - 04:33 pm |  | - |
+| General | CO1.MSG.7847626 | RE: Limitación Mi Pyme | 07/May/2025 - 04:22 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:47 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

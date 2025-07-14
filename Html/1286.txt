@@ -1,0 +1,174 @@
+Title: Licitaciones - CORPOAMAZONIA - CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL SUR DE LA AMAZONIA1
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807160db122e8.05617460
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-21 23:10:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRAR EL SERVICIO DE APOYO TÉCNICO ,LOGÍSTICO Y PUBLICIDAD A TODO COSTO PARA LA PRODUCCIÓN Y TRASMISIÓN DE LA AUDIENCIA PÚBLICA EN LA CUAL SE PRESENTARÁ EL ESTADO DE NIVEL DE CUMPLIMIENTO DEL PLAN DE ACCIÓN DE CORPOAMAZONIA 2024 - 2027 AMAZONIA PARA EL MUNDO, VIGENCIA 2024, , QUE SE LLEVARÁ A CABO EL 29 DE ABRIL DE 2025, DESDE EL MUNICIPIO DE PUERTO ASÍS (PUTUMAYO) Y EN SIMULTANEA EN SUS SEDES DE LAS DIRECCIÓN TERRITORIALES UBICADAS EN LAS CIUDADES DE LETICIA (AMAZONAS) Y FLORENCIA (CAQU
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Putumayo: San Miguel de Mocoa ; Amazonas: Leticia ; Caquetá: Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80141607 - Gestión de eventos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Producciones audiovisuales (Radio - TV), -Streaming", "licicodigos": "198,425,486" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 17 No. 14-85 Barrio Esmeralda - Sede Principal CORPOAMAZONIA Mocoa Putumayo COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80141607 | “SUMINISTRAR EL SERVICIO DE APOYO TÉCNICO ,LOGÍSTICO Y PUBLICIDAD A TODO COSTO PARA LA PRODUCCIÓN Y TRASMISIÓN DE LA AUDIENCIA PÚBLICA EN LA CUAL SE PRESENTARÁ EL ESTADO DE NIVEL DE CUMPLIMIENTO DEL PLAN DE ACCIÓN DE CORPOAMAZONIA 2024 – 2027 “AMAZONIA PARA EL MUNDO”, VIGENCIA 2024, , QUE SE LLEVARÁ A CABO EL 29 DE ABRIL DE 2025, DESDE EL MUNICIPIO DE PUERTO ASÍS (PUTUMAYO) Y EN SIMULTANEA EN SUS SEDES DE LAS DIRECCIÓN TERRITORIALES UBICADAS EN LAS CIUDADES DE LETICIA (AMAZONAS) Y FLORENCIA (CAQUETÁ)” | Mínima cuantía | Recursos propios | $11.163.800 | OFICINA JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 11:03 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 11:15 pm
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 11:15 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/Abr/2025 - 11:15 pm
+
+**Plazo para recepción de observaciones:**
+
+22/Abr/2025 - 11:15 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 08:00 pm
+
+**Aceptación de ofertas:**
+
+25/Abr/2025 - 09:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta

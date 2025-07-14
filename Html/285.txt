@@ -1,0 +1,143 @@
+Title: Licitaciones - FONDO NACIONAL DE GARANTIAS S.A. - FNG
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806d153703010.73924006
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:51:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS DE SOPORTE TÉCNICO, MANTENIMIENTO EVOLUTIVO Y CORRECTIVO DE APLICACIONES DE APOYO Y MISIONALES - NO CORE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 30 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 26 a 3 13-97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 05:27 pm
+
+**Fecha de Firma del Contrato:**
+
+21/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+21/May/2026 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 21/May/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 21/May/2025 - 12:00 pm | 21/Abr/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 21/May/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 23/May/2025 - 04:05 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 20/May/2025 - 05:13 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 19/May/2025 - 05:58 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:43 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:37 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:33 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:28 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:26 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:24 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:15 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 13/May/2025 - 04:01 pm |  |  |
+| General | CO1.MSG.7870456 | INFORME PRELIMINAR DE HABILITACIÓN E INFORME PRELIMINAR DE EVALUACIÓN IPR-003-25 | 12/May/2025 - 08:13 pm |  | - |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 07/May/2025 - 03:23 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 05/May/2025 - 10:16 am |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 02/May/2025 - 05:47 pm |  |  |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 30/Abr/2025 - 05:10 pm |  |  |
+| General | CO1.MSG.7809644 | ADENDA Nro. 2 PROCESO IPR-003-25 | 28/Abr/2025 - 09:35 pm |  | - |
+| Avisos | CO1.REQ.8145355 | Publicación modificación | 25/Abr/2025 - 03:16 pm |  |  |

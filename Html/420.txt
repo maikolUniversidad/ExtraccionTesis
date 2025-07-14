@@ -1,0 +1,255 @@
+Title: Licitaciones - MUNICIPIO DE SAMACA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685aa9e433c468.49550512
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:38:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y ACCESORIOS, LICENCIAMIENTO DE SOFTWARE Y MOBILIARIO PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE SAMACA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Samacá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+23261500 - Máquinas para prototipos rápidos,43211711 - Escáneres,56101500 - Muebles,56101708 - Archivadores móviles,56112102 - Sillas para grupos de trabajo,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Mobiliario", "licicodigos": "103,104,105,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 N. 4 - 53 Samacá Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 100,001,607
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Jun/2025 - 08:06 am
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 08:07 am
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Jun/2025 - 08:07 am
+
+**Publicación Estudios Previos:**
+
+24/Jun/2025 - 08:07 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+01/Jul/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 05:30 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 04:25 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 05:30 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jul/2025 - 05:30 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 05:30 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/Jul/2025 - 05:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/Jul/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+09/Jul/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jul/2025 - 05:01 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jul/2025 - 11:59 pm
+
+**Informe de presentación de Ofertas:**
+
+13/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jul/2025 - 05:30 pm
+
+**Apertura del sobre económico:**
+
+22/Jul/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+22/Jul/2025 - 06:01 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+23/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 11/Jul/2025 - 12:00 am | 14/Mar/2026 - 12:00 am |
+| Calidad del servicio | 10,00 | 11/Jul/2025 - 12:00 am | 14/Mar/2026 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 11/Jul/2025 - 12:00 am | 14/Mar/2026 - 12:00 am |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+21/Jul/2025 - 05:00 pm
+
+**Fecha de inicio:**
+
+22/Jul/2025 - 03:30 pm
+
+**Fecha fin:**
+
+22/Jul/2025 - 03:45 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2304719 | Informe de evaluación 1 CO1.AWD.2304719 | 11/Jul/2025 - 04:52 pm |  | - |
+| Avisos | CO1.MSG.8158796 | Publicación de la lista de ofertas del proceso SA-SI-Nº 016-2025. (Presentación de oferta). | 11/Jul/2025 - 04:51 pm |  | - |
+| Avisos | CO1.MSG.8158793 | La lista de oferentes del proceso SA-SI-Nº 016-2025. (Presentación de oferta) publicada por MUNICIPIO DE SAMACA | 11/Jul/2025 - 04:51 pm |  | - |
+| General | CO1.MSG.8134887 | CONTESTACIÓN OBSERVACIONES | 08/Jul/2025 - 01:27 pm |  | - |
+| Aclaraciones | CO1.MSG.8102214 | anexo observaciones al pliego | 01/Jul/2025 - 04:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8094770 | SOLICITUD DE ACLARACION | 27/Jun/2025 - 04:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8094752 | SOLICITUD LIMITACION MIPYMES | 27/Jun/2025 - 04:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8085196 | Limitacion Mipymes Nacional | 26/Jun/2025 - 09:59 am |  | - |
+| Aclaraciones | CO1.MSG.8085096 | Limitacion Mipymes Nacional | 26/Jun/2025 - 09:50 am |  | - |
+| Aclaraciones | CO1.MSG.8079021 | OBSERVACION CAPACIDAD FINANCIERA Y ORGANIZACIONAL | 25/Jun/2025 - 11:32 am |  | - |

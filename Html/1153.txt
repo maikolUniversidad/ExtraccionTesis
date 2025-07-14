@@ -1,0 +1,130 @@
+Title: Licitaciones - COLEGIO SAN JOSE DE CASTILLA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68501d7ee533a8.80958678
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 07:46:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA LA RED DE VIDEO, SONIDO Y CIRCUITO CERRADO DE TELEVISIÓN DE LAS SEDES A Y C DEL COLEGIO SAN JOSÉ DE CASTILLA I.E.D.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152100 - Servicios de mantenimiento y reparación de equipo de manufactura
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Circuito cerrado de televisión, -Equipos audiovisuales", "licicodigos": "114,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 78 F 7 D - 03 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 14,700,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 08:12 am
+
+**Fecha de Firma del Contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+20/Oct/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8418235 | Publicación modificación | 18/Jun/2025 - 03:50 pm |  |  |
+| Avisos | CO1.REQ.8418235 | Publicación modificación | 18/Jun/2025 - 09:19 am |  |  |
+| Avisos | CO1.REQ.8418235 | Publicación modificación | 17/Jun/2025 - 12:27 pm |  |  |

@@ -1,0 +1,339 @@
+Title: Licitaciones - AUDITORIA GENERAL DE LA REPUBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bae0c38d0f0.62141558
+
+Markdown Content:
+Licitaciones - AUDITORIA GENERAL DE LA REPUBLICA - Subasta Inversa SASI-2-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:55
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+44-8 Adquisición de los APPLIANCE DE SEGURIDAD (FIREWALL) y garantía durante tres (3) años, incluyendo los servicios de instalación, configuración, afinamiento, monitoreo continuo, soporte técnico, actualizaciones de software, reemplazo de componentes fallidos y mantenimiento preventivo y correctivo, para asegurar la protección y seguridad de la infraestructura tecnológica de la Auditoría General de la República
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+43231500 - Software funcional específico de la empresa,43233200 - Software de seguridad y protección
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 27 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+3 Meses
+
+**Dirección de ejecución del contrato:**
+Calle 26 Núm. 69-76, Torre 4, Oficina 17 dúplex Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Comunidad Andina
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 140,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43231500, 43233200, 81112500 | 44-8 Adquisición de los APPLIANCE DE SEGURIDAD (FIREWALL) y garantía durante tres (3) años, incluyendo los servicios de instalación, configuración, afinamiento, monitoreo continuo, soporte técnico, actualizaciones de software, reemplazo de componentes fallidos y mantenimiento preventivo y correctivo, para asegurar la protección y seguridad de la infraestructura tecnológica de la Auditoría General de la República | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $140.000.000 | GRUPO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 04:39 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+19/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 04:30 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 11:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 08:19 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/Jun/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 10:30 am
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 04:00 pm
+
+**Apertura del sobre económico:**
+
+25/Jun/2025 - 08:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+01/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+03/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 12:00 am | 31/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 am | 30/Nov/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 12:00 am | 31/May/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 139,942,810
+
+**Informes proceso de selección CO1.AWD.2283205 de 01/Jul/2025 - 10:29 am. Valor $139.942.810**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 04:23 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 04:23 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 04:23 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 04:23 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 04:23 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 03:49 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 03:49 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 03:49 pm |  |
+| Informe de selección | 01/Jul/2025 - 10:29 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+25/Jun/2025 - 09:00 am
+
+**Fecha de inicio:**
+25/Jun/2025 - 11:30 am
+
+**Fecha fin:**
+25/Jun/2025 - 11:40 am
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2283205 | Informe de selección CO1.AWD.2283205 | 01/Jul/2025 - 10:29 am |  | - |
+| Avisos | CO1.MSG.8078979 | Publicación de la lista de ofertas del proceso SASI-2-2025 (Presentación de oferta). | 25/Jun/2025 - 11:26 am |  | - |
+| Avisos | CO1.MSG.8078951 | La lista de oferentes del proceso SASI-2-2025 (Presentación de oferta) publicada por AUDITORIA GENERAL DE LA REPUBLICA | 25/Jun/2025 - 11:24 am |  | - |
+| Reporte preliminar | CO1.AWD.2283205 | Informe de evaluación 2 CO1.AWD.2283205 | 24/Jun/2025 - 03:49 pm |  | - |
+| Objeciones | CO1.MSG.8059809 | [Respondido] RE:Subsanación y Observaciones al Informe de Evaluación-Open Group SAS | 24/Jun/2025 - 03:45 pm |  | - |
+| Objeciones | CO1.MSG.8059071 | [Respondido] RE:SASI-2-2025 - Observaciones al informe y subsanación | 24/Jun/2025 - 03:44 pm |  | - |
+| Objeciones | CO1.MSG.8059809 | Subsanación y Observaciones al Informe de Evaluación-Open Group SAS | 19/Jun/2025 - 03:41 pm |  | - |
+| Objeciones | CO1.MSG.8059071 | SASI-2-2025 - Observaciones al informe y subsanación | 19/Jun/2025 - 03:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283205 | Informe de evaluación 1 CO1.AWD.2283205 | 16/Jun/2025 - 04:23 pm |  | - |
+| Avisos | CO1.MSG.8021290 | Publicación de la lista de ofertas del proceso SASI-2-2025 (Presentación de oferta). | 12/Jun/2025 - 10:36 am |  | - |
+| Avisos | CO1.MSG.8021277 | La lista de oferentes del proceso SASI-2-2025 (Presentación de oferta) publicada por AUDITORIA GENERAL DE LA REPUBLICA | 12/Jun/2025 - 10:35 am |  | - |
+| Avisos | CO1.REQ.8358319 | Publicación modificación | 11/Jun/2025 - 05:11 pm |  |  |
+| Aclaraciones | CO1.MSG.8002568 | RE: Observaciones Media Commerce Partners S.A.S 5 de junio de 2025, OBSER. SASI-2-2025 SP, Observaciones LSN SASI-2-2025 | 09/Jun/2025 - 04:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7989908 | Observaciones Media Commerce Partners S.A.S 5 de junio de 2025 | 05/Jun/2025 - 04:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7988734 | OBSER. SASI-2-2025 SP | 05/Jun/2025 - 03:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7988495 | Observaciones LSN SASI-2-2025 | 05/Jun/2025 - 03:05 pm |  | - |
+| General | CO1.MSG.7951475 | Respuesta Observaciones Proyecto de Pliegos | 28/May/2025 - 01:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7951459 | RE: Observaciones Media Commerce Partners S.A.S 26 de mayo de 2025, OBSERVACIONES LSN, Observaciones SASI 2-2025 SP, OBSERVACIONES AUDITORIA GENERAL DE LA REPUBLICA | 28/May/2025 - 01:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7938548 | Observaciones SASI 2-2025 SP | 26/May/2025 - 04:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7938511 | Observaciones Media Commerce Partners S.A.S 26 de mayo de 2025 | 26/May/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7938421 | OBSERVACIONES LSN | 26/May/2025 - 04:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7933578 | OBSERVACIONES AUDITORIA GENERAL DE LA REPUBLICA | 25/May/2025 - 08:48 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:41 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

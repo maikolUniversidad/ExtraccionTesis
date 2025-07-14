@@ -1,0 +1,94 @@
+Title: Licitaciones - DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68547585385ec6.21530081
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:52:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir licencias, soporte y actualización de la solución GlobalSuite GRC Core - SaaS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 52 165 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+360 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 03:09 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 12:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 12:00 am

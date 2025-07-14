@@ -1,0 +1,98 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b9ec3bd8d93.69770295
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 14:21:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ESTUDIO DE MERCADO -PROCESO No.017 ADQUISICION DE EQUIPOS DE INSTRUMENTACION PARA PRUEBAS DE AJUSTE Y SISTEMAS DE COMUNICAIONES A EJECUCTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41122409 - Herramientas para laboratorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 09:17 am
+
+**Plazo para solicitar aclaraciones:**
+
+29/Abr/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 08:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7806972 | SOLICITUD INFORMACIÓN | 28/Abr/2025 - 02:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7805064 | Observacion - INTELCO COLOMBIA SAS | 28/Abr/2025 - 10:14 am |  | - |
+| Avisos | CO1.REQ.8166459 | Publicación modificación | 25/Abr/2025 - 11:40 am |  |  |

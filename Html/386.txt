@@ -1,0 +1,278 @@
+Title: Licitaciones - MUNICIPIO DE CARTAGO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c62078643a5.68586042
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:43:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE RADIOS DE COMUNICACIÓN PARA EL BATALLÓN VENCEDORES DEL MUNICIPIO DE CARTAGO VALLE DEL CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Cartago
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221721 - Equipo de comunicación de información de radio frecuencia
+
+**Códigos adicionales UNSPSC:**
+
+52161500 - Equipos audiovisuales,43222800 - Equipo de telefonía,43191500 - Dispositivos de comunicación personal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 8 No6-52 Cartago Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 150,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/Jun/2025 - 12:20 pm
+
+**Publicación Estudios Previos:**
+
+13/Jun/2025 - 12:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/Jun/2025 - 12:30 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 12:30 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+20/Jun/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+24/Jun/2025 - 09:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+24/Jun/2025 - 11:05 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+24/Jun/2025 - 11:10 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+24/Jun/2025 - 11:20 am
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 11:30 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 11:30 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 03:30 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 04:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+03/Jul/2025 - 04:02 pm
+
+**Informe de presentación de Ofertas:**
+
+03/Jul/2025 - 04:05 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jul/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jul/2025 - 10:00 am
+
+**Apertura del sobre económico:**
+
+09/Jul/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 05:30 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 10/Jul/2025 - 12:00 pm | 10/Jul/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 10/Jul/2025 - 12:00 pm | 10/Jul/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 150,000,000
+
+**Informes proceso de selección CO1.AWD.2298209 de 09/Jul/2025 - 05:14 am. Valor $150.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jul/2025 - 10:09 am |  |
+| Informe de selección | 09/Jul/2025 - 05:14 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+09/Jul/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+09/Jul/2025 - 02:30 pm
+
+**Fecha fin:**
+
+09/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2298209 | Informe de selección CO1.AWD.2298209 | 09/Jul/2025 - 05:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2302136 | Informe de evaluación 1 CO1.AWD.2302136 | 09/Jul/2025 - 03:29 pm |  | - |
+| Avisos | CO1.MSG.8142539 | Publicación de la lista de ofertas del proceso PSASIEP-012-2025 (Presentación de oferta). | 09/Jul/2025 - 02:14 pm |  | - |
+| Avisos | CO1.MSG.8142533 | La lista de oferentes del proceso PSASIEP-012-2025 (Presentación de oferta) publicada por MUNICIPIO DE CARTAGO | 09/Jul/2025 - 02:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2298209 | Informe de evaluación 1 CO1.AWD.2298209 | 04/Jul/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.8116044 | Publicación de la lista de ofertas del proceso PSASIEP-012-2025 (Presentación de oferta). | 03/Jul/2025 - 04:59 pm |  | - |
+| Avisos | CO1.MSG.8115490 | La lista de oferentes del proceso PSASIEP-012-2025 (Presentación de oferta) publicada por MUNICIPIO DE CARTAGO | 03/Jul/2025 - 04:20 pm |  | - |
+| Avisos | CO1.REQ.8410571 | Publicación modificación | 20/Jun/2025 - 06:12 pm |  |  |
+| Aclaraciones | CO1.MSG.8066064 | Observaciones proyecto de pliegos proceso SASI No. PSASIEP-012-2025 | 20/Jun/2025 - 03:12 pm |  | - |
+| General | CO1.MSG.8064527 | Solicitud aclaración limitación a MiPymes en Proceso PSASIEP-012-2025 - DISTRIBUCIONES MILITARES SAS | 20/Jun/2025 - 11:25 am |  | - |
+| General | CO1.MSG.8064323 | Solicitud aclaración limitación a MiPymes en Proceso PSASIEP-012-2025 - FUERZA ELITE OP SAS | 20/Jun/2025 - 11:20 am |  | - |
+| General | CO1.MSG.8064142 | Traslado solicitudes | 20/Jun/2025 - 11:00 am |  | - |
+| Aclaraciones | CO1.MSG.8053411 | SOLICITUD LIMITACION MIPYMES NACIONALES | 18/Jun/2025 - 04:41 pm |  | - |

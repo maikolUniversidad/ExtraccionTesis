@@ -1,0 +1,272 @@
+Title: Licitaciones - INSTITUTO DE MOVILIDAD DE PEREIRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849e9eb272189.43242394
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE ELEMENTOS DE ESCRITORIO, OFICINA Y DE PRODUCCIÓN DOCUMENTAL DE ARCHIVOS DE GESTIÓN, ARCHIVO CENTRAL E HISTÓRICO NECESARIOS PARA EL INSTITUTO DE MOVILIDAD DE PEREIRA DEL INSTITUTO DE MOVILIDAD DE PEREIRA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Pereira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111800 - Papeles de uso comercial
+
+**Códigos adicionales UNSPSC:**
+
+14111500 - Papel de imprenta y papel de escribir,44111500 - Agendas y accesorios,44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,44122000 - Carpetas de archivo, carpetas y separadores,44122100 - Suministros de sujeción,82101500 - Publicidad impresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Pilas y baterías desechables y recargables, -Productos para archivo", "licicodigos": "105,127,299,313" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 14 NO 17-60 Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 90,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 14111800, 44111500, 44121600, 44121700, 44122000, 44122100, 82101500 | CONTRATAR EL SUMINISTRO DE ELEMENTOS DE ESCRITORIO, OFICINA Y DE PRODUCCIÓN DOCUMENTAL DE ARCHIVOS DE GESTIÓN, ARCHIVO CENTRAL E HISTÓRICO NECESARIOS PARA EL INSTITUTO DE MOVILIDAD DE PEREIRA DEL INSTITUTO DE MOVILIDAD DE PEREIRA. | Selección abreviada subasta inversa | Recursos propios | $90.000.000 | CONTRATACION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+11/Jun/2025 - 03:28 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 07:00 am
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 07:00 am
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 07:00 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+17/Jun/2025 - 07:00 am
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+17/Jun/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+18/Jun/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+19/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+19/Jun/2025 - 07:19 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+25/Jun/2025 - 07:05 pm
+
+**Informe de presentación de Ofertas:**
+
+25/Jun/2025 - 07:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+04/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+08/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 04/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 90,000,000
+
+**Informes proceso de selección CO1.AWD.2293633 de 09/Jul/2025 - 08:44 am. Valor $90.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 10:00 pm |  |
+| Informe de selección | 09/Jul/2025 - 08:44 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jul/2025 - 10:30 am
+
+**Fecha de inicio:**
+
+04/Jul/2025 - 11:00 am
+
+**Fecha fin:**
+
+04/Jul/2025 - 11:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293633 | Informe de selección CO1.AWD.2293633 | 09/Jul/2025 - 08:44 am |  | - |
+| Avisos | CO1.MSG.8129114 | La lista de oferentes del proceso IMP-SASIE-168-2025 (Presentación de oferta) publicada por INSTITUTO DE MOVILIDAD DE PEREIRA | 07/Jul/2025 - 03:50 pm |  | - |
+| Avisos | CO1.MSG.8129120 | Publicación de la lista de ofertas del proceso IMP-SASIE-168-2025 (Presentación de oferta). | 07/Jul/2025 - 03:50 pm |  | - |
+| Avisos | CO1.REQ.8442996 | Publicación modificación | 02/Jul/2025 - 02:42 pm |  |  |
+| Reporte preliminar | CO1.AWD.2293633 | Informe de evaluación 1 CO1.AWD.2293633 | 27/Jun/2025 - 10:00 pm |  | - |
+| Avisos | CO1.MSG.8083754 | Publicación de la lista de ofertas del proceso IMP-SASIE-168-2025 (Presentación de oferta). | 25/Jun/2025 - 09:57 pm |  | - |
+| Avisos | CO1.MSG.8083752 | Publicación de la lista de ofertas del proceso IMP-SASIE-168-2025 (Presentación de oferta). | 25/Jun/2025 - 09:57 pm |  | - |
+| Avisos | CO1.MSG.8083635 | Publicación de la lista de ofertas del proceso IMP-SASIE-168-2025 (Presentación de oferta). | 25/Jun/2025 - 09:07 pm |  | - |
+| Avisos | CO1.MSG.8083634 | La lista de oferentes del proceso IMP-SASIE-168-2025 (Presentación de oferta) publicada por INSTITUTO DE MOVILIDAD DE PEREIRA | 25/Jun/2025 - 09:07 pm |  | - |

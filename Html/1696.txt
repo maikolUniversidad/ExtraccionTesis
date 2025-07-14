@@ -1,0 +1,138 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA SEBASTIAN BELALCAZAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ae2cb83d195.94687488
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 09:23:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE SOFTWARE PARA PROCESOS EDUCATIVOS DE LA INSTITUCIÓN EDUCATIVA SEBASTIAN DE BELALCAZAR DEL MUNIPIO DE SAPUYES- DEPARTAMENTO DE NARIÑO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Sapuyes
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+SAPUYES Sapuyes Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,650,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300 | SUMINISTRO DE SOTFWARE PARA PROCESOS EDUCATIVOS | Contratación régimen especial - Régimen especial | SGP | $1.650.000 | OFICINA DE CONTRATACION I.E SEBASTIAN BELALCAZAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 08:25 am
+
+**Fecha de Firma del Contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+13/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 50 |
+| 2 | 50 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No

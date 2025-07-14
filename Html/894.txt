@@ -1,0 +1,280 @@
+Title: Licitaciones - INSPECCION DE TRANSITO Y TRANSPORTE DE BARRANCABERMEJA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b7e3ec0a95.07957284
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:12:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMIINISTRO DE APARATOS DE COMUNICACIÓN INMEDIATA TELEFONICA CON TECNOLOGIA PARA EL FORTALECIMIENTO DE LAS COMUNICACIONES DE LA ITTB
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221721 - Equipo de comunicación de información de radio frecuencia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 2 # 50-25 Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 05:07 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 12:00 pm | 17/Ene/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jun/2025 - 12:00 pm | 17/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMUNICACIONES DE SANTANDER S.A.S | Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 31,005,000
+
+**Informes proceso de selección CO1.AWD.2260654 de 27/May/2025 - 03:43 am. Valor $31.005.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 03:45 pm |  |
+| Informe de evaluación | 23/May/2025 - 03:45 pm |  |
+| Informe de evaluación | 27/May/2025 - 03:40 pm |  |
+| Informe de selección | 27/May/2025 - 03:43 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260654**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMUNISANDER S.A.S. * **Tipo documento:** NIT * **Documento:** 890205950 | * **Nombre:** SERGIO MONTAÑEZ SERRANO * **Tipo documento:** * **Documento:** 91476533 | - Santander | $31.005.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260654****
+
+**Contrato MIC-ITTB-007-2025 de COMUNISANDER S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+MIC-ITTB-007-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMIINISTRO DE APARATOS DE COMUNICACIÓN INMEDIATA TELEFONICA CON TECNOLOGIA PARA EL FORTALECIMIENTO DE LAS COMUNICACIONES DE LA ITTB
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43221721 | EQUIPO RUGERIZADOS RG 360 4G LTE / VOLTE / WIFI / Bluetooth RAM 1GB, ROM 8GB. Expandible con MIcro SD a 128GB Batería Remplazables Altavoz Potente: 105Db | 39,00 | UN | 871.794,87 | 795.000,00 | 33.999.999,93 | 31.005.000,00 |
+
+**Fecha de terminación del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 31,005,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Comunicación de la Oferta.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260654 | Informe de selección CO1.AWD.2260654 | 27/May/2025 - 03:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260654 | Informe de evaluación 2 CO1.AWD.2260654 | 27/May/2025 - 03:40 pm |  | - |
+| Avisos | CO1.MSG.7930772 | Publicación de la lista de ofertas del proceso MIC-ITTB-007-2025. | 23/May/2025 - 03:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260654 | Informe de evaluación 1 CO1.AWD.2260654 | 23/May/2025 - 03:45 pm |  | - |
+| Avisos | CO1.MSG.7921551 | La lista de oferentes del proceso MIC-ITTB-007-2025 publicada por INSPECCION DE TRANSITO Y TRANSPORTE DE BARRANCABERMEJA | 22/May/2025 - 11:08 am |  | - |
+| General | CO1.MSG.7910395 | Aviso No se limita a Mipymes Territoriales | 20/May/2025 - 04:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7910369 | Respuestas a observaciones invitación pública | 20/May/2025 - 04:37 pm |  | - |
+| General | CO1.MSG.7910385 | Respuestas a Observaciones Invitación | 20/May/2025 - 04:37 pm |  | - |
+| Avisos | CO1.REQ.8275827 | Publicación modificación | 19/May/2025 - 11:58 am |  |  |
+| Aclaraciones | CO1.MSG.7899707 | MANIFESTACION DE DE LIMITAR A MIPYMES DEPARTAMENTAL (SANTANDER) | 19/May/2025 - 09:32 am |  | - |
+| Aclaraciones | CO1.MSG.7899561 | SOLICITUD DE PUBLICACIÓN DE ANEXOS | 19/May/2025 - 09:16 am |  | - |

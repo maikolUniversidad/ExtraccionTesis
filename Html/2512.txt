@@ -1,0 +1,90 @@
+Title: Licitaciones - ESM BATALLÓN ASPC NO. 6
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d04645c4b22.73369564
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-21 09:13:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS ACTIVOS INFORMÁTICOS, COMPUTADORES, IMPRESORAS, ESCÁNERES A TODO COSTO EN LOS ESTABLECIMIENTOS DE SANIDAD MILITAR DE LA REGIONAL 5
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 N° 8-122 Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 05:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 10:00 am

@@ -1,0 +1,266 @@
+Title: Licitaciones - MUNICIPIO DE MONTERIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c5b3450cda1.86378466
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:30:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE MOBILIARIO, ENSERES DOMÉSTICOS Y EQUIPOS DE CÓMPUTO PARA LA DOTACIÓN DE LA SEDE DE LA POLICÍA EN LA MARGEN IZQUIERDA DEL MUNICIPIO DE MONTERÍA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Montería
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101500 - Muebles
+
+**Códigos adicionales UNSPSC:**
+
+56101700 - Muebles de oficina,56111500 - Sitios de trabajo y paquetes para la oficina,56112100 - Asientos,52131600 - Persianas,52161500 - Equipos audiovisuales,52141500 - Electrodomésticos para cocina,52141600 - Lavadoras y suministros de uso doméstico,43211500 - Computadores,43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador,56111800 - Muebles independientes,52121500 - Ropa de cama
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Mobiliario, -Electrodomésticos, -Artículos para premiación e insignias, -Persianas - Cortinas - Black out", "licicodigos": "104,128,139,193,384" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 27 No. 3 -16 Montería Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,464,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56101500, 56101700, 56111500, 56111800, 56112100, 52131600, 52161500, 52141500, 52141600, 43211500, 43211700, 43212100, 52121500 | 5108-ADQUISICIÓN DE MOBILIARIO, ENSERES DOMÉSTICOS Y EQUIPOS DE CÓMPUTO PARA LA DOTACIÓN DE LA SEDE DE LA POLICÍA EN LA MARGEN IZQUIERDA DEL MUNICIPIO DE MONTERÍA | Selección abreviada subasta inversa | Recursos propios | $1.464.000.000 | UC - SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Jun/2025 - 03:22 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Jun/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+25/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jul/2025 - 06:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jul/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 07:27 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jul/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 08:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+21/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+21/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+22/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+23/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 22/Jul/2025 - 12:00 pm | 28/Feb/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 22/Jul/2025 - 12:00 pm | 28/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 22/Jul/2025 - 12:00 pm | 28/Feb/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+21/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+21/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+21/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8153993 | La lista de oferentes del proceso SI-SGOB-016-2025 (Presentación de oferta) publicada por MUNICIPIO DE MONTERIA | 11/Jul/2025 - 08:08 am |  | - |
+| General | CO1.MSG.8152326 | RESPUESTA A OBSERVACIONES | 10/Jul/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.8152314 | RE: SOLICITUD DE ACLARACION | 10/Jul/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.8152300 | RE: Observación técnica y jurídica sobre omisión de estudios ergonómicos | 10/Jul/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.8152262 | RE: OBSERVACION PLIEGOS DEFINITIVOS | 10/Jul/2025 - 05:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8138773 | RE: Observaciones al pliego de condiciones | 08/Jul/2025 - 08:39 pm |  | - |
+| General | CO1.MSG.8138770 | RESPUESTA A OBSERVACIONES | 08/Jul/2025 - 08:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8130873 | Observaciones al pliego de condiciones | 07/Jul/2025 - 06:11 pm |  | - |
+| Aclaraciones | CO1.MSG.8096925 | OBSERVACIONES AL PROCESO | 28/Jun/2025 - 01:37 pm |  | - |
+| Aclaraciones | CO1.MSG.8086553 | ONSERVACION 2 PROYECTO DE PLIEGOS | 26/Jun/2025 - 12:11 pm |  | - |
+| Aclaraciones | CO1.MSG.8086023 | OBSERVACION PROYECTO DE PLIEGOS | 26/Jun/2025 - 11:13 am |  | - |
+| Aclaraciones | CO1.MSG.8083907 | OBSERVACIONES FICHAS TECNICAS | 25/Jun/2025 - 11:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8082865 | Observaciones al proceso de Contratación de Selección Abreviada por Subasta Inversa - No. SI-SGOB-016-2025 - MANUFACTURAS EL LIDER SAS. | 25/Jun/2025 - 06:08 pm |  | - |

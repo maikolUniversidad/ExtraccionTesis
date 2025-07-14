@@ -1,0 +1,284 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827a2858480a7.61704366
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:44:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+11253 - PRESTAR LOS SERVICIOS DE MESA DE SERVICIOS DE TI PARA LA SECRETARÍA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,81161500 - Servicios de administración de acceso,81161600 - Servicios de correo electrónico y mensajería,81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Helpdesk o mesa de ayuda", "licicodigos": "102,374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 30 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av calle 26 No. 57 - 83 Torre 7 piso 6 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, México, Unión Europea, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 7,389,672,574
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800, 81112000, 81112200, 81112300, 81161500, 81161600, 81161700 | 11253-PRESTAR LOS SERVICIOS DE MESA DE SERVICIOS DE TI PARA LA SECRETARÍA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA. | Selección abreviada subasta inversa | Recursos propios | $7.389.672.574 | Dirección Jurídica y Contractual |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 03:23 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 05:25 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jun/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jun/2025 - 11:06 am
+
+**Publicación del informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+09/Jul/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+15/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+16/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 08:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+21/Jul/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 08:00 am | 31/May/2028 - 11:59 pm |
+| Pago de salarios | 5,00 | 26/Jun/2025 - 08:00 am | 30/Nov/2030 - 11:59 pm |
+| Calidad del servicio | 20,00 | 26/Jun/2025 - 08:00 am | 31/May/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 26/Jun/2025 - 08:00 am | 31/May/2028 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+14/Jul/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+14/Jul/2025 - 02:30 pm
+
+**Fecha fin:**
+
+14/Jul/2025 - 02:50 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8148329 | ADENDA No 6 | 10/Jul/2025 - 10:54 am |  | - |
+| Avisos | CO1.REQ.8358451 | Publicación modificación | 10/Jul/2025 - 10:53 am |  |  |
+| Reporte preliminar | CO1.AWD.2292417 | Informe de evaluación 5 CO1.AWD.2292417 | 09/Jul/2025 - 06:11 pm |  | - |
+| Avisos | CO1.MSG.8142560 | Publicación de la lista de ofertas del proceso SCJ-SASIE-5-2025 (Presentación de oferta). | 09/Jul/2025 - 02:17 pm |  | - |
+| Avisos | CO1.MSG.8142541 | La lista de oferentes del proceso SCJ-SASIE-5-2025 (Presentación de oferta) publicada por SECRETARIA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA | 09/Jul/2025 - 02:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292417 | Informe de evaluación 4 CO1.AWD.2292417 | 09/Jul/2025 - 01:19 pm |  | - |
+| General | CO1.MSG.8139738 | Oficio de subsanación técnica 3 oferta SCJ-SASIE-5-2025. Respetados miembros del Comité Evaluador | 09/Jul/2025 - 09:03 am |  | - |
+| General | CO1.MSG.8139110 | SUBSANACION SOLUCIONES DE PRODUCTIVIDAD SAS | 08/Jul/2025 - 11:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292417 | Informe de evaluación 3 CO1.AWD.2292417 | 08/Jul/2025 - 06:13 pm |  | - |
+| General | CO1.MSG.8131861 | Solicitud de revisión de documentos de subsanación - Proceso SCJ-SASIE-5-2025 | 07/Jul/2025 - 10:38 pm |  | - |
+| General | CO1.MSG.8130084 | ADENDA No 5 | 07/Jul/2025 - 05:05 pm |  | - |
+| Avisos | CO1.REQ.8358451 | Publicación modificación | 07/Jul/2025 - 05:02 pm |  |  |
+| General | CO1.MSG.8129257 | RESPUESTAS OBSERVACIONES INFORME PRELIMINAR DE EVALUACIÓN | 07/Jul/2025 - 04:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292417 | Informe de evaluación 2 CO1.AWD.2292417 | 07/Jul/2025 - 03:47 pm |  | - |
+| General | CO1.MSG.8119316 | SUBSANACION COLSOF SAS | 04/Jul/2025 - 10:47 am |  | - |
+| General | CO1.MSG.8119361 | Formato SST | 04/Jul/2025 - 10:38 am |  | - |
+| Objeciones | CO1.MSG.8109262 | Subsanación requisitos habilitantes | 02/Jul/2025 - 04:57 pm |  | - |
+| General | CO1.MSG.8109244 | Subsanación requisitos habilitantes | 02/Jul/2025 - 04:56 pm |  | - |
+| Objeciones | CO1.MSG.8108229 | subsanación informe de evaluación 1 | 02/Jul/2025 - 04:37 pm |  | - |
+| General | CO1.MSG.8108803 | Subsanación | 02/Jul/2025 - 04:35 pm |  | - |
+| General | CO1.MSG.8108388 | DOCUMENTOS SUBSANE | 02/Jul/2025 - 03:53 pm |  | - |
+| General | CO1.MSG.8108211 | Observaciones a la Evaluacion Preliminar | 02/Jul/2025 - 03:36 pm |  | - |
+| General | CO1.MSG.8107146 | Subsanación_ | 02/Jul/2025 - 01:30 pm |  | - |
+| General | CO1.MSG.8106629 | SUBSANACION AL PROCESO | 02/Jul/2025 - 11:58 am |  | - |
+| General | CO1.MSG.8106422 | Subsanación oferta SCJ-SASIE-5-2025 | 02/Jul/2025 - 11:56 am |  | - |
+| Objeciones | CO1.MSG.8104321 | Respuesta Observaciones | 02/Jul/2025 - 11:28 am |  | - |
+| Objeciones | CO1.MSG.8104599 | Aclaración Evaluación Preliminar | 02/Jul/2025 - 08:30 am |  | - |
+| General | CO1.MSG.8104165 | Documentos para Subsanar Nuestra Propuesta | 01/Jul/2025 - 11:03 pm |  | - |
+| General | CO1.MSG.8104153 | Documentos para Subsanar Nuestra Propuesta | 01/Jul/2025 - 10:48 pm |  | - |
+| General | CO1.MSG.8098962 | Subsanación XDC | 01/Jul/2025 - 10:18 am |  | - |

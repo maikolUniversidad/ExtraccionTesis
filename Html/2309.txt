@@ -1,0 +1,86 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cc7fd29ac04.14376215
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 08:23:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar los servicios de mantenimiento preventivo y correctivo a la impresora de carné con referencia fargo dtc 4500e al servicio de la subdirección administrativa y financiera, al igual que el suministro de los materiales
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101707 - Mantenimiento de equipos de impresión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "106,468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 09:47 am
+
+**Plazo para solicitar aclaraciones:**
+
+13/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/May/2025 - 12:00 pm

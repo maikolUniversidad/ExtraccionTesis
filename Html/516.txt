@@ -1,0 +1,215 @@
+Title: Licitaciones - ESCUELA TECNOLÓGICA INSTITUTO TÉCNICO CENTRAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e27fc790e46.38842005
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 02:44:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE LICENCIA LABVIEW ACADEMIC Y MULTISIM TEACHING AND RESEARCH COMO APOYO A LAS ACTIVIDADES ACADEMICAS DE LA ESCUELA TECNOLOGICA INSTITUTO TÉCNICO CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231513 - Software para oficinas
+
+**Códigos adicionales UNSPSC:**
+
+81161501 - Servicio de administración de aplicaciones de software,81161502 - Servicio de administración de cuentas en la red,81161503 - Servicio de administración de carpetas en la red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 13 No. 16 - 74 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 10:40 am
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 12:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+19/May/2025 - 05:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+20/May/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+20/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+20/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+21/May/2025 - 09:52 am
+
+**Plazo para manifestación de interés:**
+
+21/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+26/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+28/May/2025 - 05:01 pm
+
+**Informe de presentación de Ofertas:**
+
+28/May/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jun/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+12/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 13/Jun/2025 - 05:00 pm | 13/Jun/2026 - 05:00 pm |
+| Calidad del servicio | 10,00 | 13/Jun/2025 - 05:00 pm | 13/Jun/2026 - 05:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 13/Jun/2025 - 05:00 pm | 13/Jun/2026 - 05:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7893933 | RE: Observación al borrador del Pliego de Condiciones del Proceso de Selección Abreviada de Menor Cuantía No. ITC-SAMC-010-2025 | 16/May/2025 - 11:50 am |  | - |
+| Aclaraciones | CO1.MSG.7876089 | Observación al borrador del Pliego de Condiciones del Proceso de Selección Abreviada de Menor Cuantía No. ITC-SAMC-010-2025 | 13/May/2025 - 04:55 pm |  | - |

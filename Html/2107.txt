@@ -1,0 +1,116 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE LA MUJER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685466b9595265.79010593
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:54:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación del soporte por fabricante de los equipos switch de acceso de la Secretaría Distrital de la Mujer
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232700 - Software de aplicaciones de red
+
+**Códigos adicionales UNSPSC:**
+
+43232800 - Software de administración de redes,43222500 - Equipo de seguridad de red,43222600 - Equipo de servicio de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No. 69-76 Torre 1 Piso 9 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 150,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232700 | I - SCDPI-101-01035-25 - Renovación soporte de fabrica para la los Switch de acceso de nivel central y sedes por 3 años | Selección abreviada subasta inversa | NotApplied | $150.000.000 | DIRECCIÓN DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 02:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8142155 | RE: Solicitud rta observaciones | 09/Jul/2025 - 01:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8092882 | Observaciones EM SDMUJER | 27/Jun/2025 - 11:41 am |  | - |
+| Aclaraciones | CO1.MSG.8085556 | OBSERVACION | 26/Jun/2025 - 11:01 am |  | - |

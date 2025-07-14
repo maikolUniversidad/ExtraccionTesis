@@ -1,0 +1,96 @@
+Title: Licitaciones - DEPARTAMENTO DE CUNDINAMARCA -SECRETARIA DE GOBIERNO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827a952c631a2.78722466
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:44:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Proveer el desarrollo de un chatbot con inteligencia artificial] generativa y su correspondiente soporte, configuración e integracion a la aplicación móvil denominada ConcejApp, para la asesoría en línea a los concejales del departamento d e Cundinamarca en el marco del programa CONCEJALES Y EDILES A LA VANGUARDIA de la Secretaría de Gobierno y Seguridad Ciudadana.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Helpdesk o mesa de ayuda", "licicodigos": "102,374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 51-53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 04:05 pm
+
+**Plazo para solicitar aclaraciones:**
+
+19/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8130454 | RE: RE: RE: Aclaraciones de la licitación | 07/Jul/2025 - 05:39 pm |  | - |

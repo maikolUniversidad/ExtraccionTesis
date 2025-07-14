@@ -1,0 +1,272 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA ANTONIA SANTOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a9a63136de0.08138593
+
+Markdown Content:
+Licitaciones - INSTITUCION EDUCATIVA ANTONIA SANTOS - Régimen Especial No. RE-IEAS-03-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-12 15:52:28
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Régimen Especial
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+EL CONTRATISTA se compromete para con la Institución Educativa a realizar por sus propios medios y autonomía administrativa los servicios de mantenimiento preventivos y/o correctivos, suministro de tóner, tintas y repuestos a las diferentes impresoras y fotocopiadoras.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Valle del Cauca : Yumbo
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+72154065 - Mantenimiento de equipos eléctricos de copiado
+
+**Códigos adicionales UNSPSC:**
+44103103 - Tóner para impresoras o fax
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+Carrera 4 No. 7 - 18 Colegio Antonia Santos B/ Bel Yumbo Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+24/Abr/2025 - 02:43 pm
+
+**Fecha límite de presentación de ofertas:**
+
+29/Abr/2025 - 09:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+29/Abr/2025 - 09:10 am
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 04:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+06/May/2025 - 06:00 pm
+
+**Plazo de ejecución del contrato:**
+
+26/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 12:00 pm | 26/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 05/May/2025 - 12:00 pm | 26/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 5,00 | 05/May/2025 - 12:00 pm | 26/Dic/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 05/May/2025 - 12:00 pm | 26/Dic/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** RUBEN DARIO ALVAREZ LEYVA | Yumbo - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 5,500,000
+
+**Informes proceso de selección CO1.AWD.2239553 de 05/May/2025 - 02:21 am. Valor $5.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 04:25 pm |  |
+| Informe de selección | 05/May/2025 - 02:21 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2239553**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** RUBEN DARIO ALVAREZ LEYVA * **Tipo documento:** Nit de Persona Natural * **Documento:** 16449522 | * **Nombre:** RUBEN DARIO ALVAREZ LEYVA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 16449522 | Yumbo - Valle del Cauca | $5.500.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2239553****
+
+**Contrato CO1.PCCNTR.7845518 de RUBEN DARIO ALVAREZ LEYVA:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7845518
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+EL CONTRATISTA se compromete para con la Institución Educativa a realizar por sus propios medios y autonomía administrativa los servicios de mantenimiento preventivos y/o correctivos, suministro de tóner, tintas y repuestos a las diferentes impresoras y fotocopiadoras.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 72154065 | EL CONTRATISTA se compromete para con la Institución Educativa a realizar por sus propios medios y autonomía administrativa los servicios de mantenimiento preventivos y/o correctivos, suministro de tóner, tintas y repuestos a las diferentes impresoras y fotocopiadoras. | 1,00 | UN | 5.500.000,00 | 5.500.000,00 | 5.500.000,00 | 5.500.000,00 |
+
+**Fecha inicio del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Fecha de terminación del contrato:**
+
+26/Dic/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 5,500,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 11 Aprobación de poliza (1).pdf |  |
+|  | 12 Acta de Inicio (3).pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2239553 | Informe de selección CO1.AWD.2239553 | 05/May/2025 - 02:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239553 | Informe de evaluación 1 CO1.AWD.2239553 | 30/Abr/2025 - 04:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239326 | Informe de evaluación 1 CO1.AWD.2239326 | 30/Abr/2025 - 01:36 pm |  | - |
+| Aclaraciones | CO1.MSG.7806653 | RE: Observación | 28/Abr/2025 - 02:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7801194 | Observación | 25/Abr/2025 - 04:12 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:50 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open the web page using the link",
+  "Type": "App",
+  "Id": "R-nD8efRlUKjUTi7VjT6bg",
+  "Reference": "qCejIrBFe0qRQF-PnoPYfQ/R-nD8efRlUKjUTi7VjT6bg",
+  "Created": "2025-07-12T20:11:52.2092941Z",
+  "Updated": "2025-07-12T20:11:52.2092941Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

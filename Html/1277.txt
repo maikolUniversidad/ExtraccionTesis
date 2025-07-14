@@ -1,0 +1,195 @@
+Title: Licitaciones - INSTITUTO UNIVERSITARIO DE LA PAZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68100464621fd6.06202586
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 09:48:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE HERRAMIENTAS TECNOLÓGICAS PARA LA EJECUCIÓN DE ACTIVIDADES EN MARCO DEL CONVENIO ESPECÍFICO DE CIENCIA Y TECNOLOGÍA N°3054342 CELEBRADO ENTRE ECOPETROL S.A Y EL INSTITUTO UNIVERSITARIO DE LA PAZ- UNIPAZ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232600 - Software específico para la industria
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo", "licicodigos": "103,104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Kilómetro 14 Vía Bucaramanga, Vereda el Zarzal Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500 | ADQUISICIÓN DE HERRAMIENTAS TECNOLÓGICAS PARA LA EJECUCIÓN DE ACTIVIDADES EN MARCO DEL CONVENIO ESPECÍFICO DE CIENCIA Y TECNOLOGÍA N°3054342 CELEBRADO ENTRE ECOPETROL S.A Y EL INSTITUTO UNIVERSITARIO DE LA PAZ- UNIPAZ | Mínima cuantía | Recursos propios | $11.891.181 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 05:28 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 05:04 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 05:11 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 01:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/May/2025 - 12:00 pm | 11/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 06/May/2025 - 12:00 pm | 11/Nov/2025 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8179905 | Publicación modificación | 29/Abr/2025 - 05:13 pm |  |  |

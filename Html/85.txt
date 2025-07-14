@@ -1,0 +1,208 @@
+Title: Licitaciones - DEPARTAMENTO DEL META
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c8ca454d798.36296706
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-30 08:07:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+FORTALECER ACTIVIDADES PRODUCTIVAS Y DE SUSTENTO QUE PROMUEVAN EL MEJORAMIENTO DE LA CALIDAD DE VIDA DE LAS PERSONAS CON DISCAPACIDAD Y SUS FAMILIAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+24102000 - Disposición en estantes y almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+80101600 - Gerencia de proyectos,24131500 - Refrigeradores industriales,56121900 - Mobiliario de demostración,47131600 - Escobas, traperos, cepillos y accesorios,78111800 - Transporte de pasajeros por carretera,86101700 - Servicios de capacitación vocacional no - científica,50101700 - Frutos secos,50151500 - Grasas y aceites vegetales comestibles,50161500 - Chocolates, azúcares, edulcorantes productos,50171500 - Hierbas y especias y extractos,50171800 - Salsas y condimentos y productos para untar,50221300 - Harina y productos de molinos,56131700 - Aparatos, estantes, sistemas y accesorios para instalación de mercancías
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mobiliario, -Electrodomésticos, -Capacitación y educación no formal, -Artículos de cafetería y víveres, -Artículos de aseo, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores", "licicodigos": "128,139,165,186,260,454" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 33 No. 38 - 45 EDIFICIO GOBERNACION DEL META PISO 2 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,074,560,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 24102000, 42211700, 80101600, 80101700, 93131608, 93141900, 10171500, 10151500, 10171600, 10101600, 24131500, 48101600, 52141500, 52141700, 93131600, 70121800, 70122000, 70141500, 27112000, 78101800 | Social_GAMPCD- 185 FORTALECER LA VIDA ECONOMICA Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD DEL DEPARTAMENTO DEL META (PROYECTOS PRODUCTIVOS DISCAPACIDAD) | Licitación pública | Recursos propios | $2.074.560.000 | GOBMETA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Jun/2025 - 06:54 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+25/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Jun/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+10/Jul/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+11/Jul/2025 - 12:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+11/Jul/2025 - 01:00 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+11/Jul/2025 - 01:00 pm
+
+**Audiencia de asignación de Riesgos:**
+
+16/Jul/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/Jul/2025 - 02:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/Jul/2025 - 08:00 am
+
+**Apertura de Ofertas:**
+
+22/Jul/2025 - 08:01 am
+
+**Informe de presentación de Ofertas:**
+
+22/Jul/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jul/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+31/Jul/2025 - 04:00 pm
+
+**Audiencia de Adjudicación:**
+
+04/Ago/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Ago/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+05/Ago/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Ago/2025 - 12:00 pm | 05/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 06/Ago/2025 - 12:00 pm | 05/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 06/Ago/2025 - 12:00 pm | 05/Abr/2026 - 11:59 pm |

@@ -1,0 +1,186 @@
+Title: Licitaciones - CGA - Contratación mínima cuantía MC CGA 026-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835fc9cdf23f3.37143612
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 20:49:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS TECNOLÓGICOS PARA LA CONTRALORIA GENERAL DE ANTIOQUIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211706 - Teclados
+
+**Códigos adicionales UNSPSC:**
+
+43211708 - Mouse o bola de seguimiento para computador,52161514 - Audífonos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 42 B 52-106 piso 7 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 11:58 am
+
+**Publicación de estudios previos:**
+
+28/May/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+28/May/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+04/Jun/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+04/Jun/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+16/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(13/Jun/2025 - 04:14 am:41 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CGA en 4 horas de tiempo transcurrido (13/Jun/2025 - 04:14 am:41 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: como medida preventiva para garantizar condiciones de participación objetivas y transparentes, la Entidad ha resuelto reestructurar el proceso, procurando asegurar mayor claridad, planeación y anticipación en la comunicación de los requisitos de participación.
+
+**Fecha de la cancelación:**
+
+13/Jun/2025 - 04:14 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8031382 | DECLARATORIA DE DESIERTA | 13/Jun/2025 - 04:12 pm |  | - |
+| Avisos | CO1.REQ.8326909 | Publicación modificación | 11/Jun/2025 - 04:22 pm |  |  |
+| Avisos | CO1.MSG.7981082 | Publicación de la lista de ofertas del proceso MC CGA 026-2025. | 04/Jun/2025 - 02:54 pm |  | - |
+| Avisos | CO1.MSG.7979062 | La lista de oferentes del proceso MC CGA 026-2025 publicada por CGA | 04/Jun/2025 - 10:56 am |  | - |
+| General | CO1.MSG.7977759 | LIMITACIÓN A MIPYMES DEPARTAMENTAL | 04/Jun/2025 - 08:51 am |  | - |
+| Aclaraciones | CO1.MSG.7957484 | Anexo limitación a mipymes munipales | 29/May/2025 - 10:16 am |  | - |
+| Aclaraciones | CO1.MSG.7955788 | SOLICITUD DE LIMITAR EL PRESENTE PROCESO A MIPYMES MUNICIPALES | 28/May/2025 - 09:42 pm |  | - |

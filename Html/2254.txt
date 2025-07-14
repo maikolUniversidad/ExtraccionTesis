@@ -1,0 +1,110 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) OFTIC 2025-II
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812a005ec2c21.91755518
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 09:23:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+La infraestructura tecnológica de la Policía Nacional soporta todos los procesos administrativos y operativos que se requieren para cumplir con su misión Institucional, esta infraestructura está compuesta por una plataforma de servidores configurados con el software de bases de datos y productos aplicación de ORACLE, por tanto, se hace necesario que el equipo de trabajo de la Policía Nacional de Colombia responsables de mantener la disponibilidad, integridad y seguridad de la plataforma de datos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "102,106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 59 26-21 Can Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 10:05 am
+
+**Plazo para solicitar aclaraciones:**
+
+15/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 12:00 pm
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(07/May/2025 - 12:51 pm:18 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal DILOF en 20 horas de tiempo transcurrido (07/May/2025 - 12:51 pm:18 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: redifiniciòn de recursos
+
+**Fecha de la cancelación:**
+
+07/May/2025 - 12:51 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8189466 | Publicación modificación | 05/May/2025 - 11:49 am |  |  |
+| Avisos | CO1.REQ.8189466 | Publicación modificación | 01/May/2025 - 09:26 am |  |  |
+| Avisos | CO1.REQ.8189466 | Publicación modificación | 01/May/2025 - 09:25 am |  |  |
+| Avisos | CO1.REQ.8189466 | Publicación modificación | 01/May/2025 - 09:14 am |  |  |
+| Avisos | CO1.REQ.8189466 | Publicación modificación | 30/Abr/2025 - 10:31 am |  |  |

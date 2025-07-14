@@ -1,0 +1,273 @@
+Title: Licitaciones - ALCALDIA DE PASTO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d93676f090.39866541
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 15:10:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+El CONTRATISTA, se compromete para con el MUNICIPIO DE PASTO, a prestar el servicio de recargas, remanufacturas de tóneres y cartuchos, además del suministro de elementos y tintas de equipo de impresión necesarias para las diferentes dependencias de la Administración Municipal de Pasto, bajo la modalidad de monto agotable. (SG - AL - 029)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CAM ANGANOY LOS ROSALES II Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+175 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 117,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44101700 | El CONTRATISTA, se compromete para con el MUNICIPIO DE PASTO, a prestar el servicio de recargas, re manufacturas de tóner y cartuchos suministro de elementos y tintas de equipos de impresión necesarias para las diferentes dependencias de la administración Municipal de Pasto, bajo la modalidad de monto agotable. SG - AL - 029 | Selección abreviada subasta inversa | SGP | $117.000.000 | Departamento Administrativo de Contratación Pública |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 04:11 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+10/Jun/2025 - 03:45 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+10/Jun/2025 - 06:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+10/Jun/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+11/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+16/Jun/2025 - 09:10 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 09:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+07/Jul/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+14/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/Jul/2025 - 08:00 am | 30/Jun/2026 - 06:00 pm |
+| Calidad del servicio | 10,00 | 09/Jul/2025 - 08:00 am | 30/Jun/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 09/Jul/2025 - 08:00 am | 30/Jun/2026 - 06:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jul/2025 - 07:00 pm
+
+**Fecha de inicio:**
+
+07/Jul/2025 - 09:00 am
+
+**Fecha fin:**
+
+07/Jul/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8127565 | AVISO NO. 3 REANUDACION DE AUDIENCIA | 07/Jul/2025 - 12:12 pm |  | - |
+| General | CO1.MSG.8127552 | AVISO NO. 2 | 07/Jul/2025 - 12:12 pm |  | - |
+| Avisos | CO1.MSG.8125991 | Publicación de la lista de ofertas del proceso SU-2025-10 (Presentación de oferta). | 07/Jul/2025 - 09:36 am |  | - |
+| Avisos | CO1.MSG.8125984 | La lista de oferentes del proceso SU-2025-10 (Presentación de oferta) publicada por ALCALDIA DE PASTO | 07/Jul/2025 - 09:35 am |  | - |
+| General | CO1.MSG.8122720 | RESPUESTA OBSERVACION INFORME PRELIMINAR | 04/Jul/2025 - 05:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289862 | Informe de evaluación 2 CO1.AWD.2289862 | 04/Jul/2025 - 04:51 pm |  | - |
+| Objeciones | CO1.MSG.8084264 | [Respondido] RE:RESPUESTA INFORME DE EVALUACION | 27/Jun/2025 - 10:15 am |  | - |
+| General | CO1.MSG.8092136 | RE: SUBSANACION | 27/Jun/2025 - 10:14 am |  | - |
+| General | CO1.MSG.8092113 | RE: OBSERVACIONES AL INFORME | 27/Jun/2025 - 10:13 am |  | - |
+| Objeciones | CO1.MSG.8084264 | RESPUESTA INFORME DE EVALUACION | 26/Jun/2025 - 02:46 pm |  | - |
+| General | CO1.MSG.8087441 | SUBSANACION | 26/Jun/2025 - 02:35 pm |  | - |
+| General | CO1.MSG.8084601 | OBSERVACIONES AL INFORME | 26/Jun/2025 - 11:24 am |  | - |
+| General | CO1.MSG.8077630 | RE: SUBSANACION REQUISITOS HABILITANTES | 25/Jun/2025 - 09:17 am |  | - |
+| General | CO1.MSG.8074339 | SUBSANACION REQUISITOS HABILITANTES | 24/Jun/2025 - 04:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289862 | Informe de evaluación 1 CO1.AWD.2289862 | 24/Jun/2025 - 03:04 pm |  | - |
+| Avisos | CO1.MSG.8035414 | La lista de oferentes del proceso SU-2025-10 (Presentación de oferta) publicada por ALCALDIA DE PASTO | 16/Jun/2025 - 10:18 am |  | - |
+| Avisos | CO1.MSG.8035421 | Publicación de la lista de ofertas del proceso SU-2025-10 (Presentación de oferta). | 16/Jun/2025 - 10:18 am |  | - |
+| Avisos | CO1.REQ.8393298 | Publicación modificación | 11/Jun/2025 - 08:48 am |  |  |
+| General | CO1.MSG.8009510 | RESPUESTA OBSERVACIONES | 10/Jun/2025 - 03:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7971277 | OBSERVACIONES | 03/Jun/2025 - 09:33 am |  | - |
+| Aclaraciones | CO1.MSG.7964059 | RE: Solicitud Limitación MiPymes Proceso No. SU-2025-10 | 30/May/2025 - 09:36 am |  | - |
+| Aclaraciones | CO1.MSG.7957153 | Solicitud Limitación MiPymes Proceso No. SU-2025-10 | 29/May/2025 - 09:45 am |  | - |
+| Aclaraciones | CO1.MSG.7956637 | RE: SOLICITUD LIMITACION A MIPYME MUNICIPAL | 29/May/2025 - 08:51 am |  | - |
+| Aclaraciones | CO1.MSG.7956609 | SOLICITUD LIMITACION A MIPYME MUNICIPAL | 29/May/2025 - 08:49 am |  | - |

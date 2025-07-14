@@ -1,0 +1,130 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA FRANCISCO MIRANDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812759cb4dac4.01722523
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 08:33:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Proveer Dominio y/o derechos de uso de plataforma Web en línea habilitada para todo el personal de la institución educativa (Docentes, directivos, Aux. Admitivo, estudiantes, padres de familia) sede principal y 5 sedes anexas, para administración de notas, inasistencia y datos escolares (anecdotarios) de aproximadamente 200 estudiantes, para la sistematización de notas y datos escolares correspondientes al primer, segundo, tercer, cuarto período y notas finales del año lectivo 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Filandia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232311 - Software de manejo de base de datos orientada al objeto
+
+**Códigos adicionales UNSPSC:**
+
+43232312 - Software de servidor de portales,43232408 - Software de desarrollo de plataformas web,81161500 - Servicios de administración de acceso,81161800 - Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Hosting", "licicodigos": "102,103,111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Corregimiento La India Filandia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,800,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232311, 43232312, 43232408, 81161500, 81161800 | Dominio/derecho uso plataforma de notas | Contratación régimen especial - Régimen especial | SGP | $1.800.000 | FRANCISCO MIRANDA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 01:31 pm
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 02:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 02:00 pm
+
+**Plazo de ejecución del contrato:**
+
+25/Nov/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

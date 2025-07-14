@@ -1,0 +1,304 @@
+Title: Licitaciones - POLICÍA METROPOLITANA DE MANIZALES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e8423c4d980.27855315
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:43:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DE SOFTWARE PARA LA POLICÍA METROPOLITANA DE MANIZALES Y SUS UNIDADES ADSCRITAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 25 No. 32 -50 Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512 | ADQUISICIÓN DE LICENCIAS DE SOFWARE PARA LA POLICÍA METROPOLITANA DE MANIZALES Y UNIDADES ADSCRITAS. | Mínima cuantía | Presupuesto de entidad nacional | $65.720.000 | POLICIA METROPOLITANA DE MANIZALES |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 05:26 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+14/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+14/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+15/May/2025 - 06:02 pm
+
+**Informe de presentación de ofertas:**
+
+15/May/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 06:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 22/May/2025 - 06:00 pm | 23/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 22/May/2025 - 06:00 pm | 26/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GLOBAL ASTI SAS | Manizales - Caldas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 33,550,959
+
+**Informes proceso de selección CO1.AWD.2257294 de 06/Jun/2025 - 02:16 am. Valor $33.550.959**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/May/2025 - 05:33 pm |  |
+| Informe de evaluación | 23/May/2025 - 06:05 pm |  |
+| Informe de evaluación | 28/May/2025 - 06:08 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 05:26 pm |  |
+| Informe de selección | 06/Jun/2025 - 02:16 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2257294**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GLOBAL ASTI SAS * **Tipo documento:** NIT * **Documento:** 800228515 | * **Nombre:** JORGE ALBERTO CARDONA CEBALLOS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10271518 | Manizales - Caldas | $33.550.959 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2257294****
+
+**Contrato 91-2-10034-25 de GLOBAL ASTI SAS:**
+
+**ID del contrato en SECOP:**
+
+91-2-10034-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE LICENCIAS DE SOFTWARE PARA LA POLICÍA METROPOLITANA DE MANIZALES Y SUS UNIDADES ADSCRITAS
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43231512 | LICENCIA DE ADOBE PHOTOSHOP | 3,00 | UN | 2.252.625,00 | 2.128.056,00 | 6.757.875,00 | 6.384.168,00 |
+| 2 | 43231512 | LICENCIAMIENTO PARA PARA 28 CÁMARAS HANWHA TECHWIN MODELO WAVE-PRO-01 | 1,00 | UN | 32.000.000,00 | 17.100.953,00 | 32.000.000,00 | 17.100.953,00 |
+| 3 | 43231512 | LICENCIA SUITE ADOBE CREATE CLOUD | 2,00 | UN | 5.327.528,00 | 5.032.919,00 | 10.655.056,00 | 10.065.838,00 |
+
+**Fecha de terminación del contrato:**
+
+10/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 33,550,959
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 22 ACEPTACION DE OFERTA GS-2025-037285-MEMAZ.pdf |  |
+|  | 23 REGISTRO PRESUPUESTAL.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2257294 | Informe de selección CO1.AWD.2257294 | 06/Jun/2025 - 02:16 pm |  | - |
+| Objeciones | CO1.MSG.7918493 | [Respondido] RE:SUBSANACION | 06/Jun/2025 - 02:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257294 | Informe de evaluación 4 CO1.AWD.2257294 | 04/Jun/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.7979091 | CONSOLIDADO RESPUESTA A OBSERVACIONES PROCESO PN MEMAZ MIC 027 2025 | 04/Jun/2025 - 11:00 am |  | - |
+| General | CO1.MSG.7962451 | ADENDA 004 | 29/May/2025 - 07:01 pm |  | - |
+| Avisos | CO1.REQ.8222216 | Publicación modificación | 29/May/2025 - 06:36 pm |  |  |
+| Reporte preliminar | CO1.AWD.2257294 | Informe de evaluación 3 CO1.AWD.2257294 | 28/May/2025 - 06:08 pm |  | - |
+| General | CO1.MSG.7948777 | Subsanación de documentos - GLOBAL ASTI SAS | 28/May/2025 - 08:53 am |  | - |
+| General | CO1.MSG.7942380 | SOLICITUD DOCUMENTOS SUBSANABLES III | 27/May/2025 - 10:11 am |  | - |
+| General | CO1.MSG.7939888 | ADENDA No. 003 | 26/May/2025 - 06:15 pm |  | - |
+| Avisos | CO1.REQ.8222216 | Publicación modificación | 26/May/2025 - 06:13 pm |  |  |
+| Reporte preliminar | CO1.AWD.2257294 | Informe de evaluación 2 CO1.AWD.2257294 | 23/May/2025 - 06:05 pm |  | - |
+| General | CO1.MSG.7926493 | RE: SOLICITUD DOCUMENTOS SUBSANABLES | 23/May/2025 - 09:00 am |  | - |
+| General | CO1.MSG.7925063 | RESPUESTA OBSERVACIÓN | 22/May/2025 - 05:09 pm |  | - |
+| General | CO1.MSG.7919009 | ADENDA 002 | 21/May/2025 - 06:45 pm |  | - |
+| Avisos | CO1.REQ.8222216 | Publicación modificación | 21/May/2025 - 06:37 pm |  |  |
+| Objeciones | CO1.MSG.7918493 | SUBSANACION | 21/May/2025 - 05:47 pm |  | - |
+| Avisos | CO1.MSG.7911166 | Publicación de la lista de ofertas del proceso PN MEMAZ MIC 027 2025. | 20/May/2025 - 05:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257294 | Informe de evaluación 1 CO1.AWD.2257294 | 20/May/2025 - 05:33 pm |  | - |
+| Avisos | CO1.MSG.7891072 | La lista de oferentes del proceso PN MEMAZ MIC 027 2025 publicada por POLICÍA METROPOLITANA DE MANIZALES | 15/May/2025 - 06:35 pm |  | - |
+| General | CO1.MSG.7884498 | Adenda No. 001 a la invitación publica PN MEMAZ MIC 027 2025 | 14/May/2025 - 06:47 pm |  | - |
+| General | CO1.MSG.7884480 | RESPUESTA A OBSERVACIONES | 14/May/2025 - 06:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7884477 | RE: Observación al Proceso No.PN MEMAZ MIC 027 2025 | 14/May/2025 - 06:43 pm |  | - |
+| Avisos | CO1.REQ.8222216 | Publicación modificación | 14/May/2025 - 06:29 pm |  |  |
+| General | CO1.MSG.7884386 | AVISO CONVOCATORIA MIPYMES | 14/May/2025 - 06:25 pm |  | - |
+| General | CO1.MSG.7884380 | RESPUESTA SOLICITUD LIMITACION MIPYMES | 14/May/2025 - 06:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7865663 | Observación al Proceso No.PN MEMAZ MIC 027 2025 | 12/May/2025 - 10:58 am |  | - |

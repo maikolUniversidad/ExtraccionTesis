@@ -1,0 +1,197 @@
+Title: Licitaciones - VEEDURÍA DISTRITAL - Contratación mínima cuantía VEED-MC-005-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b885420dc42.39280737
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 07:18:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+F25-05-004 -Prestación de servicio de monitoreo (GPS) incluidos equipos para los vehículos de propiedad de la Veeduría Distrital.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Códigos adicionales UNSPSC:**
+
+25173107 - Sistemas de posicionamiento global de vehículos,32101656 - Circuito integrado de sistema de posicionamiento geográfico gps,52161518 - Receptores de sistemas de posicionamiento global
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "GPS y servicio de monitoreo", "licicodigos": "377" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 26-20 piso 34 y 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 08:42 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Jun/2025 - 12:00 pm | 25/Oct/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 25/Jun/2025 - 12:00 pm | 25/Abr/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 25/Jun/2025 - 12:00 pm | 25/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8039979 | RESPUESTA OBSERVACION SGS COLOMBIA SAS | 16/Jun/2025 - 06:26 pm |  | - |
+| General | CO1.MSG.8039255 | AVISO DE NO LIMITACIÓN A MIPYMES VEED-MC-005-2025 | 16/Jun/2025 - 05:11 pm |  | - |

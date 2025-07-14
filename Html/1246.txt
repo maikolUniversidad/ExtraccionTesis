@@ -1,0 +1,280 @@
+Title: Licitaciones - GOBERNACION DEL CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682c71b9432135.64245332
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:03:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS PARA EL REDISEÑO DE LA PÁGINA WEB WWW.PDACAQUETA.GOV.CO, Y DISPONER DE UN HOSTING EN UN SERVIDOR VPS, GARANTIZANDO EL APOYO TÉCNICO Y ACTUALIZACIONES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS PRINCIPIOS DE PUBLICIDAD Y TRANSPARENCIA DE LA GESTIÓN PÚBLICA DEL PDA CAQUETÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "111,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 13 CALLE 15 ESQUINA Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112100, 81112103, 81111700 | RESTAR LOS SERVICIOS PARA EL REDISEÑO DE LA PÁGINA WEB WWW.PDACAQUETA.GOV.CO, Y DISPONER DE UN HOSTING EN UN SERVIDOR VPS, GARANTIZANDO EL APOYO TÉCNICO Y ACTUALIZACIONES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS PRINCIPIOS DE PUBLICIDAD Y TRANSPARENCIA DE LA GESTIÓN PÚBLICA DEL PDA CAQUETÁ | Mínima cuantía | SGP | $12.460.000 | DEPARTAMENTO DE CAQUETÁ |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 06:30 am
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+20/May/2025 - 07:00 am
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 07:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 07:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 07:00 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 07:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/May/2025 - 04:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 28/May/2025 - 02:00 pm | 30/Dic/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GOPHER GROUP SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,460,000
+
+**Informes proceso de selección CO1.AWD.2262887 de 28/May/2025 - 03:46 am. Valor $12.460.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 06:00 pm |  |
+| Informe de evaluación | 28/May/2025 - 03:27 pm |  |
+| Informe de selección | 28/May/2025 - 03:46 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262887**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GOPHER GROUP SAS * **Tipo documento:** NIT * **Documento:** 900425485 | * **Nombre:** Helmunt David Sierra Abril * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80184284 | Bogotá - Distrito Capital de Bogotá | $12.460.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262887****
+
+**Contrato 202500000013 de GOPHER GROUP SAS:**
+
+**ID del contrato en SECOP:**
+
+202500000013
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+PRESTAR LOS SERVICIOS PARA EL REDISEÑO DE LA PÁGINA WEB WWW.PDACAQUETA.GOV.CO, Y DISPONER DE UN HOSTING EN UN SERVIDOR VPS, GARANTIZANDO EL APOYO TÉCNICO Y ACTUALIZACIONES QUE SE REQUIERAN PARA EL CUMPLIMIENTO DE LOS PRINCIPIOS DE PUBLICIDAD Y TRANSPARENCIA DE LA GESTIÓN PÚBLICA DEL PDA CAQUETÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112100 | PROPUESTA ECONOMICA | 1,00 | UN | 12.460.000,00 | 12.460.000,00 | 12.460.000,00 | 12.460.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 12,460,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 2. ACEPTACIÓN DE LA OFERTA GOPHER..pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262887 | Informe de selección CO1.AWD.2262887 | 28/May/2025 - 03:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262887 | Informe de evaluación 2 CO1.AWD.2262887 | 28/May/2025 - 03:27 pm |  | - |
+| Objeciones | CO1.MSG.7940650 | [Respondido] RE:subsanacion | 28/May/2025 - 03:26 pm |  | - |
+| Objeciones | CO1.MSG.7940650 | subsanacion | 26/May/2025 - 09:30 pm |  | - |
+| Avisos | CO1.MSG.7939909 | Publicación de la lista de ofertas del proceso DC-PDA-SMC-017-2025. | 26/May/2025 - 06:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262887 | Informe de evaluación 1 CO1.AWD.2262887 | 26/May/2025 - 06:00 pm |  | - |
+| Avisos | CO1.MSG.7934058 | La lista de oferentes del proceso DC-PDA-SMC-017-2025 publicada por GOBERNACION DEL CAQUETA | 26/May/2025 - 07:17 am |  | - |
+| Avisos | CO1.REQ.8286207 | Publicación modificación | 22/May/2025 - 06:51 pm |  |  |

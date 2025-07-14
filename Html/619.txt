@@ -1,0 +1,267 @@
+Title: Licitaciones - ANM - Contratación mínima cuantía SMC-010-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a0c434e23f6.18924418
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:41:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición de elementos para mantenimiento y adecuación de infraestructura tecnológica y de telecomunicaciones
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121600 - Cables eléctricos y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+27113200 - Juegos de herramientas,39131700 - Conductos eléctricos, electroductos y cables aéreos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Materiales para redes de comunicación", "licicodigos": "105,121,122,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 28 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 26121600, 27113200, 39131700, 41113600 | 130009425_ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO Y ADECUACIÓN DE INFRAESTRUCTURA TECNOLOGICA Y DE TELECOMUNICACIONES | Mínima cuantía | Presupuesto de entidad nacional | $64.057.500 | GRUPO DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 06:04 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 12:00 pm | 17/Feb/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 17/Ago/2025 - 12:00 pm | 17/Feb/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jul/2025 - 12:00 pm | 17/Feb/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 63,560,006
+
+**Informes proceso de selección CO1.AWD.2291936 de 09/Jul/2025 - 06:21 am. Valor $63.560.006**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 05:04 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:04 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:04 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:04 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:04 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 07:29 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 07:29 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 07:29 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 07:29 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:30 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:30 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:30 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:30 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 07:53 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 07:53 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 07:53 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 07:53 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 07:05 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 07:05 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 07:05 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 07:05 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:10 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:10 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:10 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 05:10 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 05:19 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 05:19 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 05:19 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 05:19 pm |  |
+| Informe de selección | 09/Jul/2025 - 06:21 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2291936 | Informe de selección CO1.AWD.2291936 | 09/Jul/2025 - 06:21 pm |  | - |
+| Objeciones | CO1.MSG.8132987 | [Respondido] RE:Documentos a Subsanar | 09/Jul/2025 - 12:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 8 CO1.AWD.2291936 | 08/Jul/2025 - 05:19 pm |  | - |
+| Objeciones | CO1.MSG.8132987 | Documentos a Subsanar | 08/Jul/2025 - 09:42 am |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 7 CO1.AWD.2291936 | 07/Jul/2025 - 05:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 6 CO1.AWD.2291936 | 04/Jul/2025 - 07:05 pm |  | - |
+| Avisos | CO1.REQ.8399746 | Publicación modificación | 04/Jul/2025 - 04:53 pm |  |  |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 5 CO1.AWD.2291936 | 03/Jul/2025 - 07:53 pm |  | - |
+| General | CO1.MSG.8113544 | RESPUESTA OBSERVACIONES 01 JULIO | 03/Jul/2025 - 12:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 4 CO1.AWD.2291936 | 02/Jul/2025 - 07:30 pm |  | - |
+| Avisos | CO1.REQ.8399746 | Publicación modificación | 02/Jul/2025 - 06:24 pm |  |  |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 3 CO1.AWD.2291936 | 01/Jul/2025 - 07:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 2 CO1.AWD.2291936 | 27/Jun/2025 - 06:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291936 | Informe de evaluación 1 CO1.AWD.2291936 | 26/Jun/2025 - 05:03 pm |  | - |
+| Avisos | CO1.REQ.8399746 | Publicación modificación | 26/Jun/2025 - 05:01 pm |  |  |
+| Reporte preliminar | CO1.AWD.2290217 | Informe de evaluación 1 CO1.AWD.2290217 | 24/Jun/2025 - 06:18 pm |  | - |
+| Avisos | CO1.MSG.8064003 | La lista de oferentes del proceso SMC-010-2025 publicada por ANM | 20/Jun/2025 - 10:28 am |  | - |
+| General | CO1.MSG.8061856 | RESPUESTA OBSERVACIONES 19 JUNIO 2025 | 19/Jun/2025 - 06:47 pm |  | - |
+| General | CO1.MSG.8054933 | RESPUESTA OBSERVACIONES SMC 010 2025 | 18/Jun/2025 - 07:25 pm |  | - |
+| Avisos | CO1.REQ.8399746 | Publicación modificación | 18/Jun/2025 - 06:12 pm |  |  |
+| Avisos | CO1.REQ.8399746 | Publicación modificación | 17/Jun/2025 - 06:25 pm |  |  |
+| General | CO1.MSG.8040101 | AVISO NO LIMITACION MIPYME | 16/Jun/2025 - 06:39 pm |  | - |
+| General | CO1.MSG.8040027 | RESPUESTAS OBSERVACIONES INVITACION SMC 010 2025 | 16/Jun/2025 - 06:36 pm |  | - |

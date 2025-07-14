@@ -1,0 +1,111 @@
+Title: Licitaciones - ESCUELA SUPERIOR DE GUERRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849f6e6118666.36321010
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:52:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DEL LICENCIAMIENTO ARCGIS PARA EL CESAC DE LA ESCUELA SUPERIOR DE GUERRA GENERAL RAFAEL REYES PRIETO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232500 - Software educativo o de referencia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 11 # 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 30,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112205 | ACTUALIZACION LICENCIA ARGIS | - | Presupuesto de entidad nacional | $30.000.000 | Escuela Superior de Guerra |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:31 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8034986 | RE: Observaciones | 16/Jun/2025 - 09:31 am |  | - |
+| Aclaraciones | CO1.MSG.8025521 | Observaciones | 13/Jun/2025 - 08:26 am |  | - |

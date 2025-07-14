@@ -1,0 +1,246 @@
+Title: Licitaciones - GOBERNACIÓN DEL CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68092b44843797.21102779
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 21:58:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR SERVIDOR CLOUD PRIVADO VIRTUAL (VPS) ADMINISTRADO Y SUS SERVICIOS ESPECIALIZADOS DE AUDITORIA, ACTUALIZACION, SOPORTE Y ADMINISTRACION PARA ALOJAR LOS DIFERENTES SITIOS WEB DE LA GOBERNACION DEL CAUCA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112105 - Servicios de hospedaje de operación de sitios web
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servicios en la nube (Cloud), -Servidores (Suministro y alquiler)", "licicodigos": "437,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 4 CARRERA 7 ESQUINA Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105 | CONTRATAR SERVIDOR CLOUD PRIVADO VIRTUAL (VPS) ADMINISTRADO Y SUS SERVICIOS ESPECIALIZADOS DE AUDITORIA, ACTUALIZACION, SOPORTE Y ADMINISTRACION PARA ALOJAR LOS DIFERENTES SITIOS WEB DE LA GOBERNACION DEL CAUCA.UBICADO EN LA CIUDAD DE POPAYAN. | Mínima cuantía | Recursos propios | $53.000.000 | SECRETARÍA GENERAL. |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 12:49 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/Abr/2025 - 07:00 pm | 30/Abr/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/Abr/2025 - 07:00 pm | 30/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 04:31 pm | * **Nombre:** MIHOSTING | Pasto - Nariño |
+| 2 | 28/Abr/2025 - 05:04 pm | * **Nombre:** REWDEV | Bogotá - Distrito Capital de Bogotá |
+| 3 | 28/Abr/2025 - 05:05 pm | * **Nombre:** SERVIDORES INFORMATICOS TRADE IMPORT SAS | Bogotá - Distrito Capital de Bogotá |
+| 4 | 28/Abr/2025 - 05:44 pm | * **Nombre:** CREAR IMAGEN S.A.S | Distrito Capital de Bogotá |
+| 5 | 28/Abr/2025 - 05:54 pm | * **Nombre:** CLOUD CITY | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 42,690,000
+
+**Informes proceso de selección CO1.AWD.2241241 de 09/May/2025 - 09:21 am. Valor $42.690.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 04:03 pm |  |
+| Informe de evaluación | 06/May/2025 - 04:30 pm |  |
+| Informe de selección | 09/May/2025 - 09:21 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241241**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MIHOSTING * **Tipo documento:** NIT * **Documento:** 900724548 | * **Nombre:** JORGE LUIS VILLEGAS MAGUIÑA * **Tipo documento:** Cédula de Extranjería * **Documento:** 263802 | Pasto - Nariño | $42.690.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241241****
+
+**Cuantía a la firma del contrato:**
+
+$ 42,690,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241241 | Informe de selección CO1.AWD.2241241 | 09/May/2025 - 09:20 am |  | - |
+| Reporte preliminar | CO1.AWD.2241241 | Informe de evaluación 2 CO1.AWD.2241241 | 06/May/2025 - 04:30 pm |  | - |
+| Objeciones | CO1.MSG.7831399 | [Respondido] RE:Subsanacion de documentos | 06/May/2025 - 04:28 pm |  | - |
+| Objeciones | CO1.MSG.7831946 | [Respondido] RE:Subsanación MIHOSTING SAS | 06/May/2025 - 04:28 pm |  | - |
+| Objeciones | CO1.MSG.7831946 | Subsanación MIHOSTING SAS | 05/May/2025 - 11:20 am |  | - |
+| Objeciones | CO1.MSG.7831399 | Subsanacion de documentos | 05/May/2025 - 10:25 am |  | - |
+| Avisos | CO1.MSG.7827578 | Publicación de la lista de ofertas del proceso DC-SG-MC-019-2025. | 02/May/2025 - 04:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241241 | Informe de evaluación 1 CO1.AWD.2241241 | 02/May/2025 - 04:03 pm |  | - |
+| Avisos | CO1.REQ.8092179 | Publicación modificación | 02/May/2025 - 03:35 pm |  |  |
+| Avisos | CO1.MSG.7809086 | La lista de oferentes del proceso DC-SG-MC-019-2025 publicada por GOBERNACIÓN DEL CAUCA | 28/Abr/2025 - 06:22 pm |  | - |
+| General | CO1.MSG.7800904 | AVISO DE LIMITACIÓN A MIPYMES MÍNIMA 019-2025 | 25/Abr/2025 - 03:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7800892 | RE: OBSERVACIONES | 25/Abr/2025 - 03:42 pm |  | - |
+| General | CO1.MSG.7800875 | RESPUESTA A OBSERVACIONES DC-SG-MC-019-2025 | 25/Abr/2025 - 03:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7791288 | OBSERVACIONES | 24/Abr/2025 - 09:24 am |  | - |

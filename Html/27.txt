@@ -1,0 +1,283 @@
+Title: Licitaciones - DEPARTAMENTO DE CUNDINAMARCA - SECRETARIA DE EDUCACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e2cb6c72ac5.65120852
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN, SUMINISTRO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE AULAS TECNOLÓGICAS EN INSTITUCIONES EDUCATIVAS OFICIALES DE MUNICIPIOS NO CERTIFICADOS DEL DEPARTAMENTO, INCLUYENDO DOTACIÓN DE MOBILIARIO, EQUIPOS TECNOLÓGICOS, SOFTWARE Y HERRAMIENTAS PEDAGÓGICAS NECESARIAS PARA SU ADECUADA OPERACIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101500 - Muebles
+
+**Códigos adicionales UNSPSC:**
+
+56121501 - Mesas para actividades,56112104 - Sillas para ejecutivos,44111905 - Tableros de borrado en seco o accesorios,47121702 - Contenedores de desperdicios o revestimientos rígidos,43211900 - Monitores y pantallas de computador,43222609 - Enrutadores (routers) de red,43211503 - Computadores notebook,43212100 - Impresoras de computador,43211907 - Cascos de realidad virtual,82101502 - Publicidad en afiches,73111505 - Servicios de fabricación de muebles,43211518 - Computadores de múltiples pantallas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Equipos audiovisuales, -Mobiliario, -Materiales para redes de comunicación, -Prototipadora, impresora 3D (Equipos e insumos), -Puntos ecológicos y contenedores de basura", "licicodigos": "103,104,115,128,438,471,744" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 26 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 # 51-53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,200,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56101500, 73111505, 43211518 | Adquisición, suministro, instalación y puesta en funcionamiento de aulas tecnológicas en instituciones educativas oficiales de municipios no certificados del departamento, incluyendo dotación de mobiliario, equipos tecnológicos, software y herramientas pedagógicas necesarias para su adecuada operación | Mínima cuantía | Recursos propios | $4.200.000.000 | Medios y nuevas tecnologias |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 02:36 pm
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 03:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 03:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 05:28 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 10:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 03:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jun/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+04/Jul/2025 - 03:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+14/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+15/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+16/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 12:00 am | 08/Jun/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 04/Jul/2025 - 12:00 am | 08/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jul/2025 - 12:00 am | 08/Jun/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jul/2025 - 05:00 am
+
+**Fecha de inicio:**
+
+07/Jul/2025 - 11:00 am
+
+**Fecha fin:**
+
+07/Jul/2025 - 11:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8155515 | REQUERIMIENTOS GOURIYU SAS | 11/Jul/2025 - 11:23 am |  | - |
+| Avisos | CO1.REQ.8359058 | Publicación modificación | 10/Jul/2025 - 04:43 pm |  |  |
+| General | CO1.MSG.8145466 | REQUERIMIENTO PRECIO ARTIFICIALMENTE BAJO Y FICHAS TECNICAS | 09/Jul/2025 - 06:12 pm |  | - |
+| Avisos | CO1.REQ.8359058 | Publicación modificación | 08/Jul/2025 - 10:29 am |  |  |
+| General | CO1.MSG.8132127 | INFORME AUDIENCIA DE SUBASTA | 08/Jul/2025 - 07:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2292153 | Informe de evaluación 4 CO1.AWD.2292153 | 07/Jul/2025 - 11:25 am |  | - |
+| General | CO1.MSG.8127050 | ANALISIS OFERTAS ECONOMICAS | 07/Jul/2025 - 11:23 am |  | - |
+| General | CO1.MSG.8126739 | REPROGRAMACION AUDIENCIA DE UBASTA | 07/Jul/2025 - 10:52 am |  | - |
+| General | CO1.MSG.8126039 | RE: Solicitud Información Urgente!!! | 07/Jul/2025 - 09:41 am |  | - |
+| General | CO1.MSG.8125994 | RE: Solicitud de publicación de lista DE PRECIOS | 07/Jul/2025 - 09:37 am |  | - |
+| Avisos | CO1.MSG.8125882 | Publicación de la lista de ofertas del proceso SE-SA-SU-001-2025 (Presentación de oferta). | 07/Jul/2025 - 09:26 am |  | - |
+| Avisos | CO1.MSG.8125874 | La lista de oferentes del proceso SE-SA-SU-001-2025 (Presentación de oferta) publicada por DEPARTAMENTO DE CUNDINAMARCA - SECRETARIA DE EDUCACION | 07/Jul/2025 - 09:25 am |  | - |
+| Reporte preliminar | CO1.AWD.2292153 | Informe de evaluación 3 CO1.AWD.2292153 | 07/Jul/2025 - 09:05 am |  | - |
+| Objeciones | CO1.MSG.8124610 | [Respondido] RE:Solicitud de respuesta a observaciones del informe de evaluación | 07/Jul/2025 - 08:31 am |  | - |
+| Objeciones | CO1.MSG.8124612 | Aclaración respuesta observaciones informe de evaluación | 05/Jul/2025 - 07:21 pm |  | - |
+| Objeciones | CO1.MSG.8124610 | Solicitud de respuesta a observaciones del informe de evaluación | 05/Jul/2025 - 07:12 pm |  | - |
+| General | CO1.MSG.8123079 | APERTURA SOBRES ECONOMICOS | 04/Jul/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.8123047 | RESPUESTA A OBSERVACIONES INFORME DE EVALUACIÓN | 04/Jul/2025 - 05:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292153 | Informe de evaluación 2 CO1.AWD.2292153 | 04/Jul/2025 - 05:18 pm |  | - |
+| General | CO1.MSG.8119085 | RE: Observación Cronograma | 04/Jul/2025 - 10:13 am |  | - |
+| Objeciones | CO1.MSG.8108555 | Presentación de Observaciones y Subsanación al informe de verificación o evaluación. | 02/Jul/2025 - 04:09 pm |  | - |
+| Objeciones | CO1.MSG.8108493 | Subsanación y Observaciones al Informe de Evaluación | 02/Jul/2025 - 04:04 pm |  | - |
+| Objeciones | CO1.MSG.8106820 | Subsanacion Informe de Evaluacion | 02/Jul/2025 - 03:50 pm |  | - |
+| Objeciones | CO1.MSG.8104407 | SUBSANACION | 02/Jul/2025 - 07:53 am |  | - |
+| Objeciones | CO1.MSG.8103766 | Subsanación informe de evaluación | 01/Jul/2025 - 08:14 pm |  | - |
+| Objeciones | CO1.MSG.8102621 | SUBSANACIÓN - Informe de evaluación 1 CO1.AWD.2292153 - Proceso de Selección Abreviada por subasta inversa - SECOP II - SE-SA-SU-001-2025 - MANUFACTURAS EL LIDER SAS. | 01/Jul/2025 - 05:05 pm |  | - |
+| Objeciones | CO1.MSG.8102431 | SUBSANACIÓN - Informe de evaluación 1 CO1.AWD.2292153 - Proceso de Selección Abreviada por subasta inversa - SECOP II - SE-SA-SU-001-2025 - MANUFACTURAS EL LIDER SAS. | 01/Jul/2025 - 04:56 pm |  | - |
+| General | CO1.MSG.8099246 | RE: Presentación de observaciones al informe de verificación o evaluación | 01/Jul/2025 - 01:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292153 | Informe de evaluación 1 CO1.AWD.2292153 | 26/Jun/2025 - 04:52 pm |  | - |
+| Avisos | CO1.REQ.8359058 | Publicación modificación | 24/Jun/2025 - 04:37 pm |  |  |

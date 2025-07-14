@@ -1,0 +1,271 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834a7cfea59e1.23818430
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 07:12:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE ARTICULOS PARA DEPORTE, RECREACION, CULTURA Y CONCURSO DE TAETRO, MUSICA Y PINTURA; ELEMENTOS PARA PROGRAMAS DE EDUCACION FORMAL DE LOS PPL DEL CPMS VILLAVICNECIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121701 - Bolígrafos
+
+**Códigos adicionales UNSPSC:**
+
+44121702 - Sets de esferos o lápices,44121704 - Esferos de punta redonda,44121706 - Lápices de madera,44121708 - Marcadores,44121709 - Crayolas,44121720 - Esferos multi función,44121721 - Esfero de tinta borrable,31211502 - Pinturas de agua,31211508 - Pinturas acrílicas,12352310 - Siliconas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Calzado y/o vestido de labor o deportivo (Diseño y/o confección), -Textiles y productos para confección, -Papelería y elementos de oficina, -Implementos deportivos y/o gimnasio", "licicodigos": "103,104,105,115,124,125,127,137" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+TRV 26C # 22A-24 BARRIO RICAURTE Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 11:56 am
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 12:50 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 12:50 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 01:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 01:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 01:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 01:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 01:01 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 01:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 08:00 am
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 12:01 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SERVICIOS Y SUMINISTROS DEL META SAS | Villavicencio - Meta |
+| 2 | - | * **Nombre:** LIBRERIA Y PAPELERIA STANDARD | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 28,680,000
+
+**Informes proceso de selección CO1.AWD.2266108 de 30/May/2025 - 04:12 am. Valor $28.680.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 09:34 am |  |
+| Informe de selección | 30/May/2025 - 04:12 pm |  |
+
+**Cuantia del contrato:**
+
+$ 1,555,765
+
+**Informes proceso de selección CO1.AWD.2266413 de 30/May/2025 - 04:10 am. Valor $1.555.765**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 09:36 am |  |
+| Informe de selección | 30/May/2025 - 04:10 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266108**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LIBRERIA Y PAPELERIA STANDARD * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 3290327 | * **Nombre:** JORGE ENRIQUE PINZON PEÑALOSA * **Tipo documento:** * **Documento:** 3290327 | Villavicencio - Meta | $28.680.000 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2266413**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SERVICIOS Y SUMINISTROS DEL META SAS * **Tipo documento:** NIT * **Documento:** 900625096 | * **Nombre:** GINA PAHOLA LOZANO DUARTE * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 40410034 | Villavicencio - Meta | $1.555.765 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266108****
+
+**Cuantía a la firma del contrato:**
+
+$ 28,680,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+**Proceso de selección **CO1.AWD.2266413****
+
+**Cuantía a la firma del contrato:**
+
+$ 1,555,765
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266108 | Informe de selección CO1.AWD.2266108 | 30/May/2025 - 04:12 pm |  | - |
+| Reporte final | CO1.AWD.2266413 | Informe de selección CO1.AWD.2266413 | 30/May/2025 - 04:10 pm |  | - |
+| Avisos | CO1.MSG.7963497 | Publicación de la lista de ofertas del proceso 131-MC-022-2025. | 30/May/2025 - 08:31 am |  | - |
+| Reporte preliminar | CO1.AWD.2266413 | Informe de evaluación 1 CO1.AWD.2266413 | 29/May/2025 - 09:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2266108 | Informe de evaluación 1 CO1.AWD.2266108 | 29/May/2025 - 09:34 am |  | - |
+| Avisos | CO1.MSG.7952101 | La lista de oferentes del proceso 131-MC-022-2025 publicada por ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE VILLAVICENCIO | 28/May/2025 - 02:37 pm |  | - |
+| Avisos | CO1.REQ.8298874 | Publicación modificación | 27/May/2025 - 02:54 pm |  |  |
+| Avisos | CO1.REQ.8298874 | Publicación modificación | 27/May/2025 - 01:36 pm |  |  |
+| Aclaraciones | CO1.MSG.7942152 | SOLICITUD LIMITACION MIPYME | 27/May/2025 - 09:52 am |  | - |

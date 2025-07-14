@@ -1,0 +1,321 @@
+Title: Licitaciones - ARMADA NACIONAL - BASE NAVAL No.1 ARC BOLÍVAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e16b1bd24c3.02338383
+
+Markdown Content:
+Licitaciones - ARMADA NACIONAL - BASE NAVAL No.1 ARC BOLÍVAR - Contratación mínima cuantía 0064-ARC-CBNL01-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-18 06:29:42
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE EQUIPOS AUDIOVISUALES Y ACCESORIOS PARA LAS UNIDADES DE LA FUERZA NAVAL DEL CARIBE de conformidad con las especificaciones técnicas descritas en el Anexo Técnico del presente estudio
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Bolívar : Cartagena
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+45111600 - Proyectores y suministros
+
+**Códigos adicionales UNSPSC:**
+45111600 - Proyectores y suministros
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Electrodomésticos, -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "115,139,489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Avenida San Martin N° 2-10 Bocagrande Base Naval ARC Bolivar Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211902, 45111603, 45121504, 45121506, 52161535, 52161541, 52161547, 52161553, 52161611, 43191606, 43211711, 45111616 | AUDIOVISUALES Y ACCESORIOS | Mínima cuantía | Presupuesto de entidad nacional | $111.507.017 | BASE NAVAL ARC BOLIVAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 12:32 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 09/Jun/2025 - 11:59 pm | 20/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 09/Jun/2025 - 11:59 pm | 01/Feb/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PYC DSITRIBUCIONES | Medellín - Antioquia |
+| 1 | - | * **Nombre:** DISTRIBUCIONES Y SERVICIOS PYC | Leguízamo - Putumayo |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 92,005,000
+
+**Informes proceso de selección CO1.AWD.2270937 de 16/Jun/2025 - 02:25 am. Valor $92.005.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 06:37 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:37 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 07:24 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 07:24 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 12:02 pm |  |
+| Informe de selección | 16/Jun/2025 - 02:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270937**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DISTRIBUCIONES Y SERVICIOS PYC * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 26615501 | * **Nombre:** MARLENNEALVAREZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 26615501 | Leguízamo - Putumayo | $92.005.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270937****
+
+**ID del contrato en SECOP:**
+
+0055-ARC-CBNL01-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+22/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 92,005,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270937 | Informe de selección CO1.AWD.2270937 | 16/Jun/2025 - 02:25 pm |  | - |
+| General | CO1.MSG.8003769 | RE: observación | 09/Jun/2025 - 05:32 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270937 | Informe de evaluación 3 CO1.AWD.2270937 | 09/Jun/2025 - 12:02 pm |  | - |
+| General | CO1.MSG.7992510 | DOCUMENTOS REQUERIDO CERTIFICACION | 06/Jun/2025 - 09:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2270937 | Informe de evaluación 2 CO1.AWD.2270937 | 05/Jun/2025 - 07:24 pm |  | - |
+| General | CO1.MSG.7978059 | DOCUMENTOS REQUERIDOS | 04/Jun/2025 - 09:19 am |  | - |
+| Reporte preliminar | CO1.AWD.2270937 | Informe de evaluación 1 CO1.AWD.2270937 | 03/Jun/2025 - 06:37 pm |  | - |
+| Avisos | CO1.REQ.8287801 | Publicación modificación | 30/May/2025 - 06:43 pm |  |  |
+| Avisos | CO1.MSG.7952732 | Publicación de la lista de ofertas del proceso 0064-ARC-CBNL01-2025. | 28/May/2025 - 03:20 pm |  | - |
+| Avisos | CO1.MSG.7952700 | La lista de oferentes del proceso 0064-ARC-CBNL01-2025 publicada por ARMADA NACIONAL - BASE NAVAL No.1 ARC BOLÍVAR | 28/May/2025 - 03:18 pm |  | - |
+| General | CO1.MSG.7948418 | Formulario No 003 de preguntas y respuestas | 28/May/2025 - 12:05 pm |  | - |
+| General | CO1.MSG.7938855 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No.002 | 26/May/2025 - 04:46 pm |  | - |
+| General | CO1.MSG.7938622 | AVISO | 26/May/2025 - 04:29 pm |  | - |
+| General | CO1.MSG.7931782 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 23/May/2025 - 05:08 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:51 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

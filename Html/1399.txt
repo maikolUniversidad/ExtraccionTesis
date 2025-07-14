@@ -1,0 +1,132 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ca290894346.62919973
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:39:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A EQUIPOS DE COMPUTO, IMPRESORAS Y VIDEO PROYECTORES PARA LA IETC HERNANDO NAVIA VARON
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales", "licicodigos": "106,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 26P 50-39 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+20/May/2025 - 10:36 am
+
+**Fecha límite de presentación de ofertas:**
+
+21/May/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+21/May/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+23/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7917187 | La lista de oferentes del proceso 4143.035.26.19-2025 publicada por INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON | 21/May/2025 - 04:06 pm |  | - |

@@ -1,0 +1,280 @@
+Title: Licitaciones - AEROCIVIL - Subasta Inversa 25000722 H2 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681011ffd7ddc8.53913342
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:43:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR, INSTALAR Y PONER EN FUNCIONAMIENTO UN SISTEMA DE SEGURIDAD PERIMETRAL CON TECNOLOGÍA DE RADAR PARA AEROPUERTOS ADMINISTRADOS POR LA AEROCIVIL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca: Bogotá D.C. ; Atlántico: Barranquilla ; Quindío: Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41115200 - Sistemas y componentes de radar y sonar
+
+**Códigos adicionales UNSPSC:**
+
+46171600 - Equipo de vigilancia y detección,43233200 - Software de seguridad y protección,72151700 - Servicios de instalación de sistemas de seguridad física e industrial,92121700 - Servicios de sistemas de seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -UPS y baterías de gran capacidad, -Circuito cerrado de televisión, -Aeropuertos, -Servidores (Suministro y alquiler)", "licicodigos": "100,109,114,477,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 36 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado No. 103 - 15 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 9,777,681,145
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 41115200, 46171600, 43222500, 72151700, 43233200 | 56100C0714 ADQUIRIR, INSTALAR Y PONER EN FUNCIONAMIENTO UN SISTEMA DE SEGURIDAD PERIMETRAL CON TECNOLOGÍA DE RADAR PARA AEROPUERTOS ADMINISTRADOS POR LA AEROCIVIL | Selección abreviada subasta inversa | Recursos propios | $9.777.681.145 | NIVEL CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+28/Abr/2025 - 06:36 pm
+
+**Publicación Estudios Previos:**
+
+28/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+28/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 11:50 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+13/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+16/May/2025 - 04:45 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+16/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+21/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+23/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/May/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 10:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+02/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+16/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+22/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 24/Jun/2025 - 11:59 pm | 15/Abr/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 24/Jun/2025 - 11:59 pm | 15/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2030 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2030 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+08/Jul/2025 - 09:30 am
+
+**Fecha de inicio:**
+
+08/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+08/Jul/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8146158 | Respuesta requerimiento | 09/Jul/2025 - 09:09 pm |  | - |
+| General | CO1.MSG.8136105 | Informe evento de subasta | 08/Jul/2025 - 03:43 pm |  | - |
+| General | CO1.MSG.8136041 | Requerimiento UNION TEMPORAL AERORADARES T&V 2025 | 08/Jul/2025 - 03:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270849 | Informe de evaluación 3 CO1.AWD.2270849 | 08/Jul/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.8132993 | Certificado de falla particular del evento de subasta del 02 de julio | 08/Jul/2025 - 09:42 am |  | - |
+| General | CO1.MSG.8132920 | Publicación lista de participantes subasta | 08/Jul/2025 - 09:34 am |  | - |
+| General | CO1.MSG.8109733 | Adenda No. 04 | 02/Jul/2025 - 05:41 pm |  | - |
+| Avisos | CO1.REQ.8274877 | Publicación modificación | 02/Jul/2025 - 05:39 pm |  |  |
+| General | CO1.MSG.8107875 | Información evento de la subasta | 02/Jul/2025 - 03:08 pm |  | - |
+| General | CO1.MSG.8107607 | Información evento de subasta | 02/Jul/2025 - 02:40 pm |  | - |
+| General | CO1.MSG.8107354 | Información evento subasta electrónica | 02/Jul/2025 - 02:12 pm |  | - |
+| General | CO1.MSG.8107301 | Confirmación publicación lista de ofertas subasta | 02/Jul/2025 - 02:04 pm |  | - |
+| General | CO1.MSG.8107154 | Evaluación Propuestas Económicas | 02/Jul/2025 - 01:33 pm |  | - |
+| General | CO1.MSG.8106771 | RE: HORA Y FECHA DE LA SUBASTA | 02/Jul/2025 - 12:21 pm |  | - |
+| Avisos | CO1.MSG.8106488 | Publicación de la lista de ofertas del proceso 25000722 H2 DE 2025 (Presentación de oferta). | 02/Jul/2025 - 11:41 am |  | - |
+| Avisos | CO1.MSG.8106431 | La lista de oferentes del proceso 25000722 H2 DE 2025 (Presentación de oferta) publicada por AEROCIVIL | 02/Jul/2025 - 11:36 am |  | - |
+| General | CO1.MSG.8106229 | Respuestas a observaciones extemporáneas | 02/Jul/2025 - 11:29 am |  | - |
+| General | CO1.MSG.8103684 | Respuesta a obs | 01/Jul/2025 - 08:04 pm |  | - |
+| General | CO1.MSG.8102784 | Adenda No. 03 | 01/Jul/2025 - 05:56 pm |  | - |
+| General | CO1.MSG.8102537 | Adenda No. 03 | 01/Jul/2025 - 05:01 pm |  | - |
+| General | CO1.MSG.8099133 | Respuesta a la solicitud de información respecto del cronograma de la subasta | 01/Jul/2025 - 10:38 am |  | - |
+| Avisos | CO1.REQ.8274877 | Publicación modificación | 01/Jul/2025 - 10:33 am |  |  |
+| General | CO1.MSG.8097892 | OBSERVACIONES UNIÓN TEMPORAL AERORADARES T&V | 01/Jul/2025 - 07:39 am |  | - |
+| General | CO1.MSG.8097509 | Observaciones para ratificar Seguridad Privada.pdf | 30/Jun/2025 - 08:36 pm |  | - |
+| General | CO1.MSG.8096582 | Respuesta a observaciones | 27/Jun/2025 - 11:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270849 | Informe de evaluación 2 CO1.AWD.2270849 | 27/Jun/2025 - 11:13 pm |  | - |
+| General | CO1.MSG.8095364 | Observaciones respuesta Adenda NO 2 | 27/Jun/2025 - 04:59 pm |  | - |
+| General | CO1.MSG.8095191 | OBSERVACIONES RESPUESTA ADENDA No 2 | 27/Jun/2025 - 04:50 pm |  | - |
+| General | CO1.MSG.8080869 | Respuestas a observaciones a la entidad | 25/Jun/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.8050894 | SOLICITUD DE PRONUNCIAMIENTO DE FONDO SOBRE OBSERVACIÓN PRESENTADA AL INFORME DE EVALUACIÓ | 18/Jun/2025 - 12:23 pm |  | - |

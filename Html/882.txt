@@ -1,0 +1,341 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE IBAGUE*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6852ace3455ec8.08790747
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPIO DE IBAGUE* - Contratación mínima cuantía AI-MC-2109-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-09 06:33:10
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+TIC-4 ADQUISICION DE LICENCIAS DE ANTIVIRUS EN EL MARCO DEL PROYECTO EN EL MARCO DEL PROYECTO DE MEJORAMIENTO Y MANTENIMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA ALCALDÍA MUNICIPAL DE IBAGUÉ.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Tolima : Ibagué
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+ALCALDIA DE IBAGUE Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 120,975,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | TIC-4 ADQUISICION DE LICENCIAS DE ANTIVIRUS EN EL MARCO DEL PROYECTO EN EL MARCO DEL PROYECTO DE MEJORAMIENTO Y MANTENIMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA ALCALDÍA MUNICIPAL DE IBAGUÉ. | Mínima cuantía | Recursos propios | $49.509.034 | SECRETARIA TIC 2025 |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 07:00 am
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 07:00 am
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 08:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 08/Jul/2025 - 09:00 am | 07/Feb/2026 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JDI SAS | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 33,000,000
+
+**Informes proceso de selección CO1.AWD.2294940 de 04/Jul/2025 - 12:53 pm. Valor $33.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 02:27 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 11:04 am |  |
+| Informe de selección | 04/Jul/2025 - 12:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2294940**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA Y SUMINISTROS JDI SAS * **Tipo documento:** NIT * **Documento:** 901800130 | * **Nombre:** JULIO CESAR BELTRAN GARZON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93386132 | Ibagué - Tolima | $33.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2294940****
+
+**Contrato CONTRATO NO. 2186 DEL 04 DE JULIO DEL 2025 de COMERCIALIZADORA Y SUMINISTROS JDI SAS:**
+
+**ID del contrato en SECOP:**
+
+CONTRATO NO. 2186 DEL 04 DE JULIO DEL 2025
+
+**Versión:**
+
+2
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+TIC-4 ADQUISICIÓN DE LICENCIAS DE ANTIVIRUS EN EL MARCO DEL PROYECTO EN EL MARCO DEL PROYECTO DE MEJORAMIENTO Y MANTENIMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA ALCALDÍA MUNICIPAL DE IBAGUÉ.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112500 | Minima cuantia compraventa | 1,00 | UN | 34.866.600,00 | 33.000.000,00 | 34.866.600,00 | 33.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+08/Jul/2025 - 08:00 am
+
+**Fecha de terminación del contrato:**
+
+07/Ago/2025 - 11:59 am
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 33,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CLAUSULADO Y OFERTA ECONOMICA.pdf |  |
+|  | Aceptacion de Oferta - Proceso AI-MC-2109-2025.pdf |  |
+|  | ACTA MODIFICATORIA NO. 001.PDF |  |
+
+**Modificaciones al contrato:**
+
+| Referencia de la modificación | Tipo de la modificación | Fecha de modificación | Fecha de aprobación | Estado | Versión | Versión previa | Cambios |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CO1.CTRMOD.19544109 | Modificar el contrato | 07/Jul/2025 - 03:06 pm | 08/Jul/2025 - 08:30 am | Publicados | 2 |  |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2294940 | Informe de selección CO1.AWD.2294940 | 04/Jul/2025 - 12:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2294940 | Informe de evaluación 2 CO1.AWD.2294940 | 04/Jul/2025 - 11:04 am |  | - |
+| Reporte preliminar | CO1.AWD.2294940 | Informe de evaluación 1 CO1.AWD.2294940 | 01/Jul/2025 - 02:27 pm |  | - |
+| Avisos | CO1.MSG.8091988 | Publicación de la lista de ofertas del proceso AI-MC-2109-2025. | 27/Jun/2025 - 10:03 am |  | - |
+| Avisos | CO1.MSG.8091975 | La lista de oferentes del proceso AI-MC-2109-2025 publicada por ALCALDIA MUNICIPIO DE IBAGUE* | 27/Jun/2025 - 10:02 am |  | - |
+| General | CO1.MSG.8085832 | RESPUESTA A OBSERVACIONES KAVANTIC SAS | 26/Jun/2025 - 10:58 am |  | - |
+| General | CO1.MSG.8081564 | RESPUESTA A OBSERVACIONES - PC ON LINE ALTA TECNOLOGIA SAS | 25/Jun/2025 - 04:21 pm |  | - |
+| Aclaraciones | CO1.MSG.8079673 | AVISO DE LIMITACION A MIPYMES PROCESO AI-MC-2109-2025 | 25/Jun/2025 - 12:58 pm |  | - |
+| General | CO1.MSG.8079563 | AVISO DE LIMITACION A MIPYMES PROCESO AI-MC-2109-2025 | 25/Jun/2025 - 12:56 pm |  | - |
+| General | CO1.MSG.8079117 | RESPUESTA A OBSERVACIONES | 25/Jun/2025 - 11:48 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:39 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

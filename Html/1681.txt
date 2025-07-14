@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682c7d5ec197f6.30472189
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 08:37:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO, ADMINISTRACION, SOPORTE TECNICO, ALOJAMIENTO Y ACTUALIZACION DE SOFTWARE FINANCIERO (CONTABILIDAD, TESORERIA , PRESUPUESTO, ALMACEN Y CONTRATOS) PARA EL INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112213 - Mantenimiento del software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 16 VIA A PAMPLONA VEREDA ROSABLANCA Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,900,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112213 | CONTRATO DE PRESTACION DE SERVICIOS DE APOYO, ACTUALIZACION SOFTWARE CONTABLE EN LOS MODULOS DE CONTABILIDAD, TESORERIA, PRESUPUESTO, ALMACEN ACTUALIZACION DEL SISTEMA , CONTABLE, PRESUPUESTAL Y DE ACTIVOS FIJOS VERSION 2025 | Contratación régimen especial - Régimen especial | SGP | $1.900.000 | INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 07:58 am
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 10:00 am
+
+**Plazo de ejecución del contrato:**
+
+13/Jun/2025 - 12:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

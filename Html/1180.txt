@@ -1,0 +1,273 @@
+Title: Licitaciones - MUNICIPIO DE MOTAVITA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffc0754cb0a6.25095042
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-26 01:46:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS DE COMPUTO E IMPRESORA PARA LA COMISARIA DE FAMILIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Motavita
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+10 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 No. 2 – 56 Motavita Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 43212104 | SUMINISTRO DE EQUIPOS DE COMPUTO E IMPRESORA PARA COMISARIA DE FAMILIA | Mínima cuantía | Recursos propios | $20.576.071 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 09:19 am
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+16/Abr/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/Abr/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+21/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 11:30 am
+
+**Plazo máximo para expedir adendas:**
+
+21/Abr/2025 - 11:30 am
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 11:30 am
+
+**Presentación de Ofertas:**
+
+22/Abr/2025 - 11:30 am
+
+**Apertura de sobres:**
+
+22/Abr/2025 - 11:35 am
+
+**Informe de presentación de ofertas:**
+
+22/Abr/2025 - 11:40 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/Abr/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Abr/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+24/Abr/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+Si
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 24/Abr/2025 - 02:00 pm | 30/Sep/2025 - 11:59 pm |
+| Pago de salarios | 10,00 | 24/Abr/2025 - 02:00 pm | 31/May/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 24/Abr/2025 - 02:00 pm | 31/May/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 22/Abr/2025 - 09:53 am | * **Nombre:** HECTOR GARCIA GONZALEZ | Sogamoso - Boyacá |
+| 2 | 22/Abr/2025 - 10:14 am | * **Nombre:** E.A.G COMERCIALIZADORA SAS | Tunja - Boyacá |
+| 3 | 22/Abr/2025 - 11:21 am | * **Nombre:** Jaime Alberto Samaniego | Sogamoso - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 13,600,000
+
+**Informes proceso de selección CO1.AWD.2233204 de 24/Abr/2025 - 12:53 pm. Valor $13.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/Abr/2025 - 08:59 am |  |
+| Informe de evaluación | 24/Abr/2025 - 10:04 am |  |
+| Informe de selección | 24/Abr/2025 - 12:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2233204**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** E.A.G. COMERCIALIZADORA SAS * **Tipo documento:** NIT * **Documento:** 820002946 | * **Nombre:** JUAN MIGUEL BAYONA RAMIREZ * **Tipo documento:** * **Documento:** 7169155 | Tunja - Boyacá | $13.600.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2233204****
+
+**Contrato MM-MIN-010 DE 2025 de E.A.G. COMERCIALIZADORA SAS:**
+
+**ID del contrato en SECOP:**
+
+MM-MIN-010 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE EQUIPOS DE COMPUTO E IMPRESORA PARA LA COMISARIA DE FAMILIA.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211507 | SUMINISTRO DE EQUIPOS DE COMPUTO E IMPRESORA PARA LA COMISARIA DE FAMILIA. | 1,00 | UN | 15.456.000,00 | 13.600.000,00 | 15.456.000,00 | 13.600.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Abr/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 13,600,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 27. COMUNICACION DE ACEPTACION.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2233204 | Informe de selección CO1.AWD.2233204 | 24/Abr/2025 - 12:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2233204 | Informe de evaluación 2 CO1.AWD.2233204 | 24/Abr/2025 - 10:04 am |  | - |
+| Reporte preliminar | CO1.AWD.2233204 | Informe de evaluación 1 CO1.AWD.2233204 | 23/Abr/2025 - 08:59 am |  | - |
+| Avisos | CO1.MSG.7779267 | La lista de oferentes del proceso MM-MIN-010-2025 publicada por MUNICIPIO DE MOTAVITA | 22/Abr/2025 - 11:53 am |  | - |
+| General | CO1.MSG.7773297 | RESPUESTA OBSERVACIONES | 21/Abr/2025 - 12:36 pm |  | - |
+| General | CO1.MSG.7772228 | LIMITAR LA CONVOCATORIA A MYPES Y/O MIPYMES | 21/Abr/2025 - 10:16 am |  | - |

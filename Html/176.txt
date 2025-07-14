@@ -1,0 +1,400 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6800477fca5e55.03632144
+
+Markdown Content:
+Licitaciones - POLICIA METROPOLITANA DE VILLAVICENCIO - Subasta Inversa PN MEVIL SA 021 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-30 06:43:26
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA LOS EQUIPOS TECNOLÓGICOS, PLANTAS ELÉCTRICAS, AIRES ACONDICIONADOS, TORRES DE COMUNICACIÓN Y MANTENIMIENTO A EQUIPOS DE LA EMISORA 101.8 FM PARA LA POLICÍA METROPOLITANA DE VILLAVICENCIO Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE POR LOTES.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Meta : Villavicencio
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112204 - Mantenimiento de software de sistemas operativos
+
+**Códigos adicionales UNSPSC:**
+81112303 - Mantenimiento de computadores “mainframe”,81112300 - Mantenimiento y soporte de hardware de computador,81112306 - Mantenimiento de impresoras,72154300 - Servicios de mantenimiento y reparación de equipo motivo y generación de energía eléctrica,73152108 - Servicio de mantenimiento y reparación de equipos eléctricos,72151500 - Servicios de sistemas eléctricos,30141500 - Aislamiento térmico,40101800 - Equipo de calefacción y piezas y accesorios,40141600 - Válvulas,72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados,72154000 - Servicios de edificios especializados y comercios,72151600 - Servicios de sistemas especializados de comunicación
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Mantenimiento e instalación de equipos de cómputo, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Equipos audiovisuales, -Plantas eléctricas, generadores eléctricas, -Aire acondicionado, -Equipos para radiodifusión y televisión", "licicodigos": "100,106,110,115,227,263,321" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 44 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 21 sur via kirpas - Camino Ganadero Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+Si
+
+**Información adicional de la visita:**
+Las visitas podrán ser coordinadas con el jefe del grupo de tecnologías de la información y las comunicaciones de la Policía Metropolitana de Villavicencio MEVI GUTIC
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Corea, Costa Rica
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+160 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 533,450,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72101511, 72151514, 72154300, 81112307 | SERVICIO DE MANTENIMIENTO PLANTAS ELECTRICAS, AIRES Y EQUIPOS DE COMPUTO | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $533.450.000 | GRUPO DE CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Abr/2025 - 06:53 pm
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Abr/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+16/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+25/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Abr/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/Abr/2025 - 08:18 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/Abr/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/Abr/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/May/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+09/May/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+15/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+23/May/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/May/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+29/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+05/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 29/May/2025 - 12:00 pm | 15/Abr/2029 - 11:59 pm |
+| Calidad del servicio | 50,00 | 29/May/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** REFRICALDERAS | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 185,000,000
+
+**Informes proceso de selección CO1.AWD.2251627 de 26/May/2025 - 06:38 am. Valor $185.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 04:11 pm |  |
+| Informe de evaluación | 23/May/2025 - 10:48 am |  |
+| Informe de evaluación | 26/May/2025 - 06:12 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:12 pm |  |
+| Informe de selección | 26/May/2025 - 06:38 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2251627**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** REFRICALDERAS DEL LLANO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93361646 | * **Nombre:** JORGE ELIECER GARCIA REYES * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93361646 | Villavicencio - Meta | $185.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2251627****
+
+**Contrato 88-8-10021-25 de REFRICALDERAS DEL LLANO:**
+
+**ID del contrato en SECOP:**
+
+88-8-10021-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA LOS EQUIPOS TECNOLÓGICOS, PLANTAS ELÉCTRICAS, AIRES ACONDICIONADOS, TORRES DE COMUNICACIÓN Y MANTENIMIENTO A EQUIPOS DE LA EMISORA 101.8 FM PARA LA POLICÍA METROPOLITANA DE VILLAVICENCIO Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE POR LOTES. LOTE 2: SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LOS AIRES ACONDICIONADOS, PARA LA POLICÍA METROPOLITANA DE VILLAVICENCIO Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE.
+
+**Precios unitarios:**
+
+**Lote No. 2**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 | 72101511 | Lote 2 Mantenimiento de Aires Acondicionados | 1,00 | UN | 185.000.000,00 | 185.000.000,00 | 185.000.000,00 | 185.000.000,00 |
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+195 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 185,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | MINUTA CONTRATO 88-8-10021-25.pdf |  |
+|  | 33 ANEXO 3 LISTADO DE REPUESTOS Y SERVICIOS DE MANTENIMIENTO LOTE 2.xlsx |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+23/May/2025 - 01:30 pm
+
+**Fecha de inicio:**
+23/May/2025 - 02:30 pm
+
+**Fecha fin:**
+23/May/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2251627 | Informe de selección CO1.AWD.2251627 | 26/May/2025 - 06:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251627 | Informe de evaluación 3 CO1.AWD.2251627 | 26/May/2025 - 06:12 pm |  | - |
+| Avisos | CO1.MSG.7928507 | Publicación de la lista de ofertas del proceso PN MEVIL SA 021 2025 (Presentación de oferta). | 23/May/2025 - 11:13 am |  | - |
+| Avisos | CO1.MSG.7928495 | La lista de oferentes del proceso PN MEVIL SA 021 2025 (Presentación de oferta) publicada por POLICIA METROPOLITANA DE VILLAVICENCIO | 23/May/2025 - 11:13 am |  | - |
+| Reporte preliminar | CO1.AWD.2251627 | Informe de evaluación 2 CO1.AWD.2251627 | 23/May/2025 - 10:48 am |  | - |
+| Objeciones | CO1.MSG.7887408 | [Respondido] RE:Subsanación de documentos requeridos en informe de evaluación preliminar | 23/May/2025 - 10:45 am |  | - |
+| Objeciones | CO1.MSG.7887408 | Subsanación de documentos requeridos en informe de evaluación preliminar | 15/May/2025 - 11:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2251627 | Informe de evaluación 1 CO1.AWD.2251627 | 14/May/2025 - 04:11 pm |  | - |
+| Avisos | CO1.MSG.7857890 | Publicación de la lista de ofertas del proceso PN MEVIL SA 021 2025 (Presentación de oferta). | 09/May/2025 - 09:26 am |  | - |
+| Avisos | CO1.MSG.7857879 | La lista de oferentes del proceso PN MEVIL SA 021 2025 (Presentación de oferta) publicada por POLICIA METROPOLITANA DE VILLAVICENCIO | 09/May/2025 - 09:25 am |  | - |
+| Aclaraciones | CO1.MSG.7848335 | RE: Observaciones PN MEVIL SA 021 2025 | 07/May/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7826139 | Observaciones PN MEVIL SA 021 2025 | 02/May/2025 - 01:30 pm |  | - |
+| Aclaraciones | CO1.MSG.7801122 | Observaciones al P.P.C. Proceso de selección abreviada PN MEVIL SA 021 2025 | 25/Abr/2025 - 04:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7770994 | mipymes al departamento del Meta | 20/Abr/2025 - 02:44 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:12 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

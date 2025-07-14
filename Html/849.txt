@@ -1,0 +1,226 @@
+Title: Licitaciones - MUNICIPIO DE ABEJORRAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835d75f582753.19121553
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:33:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE COMPUTADORES DE ESCRITORIO E IMPRESORAS PARA GARANTIZAR EL CORRECTO FUNCIONAMIENTO LAS DIFERENTES SECRETARÍAS DE LA ALCALDÍA DE ABEJORRAL, DE CARA AL MEJORAMIENTO DE LA PRESTACION DE SERVICIOS Y TRAMITES PARA EL CIUDADANO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Abejorral
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+2 Meses
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 50 # 50-06 PALACIO MUNICIPAL Abejorral Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 08:30 am
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+27/May/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+29/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/Jun/2025 - 12:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 12:30 pm
+
+**Aceptación de ofertas:**
+
+11/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INVERSIONES MUNDIALES | El Carmen De Viboral - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 37,466,400
+
+**Informes proceso de selección CO1.AWD.2275930 de 11/Jun/2025 - 03:43 am. Valor $37.466.400**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/Jun/2025 - 12:35 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 12:50 pm |  |
+| Informe de selección | 11/Jun/2025 - 03:43 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2275930**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INVERSIONES MUNDIALES UNO A S.A.S * **Tipo documento:** NIT * **Documento:** 901289961 | * **Nombre:** DORA PATRICIA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1036392146 | El Carmen De Viboral - Antioquia | $37.466.400 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2275930****
+
+**ID del contrato en SECOP:**
+
+MC-2025-23
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+01/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 37,466,400
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2275930 | Informe de selección CO1.AWD.2275930 | 11/Jun/2025 - 03:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2275930 | Informe de evaluación 2 CO1.AWD.2275930 | 11/Jun/2025 - 12:50 pm |  | - |
+| Objeciones | CO1.MSG.8001144 | [Respondido] RE:SOLICITUD PUBLICACION OFERTAS | 11/Jun/2025 - 12:49 pm |  | - |
+| Avisos | CO1.MSG.8015195 | Publicación de la lista de ofertas del proceso MC-2025-23 DE 2025. | 11/Jun/2025 - 12:47 pm |  | - |
+| Avisos | CO1.MSG.8015187 | La lista de oferentes del proceso MC-2025-23 DE 2025 publicada por MUNICIPIO DE ABEJORRAL | 11/Jun/2025 - 12:46 pm |  | - |
+| Objeciones | CO1.MSG.8001144 | SOLICITUD PUBLICACION OFERTAS | 09/Jun/2025 - 01:02 pm |  | - |
+| Reporte preliminar | CO1.AWD.2275930 | Informe de evaluación 1 CO1.AWD.2275930 | 09/Jun/2025 - 12:35 pm |  | - |
+| Avisos | CO1.REQ.8324500 | Publicación modificación | 09/Jun/2025 - 12:32 pm |  |  |
+| General | CO1.MSG.7955997 | AVISO LIMITACION A MIPYME | 29/May/2025 - 12:04 am |  | - |
+| Aclaraciones | CO1.MSG.7955998 | AVISO LIMITACION A MIPYME | 29/May/2025 - 12:04 am |  | - |
+| Aclaraciones | CO1.MSG.7950267 | Mipymes departamental. | 28/May/2025 - 10:59 am |  | - |

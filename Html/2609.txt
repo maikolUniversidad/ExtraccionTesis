@@ -1,0 +1,194 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL LA TEBAIDA QUINDIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685497fbab5955.40248520
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 10:59:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTROS PARA LA IMPRESIÓN Y ELABORACIÓN DE LICENCIAS DE CONDUCCIÓN, DE TRANSITO, TARJETAS DE REGISTRO A TODO COSTO PARA LICENCIAS DE TRANSITO Y DEMÁS ESPECIES VENALES Y PLACAS REFLECTIVAS PARA VEHÍCULOS DE ACUERDO CON LAS FICHAS TÉCNICAS ADOPTADAS POR EL MINISTERIO DE TRANSPORTE RESPONSABILIDAD DE LA SECRETARÍA DEL TRÁNSITO DE LA TEBAIDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : La Tebaida
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+24141500 - Suministros para seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+44102000 - Suministros para plastificado,55121800 - Documentos de identificación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Especies venales, placas vehiculares, -Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "127,268,468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 #12-27 La Tebaida Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 05:53 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 12:00 am | 19/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 12:00 am | 31/Dic/2028 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(8/07/2025 4:03:52 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ALCALDIA MUNICIPAL LA TEBAIDA QUINDIO en 18 horas de tiempo transcurrido (8/07/2025 4:03:52 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Proceso declarado desierto, el proveedor renunció a términos.
+
+**Fecha de la cancelación:**
+
+08/Jul/2025 - 04:03 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8123407 | RE: SUBSANACION DOCUMENTOS | 04/Jul/2025 - 06:01 pm |  | - |
+| General | CO1.MSG.8123387 | RESOLUCIÓN DECLARA DESIERTO | 04/Jul/2025 - 05:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293149 | Informe de evaluación 2 CO1.AWD.2293149 | 02/Jul/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.8093355 | PUBLICACIÓN DE INFORME DE EVALUACIÓN | 27/Jun/2025 - 12:54 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293149 | Informe de evaluación 1 CO1.AWD.2293149 | 27/Jun/2025 - 12:53 pm |  | - |
+| General | CO1.MSG.8071406 | RE: Solicitud de revocatoria | 26/Jun/2025 - 05:55 pm |  | - |
+| Avisos | CO1.REQ.8443705 | Publicación modificación | 26/Jun/2025 - 05:50 pm |  |  |
+| Avisos | CO1.MSG.8089799 | La lista de oferentes del proceso SMC-010-2025 publicada por ALCALDIA MUNICIPAL LA TEBAIDA QUINDIO | 26/Jun/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.8089803 | Publicación de la lista de ofertas del proceso SMC-010-2025. | 26/Jun/2025 - 05:46 pm |  | - |
+| General | CO1.MSG.8075628 | RE: OBSERVACION A LA INVITACIÓN PÚBLICA | 24/Jun/2025 - 06:04 pm |  | - |
+| General | CO1.MSG.8075584 | LIMITACIÓN MIPYMES COLOMBIANAS | 24/Jun/2025 - 05:58 pm |  | - |
+| Avisos | CO1.REQ.8443705 | Publicación modificación | 24/Jun/2025 - 05:55 pm |  |  |

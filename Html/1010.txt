@@ -1,0 +1,282 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE ARAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d51d35b9dd8.10260021
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 06:53:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DEL BANCO DE PROGRAMAS Y PROYECTOS DE INVERSIÓN MUNICIPAL, EN EL MUNICIPIO DE ARAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Arauca : Arauca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 24 ENTRE 18 Y 20 Arauca Arauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43212100, 43211700 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DEL BANCO DE PROGRAMAS Y PROYECTOS DE INVERSIÓN MUNICIPAL, EN EL MUNICIPIO DE ARAUCA | Mínima cuantía | Recursos propios | $24.700.000 | UNIDAD DE CONTRATACION ARAUCA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 10:14 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 10:50 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 10:50 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 10:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 10:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 10:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 10:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 04:02 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 04:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 10:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/May/2025 - 10:00 pm | 13/Dic/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/May/2025 - 10:00 pm | 13/Dic/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PRINTER WORLD SAS | Arauca - Arauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 20,800,000
+
+**Informes proceso de selección CO1.AWD.2263502 de 05/Jun/2025 - 02:51 am. Valor $20.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 07:11 pm |  |
+| Informe de evaluación | 30/May/2025 - 08:00 pm |  |
+| Informe de selección | 05/Jun/2025 - 02:51 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2263502**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PRINTER WORLD SAS * **Tipo documento:** NIT * **Documento:** 901824664 | * **Nombre:** ANGEL VALLARDO ARAUJO YUSTRE * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1116789345 | Arauca - Arauca | $20.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2263502****
+
+**Contrato 313-2025 de PRINTER WORLD SAS:**
+
+**ID del contrato en SECOP:**
+
+313-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DEL BANCO DE PROGRAMAS Y PROYECTOS DE INVERSIÓN MUNICIPAL, EN EL MUNICIPIO DE ARAUCA.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211500 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DEL BANCO DE PROGRAMAS Y PROYECTOS DE INVERSIÓN MUNICIPAL, EN EL MUNICIPIO DE ARAUCA | 1,00 | VG | 24.700.000,00 | 20.800.000,00 | 24.700.000,00 | 20.800.000,00 |
+
+**Fecha de terminación del contrato:**
+
+21/Jun/2025 - 10:00 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 20,800,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 0313_PRINTER_WORLD_SAS[1].pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2263502 | Informe de selección CO1.AWD.2263502 | 05/Jun/2025 - 02:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2263502 | Informe de evaluación 2 CO1.AWD.2263502 | 30/May/2025 - 08:00 pm |  | - |
+| Objeciones | CO1.MSG.7946942 | [Respondido] RE:SUBSANACIÓN | 30/May/2025 - 07:58 pm |  | - |
+| Objeciones | CO1.MSG.7941760 | [Respondido] RE:SUBSANACIÓN DE DOCUMENTOS | 30/May/2025 - 07:52 pm |  | - |
+| General | CO1.MSG.7950826 | Traslado de observaciones. | 28/May/2025 - 11:53 am |  | - |
+| Avisos | CO1.REQ.8270388 | Publicación modificación | 28/May/2025 - 11:50 am |  |  |
+| Objeciones | CO1.MSG.7946942 | SUBSANACIÓN | 27/May/2025 - 05:22 pm |  | - |
+| Avisos | CO1.MSG.7942189 | Publicación de la lista de ofertas del proceso 8MC-015-2025. | 27/May/2025 - 09:53 am |  | - |
+| Avisos | CO1.MSG.7942181 | La lista de oferentes del proceso 8MC-015-2025 publicada por ALCALDIA MUNICIPIO DE ARAUCA | 27/May/2025 - 09:52 am |  | - |
+| Objeciones | CO1.MSG.7941760 | SUBSANACIÓN DE DOCUMENTOS | 27/May/2025 - 09:19 am |  | - |
+| Reporte preliminar | CO1.AWD.2263502 | Informe de evaluación 1 CO1.AWD.2263502 | 26/May/2025 - 07:11 pm |  | - |
+| Avisos | CO1.REQ.8270388 | Publicación modificación | 22/May/2025 - 04:47 pm |  |  |
+| Aclaraciones | CO1.MSG.7924679 | RE: OBSERVACIONES A INVITACIÓN PÚBLICA PROC. 8MC-015-2025 | 22/May/2025 - 04:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7915470 | OBSERVACIONES A INVITACIÓN PÚBLICA PROC. 8MC-015-2025 | 21/May/2025 - 12:51 pm |  | - |

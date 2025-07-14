@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA PUERTO BOYACA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d20a67ac25.77812049
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 11:10:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de elementos para el área de bienestar al aprendiz del Centro de la Innovación Agroindustrial y de Servicios.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Puerto Boyacá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Códigos adicionales UNSPSC:**
+
+12171703 - Tintas,13111067 - Alcohol etileno vinilo,14111506 - Papel para impresión de computadores,41114509 - Tensiómetros,42141502 - Palitos (copitos) con punta de fibra,44121618 - Tijeras,53101902 - Trajes para hombre,53101904 - Trajes para mujer
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Papelería y elementos de oficina, -Suministro material y/o dispositivos médicos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,115,127,190,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 5 Via la Dorada Puerto Boyacá Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+20 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 02:42 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/Jun/2025 - 05:00 pm

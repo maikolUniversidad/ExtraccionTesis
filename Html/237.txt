@@ -1,0 +1,278 @@
+Title: Licitaciones - ALCALDIA DE GUAMAL - META
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684aee355dc2c9.36766910
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:44:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+DOTACIÓN DE ELEMENTOS TECNOLÓGICOS, EQUIPOS Y MOBILIARIO PARA EL FORTALECIMIENTO DE LA CALIDAD EDUCATIVA EN EL MUNICIPIO DE GUAMAL META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Guamal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161542 - Pantallas de plasma
+
+**Códigos adicionales UNSPSC:**
+
+40101604 - Ventiladores,40101701 - Aires acondicionados,43211503 - Computadores notebook,52161505 - Televisores,56121502 - Asientos para aulas de clase,56121505 - Mesas para aulas de clase,56121509 - Mesas de computador para estudiantes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales, -Mobiliario, -Aire acondicionado", "licicodigos": "104,115,128,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 13 # 7 - 09 Guamal Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 335,995,613
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 52161542, 43211503, 40101701, 56121505, 56121509, 56121502, 52161505, 40101604 | DOTACIÓN DE ELEMENTOS TECNOLÓGICOS, EQUIPOS Y MOBILIARIO PARA EL FORTALECIMIENTO DE LA CALIDAD EDUCATIVA EN EL MUNICIPIO DE GUAMAL META | Selección abreviada subasta inversa | SGP | $155.995.613 | OFICINA ASESORA JURIDICA Y DE CONTRATACION |
+| 52161542, 43211503, 40101701, 56121505, 56121509, 56121502, 52161505, 40101604 | DOTACIÓN DE ELEMENTOS TECNOLÓGICOS, EQUIPOS Y MOBILIARIO PARA EL FORTALECIMIENTO DE LA CALIDAD EDUCATIVA EN EL MUNICIPIO DE GUAMAL META | Selección abreviada subasta inversa | Recursos propios | $180.000.000 | OFICINA ASESORA JURIDICA Y DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 10:02 am
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+18/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+19/Jun/2025 - 05:37 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 11:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+19/Jun/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+19/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+26/Jun/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+26/Jun/2025 - 08:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jul/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+11/Jul/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+15/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+21/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 10/Jul/2025 - 11:59 pm | 31/Mar/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 10/Jul/2025 - 11:59 pm | 31/Mar/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+11/Jul/2025 - 09:40 am
+
+**Fecha de inicio:**
+
+11/Jul/2025 - 10:00 am
+
+**Fecha fin:**
+
+11/Jul/2025 - 10:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2297948 | Informe de evaluación 3 CO1.AWD.2297948 | 11/Jul/2025 - 09:52 am |  | - |
+| Avisos | CO1.MSG.8154092 | La lista de oferentes del proceso SASI-SDS-002-2025 (Presentación de oferta) publicada por ALCALDIA DE GUAMAL - META | 11/Jul/2025 - 08:23 am |  | - |
+| General | CO1.MSG.8153637 | RE: SUBSANACION ORDEN TECNICO | 10/Jul/2025 - 10:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297948 | Informe de evaluación 2 CO1.AWD.2297948 | 10/Jul/2025 - 10:20 pm |  | - |
+| General | CO1.MSG.8124241 | SUBSANACION ORDEN TECNICO | 05/Jul/2025 - 10:14 am |  | - |
+| Reporte preliminar | CO1.AWD.2297948 | Informe de evaluación 1 CO1.AWD.2297948 | 04/Jul/2025 - 04:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297863 | Informe de evaluación 1 CO1.AWD.2297863 | 04/Jul/2025 - 04:10 pm |  | - |
+| General | CO1.MSG.8121825 | ADENDA 01 | 04/Jul/2025 - 03:38 pm |  | - |
+| Avisos | CO1.REQ.8444601 | A new request amendment was published | 04/Jul/2025 - 03:37 pm |  |  |
+| Avisos | CO1.MSG.8084322 | La lista de oferentes del proceso SASI-SDS-002-2025 (Presentación de oferta) publicada por ALCALDIA DE GUAMAL - META | 26/Jun/2025 - 08:20 am |  | - |
+| Avisos | CO1.MSG.8084328 | Publicación de la lista de ofertas del proceso SASI-SDS-002-2025 (Presentación de oferta). | 26/Jun/2025 - 08:20 am |  | - |
+| General | CO1.MSG.8061209 | RE: LIMITACION MIPYMES DEPARTAMENTALES | 19/Jun/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.8061200 | RE: SOLICITUD CIERRE A MIPYMES MUNICIPAL PROCESO SELECCIÓN ABREVIADA SUBASTA INVERSA ELECTRÓNICA NO. SASI-SDS-002-2025. | 19/Jun/2025 - 05:24 pm |  | - |
+| General | CO1.MSG.8061193 | RE: Solicitud Limitación convocatoria participación de MIPYMES colombianas con domicilio principal en el Municipio de Guamal- Meta | 19/Jun/2025 - 05:24 pm |  | - |
+| General | CO1.MSG.8061186 | RE: Solicitud Limitación convocatoria participación de MIPYMES colombianas con domicilio principal en el Municipio de Guamal- Meta | 19/Jun/2025 - 05:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8061157 | RE: Limitacion Mipyme Departamento del META , Limitacion Mipymes Nacionales, SOLICITUD CIERRE A MIPYMES MUNICIPAL PROCESO SELECCIÓN ABREVIADA SUBASTA INVERSA ELECTRÓNICA NO. SASI-SDS-002-2025. | 19/Jun/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.8061183 | RE: LIMITACION A MIPYMES | 19/Jun/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.8059771 | RE: MIPYMES NACIONALES | 19/Jun/2025 - 03:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8052942 | Limitacion Mipyme Departamento del META | 18/Jun/2025 - 04:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8052453 | Limitacion Mipymes Nacionales | 18/Jun/2025 - 03:33 pm |  | - |
+| Aclaraciones | CO1.MSG.8036733 | SOLICITUD CIERRE A MIPYMES MUNICIPAL PROCESO SELECCIÓN ABREVIADA SUBASTA INVERSA ELECTRÓNICA NO. SASI-SDS-002-2025. | 16/Jun/2025 - 12:35 pm |  | - |

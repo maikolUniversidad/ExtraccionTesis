@@ -1,0 +1,239 @@
+Title: Licitaciones - AGENCIA NACIONAL DEL ESPECTRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685356e0194fe9.36060365
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Renovar las suscripciones a su versión más reciente para las licencias Visual Paradigm Teamwork Server y las tres (3) licencias flotantes Visual Paradigm Enterprise, incluyendo un año de mantenimiento para ambos productos, así como el entrenamiento para su uso adecuado en la Agencia Nacional del Espectro - ANE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+43232400 - Programas de desarrollo,81112200 - Mantenimiento y soporte de software,81161500 - Servicios de administración de acceso,80101500 - Servicios de consultoría de negocios y administración corporativa,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,80101600 - Gerencia de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 93 # 17 - 45 piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111700, 81112200 | Gestión TIC- Servicios de licenciamiento de Visual Paradigm | Mínima cuantía | Recursos propios | $38.000.000 | ANE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 07:02 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 07/Jul/2025 - 12:00 am | 18/Oct/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 07/Jul/2025 - 12:00 am | 18/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 07/Jul/2025 - 12:00 am | 18/Oct/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 07/Jul/2025 - 12:00 am | 18/Oct/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 35,961,925
+
+**Informes proceso de selección CO1.AWD.2296330 de 09/Jul/2025 - 05:58 am. Valor $35.961.925**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 07:27 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:27 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:27 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:27 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 07:27 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:27 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:27 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:27 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:27 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:27 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:26 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 05:29 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:58 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8145402 | Publicación de la lista de ofertas del proceso MC-160-2025. | 09/Jul/2025 - 06:01 pm |  | - |
+| Reporte final | CO1.AWD.2296330 | Informe de selección CO1.AWD.2296330 | 09/Jul/2025 - 05:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296330 | Informe de evaluación 4 CO1.AWD.2296330 | 09/Jul/2025 - 05:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296330 | Informe de evaluación 3 CO1.AWD.2296330 | 09/Jul/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.8132398 | Aclaración - Término para presentar observaciones al informe de evaluación preliminar | 08/Jul/2025 - 08:59 am |  | - |
+| Reporte preliminar | CO1.AWD.2296330 | Informe de evaluación 2 CO1.AWD.2296330 | 07/Jul/2025 - 09:27 pm |  | - |
+| Avisos | CO1.REQ.8434083 | Publicación modificación | 04/Jul/2025 - 05:55 pm |  |  |
+| Reporte preliminar | CO1.AWD.2296330 | Informe de evaluación 1 CO1.AWD.2296330 | 02/Jul/2025 - 07:27 pm |  | - |
+| Avisos | CO1.MSG.8086167 | La lista de oferentes del proceso MC-160-2025 publicada por AGENCIA NACIONAL DEL ESPECTRO | 26/Jun/2025 - 11:28 am |  | - |
+| General | CO1.MSG.8073176 | Aviso de no limitación a Mipymes | 24/Jun/2025 - 02:42 pm |  | - |

@@ -1,0 +1,308 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827a2889b0a71.47695527
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:35:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar el servicio de soporte, renovación y adquisición de los licenciamientos o suscripciones de los firewall Fortinet y Fortianalyzer
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Cra 30 No 25-90 piso 9 costado oriental Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 157,280,891
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | Prestar el servicio de soporte, renovación y adquisición de los licenciamientos o suscripciones de los firewall Fortinet y Fortianalyzer | Selección abreviada subasta inversa | Recursos propios | $157.280.891 | SUBDIRECCION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 03:38 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 03:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 07:48 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 08:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+06/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 02:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+10/Jun/2025 - 02:05 pm
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 02:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+24/Jun/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 03:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 20/Jun/2025 - 12:00 pm | 20/Jun/2028 - 12:00 pm |
+| Pago de salarios | 5,00 | 20/Jun/2025 - 12:00 pm | 20/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 20/Jun/2025 - 12:00 pm | 20/Jun/2028 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** eyc ingenieros SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 139,361,940
+
+**Informes proceso de selección CO1.AWD.2280244 de 27/Jun/2025 - 11:27 am. Valor $139.361.940**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 04:47 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 04:47 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 04:47 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:14 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 10:59 am |  |
+| Informe de evaluación | 24/Jun/2025 - 10:20 pm |  |
+| Informe de selección | 27/Jun/2025 - 11:27 pm |  |
+| Informe de selección | 27/Jun/2025 - 11:27 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+25/Jun/2025 - 09:00 am
+
+**Fecha de inicio:**
+
+25/Jun/2025 - 11:00 am
+
+**Fecha fin:**
+
+25/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2280244 | Informe de selección CO1.AWD.2280244 | 27/Jun/2025 - 11:27 pm |  | - |
+| General | CO1.MSG.8096452 | RESOLUCION_ADJUDICACION_DASCD_SASI_002_2025 | 27/Jun/2025 - 08:33 pm |  | - |
+| General | CO1.MSG.8096253 | RECOMENDACIÓN_COMITE EVALUADOR_ADJUDICACIÓN | 27/Jun/2025 - 06:58 pm |  | - |
+| General | CO1.MSG.8080250 | INFORME_DE_SUBASTA_25_06_2025 | 25/Jun/2025 - 02:33 pm |  | - |
+| Avisos | CO1.MSG.8077548 | Publicación de la lista de ofertas del proceso DASCD-SASI-002-2025 (Presentación de oferta). | 25/Jun/2025 - 09:07 am |  | - |
+| Avisos | CO1.MSG.8077544 | La lista de oferentes del proceso DASCD-SASI-002-2025 (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 25/Jun/2025 - 09:07 am |  | - |
+| Reporte preliminar | CO1.AWD.2280244 | Informe de evaluación 4 CO1.AWD.2280244 | 24/Jun/2025 - 10:20 pm |  | - |
+| General | CO1.MSG.8076584 | EVALUACION_ECONOMICA_DASCD_SASI_002_2025 | 24/Jun/2025 - 10:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280244 | Informe de evaluación 3 CO1.AWD.2280244 | 24/Jun/2025 - 10:59 am |  | - |
+| General | CO1.MSG.8071497 | RE: Respuesta a las observaciones_REAL TIME | 24/Jun/2025 - 10:58 am |  | - |
+| General | CO1.MSG.8071414 | RE: Respuesta_Certificación_Canal_Autorizado | 24/Jun/2025 - 10:50 am |  | - |
+| General | CO1.MSG.8071190 | RE: Observaciones Informe 2 | 24/Jun/2025 - 10:40 am |  | - |
+| General | CO1.MSG.8066662 | Solicitud - Proveedores EyC ingenieros SAS | 20/Jun/2025 - 04:07 pm |  | - |
+| General | CO1.MSG.8060871 | ADENDA 2 - PROCESO DASCD-SASI-002-2025 | 19/Jun/2025 - 04:59 pm |  | - |
+| Avisos | CO1.REQ.8335250 | Publicación modificación | 19/Jun/2025 - 04:54 pm |  |  |
+| General | CO1.MSG.8055084 | RE: Obsevaciones_Open_Group | 18/Jun/2025 - 08:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280244 | Informe de evaluación 2 CO1.AWD.2280244 | 18/Jun/2025 - 05:14 pm |  | - |
+| General | CO1.MSG.8053837 | EVALUACIÓN_JURÍDICA_FINAL | 18/Jun/2025 - 05:12 pm |  | - |
+| Objeciones | CO1.MSG.8049223 | [Respondido] RE:SUBSANACION | 18/Jun/2025 - 05:09 pm |  | - |
+| Objeciones | CO1.MSG.8052224 | [Respondido] RE:Alcance subsanacion | 18/Jun/2025 - 05:09 pm |  | - |
+| Objeciones | CO1.MSG.8052224 | Alcance subsanacion | 18/Jun/2025 - 03:17 pm |  | - |
+| Objeciones | CO1.MSG.8049223 | SUBSANACION | 18/Jun/2025 - 12:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280244 | Informe de evaluación 1 CO1.AWD.2280244 | 13/Jun/2025 - 04:47 pm |  | - |
+| Avisos | CO1.MSG.8009972 | Publicación de la lista de ofertas del proceso DASCD-SASI-002-2025 (Presentación de oferta). | 10/Jun/2025 - 04:26 pm |  | - |
+| Avisos | CO1.MSG.8009508 | La lista de oferentes del proceso DASCD-SASI-002-2025 (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 10/Jun/2025 - 03:46 pm |  | - |
+| General | CO1.MSG.8001350 | ADENDA - PROCESO DASCD-SASI-002-2025 | 09/Jun/2025 - 01:54 pm |  | - |
+| Avisos | CO1.REQ.8335250 | Publicación modificación | 09/Jun/2025 - 01:47 pm |  |  |
+| Avisos | CO1.REQ.8335250 | Publicación modificación | 09/Jun/2025 - 11:00 am |  |  |
+| General | CO1.MSG.7982928 | RE: OBSERVACIONES DASC | 04/Jun/2025 - 05:21 pm |  | - |
+| General | CO1.MSG.7947970 | Rta observaciones | 27/May/2025 - 07:59 pm |  | - |

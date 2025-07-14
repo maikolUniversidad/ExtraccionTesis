@@ -1,0 +1,272 @@
+Title: Licitaciones - SUBCUENTA DEL SISTEMA DE PARQUES NACIONALES NATURALES DEL FONDO NACIONAL AMBIENTAL -FONAM DTCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e1dab5ef828.42836579
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-03 06:13:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CA09-3202010-24-005 Servicio de Arrendamiento de Equipos de cómputo e impresoras para atender la venta por derechos de ingresos de visitantes del Área Protegida Parque Nacional Natural Tayrona.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Magdalena : Sitionuevo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+80131500 - Alquiler y arrendamiento de propiedades o edificaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "107,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+k 11 via Barranuilla - Cienaga Sitionuevo Magdalena COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Arrendamiento de muebles
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,501
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80131500 | CA09-3202010-24-005 Servicio de Arrendamiento de Equipos de cómputo e impresoras para atender la venta por derechos de ingresos de visitantes el AP, | Mínima cuantía | Recursos propios | $71.046.931 | DIRECCIÓN TERRITORIAL CARIBE |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+21/May/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 12:00 pm
+
+**Fecha de publicación:**
+
+21/May/2025 - 01:13 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 10:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 06:00 pm | 30/Dic/2026 - 11:00 pm |
+| Calidad del servicio | 10,00 | 29/May/2025 - 06:00 pm | 30/Dic/2025 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** OFIMAGDALENA | Santa Marta - Magdalena |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 53,620,000
+
+**Informes proceso de selección CO1.AWD.2264226 de 29/May/2025 - 02:45 am. Valor $53.620.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 11:08 am |  |
+| Informe de selección | 29/May/2025 - 02:45 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264226**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** OFIMAGDALENA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1082949589 | * **Nombre:** Jairo Cesar Gaviria Quintero * **Tipo documento:** NIT * **Documento:** 1082949589 | Santa Marta - Magdalena | $53.620.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264226****
+
+**Contrato DTCA-CAR-002-2025 de OFIMAGDALENA:**
+
+**ID del contrato en SECOP:**
+
+DTCA-CAR-002-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+CA09-3202010-24-005 Servicio de Arrendamiento de Equipos de cómputo e impresoras para atender la venta por derechos de ingresos de visitantes del Área Protegida Parque Nacional Natural Tayrona.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211507 | CA09-3202010-24-005 Servicio de Arrendamiento de Equipos de cómputo e impresoras para atender la venta por derechos de ingresos de visitantes del Área Protegida Parque Nacional Natural Tayrona. | 1,00 | UN | 55.005.767,00 | 53.620.000,00 | 55.005.767,00 | 53.620.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Dic/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 53,620,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 13. CONTRATO DE ARRENDAMIENTO N°002-2025-ANEXO 5 - ACEPTACION DE LA OFERTA O CONDICIONES ADICIONALES DEL CONTRATO (1).pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264226 | Informe de selección CO1.AWD.2264226 | 29/May/2025 - 02:45 pm |  | - |
+| Avisos | CO1.MSG.7943028 | Publicación de la lista de ofertas del proceso IPMC-DTCA-037-2025. | 27/May/2025 - 11:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2264226 | Informe de evaluación 1 CO1.AWD.2264226 | 27/May/2025 - 11:08 am |  | - |
+| Avisos | CO1.MSG.7935412 | La lista de oferentes del proceso IPMC-DTCA-037-2025 publicada por SUBCUENTA DEL SISTEMA DE PARQUES NACIONALES NATURALES DEL FONDO NACIONAL AMBIENTAL -FONAM DTCA | 26/May/2025 - 10:25 am |  | - |
+| General | CO1.MSG.7932082 | AVISO DE PROCESO LIMITADO A MIPYME | 23/May/2025 - 05:36 pm |  | - |

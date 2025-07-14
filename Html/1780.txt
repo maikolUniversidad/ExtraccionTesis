@@ -1,0 +1,102 @@
+Title: Licitaciones - Superintendencia de Transporte
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c3371bcb633.07131449
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:31:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+RENOVACIÓN DEL SOPORTE, MANTENIMIENTO Y ACTUALIZACIONES DEL SOFTWARE DE GESTIÓN DE IMPRESIÓN DE LA SUPERINTENDENCIA DE TRANSPORTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201537 - Servidores de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+43231511 - Software de sistemas expertos,44101724 - Actualizaciones de multi funciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 25 G No 95 a – 85 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 12:21 pm
+
+**Plazo para solicitar aclaraciones:**
+
+08/Jul/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/Jul/2025 - 09:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8464818 | Publicación modificación | 11/Jul/2025 - 09:41 am |  |  |
+| Avisos | CO1.REQ.8464818 | Publicación modificación | 07/Jul/2025 - 03:15 pm |  |  |
+| Avisos | CO1.REQ.8464818 | Publicación modificación | 04/Jul/2025 - 09:00 am |  |  |

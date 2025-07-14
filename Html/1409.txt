@@ -1,0 +1,188 @@
+Title: Licitaciones - INSTITUTO DE TRANSITO Y TRANSPORTE DE ACACIAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834f7a4e53f46.45626941
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 07:45:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SERVICIO DE RENOVACION DE CERTIFICADOS DIGITALES EN FORMATO CENTRALIZADO PARA ENTIDAD PUBLICA QUE SON UTILIZADOS EN EL INSTITUTO DE TRANSITO Y TRANSPORTE DE ACACIAS - META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Acacías
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+32131023 - Soporte de dispositivos eléctricos o electrónicos,43233201 - Software de servidor de autenticación,81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 15A No 31-24 Acacías Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200, 32131023, 43233201, 81112501 | 44SERVICIO DE RENOVACIÓN DE CERTIFICADOS DIGITALES EN FORMATO CENTRALIZADO PARA ENTIDAD PÚBLICA QUE SON UTILIZADOS EN EL INSTITUTO DE TRÁNSITO Y TRANSPORTE DE ACACIAS - META. | Mínima cuantía | Recursos propios | $7.497.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 06:01 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 06:05 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 06:05 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7955306 | La lista de oferentes del proceso ITTA-SMC-017-2025 publicada por INSTITUTO DE TRANSITO Y TRANSPORTE DE ACACIAS | 28/May/2025 - 07:01 pm |  | - |

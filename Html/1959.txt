@@ -1,0 +1,94 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE SALUD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ad0b92672f3.45244214
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 08:15:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Renovación de los segmentos LACNIC y los servicios de soporte relacionados con el funcionamiento de la red
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Códigos adicionales UNSPSC:**
+
+80101500 - Servicios de consultoría de negocios y administración corporativa,81111708 - Servicios de planificación de telecomunicaciones,81111801 - Seguridad de los computadores, redes o internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av Calle 26 No. 51 - 20 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 07:59 am
+
+**Plazo para solicitar aclaraciones:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 05:00 pm

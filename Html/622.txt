@@ -1,0 +1,219 @@
+Title: Licitaciones - SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. (OFICIAL)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f4bbc5047e4.41542610
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 12:43:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE PARTES, REPUESTOS, INSUMOS Y PERIFÉRICOS PARA LOS EQUIPOS DE CÓMPUTO, DISPOSITIVOS DE RED Y TRANSMISIÓN DE DATOS DE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211600 - Accesorios de computador
+
+**Códigos adicionales UNSPSC:**
+
+43211507 - Computadores de escritorio,43211600 - Accesorios de computador,43211612 - Kits de accesorios de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 66 No. 15-41 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211600, 43211612, 43211507 | SUMINISTRO DE PARTES, REPUESTOS, INSUMOS Y PERIFÉRICOS PARA LOS EQUIPOS DE CÓMPUTO, DISPOSITIVOS DE RED Y TRANSMISIÓN DE DATOS DE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. | Contratación régimen especial (con ofertas) - Régimen especial | Recursos propios | $90.000.000 | DIRECCIÓN DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+22/May/2025 - 10:07 am
+
+**Fecha límite de presentación de ofertas:**
+
+29/May/2025 - 02:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+29/May/2025 - 02:05 pm
+
+**Fecha de Firma del Contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+10/Sep/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 11/Jun/2025 - 12:00 pm | 10/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 11/Jun/2025 - 12:00 pm | 10/Ene/2026 - 11:59 pm |
+| De la provisión de repuestos, accesorios y correcto funcionamiento de equipos | 5,00 | 11/Jun/2025 - 12:00 pm | 10/Sep/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** T&S COMP TECNOLOGIA y SERVICIOS S.A.S | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 28,852,000
+
+**Informes proceso de selección CO1.AWD.2277123 de 10/Jun/2025 - 07:56 am. Valor $28.852.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 10/Jun/2025 - 03:03 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 03:03 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 03:03 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:06 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:06 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:06 pm |  |
+| Informe de selección | 10/Jun/2025 - 07:56 pm |  |
+| Informe de selección | 10/Jun/2025 - 07:56 pm |  |
+| Informe de selección | 10/Jun/2025 - 07:56 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2277123**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** T&S COMP TECNOLOGIA y SERVICIOS S.A.S * **Tipo documento:** NIT * **Documento:** 830080498 | * **Nombre:** Andrea Alexandra Castillo Carvajal * **Tipo documento:** NIT * **Documento:** 52148717 | Bogotá - Distrito Capital de Bogotá | $28.852.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2277123****
+
+**ID del contrato en SECOP:**
+
+CS BYS 114-2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+18/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 28,852,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8025259 | ACLARACIÓN COMUNICADO DE ACEPTACIÓN | 13/Jun/2025 - 03:56 pm |  | - |
+| Reporte final | CO1.AWD.2277123 | Informe de selección CO1.AWD.2277123 | 10/Jun/2025 - 07:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2277123 | Informe de evaluación 2 CO1.AWD.2277123 | 10/Jun/2025 - 05:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2277123 | Informe de evaluación 1 CO1.AWD.2277123 | 10/Jun/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.8004016 | PUBLICACIÓN INFORME DEFINITIVO DE EVALAUCIONES IC-049-2025 | 09/Jun/2025 - 06:27 pm |  | - |
+| General | CO1.MSG.7988258 | PUBLICACIÓN DE EVALUACIONES INICIALES IC-049-2025 | 05/Jun/2025 - 02:55 pm |  | - |
+| Avisos | CO1.MSG.7959489 | Publicación de la lista de ofertas del proceso IC-049-2025. | 29/May/2025 - 02:22 pm |  | - |
+| Avisos | CO1.MSG.7959478 | La lista de oferentes del proceso IC-049-2025 publicada por SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. (OFICIAL) | 29/May/2025 - 02:21 pm |  | - |
+| General | CO1.MSG.7956924 | RESPUESTA A LAS OBSERVACIONES | 29/May/2025 - 09:25 am |  | - |
+| General | CO1.MSG.7953147 | LIMITACION A MIPYMES IC-049-2025 | 28/May/2025 - 03:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7935025 | LIMITACION MIPYMES NACIONALES | 26/May/2025 - 09:52 am |  | - |

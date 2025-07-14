@@ -1,0 +1,90 @@
+Title: Licitaciones - SUPERINTENDENCIA DE NOTARIADO Y REGISTRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ff09611cce46.31993114
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:54:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR ADQUISICIÓN, CONFIGURACIÓN E IMPLEMENTACIÓN DE UN SISTEMA DE ALMACENAMIENTO EN ALTA DISPONIBILIDAD PARA LA SUPERINTENDENCIA DE NOTARIADO Y REGISTRO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233000 - Software de entorno operativo
+
+**Códigos adicionales UNSPSC:**
+
+43232700 - Software de aplicaciones de red,80141700 - Distribución,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,43233600 - Software de equipo eléctrico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Servicios en la nube (Cloud), -Servidores (Suministro y alquiler)", "licicodigos": "269,437,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA NIVEL CENTRAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 08:22 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Abr/2025 - 05:00 pm

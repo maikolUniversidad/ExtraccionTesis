@@ -1,0 +1,94 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE AMBIENTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d1feb84ab7.68367736
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:17:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+REALIZAR EL MANTENIMIENTO, ACTUALIZACIÓN, Y SOPORTE TÉCNICO EN LA HERRAMIENTA PARA LA MESA DE SERVICIOS DE LA SDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa,43233000 - Software de entorno operativo,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Caracas No. 54-38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 03:21 pm
+
+**Plazo para solicitar aclaraciones:**
+
+02/Jun/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jun/2025 - 04:00 pm

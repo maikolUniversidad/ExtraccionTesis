@@ -1,0 +1,100 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DE EMPLEO Y FOMENTO EMPRESARIAL DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681d3fe56a2b61.92803576
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:25:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLICITUD DE COTIZACIÓN PARA CONTRATAR EL DESARROLLO WEB O IMPLEMENTACIÓN DE UN SITIO WEB PARA EL MARKETPLACE DEL IMEBU CON LAS FUNCIONALIDADES DESCRITAS EN LOS REQUERIMIENTOS TÉCNICOS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232400 - Programas de desarrollo
+
+**Códigos adicionales UNSPSC:**
+
+43232400 - Programas de desarrollo,43232401 - Software de manejo de configuraciones,43232402 - Software de entorno de desarrollo,43232403 - Software de integración de aplicaciones de empresas,43232404 - Software de desarrollo de interface de usuario gráfica,43232405 - Software de desarrollo orientado a objetos o componentes,43232406 - Software de pruebas de programas,43232407 - Software de arquitectura de sistemas y análisis de requerimientos,43232408 - Software de desarrollo de plataformas web,43232409 - Software para compilar y descompilar,81112104 - Proveedores de motores de búsqueda en la web,81112106 - Proveedores de servicios de aplicación,81112107 - Nombres de los dominio de internet,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 48 No 28 - 40 PISO 2 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 06:14 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8223261 | Publicación modificación | 15/May/2025 - 07:05 am |  |  |

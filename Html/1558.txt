@@ -1,0 +1,129 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA TÉCNICA PEDRO PABON PARGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823d36ff167e6.92549709
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 17:44:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+contratar la adquisición de un servicio de plataforma virtual para el sistema integrado de la gestión académica, administrativa, comportamental y de calidad, para la sistematización de informes académicos durante la vigencia 2025, necesario en la institución educativa.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Carmen De Apicalá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Servicios en la nube (Cloud)", "licicodigos": "102,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRRERA 4 NO 6-16 Carmen De Apicalá Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+194 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 05:28 pm
+
+**Fecha de Firma del Contrato:**
+
+20/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+20/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Nov/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8256911 | Publicación modificación | 16/May/2025 - 03:51 pm |  |  |
+| Avisos | CO1.REQ.8256911 | Publicación modificación | 16/May/2025 - 11:47 am |  |  |

@@ -1,0 +1,94 @@
+Title: Licitaciones - MUNICIPIO DE SOACHA..
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851c3c2c74ff5.24776610
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 14:36:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS CELULARES TIPO SMARTHPHONE Y SERVICIO DE PLAN DE DATOS DE TELEFONÍA PARA LAS COMISARIAS DE FAMILIA DEL MUNICIPIO DE SOACHA, CON LA FINALIDAD DE GARANTIZAR ATENCION OPTIMA A LA POBLACION VULNERABLE DEL MUNICIPIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Soacha
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83111603 - Servicios de telefonía celular
+
+**Códigos adicionales UNSPSC:**
+
+43191501 - Teléfonos móviles,43221500 - Sistemas de gestión de llamadas o accesorios,83121703 - Servicios relacionados con el internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Telefonía móvil, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "405,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 N° 13-07 Soacha Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 02:26 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 05:00 pm

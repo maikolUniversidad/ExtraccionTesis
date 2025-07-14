@@ -1,0 +1,94 @@
+Title: Licitaciones - SUBCUENTA DEL SISTEMA DE PARQUES NACIONALES NATURALES DEL FONDO NACIONAL AMBIENTAL -FONAM DTPA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808fadc7b24f3.15150916
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-23 09:36:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar servicio de mantenimiento y calibración a todo costo de los equipos de la Dirección territorial Pacifico y sus áreas protegidas implementadas en la estrategia de monitoreo e investigación en el marco de la conservación de la diversidad biológica de las áreas protegidas del SINAP nacional.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41114300 - Instrumentos hidrológicos
+
+**Códigos adicionales UNSPSC:**
+
+25201700 - Sistemas relacionados con las comunicaciones de vuelo,78181800 - Servicios de mantenimiento y reparación de aeronaves
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 117 # 16B-00 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 09:25 am
+
+**Plazo para solicitar aclaraciones:**
+
+24/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Abr/2025 - 05:00 pm

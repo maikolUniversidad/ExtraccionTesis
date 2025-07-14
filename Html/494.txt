@@ -1,0 +1,318 @@
+Title: Licitaciones - DIVRI - Contratación mínima cuantía MC 048
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c388d1d95d1.06333899
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 16:31:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA PRESTACION DEL SERVCIO DE SOPORTE TECNICO, MANTENIMIENTO Y HOSTING DEL PORTAL WEB HTTP/WWWDIVRIGOVCO DE LA DIRECCIÓN DE VETERANOS Y REHABILITACIÓN INCLUSIVA DIVRI DEL MINISTERIO DE DEFENSA NACIONAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232400 - Programas de desarrollo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Hosting, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "102,111,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 26 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 # 44 40 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+13 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 162,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232400, 43232107, 43232408, 81112103, 81112215 | Soporte y mantenimiento hosting, página web | Mínima cuantía | Presupuesto de entidad nacional | $58.500.000 | DIRECCION DE VETARNOS Y REHABILITACIN INCLUSIVA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 07:58 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+06/May/2025 - 04:02 pm
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 04:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 07:00 pm | 31/Dic/2026 - 11:00 pm |
+| Pago de salarios | 5,00 | 14/May/2025 - 07:00 pm | 31/Jul/2029 - 11:00 pm |
+| Calidad del servicio | 20,00 | 14/May/2025 - 07:00 pm | 31/Dic/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BRANDER | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 59,879,000
+
+**Informes proceso de selección CO1.AWD.2246311 de 03/Jun/2025 - 12:07 pm. Valor $59.879.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 04:27 pm |  |
+| Informe de evaluación | 08/May/2025 - 04:27 pm |  |
+| Informe de evaluación | 08/May/2025 - 04:27 pm |  |
+| Informe de evaluación | 14/May/2025 - 08:23 am |  |
+| Informe de evaluación | 14/May/2025 - 08:23 am |  |
+| Informe de evaluación | 14/May/2025 - 08:23 am |  |
+| Informe de evaluación | 15/May/2025 - 09:20 am |  |
+| Informe de evaluación | 19/May/2025 - 04:25 pm |  |
+| Informe de evaluación | 19/May/2025 - 04:25 pm |  |
+| Informe de evaluación | 19/May/2025 - 04:25 pm |  |
+| Informe de evaluación | 22/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 22/May/2025 - 04:08 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+| Informe de selección | 03/Jun/2025 - 12:07 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246311**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BRANDER IDEAS SAS * **Tipo documento:** NIT * **Documento:** 900646665 | * **Nombre:** ANDERSON ARDILA * **Tipo documento:** NIT * **Documento:** 80092941 | Bogotá - Distrito Capital de Bogotá | $59.879.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246311****
+
+**ID del contrato en SECOP:**
+
+054/2025 MDN-VVGSED-DIVRI,
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+30/Abr/2026 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 59,879,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246311 | Informe de selección CO1.AWD.2246311 | 03/Jun/2025 - 12:07 pm |  | - |
+| Objeciones | CO1.MSG.7929329 | [Respondido] RE:Observaciones informe 5 | 03/Jun/2025 - 12:05 pm |  | - |
+| General | CO1.MSG.7970664 | CONTRA OBSERVACION Y RESPUESTA A CONTRA OBSERVACION | 03/Jun/2025 - 07:19 am |  | - |
+| Avisos | CO1.REQ.8167513 | Publicación modificación | 30/May/2025 - 04:50 pm |  |  |
+| General | CO1.MSG.7965630 | RE: OBSERVACION A INFORME #5 | 30/May/2025 - 12:37 pm |  | - |
+| General | CO1.MSG.7958516 | NUEVA VERIFICACIÓN TECNICA A SUBSANACION DE OFERTA DE GRUPO VECTOR SAS | 30/May/2025 - 11:21 am |  | - |
+| General | CO1.MSG.7963527 | RE: Refutacion informe técnico del 29 de mayo de 2025 | 30/May/2025 - 08:43 am |  | - |
+| General | CO1.MSG.7958524 | REQUERIMIENTO TECNICO 29 E MAYO DE 2025 | 29/May/2025 - 12:00 pm |  | - |
+| General | CO1.MSG.7958449 | NUEVA VERIFICACION TECNICA | 29/May/2025 - 11:54 am |  | - |
+| Avisos | CO1.REQ.8167513 | Publicación modificación | 29/May/2025 - 07:34 am |  |  |
+| General | CO1.MSG.7951038 | INFORMACION A TODOS LOS PROPONENTES E INTERESADOS | 28/May/2025 - 12:28 pm |  | - |
+| Avisos | CO1.REQ.8167513 | Publicación modificación | 26/May/2025 - 03:00 pm |  |  |
+| Objeciones | CO1.MSG.7929329 | Observaciones informe 5 | 23/May/2025 - 01:03 pm |  | - |
+| Avisos | CO1.REQ.8167513 | Publicación modificación | 22/May/2025 - 05:06 pm |  |  |
+| Reporte preliminar | CO1.AWD.2246311 | Informe de evaluación 5 CO1.AWD.2246311 | 22/May/2025 - 04:08 pm |  | - |
+| Objeciones | CO1.MSG.7905127 | [Respondido] RE:Verificación de cumplimiento del perfil del Director de Proyecto | 22/May/2025 - 03:59 pm |  | - |
+| Objeciones | CO1.MSG.7905127 | Verificación de cumplimiento del perfil del Director de Proyecto | 19/May/2025 - 08:08 pm |  | - |
+| Avisos | CO1.REQ.8167513 | Publicación modificación | 19/May/2025 - 04:56 pm |  |  |
+| Objeciones | CO1.MSG.7893228 | [Respondido] RE:Observaciones al informe | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7887117 | [Respondido] RE:Subsanación Informe 3 | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7887409 | [Respondido] RE:observacion a informe | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7893397 | [Respondido] RE:CARTA DE SUBSANCION Y SOPRTES | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7883714 | [Respondido] RE:OBSERVACIONES ROYAL TECH GROUP SAS | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7885161 | [Respondido] RE:Subsanacion documentos invitación | 19/May/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7880954 | [Respondido] RE:Subsanación | 19/May/2025 - 04:28 pm |  | - |
+| General | CO1.MSG.7903380 | Formulario de Preguntas y Respuestas a las observaciones efectuadas a la reevaluación. | 19/May/2025 - 04:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246311 | Informe de evaluación 4 CO1.AWD.2246311 | 19/May/2025 - 04:25 pm |  | - |
+| Objeciones | CO1.MSG.7893228 | Observaciones al informe | 16/May/2025 - 10:58 am |  | - |
+| Objeciones | CO1.MSG.7893397 | CARTA DE SUBSANCION Y SOPRTES | 16/May/2025 - 10:55 am |  | - |
+| Objeciones | CO1.MSG.7887409 | observacion a informe | 15/May/2025 - 11:50 am |  | - |

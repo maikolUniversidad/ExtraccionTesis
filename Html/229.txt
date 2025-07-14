@@ -1,0 +1,160 @@
+Title: Licitaciones - EMPRESA DE SEGURIDAD DEL ORIENTE SAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855d5a534de28.85160663
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS DE CÓMPUTO Y EQUIPOS PERIFÉRICOS PARA EL CENTRO DE MONITOREO Y CONTROL - CMC; EN EL MARCO DEL CIAD-10.07.00-21.16-009-2025 GERENCIA INTEGRAL CMC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Rionegro
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211501 - Servidores de computador
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "104,105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 46 # 30-425 Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211600, 43211700, 43211800, 43211900, 43212000, 43212100, 43212200, 44103100 | Suministro de elementos informáticos, equipos de computo e impresoras del Centro de Monitoreo y Control del Municipio de Rionegro | Contratación régimen especial (con ofertas) - Régimen especial | Recursos propios | $150.000.000 | ESO |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+20/Jun/2025 - 04:40 pm
+
+**Fecha límite de presentación de ofertas:**
+
+27/Jun/2025 - 03:30 pm
+
+**Fecha límite para la apertura de sobres:**
+
+27/Jun/2025 - 03:31 pm
+
+**Fecha de Firma del Contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+07/Oct/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Abr/2026 - 11:59 am |
+| Pago de salarios | 10,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 07/Jul/2025 - 12:00 pm | 07/Oct/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(10/Jul/2025 - 05:49 am:51 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ESO RIONEGRO S.A.S. en 20 horas de tiempo transcurrido (10/Jul/2025 - 05:49 am:51 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Proceso Declarado Desierto
+
+**Fecha de la cancelación:**
+
+10/Jul/2025 - 05:49 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2296436 | Informe de evaluación 3 CO1.AWD.2296436 | 10/Jul/2025 - 05:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296436 | Informe de evaluación 2 CO1.AWD.2296436 | 04/Jul/2025 - 05:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296436 | Informe de evaluación 1 CO1.AWD.2296436 | 02/Jul/2025 - 07:28 pm |  | - |
+| Avisos | CO1.REQ.8450174 | Publicación modificación | 27/Jun/2025 - 10:32 am |  |  |
+| Aclaraciones | CO1.MSG.8085263 | Observacion | 26/Jun/2025 - 10:13 am |  | - |
+| Avisos | CO1.REQ.8450174 | Publicación modificación | 25/Jun/2025 - 05:08 pm |  |  |
+| Aclaraciones | CO1.MSG.8081966 | RE: Observacion sobre pluralidad de oferentes - Invitacion Privada de Ofertas 244-2025-IP | 25/Jun/2025 - 04:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8072626 | Observacion sobre pluralidad de oferentes - Invitacion Privada de Ofertas 244-2025-IP | 24/Jun/2025 - 01:25 pm |  | - |

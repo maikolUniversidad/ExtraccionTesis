@@ -1,0 +1,271 @@
+Title: Licitaciones - MUNICIPIO VALLE DEL GUAMUEZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6836408cc913c7.10868518
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:36:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS DE CÓMPUTO Y MOBILIARIO PARA EL FUNCIONAMIENTO DE LA COMISARIA DE FAMILIA DEL MUNICIPIO VALLE DEL GUAMUÉZ, DEPARTAMENTO DEL PUTUMAYO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Putumayo : Valle Del Guamuez
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211503 - Computadores notebook
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador,43211509 - Computadores de tableta,56112104 - Sillas para ejecutivos,43211711 - Escáneres,43212110 - Impresoras de múltiples funciones,39121635 - Regulador de voltaje
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Mobiliario", "licicodigos": "104,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+1 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 5-11 Valle Del Guamuez Putumayo COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 05:19 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 05:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 05:10 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 05:15 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 05:15 pm
+
+**Apertura de sobres:**
+
+30/May/2025 - 05:25 pm
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 05:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/Jun/2025 - 03:30 pm | 10/Oct/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 05/Jun/2025 - 03:30 pm | 10/Jun/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 5,00 | 05/Jun/2025 - 03:30 pm | 10/Oct/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** OMAR CAÑETES AMAYA | Valle Del Guamuez - Putumayo |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 32,500,000
+
+**Informes proceso de selección CO1.AWD.2271044 de 06/Jun/2025 - 09:58 am. Valor $32.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 05:22 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:07 pm |  |
+| Informe de selección | 06/Jun/2025 - 09:58 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271044**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** OMAR CAÑETES AMAYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93416058 | * **Nombre:** OMAR CAÑETES AMAYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93416058 | Valle Del Guamuez - Putumayo | $32.500.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271044****
+
+**Contrato SG-CV-IMC-334-2025 de OMAR CAÑETES AMAYA:**
+
+**ID del contrato en SECOP:**
+
+SG-CV-IMC-334-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS DE CÓMPUTO Y MOBILIARIO PARA EL FUNCIONAMIENTO DE LA COMISARIA DE FAMILIA DEL MUNICIPIO VALLE DEL GUAMUÉZ, DEPARTAMENTO DEL PUTUMAYO
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211503 | ADQUISICIÓN DE EQUIPOS DE CÓMPUTO Y MOBILIARIO PARA EL FUNCIONAMIENTO DE LA COMISARIA DE FAMILIA | 1,00 | UN | 35.997.000,00 | 32.500.000,00 | 35.997.000,00 | 32.500.000,00 |
+
+**Fecha de terminación del contrato:**
+
+14/Jun/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+5 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 32,500,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptación de oferta IMC -031-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271044 | Informe de selección CO1.AWD.2271044 | 06/Jun/2025 - 09:58 am |  | - |
+| Reporte preliminar | CO1.AWD.2271044 | Informe de evaluación 2 CO1.AWD.2271044 | 05/Jun/2025 - 04:07 pm |  | - |
+| Avisos | CO1.MSG.7976099 | Publicación de la lista de ofertas del proceso IMC-031-2025. | 03/Jun/2025 - 06:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271044 | Informe de evaluación 1 CO1.AWD.2271044 | 03/Jun/2025 - 05:22 pm |  | - |
+| Avisos | CO1.MSG.7968441 | La lista de oferentes del proceso IMC-031-2025 publicada por MUNICIPIO VALLE DEL GUAMUEZ | 30/May/2025 - 05:31 pm |  | - |
+| General | CO1.MSG.7961849 | ADENDA N 002 | 29/May/2025 - 05:42 pm |  | - |
+| General | CO1.MSG.7961735 | LIMITACION A MIPYMES MUNICIPAL IMC-031-2025 | 29/May/2025 - 05:39 pm |  | - |
+| Avisos | CO1.REQ.8328367 | Publicación modificación | 29/May/2025 - 05:31 pm |  |  |
+| Aclaraciones | CO1.MSG.7961465 | RE: OBSERVACIONES FICHAS TECNICAS | 29/May/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.7953559 | ADENDA N001 | 28/May/2025 - 04:21 pm |  | - |
+| Avisos | CO1.REQ.8328367 | Publicación modificación | 28/May/2025 - 04:20 pm |  |  |
+| Aclaraciones | CO1.MSG.7948027 | OBSERVACIONES FICHAS TECNICAS | 27/May/2025 - 08:25 pm |  | - |

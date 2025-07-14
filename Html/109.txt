@@ -1,0 +1,287 @@
+Title: Licitaciones - DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e56cf1ebf94.29354415
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR DISPOSITIVOS MULTIMEDIALES, ELEMENTOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40101500 - Ventilación
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,45111600 - Proyectores y suministros,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,45121500 - Cámaras,45121600 - Accesorios para cámaras,47111500 - Equipo de lavado y secado,47121600 - Máquinas y accesorios para pisos,48101500 - Equipo para cocinar o calentar,52141500 - Electrodomésticos para cocina,52141800 - Otros electrodomésticos,52161500 - Equipos audiovisuales,52161600 - Accesorios de equipo audiovisual
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Electrodomésticos, -Aire acondicionado, -Tablets, dispositivos de bolsillo, teléfonos inteligentes, -Purificadores de agua y máquinas dispensadoras de bebidas, -Calderas, incineradores y equipos de calentamiento", "licicodigos": "115,139,263,423,445,711" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 52 165 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Costa Rica
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,036,034,261
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 52161600, 52161500, 52141800, 52141500, 48101500, 47121600, 47111500, 45121600, 45121500, 45111800, 45111700, 45111600, 43211600, 40101500 | Adquirir dispositivos multimediales, elementos electrónicos y electrodomésticos. | Selección abreviada subasta inversa | Recursos propios | $1.036.034.261 | SECRETARÍA SUMINISTROS Y SERVICIOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 05:37 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 11:58 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 06:36 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+17/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jun/2025 - 10:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+17/Jul/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+21/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/Jul/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+29/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 14/Jul/2025 - 06:00 am | 14/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 14/Jul/2025 - 06:00 am | 14/Oct/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 14/Jul/2025 - 06:00 am | 14/Abr/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+17/Jul/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+18/Jul/2025 - 09:00 am
+
+**Fecha fin:**
+
+18/Jul/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8155948 | RE: RE: Publicación de Adenda N° 3 | 11/Jul/2025 - 11:57 am |  | - |
+| General | CO1.MSG.8150290 | Publicación de Adenda N° 3 | 10/Jul/2025 - 03:04 pm |  | - |
+| Avisos | CO1.REQ.8365080 | Publicación modificación | 10/Jul/2025 - 02:59 pm |  |  |
+| General | CO1.MSG.8150040 | Informe de Evaluación proceso 9015669 - Subsanaciones | 10/Jul/2025 - 02:46 pm |  | - |
+| General | CO1.MSG.8130264 | Publicación de Adenda N° 2 | 07/Jul/2025 - 05:35 pm |  | - |
+| Avisos | CO1.REQ.8365080 | Publicación modificación | 07/Jul/2025 - 05:13 pm |  |  |
+| General | CO1.MSG.8125047 | SUBSANACION | 07/Jul/2025 - 05:10 am |  | - |
+| General | CO1.MSG.8111842 | Observaciones Jurídicas - Informe de Evaluacion Inicial | 03/Jul/2025 - 09:12 am |  | - |
+| General | CO1.MSG.8111154 | OFERENTE SUBSANA REQUISITO HABILITANTE | 02/Jul/2025 - 11:58 pm |  | - |
+| General | CO1.MSG.8111149 | OBSERVACIONES FRENTE AL INFORME DE EVALUACION EXPERIENCIA | 02/Jul/2025 - 11:50 pm |  | - |
+| General | CO1.MSG.8111146 | SUBSANACION EXPERIENCIA | 02/Jul/2025 - 11:46 pm |  | - |
+| General | CO1.MSG.8110866 | RESPUESTA INFORME DE EVALUACION INICIAL | 02/Jul/2025 - 09:56 pm |  | - |
+| General | CO1.MSG.8110650 | OBSERVACION INFORME DE EVALUACIÓN 1 PROCESO N° 9015669 | 02/Jul/2025 - 08:25 pm |  | - |
+| General | CO1.MSG.8110575 | DOCUMENTOS A SUBSANAR | 02/Jul/2025 - 07:49 pm |  | - |
+| General | CO1.MSG.8091380 | SERTECOPY SAS SUBSANAR | 02/Jul/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.8106846 | SUBSANACION FRICON SOLUCIONES | 02/Jul/2025 - 12:44 pm |  | - |
+| General | CO1.MSG.8106610 | Documentos Subsanantes | 02/Jul/2025 - 11:57 am |  | - |
+| General | CO1.MSG.8105358 | ANA MARIA SUBSANA | 02/Jul/2025 - 09:54 am |  | - |
+| General | CO1.MSG.8105018 | SUBSANACION DOTACERO | 02/Jul/2025 - 09:21 am |  | - |
+| General | CO1.MSG.8102079 | SUBSANACION | 02/Jul/2025 - 08:07 am |  | - |
+| General | CO1.MSG.8101769 | SUBSANACIÓN PROCESO 9015669 DE 2025-IMPORT RZ SAS | 01/Jul/2025 - 04:05 pm |  | - |
+| General | CO1.MSG.8096799 | SUBSANACIÓN DE REQUERIMIENTO TECNICO | 28/Jun/2025 - 11:07 am |  | - |
+| General | CO1.MSG.8096602 | RESPUESTA INFORME DE EVALUACION | 28/Jun/2025 - 12:08 am |  | - |
+| General | CO1.MSG.8095199 | DOCUMENTOS SUBSANABLES Y/O ACLARATORIOS EXPERIENCIA KEY MARKET SAS | 27/Jun/2025 - 05:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292084 | Informe de evaluación 1 CO1.AWD.2292084 | 26/Jun/2025 - 07:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292083 | Informe de evaluación 1 CO1.AWD.2292083 | 26/Jun/2025 - 07:44 pm |  | - |
+| Avisos | CO1.MSG.8049210 | Publicación de la lista de ofertas del proceso 9015669 (Presentación de oferta). | 18/Jun/2025 - 09:46 am |  | - |
+| Avisos | CO1.MSG.8041666 | La lista de oferentes del proceso 9015669 (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 17/Jun/2025 - 09:22 am |  | - |
+| Avisos | CO1.REQ.8365080 | Publicación modificación | 13/Jun/2025 - 11:08 am |  |  |
+| General | CO1.MSG.8023279 | Respuesta a las observaciones al Pliego de Condiciones | 12/Jun/2025 - 02:44 pm |  | - |

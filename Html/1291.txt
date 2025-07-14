@@ -1,0 +1,200 @@
+Title: Licitaciones - HOSMIL - Contratación mínima cuantía MC-081-2025-HOMIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68097abfd375c7.06284052
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 07:22:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO TRANSMISIÓN EN VIVO Y EN DIRECTO VÍA STREAMING DE LA AUDIENCIA PÚBLICA DE RENDICIÓN DE CUENTAS DE LA VIGENCIA 2024 DEL HOSPITAL MILITAR CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80161507 - Servicios audiovisuales
+
+**Códigos adicionales UNSPSC:**
+
+43223207 - Sistema de flujo de video,43222619 - Equipo de video de red,52161520 - Micrófonos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Streaming", "licicodigos": "486" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Transversal 3C N° 49-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222619, 43223207, 52161520 | PAA2025-UCLB-050 - Servicio de transmisión en vivo y en directo vía streaming de la Rendición de Cuentas del Hospital Militar Central | Mínima cuantía | Recursos propios | $11.000.000 | HOSPITAL MILITAR CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 06:38 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+02/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/May/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/May/2025 - 11:59 pm | 30/Dic/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 02/May/2025 - 11:59 pm | 30/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 02/May/2025 - 11:59 pm | 30/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7802925 | AVISO DE NO LIMITACION A MIPYMES | 25/Abr/2025 - 10:52 pm |  | - |

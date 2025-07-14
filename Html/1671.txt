@@ -1,0 +1,217 @@
+Title: Licitaciones - DIRECCION DE PROTECCION Y SERVICIOS ESPECIALES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b0cac68e769.21005370
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE MEMORIAS SD PARA CÁMARAS FOTOGRÁFICAS Y DISCOS EXTERNOS PARA EL LABORATORIO DE CRIMINALÍSTICA DE LA SECCIONAL DE INVESTIGACIÓN CRIMINAL DIRECCIÓN DE PROTECCIÓN Y SERVICIOS ESPECIALES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Cintas de audio, video, magnéticas y almacenamiento de datos, USB", "licicodigos": "269" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida Carrera 68 N° 19-81 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800 | MEMORIA SD PARA CAMARAS FOTOGRÁFICAS y DISCOS EXTERNO DE 1TB DE CAPACIDAD | Mínima cuantía | Presupuesto de entidad nacional | $2.450.000 | DIRECCION DE PROTECCION Y SERVICIOS ESPECIALES |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 03:16 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 04:05 pm
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jul/2025 - 12:00 am | 16/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 16/Ago/2025 - 12:00 am | 16/Ago/2033 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,512,000
+
+**Informes proceso de selección CO1.AWD.2297230 de 11/Jul/2025 - 05:22 am. Valor $1.512.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jul/2025 - 02:23 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 02:23 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 02:23 pm |  |
+| Informe de evaluación | 05/Jul/2025 - 10:18 am |  |
+| Informe de evaluación | 05/Jul/2025 - 10:18 am |  |
+| Informe de evaluación | 05/Jul/2025 - 10:18 am |  |
+| Informe de selección | 11/Jul/2025 - 05:22 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2297230 | Informe de selección CO1.AWD.2297230 | 11/Jul/2025 - 05:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297230 | Informe de evaluación 2 CO1.AWD.2297230 | 05/Jul/2025 - 10:18 am |  | - |
+| Reporte preliminar | CO1.AWD.2297230 | Informe de evaluación 1 CO1.AWD.2297230 | 03/Jul/2025 - 02:23 pm |  | - |
+| Avisos | CO1.MSG.8108834 | Publicación de la lista de ofertas del proceso PN DIPRO MIC 017 2025. | 02/Jul/2025 - 04:28 pm |  | - |
+| Avisos | CO1.MSG.8108820 | La lista de oferentes del proceso PN DIPRO MIC 017 2025 publicada por DIRECCION DE PROTECCION Y SERVICIOS ESPECIALES | 02/Jul/2025 - 04:27 pm |  | - |

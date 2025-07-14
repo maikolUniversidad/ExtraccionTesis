@@ -1,0 +1,343 @@
+Title: Licitaciones - MINVIVIENDA - Contratación mínima cuantía MVCT-IP-006 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809492e3e2c71.67064640
+
+Markdown Content:
+Licitaciones - MINVIVIENDA - Contratación mínima cuantía MVCT-IP-006 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-26 20:33:31
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+Adquisición de TOKEN de certificados digitales de función pública incluidos los servicios de certificación digital abierta, para ingresar al aplicativo del Ministerio de Hacienda - SIIF Nación II y realizar transacciones y cargue de información presupuestal, financiera y contable.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43233201 - Software de servidor de autenticación
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Calle 17 No. 9 - 36 piso 3 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233201 | 20.23 Adquisición deTOKEN de certificados digitales de función pública incluidos los servicios de certificación digital abierta, para ingresar al aplicativo del Ministerio de Hacienda - SIIF Nación II y realizar transacciones y cargue de información presupuestal, financiera y contable. | Mínima cuantía | Presupuesto de entidad nacional | $17.000.000 | SUBDIRECCION DE SERVICIOS ADMINISTRATIVOS - GRUPO CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 02:37 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 11:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 11:01 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+05/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+05/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 11:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/May/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 11:00 pm | 30/Jun/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 14/May/2025 - 11:00 pm | 30/Jun/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** THOMAS SIGNE S.A.S. | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 5,019,420
+
+**Informes proceso de selección CO1.AWD.2245326 de 14/May/2025 - 05:18 am. Valor $5.019.420**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/May/2025 - 02:41 pm |  |
+| Informe de evaluación | 07/May/2025 - 02:41 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:47 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:47 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:47 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:47 pm |  |
+| Informe de selección | 14/May/2025 - 05:18 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2245326**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** THOMAS SIGNE SOLUCIONES TECNOLOGICAS GLOBALES S.A.S. * **Tipo documento:** NIT * **Documento:** 900962071 | * **Nombre:** JUAN CARLOS YAÑEZ ARENAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 13468672 | Bogotá - Distrito Capital de Bogotá | $5.019.420 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2245326****
+
+**Contrato MVCT-1128-2025 de THOMAS SIGNE SOLUCIONES TECNOLOGICAS GLOBALES S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+MVCT-1128-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+Adquisición de TOKEN de certificados digitales de función pública incluidos los servicios de certificación digital abierta, para ingresar al aplicativo del Ministerio de Hacienda - SIIF Nación II y realizar transacciones y cargue de información presupuestal, financiera y contable.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43233201 | Adquisición de TOKEN de certificados digitales de función pública incluidos los servicios de certificación digital abierta, para ingresar al aplicativo del Ministerio de Hacienda - SIIF Nación II y realizar transacciones y cargue de información presupuestal, financiera y contable. | 1,00 | UN | 15.236.760,00 | 5.019.420,00 | 15.236.760,00 | 5.019.420,00 |
+
+**Fecha inicio del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+8 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 5,019,420
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CONTRATO No. 1128 DE 2025 ACEPTACIÓN DE OFERTA THOMAS SIGNE SOLUCIONES TECNOLOGICAS GLOBALES S.A vf.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACTA DE INICIO CTO. 1128.pdf |  |
+|  | RP 345225 THOMAS.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2245326 | Informe de selección CO1.AWD.2245326 | 14/May/2025 - 05:18 pm |  | - |
+| Objeciones | CO1.MSG.7859487 | [Respondido] RE:Respuesta a Solicitud se Subsanación | 14/May/2025 - 05:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2245326 | Informe de evaluación 2 CO1.AWD.2245326 | 14/May/2025 - 03:47 pm |  | - |
+| Objeciones | CO1.MSG.7859487 | Respuesta a Solicitud se Subsanación | 09/May/2025 - 12:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2245326 | Informe de evaluación 1 CO1.AWD.2245326 | 07/May/2025 - 02:41 pm |  | - |
+| General | CO1.MSG.7832055 | Respuestas a las observaciones | 05/May/2025 - 11:25 am |  | - |
+| General | CO1.MSG.7820408 | AVISO NO LIMITACION DEL PROCESO DE SELECCIÓN A MIPYMES | 30/Abr/2025 - 03:44 pm |  | - |
+| General | CO1.MSG.7820371 | Respuestas a las observaciones | 30/Abr/2025 - 03:42 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:16 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

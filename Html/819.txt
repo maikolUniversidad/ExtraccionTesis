@@ -1,0 +1,268 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE COROZAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68509c25670ec0.93939019
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-04 09:55:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE UTILES DE PAPELERIA Y UTILES PARA LA OFICINA PARA LA ALCALDIA DEL MUNICIPIO DE COROZAL - SUCRE DEPARTAMENTO DE SUCRE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Corozal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44122003 - Carpetas
+
+**Códigos adicionales UNSPSC:**
+
+44122011 - Folders,14111507 - Papel para impresora o fotocopiadora,44103103 - Tóner para impresoras o fax,44103126 - Tinta de máquina duplicadora digital
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 28 No. 31A – 08, Barrio San Juan, Plaza de Junín, Palacio Municipal Segundo Piso Corozal Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 05:13 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 05:30 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 05:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 10:30 am
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 10:30 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 04:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 02:30 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 02:30 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 02:32 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 02:35 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 12:00 pm | 06/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 12:00 pm | 06/Nov/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** APOYOS LOGISTICO, PAPELERIA, PLANES GYG S.A.S | Corozal - Sucre |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,220,000
+
+**Informes proceso de selección CO1.AWD.2289756 de 26/Jun/2025 - 11:20 am. Valor $38.220.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 04:04 pm |  |
+| Informe de selección | 26/Jun/2025 - 11:20 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289756**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** APOYOS LOGISTICO, PAPELERIA, PLANES GYG S.A.S * **Tipo documento:** NIT * **Documento:** 901665388 | * **Nombre:** JULIAN FELIPE GOMEZ CORONADO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 3837921 | Corozal - Sucre | $38.220.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289756****
+
+**Contrato MC-022-2025 de APOYOS LOGISTICO, PAPELERIA, PLANES GYG S.A.S:**
+
+**ID del contrato en SECOP:**
+
+MC-022-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Activo
+
+**Objeto de la firma del contrato:**
+
+ADQUISICION DE UTILES DE PAPELERIA Y UTILES PARA LA OFICINA PARA LA ALCALDIA DEL MUNICIPIO DE COROZAL - SUCRE DEPARTAMENTO DE SUCRE
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44122003 | OFERTA ECONOMICA | 1,00 | UN | 39.000.000,00 | 38.220.000,00 | 39.000.000,00 | 38.220.000,00 |
+
+**Fecha de terminación del contrato:**
+
+06/Jul/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+10 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 38,220,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289756 | Informe de selección CO1.AWD.2289756 | 26/Jun/2025 - 11:20 am |  | - |
+| Reporte preliminar | CO1.AWD.2289756 | Informe de evaluación 1 CO1.AWD.2289756 | 24/Jun/2025 - 04:04 pm |  | - |
+| Avisos | CO1.MSG.8066041 | La lista de oferentes del proceso MC-022-2025 publicada por ALCALDIA MUNICIPAL DE COROZAL | 20/Jun/2025 - 02:54 pm |  | - |
+| General | CO1.MSG.8055363 | AVISO DE LIMITACION A MIPYME | 19/Jun/2025 - 08:48 am |  | - |

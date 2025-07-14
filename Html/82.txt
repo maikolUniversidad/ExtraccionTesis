@@ -1,0 +1,226 @@
+Title: Licitaciones - HOSMIL - Licitación LP-007-2025-HOMIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680835c9171200.17264023
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:49:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ACTUALIZACIÓN DEL SOPORTE DE FÁBRICA Y GARANTÍA DE LOS EQUIPOS (HARDWARE) Y SOFTWARE QUE SOPORTAN LA SOLUCIÓN DE ALMACENAMIENTO MARCA HITACHI Y LA AMPLIACIÓN DE SU CAPACIDAD, ACTUALIZACIÓN DEL SOPORTE DE FÁBRICA Y GARANTÍA DE LOS EQUIPOS (HOST DE VIRTUALIZACIÓN) Y DE LA SOLUCIÓN DE VIRTUALIZACIÓN VMWARE, ACTUALIZACIÓN DEL SOPORTE DE FÁBRICA Y GARANTÍA DE LOS EQUIPOS (HARDWARE Y SOFTWARE) QUE SOPORTAN LA HERRAMIENTA DE BACKUP VEEAM BACKUP QUE ACTUALMENTE TIENE EL HOSPITAL MILITAR CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Transversal 3C N° 49-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,350,759,250
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501, 43201800 | PAA2025-UCLB-INV-055 - Actualización del soporte de fábrica y garantía de los equipos (hardware) y software que soportan la solución de almacenamiento marca hitachi y la ampliación de su capacidad, actualización del soporte de fábrica y garantía de los equipos (host de virtualización) y de la solución de virtualización vmware, actualización del soporte de fábrica y garantía de los equipos (hardware y software) que soportan la herramienta de backup veeam backup que actualmente tiene el Hospital Militar Central | Licitación pública | Recursos propios | $1.350.759.250 | HOSPITAL MILITAR CENTRAL |
+
+Cronograma:
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 07:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 07:11 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+07/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/Jun/2025 - 07:00 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 07:05 pm
+
+**Audiencia de asignación de Riesgos:**
+
+11/Jun/2025 - 11:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+19/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+19/Jun/2025 - 09:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 07:00 pm
+
+**Audiencia de Adjudicación:**
+
+08/Jul/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 07:00 am
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 11/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 11/Jul/2025 - 12:00 am | 31/Dic/2027 - 11:59 pm |
+| Calidad del servicio | 30,00 | 11/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 11/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8135281 | PROTOCOLO PARA AUDIENCIA DE ADJUDICIACIÓN | 08/Jul/2025 - 02:37 pm |  | - |
+| Avisos | CO1.REQ.8373731 | Publicación modificación | 07/Jul/2025 - 06:39 pm |  |  |
+| Reporte preliminar | CO1.AWD.2290719 | Informe de evaluación 1 CO1.AWD.2290719 | 24/Jun/2025 - 08:56 pm |  | - |
+| Avisos | CO1.MSG.8057051 | Publicación de la lista de ofertas del proceso LP-007-2025-HOMIL (Presentación de oferta). | 19/Jun/2025 - 10:20 am |  | - |
+| Avisos | CO1.MSG.8057049 | La lista de oferentes del proceso LP-007-2025-HOMIL (Presentación de oferta) publicada por HOSMIL | 19/Jun/2025 - 10:20 am |  | - |
+| General | CO1.MSG.8013445 | PROTOCOLO PARA AUDIENCIA DE ASIGNACIÓN DE RIESOS | 11/Jun/2025 - 09:43 am |  | - |

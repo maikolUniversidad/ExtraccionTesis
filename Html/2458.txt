@@ -1,0 +1,90 @@
+Title: Licitaciones - UNIDAD PRESTADORA DE SALUD HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834677b1638c3.90827491
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 09:11:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO CORRECTIVO A TODO COSTO INCLUIDA BOLSA DE REPUESTOS PARA LOS EQUIPOS DE COMPUTO DE LA UNIDAD PRESTADORA DE SALUD HUILA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Pitalito
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "104,105,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 22 Sur No. 26a-21 Pitalito Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+225 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 07:51 am
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+31/May/2025 - 06:00 am

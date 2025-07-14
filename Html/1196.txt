@@ -1,0 +1,236 @@
+Title: Licitaciones - FONPRECON - Contratación mínima cuantía MC-008-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b491e4f41c9.47365943
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:00:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIA DEL SOFTWARE LANSWEEPER CON VIGENCIA DE UN (1) AÑO PARA EL FONDO DE PREVISIÓN SOCIAL DEL CONGRESO DE LA REPÚBLICA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 10 24 55 piso 2 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222501, 43222640, 43233204, 43222502 | SOFTWARE LANSWEEPER STANDARD - 1 LICENCIA | Mínima cuantía | Presupuesto de entidad nacional | $15.000.000 | SUBDIRECCIÓN ADMINISTRATIVA Y FINANCIERA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 09:45 am
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+19/May/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 08:35 am
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 12:00 pm | 28/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** E-DEA NETWORKS SAS | Cundinamarca - Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 14,996,898
+
+**Informes proceso de selección CO1.AWD.2262854 de 29/May/2025 - 09:48 am. Valor $14.996.898**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 03:55 pm |  |
+| Informe de evaluación | 26/May/2025 - 03:55 pm |  |
+| Informe de evaluación | 28/May/2025 - 03:20 pm |  |
+| Informe de evaluación | 28/May/2025 - 03:20 pm |  |
+| Informe de selección | 29/May/2025 - 09:48 am |  |
+| Informe de selección | 29/May/2025 - 09:48 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262854**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** E-DEA NETWORKS SAS * **Tipo documento:** NIT * **Documento:** 900265026 | * **Nombre:** PEDRO ANDRES ECHEVERRI GOMEZ * **Tipo documento:** NIT * **Documento:** 79919695 | Cundinamarca - Bogotá | $14.996.898 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262854****
+
+**Cuantía a la firma del contrato:**
+
+$ 14,996,898
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262854 | Informe de selección CO1.AWD.2262854 | 29/May/2025 - 09:48 am |  | - |
+| Objeciones | CO1.MSG.7944200 | [Respondido] RE:Subsanación | 29/May/2025 - 09:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2262854 | Informe de evaluación 2 CO1.AWD.2262854 | 28/May/2025 - 03:20 pm |  | - |
+| General | CO1.MSG.7945646 | Subsanación | 27/May/2025 - 03:56 pm |  | - |
+| Objeciones | CO1.MSG.7944200 | Subsanación | 27/May/2025 - 03:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262854 | Informe de evaluación 1 CO1.AWD.2262854 | 26/May/2025 - 03:55 pm |  | - |
+| Avisos | CO1.MSG.7928598 | La lista de oferentes del proceso MC-008-2025 publicada por FONPRECON | 23/May/2025 - 11:21 am |  | - |
+| Avisos | CO1.MSG.7928603 | Publicación de la lista de ofertas del proceso MC-008-2025. | 23/May/2025 - 11:21 am |  | - |
+| General | CO1.MSG.7916521 | RESPUESTA OBSERVACIONES | 21/May/2025 - 03:10 pm |  | - |
+| General | CO1.MSG.7914645 | AVISO LIMITACION MIPYMES | 21/May/2025 - 11:19 am |  | - |

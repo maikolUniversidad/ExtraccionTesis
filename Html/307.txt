@@ -1,0 +1,185 @@
+Title: Licitaciones - LOTERIA DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68278fc90539d2.13849825
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar los servicios de arrendamiento, administración, operación y soporte especializado de la plataforma tecnológica de la Lotería de Bogotá, incluyendo equipos de red, conectividad y servicios de comunicación, conforme a los lineamientos técnicos y niveles de servicio establecidos por la entidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 32A No. 26-14 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/May/2025 - 02:05 pm
+
+**Fecha límite de presentación de ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha de Firma del Contrato:**
+
+27/Jun/2025 - 08:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+02/Jul/2025 - 07:00 am
+
+**Plazo de ejecución del contrato:**
+
+02/Jul/2026 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/Jun/2025 - 10:00 am | 26/Oct/2025 - 11:00 pm |
+| Pago de salarios | 5,00 | 27/Jun/2025 - 10:00 am | 26/Jun/2028 - 11:00 pm |
+| Calidad del servicio | 20,00 | 27/Jun/2025 - 10:00 am | 26/Dic/2025 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 26/Jun/2025 - 10:00 am | 16/Jun/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GSTCOL S.A.S | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 190,040,000
+
+**Informes proceso de selección CO1.AWD.2276968 de 27/Jun/2025 - 11:53 am. Valor $190.040.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 10/Jun/2025 - 05:09 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:09 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:09 pm |  |
+| Informe de selección | 27/Jun/2025 - 11:53 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2276968 | Informe de selección CO1.AWD.2276968 | 27/Jun/2025 - 11:53 pm |  | - |
+| Objeciones | CO1.MSG.8027786 | [Respondido] RE:Observaciones Proceso Invitación Privada 02 de 2025 | 27/Jun/2025 - 11:52 pm |  | - |
+| Objeciones | CO1.MSG.8017034 | [Respondido] RE:SUBSANACION JURIDICA PRESENTADA POR IFX NETWORKS COLOMBIA SAS | 27/Jun/2025 - 11:51 pm |  | - |
+| General | CO1.MSG.8095430 | RE: Derecho de petición - Datamotion - Lotería de Bogotá | 27/Jun/2025 - 05:05 pm |  | - |
+| General | CO1.MSG.8070937 | ACTA DE ADJUDICACIÓN | 24/Jun/2025 - 10:03 am |  | - |
+| General | CO1.MSG.8062567 | EVALUCIÓN FINAL | 20/Jun/2025 - 05:38 am |  | - |
+| Objeciones | CO1.MSG.8027786 | Observaciones Proceso Invitación Privada 02 de 2025 | 13/Jun/2025 - 09:30 am |  | - |
+| General | CO1.MSG.8019768 | RE: Consulta documentación oferentes | 12/Jun/2025 - 08:04 am |  | - |
+| Avisos | CO1.MSG.8019755 | Publicación de la lista de ofertas del proceso INVITACIÓN PRIVADA No. 02 DE 2025. | 12/Jun/2025 - 08:00 am |  | - |
+| Avisos | CO1.MSG.8019753 | La lista de oferentes del proceso INVITACIÓN PRIVADA No. 02 DE 2025 publicada por LOTERIA DE BOGOTA | 12/Jun/2025 - 08:00 am |  | - |
+| Objeciones | CO1.MSG.8017034 | SUBSANACION JURIDICA PRESENTADA POR IFX NETWORKS COLOMBIA SAS | 11/Jun/2025 - 04:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2276968 | Informe de evaluación 1 CO1.AWD.2276968 | 10/Jun/2025 - 05:09 pm |  | - |
+| General | CO1.MSG.8010351 | EVALUACI{ON PRELIMINAR | 10/Jun/2025 - 05:04 pm |  | - |
+| General | CO1.MSG.7996194 | ADENDA No 1 | 06/Jun/2025 - 04:48 pm |  | - |
+| Avisos | CO1.REQ.8272740 | Publicación modificación | 06/Jun/2025 - 04:44 pm |  |  |
+| Aclaraciones | CO1.MSG.7957519 | RE: RE: RE: Observaciones Invitación Privada 02 de 2025 - Datamotion SAS v.2 | 29/May/2025 - 10:19 am |  | - |
+| Aclaraciones | CO1.MSG.7955304 | RE: OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 28/May/2025 - 07:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7955241 | RE: OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS, OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 28/May/2025 - 06:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7949673 | RE: RE: Observaciones Invitación Privada 02 de 2025 - Datamotion SAS v.2 | 28/May/2025 - 01:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7950949 | OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 28/May/2025 - 12:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7947671 | RE: Observaciones Invitación Privada 02 de 2025 - Datamotion SAS | 27/May/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7946584 | OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 27/May/2025 - 05:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7946518 | OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 27/May/2025 - 04:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7930040 | Observaciones Invitación Privada 02 de 2025 - Datamotion SAS | 23/May/2025 - 02:50 pm |  | - |

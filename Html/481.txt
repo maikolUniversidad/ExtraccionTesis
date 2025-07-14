@@ -1,0 +1,220 @@
+Title: Licitaciones - FISCALÍA GENERAL DE LA NACIÓN REGIONAL EJE CAFETERO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68503a37c49ed6.58523997
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:42:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir accesorios y bienes ergonómicos para la implementación de acciones en el marco del sistema de vigilancia epidemiológico de prevención de desórdenes músculo esqueléticos-DME de la Fiscalía General de la Nación, Subdirección Regional de Apoyo Eje Cafetero.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Pereira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46182200 - Equipo de apoyo ergonómico
+
+**Códigos adicionales UNSPSC:**
+
+46182211 - Protector lumbar o férula de espalda,46182205 - Descansos para los pies,56112104 - Sillas para ejecutivos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario", "licicodigos": "105,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 7 CL 42 ESQUINA TORRE C Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 46182200, 46182211, 46182205, 56112104 | ADQUISICION DE ELEMENTOS DE ERGONOMIA | Mínima cuantía | Presupuesto de entidad nacional | $106.000.000 | COORDINACION REGIONAL DE GESTION CONTRACTUAL EJE CAFETERO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 10:27 am
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 10:30 am
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 10:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 11:00 am
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 11:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 10/Jul/2025 - 08:00 am | 09/Feb/2026 - 11:59 pm |
+| Calidad del servicio | 30,00 | 10/Jul/2025 - 08:00 am | 09/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 10/Jul/2025 - 08:00 am | 09/Sep/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 106,000,000
+
+**Informes proceso de selección CO1.AWD.2295839 de 07/Jul/2025 - 03:13 am. Valor $106.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 03:16 pm |  |
+| Informe de selección | 07/Jul/2025 - 03:13 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295839 | Informe de selección CO1.AWD.2295839 | 07/Jul/2025 - 03:13 pm |  | - |
+| Avisos | CO1.MSG.8108018 | Publicación de la lista de ofertas del proceso FGN-REC-MC-0041-2025. | 02/Jul/2025 - 03:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2295839 | Informe de evaluación 1 CO1.AWD.2295839 | 02/Jul/2025 - 03:16 pm |  | - |
+| Avisos | CO1.MSG.8099397 | La lista de oferentes del proceso FGN-REC-MC-0041-2025 publicada por FISCALÍA GENERAL DE LA NACIÓN REGIONAL EJE CAFETERO | 01/Jul/2025 - 11:06 am |  | - |
+| General | CO1.MSG.8063365 | AVISO DE LIMITACION TERRITORIAL A MIPYMES FGN-REC-MC-0041-2025 | 20/Jun/2025 - 09:24 am |  | - |
+| Aclaraciones | CO1.MSG.8063353 | OBSERVACIONES A LA INVITACION PUBLICA Y RESPUESTAS DADAS POR LA ENTIDAD FGN-REC-MC-0041-2025 | 20/Jun/2025 - 09:21 am |  | - |
+| Aclaraciones | CO1.MSG.8055807 | OBSERVACIONES GENERALES | 19/Jun/2025 - 08:08 am |  | - |
+| Aclaraciones | CO1.MSG.8055395 | OBSERVACIONES FICHAS TECNICAS | 18/Jun/2025 - 10:16 pm |  | - |

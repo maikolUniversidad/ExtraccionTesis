@@ -1,0 +1,199 @@
+Title: Licitaciones - INSTITUTO TECNOLOGICO METROPOLITANO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c8c41a63278.80656560
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 07:55:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de módulos e insumos especializados para el desarrollo de un prototipo de monitoreo ambiental, sensado térmico y control automatizado, en el marco de los proyectos de investigación RC1013- 2021, RC1086-2021 y RC112721-130-2024, adscritos a la Dirección de Investigación.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32101628 - Microcontroladores
+
+**Códigos adicionales UNSPSC:**
+
+26111711 - Baterías de litio,26121600 - Cables eléctricos y accesorios,51241121 - Alcohol polivinílico,41111965 - Sensor de agua,26101202 - Motor dc de pasos,13102005 - Acrilonitrilo estireno acrílico asa,31241500 - Lentes y prismas,32101514 - Amplificadores,32101500 - Conjuntos de circuitos y componentes de radiofrecuencia (RF),31163100 - Conectores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Electrónica - Robótica", "licicodigos": "212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 73 No. 76A - 354, Vía al Volador Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 03:20 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+17/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jun/2025 - 06:30 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 06:30 pm
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 06:40 pm
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 06:50 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 06:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 06:30 pm
+
+**Aceptación de ofertas:**
+
+23/Jun/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 24/Jun/2025 - 12:01 am | 13/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 24/Jun/2025 - 12:01 am | 13/Feb/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2285654 | Informe de evaluación 1 CO1.AWD.2285654 | 19/Jun/2025 - 03:51 pm |  | - |
+| Avisos | CO1.MSG.8055221 | Publicación de la lista de ofertas del proceso MC 49 DE 2025 . | 18/Jun/2025 - 08:59 pm |  | - |
+| Avisos | CO1.MSG.8055220 | La lista de oferentes del proceso MC 49 DE 2025 publicada por INSTITUTO TECNOLOGICO METROPOLITANO | 18/Jun/2025 - 08:59 pm |  | - |
+| Avisos | CO1.REQ.8412604 | Publicación modificación | 17/Jun/2025 - 06:24 pm |  |  |
+| General | CO1.MSG.8046871 | MC 49 DE 2025 RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 17/Jun/2025 - 05:45 pm |  | - |
+| General | CO1.MSG.8042786 | MC 49 DE 2025 RESPUESTA A LAS OBSERVACIONES | 17/Jun/2025 - 11:00 am |  | - |
+| General | CO1.MSG.8040856 | Aviso Limitacion a Mipyme Nacionales | 17/Jun/2025 - 12:48 am |  | - |

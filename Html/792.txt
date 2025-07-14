@@ -1,0 +1,338 @@
+Title: Licitaciones - MUNICIPIO DE TOCA*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851e999a06bc7.47414911
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE TOCA* - Contratación mínima cuantía MT-MC-2025-013 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-09 06:54:52
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE ELEMENTOS DE PAPELERIA, TONERES, CAFETERIA, ASEO, RECARGA DE EXTINTOTRES PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE TOCA - BOYACÁ
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Boyacá : Toca
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44111506 - Sujetadores o dispensadores de papeles o tacos
+
+**Códigos adicionales UNSPSC:**
+44121605 - Dispensadores de cinta,44121611 - Punzones para papel u ojales,44121612 - Cortadoras de papel o repuestos,44121613 - Removedores de grapas (saca ganchos),44121614 - Campanas de llamada,44121615 - Grapadoras,44121617 - Abridor manual de cartas,44121618 - Tijeras,44121619 - Tajalápices manuales,44121620 - Protector de plástico para dedos,44121622 - Humidificadores,44121701 - Bolígrafos,44121702 - Sets de esferos o lápices,44121703 - Estilógrafos,44121704 - Esferos de punta redonda,44121705 - Lápices mecánicos,44121706 - Lápices de madera,44121707 - Lápices de colores,44121708 - Marcadores,44121710 - Tiza para escribir o accesorios,44121720 - Esferos multi función,44122011 - Folders,44122012 - Portapapeles,44122013 - Cubiertas para informes,44122014 - Levantadores de hojas,44122015 - Respaldos para archivos,14111506 - Papel para impresión de computadores
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Extintores (Suministro, mantenimiento y/o recarga), -Artículos de cafetería y víveres, -Artículos de aseo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,146,186,260,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 10 N 3 24 Toca Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44111506, 44121605, 44121611, 44121612, 44121701, 44121706, 44122003, 14111506, 44103103, 50201706, 42132200 | ADQUISICIÓN DE ELEMENTOS DE PAPELERÍA, TÓNERES, CAFETERIA, ASEO Y SUMINISTRO DE RECARGA EXTINTORES PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE TOCA – BOYACÁ | Mínima cuantía | SGP | $39.800.000 | GESTION CONTRACTUAL 2025 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 05:03 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 03:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 06:00 pm | 30/Jun/2026 - 11:00 pm |
+| Calidad del servicio | 20,00 | 26/Jun/2025 - 06:00 pm | 31/Dic/2025 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** FERNANDO NIÑO | Toca - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,799,475
+
+**Informes proceso de selección CO1.AWD.2290813 de 27/Jun/2025 - 05:11 am. Valor $39.799.475**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 10:25 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 10:25 pm |  |
+| Informe de selección | 27/Jun/2025 - 05:11 pm |  |
+| Informe de selección | 27/Jun/2025 - 05:11 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2290813**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FERNANDO NIIÑO PINILLA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79343370 | * **Nombre:** FERNANDO NIIÑO PINILLA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79343370 | Toca - Boyacá | $39.799.475 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2290813****
+
+**Contrato 061 DE 2025 de FERNANDO NIIÑO PINILLA:**
+
+**ID del contrato en SECOP:**
+
+061 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA, TÓNERES, CAFETERIA, ASEO, RECARGA DE EXTINTOTRES PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE TOCA BOYACÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 92121700 | SUMINISTRO DE ELEMENTOS DE PAPELERIA, TONERES, CAFETERIA, ASEO, RECARGA DE EXTINTOTRES PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL DE TOCA BOYACÁ | 1,00 | VG | 39.799.475,00 | 39.799.475,00 | 39.799.475,00 | 39.799.475,00 |
+
+**Fecha inicio del contrato:**
+
+05/Jul/2025 - 01:06 pm
+
+**Fecha de terminación del contrato:**
+
+20/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+6 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 39,799,475
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 061 DE 2025.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | A-GBS-F-83 ACOMUNICACION DE ENTREGA DEL EXPEDIENTE CONTRATO 061 DE 2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2290813 | Informe de selección CO1.AWD.2290813 | 27/Jun/2025 - 05:11 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290813 | Informe de evaluación 1 CO1.AWD.2290813 | 24/Jun/2025 - 10:25 pm |  | - |
+| Avisos | CO1.MSG.8067735 | La lista de oferentes del proceso MT-MC-2025-013 publicada por MUNICIPIO DE TOCA* | 20/Jun/2025 - 05:22 pm |  | - |
+| General | CO1.MSG.8060836 | AVISO CONVOCATORIA LIMITACION MIPYMES | 19/Jun/2025 - 04:58 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:29 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

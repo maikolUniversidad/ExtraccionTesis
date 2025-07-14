@@ -1,0 +1,283 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE IPIALES - NIVEL CENTRAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fe92145c1e83.09916502
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-01 02:14:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DE OFIMATICA MICROSOFT OFFICE HOME & BUSINESS PARA EL FORTALECIMIENTO TECNOLÓGICO PARA LA CONVIVENCIA Y TRANQUILIDAD DE LOS HABITANTES Y VISITANTES DEL MUNICIPIO DE IPIALES NARIÑO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Ipiales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 8-75 PLAZA 20 DE JULIO EDIFICIO CAM IPIALES NARIÑO COLOMBIA Ipiales Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/Abr/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+22/Abr/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+22/Abr/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+28/Abr/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/Abr/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/Abr/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Abr/2025 - 12:00 pm | 05/Ago/2025 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 21/Abr/2025 - 03:27 pm | * **Nombre:** RTM | Cali - Valle del Cauca |
+| 2 | 21/Abr/2025 - 09:34 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 3 | 21/Abr/2025 - 11:19 pm | * **Nombre:** ARIE SAUL SAPORTAS BERMUDEZ | Bogotá - Distrito Capital de Bogotá |
+| 4 | 22/Abr/2025 - 08:39 am | * **Nombre:** HDC Soporte a la Ingeniería SAS | Bogotá - Distrito Capital de Bogotá |
+| 5 | 22/Abr/2025 - 12:28 pm | * **Nombre:** DOTACION Y SUMINISTRO MILITARES PS A.S | Pasto - Nariño |
+| 6 | 22/Abr/2025 - 01:30 pm | * **Nombre:** TIENDA GALAXY SAS | Medellín - Antioquia |
+| 7 | 22/Abr/2025 - 03:53 pm | * **Nombre:** DAYVER ESKEY MOSQUERA MORENO | Medellín - Antioquia |
+| 8 | 22/Abr/2025 - 04:52 pm | * **Nombre:** hv-tech | Cali - Valle del Cauca |
+| 9 | 22/Abr/2025 - 04:59 pm | * **Nombre:** INTERCOPYSNEC | Cali - Valle del Cauca |
+| 10 | 22/Abr/2025 - 05:27 pm | * **Nombre:** MANCERA HERNANDEZ S.A.S | Tabio - Cundinamarca |
+| 11 | 22/Abr/2025 - 05:38 pm | * **Nombre:** GOLD SYS LTDA | - |
+| 12 | 22/Abr/2025 - 05:52 pm | * **Nombre:** PÁRAMO GLOBAL SOLUTIONS | Barrancabermeja - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,084,000
+
+**Informes proceso de selección CO1.AWD.2233839 de 29/Abr/2025 - 04:02 am. Valor $3.084.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Abr/2025 - 04:16 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 12:00 pm |  |
+| Informe de selección | 29/Abr/2025 - 04:02 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2233839**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INTERCOPYES.NEC * **Tipo documento:** NIT * **Documento:** 1130659396 | * **Nombre:** GIOVANNI ENRIQUE BALANTA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1130659396 | Cali - Valle del Cauca | $3.084.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2233839****
+
+**Contrato 430 DE 2025 de INTERCOPYES.NEC:**
+
+**ID del contrato en SECOP:**
+
+430 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE LICENCIAS DE OFIMATICA MICROSOFT OFFICE HOME & BUSINESS PARA EL FORTALECIMIENTO TECNOLÓGICO PARA LA CONVIVENCIA Y TRANQUILIDAD DE LOS HABITANTES Y VISITANTES DEL MUNICIPIO DE IPIALES NARIÑO
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43231500 | ADQUISICIÓN DE LICENCIAS DE OFIMATICA MICROSOFT OFFICE HOME & BUSINESS PARA EL FORTALECIMIENTO TECNOLÓGICO PARA LA CONVIVENCIA Y TRANQUILIDAD DE LOS HABITAN-TES Y VISITANTES DEL MUNICIPIO DE IPIALES NARIÑO | 1,00 | UN | 5.652.495,00 | 3.084.000,00 | 5.652.495,00 | 3.084.000,00 |
+
+**Fecha de terminación del contrato:**
+
+15/May/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+10 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 3,084,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 430 2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2233839 | Informe de selección CO1.AWD.2233839 | 29/Abr/2025 - 04:01 pm |  | - |
+| Objeciones | CO1.MSG.7802065 | [Respondido] RE:SUBSANACION INFORME DE EVALUACION | 29/Abr/2025 - 04:01 pm |  | - |
+| Objeciones | CO1.MSG.7796655 | [Respondido] RE:OFICIO DE SUBSANACION | 29/Abr/2025 - 04:00 pm |  | - |
+| Objeciones | CO1.MSG.7800794 | [Respondido] RE:SUBSANACION DE DOCUMENTOS | 29/Abr/2025 - 04:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238424 | Informe de evaluación 1 CO1.AWD.2238424 | 29/Abr/2025 - 12:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2233839 | Informe de evaluación 2 CO1.AWD.2233839 | 29/Abr/2025 - 12:00 pm |  | - |
+| Objeciones | CO1.MSG.7802065 | SUBSANACION INFORME DE EVALUACION | 25/Abr/2025 - 05:32 pm |  | - |
+| Objeciones | CO1.MSG.7800794 | SUBSANACION DE DOCUMENTOS | 25/Abr/2025 - 03:35 pm |  | - |
+| Objeciones | CO1.MSG.7796655 | OFICIO DE SUBSANACION | 24/Abr/2025 - 08:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2233839 | Informe de evaluación 1 CO1.AWD.2233839 | 24/Abr/2025 - 04:16 pm |  | - |
+| Avisos | CO1.REQ.8129950 | Publicación modificación | 24/Abr/2025 - 09:13 am |  |  |
+| Avisos | CO1.MSG.7784209 | La lista de oferentes del proceso SMC 021 DE 2025 publicada por ALCALDIA MUNICIPAL DE IPIALES - NIVEL CENTRAL | 23/Abr/2025 - 09:04 am |  | - |
+| Avisos | CO1.REQ.8129950 | Publicación modificación | 22/Abr/2025 - 08:31 am |  |  |
+| General | CO1.MSG.7776129 | RESPUESTAS OBSERVACIONES | 21/Abr/2025 - 06:14 pm |  | - |
+| General | CO1.MSG.7776121 | AVISO DE LIMITACION A MIPYMES | 21/Abr/2025 - 06:13 pm |  | - |

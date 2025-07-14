@@ -1,0 +1,230 @@
+Title: Licitaciones - CONSEJO PROFESIONAL NACIONAL DE ARQUITECTURA Y SUS PROFESIONES AUXILIARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806b35f7da362.34809156
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 20:33:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+Suministrar la licencia de antivirus en la nube para el servidor y los equipos de cómputo del CPNAA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Códigos adicionales UNSPSC:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 6 Nro 26 B 85 Pisos 2°,3° y 4° del Edifico de la Sociedad Colombiana de Arquitectos Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205, 81112501 | Suministrar la licencia de antivirus en la nube para el servidor y los equipos de cómputo del CPNAA. | Mínima cuantía | Recursos propios | $4.402.008 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 04:01 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 02:00 pm | 09/Sep/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 02:00 pm | 09/May/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/May/2025 - 02:00 pm | 09/Sep/2025 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(9/05/2025 3:56:05 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CPNAA en 4 horas de tiempo transcurrido (9/05/2025 3:56:05 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se procede a declarar desierto el proceso de selección de mínima cuantía N°. CPNAA-MC-07-2025, dado que la única oferta recibida, NO CUMPLIO con todos los requisitos y especificaciones técnicas dispuestos en la Invitación Pública.
+
+**Fecha de la cancelación:**
+
+09/May/2025 - 03:56 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2245243 | Informe de evaluación 2 CO1.AWD.2245243 | 09/May/2025 - 03:53 pm |  | - |
+| General | CO1.MSG.7861152 | RESOLUCIÓN N°. 21 DE 2025 - DECLARA DESIERTO EL PROCESO CPNAA-MC-07-2025 | 09/May/2025 - 03:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2245243 | Informe de evaluación 1 CO1.AWD.2245243 | 07/May/2025 - 04:22 pm |  | - |
+| General | CO1.MSG.7841323 | ADENDA N°. 1 PROCESO CPNAA-MC-07-2025 | 06/May/2025 - 04:41 pm |  | - |
+| Avisos | CO1.REQ.8141881 | Publicación modificación | 06/May/2025 - 04:41 pm |  |  |
+| Avisos | CO1.MSG.7809239 | La lista de oferentes del proceso CPNAA-MC-07-2025 publicada por CONSEJO PROFESIONAL NACIONAL DE ARQUITECTURA Y SUS PROFESIONES AUXILIARES | 28/Abr/2025 - 06:47 pm |  | - |
+| Avisos | CO1.MSG.7809241 | Publicación de la lista de ofertas del proceso CPNAA-MC-07-2025. | 28/Abr/2025 - 06:47 pm |  | - |
+| General | CO1.MSG.7807087 | DOCUMENTO DE RESPUESTAS A LAS OBSERVACIONES PROCESO CPNAA-MC-07-2025 | 28/Abr/2025 - 03:00 pm |  | - |
+| General | CO1.MSG.7801079 | CONFORMACIÓN Y DESIGNACIÓN DEL COMITÉ ASESOR Y EVALUADOR PROCESO N°. CPNAA-MC-07-2025 | 25/Abr/2025 - 04:24 pm |  | - |
+| General | CO1.MSG.7801106 | AVISO DE LIMITAR A MIPYME PROCESO N°. CPNAA-MC-07-2025 | 25/Abr/2025 - 04:03 pm |  | - |

@@ -1,0 +1,275 @@
+Title: Licitaciones - DIRECCION GENERAL MARITIMA - SUBDIRECCION ADMINISTRATIVA Y FINANCIERA - SUBAFIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ce824465b04.55283698
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:34:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+LA ADQUISICIÓN DEL LICENCIAMIENTO PARA EL SOFTWARE DE LOS CERTIFICADOS SSL Y SSL WILDCARD REQUERIDOS PARA LAS PUBLICACIONES WEB DE LA DIRECCIÓN GENERAL MARÍTIMA, DE ACUERDO ESPECIFICACIONES TÉCNICAS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 54 NO 26-50 CAN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200 | '“ADQUISICIÓN DEL LICENCIAMIENTO PARA EL SOFTWARE DE LOS CERTIFICADOS SSL Y SSL WILDCARD REQUERIDOS PARA LAS PUBLICACIONES WEB DE LA DIRECCIÓN GENERAL MARÍTIMA, DE ACUERDO ESPECIFICACIONES TÉCNICAS.” | Mínima cuantía | Recursos propios | $23.712.384 | Grupo Intendencia Regional Central |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 03:28 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+17/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 11:59 pm | 19/Ago/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 29/May/2025 - 11:59 pm | 19/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UPKS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 20,050,000
+
+**Informes proceso de selección CO1.AWD.2264348 de 17/Jun/2025 - 03:47 am. Valor $20.050.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:02 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:54 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 05:01 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 11:07 am |  |
+| Informe de evaluación | 17/Jun/2025 - 10:31 am |  |
+| Informe de selección | 17/Jun/2025 - 03:47 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264348**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UP KEEP SERVICES * **Tipo documento:** NIT * **Documento:** 829003481 | * **Nombre:** ANDREA JARAMILLO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 21526340 | Bogotá - Distrito Capital de Bogotá | $20.050.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264348****
+
+**ID del contrato en SECOP:**
+
+251-GINREDCE-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+19/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 20,050,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264348 | Informe de selección CO1.AWD.2264348 | 17/Jun/2025 - 03:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264348 | Informe de evaluación 5 CO1.AWD.2264348 | 17/Jun/2025 - 10:31 am |  | - |
+| General | CO1.MSG.8030713 | RE: Solicitud validación informe de evaluación | 13/Jun/2025 - 03:52 pm |  | - |
+| Avisos | CO1.REQ.8289212 | Publicación modificación | 13/Jun/2025 - 03:01 pm |  |  |
+| Reporte preliminar | CO1.AWD.2264348 | Informe de evaluación 4 CO1.AWD.2264348 | 13/Jun/2025 - 11:07 am |  | - |
+| General | CO1.MSG.8025011 | CONSOLIDADO DE PREGUNTAS Y RESPUESTAS | 12/Jun/2025 - 04:50 pm |  | - |
+| General | CO1.MSG.8015777 | RE: Solicitud aclaracion de VALIDEZ DE LA OFERTA | 11/Jun/2025 - 02:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264348 | Informe de evaluación 3 CO1.AWD.2264348 | 10/Jun/2025 - 05:01 pm |  | - |
+| Avisos | CO1.REQ.8289212 | Publicación modificación | 09/Jun/2025 - 04:18 pm |  |  |
+| Reporte preliminar | CO1.AWD.2264348 | Informe de evaluación 2 CO1.AWD.2264348 | 05/Jun/2025 - 03:54 pm |  | - |
+| Avisos | CO1.REQ.8289212 | Publicación modificación | 04/Jun/2025 - 05:08 pm |  |  |
+| Avisos | CO1.REQ.8289212 | Publicación modificación | 30/May/2025 - 11:39 am |  |  |
+| Avisos | CO1.REQ.8289212 | Publicación modificación | 29/May/2025 - 05:15 pm |  |  |
+| Reporte preliminar | CO1.AWD.2264348 | Informe de evaluación 1 CO1.AWD.2264348 | 27/May/2025 - 04:02 pm |  | - |
+| General | CO1.MSG.7941556 | RE: Solicitud publicación lista de oferentes | 27/May/2025 - 08:57 am |  | - |
+| Avisos | CO1.MSG.7941495 | La lista de oferentes del proceso 253-GINREDCE-2025 publicada por DIRECCION GENERAL MARITIMA - SUBDIRECCION ADMINISTRATIVA Y FINANCIERA - SUBAFIN | 27/May/2025 - 08:50 am |  | - |
+| Avisos | CO1.MSG.7941501 | Publicación de la lista de ofertas del proceso 253-GINREDCE-2025. | 27/May/2025 - 08:50 am |  | - |
+| General | CO1.MSG.7925360 | LIMITACIÓN A MIPYMES | 22/May/2025 - 05:36 pm |  | - |
+| Aclaraciones | CO1.MSG.7925348 | RE: OBSERVACIÓN AL PROCESO | 22/May/2025 - 05:35 pm |  | - |
+| Aclaraciones | CO1.MSG.7913584 | OBSERVACIÓN AL PROCESO | 21/May/2025 - 09:52 am |  | - |

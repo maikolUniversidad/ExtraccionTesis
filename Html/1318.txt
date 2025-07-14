@@ -1,0 +1,182 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810f3af1c2ac7.88742741
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 10:43:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO, CORRECTIVO Y SUMINISTRO INTEGRAL A TODO COSTO DE LA INFRAESTUCTURA TECNOLOGICA DE LA AGENCIA DE LAS FUERZAS MILITARES REGIONAL CARIBE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112200 - Mantenimiento y soporte de software,39121011 - Fuentes ininterrumpibles de potencia,46171622 - Sistema de televisión de circuito cerrado cctv,43211706 - Teclados,43201803 - Unidades de disco duro,32101601 - Memoria de acceso aleatorio (ram),26121609 - Cable de redes,46171610 - Cámaras de seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+216 Días
+
+**Dirección de ejecución del contrato:**
+
+AV. SAN MARTIN ARC BOLIVAR Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+216 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72102900 | SERVICIO DE MANTENIMIENTO PREVENTIVO, CORRECTIVO Y SUMINISTRO INTEGRAL A TODO COSTO DE LA INFRAESTUCTURA TECNOLOGICA DE LA AGENCIA DE LAS FUERZAS MILITARES REGIONAL CARIBE | Mínima cuantía | Recursos propios | $10.000.000 | REGIONAL CARIBE ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 10:42 am
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 04:30 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+02/May/2025 - 02:01 pm
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 02:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/May/2025 - 04:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 04:30 pm
+
+**Aceptación de ofertas:**
+
+08/May/2025 - 04:30 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

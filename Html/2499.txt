@@ -1,0 +1,101 @@
+Title: Licitaciones - IDARTES - Solicitud de información a los Proveedores (SECOPII) IDARTES-COT. 085-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e2c4b055a36.74723411
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+RENOVAR Y ADQUIRIR LICENCIAS PARA LA CREACIÓN DE CONTENIDO INTERACTIVO, DISEÑO VISUAL, PRODUCCIÓN DE VIDEO Y TRANSMISIÓN EN VIVO, NECESARIAS PARA EL DESARROLLO DE LOS PROYECTOS DEL INSTITUTO DISTRITAL DE LAS ARTES - IDARTES, EN CUMPLIMIENTO CON SU MISIÓN Y OBJETIVOS INSTITUCIONALES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233502 - Software de video conferencias
+
+**Códigos adicionales UNSPSC:**
+
+43232505 - Software educacional multimedios,43232103 - Software de creación y edición de video
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 15-46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 01:58 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 06:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 06:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8298138 | Publicación modificación | 21/May/2025 - 02:05 pm |  |  |
+| Avisos | CO1.REQ.8298138 | Publicación modificación | 21/May/2025 - 02:00 pm |  |  |

@@ -1,0 +1,105 @@
+Title: Licitaciones - MINISTERIO DE MINAS Y ENERGIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d85152cfc05.04269876
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:19:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Implementar la renovación del licenciamiento de la solución WIFI, del Ministerio de Minas y Energía.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222640 - Punto de acceso inalámbrico
+
+**Códigos adicionales UNSPSC:**
+
+43222504 - Transmisor de interferencias de radio,43223108 - Equipos y componentes de acceso inalámbrico wlan,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,43231512 - Software de manejo de licencias,43232804 - Software de administración,81112210 - Mantenimiento de software de gestión de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 43 No 57 - 31 CAN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+36 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 12:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+01/Jul/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8122517 | Respuesta observaciones extemporáneas | 04/Jul/2025 - 04:38 pm |  | - |
+| Avisos | CO1.REQ.8471510 | Publicación modificación | 04/Jul/2025 - 04:34 pm |  |  |
+| Avisos | CO1.REQ.8471510 | Publicación modificación | 03/Jul/2025 - 02:57 pm |  |  |
+| General | CO1.MSG.8114519 | RE: SOLICITUD DE ACLARACION | 03/Jul/2025 - 02:52 pm |  | - |
+| Aclaraciones | CO1.MSG.8114483 | RE: Observaciones Solicitud de Información | 03/Jul/2025 - 02:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8101988 | Observaciones Solicitud de Información | 01/Jul/2025 - 04:27 pm |  | - |

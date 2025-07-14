@@ -1,0 +1,98 @@
+Title: Licitaciones - FONDO ROTATORIO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685587002fc6e1.58119856
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 09:46:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+RENOVACIÓN AL SOPORTE TÉCNICO DEL HARDWARE Y SOFTWARE DE ALMACENAMIENTO NAS DEL FONDO ROTATORIO DE LA POLICÍA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43211700 - Dispositivos informáticos de entrada de datos,43212200 - Sistemas de manejo de almacenamiento de datos de computador,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Servidores (Suministro y alquiler)", "licicodigos": "269,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 66A No. 43-18 Barrio Salitre el Greco Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Carrera 66 A # 43 - 18, Salitre El Greco, Bogotá. Contacto 3158330074 Ing. Jaime Paipa. La visita debe ser coordinada con 24 horas de antelación.
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 11:00 am
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 11:59 pm

@@ -1,0 +1,90 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE MONTERIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c07e0587bf6.38200205
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-26 10:53:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN, INSTALACIÓN Y CONFIGURACIÓN DE 01 BACK TO BACK CONVENCIONAL 450-470 MHZ CON SUS ACCESORIOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Montería
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222817 - Repetidores de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 29 No. 5-61 CENTRO Montería Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 04:55 pm
+
+**Plazo para solicitar aclaraciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 05:00 pm

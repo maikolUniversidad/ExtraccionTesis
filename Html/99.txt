@@ -1,0 +1,254 @@
+Title: Licitaciones - AUDITORIA GENERAL DE LA REPUBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855ded35cdd45.84338129
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:43:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+44-5 Contratar la adquisición del hardware de almacenamiento y la renovación del servicio de soporte premier para la infraestructura HPE de la Auditoría General de la República. Alcance del Objeto: La adquisición de hardware contempla: Migración y configuración, soporte y garantía por tres (3) años El servicio de soporte premier para la infraestructura HPE contempla: Renovación del soporte y garantía, prestación de asistencia técnica especializada, actualizaciones de software, reempla
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+43201800 - Dispositivos de almacenamiento,43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "103,117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 Núm. 69-76, Torre 4, Oficina 17 dúplex Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,114,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800, 43211500, 81112300 | 44-5 Contratar la adquisición del hardware de almacenamiento y la renovación del servicio de soporte premier para la infraestructura HPE de la Auditoría General de la República. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $1.114.000.000 | GRUPO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/Jun/2025 - 04:42 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+20/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 10:30 am
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 03:29 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/Jul/2025 - 04:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jul/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/Jul/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+14/Jul/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+14/Jul/2025 - 11:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/Jul/2025 - 04:00 pm
+
+**Apertura del sobre económico:**
+
+24/Jul/2025 - 08:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+28/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+30/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/Jul/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 28/Jul/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/Jul/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jul/2025 - 09:00 am
+
+**Fecha de inicio:**
+
+24/Jul/2025 - 11:30 am
+
+**Fecha fin:**
+
+24/Jul/2025 - 11:45 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8157341 | Rechazo Observaciones Extemporáneas | 11/Jul/2025 - 03:06 pm |  | - |
+| Aclaraciones | CO1.MSG.8148000 | RE: 7-8-2025 OBSERVACION SOLICITUD DE MODIFICACION REQUISITO RESTRICTIVO | 10/Jul/2025 - 10:26 am |  | - |
+| Aclaraciones | CO1.MSG.8134717 | 7-8-2025 OBSERVACION SOLICITUD DE MODIFICACION REQUISITO RESTRICTIVO | 08/Jul/2025 - 12:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8115538 | RE: Observaciones SUBASTA INVERSA ELECTRÓNICA No. SASI-4-2025 | 03/Jul/2025 - 04:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8098317 | Observaciones SUBASTA INVERSA ELECTRÓNICA No. SASI-4-2025 | 01/Jul/2025 - 09:22 am |  | - |

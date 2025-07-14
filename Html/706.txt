@@ -1,0 +1,278 @@
+Title: Licitaciones - DEPARTAMENTO DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b2fbd7d8b08.44935776
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:56:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES DE LOS CONSEJEROS DEPARTAMENTALES DE JUVENTUDES, EN EL MARCO DEL PROYECTO DESARROLLO DE ACCIONES ESTRATÉGICAS PARA FOMENTAR REDES DE INNOVACIÓN SOCIAL Y POTENCIALIZAR EL TALENTO DE LOS JÓVENES EN EL DEPARTAMENTO DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 37 # 10-30 oficina 417 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 05:59 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 04:59 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 12:00 pm | 03/Feb/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jul/2025 - 12:00 pm | 03/Ago/2028 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMTEC SOLUTIONS SAS | Bucaramanga - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 46,914,000
+
+**Informes proceso de selección CO1.AWD.2296511 de 04/Jul/2025 - 03:48 am. Valor $46.914.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 07:17 pm |  |
+| Informe de selección | 04/Jul/2025 - 03:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2296511**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMTEC SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 804009217 | * **Nombre:** COMTEC SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 804009217 | Bucaramanga - Santander | $46.914.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2296511****
+
+**Contrato CO1.PCCNTR.8050296 de COMTEC SOLUTIONS SAS:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8050296
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES DE LOS CONSEJEROS DEPARTAMENTALES DE JUVENTUDES, EN EL MARCO DEL PROYECTO "DESARROLLO DE ACCIONES ESTRATÉGICAS PARA FOMENTAR REDES DE INNOVACIÓN SOCIAL Y POTENCIALIZAR EL TALENTO DE LOS JÓVENES EN EL DEPARTAMENTO DE SANTANDER"
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211500 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES DE LOS CONSEJEROS DEPARTAMENTALES DE JUVENTUDES | 1,00 | UN | 47.660.500,00 | 46.914.000,00 | 47.660.500,00 | 46.914.000,00 |
+
+**Fecha de terminación del contrato:**
+
+06/Ago/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 46,914,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CARTA DE ACEPTACIÓN DE LA OFERTA.pdf |  |
+|  | DESIGNACIÓN DE SUPERVISOR.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8115071 | [Respondido] RE:SUBSANACIÓN ASPECTOD TÉCNICOS MULTITINTAS INK SAS | 04/Jul/2025 - 03:48 pm |  | - |
+| Reporte final | CO1.AWD.2296511 | Informe de selección CO1.AWD.2296511 | 04/Jul/2025 - 03:48 pm |  | - |
+| General | CO1.MSG.8121844 | INFORME DE EVALUACIÓN DEFINITIVO | 04/Jul/2025 - 03:40 pm |  | - |
+| Objeciones | CO1.MSG.8115071 | SUBSANACIÓN ASPECTOD TÉCNICOS MULTITINTAS INK SAS | 03/Jul/2025 - 04:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296511 | Informe de evaluación 1 CO1.AWD.2296511 | 02/Jul/2025 - 07:17 pm |  | - |
+| General | CO1.MSG.8109501 | INFORME DE EVALUACIÓN DE OFERTAS | 02/Jul/2025 - 05:16 pm |  | - |
+| General | CO1.MSG.8109465 | ACTA DESIGNACIÓN NUEVO COMITÉ EVALUADOR | 02/Jul/2025 - 05:14 pm |  | - |
+| Avisos | CO1.MSG.8109452 | Publicación de la lista de ofertas del proceso DS-MC-25-03. | 02/Jul/2025 - 05:11 pm |  | - |
+| Avisos | CO1.MSG.8109446 | La lista de oferentes del proceso DS-MC-25-03 publicada por DEPARTAMENTO DE SANTANDER | 02/Jul/2025 - 05:11 pm |  | - |
+| General | CO1.MSG.8101879 | ADENDA N° 1 - MODIFICACIÓN DEL CRONOGRAMA DEL PROCESO | 01/Jul/2025 - 04:10 pm |  | - |
+| Avisos | CO1.REQ.8459427 | Publicación modificación | 01/Jul/2025 - 04:09 pm |  |  |
+| General | CO1.MSG.8101613 | DESIGNACIÓN COMITÉ EVALUADOR | 01/Jul/2025 - 03:51 pm |  | - |
+| General | CO1.MSG.8101586 | RESPUESTA A SOLICITUDES EXTEMPORÁNEAS | 01/Jul/2025 - 03:50 pm |  | - |
+| General | CO1.MSG.8088300 | AVISO DE LIMITACIÓN A MIPYME | 26/Jun/2025 - 03:51 pm |  | - |

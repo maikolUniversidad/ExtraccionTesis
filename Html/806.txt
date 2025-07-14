@@ -1,0 +1,208 @@
+Title: Licitaciones - MUNICIPIO DE FIRAVITOBA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e4fa722e545.43463403
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-05 22:44:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA OFICINA Y EQUIPOS PARA LA ALCALDÍA MUNICIPAL Y UNIDAD DE SERVICIOS PÚBLICOS DE FIRAVITOBA BOYACA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Firavitoba
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+44122000 - Carpetas de archivo, carpetas y separadores,43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "104,105,127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 4 35 Firavitoba Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 44122000, 44121600 | SUMINISTRO DE ELEMENTOS DE PAPELERÍA OFICINA Y EQUIPOS PARA LA ALCALDÍA MUNICIPAL Y UNIDAD DE SERVICIOS PÚBLICOS DE FIRAVITOBA BOYACA | Mínima cuantía | Recursos propios | $39.500.000 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 04:59 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 06:01 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(05/Jun/2025 - 10:27 am:25 AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE FIRAVITOBA en 12 horas de tiempo transcurrido (05/Jun/2025 - 10:27 am:25 AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: declarado desierto según mensaje publicado
+
+**Fecha de la cancelación:**
+
+05/Jun/2025 - 10:27 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7986162 | resolución declarado desierto | 05/Jun/2025 - 10:29 am |  | - |
+| Reporte preliminar | CO1.AWD.2266006 | Informe de evaluación 3 CO1.AWD.2266006 | 03/Jun/2025 - 04:54 pm |  | - |
+| General | CO1.MSG.7965070 | ADENDA | 30/May/2025 - 11:26 am |  | - |
+| Avisos | CO1.REQ.8299181 | Publicación modificación | 30/May/2025 - 11:24 am |  |  |
+| Reporte preliminar | CO1.AWD.2266006 | Informe de evaluación 2 CO1.AWD.2266006 | 30/May/2025 - 10:37 am |  | - |
+| General | CO1.MSG.7964602 | respuesta observaciones evaluación | 30/May/2025 - 10:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2266006 | Informe de evaluación 1 CO1.AWD.2266006 | 28/May/2025 - 09:11 pm |  | - |
+| Avisos | CO1.MSG.7938581 | Publicación de la lista de ofertas del proceso MF-MC-025 DE 2025 . | 26/May/2025 - 04:23 pm |  | - |
+| Avisos | CO1.MSG.7938574 | La lista de oferentes del proceso MF-MC-025 DE 2025 publicada por MUNICIPIO DE FIRAVITOBA | 26/May/2025 - 04:22 pm |  | - |
+| General | CO1.MSG.7927824 | RE: Observacion urgente formato 2 propuesta economica | 23/May/2025 - 10:14 am |  | - |
+| Aclaraciones | CO1.MSG.7927762 | RE: MANIFESTACION LIMITACION MYPIMES NACIONAL | 23/May/2025 - 10:03 am |  | - |
+| General | CO1.MSG.7927789 | ACLARACION LIMITACION MIPYMES | 23/May/2025 - 10:02 am |  | - |
+| General | CO1.MSG.7927752 | respuesta limitación MiPymes | 23/May/2025 - 09:58 am |  | - |
+| General | CO1.MSG.7927580 | RE: SOLICITUD LIMITACION DE MIPYMES | 23/May/2025 - 09:41 am |  | - |
+| General | CO1.MSG.7927585 | RE: SOLICITUD DE LIMITACIÓN | 23/May/2025 - 09:41 am |  | - |
+| General | CO1.MSG.7927552 | RE: SOLICITUD LIMITAR A MIPYMES DEPARTAMENTALES | 23/May/2025 - 09:37 am |  | - |
+| General | CO1.MSG.7927546 | RE: SOLICITUD DE LIMITACION DE ORDEN DEPRATAMENTAL | 23/May/2025 - 09:36 am |  | - |
+| General | CO1.MSG.7927549 | RE: Manifestacion de interes en limitar a mipymes departamental. | 23/May/2025 - 09:36 am |  | - |
+| Aclaraciones | CO1.MSG.7922441 | MANIFESTACION LIMITACION MYPIMES NACIONAL | 22/May/2025 - 12:47 pm |  | - |

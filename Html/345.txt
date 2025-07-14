@@ -1,0 +1,224 @@
+Title: Licitaciones - INSTITUTO TECNOLOGICO DEL PUTUMAYO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806a4b7ebcf44.15829387
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 20:12:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD Y ACCESO A RED DE INTERNET MEDIANTE UN CANAL DEDICADO EN FIBRA ÓPTICA PARA EL INSTITUTO TECNOLÓGICO DEL PUTUMAYO, PARA LA SEDE PRINCIPAL - JARDÍN BOTÁNICO - AULAS INTERNAS - HERBARIO EN LA CIUDAD DE MOCOA, Y PARA LA SUBSEDE SIBUNDOY, AMPLIACIÓN DE COLÓN Y LA GRANJA DE VERSALLES Y UN CANAL DE DATOS ENTRE LAS DIFERENTES DEPENDENCIAS DE DISTRIBUCIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Putumayo : Mocoa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom
+
+**Códigos adicionales UNSPSC:**
+
+81112100 - Servicios de internet,76111500 - Servicios de limpieza y mantenimiento de edificios generales y de oficinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Barrio Luis Carlos Galan Mocoa Putumayo COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 76111500 | PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD Y ACCESO A RED DE INTERNET MEDIANTE UN CANAL DEDICADO EN FIBRA ÓPTICA PARA EL INSTITUTO TECNOLÓGICO DEL PUTUMAYO PARA LA SEDE PRINCIPAL - JARDÍN BOTÁNICO - AULAS INTERNAS - HERBARIO EN LA CIUDAD DE MOCOA, Y PARA LA SUBSEDE SIBUNDOY AMPLIACIÓN DE COLÓN Y LA GRANJA DE VERSALLES Y UN CANAL DE DATOS ENTRE LAS DIFERENTES DEPENDENCIAS DE DISTRIBUCIÓN" | Selección abreviada menor cuantía | Recursos propios | $250.000.000 | INSTITUTO TECNOLOGICO DEL PUTUMAYO |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+21/Abr/2025 - 01:00 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 01:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/Abr/2025 - 02:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+29/Abr/2025 - 11:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+02/May/2025 - 04:05 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/May/2025 - 04:05 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+05/May/2025 - 10:35 am
+
+**Plazo para manifestación de interés:**
+
+05/May/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+05/May/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 07:00 pm
+
+**Apertura de Ofertas:**
+
+06/May/2025 - 07:05 pm
+
+**Informe de presentación de Ofertas:**
+
+06/May/2025 - 07:07 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+13/May/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+14/May/2025 - 09:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 06:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+15/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 10:00 am | 21/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 15/May/2025 - 10:00 am | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 10:00 am | 21/Jun/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7842929 | La lista de oferentes del proceso ITP-SAMC-002-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por INSTITUTO TECNOLOGICO DEL PUTUMAYO | 06/May/2025 - 08:18 pm |  | - |

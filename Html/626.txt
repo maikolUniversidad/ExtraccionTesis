@@ -1,0 +1,281 @@
+Title: Licitaciones - CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS - INPEC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a06d59d064.34040894
+
+Markdown Content:
+Licitaciones - CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS - INPEC - Contratación mínima cuantía 637 MC 013 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:41
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR EL SUMINISTRO DE PRODUCTOS DE ASEO, PAPELERIA Y OTROS BIENES PARA LA COMERCIALIZACION A LA POBLACION PRIVADA DE LA LIBERTAD A TRAVES DEL PROYECTO PRODUCTIVO EXPENDIO Y FUNCIONAMIENTO DE LOS PROYECTOS PRODUCTIVOS DE LA CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA, CPAMS DORADA.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Caldas : La Dorada
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+53131608 - Jabones
+
+**Códigos adicionales UNSPSC:**
+14111507 - Papel para impresora o fotocopiadora,14111514 - Blocs o cuadernos de papel,47131701 - Dispensadores de toallas de papel,47131702 - Dispensadores de productos sanitarios,47131703 - Receptáculos para residuos sanitarios,47131704 - Dispensadores institucionales de jabón o loción,47131705 - Accesorios para urinales o inodoros,47131706 - Dispensadores de ambientadores,47131707 - Secadores de manos institucionales,47131709 - Dispensadores de pañuelos faciales,47131710 - Dispensadores de papel higiénico,47131711 - Dispensadores de limpiador,47131801 - Limpiadores de pisos,47131802 - Terminados o ceras para pisos,47131803 - Desinfectantes para uso doméstico,47131804 - Limpiadores de amoniaco,47131805 - Limpiadores de propósito general,47131806 - Pulidores o ceras para muebles,47131807 - Blanqueadores,47131808 - Germicida seco,47131809 - Productos para limpiar o brillar zapatos,47131810 - Productos para el lavaplatos,47131811 - Productos de lavandería,47131812 - Refrescador de aire,47131813 - Limpiador de pantallas,47131814 - Limpiadores o pulidores de metales,47131815 - Limpiador de drenajes,47131816 - Desodorantes,47131817 - Protectores de uso doméstico o para automotores,26121606 - Cable coaxial,26121607 - Cable de fibra óptica,40101604 - Ventiladores,60104912 - Alambres o cables eléctricos,26111702 - Pilas alcalinas,50211608 - Encendedores o mecha
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artículos de aseo, -Pilas y baterías desechables y recargables, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,260,299,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+BARRIO LAS FERIAS KM 3 VIA PALMAR La Dorada Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 53131608, 47131700, 47131701, 47131702, 47131703, 47131704, 47131705, 47131706, 47131707, 47131709, 47131710, 47131711, 47131800, 47131801, 47131802, 47131803, 47131804, 47131805, 47131806, 47131807, 47131808, 47131809, 47131810, 47131811, 47131812, 47131813, 47131814, 47131815, 47131816, 47131817 | ASADERO OTROS PRODUCTOS QUÍMICOS; FIBRAS ARTIFICIALES (O FIBRAS INDUSTRIALES HECHAS POR EL HOMBRE) RES. 003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $1.600.000 | GESTION CONTRACTUAL III |
+| 14101501, 14111501, 14111502, 14111503, 14111504, 14111505, 14111506, 14111507, 14111508, 14111509, 14111510, 14111511, 14111512, 14111513, 14111514, 14111515, 14111516, 14111518, 14111519, 14111520, 14111523, 14111524, 14111525, 14111526, 14111527, 14111528, 14111529, 14111530, 14111531, 14111532, 14111533, 14111534, 14111535, 14111536, 14111537, 14111538, 14111539, 14111540, 14111541, 14111542, 14111543, 44122003 | ASADERO PASTA O PULPA, PAPEL Y PRODUCTOS DE PAPEL; IMPRESOS Y ARTÍCULOS SIMILARES RES. 003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $2.031.592 | GESTION CONTRACTUAL III |
+| 26111702 | EXPENDIO MAQUINARIA Y APARATOS ELÉCTRICOS RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $7.200.000 | GESTION CONTRACTUAL III |
+| 50211608 | EXPENDIO MUEBLES; OTROS BIENES TRANSPORTABLES N.C.P. RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $5.176.727 | GESTION CONTRACTUAL III |
+| 53131608, 47131700, 47131701, 47131702, 47131703, 47131704, 47131705, 47131706, 47131707, 47131709, 47131710, 47131711, 47131800, 47131801, 47131802, 47131803, 47131804, 47131805, 47131806, 47131807, 47131808, 47131809, 47131810, 47131811, 47131812, 47131813, 47131814, 47131815, 47131816, 47131817 | EXPENDIO OTROS PRODUCTOS QUÍMICOS; FIBRAS ARTIFICIALES (O FIBRAS INDUSTRIALES HECHAS POR EL HOMBRE) RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $584.030 | GESTION CONTRACTUAL III |
+| 53131608, 47131700, 47131701, 47131702, 47131703, 47131704, 47131705, 47131706, 47131707, 47131709, 47131710, 47131711, 47131800, 47131801, 47131802, 47131803, 47131804, 47131805, 47131806, 47131807, 47131808, 47131809, 47131810, 47131811, 47131812, 47131813, 47131814, 47131815, 47131816, 47131817 | EXPENDIO OTROS PRODUCTOS QUÍMICOS; FIBRAS ARTIFICIALES (O FIBRAS INDUSTRIALES HECHAS POR EL HOMBRE) RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $42.332.364 | GESTION CONTRACTUAL III |
+| 14111514, 14111507 | EXPENDIO PASTA O PULPA, PAPEL Y PRODUCTOS DE PAPEL; IMPRESOS Y ARTÍCULOS SIMILARES RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $800.000 | GESTION CONTRACTUAL III |
+| 14111514, 14111507 | EXPENDIO PASTA O PULPA, PAPEL Y PRODUCTOS DE PAPEL; IMPRESOS Y ARTÍCULOS SIMILARES RES. 00003 DEL 02/Ene/2025 | Mínima cuantía | Recursos propios | $1.812.364 | GESTION CONTRACTUAL III |
+| 53131608, 47131700, 47131701, 47131702, 47131703, 47131704, 47131705, 47131706, 47131707, 47131709, 47131710, 47131711, 47131800, 47131801, 47131802, 47131803, 47131804, 47131805, 47131806, 47131807, 47131808, 47131809, 47131810, 47131811, 47131812, 47131813, 47131814, 47131815, 47131816, 47131817 | PORCICOLA OTROS PRODUCTOS QUÍMICOS; FIBRAS ARTIFICIALES (O FIBRAS INDUSTRIALES HECHAS POR EL HOMBRE) RES. 000003 DE 02/Ene/2025 | Mínima cuantía | Recursos propios | $240.000 | GESTION CONTRACTUAL III |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 06:34 pm
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 08:00 am
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 06:00 pm | 31/Mar/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 06:00 pm | 31/Mar/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INVERSIONES AMANI S.A.S. | La Dorada - Caldas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 61,777,077
+
+**Informes proceso de selección CO1.AWD.2292376 de 03/Jul/2025 - 04:22 am. Valor $61.777.077**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 06:42 pm |  |
+| Informe de selección | 03/Jul/2025 - 04:22 pm |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292376 | Informe de selección CO1.AWD.2292376 | 03/Jul/2025 - 04:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292376 | Informe de evaluación 1 CO1.AWD.2292376 | 26/Jun/2025 - 06:42 pm |  | - |
+| Avisos | CO1.MSG.8084974 | Publicación de la lista de ofertas del proceso 637 MC 013 DE 2025. | 26/Jun/2025 - 09:35 am |  | - |
+| Avisos | CO1.MSG.8084972 | La lista de oferentes del proceso 637 MC 013 DE 2025 publicada por CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS - INPEC | 26/Jun/2025 - 09:34 am |  | - |
+| General | CO1.MSG.8076429 | PUBLICACION AVISO DE LIMITACION MIPYMES | 25/Jun/2025 - 08:44 am |  | - |
+| Avisos | CO1.REQ.8444554 | Publicación modificación | 25/Jun/2025 - 07:15 am |  |  |
+| General | CO1.MSG.8076101 | adenda No01 | 24/Jun/2025 - 07:03 pm |  | - |
+| Avisos | CO1.REQ.8444554 | A new request amendment was published | 24/Jun/2025 - 06:54 pm |  |  |
+| Aclaraciones | CO1.MSG.8072673 | SOLICITUD LIMITACIÓN MIPYME DEPARTAMENTAL | 24/Jun/2025 - 01:42 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:08 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

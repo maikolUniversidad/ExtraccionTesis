@@ -1,0 +1,253 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ffc9b2c0aa6.32713945
+
+Markdown Content:
+Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES - Contratación mínima cuantía MC 014-026-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-02 07:28:35
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA, ÚTILES DE OFICINA, AGENDAS, ÚTILES DE ESCRITORIO PARA LAS DIFERENTES UNIDADES DE NEGOCIO DE LA REGIONAL SUROCCIDENTE EN LAS ÁREAS ADMINISTRATIVAS Y UNIDADES DE NEGOCIO CADS - CATERING
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Valle del Cauca: Santiago de Cali
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111500 - Papel de imprenta y papel de escribir
+
+**Códigos adicionales UNSPSC:**
+14111506 - Papel para impresión de computadores,14111507 - Papel para impresora o fotocopiadora,44111800 - Suministros de dibujo,44111900 - Tableros,44121500 - Suministros de correo,44121600 - Suministros de escritorio,44122000 - Carpetas de archivo, carpetas y separadores,44103103 - Tóner para impresoras o fax,44111500 - Agendas y accesorios
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 92A # 2C -35 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 14111506, 14111507, 44122000, 44111800, 44121600, 44111500, 44111900, 44121500, 44103103 | Suministro de elementos de papeleria; utiles de oficina, escritorio; para las diferentes unidades de negocio de la regional suroccidente en las áreas administrativas y unidades de negocio cads - catering | Mínima cuantía | Recursos propios | $11.916.000 | REGIONAL SUROCCIDENTE ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 04:44 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+05/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+05/May/2025 - 04:05 pm
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 14/May/2025 - 05:00 pm | 15/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 14/May/2025 - 05:00 pm | 15/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 14/May/2025 - 05:00 pm | 15/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7821638 | RE: Observación a mipymes | 30/Abr/2025 - 05:15 pm |  | - |
+| General | CO1.MSG.7818404 | RE: Observacion Proceso | 30/Abr/2025 - 11:47 am |  | - |
+| General | CO1.MSG.7818333 | Aviso de convocatoria de limitación a Mipyme | 30/Abr/2025 - 11:25 am |  | - |
+| Aclaraciones | CO1.MSG.7813360 | SOLICITUD DE LIMITACION DE MIPYMES CON DOMICILIO A NIVEL MUNICIPAL | 29/Abr/2025 - 02:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7813254 | SOLICITUD DE LIMITACION DE MIPYMES CON DOMICILIO A NIVEL MUNICIPAL | 29/Abr/2025 - 02:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7812550 | OBSERVACION | 29/Abr/2025 - 12:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7811270 | RE: Observación | 29/Abr/2025 - 10:28 am |  | - |
+| Aclaraciones | CO1.MSG.7811240 | RE: Observación | 29/Abr/2025 - 10:19 am |  | - |
+| Aclaraciones | CO1.MSG.7810856 | Observación | 29/Abr/2025 - 09:36 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:26 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

@@ -1,0 +1,102 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE METROLOGIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6824c746952200.84371975
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:55:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR LA PRESTACIÓN DEL SERVICIO DE ETHICAL HACKING.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81141801 - Análisis de riesgo o seguridad
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112208 - Mantenimiento de software de protección y seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA CRA. 50 No. 26-55 Int. 2 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 11:31 am
+
+**Plazo para solicitar aclaraciones:**
+
+17/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7903333 | Consultas 2 Secure SAS: INST. NACIONAL DE METROLOGIA Solic. de informacion a los Proveedores (SECOPII) SC 028 de 2025 [31432] | 19/May/2025 - 04:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7899834 | RE: SC 028 de 2025- INSTITUTO METROLOGIA | 19/May/2025 - 10:22 am |  | - |
+| Aclaraciones | CO1.MSG.7891209 | SC 028 de 2025- INSTITUTO METROLOGIA | 15/May/2025 - 06:58 pm |  | - |

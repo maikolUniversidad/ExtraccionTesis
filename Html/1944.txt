@@ -1,0 +1,104 @@
+Title: Licitaciones - ADRES - Solicitud de información a los Proveedores (SECOPII) ADRES-SIP-013-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fe7c1585f442.59507749
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:55:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar el servicio de uso en modalidad de arrendamiento SaaS de una plataforma tecnológica para el trámite de nómina del ciclo laboral en el marco de la Función Pública ID-034-DAF
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+93151500 - Administración pública
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Alquiler de computadores y software", "licicodigos": "103,107" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Calle 26 No. 69 - 76 Piso 17 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 10:24 am
+
+**Plazo para solicitar aclaraciones:**
+
+22/Abr/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7813931 | Respuestas a las observaciones planeadas y se extiende el plazo para presentar cotizaciones a la presente SIP | 29/Abr/2025 - 03:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7813914 | RE: OBSERVACIONES A LA SOLCIITUD DE INFORMACIÓN , SOLICITUD DE AMPLIACIÓN PARA ENVIÓ DE OBSERVACIONES, Observaciones al proceso ADRES-SIP-013-2025, Observaciones Sinergy & Lowells S.A.S | 29/Abr/2025 - 03:38 pm |  | - |
+| Avisos | CO1.REQ.8129308 | Publicación modificación | 29/Abr/2025 - 03:37 pm |  |  |
+| Avisos | CO1.REQ.8129308 | Publicación modificación | 28/Abr/2025 - 06:35 pm |  |  |
+| Avisos | CO1.REQ.8129308 | Publicación modificación | 24/Abr/2025 - 10:18 am |  |  |
+| Aclaraciones | CO1.MSG.7783365 | OBSERVACIONES A LA SOLCIITUD DE INFORMACIÓN | 22/Abr/2025 - 09:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7782512 | SOLICITUD DE AMPLIACIÓN PARA ENVIÓ DE OBSERVACIONES | 22/Abr/2025 - 05:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7780734 | Observaciones al proceso ADRES-SIP-013-2025 | 22/Abr/2025 - 03:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7779681 | Observaciones Sinergy & Lowells S.A.S | 22/Abr/2025 - 01:06 pm |  | - |

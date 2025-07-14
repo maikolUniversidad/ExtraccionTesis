@@ -1,0 +1,100 @@
+Title: Licitaciones - SUPERVIGILANCIA - MD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d35248b1598.18609869
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:34:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN Y RENOVACIÓN DE LICENCIAMIENTO DE SOLUCIONES DE SEGURIDAD INFORMÁTICA, INCLUYENDO MÓDULOS DE EXPANSIÓN, DISPOSITIVOS DE EXTENSIÓN REMOTA Y LICENCIAS COMPLEMENTARIAS DE SEGURIDAD; ASÍ COMO LA PRESTACIÓN DEL SERVICIO DE SOPORTE TÉCNICO ESPECIALIZADO Y MANTENIMIENTO PARA LA SOLUCIÓN DE SEGURIDAD PERIMETRAL Y DE PROTECCIÓN DE INFORMACIÓN ACTUALMENTE IMPLEMENTADA EN LA ENTIDAD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red,43231500 - Software funcional específico de la empresa,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 Numero 57 - 41 Torre 8 Piso 11 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 08:48 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7923853 | RESPUESTA OBSERVACIONES ESPECIFICACIÓN TECNICA DE LA SOLICITUD DE INFORMACIÓN A PROVEEDORES | 22/May/2025 - 03:45 pm |  | - |

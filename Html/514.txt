@@ -1,0 +1,261 @@
+Title: Licitaciones - RECLUSIÓN DE MUJERES DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f45163c41f3.69737170
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:44:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE ELEMENTOS, MANTENIMIENTO Y EMBELLECIMIENTO PARA EL PROGRAMA DE ATENCION A MENORES DE TRES AÑOS CPAMSMBOG.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+53102305 - Pañales para bebé
+
+**Códigos adicionales UNSPSC:**
+
+50131704 - Leche en polvo,53131647 - Set de higiene y cuidado personal de bebés,53131620 - Perfumes o colonias o fragancias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Electrodomésticos, -Artículos de aseo, -Básculas, instrumentos de medida, observación y ensayo, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Desechables hospitalarios", "licicodigos": "127,139,260,272,312,475" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 58 Nº 80-95 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 10:37 am
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 10:40 am
+
+**Publicación de la invitación:**
+
+22/May/2025 - 10:40 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 09:30 am
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 09:30 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:55 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMERCIALIZADORA ESAN SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 66,492,100
+
+**Informes proceso de selección CO1.AWD.2267284 de 04/Jun/2025 - 02:26 am. Valor $66.492.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 04:43 pm |  |
+| Informe de evaluación | 30/May/2025 - 04:43 pm |  |
+| Informe de evaluación | 30/May/2025 - 04:43 pm |  |
+| Informe de selección | 04/Jun/2025 - 02:26 pm |  |
+| Informe de selección | 04/Jun/2025 - 02:26 pm |  |
+| Informe de selección | 04/Jun/2025 - 02:26 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267284**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA ESAN SAS * **Tipo documento:** NIT * **Documento:** 900585886 | * **Nombre:** ESPERANZA BAEZ USEDA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 28268906 | Bogotá - Distrito Capital de Bogotá | $66.492.100 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267284****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7946946
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+30/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 66,492,100
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7993325 | RESOLUCION DESIERTOS LOTES/GRUPOS 3,5,6 | 06/Jun/2025 - 11:06 am |  | - |
+| Reporte final | CO1.AWD.2267284 | Informe de selección CO1.AWD.2267284 | 04/Jun/2025 - 02:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267284 | Informe de evaluación 1 CO1.AWD.2267284 | 30/May/2025 - 04:43 pm |  | - |
+| General | CO1.MSG.7950386 | RE: SOLICIUD | 28/May/2025 - 11:10 am |  | - |
+| Avisos | CO1.MSG.7935406 | Publicación de la lista de ofertas del proceso 129-MC-012-2025. | 26/May/2025 - 10:24 am |  | - |
+| Avisos | CO1.MSG.7935373 | La lista de oferentes del proceso 129-MC-012-2025 publicada por RECLUSIÓN DE MUJERES DE BOGOTA | 26/May/2025 - 10:21 am |  | - |

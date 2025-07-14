@@ -1,0 +1,105 @@
+Title: Licitaciones - SUBRED INTEGRADA DE SERVICIO DE SALUD CENTRO ORIENTE E.S.E 1
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835e679a8ac73.42136121
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:09:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE ALQUILER DE EQUIPOS DE CÓMPUTO DE ESCRITORIO Y PORTÁTILES Y TABLET PARA EL DESARROLLO DE LAS ACTIVIDADES DE FORTALECIMIENTO DE LA ATENCIÓN PRIMARIA EN SALUD A TRAVÉS DE LA CONFORMACIÓN DE EQUIPOS BÁSICOS EN SALUD - EBS EN CUMPLIMIENTO DEL PROYECTO SEGÚN LA RESOLUCIÓN 1499 DE 2024, SUSCRITO ENTRE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD CENTRO ORIENTE E.S.E. Y EL MINISTERIO DE SALUD Y PROTECCION SOCIAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112400 - Servicios de alquiler o arrendamiento de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+80161800 - Servicios de alquiler o arrendamiento de equipo de oficina,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software", "licicodigos": "107" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CL 72 22 42 OF 301 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 09:54 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/Jun/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8325692 | Publicación modificación | 06/Jun/2025 - 03:00 pm |  |  |
+| General | CO1.MSG.7985630 | RE: Solicitud de información a los Proveedores - Número: EM-103-2025 | 05/Jun/2025 - 09:42 am |  | - |
+| Avisos | CO1.REQ.8325692 | Publicación modificación | 04/Jun/2025 - 03:55 pm |  |  |
+| Avisos | CO1.REQ.8325692 | Publicación modificación | 30/May/2025 - 04:36 pm |  |  |
+| General | CO1.MSG.7959847 | RE: SOLICITUD | 29/May/2025 - 02:59 pm |  | - |
+| Avisos | CO1.REQ.8325692 | Publicación modificación | 29/May/2025 - 02:58 pm |  |  |

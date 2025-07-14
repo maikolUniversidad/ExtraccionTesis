@@ -1,0 +1,265 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6853464cf23f88.52968826
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:01:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE HARDWARE Y SOFTWARE, CON SOPORTE NIVEL UNO, DOS Y TRES, A LA INFRAESTRUCTURA DE CÓMPUTO, DE MANERA QUE SE GARANTICE SU ÓPTIMO FUNCIONAMIENTO Y SE MANTENGA LA OPERACIÓN NORMAL DE LA UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS, DURANTE LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "102,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 10 No.15-22 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | Prestar el servicio de mantenimiento preventivo y correctivo de hardware y software, con soporte nivel uno, dos y tres, a la infraestructura de cómputo, de manera que se garantice su óptimo funcionamiento y se mantenga la operación normal de la Unidad Administrativa Especial de Organizaciones Solidarias, durante la vigencia 2025. | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $145.490.000 | Grupo de Tecnologías de la Información |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+18/Jun/2025 - 05:58 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 06:01 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+18/Jun/2025 - 06:01 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/Jun/2025 - 06:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+03/Jul/2025 - 06:30 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+03/Jul/2025 - 06:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jul/2025 - 06:30 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+03/Jul/2025 - 06:50 pm
+
+**Plazo para manifestación de interés:**
+
+08/Jul/2025 - 05:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+10/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 04:00 pm
+
+**Apertura de Ofertas:**
+
+11/Jul/2025 - 04:05 pm
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jul/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+24/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+28/Jul/2025 - 08:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/Jul/2025 - 08:00 am | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 28/Jul/2025 - 08:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 28/Jul/2025 - 08:00 am | 30/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/Jul/2025 - 08:00 am | 30/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Sorteo realizado:**
+
+No
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 3 | 03/Jul/2025 - 06:52 pm | * **Nombre:** INNCET S.A.S. | Bogotá - Distrito Capital de Bogotá |
+| 7 | 05/Jul/2025 - 01:31 pm | * **Nombre:** ESCALA ARQUITECTURA E INGENIERIA SAS | Distrito Capital de Bogotá |
+| 9 | 04/Jul/2025 - 12:18 pm | * **Nombre:** PC LOGIN SAS | Bogotá - Distrito Capital de Bogotá |
+| 10 | 05/Jul/2025 - 12:26 pm | * **Nombre:** SUGEEK | Distrito Capital de Bogotá |
+| 12 | 04/Jul/2025 - 10:54 am | * **Nombre:** SDCCOLOMBIA | Bogotá - Distrito Capital de Bogotá |
+| 13 | 07/Jul/2025 - 01:11 pm | * **Nombre:** SERVICES702 | Neiva - Huila |
+| 15 | 04/Jul/2025 - 11:58 am | * **Nombre:** SOPORTCOL S.A.S. | Distrito Capital de Bogotá |
+| 17 | 04/Jul/2025 - 10:45 am | * **Nombre:** 4 PODER 360 | Bogotá - Distrito Capital de Bogotá |
+| 26 | 04/Jul/2025 - 10:51 am | * **Nombre:** GROUP SERVICES S.A.S. | Cota - Cundinamarca |
+| 29 | 07/Jul/2025 - 04:34 pm | * **Nombre:** SINERGY | Cundinamarca |
+| 34 | 03/Jul/2025 - 09:58 pm | * **Nombre:** SOLUCIONES DE PRODUCTIVIDAD S.A.S. | Distrito Capital de Bogotá |
+| 53 | 07/Jul/2025 - 04:50 pm | * **Nombre:** Equipos Programas Mantenimiento Microdata Ltda. | Distrito Capital de Bogotá |
+| 55 | 07/Jul/2025 - 11:11 am | * **Nombre:** MAKROSYSTEM COLOMBIA S.A.S | Meta |
+| 60 | 04/Jul/2025 - 10:06 am | * **Nombre:** MAGNIFICAT CARMEL S.A.S. | Barranquilla - Atlántico |
+| 63 | 04/Jul/2025 - 01:43 pm | * **Nombre:** META-TELCO COMPANY S.A.S. | Bucaramanga - Santander |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8158376 | Publicación de la lista de ofertas del proceso SAMC-001 DE 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 11/Jul/2025 - 04:19 pm |  | - |
+| Avisos | CO1.MSG.8158372 | La lista de oferentes del proceso SAMC-001 DE 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS | 11/Jul/2025 - 04:18 pm |  | - |
+| Avisos | CO1.REQ.8534428 | Publicación modificación | 10/Jul/2025 - 03:24 pm |  |  |
+| Avisos | CO1.REQ.8534428 | Publicación modificación | 10/Jul/2025 - 03:24 pm |  |  |
+| General | CO1.MSG.8150200 | RE: OBSERVACION URGENTE | 10/Jul/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.8150200 | RE: OBSERVACION URGENTE | 10/Jul/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.8150102 | RESPUESTA A OBSERVACIONES | 10/Jul/2025 - 02:51 pm |  | - |
+| General | CO1.MSG.8150102 | RESPUESTA A OBSERVACIONES | 10/Jul/2025 - 02:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8136548 | RE: SOLICITUD DE PUBLICACON DE DOCUMENTOS | 08/Jul/2025 - 04:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8130044 | observaciones al pliego de Condiciones | 07/Jul/2025 - 05:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8128193 | SOLICITUD DE PUBLICACON DE DOCUMENTOS | 07/Jul/2025 - 02:23 pm |  | - |
+| Aclaraciones | CO1.MSG.8089612 | Observaciones al proyecto de pliegos | 26/Jun/2025 - 05:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8066089 | Observaciones | 20/Jun/2025 - 03:25 pm |  | - |

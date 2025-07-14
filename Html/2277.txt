@@ -1,0 +1,98 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681aa4d27db576.40104573
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:30:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+EL MINISTERIO DE DEFENSA NACIONAL - COMANDO GENERAL DE LAS FUERZAS MILITARES - DIRECCIÓN ADMINISTRATIVA Y FINANCIERA, requiere contratar la adquisición de una solución de seguridad perimetral en alta disponibilidad para la infraestructura del COGFM (Incluye: Suministro de los bienes, transporte, mano de obra, elementos y accesorios necesarios para su instalación, migración, implementación, configuración, pruebas, y puesta en funcionamiento) a todo costo y todo incluido, de acuerdo con las especi
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red,43232800 - Software de administración de redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 06:51 pm
+
+**Plazo para solicitar aclaraciones:**
+
+08/May/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7867840 | RESPUESTA OBSERVACIONES | 12/May/2025 - 03:21 pm |  | - |
+| Avisos | CO1.REQ.8219040 | Publicación modificación | 12/May/2025 - 02:03 pm |  |  |
+| Aclaraciones | CO1.MSG.7852399 | Observaciones al Estudio de Mercado CO125 COGFM DIADF 2025- ITSCSAS | 08/May/2025 - 11:49 am |  | - |

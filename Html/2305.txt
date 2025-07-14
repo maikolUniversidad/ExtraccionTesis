@@ -1,0 +1,90 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681d15f02eed08.76546042
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:26:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir a título de compraventa los códigos de suscripción y re-novación de una (1) licencia de Adobe Creative Cloud y banco de imágenes Adobe para la Federación Colombiana de Municipios en cumplimiento de la función pública asignada - Simit
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Servicios en la nube (Cloud)", "licicodigos": "103,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 03:16 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/May/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 03:00 pm

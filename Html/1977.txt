@@ -1,0 +1,86 @@
+Title: Licitaciones - DEPARTAMENTO DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ae604730520.37184034
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 10:23:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PROGRAMA DEPARTAMENTAL DE CONCERTACIÓN Y ESTÍMULOS EN EL DEPARTAMENTO DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+95141707 - Auditorio
+
+**Códigos adicionales UNSPSC:**
+
+93141702 - Servicios de promoción cultural,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,72153613 - Servicio de alquiler y mantenimiento de mobiliario para oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Logística para realización eventos", "licicodigos": "102,175" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 37 # 10-30 oficina 409 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 09:31 am
+
+**Fecha límite para responder la solicitud de información:**
+
+16/Jun/2025 - 09:00 am

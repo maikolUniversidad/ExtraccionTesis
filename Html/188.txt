@@ -1,0 +1,287 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL MIGRACION COLOMBIA-*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a0d2569d56.43495906
+
+Markdown Content:
+Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL MIGRACION COLOMBIA-* - Subasta Inversa SIE-010-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 09:49:56
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+ADQUIRIR EQUIPOS DE CONECTIVIDAD, EXTENSIÓN DE GARANTÍA DE SMART NET DEL FABRICANTE Y SOPORTE PARA LOS EQUIPOS CISCO DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS REQUERIDAS EN EL MARCO DEL PROYECTO DE FORTALECIMIENTO DE LAS CAPACIDADES Y EVOLUCIÓN DE LAS TECNOLOGÍAS DE LA INFORMACIÓN
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca: Bogotá D.C. ; Antioquia: Medellín ; Antioquia: Rionegro ; Valle del Cauca: Palmira ; Atlántico: Barranquilla ; Amazonas: Leticia ; Risaralda: Pereira ; Quindío: Armenia ; Valle del Cauca: Santiago de Cali
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+32151900 - Dispositivos de automatización de control de la conectividad
+
+**Códigos adicionales UNSPSC:**
+43221700 - Equipo fijo de red y componentes,43221800 - Dispositivos de red óptica,43222600 - Equipo de servicio de red,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Calle 26 No. 59 51/calle 24 A No. 59-42 Edificio Argos Torre 3 Piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Canadá, Chile, Estados Unidos, México, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 500,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72103300, 81111800, 32151900, 43221700, 43221800, 43222600 | 94 - ADQUIRIR EQUIPOS DE CONECTIVIDAD, EXTENSIÓN DE GARANTÍA DE SMART NET DEL FABRICANTE Y SOPORTE PARA LOS EQUIPOS CISCO DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS REQUERIDAS EN EL MARCO DEL PROYECTO DE FORTALECIMIENTO DE LAS CAPACIDADES Y EVOLUCIÓN DE LAS TECNOLOGÍAS DE LA INFORMACIÓN. | Selección abreviada subasta inversa | Recursos propios | $500.000.000 | UNIDAD DE CONTRATACION MIGRACION COLOMBIA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 06:39 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jul/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+10/Jul/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+10/Jul/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+21/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+24/Jul/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+24/Jul/2025 - 09:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+29/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Ago/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+08/Ago/2025 - 02:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Ago/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+13/Ago/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Ago/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/Ago/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/Ago/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 06/Ago/2025 - 11:59 pm | 31/Dic/2028 - 11:59 am |
+| Calidad del servicio | 20,00 | 14/Ago/2025 - 11:59 am | 31/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 14/Ago/2025 - 11:59 am | 31/Dic/2028 - 11:59 am |
+| PROVISION DE REPUESTOS | 20,00 | 14/Ago/2025 - 11:59 am | 31/Dic/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+08/Ago/2025 - 02:00 am
+
+**Fecha de inicio:**
+08/Ago/2025 - 02:30 am
+
+**Fecha fin:**
+08/Ago/2025 - 03:00 am
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8151934 | RESPUESTA OBSERVACIONES | 10/Jul/2025 - 04:57 pm |  | - |
+| Aclaraciones | CO1.MSG.8151913 | RESPUESTA OBSERVACIONES | 10/Jul/2025 - 04:56 pm |  | - |
+| Avisos | CO1.REQ.8410826 | Publicación modificación | 03/Jul/2025 - 06:41 pm |  |  |
+| Aclaraciones | CO1.MSG.8070482 | OBSERVACION | 24/Jun/2025 - 09:19 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:13 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

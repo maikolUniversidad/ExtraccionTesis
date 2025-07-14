@@ -1,0 +1,318 @@
+Title: Licitaciones - FUNDACION GILBERTO ALZATE AVENDAÑO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d27604af405.02922444
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:34:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar servicios de mantenimiento preventivo y correctivo de equipos tecnológicos asociados a la infraestructura TIC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados,81101707 - Mantenimiento de equipos de impresión,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Servidores (Suministro y alquiler)", "licicodigos": "106,109,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 10 No. 2-54 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+212 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300, 81101707, 81112200, 72101511 | Prestar servicios de mantenimiento preventivo y correctivo de equipos tecnológicos asociados a la infraestructura TIC. | Mínima cuantía | NotApplied | $23.030.750 | O-A-J-N/A |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 07:45 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:31 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 08:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:30 pm
+
+**Aceptación de ofertas:**
+
+18/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/May/2025 - 11:59 pm | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 28/May/2025 - 11:59 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 28/May/2025 - 11:59 pm | 30/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 28/May/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IISTEC SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 23,030,750
+
+**Informes proceso de selección CO1.AWD.2283256 de 18/Jun/2025 - 07:09 am. Valor $23.030.750**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 08:25 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 05:28 pm |  |
+| Informe de selección | 18/Jun/2025 - 07:09 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2283256**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IIS TECHNOLOGY SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 901040640 | * **Nombre:** CAROLINA LOPEZ MOLINA * **Tipo documento:** NIT * **Documento:** 1019054213 | - Distrito Capital de Bogotá | $23.030.750 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2283256****
+
+**ID del contrato en SECOP:**
+
+FUGA-129-2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 23,030,750
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2283256 | Informe de selección CO1.AWD.2283256 | 18/Jun/2025 - 07:09 pm |  | - |
+| Objeciones | CO1.MSG.8042691 | [Respondido] RE:SUBSANACION DOCUMENTOS | 18/Jun/2025 - 05:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283256 | Informe de evaluación 2 CO1.AWD.2283256 | 18/Jun/2025 - 05:28 pm |  | - |
+| Objeciones | CO1.MSG.8042691 | SUBSANACION DOCUMENTOS | 17/Jun/2025 - 10:54 am |  | - |
+| Reporte preliminar | CO1.AWD.2283256 | Informe de evaluación 1 CO1.AWD.2283256 | 16/Jun/2025 - 08:25 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 13/Jun/2025 - 05:01 pm |  |  |
+| General | CO1.MSG.7990957 | ADENDA 6 | 13/Jun/2025 - 04:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278064 | Informe de evaluación 2 CO1.AWD.2278064 | 13/Jun/2025 - 04:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278064 | Informe de evaluación 1 CO1.AWD.2278064 | 11/Jun/2025 - 06:41 pm |  | - |
+| General | CO1.MSG.7990959 | ADENDA 5 | 10/Jun/2025 - 05:28 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 10/Jun/2025 - 03:37 pm |  |  |
+| Reporte preliminar | CO1.AWD.2273891 | Informe de evaluación 2 CO1.AWD.2273891 | 10/Jun/2025 - 01:30 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273891 | Informe de evaluación 1 CO1.AWD.2273891 | 06/Jun/2025 - 07:37 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 05/Jun/2025 - 06:57 pm |  |  |
+| General | CO1.MSG.7990960 | ADENDA 4 | 05/Jun/2025 - 06:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266906 | Informe de evaluación 2 CO1.AWD.2266906 | 05/Jun/2025 - 06:15 pm |  | - |
+| General | CO1.MSG.7976200 | ADENDA 3 | 03/Jun/2025 - 06:35 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 03/Jun/2025 - 04:18 pm |  |  |
+| General | CO1.MSG.7964993 | ACLARACION | 30/May/2025 - 11:22 am |  | - |
+| General | CO1.MSG.7964078 | SUBSANACION Y ACLARACION | 30/May/2025 - 10:56 am |  | - |
+| Reporte preliminar | CO1.AWD.2266906 | Informe de evaluación 1 CO1.AWD.2266906 | 29/May/2025 - 09:24 pm |  | - |
+| General | CO1.MSG.7962133 | SUBSANACION | 29/May/2025 - 06:11 pm |  | - |
+| General | CO1.MSG.7961078 | ADENDA 2 | 29/May/2025 - 04:47 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 29/May/2025 - 03:36 pm |  |  |
+| General | CO1.MSG.7959758 | RESPUESTA OBSERVACION ALL TECHNOLOGICAL SERVICES ATS SAS | 29/May/2025 - 02:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2263712 | Informe de evaluación 3 CO1.AWD.2263712 | 29/May/2025 - 02:35 pm |  | - |
+| Objeciones | CO1.MSG.7951048 | [Respondido] RE:OBSERVACION AL INFORME | 29/May/2025 - 02:28 pm |  | - |
+| General | CO1.MSG.7955250 | ADENDA 1 | 28/May/2025 - 06:55 pm |  | - |
+| Avisos | CO1.REQ.8291683 | Publicación modificación | 28/May/2025 - 06:50 pm |  |  |
+| Objeciones | CO1.MSG.7951048 | OBSERVACION AL INFORME | 28/May/2025 - 12:19 pm |  | - |

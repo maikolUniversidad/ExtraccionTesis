@@ -1,0 +1,262 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683491a2cf4506.04448770
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:36:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+LA PRESTACIÓN DE SERVICIOS PARA EL DESARROLLO DE LOS OBJETOS VIRTUALES DE APRENDIZAJE (OVAS) CON DESTINO A LA ESCUELA DE INGENIEROS MILITARES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia ; Atlántico ; Bolívar ; Caldas ; Cundinamarca ; Nariño ; Santander ; Tolima ; Valle del Cauca ; Quindío
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60101100 - Materiales electrónicos de aprendizaje
+
+**Códigos adicionales UNSPSC:**
+
+86101802 - Servicios de capacitación en readiestramiento o repaso
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+5 Meses
+
+**Dirección de ejecución del contrato:**
+
+Antioquia;Atlántico;Bolívar;Caldas;Cundinamarca;Nariño;Santander;Tolima;Valle del Cauca;Quindío
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 10:41 am
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+04/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 12:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+05/Jun/2025 - 04:38 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 06:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+05/Jun/2025 - 06:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés:**
+
+09/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+12/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+17/Jun/2025 - 05:01 pm
+
+**Informe de presentación de Ofertas:**
+
+17/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+04/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+09/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 11:59 pm | 28/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 11:59 pm | 28/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 04/Jul/2025 - 11:59 pm | 28/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CONCEPTO COMERCIAL | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 227,110,000
+
+**Informes proceso de selección CO1.AWD.2285633 de 06/Jul/2025 - 09:57 am. Valor $227.110.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 01:01 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 01:01 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 01:01 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 03:53 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 03:53 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 03:53 pm |  |
+| Informe de selección | 06/Jul/2025 - 09:57 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285633 | Informe de selección CO1.AWD.2285633 | 06/Jul/2025 - 09:57 am |  | - |
+| Reporte preliminar | CO1.AWD.2285633 | Informe de evaluación 2 CO1.AWD.2285633 | 03/Jul/2025 - 03:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285633 | Informe de evaluación 1 CO1.AWD.2285633 | 20/Jun/2025 - 01:01 pm |  | - |
+| Avisos | CO1.MSG.8046727 | Publicación de la lista de ofertas del proceso 423-SAMC-CENACEDUCACIÓN-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 17/Jun/2025 - 05:28 pm |  | - |
+| Avisos | CO1.MSG.8046723 | La lista de oferentes del proceso 423-SAMC-CENACEDUCACIÓN-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN// | 17/Jun/2025 - 05:28 pm |  | - |
+| General | CO1.MSG.8025633 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No. 03 | 12/Jun/2025 - 05:34 pm |  | - |
+| Aclaraciones | CO1.MSG.8017816 | Observaciones al pliego definitivo | 11/Jun/2025 - 05:09 pm |  | - |
+| Aclaraciones | CO1.MSG.8015076 | Observaciones | 11/Jun/2025 - 12:30 pm |  | - |
+| Aclaraciones | CO1.MSG.8010870 | OBSERVACIONES AL PLIEGO DEFINITIVO | 10/Jun/2025 - 05:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7995739 | Observaciones | 06/Jun/2025 - 04:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7972189 | Solicitud de aclaraciones e información adicional - Proceso 423-SAMC-CENACEDUCACIÓN-2025 | 03/Jun/2025 - 10:52 am |  | - |
+| Aclaraciones | CO1.MSG.7970999 | Observaciones | 03/Jun/2025 - 08:45 am |  | - |
+| Aclaraciones | CO1.MSG.7964976 | Observación al Pliego de condiciones | 30/May/2025 - 11:19 am |  | - |
+| Aclaraciones | CO1.MSG.7959443 | Observaciones al pliego | 29/May/2025 - 02:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7940924 | Observaciones | 27/May/2025 - 04:03 am |  | - |

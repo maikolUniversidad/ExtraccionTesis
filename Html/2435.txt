@@ -1,0 +1,106 @@
+Title: Licitaciones - MINISTERIO DEL TRABAJO NIVEL CENTRAL*/
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835200208da84.41707620
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:11:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+(180) Realizar auditoría y análisis de vulnerabilidades a los sistemas de información de acuerdo con el modelo de seguridad y privacidad de información del Ministerio del Trabajo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101500 - Servicios de consultoría de negocios y administración corporativa
+
+**Códigos adicionales UNSPSC:**
+
+80101507 - Servicios de asesoramiento sobre tecnologías de la información,81102702 - Servicio de ingeniería y diseño para sistemas de control de procesos,81111500 - Ingeniería de software o hardware,81111801 - Seguridad de los computadores, redes o internet,84111600 - Servicios de auditoría
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Seguridad informática", "licicodigos": "117,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 14 No 99 33 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 08:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+10/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7967995 | RESPUESTA A OBSERVACIONES PRESENTADAS | 30/May/2025 - 04:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7958313 | Observaciones 2Secure SAS - EM MT-SI-017-2025 | 29/May/2025 - 11:52 am |  | - |
+| Aclaraciones | CO1.MSG.7958052 | Solicitud aclaración objetivos y/o dispositivos del proceso. | 29/May/2025 - 11:12 am |  | - |
+| Aclaraciones | CO1.MSG.7954512 | solicitud observaciones Deloitte | 28/May/2025 - 05:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7947417 | OBS-MINTRABAJO | 27/May/2025 - 06:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7944905 | Observaciones Proceso No. MT-SI-017-2025 | 27/May/2025 - 03:03 pm |  | - |
+| Avisos | CO1.REQ.8322155 | Publicación modificación | 27/May/2025 - 09:32 am |  |  |

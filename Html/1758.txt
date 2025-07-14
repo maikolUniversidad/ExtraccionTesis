@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL BOLIVAR Centro para la Industria Petroquímica
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685be78a8c1595.30293050
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:32:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN A PRECIO UNITARIO Y MONTO AGOTABLE DE MATERIALES DE FORMACIÓN PARA DESARROLLAR LOS PROGRAMAS DE REDES Y TELECOMUNICACIONES, PARA EL AREA REGULAR, DEL CENTRO PARA LA INDUSTRIA PETROQUÍMICA SENA REGIONAL BOLÍVAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+49151504 - Amarres
+
+**Códigos adicionales UNSPSC:**
+
+39131714 - Canaletas para cables,43221504 - Central telefónica interna pbx,15121511 - Pastas de ensamble,39121462 - Conector de telecomunicaciones,26121609 - Cable de redes,43211601 - Cajas de interruptores de computador,43223307 - Caja de cables para sistemas de red,39121721 - Aislantes eléctricos,11162114 - Telas o cintas de velcro,27112142 - Alicates muli – herramienta,43223343 - Herramienta de “punchdown” de red,27112829 - Anexos de llave de impacto y sus accesorios,27111701 - Destornilladores,27113203 - Kit de herramienta para computadores,24112409 - Tapas para cajas,41111613 - Metros de distancia,27112126 - Alicates planos,30263201 - Alambre de estaño,43223309 - Panel de conexión,26121706 - Conjunto coaxial,26121613 - Cable aislado o forrado,43223303 - Cable de conexión de comunicación de datos,39121444 - Enchufe y módulo rj,32101529 - Divisores o splitters,43223332 - Kit de herramientas de fibra óptica,43223312 - Pela cables de fibra óptica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "98,105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA PEDRO DE HEREDIA SECTOR TESCA Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+10 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 06:07 am
+
+**Plazo para solicitar aclaraciones:**
+
+02/Jul/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jul/2025 - 12:00 pm

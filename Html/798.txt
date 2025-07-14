@@ -1,0 +1,263 @@
+Title: Licitaciones - MUNICIPIO DE VALPARAISO CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d2d9154f05.79912908
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:54:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN TECNOLOGICA DE EQUIPOS DE OFICINA CON DESTINO A LA ALCALDIA DEL MUNICIPIO DE VALPARAISO CAQUETÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Valparaíso
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43201803 - Unidades de disco duro,43212110 - Impresoras de múltiples funciones,43201809 - Disco compacto cd de lectura y escritura
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Mobiliario", "licicodigos": "104,105,115,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 11 N°3-50 BARRIO EL CENTRO Valparaíso Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43201803, 43212100, 43201809 | ADQUISICION TECNOLOGICOS DE EQUIPOS DE OFICINA CON DESTINO A LA ALCALDIA MUNICIPAL DEL MUNICIPIO DE VALPARAISO CAQUETA | Mínima cuantía | Recursos propios | $39.670.000 | CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 02:58 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 10:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 02:00 pm | 31/Ene/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 26/Jun/2025 - 02:00 pm | 26/Jul/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 26/Jun/2025 - 02:00 pm | 31/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 02:00 pm | 31/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** FOTOCOPIADORA DEL LECTOR - HECTOR MACIAS OTALVARO LOAIZA | Florencia - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,670,000
+
+**Informes proceso de selección CO1.AWD.2289992 de 26/Jun/2025 - 08:23 am. Valor $39.670.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 04:48 pm |  |
+| Informe de selección | 26/Jun/2025 - 08:23 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289992**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FOTOCOPIADORA DEL LECTOR - HECTOR MACIAS OTALVARO LOAIZA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 4344762 | * **Nombre:** HECTOR MACIAS OTALVARO LOAIZA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 4344762 | Florencia - Caquetá | $39.670.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289992****
+
+**ID del contrato en SECOP:**
+
+CONTRATO COMPRAVENTA NO.002-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+25/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 39,670,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289992 | Informe de selección CO1.AWD.2289992 | 26/Jun/2025 - 08:23 am |  | - |
+| Reporte preliminar | CO1.AWD.2289992 | Informe de evaluación 1 CO1.AWD.2289992 | 24/Jun/2025 - 04:48 pm |  | - |
+| Avisos | CO1.MSG.8068100 | La lista de oferentes del proceso MC-024-2025 publicada por MUNICIPIO DE VALPARAISO CAQUETA | 20/Jun/2025 - 06:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8060043 | AVISO LIMITACIÓN MIYMES | 19/Jun/2025 - 03:57 pm |  | - |
+| Aclaraciones | CO1.MSG.8060032 | RE: observacion a la invitacion | 19/Jun/2025 - 03:57 pm |  | - |
+| Aclaraciones | CO1.MSG.8050393 | observacion a la invitacion | 18/Jun/2025 - 11:31 am |  | - |

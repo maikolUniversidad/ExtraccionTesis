@@ -1,0 +1,228 @@
+Title: Licitaciones - INSTITUTO DISTRITAL PARA LA PROTECCIÓN DE LA NIÑEZ Y LA JUVENTUD - IDIPRON*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6822865b9d1db3.18874645
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 09:52:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio de instalación y configuración de OEL y el afinamiento, migración, soporte y mantenimiento de las bases de datos ORACLE del IDIPRON.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 18 ·15- 62 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Servicios financieros
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 58,630,308
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/May/2025 - 06:36 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+19/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+21/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+22/May/2025 - 11:10 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+22/May/2025 - 11:10 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+04/Jun/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+04/Jun/2025 - 10:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+06/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+16/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+17/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+19/Jun/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/Jun/2025 - 12:00 am | 19/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 19/Jun/2025 - 12:00 am | 19/Jun/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 19/Jun/2025 - 12:00 am | 19/Dic/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+16/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+16/Jun/2025 - 11:30 am
+
+**Fecha fin:**
+
+16/Jun/2025 - 12:00 pm

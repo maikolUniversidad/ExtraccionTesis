@@ -1,0 +1,94 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA ENTIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b3ea50f2af7.39877039
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 11:46:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el servicio de mantenimiento preventivo y correctivo para el sistema de información - SIGEP II, así como el mantenimiento evolutivo para los sistemas de información SIGEP II y FURAG III, del Departamento Administrativo de la Función Pública.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 12 - 62 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 06:37 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 05:00 pm

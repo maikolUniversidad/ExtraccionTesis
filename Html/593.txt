@@ -1,0 +1,217 @@
+Title: Licitaciones - MUNICIPIO DE SOACHA..
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bba5d1d2450.05937617
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:37:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS A TODO COSTO PARA GARANTIZAR, MEJORAR Y OPTIMIZAR EL SOPORTE TECNOLÓGICO DEL DATACENTER PRINCIPAL DE LA ALCALDÍA DE SOACHA Y SU INFRAESTRUCTURA TECNOLÓGICA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Soacha
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152100 - Servicios de mantenimiento y reparación de equipo de manufactura
+
+**Códigos adicionales UNSPSC:**
+
+81101700 - Ingeniería eléctrica y electrónica,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo, -Instalaciones eléctricas, -Servidores (Suministro y alquiler)", "licicodigos": "99,102,106,241,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 13 No 7-30 Soacha Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 73152100, 81101700, 81112500 | PRESTACIÓN DE SERVICIOS A TODO COSTO PARA GARANTIZAR, MEJORAR Y OPTIMIZAR EL SOPORTE TECNOLÓGICO DEL DATACENTER PRINCIPAL DE LA ALCALDÍA DE SOACHA Y SU INFRAESTRUCTURA TECNOLÓGICA. | Mínima cuantía | Recursos propios | $70.000.000 | SECRETARÍA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 05:36 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 08:00 am
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 05:01 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 05:02 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 05:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 02:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 29/May/2025 - 02:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 29/May/2025 - 02:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 29/May/2025 - 02:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7993830 | PUBLICACIÓN RESOLUCIÓN No. 0845 del 2025 "POR MEDIO DEL CUAL LA SECRETARÍA GENERAL DEL MUNICIPIO DE SOACHA DECLARA DESIERTO EL PROCESO DE SELECCIÓN DE MÍNIMA CUANTÍA No. MC-012-2025 CUYO OBJETO ES LA PRESTACIÓN DE SERVICIOS A TODO COSTO PARA GARANTIZAR, MEJORAR Y OPTIMIZAR EL SOPORTE TECNOLÓGICO DEL DATACENTER PRINCIPAL DE LA ALCALDÍA DE SOACHA Y SU INFRAESTRUCTURA TECNOLÓGICA". | 06/Jun/2025 - 11:54 am |  | - |
+| Reporte preliminar | CO1.AWD.2262647 | Informe de evaluación 5 CO1.AWD.2262647 | 06/Jun/2025 - 11:53 am |  | - |
+| Reporte preliminar | CO1.AWD.2262647 | Informe de evaluación 4 CO1.AWD.2262647 | 04/Jun/2025 - 02:15 pm |  | - |
+| Avisos | CO1.REQ.8283524 | Publicación modificación | 30/May/2025 - 03:19 pm |  |  |
+| General | CO1.MSG.7963597 | TERCER INFORME DE EVALUACIÓN. | 30/May/2025 - 08:47 am |  | - |
+| Reporte preliminar | CO1.AWD.2262647 | Informe de evaluación 3 CO1.AWD.2262647 | 30/May/2025 - 08:46 am |  | - |
+| General | CO1.MSG.7950542 | ADENDA No. 002. | 28/May/2025 - 11:24 am |  | - |
+| Avisos | CO1.REQ.8283524 | Publicación modificación | 28/May/2025 - 11:18 am |  |  |
+| General | CO1.MSG.7950343 | SEGUNDO INFORME DE EVALUACIÓN DE REQUISITOS HABILITANTES. | 28/May/2025 - 11:08 am |  | - |
+| Reporte preliminar | CO1.AWD.2262647 | Informe de evaluación 2 CO1.AWD.2262647 | 28/May/2025 - 11:04 am |  | - |
+| General | CO1.MSG.7937309 | INFORME DE EVALUACIÓN DE LOS REQUISITOS HABILITANTES. | 26/May/2025 - 02:28 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262647 | Informe de evaluación 1 CO1.AWD.2262647 | 26/May/2025 - 02:25 pm |  | - |
+| Avisos | CO1.MSG.7935433 | Publicación de la lista de ofertas del proceso MC-012-2025. | 26/May/2025 - 10:27 am |  | - |
+| Avisos | CO1.MSG.7935428 | La lista de oferentes del proceso MC-012-2025 publicada por MUNICIPIO DE SOACHA.. | 26/May/2025 - 10:27 am |  | - |
+| Avisos | CO1.REQ.8283524 | Publicación modificación | 21/May/2025 - 06:35 pm |  |  |
+| General | CO1.MSG.7917489 | RESPUESTA A OBSERVACIONES PROCESO DE SELECCIÓN | 21/May/2025 - 04:33 pm |  | - |
+| General | CO1.MSG.7916002 | AVISO NO LIMITACIÓN A MIPYMES | 21/May/2025 - 02:21 pm |  | - |

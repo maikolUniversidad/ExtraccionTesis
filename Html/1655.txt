@@ -1,0 +1,112 @@
+Title: Licitaciones - INSTITUCIÒN EDUCATIVA DISTRITAL JOSÈ JOAQUÌN CASAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6852c952198ed2.82655799
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 09:46:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Suministro de elementos para Proyecto STEAM en el aula de Tecnología e Informática, del Colegio José Joaquín Casas IED
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60101300 - Adhesivos educativos y suministros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Sensores, -Materiales para obras eléctricas en general, -Herramientas manuales, -Electrónica - Robótica", "licicodigos": "105,113,121,123,212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 56 No. 17 11 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 08:14 am
+
+**Fecha de Firma del Contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+11/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

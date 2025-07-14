@@ -1,0 +1,97 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) PNC OFTIC 007
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b3af4d5b505.39416281
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:40:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Actualmente la institución cuenta con dos redes institucionales de radio (convencional digital y troncalizada) las cuales están compuestas por equipos de comunicaciones como son: sitios de repetición, repetidores en configuración Stand alone y Back to Back, radios portátiles, radios bases, sitio maestro en versión 7.5 y versión 7.17, estos últimos cuentan servidores y sistemas de almacenamiento; los anteriores equipos cuentan con sus debidos protocolos de encriptación (DES-OFB, DVP-XL y ADP) ubi
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "100,110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 59 26-21 Can Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 08:50 am
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 12:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 12:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8025318 | ACLARACION PLAZO DE EJECUCION Y FORMA DE PAGO ELECTRONICA | 12/Jun/2025 - 05:21 pm |  | - |
+| General | CO1.MSG.7976229 | INCLUSION LISTADO SITIOS DE REPETICION | 03/Jun/2025 - 06:50 pm |  | - |

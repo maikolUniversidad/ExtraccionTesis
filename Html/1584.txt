@@ -1,0 +1,246 @@
+Title: Licitaciones - Superintendencia de Transporte
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68099d85abbc14.32666709
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 02:02:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+509_Renovación del soporte, mantenimiento y actualizaciones del licenciamiento de la herramienta Chilkat Crypt para la Superintendencia de Transporte
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+
+43232400 - Programas de desarrollo,43233200 - Software de seguridad y protección,43232700 - Software de aplicaciones de red,43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 25 G No 95 a – 85 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+300 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501, 43232300, 43232400, 43232700, 43233200 | 509_Renovación del soporte, mantenimiento y actualizaciones del licenciamiento de la herramienta Chilkat Crypt para la Superintendencia de Transporte. | Mínima cuantía | Recursos propios | $3.180.000 | SUPERTRANSPORTE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 08:40 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 07/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 07/May/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 07/May/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 30/Abr/2025 - 06:27 am | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,135,500
+
+**Informes proceso de selección CO1.AWD.2241611 de 07/May/2025 - 03:47 am. Valor $2.135.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 05:13 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:13 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:13 pm |  |
+| Informe de evaluación | 07/May/2025 - 03:04 pm |  |
+| Informe de evaluación | 07/May/2025 - 03:04 pm |  |
+| Informe de selección | 07/May/2025 - 03:47 pm |  |
+| Informe de selección | 07/May/2025 - 03:47 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241611**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Royal Tech Group SAS * **Tipo documento:** NIT * **Documento:** 901394655 | * **Nombre:** Hector David Mendoza Arroyo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1140834004 | Barranquilla - Atlántico | $2.135.500 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241611****
+
+**Cuantía a la firma del contrato:**
+
+$ 2,135,500
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241611 | Informe de selección CO1.AWD.2241611 | 07/May/2025 - 03:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241611 | Informe de evaluación 2 CO1.AWD.2241611 | 07/May/2025 - 03:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241611 | Informe de evaluación 1 CO1.AWD.2241611 | 02/May/2025 - 05:13 pm |  | - |
+| Avisos | CO1.MSG.7817481 | La lista de oferentes del proceso IPMC-008-2025 publicada por Superintendencia de Transporte | 30/Abr/2025 - 09:48 am |  | - |
+| Avisos | CO1.MSG.7817492 | Publicación de la lista de ofertas del proceso IPMC-008-2025. | 30/Abr/2025 - 09:48 am |  | - |
+| General | CO1.MSG.7805276 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 28/Abr/2025 - 10:34 am |  | - |
+| General | CO1.MSG.7805003 | LIMITACION A MIPYMES NACIONALES | 28/Abr/2025 - 10:06 am |  | - |

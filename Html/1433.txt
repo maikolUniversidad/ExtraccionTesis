@@ -1,0 +1,243 @@
+Title: Licitaciones - INPEC CPMSSIN SINCELEJO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68064a36784491.59324993
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la compra de papelería, útiles de escritorio y consumibles de impresión para el funcionamiento de las oficinas de la Cárcel y Penitenciaria de Media Seguridad de Sincelejo incluye pabellón de mujeres por el sistema de precios unitarios fijos a monto agotable.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Sincelejo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Códigos adicionales UNSPSC:**
+
+44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,31201610 - Pegamentos,44103103 - Tóner para impresoras o fax,44122100 - Suministros de sujeción,44121702 - Sets de esferos o lápices,14111823 - Formatos o libros de control,44121708 - Marcadores,12171703 - Tintas,43201811 - Disco versátil digital dvd de lectura y escritura,44121615 - Grapadoras,44121804 - Borradores,31201512 - Cinta transparente,43201402 - Tarjetas de módulos de memoria,43211706 - Teclados,43211708 - Mouse o bola de seguimiento para computador
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 17 N° 3 - 21 Antigua Vía a Tolu Barrio La Vega Sincelejo Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 44101600, 44121600, 44121700, 44121900, 31201610, 44103103, 44121806, 44122100, 44121702, 14111823, 44121708, 12171703, 14111818, 43201811, 44121615 | Contratar el suministro de papelería, elementos de oficina y otros productos similares para el buen funcionamiento de las dependencias de la Cárcel y Penitenciaria de Media Seguridad de Sincelejo incluye pabellón de mujeres. | Mínima cuantía | Presupuesto de entidad nacional | $6.617.387 | GESTION CONTRACTUAL EPMSC SIN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 08:10 am
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/Abr/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+22/Abr/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/Abr/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/Abr/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/Abr/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 02:30 pm
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 05:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Abr/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+28/Abr/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/Abr/2025 - 12:00 pm | 30/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/Abr/2025 - 12:00 pm | 30/Sep/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GRUPO LOS LAGOS SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 6,617,387
+
+**Informes proceso de selección CO1.AWD.2234159 de 28/Abr/2025 - 11:08 am. Valor $6.617.387**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Abr/2025 - 04:32 pm |  |
+| Informe de evaluación | 28/Abr/2025 - 10:58 am |  |
+| Informe de selección | 28/Abr/2025 - 11:08 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2234159**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRUPO LOS LAGOS SAS * **Tipo documento:** NIT * **Documento:** 860053274 | * **Nombre:** HECTOR CORREA GIRALDO * **Tipo documento:** * **Documento:** 10232588 | Bogotá - Distrito Capital de Bogotá | $6.617.387 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2234159****
+
+**Cuantía a la firma del contrato:**
+
+$ 6,617,387
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2234159 | Informe de selección CO1.AWD.2234159 | 28/Abr/2025 - 11:08 am |  | - |
+| Reporte preliminar | CO1.AWD.2234159 | Informe de evaluación 2 CO1.AWD.2234159 | 28/Abr/2025 - 10:58 am |  | - |
+| Objeciones | CO1.MSG.7800129 | [Respondido] RE:SUBSANACION | 28/Abr/2025 - 10:56 am |  | - |
+| Objeciones | CO1.MSG.7800129 | SUBSANACION | 25/Abr/2025 - 02:34 pm |  | - |
+| Reporte preliminar | CO1.AWD.2234159 | Informe de evaluación 1 CO1.AWD.2234159 | 24/Abr/2025 - 04:32 pm |  | - |
+| Avisos | CO1.MSG.7794951 | Publicación de la lista de ofertas del proceso 319-MC004-2025. | 24/Abr/2025 - 04:28 pm |  | - |
+| Avisos | CO1.MSG.7794934 | La lista de oferentes del proceso 319-MC004-2025 publicada por INPEC CPMSSIN SINCELEJO | 24/Abr/2025 - 04:27 pm |  | - |
+| General | CO1.MSG.7779033 | aviso convocatoria mipymes proceso 319-MC004-2025 | 22/Abr/2025 - 11:34 am |  | - |
+| Aclaraciones | CO1.MSG.7775123 | OBSERVACION MIPYMES NACIONALES | 21/Abr/2025 - 04:36 pm |  | - |

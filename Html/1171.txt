@@ -1,0 +1,175 @@
+Title: Licitaciones - PERSONERÍA MUNICIPAL SAN JUAN DE URABÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68081c7c89c880.75519650
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 09:07:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE PAPELERÍA, ÚTILES DE OFICINA E IMPLEMENTOS, APARATOS TRASMISORES DE TELEVISIÓN, DISPOSITIVO DE ALMACENAMIENTO EN ESTADO SOLITO NO VOLÁTILES, PRODUCTO METÁLICOS MAQUINARIAS Y EQUIPOS, PARA EL NORMAL DESARROLLO DE LAS ACTIVIDADES DE LA PERSONORÍA MUNICIPAL DE SAN JUAN DE URABÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : San Juan De Urabá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52141526 - Cafeteras para uso doméstico
+
+**Códigos adicionales UNSPSC:**
+
+52141501 - Neveras para uso doméstico,52161505 - Televisores,43201827 - Dispositivo de almacenamiento de disco duro portátil,56121000 - Mobiliario de biblioteca,44122003 - Carpetas,44122017 - Folders de colgar o accesorios,14111506 - Papel para impresión de computadores,44103116 - Kit para impresora,56101703 - Escritorios,56112103 - Sillas para visitantes,56101706 - Mesas de conferencia,56101708 - Archivadores móviles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Mobiliario, -Electrodomésticos, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Productos para archivo", "licicodigos": "127,128,139,312,313" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CL 22 21 62 San Juan De Urabá Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 05:16 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 05:30 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 04:00 pm
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 03:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8149386 | Publicación modificación | 28/Abr/2025 - 03:32 pm |  |  |
+| Avisos | CO1.REQ.8149386 | Publicación modificación | 25/Abr/2025 - 05:01 pm |  |  |
+| Aclaraciones | CO1.MSG.7800817 | LIMITACIÓN DE LA OFERTA A MIPYMES | 25/Abr/2025 - 03:48 pm |  | - |
+| Avisos | CO1.REQ.8149386 | Publicación modificación | 25/Abr/2025 - 12:39 pm |  |  |

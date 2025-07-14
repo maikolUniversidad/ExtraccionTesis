@@ -1,0 +1,227 @@
+Title: Licitaciones - CENTRO DE FORMACION INTEGRAL PARA EL TRABAJO - CEFIT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fa01459d146.15543439
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-11 01:20:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO PARA EL MANTENIMIENTO, REPARACION Y ADQUISICION DE ELEMENTOS PERIFERICOS TECNOLOGICOS PARA EL CENTRO DE FORMACION INTEGRAL PARA EL TRABAJO - CEFIT.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211724 - Kit periférico para computador
+
+**Códigos adicionales UNSPSC:**
+
+43211706 - Teclados,43211708 - Mouse o bola de seguimiento para computador,43191606 - Auriculares de teléfonos,43201803 - Unidades de disco duro,43223303 - Cable de conexión de comunicación de datos,44102906 - Kits de limpieza de computadores o equipos de oficina,32101601 - Memoria de acceso aleatorio (ram),44103103 - Tóner para impresoras o fax,81101707 - Mantenimiento de equipos de impresión,44103116 - Kit para impresora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 39 Sur 34A- 07. Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 10:07 am
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+06/May/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 02/May/2025 - 04:42 pm | * **Nombre:** TECHNOLOGY WORLD GROUP SAS | Distrito Capital de Bogotá |
+| 2 | 05/May/2025 - 02:08 pm | * **Nombre:** CRR SOLUCIONES INTEGRALES S.A.S | Neiva - Huila |
+| 3 | 05/May/2025 - 04:58 pm | * **Nombre:** YOLUK | Neiva - Huila |
+| 4 | 05/May/2025 - 05:18 pm | * **Nombre:** MAZU SERVICIOS INTEGRALES | Neiva - Huila |
+| 5 | 05/May/2025 - 05:20 pm | * **Nombre:** LYN INGENIERIA SAS. | Neiva - Huila |
+| 6 | 05/May/2025 - 08:56 pm | * **Nombre:** AISEING SAS. | Cali - Valle del Cauca |
+| 7 | 06/May/2025 - 01:31 am | * **Nombre:** TECNOSOFT OUTSOURCING SAS | Bogotá - Distrito Capital de Bogotá |
+| 8 | 06/May/2025 - 11:16 am | * **Nombre:** BIDFOR S.A.S | Medellín - Antioquia |
+| 9 | 06/May/2025 - 11:20 am | * **Nombre:** ARDOBOT ROBOTICA SAS | Medellín - Antioquia |
+| 10 | 06/May/2025 - 11:30 am | * **Nombre:** JESUS AUGUSTO TRUJILLO RAMIREZ | Bogotá - Distrito Capital de Bogotá |
+| 11 | 06/May/2025 - 11:58 am | * **Nombre:** APROVISIONAR SOLUCIONES S.A.S | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,565,000
+
+**Informes proceso de selección CO1.AWD.2246514 de 09/May/2025 - 03:45 am. Valor $18.565.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 09:59 am |  |
+| Informe de selección | 09/May/2025 - 03:45 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246514**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** JESUS AUGUSTO TRUJILLO RAMIREZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 94288568 | * **Nombre:** JOSE AUGUSTO JARAMILLO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 94288568 | Bogotá - Distrito Capital de Bogotá | $18.565.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246514****
+
+**Cuantía a la firma del contrato:**
+
+$ 18,565,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246514 | Informe de selección CO1.AWD.2246514 | 09/May/2025 - 03:45 pm |  | - |
+| General | CO1.MSG.7860993 | RE: Observación Proceso | 09/May/2025 - 03:40 pm |  | - |
+| Avisos | CO1.MSG.7859979 | Publicación de la lista de ofertas del proceso MC-08-2025. | 09/May/2025 - 01:41 pm |  | - |
+| General | CO1.MSG.7857545 | subsnacion tecnology | 09/May/2025 - 08:45 am |  | - |
+| General | CO1.MSG.7857202 | SUBSANACION DOCUMENTOS | 09/May/2025 - 07:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2246514 | Informe de evaluación 1 CO1.AWD.2246514 | 08/May/2025 - 09:59 am |  | - |
+| Avisos | CO1.REQ.8176541 | Publicación modificación | 07/May/2025 - 01:13 pm |  |  |
+| Avisos | CO1.MSG.7839156 | La lista de oferentes del proceso MC-08-2025 publicada por CENTRO DE FORMACION INTEGRAL PARA EL TRABAJO - CEFIT | 06/May/2025 - 01:19 pm |  | - |
+| General | CO1.MSG.7838638 | RE: Incidencia | 06/May/2025 - 12:15 pm |  | - |
+| General | CO1.MSG.7818295 | RESPUESTA OBSERVACIÓN MC-08-2025 | 30/Abr/2025 - 11:18 am |  | - |
+| General | CO1.MSG.7818234 | AVISO DE NO LIMITACIÓN A MIPYMES - MC-08-2025 | 30/Abr/2025 - 11:15 am |  | - |

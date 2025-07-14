@@ -1,0 +1,309 @@
+Title: Licitaciones - SENA REGIONAL TOLIMA 1
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b5e9766c716.77567420
+
+Markdown Content:
+Licitaciones - SENA REGIONAL TOLIMA 1 - Contratación mínima cuantía MC-TLM-CALG-021-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-02 11:11:48
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR A MONTO AGOTABLE EL SUMINISTRO DE ÚTILES DE ESCRITORIO, PAPELERÍA, INSUMOS DE IMPRESIÓN Y ELEMENTOS DE ARTESANÍAS Y TURISMO PARA LOS PROGRAMAS DE FORMACIÓN TITULADA Y COMPLEMENTARIA REGULAR, ATENCIÓN A VICTIMAS EN SITUACIÓN DE DESPLAZAMIENTO, ARTICULACIÓN CON LA MEDIA, CAMPESENA Y GRUPO ADMINISTRATIVO Y DE APOYO A LA FORMACIÓN DEL CENTRO AGROPECUARIO LA GRANJA PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Tolima : Espinal
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+11122001 - Triplex
+
+**Códigos adicionales UNSPSC:**
+11122006 - Madera tratada,13111061 - Resinas de poliuretano,14111506 - Papel para impresión de computadores,14111514 - Blocs o cuadernos de papel,14111519 - Papeles cartulina,14111530 - Papel de notas autoadhesivas,14121901 - Papel periódico estándar,27112739 - Lija de banda,31201503 - Cinta de enmascarar,31201512 - Cinta transparente,31201610 - Pegamentos,31201616 - Adhesivos líquidos,31211703 - Lacas,31211707 - Barnices,39111610 - Linternas,41111604 - Reglas,42132203 - Guantes de examen o para procedimientos no quirúrgicos,42172001 - Kits de primeros auxilios para servicios médicos de emergencia,42251610 - Pelotas o accesorios terapéuticos,44101719 - Accesorios de copiado o escaneado,44103103 - Tóner para impresoras o fax,44103112 - Cinta de impresora,44103116 - Kit para impresora,44111912 - Borradores para tableros blancos,44121612 - Cortadoras de papel o repuestos,44121618 - Tijeras,44121619 - Tajalápices manuales,44121701 - Bolígrafos,44121706 - Lápices de madera,44121707 - Lápices de colores,44121708 - Marcadores,44121804 - Borradores,44121904 - Repuestos de tinta,46181547 - Cubiertas de capa impermeables,47131811 - Productos de lavandería,49121503 - Carpas,50101716 - Nueces y semillas enteras,51171608 - Glicerina,52121601 - Limpiones,55121608 - Etiquetas de códigos de barra,60102004 - Kits para construcción de palabras,60102006 - Fichas para construcción de palabras,60102409 - Fichas para juegos de matemáticas,60105704 - Barras de pegante libres de ácido,60121114 - Papeles para manualidades de origami,60121117 - Papel de seda para manualidades,60121124 - Papel kraft,60121138 - Tableros de ilustración,60121201 - Pintura témpera líquida tradicional,60121226 - Pinceles para acuarela,60121229 - Pinceles especializados,60122701 - Pinturas o medios para esmaltar,60124319 - Compuestos para modelado especializados,60131105 - Silbatos,60141101 - Juegos educativos,60141102 - Juegos de mesa
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artesanía y manualidades (Suministro), -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,202,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+KM 5 VIA ESPINAL - IBAGUE, VEREDA DINDALITO Espinal Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 10151501, 10121500, 10121600, 10121700, 10122100, 10151508, 10151511, 10151512, 10151513, 10151514, 10151515, 10151516, 10151518, 10151520, 10151521, 10151524, 10151525, 10151526, 10151532, 10151534, 10151606, 10151609, 10151611, 10151613, 10151701, 10151805, 10151808, 10151816, 10151902, 10151904, 10161502, 10161528, 10161529, 10161805, 10171502, 10171504, 10171505, 10171506, 10171601, 10171602, 10171603, 10171605, 40172906, 40173403, 41101503, 41116107, 41121504, 41121510, 41121515, 41121605, 41121801, 41121803, 41121805, 41121806, 41121808, 41121809, 41121816, 41121817, 41122101, 41122403, 41122407, 41122409, 41122413, 41122502, 41122601, 41122702, 41122801, 41123403, 42131502, 42131604, 42131606, 42131609, 42132203, 42132205, 42231806, 42271802, 42281530, 42281603, 42281704, 42311511, 43223325, 44111914, 44121634, 44121707, 46181501, 46181504, 46181516, 46181531, 46181532, 46181537 | 73_9123_087 CONTRATR EL SUMINISTRO DE MATERIALES DE FORMACION DE CARACTERISTICAS TECNICAS UNIFORMES, PARA LOS PROGRAMAS FORMACION DE TITULADA Y COMPLEMENTARIA, CAMPESENA, ECONOMIA PUPULAR, ARTICULACION CON LA MEDIA, PRODUCCION DE CENTRO, FONDO INDUSTRIA DE LA CONSTRUCCION (FIC) Y VICTIMAS O DESPLAZADOS, A EJECUTARSE EN EL CENTRO AGROPECUARIO LA GRANJA EN LA VIGENCIA 2025 | Mínima cuantía | Recursos propios | $716.276.801 | CONTRATACION CENTRO AGROPECUARIO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 06:03 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+24/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Jun/2025 - 12:00 am | 23/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 25/Jun/2025 - 12:00 am | 23/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Construcciones y agregados SEGO | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 69,276,581
+
+**Informes proceso de selección CO1.AWD.2285673 de 26/Jun/2025 - 09:40 am. Valor $69.276.581**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/Jun/2025 - 04:41 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 04:41 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 10:22 am |  |
+| Informe de evaluación | 25/Jun/2025 - 10:22 am |  |
+| Informe de evaluación | 25/Jun/2025 - 10:22 am |  |
+| Informe de selección | 26/Jun/2025 - 09:40 am |  |
+| Informe de selección | 26/Jun/2025 - 09:40 am |  |
+| Informe de selección | 26/Jun/2025 - 09:40 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2285673**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CONSTRUCCIONES Y AGREGADOS SEGO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1110547675 | * **Nombre:** NEISY ELIZABETH SERNA GOMEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1110547675 | Ibagué - Tolima | $69.276.581 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2285673****
+
+**Cuantía a la firma del contrato:**
+
+$ 69,276,581
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285673 | Informe de selección CO1.AWD.2285673 | 26/Jun/2025 - 09:40 am |  | - |
+| General | CO1.MSG.8078325 | RESPUESTA: SUBSANACION Y ACLARACION | 25/Jun/2025 - 10:23 am |  | - |
+| Reporte preliminar | CO1.AWD.2285673 | Informe de evaluación 2 CO1.AWD.2285673 | 25/Jun/2025 - 10:22 am |  | - |
+| Avisos | CO1.MSG.8060644 | Publicación de la lista de ofertas del proceso MC-TLM-CALG-021-2025. | 19/Jun/2025 - 04:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285673 | Informe de evaluación 1 CO1.AWD.2285673 | 19/Jun/2025 - 04:41 pm |  | - |
+| Avisos | CO1.MSG.8053926 | La lista de oferentes del proceso MC-TLM-CALG-021-2025 publicada por SENA REGIONAL TOLIMA 1 | 18/Jun/2025 - 05:17 pm |  | - |
+| General | CO1.MSG.8036650 | Respuesta: LIMITACION MIPYMES DEPARTAMENTAL | 16/Jun/2025 - 02:15 pm |  | - |
+| General | CO1.MSG.8036632 | Respuesta: LIMITACIÓN A MIPYMES DEPARTAMENTAL MC-TLM-CALG-021-2025 | 16/Jun/2025 - 02:14 pm |  | - |
+| General | CO1.MSG.8036647 | Respuesta: solicitud limitación mipyme departamental | 16/Jun/2025 - 02:14 pm |  | - |
+| General | CO1.MSG.8036616 | Respuesta: SOLICITUD DE INTERÉS DE LIMITACIÓN MC-TLM-CALG-021-2025 | 16/Jun/2025 - 02:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8036598 | Respuesta: SOLICITUD DE ACLARACION, SOLICITUD DE ACLARACION | 16/Jun/2025 - 02:13 pm |  | - |
+| Avisos | CO1.REQ.8405534 | Publicación modificación | 16/Jun/2025 - 02:10 pm |  |  |
+| Aclaraciones | CO1.MSG.8029723 | SOLICITUD DE ACLARACION | 13/Jun/2025 - 12:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8029162 | SOLICITUD DE ACLARACION | 13/Jun/2025 - 11:35 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:04 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

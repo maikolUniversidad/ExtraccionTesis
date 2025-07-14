@@ -1,0 +1,94 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685025082b7501.78641146
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:26:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de equipos de Red para el Concejo de Bogotá D.C.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211502 - Servidores de computador de gama alta
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 08:47 am
+
+**Plazo para solicitar aclaraciones:**
+
+17/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Jun/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8070468 | RESPUESTA OBSERVACIONES | 24/Jun/2025 - 09:12 am |  | - |
+| Avisos | CO1.REQ.8418176 | Publicación modificación | 20/Jun/2025 - 01:49 pm |  |  |
+| Aclaraciones | CO1.MSG.8042896 | OBSERVACION | 17/Jun/2025 - 11:15 am |  | - |

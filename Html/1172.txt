@@ -1,0 +1,162 @@
+Title: Licitaciones - ALCALDÍA DE CARACOLI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834effa76d664.32606829
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 10:27:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO (INCLUYENDO MANO DE OBRA Y REPUESTOS) DEL EQUIPO DE SONIDO DE LA CASA DE LA CULTURA DEL MUNICIPIO DE CARACOLI ANTIOQUIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Caracolí
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 21 20 B 05 Caracolí Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 04:14 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 04:15 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 04:15 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 04:45 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 04:45 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 04:45 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 04:45 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 04:48 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7941848 | Solicitud limitación MiPymes departamental | 27/May/2025 - 09:24 am |  | - |

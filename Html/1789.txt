@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL HUILA Grupo Administrativo CEFA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d69256c2ce3.74752703
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 14:18:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio de mantenimiento preventivo y correctivo a los equipos del Sistema de Competitividad y desarrollo tecnológico productivo para el SENA del Centro de Formación Agroindustrial del SENA Regional Huila. Lote 1 Especialidad Biotecnología, Lote 2 Especialidad Equipo Containers, Lote 3 Especialidad Ingeniería.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Campoalegre
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101706 - Mantenimiento de equipos de laboratorio
+
+**Códigos adicionales UNSPSC:**
+
+73152101 - Servicio de mantenimiento de equipo industrial,73152102 - Servicio de reparación de equipo industrial,95141902 - Unidad de laboratorio,30171505 - Puertas de metal,40141758 - Canal de drenaje,30161707 - Pisos de vinilo,30152003 - Vallado de fibrocemento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Maquinaria industrial, -Vivienda prefabricada - contenedores, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "106,228,391,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KM 38 VIA NEIVA AL SUR Campoalegre Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 10:18 am
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 10:30 am
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jul/2025 - 10:30 am

@@ -1,0 +1,271 @@
+Title: Licitaciones - AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827e0da8302a6.82847313
+
+Markdown Content:
+Licitaciones - AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN - Concurso de méritos abierto CM-ARN-1051-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 12:41:31
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Concurso de méritos abierto
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+Prestación de servicios de implementación de soluciones de software, bajo el esquema de desarrollo de software a la medida en sus diferentes fases que comprenden el ciclo de vida de los sistemas de información y demás servicios complementarios requeridos para el apalancamiento de los proyectos definidos en el mapa de ruta del Plan Estratégico de Tecnologías de Información de la Agencia para la Reincorporación y Normalización -ARN en su etapa 2.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81111501 - Diseño de aplicaciones de software de la unidad central
+
+**Códigos adicionales UNSPSC:**
+81111502 - Diseños de aplicaciones para computadores personales (pc),81111503 - Diseño de integración de sistemas,81111504 - Servicios de programación de aplicaciones,81111505 - Servicios de programación de sistemas operativos,81111510 - Servicios de desarrollo de aplicaciones para servidores de internet / intranet,81111603 - Programación para html,81112202 - Actualizaciones o parches de software,81112204 - Mantenimiento de software de sistemas operativos,81112209 - Mantenimiento de software de desarrollo,81111801 - Seguridad de los computadores, redes o internet,81111805 - Mantenimiento o soporte de sistemas patentados o autorizados,43231513 - Software para oficinas,43232402 - Software de entorno de desarrollo
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Bogotâ Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+Consultoría
+
+**Plazo del contrato:**
+13 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 2,795,400,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111501, 81111502, 81111503, 81111504, 81111505, 81111510, 81111603, 81112202 | 3.3.20. Prestación de servicios de implementación de soluciones de software, bajo el esquema de desarrollo de software a la medida en sus diferentes fases que comprenden el ciclo de vida de los sistemas de información y demás servicios complementarios requeridos para para el apalancamiento de los proyectos definidos en el Mapa de Ruta del Plan Estratégico de Tecnologías de Información de la Agencia para la Reincorporación y Normalización -ARN. | Concurso de méritos abierto | Presupuesto de entidad nacional | $2.795.400.000 | GRUPO GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto Pliego de Condiciones:**
+
+27/May/2025 - 11:00 pm
+
+**Fecha prevista de publicación de los pliegos de condiciones definitivos:**
+
+28/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivo:**
+
+04/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+09/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 09:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe evaluación de las ofertas:**
+
+18/Jun/2025 - 11:59 pm
+
+**Expedición del Acto de Adjudicación o de declaratoria desierta:**
+
+20/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+24/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías o pólizas de ejecución del contrato:**
+
+25/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+25/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 25/Jun/2025 - 12:00 am | 30/Nov/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 25/Jun/2025 - 12:00 am | 31/Jul/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 25/Jun/2025 - 12:00 am | 30/Nov/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8155720 | AVISO DE NO CONTINUIDAD DEL PROCESO CM-ARN-1051-2025 | 11/Jul/2025 - 04:17 pm |  | - |
+| General | CO1.MSG.8155268 | CONSOLIDADO DE RESPUESTAS A OBSERVACIONES AL PROYECTO PLIEGO DE CONDICIONES | 11/Jul/2025 - 11:21 am |  | - |
+| General | CO1.MSG.7993134 | RE: Observación Hitss | 27/Jun/2025 - 10:27 am |  | - |
+| General | CO1.MSG.8092243 | RE: INFORMACIÓN SOBRE EL ESTADO DEL PROCESO | 27/Jun/2025 - 10:25 am |  | - |
+| Aclaraciones | CO1.MSG.7932967 | Observaciones Prepliego - Intempo SAS | 23/May/2025 - 11:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7932741 | Observaciones Proyecto Pliegos Mentor360 | 23/May/2025 - 08:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7932610 | Observaciones | 23/May/2025 - 07:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7932528 | Observaciones Sinergy & Lowells S.A.S | 23/May/2025 - 06:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7932001 | OBSERVACIONES CM-ARN-1051-2025 | 23/May/2025 - 05:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7931291 | Obervaciones Proceso CM-ARN-1051-2025 | 23/May/2025 - 04:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7930412 | Observaciones al Pliego Borrador | 23/May/2025 - 03:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7914492 | Observaciones al pliego de condiciones CM-ARN-1051-2025 | 21/May/2025 - 11:04 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:35 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

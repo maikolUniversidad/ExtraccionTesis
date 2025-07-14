@@ -1,0 +1,302 @@
+Title: Licitaciones - DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f94a9326673.25138887
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 06:33:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suscripción al soporte y actualización de un sistema de filtrado de contenido web SWG de conformidad con las especificaciones técnicas
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232700 - Software de aplicaciones de red
+
+**Códigos adicionales UNSPSC:**
+
+43232705 - Software de navegador de internet,43233200 - Software de seguridad y protección,43233205 - Software de seguridad de transacciones y de protección contra virus,81111801 - Seguridad de los computadores, redes o internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 52 165 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 378,758,595
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111801, 43233205, 43233200, 43232705, 43232700 | Suscripción al soporte y actualización de un sistema de filtrado de contenido web SWG de conformidad con las especificaciones técnicas | Selección abreviada subasta inversa | Recursos propios | $378.758.595 | SECRETARÍA SUMINISTROS Y SERVICIOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 04:07 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+22/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 11:58 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 09:23 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 10:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+01/Jul/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+03/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 08/Jul/2025 - 07:00 am | 08/Ene/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 08/Jul/2025 - 07:00 am | 08/Jul/2029 - 11:59 am |
+| Calidad del servicio | 10,00 | 08/Jul/2025 - 07:00 am | 08/Ene/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UT MEDELLIN SWG | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 378,753,595
+
+**Informes proceso de selección CO1.AWD.2282288 de 24/Jun/2025 - 10:46 am. Valor $378.753.595**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 04:08 pm |  |
+| Informe de selección | 24/Jun/2025 - 10:46 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2282288**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UT MEDELLIN SWG * **Tipo documento:** * **Documento:** 0 | - | Bogotá - | $378.753.595 |  | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2282288****
+
+**Cuantía a la firma del contrato:**
+
+$ 378,753,595
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+20/Jun/2025 - 03:00 am
+
+**Fecha de inicio:**
+
+20/Jun/2025 - 02:00 am
+
+**Fecha fin:**
+
+20/Jun/2025 - 02:20 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2282288 | Informe de selección CO1.AWD.2282288 | 24/Jun/2025 - 10:46 am |  | - |
+| Avisos | CO1.MSG.8063319 | Publicación de la lista de ofertas del proceso 9015676. (Presentación de oferta). | 20/Jun/2025 - 09:16 am |  | - |
+| Avisos | CO1.MSG.8063316 | La lista de oferentes del proceso 9015676. (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 20/Jun/2025 - 09:15 am |  | - |
+| Reporte preliminar | CO1.AWD.2282288 | Informe de evaluación 1 CO1.AWD.2282288 | 16/Jun/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.8038267 | Adenda N° 1 proceso 9015676 | 16/Jun/2025 - 03:58 pm |  | - |
+| Avisos | CO1.REQ.8364130 | Publicación modificación | 16/Jun/2025 - 03:44 pm |  |  |
+| Avisos | CO1.MSG.8028704 | Publicación de la lista de ofertas del proceso 9015676. (Presentación de oferta). | 13/Jun/2025 - 10:50 am |  | - |
+| Avisos | CO1.MSG.8027718 | La lista de oferentes del proceso 9015676. (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 13/Jun/2025 - 09:18 am |  | - |
+| Aclaraciones | CO1.MSG.7972932 | Respuesta observaciones proyecto pliego | 03/Jun/2025 - 12:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7960423 | Observaciones | 29/May/2025 - 03:53 pm |  | - |

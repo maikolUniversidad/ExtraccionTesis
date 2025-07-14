@@ -1,0 +1,137 @@
+Title: Licitaciones - COLEGIO REPUBLICA DE CHINA I.E.D
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ae2c9aeaf01.39694968
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 22:58:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE ELEMENTOS CON EL FIN DE DESARROLLAR EL PROYECTO MATERIALES Y RECURSOS PARA EL DESARROLLO INTEGRAL DE LA PRIMERA INFANCIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45111607 - Proyectores de techo
+
+**Códigos adicionales UNSPSC:**
+
+45111615 - Lentes de proyección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales", "licicodigos": "104,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 92 # 82-20 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 10,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 45111607, 45111615, 43211507, 43211508, 43211509, 43211512 | Adquisición de materiales y recursos para el desarrollo integral de la primera infancia. | Contratación régimen especial - Régimen especial | SGP | $10.000.000 | COLEGIO REPÚBLICA DE CHINA I.E.D. |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 08:26 am
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+21/Jul/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8403439 | Publicación modificación | 17/Jun/2025 - 09:46 am |  |  |
+| Avisos | CO1.REQ.8403439 | Publicación modificación | 16/Jun/2025 - 01:22 pm |  |  |

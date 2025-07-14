@@ -1,0 +1,309 @@
+Title: Licitaciones - MUNICIPIO DE SACHICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68251233c71c33.46706628
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE SACHICA - Contratación mínima cuantía MS-MC-025-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-22 08:56:48
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICION DE EQUIPOS TECNOLOGICOS Y MOBILIARIOS PARA EL BUEN FUNCIONAMIENTO DE LA COMISARIA DE FAMILIA DEL MUNICIPIO DE SACHICA- BOYACA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Boyacá : Sáchica
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43212105 - Impresoras láser
+
+**Códigos adicionales UNSPSC:**
+43211507 - Computadores de escritorio,56101703 - Escritorios,43211711 - Escáneres
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Mobiliario", "licicodigos": "104,105,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 4 N° 3-41 Sáchica Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 60105410, 60105411, 60105412, 60105413, 60105414, 60105415, 60105416, 60105417, 60105418, 60105419, 60105420, 60105421, 60105422, 60105423, 60105424, 60105425, 60105426, 60105427, 60105428, 80121800, 80121801, 80121802, 80121803, 80121804, 93141612 | SUMINISTROS Y APOYOS LOGISTICOS PARA EL FORTALECIMIENTO DE LA COMISARIA DE FAMILIA | Mínima cuantía | NotApplied | $30.000.000 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 04:37 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 04:40 pm
+
+**Publicación de la invitación:**
+
+14/May/2025 - 04:40 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 04:40 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 04:40 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+19/May/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+20/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 20/May/2025 - 12:00 pm | 27/Sep/2025 - 12:00 pm |
+| Pago de salarios | 10,00 | 20/May/2025 - 12:00 pm | 27/May/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 20/May/2025 - 12:00 pm | 27/Sep/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 16/May/2025 - 10:40 am | * **Nombre:** Jhon Díaz | Sotaquirá - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 30,100,000
+
+**Informes proceso de selección CO1.AWD.2256125 de 20/May/2025 - 02:57 am. Valor $30.100.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 12:02 pm |  |
+| Informe de selección | 20/May/2025 - 02:57 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2256125**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Jhon Freddy Díaz Salamanca * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1049625293 | * **Nombre:** Jhon Freddy Díaz Salamanca * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1049625293 | Sotaquirá - Boyacá | $30.100.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2256125****
+
+**ID del contrato en SECOP:**
+
+MS-MC-025-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+28/May/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 30,100,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2256125 | Informe de selección CO1.AWD.2256125 | 20/May/2025 - 02:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256125 | Informe de evaluación 1 CO1.AWD.2256125 | 19/May/2025 - 12:02 pm |  | - |
+| Avisos | CO1.MSG.7896883 | La lista de oferentes del proceso MS-MC-025-2025 publicada por MUNICIPIO DE SACHICA | 16/May/2025 - 05:19 pm |  | - |
+| General | CO1.MSG.7891429 | RESPUESTA LIMITACION A MIPYMES | 15/May/2025 - 08:07 pm |  | - |
+| General | CO1.MSG.7891427 | RESPUESTA A OBSERVACIONES | 15/May/2025 - 08:05 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:45 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

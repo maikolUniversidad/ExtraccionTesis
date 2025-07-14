@@ -1,0 +1,314 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE COPER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682c8e485f1240.92458099
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:45:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS TECNOLÓGICOS CON DESTINO AL NORMAL FUNCIONAMIENTO DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE COPER- BOYACÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Coper
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad", "licicodigos": "104,105,109" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 2 No. 4-61 Coper Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 80,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121600 | SUMINISTRO DE ELEMENTOS DE PAPELERÍA CON DESTINO AL NORMAL FUNCIONAMIENTO DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE COPER - BOYACÁ | Selección abreviada menor cuantía | SGP | $80.000.000 | OFICINA ASESORA DE PLANEACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 09:01 am
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 09:20 am
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 09:20 am
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 09:20 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/May/2025 - 02:27 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 03:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/May/2025 - 03:30 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 03:30 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 08:30 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 08:31 am
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+29/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 11:59 am
+
+**Apertura del sobre económico:**
+
+04/Jun/2025 - 11:45 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Jun/2025 - 04:30 pm
+
+**Firma del Contrato:**
+
+06/Jun/2025 - 03:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 03:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+06/Jun/2025 - 03:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jun/2025 - 12:00 pm | 23/Oct/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jun/2025 - 12:00 pm | 23/Oct/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** LA UNIVERSAL DE INVERSIONES BOYACA SAS | Chiquinquirá - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 43,839,000
+
+**Informes proceso de selección CO1.AWD.2272911 de 05/Jun/2025 - 04:14 am. Valor $43.839.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 04:10 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:10 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 04:10 pm |  |
+| Informe de selección | 05/Jun/2025 - 04:14 pm |  |
+| Informe de selección | 05/Jun/2025 - 04:14 pm |  |
+| Informe de selección | 05/Jun/2025 - 04:14 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272911**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LA UNIVERSAL DE INVERSIONES BOYACA SAS * **Tipo documento:** NIT * **Documento:** 900695457 | * **Nombre:** KAREN YURLEY VILLAMIL PINILLA * **Tipo documento:** * **Documento:** 1053343675 | Chiquinquirá - Boyacá | $43.839.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272911****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7950489
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+23/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 43,839,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jun/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+04/Jun/2025 - 12:00 pm
+
+**Fecha fin:**
+
+04/Jun/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272911 | Informe de selección CO1.AWD.2272911 | 05/Jun/2025 - 04:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272911 | Informe de evaluación 1 CO1.AWD.2272911 | 05/Jun/2025 - 04:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266375 | Informe de evaluación 2 CO1.AWD.2266375 | 05/Jun/2025 - 10:00 am |  | - |
+| General | CO1.MSG.7985714 | ADENDA N°2 | 05/Jun/2025 - 09:49 am |  | - |
+| Avisos | CO1.REQ.8328005 | Publicación modificación | 05/Jun/2025 - 09:48 am |  |  |
+| Avisos | CO1.MSG.7984785 | Publicación de la lista de ofertas del proceso MC-SASI-002-2025 (Presentación de oferta). | 05/Jun/2025 - 07:58 am |  | - |
+| Avisos | CO1.MSG.7979066 | La lista de oferentes del proceso MC-SASI-002-2025 (Presentación de oferta) publicada por ALCALDIA MUNICIPAL DE COPER | 04/Jun/2025 - 10:56 am |  | - |
+| Reporte preliminar | CO1.AWD.2266375 | Informe de evaluación 1 CO1.AWD.2266375 | 29/May/2025 - 05:57 pm |  | - |
+| Avisos | CO1.REQ.8328005 | Publicación modificación | 28/May/2025 - 04:59 pm |  |  |
+| General | CO1.MSG.7953520 | RESPUESTA ACLARACIONES AL PLIEGO DE CONDICIONES DEFINITIVO | 28/May/2025 - 04:19 pm |  | - |
+| Avisos | CO1.REQ.8288143 | Publicación modificación | 26/May/2025 - 06:23 pm |  |  |

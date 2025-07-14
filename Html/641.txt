@@ -1,0 +1,198 @@
+Title: Licitaciones - SENA REGIONAL NORTE DE SANTANDER Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835d9efa4e3d7.06979653
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 10:22:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+54_9119_475; 54_9119_476 CONTRATAR EL SUMINISTRO DE MATERIALES DE FORMACION PARA LA LINEA DE SISTEMAS SOLARES Y SISTEMAS A MONTO AGOTABLE, POR EL SISTEMA DE PROVEEDURIA INTEGRAL DE PRECIOS UNITARIOS FIJOS, CORRESPONDIENTE A LAS DIFERENTES DEPENDENCIAS Y PROGRAMAS DEL CENTRO DE FORMACION PARA EL DESARROLLO RURAL Y MINERO CEDRUM EN LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211600 - Accesorios de computador
+
+**Códigos adicionales UNSPSC:**
+
+43211800 - Accesorios de dispositivos de entrada de datos de computador,43212000 - Accesorios de pantallas de computador,32111500 - Diodos,41111900 - Instrumentos indicadores y de registro,60104700 - Materiales de física de energía y electricidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Suministro partes de computador y/o Periféricos, -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Materiales para redes de comunicación", "licicodigos": "93,105,121,122,123,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 2N Avenida 4 y 5, Barrio Pescadero Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 08:33 am
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+27/May/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 09:00 am
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+30/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jun/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jun/2025 - 04:00 pm | 15/Abr/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/Jun/2025 - 04:00 pm | 15/Abr/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7963898 | La lista de oferentes del proceso MC-NDS-CEDRUM-0106-2025 publicada por SENA REGIONAL NORTE DE SANTANDER Grupo de Apoyo Administrativo Mixto | 30/May/2025 - 09:16 am |  | - |
+| Avisos | CO1.REQ.8322055 | Publicación modificación | 29/May/2025 - 10:19 am |  |  |
+| General | CO1.MSG.7957324 | RE: RE: Aviso de Limitación a MiPYMES | 29/May/2025 - 10:17 am |  | - |
+| General | CO1.MSG.7956732 | Aviso de Limitación a MiPYMES | 29/May/2025 - 09:04 am |  | - |

@@ -1,0 +1,306 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE IBAGUE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682dc928512035.26922201
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 15:15:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE ACCESORIOS PARA RADIOS DE COMUNICACIÓN PORTÁTILES PARA LA POLICÍA METROPOLITANA DE IBAGUÉ, DEPARTAMENTO DE POLICÍA TOLIMA Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE A LA METIB
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191600 - Partes o accesorios de dispositivos de comunicación personal
+
+**Códigos adicionales UNSPSC:**
+
+26111700 - Baterías, pilas y accesorios,52161511 - Radios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 48 SUR NO. 157 - 199, VÍA PICALEÑA, TERCER PISO Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+21/May/2025 - 07:00 am
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 07:00 am
+
+**Fecha de publicación:**
+
+21/May/2025 - 07:11 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 07:00 am
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 07:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/May/2025 - 07:00 pm | 13/Ene/2026 - 07:00 pm |
+| Pago de salarios | 5,00 | 28/May/2025 - 07:00 pm | 13/Nov/2028 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 28/May/2025 - 07:00 pm | 15/May/2026 - 07:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ALMACOM SERVICIOS Y SOLUCIONES INTEGRALES SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 64,442,070
+
+**Informes proceso de selección CO1.AWD.2262621 de 04/Jun/2025 - 07:38 am. Valor $64.442.070**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 06:42 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:42 pm |  |
+| Informe de evaluación | 28/May/2025 - 05:28 pm |  |
+| Informe de selección | 04/Jun/2025 - 07:38 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262621**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ALMACOM SERVICIOS Y SOLUCIONES INTEGRALES SAS * **Tipo documento:** NIT * **Documento:** 901009183 | * **Nombre:** ANGELICA MARIA CORREDOR * **Tipo documento:** * **Documento:** 52747162 | - Distrito Capital de Bogotá | $64.442.070 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262621****
+
+**Contrato 87-2-10035-2025 de ALMACOM SERVICIOS Y SOLUCIONES INTEGRALES SAS:**
+
+**ID del contrato en SECOP:**
+
+87-2-10035-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE ACCESORIOS PARA RADIOS DE COMUNICACIÓN PORTÁTILES PARA LA POLICÍA METROPOLITANA DE IBAGUÉ, DEPARTAMENTO DE POLICÍA TOLIMA Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE A LA METIB
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43191600 | DETOL GUTIC FUENTE DE PODER DE 25 AMP (De acuedo a lo establecido en las condiciones técnicas) | 4,00 | UN | 1.761.200,00 | 1.404.200,00 | 7.044.800,00 | 5.616.800,00 |
+| 2 | 43191600 | DETOL GUTIC BATERIA MOTOROLA PARA RADIO TELEFONO APX8000 Número de parte: PMNN4486 | 10,00 | UN | 899.640,00 | 618.800,00 | 8.996.400,00 | 6.188.000,00 |
+| 3 | 43191600 | DETOL GUTIC BATERIAS PARA REPETIDOR GTR8000 12V 90AMPH | 18,00 | UN | 1.099.560,00 | 690.200,00 | 19.792.080,00 | 12.423.600,00 |
+| 4 | 43191600 | DETOL GUTIC - METIB GUTIC - PERILLA DE VOLUMEN PARA RADIOTELÉFONO APX 8000 MOTOROLA, Número de parte: 367558B01 knob, volume | 40,00 | UN | 81.120,00 | 65.450,00 | 3.244.800,00 | 2.618.000,00 |
+| 5 | 43191600 | DETOL GUTIC - METIB GUTIC - PERILLA DE CANALES PARA RADIOTELEFONO APX 80000 MOTOROLA, Número de parte: 3675590B03 knob, frequency | 40,00 | UN | 74.970,00 | 41.650,00 | 2.998.800,00 | 1.666.000,00 |
+| 6 | 43191600 | DETOL GUTIC ANTENA PARA RADIO PORTATIL MODELO APX8000 RANGO UHF 380 A 520 MHZ, Número de parte: PMAE4065 | 20,00 | UN | 155.275,00 | 101.150,00 | 3.105.500,00 | 2.023.000,00 |
+| 7 | 43191600 | DETOL GUTIC CARCASA PARA RADIO PORTATIL MODELO APX8000 VERSION 1 Número de parte: PMLN7523A y KT000032A01 | 15,00 | UN | 689.010,00 | 416.500,00 | 10.335.150,00 | 6.247.500,00 |
+| 8 | 43191600 | DETOL GUTIC - METIB GUTIC - BELT CLIP DE SUJECION PARA RADIOTELEFONO APX8000 MOTOROLA, Número de parte: HLN6875/ 3 Hard Plastic belt clip. | 30,00 | UN | 83.202,00 | 77.350,00 | 2.496.060,00 | 2.320.500,00 |
+| 9 | 43191600 | DETOL GUTIC TOP CONTROL RADIO APX 8000, Número de parte: 1375044C06 | 4,00 | UN | 1.178.100,00 | 606.900,00 | 4.712.400,00 | 2.427.600,00 |
+| 10 | 43191600 | DETOL GUTIC PARLANTE 2KT0000A RADIO APX 8000 | 5,00 | UN | 499.800,00 | 410.550,00 | 2.499.000,00 | 2.052.750,00 |
+| 11 | 43191600 | DETOL GUTIC PROTECTOR DE PROGRAMACIÓN PARA RADIOTELEFONO APX 8000 MOTOROLA | 10,00 | UN | 83.300,00 | 47.600,00 | 833.000,00 | 476.000,00 |
+| 12 | 43191600 | METIB GUTIC BATERIA IMPRESS DE NI-MH, 2100 MAH MARCA MOTOROLA PARA RADIOTELEFONO XTS2250. | 22,00 | UN | 809.200,00 | 409.360,00 | 17.802.400,00 | 9.005.920,00 |
+| 13 | 43191600 | METIB GUTIC PROTECTOR DE PROGRAMACIÓN PARA RADIOTELÉFONO XTS2250 MOTOROLA. | 28,00 | UN | 71.400,00 | 41.650,00 | 1.999.200,00 | 1.166.200,00 |
+| 14 | 43191600 | METIB GUTIC PERILLA DE VOLUMEN PARA RADIOTELEFONO XTS2250 MOTOROLA, Número de parte: 3680529Z01 | 28,00 | UN | 29.750,00 | 17.850,00 | 833.000,00 | 499.800,00 |
+| 15 | 43191600 | METIB GUTIC PERILLA DE CANALES PARA RADIOTELEFONO XTS2250 MOTOROLA, Número de parte: 3671816101 | 28,00 | UN | 49.219,00 | 47.600,00 | 1.378.132,00 | 1.332.800,00 |
+| 16 | 43191600 | METIB GUTIC FLEX CONECTOR DE 45 PINES PARA RADIO XTS2250, Número de parte: 8416620H01 Board Flex Jumper | 10,00 | UN | 129.710,00 | 71.400,00 | 1.297.100,00 | 714.000,00 |
+| 17 | 43191600 | METIB GUTIC CARCASA PARA RADIO PORTÁTIL MODELO XTS2250 VERSIÓN 1.5, Número de parte: 1578458A01 | 28,00 | UN | 487.900,00 | 273.700,00 | 13.661.200,00 | 7.663.600,00 |
+
+**Fecha inicio del contrato:**
+
+12/Jun/2025 - 09:54 pm
+
+**Fecha de terminación del contrato:**
+
+18/Jul/2025 - 07:00 pm
+
+**Plazo de ejecución:**
+
+45 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 64,442,070
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 20. 2BS-FR-0034 ACEPTACION OFERTA ADQUISICIÓN ACCESORIO DE RADIOS 87-2-10035-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262621 | Informe de selección CO1.AWD.2262621 | 04/Jun/2025 - 07:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262621 | Informe de evaluación 2 CO1.AWD.2262621 | 28/May/2025 - 05:28 pm |  | - |
+| General | CO1.MSG.7947352 | CORRECCIÓN - MENSAJE PUBLICO DE NO LIMITACIÓN A MIPYMES PROCESO PN METIB MIC 048 2025 | 27/May/2025 - 06:04 pm |  | - |
+| General | CO1.MSG.7947275 | MENSAJE PUBLICO DE NO LIMITACIÓN A MIPYMES PROCESO PN METIB MIC 048 2025 | 27/May/2025 - 05:58 pm |  | - |
+| General | CO1.MSG.7944515 | SUBSANACION | 27/May/2025 - 02:28 pm |  | - |
+| Avisos | CO1.MSG.7940145 | Publicación de la lista de ofertas del proceso PN METIB MIC 046 2025. | 26/May/2025 - 06:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262621 | Informe de evaluación 1 CO1.AWD.2262621 | 26/May/2025 - 06:42 pm |  | - |
+| Avisos | CO1.MSG.7932506 | La lista de oferentes del proceso PN METIB MIC 046 2025 publicada por POLICIA METROPOLITANA DE IBAGUE | 23/May/2025 - 06:38 pm |  | - |
+| Avisos | CO1.REQ.8289015 | Publicación modificación | 22/May/2025 - 06:34 pm |  |  |
+| General | CO1.MSG.7925815 | MENSAJE PUBLICO DE NO LIMITACIÓN A MIPYMES PROCESO PN METIB MIC 046 2025 | 22/May/2025 - 06:26 pm |  | - |
+| Aclaraciones | CO1.MSG.7925780 | RE: OBSERVACION | 22/May/2025 - 06:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7917744 | OBSERVACION | 21/May/2025 - 04:48 pm |  | - |

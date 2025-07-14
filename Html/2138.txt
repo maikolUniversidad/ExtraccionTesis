@@ -1,0 +1,101 @@
+Title: Licitaciones - IDRD - ENTIDAD OFICIAL.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685595c7039767.00529206
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:46:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR POR EL SISTEMA DE PRECIOS UNITARIOS FIJOS EL SUMINISTRO DE REPUESTOS PARA LOS EQUIPOS DE CÓMPUTO, IMPRESORAS, HERRAMIENTAS Y ACCESORIOS DE INFORMÁTICA, TECNOLOGÍA, COMUNICACIÓN Y ALMACENAMIENTO CON DESTINO A DIFERENTES DEPENDENCIAS DEL INSTITUTO DISTRITAL DE RECREACIÓN Y DEPORTE - IDRD DE CONFORMIDAD CON LAS ESPECIFICACIONES SOLICITADAS EN LA FICHA TÉCNICA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111700 - Baterías, pilas y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+39121400 - Lengüetas de conexión, conectadores y terminales,43201400 - Tarjetas del sistema,43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43201600 - Componentes del chasis,43201800 - Dispositivos de almacenamiento,43201900 - Accesorios de dispositivos de almacenamiento,43202000 - Dispositivos de almacenamiento extraíbles,43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43222600 - Equipo de servicio de red,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax,44103100 - Suministros para impresora, fax y fotocopiadora,43211900 - Monitores y pantallas de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 63 # 59A - 06 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 12:03 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+01/Jul/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8435563 | Publicación modificación | 27/Jun/2025 - 01:18 pm |  |  |
+| Avisos | CO1.REQ.8435563 | Publicación modificación | 24/Jun/2025 - 12:17 pm |  |  |

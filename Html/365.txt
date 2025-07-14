@@ -1,0 +1,132 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE SONSON
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68531170c1a100.21951881
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:03:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+AUNAR ESFUERZOS CONJUNTOS PARA LA IMPLEMENTACIÓN DE UN BOOTCAM EN CIENCIA DE DETOS Y ANALÍTICA COMO UNA ESTRATEGIA DE APOYO PARA EL ACCESO Y PERMANENCIA EN LA EDUCACIÓN SUPERIOR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Sonson
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+86111501 - Servicios de orientación para el aprendizaje a distancia
+
+**Códigos adicionales UNSPSC:**
+
+81161501 - Servicio de administración de aplicaciones de software,43232505 - Software educacional multimedios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Capacitación en tecnologías de la información y telecomunicaciones", "licicodigos": "117,158" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 N° 6-58 Sonson Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+18/Jun/2025 - 01:21 pm
+
+**Fecha límite de presentación de ofertas:**
+
+19/Jun/2025 - 04:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+19/Jun/2025 - 04:01 pm
+
+**Fecha de Firma del Contrato:**
+
+05/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/Jul/2025 - 10:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8117399 | OBSERVACIONES INFORME DE EVALUACIÓN | 03/Jul/2025 - 08:22 pm |  | - |
+| General | CO1.MSG.8117229 | Adenda N. 01 | 03/Jul/2025 - 07:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297276 | Informe de evaluación 1 CO1.AWD.2297276 | 03/Jul/2025 - 06:19 pm |  | - |
+| General | CO1.MSG.8116903 | Adenda N. 01 | 03/Jul/2025 - 06:17 pm |  | - |
+| Avisos | CO1.REQ.8379430 | Publicación modificación | 03/Jul/2025 - 06:16 pm |  |  |
+| Avisos | CO1.MSG.8068793 | Publicación de la lista de ofertas del proceso CRE-007-2025. | 21/Jun/2025 - 09:43 am |  | - |
+| Avisos | CO1.MSG.8065605 | La lista de oferentes del proceso CRE-007-2025 publicada por ALCALDIA MUNICIPIO DE SONSON | 20/Jun/2025 - 02:10 pm |  | - |

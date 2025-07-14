@@ -1,0 +1,331 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE COCORNÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685aa9d952d6f1.94809031
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:55:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE PAPELERIA Y ELEMENTOS DE DOTACION PARA LA SECRETARIA DE SALUD Y BIENESTAR SOCIAL DEL MUNICIPIO DE COCORNÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Cocorná
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121503 - Sobres
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Papelería y elementos de oficina", "licicodigos": "115,127" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+COCORNÁ Cocorná Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121503 | SUMINISTRO DE PAPELERIA Y ELEMENTOS DE DOTACION PARA LA SECRETARIA DE SALUD Y BIENESTAR SOCIAL DEL MUNICIPIO DE COCORNÁ | Mínima cuantía | Recursos propios | $30.000.000 | ALCALDIA DE COCORNÁ |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 08:24 am
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 06:00 pm | 03/Ene/2026 - 06:00 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 06:00 pm | 01/Ene/2026 - 06:00 pm |
+| Calidad del servicio | 20,00 | 03/Jul/2025 - 06:00 pm | 01/Jul/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PAPELERIA EL CID S.A.S. | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 22,993,967
+
+**Informes proceso de selección CO1.AWD.2295246 de 04/Jul/2025 - 05:55 am. Valor $22.993.967**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 03:44 pm |  |
+| Informe de selección | 04/Jul/2025 - 05:55 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2295246**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PAPELERIA EL CID S.A.S. * **Tipo documento:** NIT * **Documento:** 800021033 | * **Nombre:** GERMAN RAMIRO RINCON OCAMPO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 71644002 | Medellín - Antioquia | $22.993.967 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2295246****
+
+**Contrato MC27-2025 de PAPELERIA EL CID S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+MC27-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE PAPELERIA Y ELEMENTOS DE DOTACION PARA LA SECRETARIA DE SALUD Y BIENESTAR SOCIAL DEL MUNICIPIO DE COCORNÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121503 | CABINA ACTIVA DE DOS VÍAS WOOFER DE 18 PULGADAS DRIVER DE 1.7 PULGADAS POTENCIA 800W RMS BI AMPLIFICADO (200W MAS 500W) AMPLIFICADOR CLASE H MAS CLASE AB RESPUESTA EN FRECUENCIA 50HZ-18KHZ (±3 DB) SPL MAX 126DB1 ENTRADA XLR Y MÓDULO USB/SD/BLUETOOTH1 SALIDA XLR ECUALIZADOR 2 BANDAS LED INDICADOR DE CLIP SELECTOR DE LINE/MIC MATERIAL DE CONSTRUCCIÓN ABS INCLUYE CABLE DE PODER MANUAL BASES PARA PONER COMO MONITOR DE PISO 110V/220V DIMENSIONES 48 COMA 8 POR 46 COMA 0 POR 70 COMA 0 CM PESO 50 KG | 1,00 | UN | 3.332.000,00 | 3.094.000,00 | 3.332.000,00 | 3.094.000,00 |
+| 2 | 44121503 | CABINA PASIVA 2 VIAS PARLANTE DE 18 PULGADA DRIVER 1COMA 7PULGADA POTENCIA 800W RMS 600 PROGRAM IMPEDANCIA 8 RESPUESTA DE FRECUENCIA MENOS 3DB 50HZ18KHZ MAX SPL ARROBA 1M 121DB 127DB PEAK ENTRADA EN SPEAKON SALIDA EN SPEAKON MATERIAL DE CONSTRUCCIÓN ABS INCLUYE MANUAL DE USO SOPORTE PARA COLOCAR COMO MONITOR DE PISO Y CABLE DE PODER ALIMENTACIÓN 110V/220V DIMENSIONES CAJA 88 POR 88 POR 79PUNTO 5CM PESO CAJA 45KG | 1,00 | UN | 1.969.450,00 | 1.785.000,00 | 1.969.450,00 | 1.785.000,00 |
+| 3 | 44121503 | BAJO ACTIVO PARLANTE DE 25 PULGADA POTENCIA 800W 3000 PICO AMPLIFICADOR CLASE H IMPEDANCIA 8 RESPUESTA DE FRECUENCIA 3DB 45HZ 250HZ SPL MAXIMO A 1 M 124DB/130DB PICO 1 ENTRADA COMBINADA 6PUNTO 35/XLR 1 SALIDA XLR ALIMENTACION 110V/220VINTERRUPTOR DE FASE MATERIAL MADERA ABEDUL 28MM INCLUYE MANUAL DE USO Y CABLE DE PODER 8DIMENSIONES CAJA 86 POR 71 X 67CM PESO CAJA 72KG | 1,00 | UN | 4.179.280,00 | 3.808.000,00 | 4.179.280,00 | 3.808.000,00 |
+| 4 | 44121503 | MEZCLADOR PIONEER DJ CONTROLADOR DJ DDJ FLX10 DE 4 PISOS. 16 ENTRADAS HÍBRIDAS (XLR O LÍNEA) 4 ENTRADAS ESTÉREO DIMENSION 15POR 8 POR 28 POR 2POR 2,9 PULGADAS DE LÍNEA ECUALIZADOR DE 4 BANDAS POR CANAL 2 PROCESADORES DE EFECTOS INDEPENDIENTE ECUALIZADOR GRÁFICO GENERAL DE 9 BANDAS CON FEEDBACK DETECTION4 SUBGRUPOS 1 SALIDA MONO. 2 AUXILIARES 1 ENTRADA Y SALIDA DE TAPE INSERT EN CANALES HÍBRIDOS | 1,00 | UN | 3.305.582,00 | 2.856.000,00 | 3.305.582,00 | 2.856.000,00 |
+| 5 | 44121503 | FORROS PARA CABINAS BETA 3 15 PULGADAS | 1,00 | UN | 263.942,00 | 261.800,00 | 263.942,00 | 261.800,00 |
+| 6 | 44121503 | KIT DE MICROFONOS INALAMBRICOS KIT DE DOS MICROFONOS INALAMBRICO DINAMICOS CARDIOIDES DE MANO FRECUENCIA UHF CANAL VARIABLE Y ANTENA DIVERSIFICADA RANGO DE FRECUENCIAS 800 990MHZ PASOS DE 250KHZ 200 CANALES SELECCIONABLES RANGO DINAMICO 200DB RESPUESTA EN FRECUENCIA 80HZ 18KHZ 3 DB RELACIÓN SENAL RUIDO >105DB DISTORSION COMBINADA <0 PUNTO 5 INCLUYE ESTUCHE PARA PROTECCION Y TRANSPORTE MICRÓFONO DE MANO CONSTRUCCION EN METAL INDICADOR LED DE FRECUENCIA Y NIVEL DE BATERIA EN EL MICRÓFONO.BATERIAS AA (INCLUIDAS) BASE RECEPTORA DISPLAY LCD CON NIVEL DE GANANCIA,FRECUENCIA DE ENLACE Y NIVEL DE BATERIA DEL MICROFONO AJUSTE DIGITAL DE GANANCIA CONSTRUCCION EN METAL 4 ANTENAS DESMONTABLES BNC | 1,00 | UN | 1.190.000,00 | 1.190.000,00 | 1.190.000,00 | 1.190.000,00 |
+| 7 | 44121503 | ALMOHADILLA HUELLLERO | 5,00 | UN | 2.975,00 | 2.737,00 | 14.875,00 | 13.685,00 |
+| 8 | 44121503 | BANDERITA POS-IT REMOVIBLE | 20,00 | UN | 2.975,00 | 2.083,00 | 59.500,00 | 41.660,00 |
+| 9 | 44121503 | BOLIGRAFO NEGRO 0.7 | 96,00 | UN | 774,00 | 607,00 | 74.304,00 | 58.272,00 |
+| 10 | 44121503 | BORRADOR NATA PZ-60 | 12,00 | UN | 595,00 | 399,00 | 7.140,00 | 4.788,00 |
+| 11 | 44121503 | CARTUCHO EPSON 544 NEGRA ORIGINAL | 10,00 | UN | 51.170,00 | 47.600,00 | 511.700,00 | 476.000,00 |
+| 12 | 44121503 | CARTUCHO EPSON 544CYAN OROGINAL | 10,00 | UN | 51.170,00 | 47.600,00 | 511.700,00 | 476.000,00 |
+| 13 | 44121503 | CARTUCHO EPSON 544 MAGENTA ORIGINAL | 10,00 | UN | 51.170,00 | 47.600,00 | 511.700,00 | 476.000,00 |
+| 14 | 44121503 | CARTUCHO EPSON 544 ORIGINAL YELLOW | 10,00 | UN | 51.170,00 | 47.600,00 | 511.700,00 | 476.000,00 |
+| 15 | 44121503 | CARTULINA BRISTOL BLANCA 70X100 | 10,00 | UN | 51.170,00 | 1.369,00 | 511.700,00 | 13.690,00 |
+| 16 | 44121503 | CARTULINA OPALINA CARTA PAQ X 100 | 5,00 | UN | 42.840,00 | 37.723,00 | 214.200,00 | 188.615,00 |
+| 17 | 44121503 | CARTULINA PLANA 50 X 70 CMS APROX COLORES SURTIDOS | 20,00 | UN | 1.190,00 | 946,00 | 23.800,00 | 18.920,00 |
+| 18 | 44121503 | CHINCHONES X 100 TRASLUCIDO | 5,00 | UN | 4.165,00 | 3.213,00 | 20.825,00 | 16.065,00 |
+| 19 | 44121503 | CINTA EMPAQUE TRANSPARENTE 48X100MTS | 5,00 | UN | 10.115,00 | 8.568,00 | 50.575,00 | 42.840,00 |
+| 20 | 44121503 | CINTA ENMASCARAR 24X40MTS | 5,00 | UN | 7.735,00 | 4.344,00 | 38.675,00 | 21.720,00 |
+| 21 | 44121503 | CLIPS STANDARD NO 1 CAJA X 100 | 10,00 | UN | 1.012,00 | 889,00 | 10.120,00 | 8.890,00 |
+| 22 | 44121503 | COSEDORA MEDIANA PARA 40 HOJA | 2,00 | UN | 12.495,00 | 10.591,00 | 24.990,00 | 21.182,00 |
+| 23 | 44121503 | COSEDORA GRANDE | 1,00 | UN | 17.231,00 | 14.112,00 | 17.231,00 | 14.112,00 |
+| 24 | 44121503 | CARPETA DOS TAPAS OFICIO CAFÉ CON REFURZO DE TELA FINA | 800,00 | UN | 4.760,00 | 1.190,00 | 3.808.000,00 | 952.000,00 |
+| 25 | 44121503 | FOMI TAMAÑO CARTA ESCARCHADO COLORES SURTIDO | 20,00 | UN | 1.547,00 | 809,00 | 30.940,00 | 16.180,00 |
+| 26 | 44121503 | FOMI COLORES SURTIDO PLIEGO 70X100 | 20,00 | UN | 5.950,00 | 5.058,00 | 119.000,00 | 101.160,00 |
+| 27 | 44121503 | GRAPA STANDARD 26-6 GALVANIZADA CAJA X 5000 | 20,00 | UN | 4.165,00 | 3.273,00 | 83.300,00 | 65.460,00 |
+| 28 | 44121503 | LAPIZ NEGRO NO 2 | 96,00 | UN | 550,00 | 365,00 | 52.800,00 | 35.040,00 |
+| 29 | 44121503 | LIBRO ACTAS 400 FOLIOS | 30,00 | UN | 34.070,00 | 32.487,00 | 1.022.100,00 | 974.610,00 |
+| 30 | 44121503 | MARCADOR BORRABLE SURTIDO RECARGABLE | 12,00 | UN | 2.975,00 | 1.785,00 | 35.700,00 | 21.420,00 |
+| 31 | 44121503 | MARCADOR PERMANENTE SURTIDO | 12,00 | UN | 2.975,00 | 1.547,00 | 35.700,00 | 18.564,00 |
+| 32 | 44121503 | PEGANTE 40 GR BARRA | 10,00 | UN | 5.355,00 | 3.570,00 | 53.550,00 | 35.700,00 |
+| 33 | 44121503 | PERFORADORA 2 HUECOS GRANDE 40 HOJAS | 3,00 | UN | 41.531,00 | 32.963,00 | 124.593,00 | 98.889,00 |
+| 34 | 44121503 | REGLA 30CMS PROFESIONAL | 5,00 | UN | 2.975,00 | 1.071,00 | 14.875,00 | 5.355,00 |
+| 35 | 44121503 | RESALTADOR SURTIDO | 20,00 | UN | 2.975,00 | 1.309,00 | 59.500,00 | 26.180,00 |
+| 36 | 44121503 | RESMA FOTOCOPIA CARTA X 75 GRAMOS | 300,00 | UN | 22.015,00 | 17.255,00 | 6.604.500,00 | 5.176.500,00 |
+| 37 | 44121503 | SOBRE MANILA CARTA 22.5X29 | 30,00 | UN | 238,00 | 156,00 | 7.140,00 | 4.680,00 |
+| 38 | 44121503 | SOBRE MANILA OFICIO 25X35 | 20,00 | UN | 298,00 | 190,00 | 5.960,00 | 3.800,00 |
+| 39 | 44121503 | TABLA LEGAJADORA PLASTICA | 5,00 | UN | 8.545,00 | 5.236,00 | 42.725,00 | 26.180,00 |
+| 40 | 44121503 | TACONOTA ADHESIVO 75X75MM MEDIANO X 100H | 20,00 | UN | 2.380,00 | 1.666,00 | 47.600,00 | 33.320,00 |
+| 41 | 44121503 | TAJALAPIZ METALICO SENCILLO ALEMAN | 10,00 | UN | 417,00 | 349,00 | 4.170,00 | 3.490,00 |
+| 42 | 44121503 | TIJERA OFICINA 8 PULGADA | 5,00 | UN | 4.998,00 | 2.856,00 | 24.990,00 | 14.280,00 |
+| 43 | 44121503 | UÑA SACAGRAPA | 8,00 | UN | 2.725,00 | 2.240,00 | 21.800,00 | 17.920,00 |
+
+**Fecha inicio del contrato:**
+
+04/Jul/2025 - 06:37 pm
+
+**Fecha de terminación del contrato:**
+
+03/Sep/2025 - 06:00 pm
+
+**Plazo de ejecución:**
+
+2 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 22,993,967
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | crp597 el cid.pdf |  |
+|  | EVALUACION FINAL.docx |  |
+|  | estudios previos.docx |  |
+|  | supervision.docx |  |
+|  | 250704180941.pdf |  |
+|  | AUTO DE APROBACION.docx |  |
+|  | POLIZA DE CUMPLIMIENTO MC27-2025.pdf |  |
+|  | INVITACION PÚBLICA.docx |  |
+|  | COMUNICACION DE OFERTA.docx |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295246 | Informe de selección CO1.AWD.2295246 | 04/Jul/2025 - 05:55 pm |  | - |
+| General | CO1.MSG.8103147 | RE: PUBLICACIÓN DE OFERTAS | 02/Jul/2025 - 07:57 am |  | - |
+| Reporte preliminar | CO1.AWD.2295246 | Informe de evaluación 1 CO1.AWD.2295246 | 01/Jul/2025 - 03:44 pm |  | - |
+| General | CO1.MSG.8091653 | SOLICITUD DE ACLARACION DE PRECIO ARTIFICIALMENTE BAJO | 27/Jun/2025 - 09:39 am |  | - |
+| Avisos | CO1.MSG.8091524 | La lista de oferentes del proceso MC27-2025 publicada por ALCALDÍA MUNICIPAL DE COCORNÁ | 27/Jun/2025 - 09:07 am |  | - |
+| General | CO1.MSG.8086546 | RESPUESTA A OBSERVACION EXTEMPORANEA | 26/Jun/2025 - 12:10 pm |  | - |
+| Avisos | CO1.REQ.8453303 | Publicación modificación | 26/Jun/2025 - 12:07 pm |  |  |
+| General | CO1.MSG.8086217 | adenda | 26/Jun/2025 - 11:35 am |  | - |
+| Avisos | CO1.REQ.8453303 | Publicación modificación | 26/Jun/2025 - 11:31 am |  |  |
+| General | CO1.MSG.8085834 | respuesta a observacion de los productos extemporanea | 26/Jun/2025 - 10:59 am |  | - |
+| General | CO1.MSG.8079681 | LIMITACION A MIPYMES DEPARTAMENTAL | 25/Jun/2025 - 01:06 pm |  | - |
+| Aclaraciones | CO1.MSG.8072422 | SOLICITUD LIMITACION MIPYME | 24/Jun/2025 - 12:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8072320 | SOLICITUD MIPYES DEPARTAMENTAL ANTIOQUIA | 24/Jun/2025 - 12:22 pm |  | - |

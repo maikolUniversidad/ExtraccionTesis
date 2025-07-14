@@ -1,0 +1,196 @@
+Title: Licitaciones - CORPORACION PRODESARROLLO Y SEGURIDAD DEL MUNICIPIO DE GIRARDOT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851a1848e0998.07945756
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 12:42:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICION DE UNOS EQUIPOS INFORMATICOS, TINTAS Y TONER PARA LAS IMPRESORAS DE LAS DEPENDENCIAS DE LA CORPORACIÓN PRODESARROLLO Y SEGURIDAD DEL MUNICIPIO DE GIRARDOT
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Girardot
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44103105 - Cartuchos de tinta,43201827 - Dispositivo de almacenamiento de disco duro portátil
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 19 N 8 - 03 Girardot Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 11:30 am
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:30 am
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:35 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 11:30 am
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 11:30 am
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 06:00 pm | 27/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 27/Jun/2025 - 06:00 pm | 27/Mar/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8060132 | ADENDA 001 MC 006-2025 | 19/Jun/2025 - 04:04 pm |  | - |
+| Avisos | CO1.REQ.8425596 | Publicación modificación | 19/Jun/2025 - 04:02 pm |  |  |

@@ -1,0 +1,284 @@
+Title: Licitaciones - INVIAS - Subasta Inversa SA-SI-SG-OTIC-001-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681549586d1f65.22881389
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:32:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN E IMPLEMENTACIÓN DE NUEVAS FUNCIONALIDADES EN CIBERSEGURIDAD Y ADQUISICIÓN DE COMPONENTES TECNOLÓGICOS PARA LA IMPLEMENTACIÓN DE SERVICIOS DE CONECTIVIDAD SD-WAN PARA EL INSTITUTO NACIONAL DE VÍAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233200 - Software de seguridad y protección,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112100 - Servicios de internet,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática, -Servicios en la nube (Cloud)", "licicodigos": "102,103,297,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 25G # 73B-90 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+02/May/2025 - 05:15 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+12/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 09:48 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+11/Jun/2025 - 06:59 am
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 04:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 04:02 pm
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 04:05 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+19/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+27/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jul/2025 - 08:00 am | 15/May/2028 - 11:59 am |
+| Pago de salarios | 5,00 | 09/Jul/2025 - 08:00 am | 15/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/Jul/2025 - 08:00 am | 15/May/2026 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 11/Jul/2025 - 08:00 am | 15/Nov/2028 - 11:59 am |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,776,622,043
+
+**Informes proceso de selección CO1.AWD.2285842 de 04/Jul/2025 - 09:40 am. Valor $1.776.622.043**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 02:20 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 02:20 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 02:20 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:58 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 03:19 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 03:19 pm |  |
+| Informe de evaluación | 01/Jul/2025 - 03:19 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 07:11 pm |  |
+| Informe de selección | 04/Jul/2025 - 09:40 pm |  |
+| Informe de selección | 04/Jul/2025 - 09:40 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+01/Jul/2025 - 11:30 am
+
+**Fecha de inicio:**
+
+01/Jul/2025 - 02:30 pm
+
+**Fecha fin:**
+
+01/Jul/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285842 | Informe de selección CO1.AWD.2285842 | 04/Jul/2025 - 09:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285842 | Informe de evaluación 5 CO1.AWD.2285842 | 04/Jul/2025 - 07:11 pm |  | - |
+| General | CO1.MSG.8118309 | Solicitud de Documento de propuesta Ajustada | 04/Jul/2025 - 09:07 am |  | - |
+| Avisos | CO1.MSG.8101815 | Publicación de la lista de ofertas del proceso SA-SI-SG-OTIC-001-2025 (Presentación de oferta). | 01/Jul/2025 - 04:05 pm |  | - |
+| Avisos | CO1.MSG.8101707 | La lista de oferentes del proceso SA-SI-SG-OTIC-001-2025 (Presentación de oferta) publicada por INVIAS | 01/Jul/2025 - 03:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285842 | Informe de evaluación 4 CO1.AWD.2285842 | 01/Jul/2025 - 03:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285842 | Informe de evaluación 3 CO1.AWD.2285842 | 27/Jun/2025 - 03:58 pm |  | - |
+| General | CO1.MSG.8087762 | Citación subasta de prueba | 26/Jun/2025 - 03:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285842 | Informe de evaluación 2 CO1.AWD.2285842 | 26/Jun/2025 - 02:20 pm |  | - |
+| General | CO1.MSG.8059112 | Designación de Comite | 19/Jun/2025 - 02:44 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285842 | Informe de evaluación 1 CO1.AWD.2285842 | 19/Jun/2025 - 02:34 pm |  | - |
+| Avisos | CO1.MSG.8031519 | Publicación de la lista de ofertas del proceso SA-SI-SG-OTIC-001-2025 (Presentación de oferta). | 13/Jun/2025 - 04:23 pm |  | - |
+| Avisos | CO1.MSG.8031302 | La lista de oferentes del proceso SA-SI-SG-OTIC-001-2025 (Presentación de oferta) publicada por INVIAS | 13/Jun/2025 - 04:05 pm |  | - |
+| General | CO1.MSG.8019213 | Respuesta a observaciones al pliego de condiciones definitivo | 11/Jun/2025 - 09:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8019196 | RE: Observaciones 9 de Junio de 2025, Observaciones pliego de condiciones Subasta Inversa SA-SI-SG-OTIC-001-2025 | 11/Jun/2025 - 08:58 pm |  | - |
+| Aclaraciones | CO1.MSG.8003673 | Observaciones 9 de Junio de 2025 | 09/Jun/2025 - 05:25 pm |  | - |
+| Aclaraciones | CO1.MSG.8001239 | Observaciones pliego de condiciones Subasta Inversa SA-SI-SG-OTIC-001-2025 | 09/Jun/2025 - 01:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7863103 | Observaciones CCD | 09/May/2025 - 09:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7862907 | observaciones GMS | 09/May/2025 - 07:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7862868 | subsanacion prepliegos GMS | 09/May/2025 - 07:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7862812 | Observaciones 9 de Mayo de 2025 | 09/May/2025 - 06:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7862808 | Observaciones | 09/May/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7861785 | Observaciones al Pliego de condiciones | 09/May/2025 - 04:39 pm |  | - |

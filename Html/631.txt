@@ -1,0 +1,240 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA SAN ANDRES, PROVIDENCIA Y SANTA CATALINA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6814c379a4f788.82190977
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 11:24:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO CORRECTIVO (CAMBIO DE ACCESORIOS Y/O REPUESTOS) DE LAS IMPRESORAS, ESCÁNERES Y COMPUTADORES DEL COMANDO DEL DEPARTAMENTO DE POLICÍA SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+San Andrés, Providencia y Santa Catalina
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+av. francisco newball calle 5b No 1-34 San Andrés San Andrés, Providencia y Santa Catalina COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+02/May/2025 - 07:54 am
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+02/May/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+05/May/2025 - 08:00 am
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+05/May/2025 - 08:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+05/May/2025 - 08:05 am
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+06/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/May/2025 - 10:05 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/May/2025 - 04:05 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 15/May/2025 - 07:00 am | 12/Mar/2026 - 11:00 pm |
+| Pago de salarios | 5,00 | 15/May/2025 - 07:00 am | 12/Sep/2028 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 15/May/2025 - 07:00 am | 12/Mar/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 06/May/2025 - 08:23 am | * **Nombre:** YOLUK | Neiva - Huila |
+| 2 | 06/May/2025 - 08:52 am | * **Nombre:** MAZU SERVICIOS INTEGRALES | Neiva - Huila |
+| 3 | 06/May/2025 - 09:09 am | * **Nombre:** LYN INGENIERIA SAS. | Neiva - Huila |
+| 4 | 06/May/2025 - 02:04 pm | * **Nombre:** SOLUTION TECHNOLOGY S.A.S | Distrito Capital de Bogotá |
+| 5 | 06/May/2025 - 02:27 pm | * **Nombre:** COMUNICACIONES KTECH | Villavicencio - Meta |
+| 6 | 06/May/2025 - 03:37 pm | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+| 7 | 06/May/2025 - 04:31 pm | * **Nombre:** SERVICIOS & SUMINISTROS CS S.A.S | Montería - Córdoba |
+| 8 | 06/May/2025 - 04:39 pm | * **Nombre:** JESUS AUGUSTO TRUJILLO RAMIREZ | Bogotá - Distrito Capital de Bogotá |
+| 9 | 06/May/2025 - 04:51 pm | * **Nombre:** COMERCIALIZADORA JARVAN PYS SAI | San Andrés - San Andrés, Providencia y Santa Catalina |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 60,000,000
+
+**Informes proceso de selección CO1.AWD.2259129 de 23/May/2025 - 05:51 am. Valor $60.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 22/May/2025 - 11:57 am |  |
+| Informe de selección | 23/May/2025 - 05:51 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2259129**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NORLY MILENA LOZADA NOCUA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 40411411 | * **Nombre:** NORLY MILENA LOZADA NOCUA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 40411411 | Villavicencio - Meta | $60.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2259129****
+
+**Cuantía a la firma del contrato:**
+
+$ 60,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2259129 | Informe de selección CO1.AWD.2259129 | 23/May/2025 - 05:51 pm |  | - |
+| Avisos | CO1.MSG.7926506 | Publicación de la lista de ofertas del proceso PN DESAP MIC 014 2025. | 22/May/2025 - 10:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2259129 | Informe de evaluación 1 CO1.AWD.2259129 | 22/May/2025 - 11:57 am |  | - |
+| Avisos | CO1.REQ.8153435 | Publicación modificación | 22/May/2025 - 10:04 am |  |  |
+| General | CO1.MSG.7911546 | SUBSANACION | 20/May/2025 - 06:24 pm |  | - |
+| General | CO1.MSG.7911524 | SUBSANACION | 20/May/2025 - 06:21 pm |  | - |
+| General | CO1.MSG.7910457 | SUBSANACION | 20/May/2025 - 06:18 pm |  | - |
+| General | CO1.MSG.7884233 | Respuesta observaciones realizadas Evaluacion Tecnica y Juridica | 14/May/2025 - 06:24 pm |  | - |
+| Avisos | CO1.REQ.8153435 | Publicación modificación | 12/May/2025 - 02:24 pm |  |  |
+| General | CO1.MSG.7866921 | RE: EVALUACION ECONOMICA Y TECNICA PARA SUBSANAR | 12/May/2025 - 01:30 pm |  | - |
+| General | CO1.MSG.7842828 | Informe de presentación de ofertas proceso PN DESAP MIC 014 2025 | 06/May/2025 - 07:44 pm |  | - |
+| Avisos | CO1.MSG.7842346 | La lista de oferentes del proceso PN DESAP MIC 014 2025 publicada por DEPARTAMENTO DE POLICIA SAN ANDRES, PROVIDENCIA Y SANTA CATALINA | 06/May/2025 - 06:14 pm |  | - |

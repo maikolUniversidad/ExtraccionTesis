@@ -1,0 +1,251 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE CHOCONTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6818efed287035.66845327
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 14:35:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO E INSTALACIÓN DE ELEMENTOS TECNOLÓGICOS, LICENCIAS OFFICE Y STREAMING, CON EL MANTENIMIENTO DE ELEMENTOS DE SONIDO Y CORRIENTE REGULADA PARA EL BUEN FUNCIONAMIENTO DEL CONCEJO MUNICIPAL DE CHOCONTÁ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Chocontá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111700 - Baterías, pilas y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+26121600 - Cables eléctricos y accesorios,39131700 - Conductos eléctricos, electroductos y cables aéreos,43211600 - Accesorios de computador,43231500 - Software funcional específico de la empresa,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,72151500 - Servicios de sistemas eléctricos,72154000 - Servicios de edificios especializados y comercios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores", "licicodigos": "103,104,105,454" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 5 NO 5-19 Chocontá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 26111700, 26121600, 39131700, 43211600, 43231500, 45111700, 45111800, 72151500, 72154000 | SUMINISTRO E INSTALACIÓN DE ELEMENTOS TECNOLÓGICOS, LICENCIAS OFFICE Y STREAMING, CON EL MANTENIMIENTO DE ELEMENTOS DE SONIDO Y CORRIENTE REGULADA PARA EL BUEN FUNCIONAMIENTO DEL CONCEJO MUNICIPAL DE CHOCONTÁ | Mínima cuantía | Recursos propios | $26.000.000 | MILTON STEVEN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 11:56 am
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+07/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+07/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+08/May/2025 - 11:30 am
+
+**Apertura de sobres:**
+
+08/May/2025 - 05:00 pm
+
+**Informe de presentación de ofertas:**
+
+09/May/2025 - 11:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 07/May/2025 - 05:42 pm | * **Nombre:** CORBAN SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 26,091,096
+
+**Informes proceso de selección CO1.AWD.2253110 de 19/May/2025 - 12:24 pm. Valor $26.091.096**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 15/May/2025 - 05:24 pm |  |
+| Informe de selección | 19/May/2025 - 12:24 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2253110**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CORBAN COMPUTADORES SAS * **Tipo documento:** NIT * **Documento:** 900496013 | * **Nombre:** Jonatan Rojas Muñoz * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80177093 | Bogotá - Distrito Capital de Bogotá | $26.091.096 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2253110****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7891818
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+20/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 26,091,096
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2253110 | Informe de selección CO1.AWD.2253110 | 19/May/2025 - 12:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2253110 | Informe de evaluación 1 CO1.AWD.2253110 | 15/May/2025 - 05:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2253008 | Informe de evaluación 1 CO1.AWD.2253008 | 15/May/2025 - 05:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247285 | Informe de evaluación 1 CO1.AWD.2247285 | 09/May/2025 - 05:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247585 | Informe de evaluación 1 CO1.AWD.2247585 | 09/May/2025 - 05:38 pm |  | - |
+| Avisos | CO1.MSG.7862214 | Publicación de la lista de ofertas del proceso cm-002-2025. | 09/May/2025 - 05:16 pm |  | - |
+| Avisos | CO1.MSG.7855742 | La lista de oferentes del proceso cm-002-2025 publicada por CONCEJO MUNICIPAL DE CHOCONTA | 08/May/2025 - 05:12 pm |  | - |
+| General | CO1.MSG.7848932 | RESPUESTA OBSERVACIONES | 07/May/2025 - 06:02 pm |  | - |
+| Avisos | CO1.REQ.8202592 | Publicación modificación | 07/May/2025 - 05:05 pm |  |  |
+| Avisos | CO1.REQ.8202592 | Publicación modificación | 05/May/2025 - 05:24 pm |  |  |

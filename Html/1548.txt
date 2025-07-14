@@ -1,0 +1,199 @@
+Title: Licitaciones - Jardín Botánico José Celestino Mutis
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683640b4ada0d6.25219480
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-03 09:11:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+140-03-8100- PRESTACIÓN SERVICIOS DE FACTURACIÓN Y POS ELECTRÓNICA EN LINEA, PARA LOS PUNTOS DE VENTA DE LA TAQUILLA Y LA OPERACIÓN DE INGRESOS DEL JARDÍN BOTÁNICO JOSÉ CELESTINO MUTIS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+84111506 - Servicios de facturación
+
+**Códigos adicionales UNSPSC:**
+
+43232611 - Software de puntos de venta pos,43232600 - Software específico para la industria,84111500 - Servicios contables
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Lectura y facturación, -Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "92,103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Avenida Calle 63 # 68 -95 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 84111506, 43232611 | 140-03-8100- PRESTACIÓN SERVICIOS DE FACTURACIÓN Y POS ELECTRÓNICA EN LINEA, PARA LOS PUNTOS DE VENTA DE LA TAQUILLA Y LA OPERACIÓN DE INGRESOS DEL JARDÍN BOTÁNICO JOSÉ CELESTINO MUTIS. | Mínima cuantía | Recursos propios | $10.000.000 | DIRECCION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 05:11 pm
+
+**Publicación de estudios previos:**
+
+28/May/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+28/May/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+03/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/Jun/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+05/Jun/2025 - 03:01 pm
+
+**Informe de presentación de ofertas:**
+
+05/Jun/2025 - 03:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/Jun/2025 - 06:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+10/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 12:00 am | 31/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 06/Jun/2025 - 12:00 am | 31/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8327364 | Publicación modificación | 30/May/2025 - 06:30 pm |  |  |

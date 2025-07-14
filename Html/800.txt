@@ -1,0 +1,204 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE LETICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685226fe4f3425.49385069
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 14:55:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATO DE SERVICIO DE INTERNET BANDA ANCHA POR MEDIO DE FIBRA ÓPTICA Y/O SATELITAL COMO RESPALDO PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL; Y ACCESO A INTERNET FUERA DE LAS INSTALACIONES PARA CUMPLIR CON LA MISIONALIDAD DE LA INSTITUCIÓN EN LA CIUDAD DE LETICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Códigos adicionales UNSPSC:**
+
+81111811 - Servicios de soporte técnico o de mesa de ayuda,83121703 - Servicios relacionados con el internet,43232705 - Software de navegador de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 10 # 10- 47 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 83121703, 43232705, 81112100, 81112101 | LINEA 45 - CONTRATO DE SERVICIO DE INTERNET FIBRA OPTICA CON CANAL DEDICADO COMO RESPALDO PARA LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL | Selección abreviada menor cuantía | Recursos propios | $50.000.000 | Oficina Asesora Juridica Alcaldia de Leticia |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 09:24 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,600,000
+
+**Informes proceso de selección CO1.AWD.2291816 de 27/Jun/2025 - 06:18 am. Valor $39.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:57 pm |  |
+| Informe de selección | 27/Jun/2025 - 06:18 pm |  |
+| Informe de selección | 27/Jun/2025 - 06:18 pm |  |
+| Informe de selección | 27/Jun/2025 - 06:18 pm |  |
+| Informe de selección | 27/Jun/2025 - 06:18 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2291816 | Informe de selección CO1.AWD.2291816 | 27/Jun/2025 - 06:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291816 | Informe de evaluación 1 CO1.AWD.2291816 | 25/Jun/2025 - 08:57 pm |  | - |

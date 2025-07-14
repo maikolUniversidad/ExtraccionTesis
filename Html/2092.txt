@@ -1,0 +1,99 @@
+Title: Licitaciones - CANAL CAPITAL - Solicitud de información a los Proveedores (SECOPII) SIP-038-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68546d38880cd1.62298508
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:54:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir a título de compraventa un switcher (conmutador) de vídeo de conformidad con las especificaciones técnicas contenidas en el anexo técnico.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161540 - Mezcladores de video
+
+**Códigos adicionales UNSPSC:**
+
+83121701 - Servicios relacionados con la televisión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación", "licicodigos": "438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av EL DORADO No 66 63 PISO 5 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 02:44 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8081098 | RE: Contestación a solicitudes de aclaración allegadas al SIP-038-2025 | 25/Jun/2025 - 03:48 pm |  | - |
+| Aclaraciones | CO1.MSG.8074645 | Observaciones 1 | 24/Jun/2025 - 04:41 pm |  | - |
+| Aclaraciones | CO1.MSG.8066093 | Solicitud de aclaración cantidades/specs | 20/Jun/2025 - 03:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8062937 | Aclaración sobre cantidad y características de los switchers requeridos | 20/Jun/2025 - 09:03 am |  | - |

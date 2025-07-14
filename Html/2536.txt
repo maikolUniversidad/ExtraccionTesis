@@ -1,0 +1,96 @@
+Title: Licitaciones - IGAC Sede Central *
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cb6c4283408.91368348
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:35:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de software para el procesamiento de imágenes de sensores oblicuos para la generación de productos de cartografía y gemelos digitales
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41106604 - Despliegue de mapas o secuencias vectoriales
+
+**Códigos adicionales UNSPSC:**
+
+43233506 - Software de creación de mapas,43232311 - Software de manejo de base de datos orientada al objeto,81111501 - Diseño de aplicaciones de software de la unidad central
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No.48-51 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 12:04 pm
+
+**Plazo para solicitar aclaraciones:**
+
+22/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8289854 | Publicación modificación | 20/May/2025 - 01:37 pm |  |  |

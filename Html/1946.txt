@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL CUNDINAMARCA Grupo Administrativo CDAE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849f6f15dddc0.72756764
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:52:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+25_9509_101 Compraventa de materiales de formación para la red de conocimiento Informática diseño y desarrollo de software en el marco del programa de formación del CDAE- Regional Cundinamarca
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Villeta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31211904 - Brochas
+
+**Códigos adicionales UNSPSC:**
+
+13111303 - Espumas de silicona,15121905 - Grasa térmica,23241616 - Cortador de cable o alambre,23301501 - Equipo para cortado de cable y alambre y ensamble de terminales,26121609 - Cable de redes,39121311 - Accesorios eléctricos,39121462 - Conector de telecomunicaciones,39121632 - Protector de redes,41113630 - Multímetros,43222643 - Probador de cable de red,43223343 - Herramienta de “punchdown” de red,46182101 - Muñequeras antiestáticas,47131501 - Trapos,47131813 - Limpiador de pantallas,47131825 - Limpiadores de superficie de contacto,27111801 - Cintas métricas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para obras eléctricas en general, -Herramientas manuales, -Básculas, instrumentos de medida, observación y ensayo, -Materiales para redes de comunicación", "licicodigos": "105,121,123,272,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 2 No. 13 - 03 Barrio San Rafael Villeta Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:20 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/Jun/2025 - 11:59 pm

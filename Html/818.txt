@@ -1,0 +1,262 @@
+Title: Licitaciones - TECNOLÓGICO DE ARTES DEBORA ARANGO INSTITUCIÓN REDEFINIDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807b7a81e8cb7.46319588
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro en modalidad de monto agotable de insumos y materiales para la ambientación y escenografía del Proyecto Pedagógico Integrador (PPI) del Tecnológico de Artes Débora Arango Institución Redefinida
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31161507 - Tornillos roscadores
+
+**Códigos adicionales UNSPSC:**
+
+31161509 - Tornillos para drywall,31161506 - Tornillos para lámina metálica,31162004 - Clavos de mampostería,44121708 - Marcadores,31211904 - Brochas,31211906 - Rodillos de pintar,60121229 - Pinceles especializados,31201503 - Cinta de enmascarar,60131506 - Accesorios para instrumentos de cuerda,60131507 - Accesorio para instrumentos de percusión,60131509 - Boquillas,11122005 - Madera laminada engomada,11122006 - Madera tratada,60121813 - Tintas para serigrafía,60121804 - Tintas para textiles a base de agua,31211502 - Pinturas de agua
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Ferretería y materiales para la construcción de obras civiles, -Calzado y/o vestido de labor o deportivo (Diseño y/o confección), -Electrónica - Robótica", "licicodigos": "105,115,122,124,212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+15 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 39 Sur # 39 08 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 31161507, 31161509, 31161506, 31162004, 44121708, 31211904, 31211906, 60121229, 31201503, 60131506, 60131507, 60131509, 11122005, 11122006, 60121813, 60121804, 31211502 | Suministro en modalidad de monto agotable de implementos y materiales lúdico-pedagógicos para los proyectos internos Institucionales suscritos por el Tecnológico de Artes Débora Arango Institución Redefinida | Mínima cuantía | Recursos propios | $39.000.000 | OFICINA ASESORA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 10:20 am
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 10:23 am
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 10:23 am
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 01:00 pm
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 03:01 pm
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/Abr/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INVERSIONES FEDESQUINA S.A.S. | Envigado - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,000,000
+
+**Informes proceso de selección CO1.AWD.2234852 de 30/Abr/2025 - 02:05 am. Valor $39.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Abr/2025 - 02:54 pm |  |
+| Informe de evaluación | 28/Abr/2025 - 03:18 pm |  |
+| Informe de selección | 30/Abr/2025 - 02:05 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2234852**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INVERSIONES FEDESQUINA S.A.S. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 901250356 | * **Nombre:** CARLOS FERNANDO DE LA TORRE GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 8309055 | Envigado - Antioquia | $39.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2234852****
+
+**Contrato CMC 16-2025 de INVERSIONES FEDESQUINA S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CMC 16-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+Suministro en modalidad de monto agotable de insumos y materiales para la ambientación y escenografía del Proyecto Pedagógico Integrador (PPI) del Tecnológico de Artes Débora Arango Institución Redefinida
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 31161507 | Suministro en modalidad de monto agotable de insumos y materiales para la ambientación y escenografía del Proyecto Pedagógico Integrador (PPI) del Tecnológico de Artes Débora Arango Institución Redefinida | 1,00 | UN | 39.000.000,00 | 39.000.000,00 | 39.000.000,00 | 39.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+30/Abr/2025 - 03:15 pm
+
+**Fecha de terminación del contrato:**
+
+30/Ago/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+4 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 39,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION DE LA OFERTA.pdf |  |
+|  | RP.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACTA DE INICIO.pdf |  |
+|  | DESIGNACION DE SUPERVISOR.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2234852 | Informe de selección CO1.AWD.2234852 | 30/Abr/2025 - 02:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2234852 | Informe de evaluación 2 CO1.AWD.2234852 | 28/Abr/2025 - 03:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2234852 | Informe de evaluación 1 CO1.AWD.2234852 | 25/Abr/2025 - 02:54 pm |  | - |

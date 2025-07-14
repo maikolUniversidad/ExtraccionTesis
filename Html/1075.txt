@@ -1,0 +1,183 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE MORALES CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835d7faa6c103.04892690
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 10:21:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE INTERNET DE ALTA VELOCIDAD EN FIBRA ÓPTICA Y SERVICIOS DE WIFI PARA: EL CENTRO ADMINISTRATIVO MUNICIPAL, CASA DE LA CULTURA, BIBLIOTECA MUNICIPAL, SACUDETE, PARQUE LOS FUNDADORE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Morales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CENTRO MORALES Morales Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101 | EL CONTRATISTA SE OBLIGA PARA CON EL MUNICIPIO A PRESTAR EL SERVICIOS DE INTERNET DE ALTA VELOCIDAD EN FIBRA OPTICA Y SERVICOS DE WIFI PARA: EL CENTRO ADMINISTRATIVO MUNICIPAL, CASA DE LA CULTURA, BIBLIOTECA MUNICIPAL, SACÚDETE, PARQUE LOS FUNDADORES, COLISEO MUNICIPAL Y LA ESTACIÓN DEL FERROCARRIL | Mínima cuantía | Recursos propios | $29.000.000 | SECRETARIA DE TALENTO HUMANO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 08:17 am
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+27/May/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 10:30 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+29/May/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jun/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 04/Jun/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7949832 | AVISO DECRETO 1860 | 28/May/2025 - 10:17 am |  | - |

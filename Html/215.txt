@@ -1,0 +1,437 @@
+Title: Licitaciones - MUNICIPIO DE RIONEGRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fbf6ead0d93.57344732
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE RIONEGRO - Subasta Inversa SA 004 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-09 06:39:04
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE ELEMENTOS DE ASEO, CAFETERÍA, PAPELERÍA E IMPLEMENTOS DE OFICINA PARA EL FUNCIONAMIENTO DE LA ADMINISTRACIÓN MUNICIPAL DE RIONEGRO - ANTIOQUIA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Rionegro
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44121716 - Resaltadores
+
+**Códigos adicionales UNSPSC:**
+44121804 - Borradores,44121902 - Repuestos de minas,44121708 - Marcadores,44121701 - Bolígrafos,44122003 - Carpetas,60121702 - Almohadilla para sellos de estampación de caucho,30266501 - Banda de caucho
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artículos de cafetería y víveres, -Artículos de aseo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,186,260,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CALLE 49 N 50-05 Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 400,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 06:45 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+29/May/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 05:53 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+06/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+10/Jun/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 11:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+12/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+26/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+27/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 10:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 26/Jun/2025 - 10:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 10:00 am | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 2 | - | * **Nombre:** VIBE DISTRIBUCIONES S.A.S | Rionegro - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 400,000,000
+
+**Informes proceso de selección CO1.AWD.2279273 de 01/Jul/2025 - 10:28 am. Valor $400.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/Jun/2025 - 05:01 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 05:01 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 05:21 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 05:21 pm |  |
+| Informe de selección | 01/Jul/2025 - 10:28 am |  |
+
+**Cuantia del contrato:**
+
+$ 400,000,000
+
+**Informes proceso de selección CO1.AWD.2295208 de 01/Jul/2025 - 10:11 am. Valor $400.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 09:58 am |  |
+| Informe de evaluación | 01/Jul/2025 - 09:58 am |  |
+| Informe de selección | 01/Jul/2025 - 10:11 am |  |
+| Informe de selección | 01/Jul/2025 - 10:11 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2279273**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** VIBE DISTRIBUCIONES SAS * **Tipo documento:** NIT * **Documento:** 901242336 | * **Nombre:** JEFERSON ANDRES VILLADA BEDOYA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1001440542 | Rionegro - Antioquia | $400.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2279273****
+
+**Contrato 10.09.00-21.15-006-2025 de VIBE DISTRIBUCIONES SAS:**
+
+**ID del contrato en SECOP:**
+
+10.09.00-21.15-006-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE ELEMENTOS DE ASEO, CAFETERÍA, PAPELERÍA E IMPLEMENTOS DE OFICINA PARA EL FUNCIONAMIENTO DE LA ADMINISTRACIÓN MUNICIPAL DE RIONEGRO - ANTIOQUIA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121716 | VALOR TOTAL DEL PROCESO | 1,00 | UN | 400.000.000,00 | 400.000.000,00 | 400.000.000,00 | 400.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+04/Jul/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+6 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 400,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 10-09-00-21-15-006-2025 ANEXO MINUTA.pdf |  |
+|  | 10-09-00-21-15-006-2025 ESTUDIOS PREVIOS.pdf |  |
+|  | 10-09-00-21-15-006-2025 ESTUDIOS DEL SECTOR.pdf |  |
+|  | 10-09-00-21-15-006-2025 MATRIZ RIESGOS.pdf |  |
+|  | 10-09-00-21-15-006-2025 CDP-719.pdf |  |
+|  | 10-09-00-21-15-006-2025 CERTIFICADO COMITE.pdf |  |
+|  | RESOLUCION ADJUDICACION 516 2025 SA 004 2025.pdf |  |
+|  | DOCUMENTOS CONTRATISTA.zip |  |
+|  | OFERTA AJUSTADA.zip |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 10.09.00-21.15-006-2025 ACTA DE INICIO.pdf |  |
+|  | 10.09.00-21.15-006-2025 CRP.pdf |  |
+|  | 10.09.00-21.15-006-2025 DESIGNACION DE SUPERVISION.pdf |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+20/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+20/Jun/2025 - 02:30 pm
+
+**Fecha fin:**
+20/Jun/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2279273 | Informe de selección CO1.AWD.2279273 | 01/Jul/2025 - 10:28 am |  | - |
+| General | CO1.MSG.8099025 | RESOLUCION DE ADJUDICACION SA 004 2025 | 01/Jul/2025 - 10:23 am |  | - |
+| Reporte final | CO1.AWD.2295208 | Informe de selección CO1.AWD.2295208 | 01/Jul/2025 - 10:11 am |  | - |
+| Reporte preliminar | CO1.AWD.2295208 | Informe de evaluación 1 CO1.AWD.2295208 | 01/Jul/2025 - 09:58 am |  | - |
+| General | CO1.MSG.8075504 | REQUERIMIENTO VIBE DISTRIBUCIONES SAS | 24/Jun/2025 - 05:47 pm |  | - |
+| General | CO1.MSG.8074390 | INFORME DE LA SUBASTA DEL 24 DE JUNIO DE 2025 - SA 004-2025 | 24/Jun/2025 - 04:22 pm |  | - |
+| General | CO1.MSG.8068246 | ADENDA No 01 con la modificación de la fecha de la subasta y las pautas a tener en cuenta para la subasta | 20/Jun/2025 - 06:42 pm |  | - |
+| Avisos | CO1.REQ.8365437 | Publicación modificación | 20/Jun/2025 - 06:39 pm |  |  |
+| General | CO1.MSG.8066739 | ERROR EN LA SUBASTA INVERSA | 20/Jun/2025 - 04:53 pm |  | - |
+| General | CO1.MSG.8065934 | SUSPENSIÓN SUBASTA - SE REANUDARÁ A LAS 3:00PM | 20/Jun/2025 - 02:46 pm |  | - |
+| Avisos | CO1.MSG.8065884 | Publicación de la lista de ofertas del proceso SA 004 2025 (Presentación de oferta). | 20/Jun/2025 - 02:39 pm |  | - |
+| Avisos | CO1.MSG.8065879 | La lista de oferentes del proceso SA 004 2025 (Presentación de oferta) publicada por MUNICIPIO DE RIONEGRO | 20/Jun/2025 - 02:38 pm |  | - |
+| General | CO1.MSG.8065770 | SUBASTA INVERSA | 20/Jun/2025 - 02:28 pm |  | - |
+| General | CO1.MSG.8065517 | INFORME APERTURA DE SOBRE ECONÓMICO - RESPUESTA OBSERVACIONES | 20/Jun/2025 - 01:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2279273 | Informe de evaluación 2 CO1.AWD.2279273 | 19/Jun/2025 - 05:21 pm |  | - |
+| Avisos | CO1.MSG.8025306 | Publicación de la lista de ofertas del proceso SA 004 2025 (Presentación de oferta). | 12/Jun/2025 - 05:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2279273 | Informe de evaluación 1 CO1.AWD.2279273 | 12/Jun/2025 - 05:01 pm |  | - |
+| Avisos | CO1.MSG.8008111 | La lista de oferentes del proceso SA 004 2025 (Presentación de oferta) publicada por MUNICIPIO DE RIONEGRO | 10/Jun/2025 - 01:20 pm |  | - |
+| General | CO1.MSG.8006146 | RE: Observaciones Pre-pliego de condiciones | 10/Jun/2025 - 09:34 am |  | - |
+| General | CO1.MSG.8000688 | RE: solicitud formatos editables | 09/Jun/2025 - 11:48 am |  | - |
+| General | CO1.MSG.8000476 | RE: observaciones | 09/Jun/2025 - 11:40 am |  | - |
+| General | CO1.MSG.7996868 | RE: SOLICITUD DE LIMITACIÓN | 06/Jun/2025 - 06:03 pm |  | - |
+| General | CO1.MSG.7975447 | Respuesta observaciones Proyecto de Pliego y Limitación a Mipyme Departamental | 03/Jun/2025 - 05:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7975319 | Respuesta Observaciones Proyecto de Pliegos - Limitación a Mipymes Departamental | 03/Jun/2025 - 05:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7960193 | OBSERVACIONES PROYECTO DE PLIEGO | 29/May/2025 - 03:28 pm |  | - |
+| Aclaraciones | CO1.MSG.7957624 | Limitación a mipynes municipal rionegro | 29/May/2025 - 10:28 am |  | - |
+| Aclaraciones | CO1.MSG.7952185 | OBSERVACION | 28/May/2025 - 02:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7951617 | TITÁN SUMINISTROS SAS - SOLICITUD DE LIMITACIÓN A MYPIMES | 28/May/2025 - 01:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7942147 | OBSERVACION A LOS ROLOS | 27/May/2025 - 09:51 am |  | - |
+| Aclaraciones | CO1.MSG.7938846 | LIMITACION MIPYMES NACIONALES | 26/May/2025 - 04:46 pm |  | - |
+
+Ver más
+
+×Close
+
+#### Mis notas
+
+Hoy 9:17 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

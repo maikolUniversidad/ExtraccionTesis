@@ -1,0 +1,96 @@
+Title: Licitaciones - DEPARTAMENTO DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827a9542f17c9.10343961
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 21:22:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SOLICITUD DE COTIZACIÓN ESTUDIO DE FACTIBILIDAD, PARA EL COBRO DE LA CONTRIBUCIÓN DE VALORIZACIÓN PARA FINANCIAR PARCIALMENTE EL PROYECTO ANILLO VIAL EXTERNO METROPOLITANO - AVEM EN DOBLE CALZADA EN EL DEPARTAMENTO DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Códigos adicionales UNSPSC:**
+
+80101500 - Servicios de consultoría de negocios y administración corporativa,80111600 - Servicios de personal temporal,81101500 - Ingeniería civil y arquitectura,81121500 - Análisis económico,93142009 - Servicios de administración o gestión de proyectos o programas urbanos,93142100 - Desarrollo regional
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software, -Avalúo de bienes muebles e inmuebles, -Asesoría - consultoría jurídica, -Fotografía satelital aérea, georeferenciación, cartografía y SIG, -Interventoria - Consultoria - Estudios en transporte y movilidad", "licicodigos": "107,171,246,258,464" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cl. 37 #10-30 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,000,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 04:05 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2025 - 11:59 pm

@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO GRAN COLOMBIA CENTRO EDUCATIDO DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bd5922d3768.75760859
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-25 13:34:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+La compra de la actualización del aplicativo presupuestal, financiero y de tesorería Esparta 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 22 D Este #11-26 sur Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300 | Actualizacion programa financiero y de tesoreria | Contratación régimen especial - Régimen especial | Presupuesto de entidad nacional | $350.000 | Colegio Gran Colombia CED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 11:44 am
+
+**Fecha de Firma del Contrato:**
+
+07/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+07/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+10/May/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

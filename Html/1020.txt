@@ -1,0 +1,194 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DE SUCRE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b293ab74724.30995700
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 10:48:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DEL ANTIVIRUS KASPERSKY NEXT EDR FOUNDATIONS POR UN (1) AÑO A PARTIR DE LA FECHA DE ACTIVACIÓN, INCLUYENDO EL SERVICIO DE IMPLEMENTACIÓN EN SITIO Y LA CAPACITACIÓN AL PERSONAL TÉCNICO, CON EL FIN DE FORTALECER LA SEGURIDAD INFORMÁTICA Y OPTIMIZAR LA GESTIÓN TECNOLÓGICA DE LA CORPORACIÓN AUTÓNOMA REGIONAL DE SUCRE CARSUCRE..
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Sincelejo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Códigos adicionales UNSPSC:**
+
+81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 25 # 25 - 101 Sincelejo Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 05:38 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 05:40 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 05:40 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 05:40 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 05:40 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 11:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 11:20 am
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 11:20 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 11:25 am
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 11:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 23,500,000
+
+**Informes proceso de selección CO1.AWD.2295145 de 08/Jul/2025 - 03:39 am. Valor $23.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 03:58 pm |  |
+| Informe de selección | 08/Jul/2025 - 03:39 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295145 | Informe de selección CO1.AWD.2295145 | 08/Jul/2025 - 03:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2295145 | Informe de evaluación 1 CO1.AWD.2295145 | 01/Jul/2025 - 03:58 pm |  | - |
+| Avisos | CO1.MSG.8092810 | La lista de oferentes del proceso MC-018-2025 publicada por CORPORACION AUTONOMA REGIONAL DE SUCRE | 27/Jun/2025 - 11:29 am |  | - |
+| General | CO1.MSG.8085880 | RESPUESTA A OBSERVACIONES | 26/Jun/2025 - 11:00 am |  | - |
+| General | CO1.MSG.8085864 | RE: RESPUESTA A OBSERVACIONES | 26/Jun/2025 - 10:59 am |  | - |
+| Avisos | CO1.REQ.8461115 | Publicación modificación | 26/Jun/2025 - 10:56 am |  |  |

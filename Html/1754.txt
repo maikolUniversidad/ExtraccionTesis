@@ -1,0 +1,82 @@
+Title: Licitaciones - FONDO ADAPTACIÓN - Solicitud de información a los Proveedores (SECOPII) EC-015-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b13c5201ff1.28442855
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 16:08:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir 22 certificados de firma digital (Token) para el registro de operaciones en el SIIF Nación por parte del Fondo Adaptación y un certificado de firma electrónica para factura electrónica.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233201 - Software de servidor de autenticación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 # 57-83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 04:03 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+07/Jul/2025 - 11:59 pm

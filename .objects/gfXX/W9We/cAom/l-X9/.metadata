@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Descargar todos los doc…",
+  "Type": "Element",
+  "Id": "l-X9pKCe0ESBNhb2w6s4Hw",
+  "Reference": "qCejIrBFe0qRQF-PnoPYfQ/l-X9pKCe0ESBNhb2w6s4Hw",
+  "ParentRef": "qCejIrBFe0qRQF-PnoPYfQ/cAom9sKM9ky0YaaJ5B9gJA",
+  "Created": "2025-07-13T05:26:52.0278734Z",
+  "Updated": "2025-07-13T05:26:52.0278734Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

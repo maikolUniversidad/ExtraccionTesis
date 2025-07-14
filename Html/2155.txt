@@ -1,0 +1,114 @@
+Title: Licitaciones - SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR OCCIDENTE ESE.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855dc8d344617.53820320
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:44:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÒN DE DOS SISTEMAS DE ALMACENAMIENTO EN RED- NAS (NETWORK ATTACHED STORAGE) PARA LA SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR OCCIDENTE E.S.E.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43211800 - Accesorios de dispositivos de entrada de datos de computador,71151100 - Servicios de gerencia de datos del campo petrolífero
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Servicios en la nube (Cloud), -Servidores (Suministro y alquiler)", "licicodigos": "102,437,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 9 No. 39 - 46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 43,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800, 43211800, 71151100 | ADQUISICIÓN DE SISTEMAS DE ALMACENAMIENTO EN RED-NAS (NETWORK ATTACHED STORAGE) PARA LA SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR OCCIDENTE E.S.E. | Contratación directa (con ofertas) | Recursos propios | $43.000.000 | CONTRATACION SUR OCCIDENTE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 05:03 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8120279 | RE: Observaciones Estudio de mercado | 04/Jul/2025 - 12:20 pm |  | - |

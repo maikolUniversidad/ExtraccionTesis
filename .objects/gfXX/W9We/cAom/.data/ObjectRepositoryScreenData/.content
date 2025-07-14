@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="opsAEf2EdEeg62Q7Fsgd3w" Reference="qCejIrBFe0qRQF-PnoPYfQ/cAom9sKM9ky0YaaJ5B9gJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 3858, 2118" BrowserType="Edge" ContentHash="rrX20G3rp0WAz8hm_r0Azg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJNSURBVDhPlZRZqE5hFIYf85BZCuVISVLKUApRSLmgRJJcmDtIyiwzSYZcGDJlCL0UkUJJoeT2jRyuEFcuDBniRkTrWH/+s/9z+F2s+vb+3u/Z61trvRtk/hEDkXchP0T+ivwe+Q7yUuSuFfqKF3+iNfIO5E/IP5G/I79F/pDPEU+Rp1cD7IJ8Ow89QZ6P3BO5A3In5KHIh5B/pGbT34DNkW+k8CByC+RuyHOR1yGvR56Y2sHIz1K7qCngwhScyufJyMeRdyOvRV6MfAV5M3LfjHfIH+vXBVib/OIb5PbIU5CPIm9E7oi8DLkX8qiEn0Vuhzwvk9heBI7IjT3IbRMU0OvIJzPTncjnkC8hj0NekmWJLB8XgVGnAI5HHok8BrlfHpyQmfVG3oB8Js+sRG6FfBP5SxEYsxXAQchTkbcg78v6rUFelTVbgHwt9dHt6P4J5G9F4JwEjkYeizwbeVICItP9yHuzo4ezy9uQWyJfrR/8AnB42Vx1zusEPK63OmczmhR1PI88AHl5nn2NXFcERi3qkF8gN8uans4souu1yP0z+yjHZeTuOVqNdjkiDsVm2C6eZyEfQ16RNZuWHQ/gkHROJBAWrSnCapBd5tW4cryPWm1FPoJ8IGsYGfdAvp/aMEQDpwQszF6CleJWXjFmraQNr0e2YYDQxLz+3stFnyZgd5E/5zqs9Rz5Vdn+S+QZDW6JPAz5USOwkpfjLxP+vYD8APleOmZmzl/5LeuBF5uARZcbiquJLG50rQSLdaWw2shF/ANjplQh+M/4BUFp0RBdb/iqAAAAAElFTkSuQmCC" Reference="qCejIrBFe0qRQF-PnoPYfQ/cAom9sKM9ky0YaaJ5B9gJA" Selector="&lt;html app='msedge.exe' title='Licitaciones - Contratos' /&gt;" Url="https://col.licitaciones.info/*" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="69882635fcd8d8217a568c0460689eb5.jpg" xmlns="">07o-vkNIFNEWXVndOeJnRdw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

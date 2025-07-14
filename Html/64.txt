@@ -1,0 +1,230 @@
+Title: Licitaciones - Instituto Departamental de Transito y Transporte del Meta
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685331462729b6.66468201
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:02:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR SERVICIOS PROFESIONALES Y DE APOYO A LA GESTION PARA IMPLEMENTAR UNA CAMPAÑA DE SEGURIDAD VIAL EN EL DEPARTAMENTO DEL META EN LOS MUNICIPIOS DE CUMARAL, BARRANCA DE UPÍA, CABUYARO, GUAMAL, SAN CARLOS DE GUAROA, VISTA HERMOSA, SAN JUANITO, EL CALVARIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta: Restrepo ; Meta: Cumaral ; Meta: Barranca de Upía ; Meta: Cabuyaro ; Magdalena: Guamal ; Meta: San Carlos de Guaroa ; Meta: Vistahermosa ; Meta: San Juanito ; Meta: El Calvario
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+86101709 - Servicios de capacitación en seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Capacitación y educación no formal, -Logística para realización eventos, -Elementos de seguridad vial, -Interventoria - Consultoria - Estudios en transporte y movilidad, -Bicicletas", "licicodigos": "115,165,175,284,464,400" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 8 # 3 31 BARRIO GAITAN Restrepo Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,680,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 86101709 | PRESTACION DE SERVICIOS PARA LA Implementación DE UNA CAMPAÑA DE SEGURIDAD VIAL EN LOS MUNICIPIOS DE Barranca De Upía, Cabuyaro, Cumaral, Guamal ,Lejanías - | Licitación pública | Recursos propios | $560.000.000 | SUBDIRECCION GENERAL |
+| 86101709 | PRESTACION DE SERVICIOS PARA LA Implementación DE UNA CAMPAÑA DE SEGURIDAD VIAL EN LOS MUNICIPIOS DE El Calvario, San Carlos de Guaroa, San Juanito, Vistahermosa del Departamento del Meta | Licitación pública | Recursos propios | $1.120.000.000 | SUBDIRECCION GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+18/Jun/2025 - 04:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+18/Jun/2025 - 04:35 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+18/Jun/2025 - 04:35 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 04:35 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+04/Jul/2025 - 08:00 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+04/Jul/2025 - 08:00 am
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jul/2025 - 09:00 am
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+07/Jul/2025 - 10:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/Jul/2025 - 10:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+07/Jul/2025 - 10:02 am
+
+**Audiencia de asignación de Riesgos:**
+
+08/Jul/2025 - 09:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/Jul/2025 - 10:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+08/Jul/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+14/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+14/Jul/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+14/Jul/2025 - 03:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+15/Jul/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/Jul/2025 - 08:00 am
+
+**Audiencia de Adjudicación:**
+
+22/Jul/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+22/Jul/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 22/Jul/2025 - 12:00 pm | 22/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 22/Jul/2025 - 12:00 pm | 22/Nov/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 22/Jul/2025 - 12:00 pm | 22/May/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8134400 | RE: Indicadores financieros y organizacionales | 08/Jul/2025 - 12:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8134180 | RE: Experiencia del proponente | 08/Jul/2025 - 11:40 am |  | - |
+| Aclaraciones | CO1.MSG.8131456 | Indicadores financieros y organizacionales | 07/Jul/2025 - 07:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8131438 | Experiencia del proponente | 07/Jul/2025 - 07:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8114904 | observacion aclaracion de fecha de estados financieros | 03/Jul/2025 - 03:35 pm |  | - |
+| Aclaraciones | CO1.MSG.8114318 | observacion aclaracion de fecha de estados financieros | 03/Jul/2025 - 03:01 pm |  | - |

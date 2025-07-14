@@ -1,0 +1,132 @@
+Title: Licitaciones - COLEGIO REPUBLICA DOMINICANA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68093935ef3784.57504622
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 07:40:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de Mantenimiento de equipos de video, sonido, preventivo en impresoras 3D y sistema de alarma en la biblioteca de la institución educativa sedes A y B incluidos suministros y mano de obra a todo costo, tipo bolsa hasta agotar presupuesto o tiempo (5 MESES ) lo que primero suceda,
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56121500 - Mobiliario general de aula
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alarmas, -Equipos audiovisuales, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "112,115,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 131 A N° 125-43 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 13,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56121500 | Servicio de Mantenimiento de equipos de video, sonido, preventivo en algunas impresoras y sistema de alarma en la biblioteca de la institucion educativa sedes A y B incluidos suministros y mano de obra a todo costo, tipo bolsa hasta agotar presupuesto o tiempo lo que primero suceda, | Contratación régimen especial - Régimen especial | SGP | $13.000.000 | Colegio Republica dominicana IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 09:08 am
+
+**Fecha de Firma del Contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+02/Oct/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8153905 | Publicación modificación | 24/Abr/2025 - 11:16 am |  |  |

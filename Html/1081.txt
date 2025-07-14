@@ -1,0 +1,202 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA SUCRE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c962a99c456.68580767
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 13:20:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE EQUIPOS DE LA EMISORA DEL DEPARTAMENTO DE POLICÍA SUCRE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Sincelejo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154053 - Servicio de reparación de emisoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Metrología y calibración de instrumentos de medida, -Equipos para radiodifusión y televisión", "licicodigos": "303,321" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 19 No.25-116 barrio CENTRO Sincelejo Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72103302 | MANTENIMIENTO DE LA EMISORA DEL DEPARTAMENTO DE SUCRE | Mínima cuantía | Presupuesto de entidad nacional | $20.000.000 | DEPARTAMENTO DE POLICIA SUCRE |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 07:30 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 07:30 pm
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 07:33 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+03/Jul/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jul/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+10/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 50,00 | 10/Jul/2025 - 05:00 pm | 31/Ene/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 10/Jul/2025 - 05:00 pm | 01/Dic/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 10/Jul/2025 - 05:00 pm | 01/Dic/2028 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2300076 | Informe de evaluación 1 CO1.AWD.2300076 | 07/Jul/2025 - 05:27 pm |  | - |
+| Avisos | CO1.MSG.8116240 | La lista de oferentes del proceso PN DESUC MIC 019 2025 publicada por DEPARTAMENTO DE POLICIA SUCRE | 03/Jul/2025 - 05:13 pm |  | - |
+| General | CO1.MSG.8103499 | NUEVAS ESPECIFICACIONES TECNICAS | 01/Jul/2025 - 06:56 pm |  | - |
+| General | CO1.MSG.8103432 | RE: observacion | 01/Jul/2025 - 06:53 pm |  | - |
+| Avisos | CO1.REQ.8467353 | Publicación modificación | 27/Jun/2025 - 06:58 pm |  |  |
+| General | CO1.MSG.8096221 | RESPUESTA LIMITACION A MIPYME PROCESO PN DESUC MIC 019 2025 | 27/Jun/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.8088584 | observacion | 26/Jun/2025 - 04:12 pm |  | - |

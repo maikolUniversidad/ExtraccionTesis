@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL CESAR Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cc47804e450.30974155
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 13:13:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Compra de materiales para la formación en Mecatrónica industrial del Centro de Innovación y de Gestión Empresarial y Cultural SENA Regional Cesar, vigencia 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32151707 - Dispositivo de programación del controlador lógico programable
+
+**Códigos adicionales UNSPSC:**
+
+27111518 - Herramienta para engastar y doblar alambre,27131613 - Acoplamiento neumático
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Pilas y baterías desechables y recargables, -Materiales para redes de comunicación, -Instrumentación para obras eléctricas", "licicodigos": "121,122,123,299,438,628" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 19 entre calle 14 y 15 Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 12:57 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 05:00 pm

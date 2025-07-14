@@ -1,0 +1,137 @@
+Title: Licitaciones - COLEGIO SALUDCOOP NORTE IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b3d6e40ed44.60072332
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:40:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE TINTAS Y TONERS ORIGINALES PARA EL COLEGIO SALUDCOOP NORTE VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 181 #18B-83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 8,700,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103 | Gastos de computador e impresoras | Contratación régimen especial - Régimen especial | SGP | $8.700.000 | COLEGIO SALUDCOOP NORTE IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 08:17 am
+
+**Fecha de Firma del Contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 04/Jun/2025 - 07:36 am |  |  |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 29/May/2025 - 09:16 am |  |  |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 28/May/2025 - 09:46 am |  |  |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 22/May/2025 - 03:59 pm |  |  |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 21/May/2025 - 10:31 am |  |  |
+| Avisos | CO1.REQ.8280925 | Publicación modificación | 20/May/2025 - 10:27 am |  |  |

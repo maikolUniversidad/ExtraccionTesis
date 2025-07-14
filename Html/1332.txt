@@ -1,0 +1,222 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE LA JAGUA DE IBIRICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b96a09c36a1.74764311
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-04 06:38:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE EQUIPOS DE OFICINA PARA EL HONORABLE CONCEJO MUNICIPAL DE MUNICIPAL DE LA JAGUA DE IBIRICO, CESAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : La Jagua De Ibirico
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+15 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 4 No. 7-35 La Jagua De Ibirico Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211507 | COMPRA DE EQUIPOS DE OFICINA PARA EL HONORABLE CONCEJO MUNICIPAL DE LA JAGUA DE IBIRICO | Mínima cuantía | Recursos propios | $10.000.000 | SECRETARÍA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 03:34 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 03:38 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 03:38 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 02:00 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** LOTT TOLOZA | La Jagua De Ibirico - Cesar |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,900,000
+
+**Informes proceso de selección CO1.AWD.2265202 de 03/Jun/2025 - 10:32 am. Valor $9.900.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 07:52 am |  |
+| Informe de selección | 03/Jun/2025 - 10:32 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265202**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LOTT TOLOZA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 18955159 | * **Nombre:** LOTT TOLOZA * **Tipo documento:** NIT * **Documento:** 18155159 | La Jagua De Ibirico - Cesar | $9.900.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265202****
+
+**Cuantía a la firma del contrato:**
+
+$ 9,900,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265202 | Informe de selección CO1.AWD.2265202 | 03/Jun/2025 - 10:32 am |  | - |
+| Reporte preliminar | CO1.AWD.2265202 | Informe de evaluación 1 CO1.AWD.2265202 | 28/May/2025 - 07:52 am |  | - |
+| Avisos | CO1.MSG.7926399 | Publicación de la lista de ofertas del proceso CMC007-2025. | 22/May/2025 - 09:18 pm |  | - |
+| Avisos | CO1.MSG.7926396 | La lista de oferentes del proceso CMC007-2025 publicada por CONCEJO MUNICIPAL DE LA JAGUA DE IBIRICO | 22/May/2025 - 09:17 pm |  | - |

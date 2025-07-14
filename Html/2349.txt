@@ -1,0 +1,104 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) JESEP_BALANCEADOR_2025-3
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68234ad6e89d48.97159943
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:13:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLUCION DE BALANCEO INTELIGENTE DE TRÁFICO, SEGURIDAD DE APLICACIONES Y FIREWALL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 59 26-21 Can Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+VISITA VOLUNTARIA, Se podrá realizar una (01) visita técnica a las instalaciones de la Policía Nacional Oficina de Tecnologías de la Información y las Comunicaciones, con la finalidad de corroborar la información técnica y dudas sobre el proceso. Es importante resaltar que los interesados deberán tomar contacto con el Grupo de Tecnologías de la Información y las Comunicaciones, de la Jefatura Nacional del Servicio de Policía, al teléfono No. 3178965765 y/o al correo electrónico jesep.gutic@policia.gov.co, por lo menos con 4 horas de anticipación; donde informarán la relación de funcionarios que ejecutarán la visita, con el fin de adelantar los trámites administrativos y de seguridad para el ingreso a las instalaciones de la Oficina de Tecnologías de la Información y las Comunicaciones de la Policía Nacional, ubicada en la carrera 59 No. 26-21 CAN en horario de 08:00 am hasta las 05:00 pm.
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 08:08 am
+
+**Plazo para solicitar aclaraciones:**
+
+14/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7953195 | Corrección forma de pago | 28/May/2025 - 04:54 pm |  | - |

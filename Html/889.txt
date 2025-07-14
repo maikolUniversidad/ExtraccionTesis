@@ -1,0 +1,188 @@
+Title: Licitaciones - MUNICIPIO DE NEIVA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c6c979748a5.57566741
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-03 07:57:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE UNA RED DE RADIOCOMUNICACIONES EN BANDA VHF Y SEGUIMIENTO DIGITAL ARTICULADO CON LA LÍNEA DE EMERGENCIAS 123 DE LA POLICÍA METROPOLITANA DE NEIVA PARA LA OPERACIÓN Y ARTICULACIÓN CON EL SISTEMA DE EMERGENCIAS MÉDICAS EN EL MARCO DE LAS COMPETENCIAS FUNCIONALES ASIGNADAS A LA SECRETARIA DE SALUD MUNICIPAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161800 - Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia
+
+**Códigos adicionales UNSPSC:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 5 No. 9-74 Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 04:35 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+04/Jul/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+07/Jul/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/Jul/2025 - 06:00 pm | 10/Jul/2026 - 12:00 pm |
+| Pago de salarios | 20,00 | 08/Jul/2025 - 06:00 pm | 10/Ene/2029 - 12:00 pm |
+| Calidad del servicio | 20,00 | 08/Jul/2025 - 06:00 pm | 10/Ene/2027 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8109232 | RESPUESTA OBSERVACION PROCESO MNSSCMCPS0039-2025_0001 | 02/Jul/2025 - 04:55 pm |  | - |
+| General | CO1.MSG.8109201 | AVISO DE LIMITACION A MIPYMES DE LA LICITACION PUBLICA DE MINIMA CUANTIA NUMERO NUMERO MNSSCMCPS0039-2025_0001 | 02/Jul/2025 - 04:54 pm |  | - |
+| Avisos | CO1.REQ.8460376 | Publicación modificación | 01/Jul/2025 - 11:21 am |  |  |

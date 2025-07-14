@@ -1,0 +1,90 @@
+Title: Licitaciones - DICAR - Solicitud de información a los Proveedores (SECOPII) PN DICAR SIP 044 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68335c2b522250.72727200
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:18:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN, DE LICENCIA SOFTWARE DE EDICIÓN DE IMAGENES PARA EL GRUPO DE INVESTIGACIÓN CRIMINALÍSTICA DE LA SECCIONAL DE INVESTIGACIÓN CRIMINAL DE LA DIRECCIÓN DE CARABINEROS Y PROTECCIÓN AMBIENTAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Boyacá No. 142 A-55 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+82 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/May/2025 - 12:45 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/May/2025 - 07:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/May/2025 - 07:00 pm

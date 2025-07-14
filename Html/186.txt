@@ -1,0 +1,126 @@
+Title: Licitaciones - CGR-NIVEL CENTRAL - Régimen Especial CGR-218-SCC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68509ee0104140.89105386
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:22:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicios de consultoría para la consolidación y elaboración de memorias del Programa para la Transformación Digital de la Contraloría General de la República (CGR)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+93151500 - Administración pública
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 69 # 44-35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 500,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 93151500 | Consultoría para consolidar y elaborar un informe de cumplimiento e impacto asociados a los objetivos del Programa 80116-51 | Contratación régimen especial - Banco multilateral y organismos multilaterales | CreditResources | $500.000.000 | GESTION CONTRACTUAL CGR NIVEL CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 04:13 pm
+
+**Fecha de Firma del Contrato:**
+
+16/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/Ago/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+13/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

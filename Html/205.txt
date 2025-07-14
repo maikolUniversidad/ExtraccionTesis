@@ -1,0 +1,268 @@
+Title: Licitaciones - DIRECCIÓN GENERAL DE SANIDAD MILITAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682664db274fe4.59485924
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE RENOVACIÓN DE GARANTÍA Y SOPORTE PARA EL ALMACENAMIENTO POWER SCALE NAS ISILON H400
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201835 - Dispositivo de almacenamiento unido a la red nas
+
+**Códigos adicionales UNSPSC:**
+
+81112220 - Mantenimiento de software de servidores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Calle 26 No 69-76 Centro Empresarial Elemento Torre Tierra Piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Alianza Pacífico - Chile, Alianza Pacífico - México, Corea
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112220 | SERVICIOS DE MANTENIMIENTO, REPARACIÓN E INSTALACIÓN (EXCEPTO SERVICIOS DE CONSTRUCCIÓN) - SOPORTE NAS PROSUPPORT PLUS | Selección abreviada menor cuantía | Recursos propios | $440.000.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 04:45 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 04:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+29/May/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+29/May/2025 - 04:38 pm
+
+**Plazo para manifestación de interés:**
+
+04/Jun/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jun/2025 - 05:00 pm
+
+**Realización del sorteo:**
+
+05/Jun/2025 - 03:00 pm
+
+**Publicación de la lista de precalificados:**
+
+05/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+06/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+13/Jun/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/Jun/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+03/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+08/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:00 pm |
+| Pago de salarios | 5,00 | 27/Jun/2025 - 05:00 pm | 31/Dic/2028 - 11:00 pm |
+| Calidad del servicio | 10,00 | 27/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UNION TEMPORAL TECNOLOGIA 2025 | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 399,966,936
+
+**Informes proceso de selección CO1.AWD.2284822 de 27/Jun/2025 - 12:21 pm. Valor $399.966.936**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 18/Jun/2025 - 02:33 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 02:33 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 02:33 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 10:36 am |  |
+| Informe de evaluación | 26/Jun/2025 - 10:36 am |  |
+| Informe de selección | 27/Jun/2025 - 12:21 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8065845 | [Respondido] RE:DOCUMENTO SUBSANACION | 27/Jun/2025 - 12:21 pm |  | - |
+| Reporte final | CO1.AWD.2284822 | Informe de selección CO1.AWD.2284822 | 27/Jun/2025 - 12:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2284822 | Informe de evaluación 2 CO1.AWD.2284822 | 26/Jun/2025 - 10:36 am |  | - |
+| Objeciones | CO1.MSG.8065845 | DOCUMENTO SUBSANACION | 20/Jun/2025 - 02:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2284822 | Informe de evaluación 1 CO1.AWD.2284822 | 18/Jun/2025 - 02:33 pm |  | - |
+| Avisos | CO1.MSG.8034234 | La lista de oferentes del proceso 166- MDN-COGFM-JEMCO-DIGSA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DIRECCIÓN GENERAL DE SANIDAD MILITAR+ | 16/Jun/2025 - 07:29 am |  | - |
+| General | CO1.MSG.8016282 | RE: OBSERVACION MODIFICACION | 11/Jun/2025 - 03:12 pm |  | - |
+| General | CO1.MSG.8010411 | RE: observación | 10/Jun/2025 - 04:57 pm |  | - |
+| General | CO1.MSG.8010304 | RE: OBSERVACIONES | 10/Jun/2025 - 04:56 pm |  | - |
+| Avisos | CO1.REQ.8368645 | Publicación modificación | 10/Jun/2025 - 04:50 pm |  |  |

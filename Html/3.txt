@@ -1,0 +1,318 @@
+Title: Licitaciones - ANH - Concurso de méritos abierto ANH-002-CM-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812d6eec64d34.33144778
+
+Markdown Content:
+Licitaciones - ANH - Concurso de méritos abierto ANH-002-CM-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 13:38:51
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Concurso de méritos abierto
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+554. Contratar el análisis, diseño, implementación y puesta en funcionamiento del Banco de Información Energética (BIEN) que contemple la gobernanza del dato y permita la carga de información, la estandarización, el acceso y el manejo integral y sistemático de la información gestionada por la Vicepresidencia Técnica de la ANH.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81151700 - Geología
+
+**Códigos adicionales UNSPSC:**
+81112000 - Servicios de datos,81111500 - Ingeniería de software o hardware,81111800 - Servicios de sistemas y administración de componentes de sistemas,80101500 - Servicios de consultoría de negocios y administración corporativa,43231500 - Software funcional específico de la empresa
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Seguridad informática", "licicodigos": "102,117,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Avenida calle 26 No. 59-65 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+Consultoría
+
+**Plazo del contrato:**
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 23,750,724,030
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231500, 43231507, 81111504, 81111506, 81111508, 81111509, 81111704, 81111705, 81111806, 81111808, 81111809 | 554. Contratar el análisis, diseño, implementación y puesta en funcionamiento del Banco de Información Energética (BIEN) que contemple la gobernanza del dato y permita la carga de información, la estandarización, el acceso y el manejo integral y sistemático de la información gestionada por la Vicepresidencia Técnica de la ANH. | Concurso de méritos abierto (descontinuado) | Recursos propios | $23.750.724.030 | Oficina Asesora Juridica |
+
+Cronograma:
+
+**Fecha de Publicación del Proyecto de Pliego de Condiciones:**
+
+30/Abr/2025 - 08:59 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o Mipymes:**
+
+07/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al proyecto de pliegos y condiciones:**
+
+12/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Proyecto Pliego de Condiciones:**
+
+12/May/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 11:00 pm
+
+**Fecha prevista de publicación de los pliegos de condiciones definitivos:**
+
+12/May/2025 - 11:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivo:**
+
+21/May/2025 - 11:00 pm
+
+**Fecha de publicación de los pliegos de condiciones definitivos:**
+
+26/May/2025 - 06:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 11:59 pm
+
+**Entrega de las garantías o pólizas de ejecución del contrato:**
+
+05/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+05/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+11/Jun/2025 - 04:00 pm
+
+**Apertura de Ofertas:**
+
+11/Jun/2025 - 04:05 pm
+
+**Informe de presentación de Ofertas:**
+
+11/Jun/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe evaluación de las ofertas:**
+
+26/Jun/2025 - 02:00 pm
+
+**Expedición del acto de adjudicación o de declaratoria desierta:**
+
+16/Jul/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+17/Jul/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+21/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+12 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/May/2025 - 12:00 am | 31/Dic/2026 - 11:59 pm |
+
+**Responsabilidad civil extracontractual:**
+5% del valor de la oferta
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8315229 | Publicación modificación | 09/Jul/2025 - 06:17 pm |  |  |
+| Reporte preliminar | CO1.AWD.2285965 | Informe de evaluación 3 CO1.AWD.2285965 | 09/Jul/2025 - 05:57 pm |  | - |
+| Avisos | CO1.REQ.8315229 | Publicación modificación | 02/Jul/2025 - 11:58 am |  |  |
+| Reporte preliminar | CO1.AWD.2285965 | Informe de evaluación 2 CO1.AWD.2285965 | 02/Jul/2025 - 11:24 am |  | - |
+| Objeciones | CO1.MSG.8086954 | [Respondido] RE:SUBSANACIÓN INFORME PRELIMINAR UT BIEN ANH 2025 | 02/Jul/2025 - 11:20 am |  | - |
+| Objeciones | CO1.MSG.8086954 | SUBSANACIÓN INFORME PRELIMINAR UT BIEN ANH 2025 | 26/Jun/2025 - 01:48 pm |  | - |
+| General | CO1.MSG.8060481 | RE: Publicación de Acta de Cierre | 19/Jun/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.8060442 | Publicación de la lista de ofertas del proceso ANH-002-CM-2025 (Presentación de oferta). | 19/Jun/2025 - 04:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285965 | Informe de evaluación 1 CO1.AWD.2285965 | 19/Jun/2025 - 04:24 pm |  | - |
+| General | CO1.MSG.8035759 | RESPUESTA DERECHO DE PETICION | 16/Jun/2025 - 11:00 am |  | - |
+| General | CO1.MSG.8033324 | RESPUESTA OBSERVACION - ALMACENAMIENTO | 16/Jun/2025 - 10:49 am |  | - |
+| Avisos | CO1.MSG.8033330 | La lista de oferentes del proceso ANH-002-CM-2025 (Presentación de oferta) publicada por ANH | 14/Jun/2025 - 09:10 am |  | - |
+| Avisos | CO1.REQ.8315229 | Publicación modificación | 10/Jun/2025 - 07:00 am |  |  |
+| General | CO1.MSG.8003645 | RESPUESTAS OBSERVACIONES EXTEMPORANEAS PRESENTADAS AL PLIEGO ANH-002-CM-2025 | 09/Jun/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.7997176 | RESPUESTA OBSERVACIONES PLIEGO PROCESO ANH-002-CM-2025 | 06/Jun/2025 - 06:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7997141 | RESPUESTA OBSERVACIONES PLIEGO ANH-002-CM-2025 | 06/Jun/2025 - 06:48 pm |  | - |
+| Avisos | CO1.REQ.8315229 | Publicación modificación | 06/Jun/2025 - 01:30 pm |  |  |
+| Avisos | CO1.REQ.8315229 | Publicación modificación | 03/Jun/2025 - 06:06 pm |  |  |
+| Aclaraciones | CO1.MSG.7955992 | observ pliego definitivo 2 | 28/May/2025 - 11:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7955952 | Observaciones Pliego Definitivo | 28/May/2025 - 11:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7955825 | Observaciones Pliego definitivo No ANH-002-CM-2025 Procalidad Analytics SAS | 28/May/2025 - 10:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7955797 | Observaciones ANH 002 CM 2025 | 28/May/2025 - 09:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7955618 | Observaciones Grow Data SAS | 28/May/2025 - 08:35 pm |  | - |
+| Aclaraciones | CO1.MSG.7955581 | OBSERVACIONES AL PROCESO CONCURSO DE MÉRITOS No. ANH-002-CM-2025 | 28/May/2025 - 08:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7955463 | Observaciones Pliego definitivo No ANH-002-CM-2025 Procalidad Analytics SAS | 28/May/2025 - 07:42 pm |  | - |
+| Aclaraciones | CO1.MSG.7955440 | Observaciones al Pliego de Condiciones EY | 28/May/2025 - 07:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7955353 | OBSERVACIONES TECNICAS PLIEGO ARIA PSW | 28/May/2025 - 07:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7955341 | Observaciones Pliego de Condiciones Definitivo | 28/May/2025 - 07:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7955331 | OBSERVACIONES P. DEFINITIVOS | 28/May/2025 - 07:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7954557 | Observaciones pliego definitivo | 28/May/2025 - 05:33 pm |  | - |
+
+Ver más
+
+×Close
+
+#### Mis notas
+
+Hoy 8:30 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

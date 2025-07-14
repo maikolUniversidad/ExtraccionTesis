@@ -1,0 +1,58 @@
+[
+  {
+    "Constant": false,
+    "Name": "CanDocumentos",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "LinksText",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "LinksArray",
+    "TypeFullyQualifiedName": "System.String[], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "FileName",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "html_Scraper",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "tablaExtraida",
+    "TypeFullyQualifiedName": "System.Data.DataTable, System.Data.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "downloadFolderPath",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": null,
+    "IsLiteral": false
+  }
+]

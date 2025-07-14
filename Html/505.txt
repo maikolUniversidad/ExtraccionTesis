@@ -1,0 +1,289 @@
+Title: Licitaciones - Departamento Administrativo de Planeación - Alcaldía de Tuluá
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812834d78f7e8.25039967
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:28:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS PARA EL DESARROLLO WEB DE UN MAPA INTERACTIVO PARA EL DEPARTAMENTO ADMINISTRATIVO DE PLANEACION MUNICIPAL DE TULUA QUE PERMITA VISUALIZAR LA LOCALIZACION Y ATRIBUTOS DE NORMA POT POR CADA PREDIO DEL MUNICIPIO DE TULUA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Tuluá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112000 - Servicios de datos
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81151600 - Cartografía,43233500 - Software de intercambio de información,81111700 - Sistemas de manejo de información MIS
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 No. 19-38 Tuluá Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+30/Abr/2025 - 02:42 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+09/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/May/2025 - 03:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+20/May/2025 - 12:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+20/May/2025 - 12:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+20/May/2025 - 12:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+20/May/2025 - 02:22 pm
+
+**Plazo para manifestación de interés:**
+
+22/May/2025 - 06:00 pm
+
+**Realización del sorteo:**
+
+23/May/2025 - 03:00 pm
+
+**Publicación de la lista de precalificados:**
+
+23/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 06:00 pm
+
+**Apertura de Ofertas:**
+
+29/May/2025 - 06:01 pm
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 03:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+13/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 06:00 pm | 29/Ene/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 29/May/2025 - 06:00 pm | 29/Dic/2025 - 11:59 am |
+| Calidad del servicio | 20,00 | 29/May/2025 - 06:00 pm | 29/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** URBANICA CONSULTORES S.A.S. | Tuluá - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 100,000,000
+
+**Informes proceso de selección CO1.AWD.2272641 de 11/Jun/2025 - 05:01 am. Valor $100.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 03:57 pm |  |
+| Informe de selección | 11/Jun/2025 - 05:01 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272641**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** URBANICA CONSULTORES S.A.S. * **Tipo documento:** NIT * **Documento:** 901711297 | * **Nombre:** JUAN DIEGO DIAZ LOPEZ * **Tipo documento:** NIT * **Documento:** 1116283626 | Tuluá - Valle del Cauca | $100.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272641****
+
+**ID del contrato en SECOP:**
+
+260.20.3-079
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+28/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 100,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272641 | Informe de selección CO1.AWD.2272641 | 11/Jun/2025 - 05:01 pm |  | - |
+| Objeciones | CO1.MSG.7992029 | [Respondido] RE:SUBSANACIÓN URBANICA CONSULTORES SAS | 10/Jun/2025 - 06:04 pm |  | - |
+| Objeciones | CO1.MSG.7992029 | SUBSANACIÓN URBANICA CONSULTORES SAS | 06/Jun/2025 - 08:40 am |  | - |
+| Reporte preliminar | CO1.AWD.2272641 | Informe de evaluación 1 CO1.AWD.2272641 | 05/Jun/2025 - 03:57 pm |  | - |
+| Avisos | CO1.REQ.8308330 | Publicación modificación | 05/Jun/2025 - 03:52 pm |  |  |
+| Reporte preliminar | CO1.AWD.2273027 | Informe de evaluación 1 CO1.AWD.2273027 | 05/Jun/2025 - 11:48 am |  | - |
+| Avisos | CO1.REQ.8308330 | Publicación modificación | 30/May/2025 - 02:50 pm |  |  |
+| General | CO1.MSG.7965481 | Adenda n° 2 aclaratoria modificacion del cronograma | 30/May/2025 - 12:13 pm |  | - |
+| Avisos | CO1.REQ.8308330 | Publicación modificación | 27/May/2025 - 02:41 pm |  |  |
+| Aclaraciones | CO1.MSG.7942060 | RE: OBERVACIÓN AL PLIEGO DE CONDICIONES DEFINITIVO | 27/May/2025 - 09:43 am |  | - |
+| Aclaraciones | CO1.MSG.7934739 | OBERVACIÓN AL PLIEGO DE CONDICIONES DEFINITIVO | 26/May/2025 - 09:58 am |  | - |
+| Aclaraciones | CO1.MSG.7901902 | RE: OBSERVACIONES AL PROCESO NO. 260.20.3.079. | 19/May/2025 - 02:18 pm |  | - |
+| General | CO1.MSG.7901894 | Respuesta a observaciones | 19/May/2025 - 02:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7845898 | OBSERVACIONES AL PROCESO NO. 260.20.3.079. | 07/May/2025 - 02:23 pm |  | - |

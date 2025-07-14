@@ -1,0 +1,98 @@
+Title: Licitaciones - MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823ada0ded452.69569910
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:11:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de componentes tecnológicos para el fortalecimiento de la infraestructura y plataforma de seguridad informática del Ministerio.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática, -Servicios en la nube (Cloud)", "licicodigos": "297,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 03:35 pm
+
+**Plazo para solicitar aclaraciones:**
+
+16/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8254995 | Publicación modificación | 20/May/2025 - 11:28 am |  |  |
+| General | CO1.MSG.7906524 | RE: OBSERVACIONES al RFI | 20/May/2025 - 09:42 am |  | - |
+| General | CO1.MSG.7906490 | RE: Observaciones Minsalud | 20/May/2025 - 09:41 am |  | - |

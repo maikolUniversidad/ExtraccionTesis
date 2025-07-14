@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO NUEVA ZELANDIA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cee7213b569.92634404
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 16:05:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio de actualización y soporte del aplicativo presupuestal para el área de pagaduría y el aplicativo de manejo de inventarios para el área de almacén como apoyo en el manejo del Fondo de Servicios Educativos en la vigencia 2025 del Colegio Nueva Zelandia de acuerdo con las especificaciones técnicas definidas
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112202 - Actualizaciones o parches de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 187 No. 49 - 42 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+270 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,191,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112202 | Gastos de computador, licencias de software financiero y de inventarios | Contratación régimen especial - Régimen especial | SGP | $2.191.000 | COLEGIO NUEVA ZELANDIA IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 03:53 pm
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

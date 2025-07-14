@@ -1,0 +1,72 @@
+Title: Licitaciones - COLEGIO SANTA MARTHA INSTITUCION EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850613871f7f7.79908687
+
+Markdown Content:
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 69D SUR 8B 63 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+130 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 47,406,392
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112306 | Mantenimiento de Impresoras (Mantenimiento de Equipo) | Contratación régimen especial - Régimen especial | SGP | $8.829.375 | ÁREA FINANCIERA |
+| 55121800 | Servicio de carnetización (Carné) | Contratación régimen especial - Régimen especial | SGP | $2.065.300 | ÁREA FINANCIERA |
+| 44103100, 60101700 | Suministros para impresora, fax y fotocopiadora - Materiales del recurso del profesor (Boletín escolar) | Contratación régimen especial - Régimen especial | SGP | $3.500.000 | ÁREA FINANCIERA |
+| 44103100, 60101700 | Suministros para impresora, fax y fotocopiadora - Materiales del recurso del profesor (Material Didáctico) | Contratación régimen especial - Régimen especial | SGP | $7.000.000 | ÁREA FINANCIERA |
+| 44103100, 60101700, 14111507 | Suministros para impresora, fax y fotocopiadora - Materiales del recurso del profesor (Materiales y Suministros) | Contratación régimen especial - Régimen especial | SGP | $26.011.717 | ÁREA FINANCIERA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 08:56 am
+
+**Fecha de Firma del Contrato:**
+
+09/Jul/2025 - 08:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/Jul/2025 - 02:00 pm
+
+**Plazo de ejecución del contrato:**
+
+21/Nov/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

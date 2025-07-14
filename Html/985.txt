@@ -1,0 +1,250 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE SANTA MARÍA HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c086859de80.73052039
+
+Markdown Content:
+Licitaciones - ALCALDÍA MUNICIPAL DE SANTA MARÍA HUILA - Contratación mínima cuantía IP-012-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-09 21:55:41
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+SUMINISTRO DE INSUMOS DE PAPELERÍA, ÚTILES Y DEMÁS ARTÍCULOS DE OFICINA PARA LAS DEPENDENCIAS DE LA ADMINISTRACIÓN CENTRAL DEL MUNICIPIO DE SANTA MARÍA - HUILA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Huila : Santa María
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44122011 - Folders
+
+**Códigos adicionales UNSPSC:**
+44122101 - Cauchos,44121617 - Abridor manual de cartas,44121804 - Borradores,44101807 - Calculadoras de bolsillo,44111515 - Cajas u organizadores de almacenamiento de archivos,44122003 - Carpetas,14111519 - Papeles cartulina,27111801 - Cintas métricas,31162001 - Chinches,31201503 - Cinta de enmascarar,31201512 - Cinta transparente,43201817 - Unidades de disco compacto cd,44103125 - Kit de mantenimiento de impresoras,44122104 - Clips para papel,43201818 - Unidades de discos digitales de video dvd,44121615 - Grapadoras,44121707 - Lápices de colores,44121802 - Fluido de corrección,44121905 - Almohadillas de tinta o estampillas,44122016 - Sujetador de documentos,44122107 - Grapas,60105704 - Barras de pegante libres de ácido,13102026 - Poliestireno (icopor) ps,14111500 - Papel de imprenta y papel de escribir,14111506 - Papel para impresión de computadores,14111537 - Etiquetas de papel,44121701 - Bolígrafos,44121706 - Lápices de madera
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CRA 4 No. 10 - 12 Centro - Palacio Municipal Santa María Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 13102000, 14111500, 14111506, 14111537, 31162000, 31201500, 43201800, 44101800, 44103100, 44111500, 44121600, 44121700, 44121800, 44122000, 44122100, 60105700 | SUMINISTRO DE INSUMOS DE PAPELERÍA, ÚTILES Y DEMÁSARTÍCULOS DE OFICINA PARA LAS DEPENDENCIAS DE LAADMINISTRACIÓN CENTRAL DEL MUNICIPIO DE SANTA MARÍA –HUILA | Mínima cuantía | SGP | $25.000.000 | SECRETARIA GENERAL Y DE SERVICIOS ADMINISTRATIVOS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 09:24 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 09:30 am
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 09:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 12:01 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+08/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 04:00 pm | 30/Abr/2026 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jul/2025 - 04:00 pm | 31/Dic/2025 - 12:00 am |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2297883 | Informe de evaluación 1 CO1.AWD.2297883 | 04/Jul/2025 - 05:37 pm |  | - |
+| Avisos | CO1.REQ.8462676 | Publicación modificación | 04/Jul/2025 - 08:25 am |  |  |
+| Avisos | CO1.REQ.8462676 | A new request amendment was published | 02/Jul/2025 - 05:29 pm |  |  |
+| Avisos | CO1.REQ.8462676 | Publicación modificación | 02/Jul/2025 - 07:40 am |  |  |
+| Avisos | CO1.MSG.8099749 | La lista de oferentes del proceso IP-012-2025 publicada por ALCALDÍA MUNICIPAL DE SANTA MARÍA HUILA | 01/Jul/2025 - 11:42 am |  | - |
+| General | CO1.MSG.8086414 | AVISO DE LIMITACIÓN A MIPYMES | 26/Jun/2025 - 11:56 am |  | - |
+| Aclaraciones | CO1.MSG.8080114 | OBSERVACIONES | 25/Jun/2025 - 02:16 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:51 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

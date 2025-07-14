@@ -1,0 +1,104 @@
+Title: Licitaciones - Sena Regional Boyaca Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffdcfd703585.99498360
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 20:35:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de materiales de formación para el programa Campesena que atiende el Centro Industrial de Mantenimiento y Manufactura del SENA regional
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Sogamoso
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31162800 - Ferretería en general
+
+**Códigos adicionales UNSPSC:**
+
+60105800 - Materiales educativos de diseño textil y de ropa,39122200 - Interruptores eléctricos y accesorios,26121500 - Alambre eléctrico,39121700 - Ferretería eléctrica y suministros,24101510 - Contenedor de basura plástico,41116116 - Kits o suministros para pruebas ambientales,44121600 - Suministros de escritorio,15121500 - Preparados lubricantes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Textiles y productos para confección, -Papelería y elementos de oficina, -Repuestos para vehículos, -Básculas, instrumentos de medida, observación y ensayo, -Materiales para redes de comunicación", "licicodigos": "93,121,122,123,125,127,133,272,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 12 No. 55 A 51 Sogamoso Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+219 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 230,336,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 11:13 am
+
+**Plazo para solicitar aclaraciones:**
+
+21/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/Abr/2025 - 05:00 pm

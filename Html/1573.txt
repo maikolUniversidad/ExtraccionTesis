@@ -1,0 +1,130 @@
+Title: Licitaciones - I.E. NUESTRA SEÑORA DE LA CANDELARIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68084dee4a6b80.35131854
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-22 21:20:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Se requiere hacer la contratación para la conexión de internet 100% fibra óptica, con canal de 500 megas simétricas para las dependencias administrativas, de la Institución Educativa Nuestra Señora de la Candelaria
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Ráquira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Códigos adicionales UNSPSC:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Vereda la Candelaria Ráquira Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+248 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101 | Servicio de internet área administrativa de la institución Educativa | Contratación régimen especial - Régimen especial | SGP | $3.500.000 | IE NUESTRA SEÑORA DE LA CANDELARIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 02:10 pm
+
+**Fecha de Firma del Contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

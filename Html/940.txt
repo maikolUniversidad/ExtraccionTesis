@@ -1,0 +1,256 @@
+Title: Licitaciones - CONTRALORIA DISTRITAL DE BUENAVENTURA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835238c1563e5.24115710
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-10 06:33:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE DOS (2) COMPUTADOR TODO EN UNO , TRES (3) COMPUTADOR PORTATIL, UNA (1) IMPRESORA LÁSER NEGRO P800, TRES (3) ESCÁNER HP ESCANJET PRO 2000, UN (1) IMPRESORA MULTIFUNCIÓN M 320F M320 F, DOS (2) DISCO DURO EXTERNO HD710 PRO 2 TB NEGRO, NUEVE (9) BASE REFRIGERANTE SOPORTE PORTATIL GAMER 5 VENTILADORES E IMPLEMENTOS DESCRITOS REQUERIDOS EN LA FICHA O ESPECIFICACIONES TÉCNICAS, PARA LA CONTRALORIA DISTRITAL DE BUENAVENTURA EN LA VIGENIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Buenaventura
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41112512 - Computadores o totalizadores de flujo
+
+**Códigos adicionales UNSPSC:**
+
+44102200 - Accesorios para escáneres,44101703 - Unidades de impresión a doble cara
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 2 No. 3-04 Piso 7 Buenaventura Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44102200 | Accesorios para escáneres | Mínima cuantía | NotApplied | $10.000.000 | CONTRALORIA DISTRITAL DE BUENAVENTURA |
+| 41112512 | COMPUTADORES | Mínima cuantía | Recursos propios | $20.000.000 | CONTRALORIA DISTRITAL DE BUENAVENTURA |
+| 44101703 | SUMINISTRO DE IMPRESORAS LASER E IMPRESORAS MULTIFUNCIONAL | Mínima cuantía | Recursos propios | $10.000.000 | CONTRALORIA DISTRITAL DE BUENAVENTURA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 03:41 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+30/May/2025 - 11:10 am
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 11:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 05:46 pm | 09/Jun/2025 - 12:00 pm | 24/Dic/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IMPOCAMARAS - BRAYAN ALBERTO CAMACHO OYOLA | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 24,500,000
+
+**Informes proceso de selección CO1.AWD.2270611 de 09/Jun/2025 - 04:16 am. Valor $24.500.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 04:15 pm |  |
+| Informe de selección | 09/Jun/2025 - 04:16 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270611**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IMPOCAMARAS - BRAYAN ALBERTO CAMACHO OYOLA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1030598851 | * **Nombre:** brayan alberto camacho oyola * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1030598851 | Bogotá - Distrito Capital de Bogotá | $24.500.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270611****
+
+**Cuantía a la firma del contrato:**
+
+$ 24,500,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270611 | Informe de selección CO1.AWD.2270611 | 09/Jun/2025 - 04:16 pm |  | - |
+| Avisos | CO1.MSG.7998958 | Publicación de la lista de ofertas del proceso I.P. 007-05-2025. | 09/Jun/2025 - 08:38 am |  | - |
+| General | CO1.MSG.7978754 | RE: OBSERVACION | 04/Jun/2025 - 10:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2270611 | Informe de evaluación 1 CO1.AWD.2270611 | 03/Jun/2025 - 04:15 pm |  | - |
+| Avisos | CO1.MSG.7965113 | La lista de oferentes del proceso I.P. 007-05-2025 publicada por CONTRALORIA DISTRITAL DE BUENAVENTURA | 30/May/2025 - 11:30 am |  | - |
+| General | CO1.MSG.7955830 | aviso de limitacion a mipymes | 28/May/2025 - 10:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7948765 | RE: solicitud | 28/May/2025 - 08:26 am |  | - |
+| Aclaraciones | CO1.MSG.7948753 | RE: OBSERVACION PROCESO | 28/May/2025 - 08:25 am |  | - |
+| General | CO1.MSG.7948734 | archivos editables | 28/May/2025 - 08:22 am |  | - |
+| Aclaraciones | CO1.MSG.7941100 | solicitud | 27/May/2025 - 07:47 am |  | - |
+| Aclaraciones | CO1.MSG.7940019 | OBSERVACION PROCESO | 26/May/2025 - 06:30 pm |  | - |

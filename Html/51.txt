@@ -1,0 +1,243 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE GOBIERNO 1
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a0d2a25ac2.93371893
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:50:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUIRIR E INSTALAR ELEMENTOS DE HARDWARE Y SOFTWARE PARA UNA SOLUCIÓN INTEGRAL DEL SISTEMA DE HIPERCONVERGENCIA Y ALMACENAMIENTO PARA LA SECRETARÍA DISTRITAL DE GOBIERNO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,43233400 - Software de controladores de dispositivos y utilidades,43211502 - Servidores de computador de gama alta,43232600 - Software específico para la industria,81112000 - Servicios de datos,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "103,105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 11 No 8 - 17 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Unión Europea, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Israel, Reino Unido e Irlanda del Norte
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,196,205,587
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800, 43212200, 43201800, 43201500 | DIRECCIÓN DE TECNOLOGÍAS E INFORMACIÓN-1064-INV-ADQUIRIR E INSTALAR ELEMENTOS DE HARDWARE Y SOFTWARE PARA UNA SOLUCIÓN INTEGRAL DEL SISTEMA DE HIPERCONVERGENCIA Y ALMACENAMIENTO PARA LA SECRETARIA DISTRITAL DE GOBIERNO | Selección abreviada subasta inversa | Recursos propios | $2.196.205.587 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 06:28 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+19/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+27/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/Jul/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jul/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+15/Jul/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+15/Jul/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+18/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+28/Jul/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+29/Jul/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+30/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 31/Jul/2025 - 12:00 pm | 31/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 31/Jul/2025 - 12:00 pm | 30/Nov/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 31/Jul/2025 - 12:00 pm | 31/May/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 31/Jul/2025 - 12:00 pm | 31/May/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+25/Jul/2025 - 11:59 pm
+
+**Fecha de inicio:**
+
+28/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+28/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8135550 | RESPUESTA A OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 08/Jul/2025 - 02:58 pm |  | - |
+| Aclaraciones | CO1.MSG.8095451 | Observaciones al borrador del pliego de condiciones | 27/Jun/2025 - 05:06 pm |  | - |
+| Aclaraciones | CO1.MSG.8094910 | Observaciones Adicionales Prepliegos Grow Data SAS | 27/Jun/2025 - 04:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8094190 | Observaciones al pliego de condiciones | 27/Jun/2025 - 03:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8093666 | Observaciones Prepliegos Grow Data SAS | 27/Jun/2025 - 02:05 pm |  | - |

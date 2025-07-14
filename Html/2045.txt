@@ -1,0 +1,101 @@
+Title: Licitaciones - SENA DIRECCION GENERAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68518bc3611bf2.88182254
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:17:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Solicitud de información para Contratar la compra de materiales e insumos necesarios para la dotación de botiquines para la atención de emergencias requeridos en la Dirección General del Sena
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+42172001 - Kits de primeros auxilios para servicios médicos de emergencia
+
+**Códigos adicionales UNSPSC:**
+
+42312313 - Soluciones de limpieza de heridas,46182002 - Respiradores,42311505 - Vendajes o compresas para uso general,42171917 - Estuches o bolsas o accesorios de primeros auxilios para servicios médicos de emergencia,43191510 - Radios de dos vías,52161533 - Megáfonos,41112213 - Termómetros de mano
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Dotación para seguridad industrial, -Suministro material y/o dispositivos médicos", "licicodigos": "110,126,190" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cll 57 # 8 -69 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 10:14 am
+
+**Plazo para solicitar aclaraciones:**
+
+04/Jul/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+07/Jul/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8424556 | Publicación modificación | 01/Jul/2025 - 04:23 pm |  |  |
+| Avisos | CO1.REQ.8424556 | Publicación modificación | 25/Jun/2025 - 12:13 pm |  |  |

@@ -1,0 +1,126 @@
+Title: Licitaciones - IE LUIS CARLOS GALAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ad0a41ab029.85484015
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 20:12:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE DOTACIONES: 8 ABANICOS DE TECHO DOBLE BALINERA DE ALETAS KDK; 3 AIRES DE 18000 BTU A 220V HISENSE CONVENCIONAL; 1 VIDEO VIP EPSON POWER LITE E20: 1 CABINA ACTIVA JP-15¨ PROFESIONAL BTOO - USB -FM PARA FORTALECER EL AMBIENTE EN LAS AULAS DE PREESCOLAR SEGÚN CIRCULAR 016 DEL 31 DE MARZO DE 2025 Y SALAS DE INFORMATICAS DE LA IE LUIS CARLOS GALAN SARMEINTO DE ARJONA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Astrea
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40101701 - Aires acondicionados
+
+**Códigos adicionales UNSPSC:**
+
+40101604 - Ventiladores,45111609 - Proyectores multimedia,45111711 - Deflector (bafle) de micrófono
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Electrodomésticos, -Aire acondicionado", "licicodigos": "115,139,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREGIMIENTO DE ARJONA MUNICIPIO DE ASTREA Astrea Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 16,957,223
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 07:29 am
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+21/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

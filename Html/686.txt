@@ -1,0 +1,187 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE GIRON SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835d035a84617.49011203
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 14:41:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ARRENDAMIENTO DE PLATAFORMA DE COMUNICACIONES DIGITALES VIA RADIO INCLUIDAS: TORRES DE COMUNICACIONES, ANTENAS, EQUIPOS REPETIDORES Y TERMINALES FINALES EN LAS FRECUENCIAS DE VHF DENTRO DEL MARCO DEL PROYECTO IMPLEMENTACION DE ESTRATEGIAS FORMATIVAS E INFORMATIVAS PARA LA MEJORA DE LA MOVILIDAD Y LA SEGURIDAD DEL MUNICIPIO DE GIRON, SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Girón
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161800 - Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "100,110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 104E No. 254 2 piso malpaso Girón Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 09:33 am
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 09:00 am
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 05:45 pm
+
+**Apertura de sobres:**
+
+30/May/2025 - 05:50 pm
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 05:55 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/Jun/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 05/Jun/2025 - 12:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 05/Jun/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/Jun/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |

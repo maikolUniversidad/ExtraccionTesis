@@ -1,0 +1,201 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f60d8e23e20.34967046
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 10:06:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE TRANSMISIÓN DEL EVENTO DE AUDIENCIA PÚBLICA DE RENDICIÓN DE CUENTAS A LA CIUDADANÍA - APRC - VIGENCIA 2025, PARA LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82131603 - Servicios de producción de vídeos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Streaming", "licicodigos": "486" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 95 No. 13-08 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82131603 | SERVICIO DE TRANSMISIÓN DEL EVENTO DE AUDIENCIA PÚBLICA DE RENDICIÓN DE CUENTAS A LA CIUDADANÍA - APRC - VIGENCIA 2024, PARA LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES | Mínima cuantía | Recursos propios | $8.330.000 | SUBDIRECCION GENERAL DE CONTRATACION ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 12:15 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+28/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 40,00 | 27/May/2025 - 12:00 pm | 27/Dic/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 27/May/2025 - 12:00 pm | 27/May/2028 - 12:00 pm |
+| Calidad del servicio | 30,00 | 27/May/2025 - 12:00 pm | 27/May/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7949691 | Publicación de la lista de ofertas del proceso MC 002-132-2025. | 28/May/2025 - 10:05 am |  | - |
+| Avisos | CO1.MSG.7949686 | La lista de oferentes del proceso MC 002-132-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 28/May/2025 - 10:05 am |  | - |
+| General | CO1.MSG.7939131 | AVISO NO LIMITACION PROCESO MIPYMES | 26/May/2025 - 05:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7938967 | RESPUESTA OBSERVACIONES PROCESO MC002-132-2025 | 26/May/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7931434 | REITERACIÓN OBSERVACIONES | 23/May/2025 - 04:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7931175 | OBSERVACIONES GENERALES | 23/May/2025 - 04:23 pm |  | - |

@@ -1,0 +1,341 @@
+Title: Licitaciones - ALCALDIA DE LA APARTADA CORDOBA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6829f03e8c5d79.36707809
+
+Markdown Content:
+Licitaciones - ALCALDIA DE LA APARTADA CORDOBA - Contratación mínima cuantía PMC-MLA-013-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-17 06:02:44
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERÍAS, ÚTILES, TÓNER RECARGAS, PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA DEL MUNICIPIO DE LA APARTADA CÓRDOBA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Córdoba : La Apartada
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44111500 - Agendas y accesorios
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 7 N° 20-21 DANIEL ALFONSO PAZ La Apartada Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44122000, 44101700, 44102900, 44103100, 44111500 | SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERIA, UTILES, TONER, RECARAS PARA LAS DIFERENTES DEPENDENCIAS DE LA ALACLADIA DEL MUNCIPIO DE LA APARTADA CÓRDOBA | Mínima cuantía | Recursos propios | $39.858.000 | SECRETARIA GENERAL Y DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/May/2025 - 09:30 am
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+19/May/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/May/2025 - 12:00 pm | 07/Nov/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 28/May/2025 - 12:00 pm | 07/May/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 28/May/2025 - 12:00 pm | 07/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 28/May/2025 - 12:00 pm | 07/Nov/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NIDIAN ELENA MORALES GUERRA | La Apartada - Córdoba |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,558,000
+
+**Informes proceso de selección CO1.AWD.2262829 de 28/May/2025 - 03:15 am. Valor $39.558.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 11:31 am |  |
+| Informe de selección | 28/May/2025 - 03:15 pm |  |
+| Informe de selección | 28/May/2025 - 03:15 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262829**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NIDIAN ELENA MORALES GUERRA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 39280367 | * **Nombre:** NIDIAN ELENA MORALES GUERRA * **Tipo documento:** NIT * **Documento:** 39280367 | La Apartada - Córdoba | $39.558.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262829****
+
+**Contrato PMC-MLA-013-2025 de NIDIAN ELENA MORALES GUERRA:**
+
+**ID del contrato en SECOP:**
+
+PMC-MLA-013-2025
+
+**Versión:**
+
+2
+
+**Estado del contrato:**
+
+Terminado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERÍAS, ÚTILES, TÓNER RECARGAS, PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA DEL MUNICIPIO DE LA APARTADA CÓRDOBA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44111500 | SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERÍAS, ÚTILES, TÓNER RECARGAS, PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA DEL MUNICIPIO DE LA APARTADA CÓRDOBA | 1,00 | UN | 39.858.000,00 | 39.558.000,00 | 39.858.000,00 | 39.558.000,00 |
+
+**Fecha inicio del contrato:**
+
+29/May/2025 - 09:00 am
+
+**Fecha de terminación del contrato:**
+
+07/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+10 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 39,558,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | COMUNICACION DE ACEPTACION MINIMA 13 papeleria.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACTA DE INICIO.pdf |  |
+|  | RP.pdf |  |
+
+**Modificaciones al contrato:**
+
+| Referencia de la modificación | Tipo de la modificación | Fecha de modificación | Fecha de aprobación | Estado | Versión | Versión previa | Cambios |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CO1.CTRMOD.19308472 | ContractTermination | 11/Jun/2025 - 09:19 am | 11/Jun/2025 - 09:20 am | Publicados | 2 |  |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262829 | Informe de selección CO1.AWD.2262829 | 28/May/2025 - 03:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262829 | Informe de evaluación 1 CO1.AWD.2262829 | 26/May/2025 - 11:31 am |  | - |
+| Avisos | CO1.MSG.7935909 | Publicación de la lista de ofertas del proceso PMC-MLA-013-2025. | 26/May/2025 - 11:14 am |  | - |
+| Reporte preliminar | CO1.AWD.2262725 | Informe de evaluación 1 CO1.AWD.2262725 | 26/May/2025 - 11:13 am |  | - |
+| Avisos | CO1.MSG.7926906 | La lista de oferentes del proceso PMC-MLA-013-2025 publicada por ALCALDIA DE LA APARTADA CORDOBA | 23/May/2025 - 08:10 am |  | - |
+| Avisos | CO1.REQ.8280022 | Publicación modificación | 22/May/2025 - 08:11 am |  |  |
+| General | CO1.MSG.7919131 | Limitar Mipyme Municipal Domicilio La Apartada | 21/May/2025 - 07:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7918905 | RESPUESTA OBSERVACIONES | 21/May/2025 - 06:28 pm |  | - |
+| General | CO1.MSG.7918897 | RESPUESTA OBSERVACIONES | 21/May/2025 - 06:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7911238 | MANIFESTACION LIMITACION MYPIMES NACIONAL | 20/May/2025 - 05:47 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:26 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

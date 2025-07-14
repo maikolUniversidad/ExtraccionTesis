@@ -1,0 +1,294 @@
+Title: Licitaciones - MUNICIPIO DE JERICO - ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682696e64d8222.24807120
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-10 06:30:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS TECNOLÓGICOS, INSUMOS Y SOFTWARE PARA EL DESARROLLO INTEGRAL DE LOS PROCESOS DE GESTIÓN DOCUMENTAL EN LA ALCALDÍA DEL MUNICIPIO DE JERICÓ ANTIOQUIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Jericó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Productos para archivo", "licicodigos": "102,104,105,127,313" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 5 Nº 7-50 Jericó Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 241,563,753
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300, 43211507, 43212105, 44111506, 44111515, 44111519, 44122003 | ADQUISICIÓN DE ELEMENTOS TECNOLÓGICOS, INSUMOS Y SOFTWARE PARA EL DESARROLLO INTEGRAL DE LOS PROCESOS DE GESTIÓN DOCUMENTAL EN LA ALCALDÍA DEL MUNICIPIO DE JERICÓ ANTIOQUIA. | Selección abreviada subasta inversa | Recursos propios | $241.563.753 | Secretaría de Gobierno |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 08:20 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 09:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 09:00 pm
+
+**Publicación Estudios Previos:**
+
+15/May/2025 - 09:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 09:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+23/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 03:09 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 03:30 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 08:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 08:00 am
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 05:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+03/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+09/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/Jun/2025 - 12:00 pm | 12/Mar/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 13/Jun/2025 - 12:00 pm | 12/Sep/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 13/Jun/2025 - 12:00 pm | 12/Mar/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SUMINISTROS Y SUCOMUNICACION SAS | Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 241,563,753
+
+**Informes proceso de selección CO1.AWD.2271304 de 09/Jun/2025 - 02:55 am. Valor $241.563.753**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 08:02 am |  |
+| Informe de selección | 09/Jun/2025 - 02:55 pm |  |
+| Informe de selección | 09/Jun/2025 - 02:55 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271304**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SUMINISTROS Y SUCOMUNICACION SAS * **Tipo documento:** Nit de Persona Natural * **Documento:** 901223481 | * **Nombre:** JOAN DAVID GUTIERREZ YEPES * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 71376384 | - Antioquia | $241.563.753 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271304****
+
+**Cuantía a la firma del contrato:**
+
+$ 241,563,753
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+09/Jun/2025 - 08:00 am
+
+**Fecha de inicio:**
+
+09/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+09/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271304 | Informe de selección CO1.AWD.2271304 | 09/Jun/2025 - 02:55 pm |  | - |
+| Avisos | CO1.MSG.8000162 | Publicación de la lista de ofertas del proceso SASI-006-2025 (Presentación de oferta). | 09/Jun/2025 - 10:52 am |  | - |
+| Avisos | CO1.MSG.8000159 | La lista de oferentes del proceso SASI-006-2025 (Presentación de oferta) publicada por MUNICIPIO DE JERICO - ANTIOQUIA | 09/Jun/2025 - 10:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2271304 | Informe de evaluación 1 CO1.AWD.2271304 | 04/Jun/2025 - 08:01 am |  | - |
+| Aclaraciones | CO1.MSG.7950681 | RE: Revisión a | 28/May/2025 - 11:39 am |  | - |
+| Aclaraciones | CO1.MSG.7939585 | Revisión a "Respuestas Observaciones al Proyecto Pliego de Condiciones" | 26/May/2025 - 05:56 pm |  | - |
+| General | CO1.MSG.7928032 | Limitación a Mipyme departamental | 23/May/2025 - 10:28 am |  | - |
+| Aclaraciones | CO1.MSG.7915492 | OBSERVACIONES, FINANCIERAS | 21/May/2025 - 12:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7909340 | OBSERVACION AL PLIEGO DE CONDICIONES | 20/May/2025 - 03:28 pm |  | - |

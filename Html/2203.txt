@@ -1,0 +1,101 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680924f3819547.81176995
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:48:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación, configuración, puesta en funcionamiento de hardware y software de la solución de Backups para la infraestructura tecnológica de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201814 - Equipos electrónicos de duplicación de medios o información
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,43231500 - Software funcional específico de la empresa,43233415 - Software de respaldo o archivo,81111818 - Garantía de terceros,81112208 - Mantenimiento de software de protección y seguridad,81111901 - Recuperación de información de las bases de datos,81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "102,103,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 12:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8155805 | Publicación modificación | 30/Abr/2025 - 03:23 pm |  |  |
+| Aclaraciones | CO1.MSG.7807936 | Observaciones | 28/Abr/2025 - 04:45 pm |  | - |

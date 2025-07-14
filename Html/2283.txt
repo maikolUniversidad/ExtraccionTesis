@@ -1,0 +1,96 @@
+Title: Licitaciones - MINISTERIO DE EDUCACION NACIONAL (MEN)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a488639aa76.79633404
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 09:18:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE SOPORTE, MANTENIMIENTO Y ACTUALIZACIÓN DEL LICENCIAMIENTO PARA LA GESTIÓN TÉCNICA, DE APLICACIONES Y SEGURIDAD TI DEL MINISTERIO DE EDUCACIÓN NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 43 # 57-14 CENTRO ADMINISTRATIVO NACIONAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 12:24 pm
+
+**Plazo para solicitar aclaraciones:**
+
+07/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+08/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8214508 | Publicación modificación | 08/May/2025 - 09:19 am |  |  |

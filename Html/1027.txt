@@ -1,0 +1,280 @@
+Title: Licitaciones - UNIDADES TECNOLOGICAS DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68110840529a37.98517539
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 11:26:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE PLATAFORMA VIRTUAL DE TRABAJO PARA OPERAR LA BOLSA DE EMPLEO DE LAS UNIDADES TECNOLOGICAS DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223200 - Plataformas de mensajería por móvil
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle de los estudiantes No.9-82 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43223200 | SERVICIO DE PLATAFORMA VIRTUAL DE TRABAJO PARA OPERAR LA BOLSA DE EMPLEO DE LAS UNIDADES TECNOLOGICAS DE SANTANDER | Mínima cuantía | Recursos propios | $23.686.889 | OFICINA JURIDICA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+29/Abr/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 12:00 pm
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 12:03 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+06/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 13/May/2025 - 12:00 pm | 27/Sep/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 13/May/2025 - 12:00 pm | 28/May/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 13/May/2025 - 12:00 pm | 27/Sep/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 04/May/2025 - 08:33 pm | * **Nombre:** LEADERSEARCH S.A.S. | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 23,686,889
+
+**Informes proceso de selección CO1.AWD.2245447 de 09/May/2025 - 10:36 am. Valor $23.686.889**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/May/2025 - 04:10 pm |  |
+| Informe de selección | 09/May/2025 - 10:36 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2245447**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LEADERSEARCH S.A.S. * **Tipo documento:** NIT * **Documento:** 830065157 | * **Nombre:** XIMENA DEL PILAR MORGAN * **Tipo documento:** * **Documento:** 52185741 | - Distrito Capital de Bogotá | $23.686.889 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2245447****
+
+**Contrato 001630-25 de LEADERSEARCH S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+001630-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SERVICIO DE PLATAFORMA VIRTUAL DE TRABAJO PARA OPERAR LA BOLSA DE EMPLEO DE LAS UNIDADES TECNOLOGICAS DE SANTANDER
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43223200 | SERVICIO DE PLATAFORMA VIRTUAL DE TRABAJO PARA OPERAR LA BOLSA DE EMPLEO DE LAS UNIDADES TECNOLOGICAS DE SANTANDER | 1,00 | UN | 23.686.889,00 | 23.686.889,00 | 23.686.889,00 | 23.686.889,00 |
+
+**Fecha de terminación del contrato:**
+
+28/May/2025 - 11:00 am
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 23,686,889
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Anexo 001630-25.pdf |  |
+|  | Designa supervisor _repaired.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7858583 | Carta de aceptación de la oferta | 09/May/2025 - 10:36 am |  | - |
+| Reporte final | CO1.AWD.2245447 | Informe de selección CO1.AWD.2245447 | 09/May/2025 - 10:36 am |  | - |
+| General | CO1.MSG.7847466 | Informe de evaluación consolidado | 07/May/2025 - 04:11 pm |  | - |
+| Reporte preliminar | CO1.AWD.2245447 | Informe de evaluación 1 CO1.AWD.2245447 | 07/May/2025 - 04:10 pm |  | - |
+| Avisos | CO1.MSG.7841874 | La lista de oferentes del proceso CMC-014-2025 publicada por UNIDADES TECNOLOGICAS DE SANTANDER | 06/May/2025 - 05:22 pm |  | - |
+| Avisos | CO1.MSG.7841877 | Publicación de la lista de ofertas del proceso CMC-014-2025. | 06/May/2025 - 05:22 pm |  | - |
+| General | CO1.MSG.7826448 | Aviso no limita Mipymes | 02/May/2025 - 02:25 pm |  | - |

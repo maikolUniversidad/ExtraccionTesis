@@ -1,0 +1,194 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DE CULTURA Y TURISMO DE TENJO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bc114445a61.61318062
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:45:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR LICENCIAMIENTO DE SOFTWARE DE PRODUCTIVIDAD TIPO OFFICE Y CONTRATAR EL SERVICIO DE HOSTING, INCLUYENDO SU ACTIVACIÓN, CONFIGURACIÓN Y SOPORTE TÉCNICO, CON DESTINO AL FUNCIONAMIENTO ADMINISTRATIVO Y OPERATIVO DEL INSTITUTO MUNICIPAL DE CULTURA Y TURISMO DE TENJO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Tenjo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112106 - Proveedores de servicios de aplicación
+
+**Códigos adicionales UNSPSC:**
+
+81112105 - Servicios de hospedaje de operación de sitios web
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Hosting", "licicodigos": "102,103,111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+km 1 via tenjo la punta Tenjo Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 11:42 am
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7881123 | RE: SOLICITUD SOBRE LA INCORPORACIÓN DE REQUERIMIENTO NO PREVISTO EN LA INVITACIÓN INICIAL | 14/May/2025 - 01:18 pm |  | - |
+| General | CO1.MSG.7843175 | RESOLUCIÓN POR LA CUAL SE DECLARA DESIERTO EL PROCESO | 06/May/2025 - 10:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241560 | Informe de evaluación 1 CO1.AWD.2241560 | 02/May/2025 - 05:01 pm |  | - |
+| Avisos | CO1.MSG.7828093 | Publicación de la lista de ofertas del proceso IMCTT-MC-008-2025. | 02/May/2025 - 05:01 pm |  | - |
+| Avisos | CO1.MSG.7821717 | La lista de oferentes del proceso IMCTT-MC-008-2025 publicada por INSTITUTO MUNICIPAL DE CULTURA Y TURISMO DE TENJO | 30/Abr/2025 - 05:15 pm |  | - |
+| Avisos | CO1.REQ.8168271 | Publicación modificación | 29/Abr/2025 - 06:10 pm |  |  |
+| General | CO1.MSG.7815662 | respuesta de observaciones | 29/Abr/2025 - 06:07 pm |  | - |
+| General | CO1.MSG.7815675 | Limitación a mipymes | 29/Abr/2025 - 06:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7815643 | RE: Limitacion a MiPymes Departamental - CUNDINAMARCA, Limitacion a MiPymes Departamental - CUNDINAMARCA | 29/Abr/2025 - 06:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7805285 | Limitacion a MiPymes Departamental - CUNDINAMARCA | 28/Abr/2025 - 10:46 am |  | - |
+| Aclaraciones | CO1.MSG.7805289 | Limitacion a MiPymes Departamental - CUNDINAMARCA | 28/Abr/2025 - 10:37 am |  | - |

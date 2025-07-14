@@ -1,0 +1,196 @@
+Title: Licitaciones - INSTITUTO NACIONAL PARA CIEGOS - Contratación mínima cuantía 071
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809490b5eace8.68540639
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-24 14:13:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio de soporte y configuración del Directorio Activo del Instituto Nacional para Ciegos - INCI
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 13 No. 34 -91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+232 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200 | Prestar el servicio de soporte y configuración del Directorio Activo del Instituto Nacional para Ciegos - INCI. | Mínima cuantía | Recursos propios | $5.300.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 03:02 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/May/2025 - 12:05 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 08/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 08/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7793286 | Preguntas | 24/Abr/2025 - 01:34 pm |  | - |

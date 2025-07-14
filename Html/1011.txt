@@ -1,0 +1,202 @@
+Title: Licitaciones - CENTRO TECNOLÓGICO DE CÚCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68251b267c12f9.85217301
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 08:51:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD A INTERNET Y SEGURIDAD EN LA RED PARA EL DESARROLLO DE LOS PROCESOS ADMINISTRATIVOS DEL CENTRO TECNOLOGICO DE CÚCUTA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Acceso a internet, -Seguridad informática", "licicodigos": "285,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+AV 6 N° 3- 20 BARRIO COMUNEROS Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101 | PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD A INTERNET Y SEGURIDAD EN LA RED PARA EL DESARROLLO DE LOS PROCESOS ADMINISTRATIVOS DEL CENTRO TECNOLOGICO DE CÚCUTA | Mínima cuantía | Recursos propios | $24.634.400 | CENTRO TECNOLOGICO DE CUCUTA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+14/May/2025 - 05:22 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 05:22 pm
+
+**Fecha de publicación:**
+
+14/May/2025 - 05:24 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+15/May/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 06:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 06:30 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 06:30 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 06:32 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 06:35 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+22/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 22/May/2025 - 12:00 pm | 21/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 22/May/2025 - 12:00 pm | 21/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 22/May/2025 - 12:00 pm | 21/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2256291 | Informe de evaluación 1 CO1.AWD.2256291 | 19/May/2025 - 06:22 pm |  | - |
+| Avisos | CO1.MSG.7897465 | Publicación de la lista de ofertas del proceso MC-009-CTC-2025. | 16/May/2025 - 06:36 pm |  | - |
+| Avisos | CO1.MSG.7897462 | La lista de oferentes del proceso MC-009-CTC-2025 publicada por CENTRO TECNOLÓGICO DE CÚCUTA | 16/May/2025 - 06:36 pm |  | - |
+| Avisos | CO1.REQ.8262572 | Publicación modificación | 16/May/2025 - 12:15 pm |  |  |
+| Avisos | CO1.REQ.8262572 | Publicación modificación | 15/May/2025 - 06:33 pm |  |  |
+| Aclaraciones | CO1.MSG.7890972 | RE: OBSERVACION 1 | 15/May/2025 - 06:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7886172 | OBSERVACION 1 | 15/May/2025 - 09:52 am |  | - |

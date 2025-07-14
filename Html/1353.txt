@@ -1,0 +1,181 @@
+Title: Licitaciones - MUNICIPIO SANTA ROSA DE OSOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bac390867a1.73356321
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:48:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LA SECRETARÍA DE MOVILIDAD DEL MUNICIPIO DE SANTA ROSA DE OSOS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Santa Rosa De Osos
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+44121600 - Suministros de escritorio,43221700 - Equipo fijo de red y componentes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 31 Nro. 30 - 10 Santa Rosa De Osos Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 44121600 | COMPRAVENTA DE COMPUTADORES DE ESCRITORIO, ELEMENTOS INFORMATICOS, IMPRESORAS, VIDEO BEAM, UPS, COMPUTADORES PORTATILES, DRON, SERVIDOR Y LICENCIAS DE MICROSOFT OFFICE PROFESIONAL PARA LA SECRETARIA DE TRÁNSITO Y TRANSPORTE DEL MUNICIPIO DE SANTA ROSA DE OSOS. | Mínima cuantía | Recursos propios | $36.400.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 05:03 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 05:05 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 05:05 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:05 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:05 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8285583 | Publicación modificación | 21/May/2025 - 08:52 am |  |  |
+| General | CO1.MSG.7913085 | AVISO DE LIMITACIÓN A MIPYMES PROCESO DE SELECCIÓN MÍNIMA CUANTÍA CMC SM 042 2025 | 21/May/2025 - 08:49 am |  | - |

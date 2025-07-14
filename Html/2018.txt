@@ -1,0 +1,106 @@
+Title: Licitaciones - SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. (OFICIAL)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685016a876c534.61578070
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:27:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE SWITCHES DE RED PARA LAS DIVERSAS UNIDADES DE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111803 - Mantenimiento o soporte de redes de área local (lan)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación", "licicodigos": "438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 66 No 15 - 41 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 200,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111803 | ADQUISICIÓN DE SWITCHES DE RED PARA LAS DIVERSAS UNIDADES DE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E | Contratación régimen especial (con ofertas) - Régimen especial | Recursos propios | $200.000.000 | DIRECCIÓN DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 07:57 am
+
+**Fecha límite para responder la solicitud de información:**
+
+19/Jun/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8057444 | Respuesta observaciones EM-255-2025 | 19/Jun/2025 - 11:00 am |  | - |

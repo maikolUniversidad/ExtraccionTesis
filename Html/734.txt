@@ -1,0 +1,256 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE GIRARDOT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68098799c00194.57745541
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 06:30:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR UN EQUIPO DE PLOTTER MULTIFUNCIONAL PARA APOYAR LOS PROCESOS EN DESARROLLO DE LA SECRETARIA DE PLANEACION
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Girardot
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212107 - Impresoras de plotter
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 11 CALLE 17 ESQUINA Piso 5 Girardot Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212107 | ADQUIRIR UN EQUIPO DE PLOTTER MULTIFUNCIONAL PARA APOYAR LOS PROCESOS EN DESARROLLO DE LA SECRETARIA DE PLANEACION. | Mínima cuantía | Recursos propios | $42.840.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 07:19 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 07:30 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 07:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 07:30 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 07:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 12:00 pm | 09/Sep/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 05/May/2025 - 12:00 pm | 09/Sep/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 10:21 pm | * **Nombre:** AYJ SYSTEM NETWORK SAS | Bogotá - Distrito Capital de Bogotá |
+| 2 | 29/Abr/2025 - 02:02 pm | * **Nombre:** FS COMPUTER DE COLOMBIA SAS | Distrito Capital de Bogotá |
+| 3 | 29/Abr/2025 - 02:54 pm | * **Nombre:** suministrosvillegas | Puerto Triunfo - Antioquia |
+| 4 | 29/Abr/2025 - 04:14 pm | * **Nombre:** JHON V | Tunja - Boyacá |
+| 5 | 29/Abr/2025 - 05:04 pm | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+| 6 | 29/Abr/2025 - 05:51 pm | * **Nombre:** SEMCAR SAS | Distrito Capital de Bogotá |
+| 7 | 29/Abr/2025 - 07:18 pm | * **Nombre:** LAPA INVERSIONES S.A.S | Ibagué - Tolima |
+| 8 | 29/Abr/2025 - 08:33 pm | * **Nombre:** SERVICOL E INGENIERÍA | Bogotá - Distrito Capital de Bogotá |
+| 9 | 29/Abr/2025 - 10:42 pm | * **Nombre:** SASOFTCO | Villavicencio - Meta |
+| 10 | 29/Abr/2025 - 10:59 pm | * **Nombre:** Grupo Caf tecnologia | Distrito Capital de Bogotá |
+| 11 | 30/Abr/2025 - 06:45 am | * **Nombre:** PROSERVARIOS SAS | Bogotá - Distrito Capital de Bogotá |
+| 12 | 30/Abr/2025 - 07:07 am | * **Nombre:** SUMINISTRO, ACOMPAÑAMIENTO Y ASESORIAS CONTRACTUALES RYA | Villavicencio - Meta |
+| 13 | 30/Abr/2025 - 07:15 am | * **Nombre:** SOLUCIONES VALMAJIA SAS | Bogotá - Distrito Capital de Bogotá |
+| 14 | 30/Abr/2025 - 07:16 am | * **Nombre:** SUMINISTROS Y ASESORIAS S | Bogotá - Distrito Capital de Bogotá |
+| 15 | 30/Abr/2025 - 07:52 am | * **Nombre:** QUANTYC SAS | Cota - Cundinamarca |
+| 16 | 30/Abr/2025 - 07:53 am | * **Nombre:** PC SYSTEM | Bucaramanga - Santander |
+| 17 | 30/Abr/2025 - 07:58 am | * **Nombre:** GRAN IMAGEN S.A.S. | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,412,800
+
+**Informes proceso de selección CO1.AWD.2241381 de 07/May/2025 - 04:00 am. Valor $39.412.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 06:25 pm |  |
+| Informe de evaluación | 06/May/2025 - 03:23 pm |  |
+| Informe de selección | 07/May/2025 - 04:00 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241381**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** HERLYN ANDREINA RINCON FRANCO * **Tipo documento:** NIT * **Documento:** 901301891 | * **Nombre:** Herlyn Andreina Rincon Franco * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1121860063 | Villavicencio - Meta | $39.412.800 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241381****
+
+**Cuantía a la firma del contrato:**
+
+$ 39,412,800
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241381 | Informe de selección CO1.AWD.2241381 | 07/May/2025 - 04:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241381 | Informe de evaluación 2 CO1.AWD.2241381 | 06/May/2025 - 03:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241381 | Informe de evaluación 1 CO1.AWD.2241381 | 02/May/2025 - 06:25 pm |  | - |
+| Avisos | CO1.REQ.8146124 | Publicación modificación | 02/May/2025 - 05:41 pm |  |  |
+| General | CO1.MSG.7828425 | ADENDA 01 | 02/May/2025 - 05:37 pm |  | - |
+| General | CO1.MSG.7828322 | COMERCIALIZADORA SEMCAR SAS - respuesta | 02/May/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.7819501 | REQUERIMIENTO PRECIO ARTIFICIALMENTE BAJO | 30/Abr/2025 - 02:16 pm |  | - |
+| Avisos | CO1.MSG.7817196 | Publicación de la lista de ofertas del proceso MINIMA CUANTIA 011-2025. | 30/Abr/2025 - 09:17 am |  | - |
+| Avisos | CO1.MSG.7817186 | La lista de oferentes del proceso MINIMA CUANTIA 011-2025 publicada por ALCALDIA MUNICIPAL DE GIRARDOT | 30/Abr/2025 - 09:16 am |  | - |
+| General | CO1.MSG.7812052 | RESPUESTA OBSERVACIONES | 29/Abr/2025 - 11:40 am |  | - |
+| General | CO1.MSG.7808684 | AVISO DE NO LIMITACION A MIPYME | 28/Abr/2025 - 05:39 pm |  | - |
+| General | CO1.MSG.7808602 | AVISO DE NO LIMITACIÓN A MIPYMES | | 28/Abr/2025 - 05:28 pm |  | - |

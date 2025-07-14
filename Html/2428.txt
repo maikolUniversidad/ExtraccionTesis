@@ -1,0 +1,100 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835e65b1508f7.02406237
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:09:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar los servicios especializados de fábrica de software para realizar las actividades del ciclo de vida de desarrollo de software de acuerdo con las características técnicas y necesidades funcionales de la Superintendencia Financiera de Colombia.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa,43231600 - Software de planificación de recursos empresariales (ERP) y contabilidad financiera,43232000 - Software de entretenimiento o juegos de computador,43232100 - Software de edición y creación de contenidos,43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,43232500 - Software educativo o de referencia,43232600 - Software específico para la industria,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233000 - Software de entorno operativo,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,43233500 - Software de intercambio de información,43233600 - Software de equipo eléctrico,43233700 - Software de administración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 10:39 am
+
+**Plazo para solicitar aclaraciones:**
+
+02/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7960121 | Solicitud Ampliación Tiempo | 29/May/2025 - 03:23 pm |  | - |

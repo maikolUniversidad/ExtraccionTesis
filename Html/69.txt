@@ -1,0 +1,238 @@
+Title: Licitaciones - Grupo Intendencia Regional Caribe
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685497b8a6e0f4.01564445
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:51:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO A TODO COSTO A LAS TORRES AUTOSOPORTADAS DE SAN ANDRES, ISLA; COVEÑAS Y CARTAGENA PERTENECIENTES A LA DIRECCIÓN GENERAL MARÍTIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar: Cartagena de Indias ; San Andrés, Providencia y Santa Catalina: San Andrés ; Sucre: Coveñas
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101500 - Ingeniería civil y arquitectura
+
+**Códigos adicionales UNSPSC:**
+
+72151500 - Servicios de sistemas eléctricos,81101600 - Ingeniería mecánica,81101700 - Ingeniería eléctrica y electrónica,72154300 - Servicios de mantenimiento y reparación de equipo motivo y generación de energía eléctrica,73152101 - Servicio de mantenimiento de equipo industrial
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Estructuras metálicas y carpintería metálica, -Torres y postes, -Antenas y equipos de repetición", "licicodigos": "79,94,100" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Dirección Barrio el Bosque, sector Manzanillo Tv. 54 # 21 a – 15 Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Obra
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154300, 73152101 | MANTENIMIENTO DE TORRES AUTOSOPORTADAS | Licitación pública | Presupuesto de entidad nacional | $1.585.525.764 | GRUPO INTENDENCIA REGIONAL CARIBE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 06:01 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/Jul/2025 - 06:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/Jul/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+11/Jul/2025 - 06:19 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+11/Jul/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+11/Jul/2025 - 07:00 pm
+
+**Plazo para manifestación de Interés:**
+
+16/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/Jul/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+18/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+23/Jul/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+23/Jul/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+31/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Ago/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+05/Ago/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Ago/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+15/Ago/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+13 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/Ago/2025 - 06:00 pm | 21/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 05/Ago/2025 - 06:00 pm | 21/May/2028 - 12:00 pm |
+| Estabilidad y calidad de la obra | 30,00 | 05/Ago/2025 - 06:00 pm | 21/Nov/2027 - 12:00 pm |
+| Calidad del servicio | 20,00 | 05/Ago/2025 - 06:00 pm | 21/May/2026 - 12:00 pm |
+
+**Estabilidad y calidad de la obra:**
+
+30,00% del valor del contrato, desde 05/Ago/2025 - 06:00 pm hasta 21/Nov/2027 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8133721 | RE: SOLICITUD ACLARACION | 08/Jul/2025 - 10:57 am |  | - |
+| General | CO1.MSG.8133715 | RE: OBSERVACION AL PROYECTO DE PLIEGO DE CONDICIONES | 08/Jul/2025 - 10:57 am |  | - |
+| Aclaraciones | CO1.MSG.8133705 | RE: Observacion al proyecto de pliego | 08/Jul/2025 - 10:56 am |  | - |
+| Avisos | CO1.REQ.8434829 | Publicación modificación | 03/Jul/2025 - 05:56 pm |  |  |
+| Avisos | CO1.REQ.8434829 | Publicación modificación | 02/Jul/2025 - 04:59 pm |  |  |
+| Aclaraciones | CO1.MSG.8082192 | Observacion al proyecto de pliego | 25/Jun/2025 - 05:13 pm |  | - |

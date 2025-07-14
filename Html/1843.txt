@@ -1,0 +1,97 @@
+Title: Licitaciones - DIRECCIÓN ANTISECUESTRO Y ANTIEXTORSIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b9ec3ad6106.90721766
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 09:48:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+En atención a las necesidades de la DIRECCIÓN DE ANTISECUESTRO Y ANTIEXTORSIÓN (DIASE), se ha iniciado la estructuración de un estudio de conveniencia y oportunidad para satisfacer las necesidades de dicha unidad, por lo que se hace extensiva la invitación a presentar la cotización para el proceso de ADQUISICIÓN SERVIDOR DE ARCHIVOS PARA LA DIRECCIÓN DE ANTISECUES-TRO Y ANTIEXTORSIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211501 - Servidores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TRANSVERSAL 23 No. 96-13 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 09:09 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/Abr/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7810927 | RE: AMPLIACION DE OFERTA | 29/Abr/2025 - 09:43 am |  | - |
+| Aclaraciones | CO1.MSG.7803416 | AMPLIACION DE OFERTA | 26/Abr/2025 - 06:35 pm |  | - |

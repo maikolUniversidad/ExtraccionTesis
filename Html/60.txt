@@ -1,0 +1,168 @@
+Title: Licitaciones - PATRIMONIO AUTÓNOMO FONDO NACIONAL DEL TURISMO FONTUR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c8c4d2796a2.86095112
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:22:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar los servicios para el licenciamiento e implementación de un Sistema de Gestión de Documento Electrónico de Archivo SGDEA para el P.A. FONTUR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231513 - Software para oficinas
+
+**Códigos adicionales UNSPSC:**
+
+43231507 - Software de manejo de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 26-20 piso 7 y 9, Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+20 Meses
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+25/Jun/2025 - 06:50 pm
+
+**Fecha límite de presentación de ofertas:**
+
+18/Jul/2025 - 10:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+18/Jul/2025 - 10:05 am
+
+**Fecha de Firma del Contrato:**
+
+15/Ago/2025 - 08:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+15/Ago/2025 - 08:05 am
+
+**Plazo de ejecución del contrato:**
+
+15/Abr/2027 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/Ago/2025 - 12:00 am | 15/Oct/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 15/Ago/2025 - 12:00 am | 15/Abr/2030 - 11:59 pm |
+| Calidad del servicio | 20,00 | 15/Ago/2025 - 12:00 am | 15/Abr/2028 - 11:59 pm |
+| GARANTÍA DE SERIEDAD DE LA OFERTA | 10,00 | 18/Jul/2025 - 12:00 am | 18/Nov/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8158803 | RE: OBSERVACIONES ADICIONALES AL PROCESO - Y SOLICITUD DE PRORROGA | 11/Jul/2025 - 04:52 pm |  | - |
+| Aclaraciones | CO1.MSG.8158166 | OBSERVACIONES ADICIONALES AL PROCESO - Y SOLICITUD DE PRORROGA | 11/Jul/2025 - 04:13 pm |  | - |
+| General | CO1.MSG.8154282 | RE: Solicitud Prorroga Presentacion Oferta | 11/Jul/2025 - 08:49 am |  | - |
+| General | CO1.MSG.8149723 | RE: SOLICITUD DE PRORROGA PRESENTACIÓN DE OFERTAS | 10/Jul/2025 - 02:11 pm |  | - |
+| General | CO1.MSG.8144621 | RE: Aclaración Formato 1 Carta de Presentación de la Propuesta | 09/Jul/2025 - 04:54 pm |  | - |
+| General | CO1.MSG.8143018 | RE: SOLICITUD DE PRORROGA PRESENTACIÓN DE OFERTA | 09/Jul/2025 - 02:58 pm |  | - |
+| Avisos | CO1.REQ.8463170 | Publicación modificación | 08/Jul/2025 - 06:44 pm |  |  |
+| Aclaraciones | CO1.MSG.8136153 | RE: Observaciones DACARTEC_2 | 08/Jul/2025 - 03:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8135572 | Observaciones DACARTEC_2 | 08/Jul/2025 - 03:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8130392 | RE: Observaciones al Proceso: GESTIÓN DOCUMENTAL P.A. FONTUR - FNTIA-023-2025 V2 | 07/Jul/2025 - 05:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8129850 | Observaciones al Proceso: GESTIÓN DOCUMENTAL P.A. FONTUR - FNTIA-023-2025 V2 | 07/Jul/2025 - 04:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8125257 | RE: Observaciones al Proceso: GESTIÓN DOCUMENTAL P.A. FONTUR - FNTIA-023-2025 | 07/Jul/2025 - 08:13 am |  | - |
+| Aclaraciones | CO1.MSG.8124046 | Observaciones al Proceso: GESTIÓN DOCUMENTAL P.A. FONTUR - FNTIA-023-2025 | 04/Jul/2025 - 11:34 pm |  | - |
+| General | CO1.MSG.8122871 | RE: Observaciones Invitación Abierta FNTIA-023-2025 | 04/Jul/2025 - 05:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8118699 | RE: Observaciones al Pliego | 04/Jul/2025 - 09:31 am |  | - |
+| Aclaraciones | CO1.MSG.8118680 | RE: Observaciones DACARTEC | 04/Jul/2025 - 09:28 am |  | - |
+| Aclaraciones | CO1.MSG.8118655 | RE: Observaciones | 04/Jul/2025 - 09:26 am |  | - |
+| Aclaraciones | CO1.MSG.8118604 | RE: Observaciones | 04/Jul/2025 - 09:19 am |  | - |
+| Aclaraciones | CO1.MSG.8118578 | RE: Observaciones Pliego - ANALITICA | 04/Jul/2025 - 09:16 am |  | - |
+| Aclaraciones | CO1.MSG.8118544 | RE: Observaciones al proceso en referencia | 04/Jul/2025 - 09:13 am |  | - |
+| General | CO1.MSG.8118362 | RE: Observaciones | 04/Jul/2025 - 08:52 am |  | - |
+| General | CO1.MSG.8118311 | RE: OBSERVACIONES AL PROCESO - SGDEA PARA EL P.A. FONTUR. | 04/Jul/2025 - 08:46 am |  | - |
+| Aclaraciones | CO1.MSG.8118122 | Observaciones | 04/Jul/2025 - 08:26 am |  | - |
+| Aclaraciones | CO1.MSG.8117974 | Observaciones DACARTEC | 04/Jul/2025 - 07:52 am |  | - |
+| Aclaraciones | CO1.MSG.8117713 | Observaciones al Pliego | 03/Jul/2025 - 10:46 pm |  | - |
+| Aclaraciones | CO1.MSG.8117435 | OBSERVACIONES PROCESO No. FNTIA-023-2025 | 03/Jul/2025 - 08:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8117233 | Observaciones | 03/Jul/2025 - 07:18 pm |  | - |
+| Aclaraciones | CO1.MSG.8116948 | Observaciones Pliego - ANALITICA | 03/Jul/2025 - 06:33 pm |  | - |
+| Aclaraciones | CO1.MSG.8116073 | Observaciones al proceso en referencia | 03/Jul/2025 - 05:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8115356 | RE: Observaciones Financieras | 03/Jul/2025 - 04:07 pm |  | - |

@@ -1,0 +1,225 @@
+Title: Licitaciones - DEPARTAMENTO DE SANTANDER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68521f69e865a7.62637892
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:07:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+RENOVACIÓN DE LICENCIAS DEL SISTEMA DE SEGURIDAD PERIMETRAL PARA LA PROTECCION DE LOS SISTEMAS DE INFORMACIÓN Y SITIOS WEB ALOJADOS EN LA PLATAFORMA DE TI DE LA GOBERNACIÓN DE SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 37 # 10-30 oficina 408 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+17/Jun/2025 - 07:51 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+17/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 11:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/Jun/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+01/Jul/2025 - 12:04 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+01/Jul/2025 - 12:05 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+01/Jul/2025 - 12:05 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+01/Jul/2025 - 12:05 pm
+
+**Plazo para manifestación de interés:**
+
+04/Jul/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jul/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+04/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+09/Jul/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jul/2025 - 09:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/Jul/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/Jul/2025 - 04:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+14/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 15/Jul/2025 - 12:00 pm | 14/Mar/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 15/Jul/2025 - 12:00 pm | 14/Sep/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 15/Jul/2025 - 12:00 pm | 14/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Jul/2025 - 12:00 pm | 14/Mar/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8144004 | Publicación de la lista de ofertas del proceso AD-SA-25-14 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 09/Jul/2025 - 04:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2302442 | Informe de evaluación 1 CO1.AWD.2302442 | 09/Jul/2025 - 04:12 pm |  | - |
+| General | CO1.MSG.8142237 | ADENDA 01 | 09/Jul/2025 - 01:30 pm |  | - |
+| Avisos | CO1.REQ.8513842 | Publicación modificación | 09/Jul/2025 - 12:48 pm |  |  |
+| Avisos | CO1.MSG.8139845 | La lista de oferentes del proceso AD-SA-25-14 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DEPARTAMENTO DE SANTANDER | 09/Jul/2025 - 09:03 am |  | - |

@@ -1,0 +1,138 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA ANTONIO BARAYA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fcb206e7167.55465563
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición de servicios tecnológicos del licenciamiento de una plataforma virtual para el procesamiento de información académica de los estudiantes de la Institución, correspondiente a los periodos definidos por el Establecimiento Educativo e informes parciales y finales. Impresión y Empaste del Libro de Calificaciones del año 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Baraya
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112000 - Servicios de datos
+
+**Códigos adicionales UNSPSC:**
+
+82121500 - Impresión,82121900 - Empaste de libros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Kilometro 1 Vía La Espinalosa Baraya Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+192 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,300,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82121500, 82121900 | Elaboración de Diplomas, Actas de Grado, menciones de Honor y Certificado Educación Básica, empaste e impresión de Libros de Calificaciones | Contratación régimen especial - Régimen especial | SGP | $1.800.000 | Rectoría |
+| 81112000 | Servicio Software plataforma para el procesamiento de las calificaciones de los estudiantes en linea. | Contratación régimen especial - Régimen especial | SGP | $1.500.000 | Rectoría |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 11:40 am
+
+**Fecha de Firma del Contrato:**
+
+09/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+12/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+20/May/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8177603 | Publicación modificación | 14/May/2025 - 09:43 am |  |  |
+| Avisos | CO1.REQ.8177603 | Publicación modificación | 06/May/2025 - 11:28 am |  |  |

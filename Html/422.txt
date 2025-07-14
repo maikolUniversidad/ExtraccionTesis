@@ -1,0 +1,229 @@
+Title: Licitaciones - SANTIAGO DE CALI DISTRITO ESPECIAL - SECRETARIA DE GOBIERNO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6856147f010349.30894905
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición de equipos audiovisuales y accesorios para el fortalecimiento de la producción y transmisión de contenidos institucionales para la Secretaría de Gobierno - Oficina de Comunicaciones de la Alcaldía de Santiago de Cali
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45121500 - Cámaras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida 2n 10-70 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 08:30 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 08:30 pm
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 08:34 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 05:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jul/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 12:00 pm | 31/Ene/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 12:00 pm | 31/Jul/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jul/2025 - 12:00 pm | 31/Jul/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 108,366,398
+
+**Informes proceso de selección CO1.AWD.2298207 de 09/Jul/2025 - 05:20 am. Valor $108.366.398**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jul/2025 - 09:44 am |  |
+| Informe de evaluación | 04/Jul/2025 - 09:44 am |  |
+| Informe de evaluación | 04/Jul/2025 - 09:44 am |  |
+| Informe de evaluación | 04/Jul/2025 - 09:44 am |  |
+| Informe de evaluación | 09/Jul/2025 - 04:59 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 04:59 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 04:59 pm |  |
+| Informe de evaluación | 09/Jul/2025 - 04:59 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:20 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8144994 | respuesta a las observaciones al informe de evaluacion | 09/Jul/2025 - 05:26 pm |  | - |
+| Reporte final | CO1.AWD.2298207 | Informe de selección CO1.AWD.2298207 | 09/Jul/2025 - 05:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2298207 | Informe de evaluación 2 CO1.AWD.2298207 | 09/Jul/2025 - 04:59 pm |  | - |
+| Objeciones | CO1.MSG.8125854 | [Respondido] RE:aclaración informe de evaluación | 09/Jul/2025 - 04:42 pm |  | - |
+| Avisos | CO1.REQ.8451175 | Publicación modificación | 08/Jul/2025 - 03:51 pm |  |  |
+| Objeciones | CO1.MSG.8125854 | aclaración informe de evaluación | 07/Jul/2025 - 09:53 am |  | - |
+| Avisos | CO1.MSG.8118843 | Publicación de la lista de ofertas del proceso 4112.020.32.1.-342-2025. | 04/Jul/2025 - 09:48 am |  | - |
+| Reporte preliminar | CO1.AWD.2298207 | Informe de evaluación 1 CO1.AWD.2298207 | 04/Jul/2025 - 09:44 am |  | - |
+| General | CO1.MSG.8112246 | RE: ACLARACION PRESUNTO PRECIO ARTIFICIALMENTE BAJO | 03/Jul/2025 - 09:50 am |  | - |
+| Avisos | CO1.MSG.8110256 | La lista de oferentes del proceso 4112.020.32.1.-342-2025 publicada por SANTIAGO DE CALI DISTRITO ESPECIAL - SECRETARIA DE GOBIERNO | 02/Jul/2025 - 06:38 pm |  | - |
+| General | CO1.MSG.8109162 | DESIGNACION EQUIPO EVALUADOR | 02/Jul/2025 - 04:50 pm |  | - |
+| General | CO1.MSG.8108444 | RE: subsanacion requerimiento juridicos y tecnicos | 02/Jul/2025 - 03:58 pm |  | - |
+| Avisos | CO1.REQ.8451175 | Publicación modificación | 02/Jul/2025 - 03:51 pm |  |  |
+| General | CO1.MSG.8106131 | RE: INDISPONIBILIDAD EN PLATAFORMA OFERTA ECONOMICA PROSMOVAL | 02/Jul/2025 - 11:08 am |  | - |
+| General | CO1.MSG.8090026 | Respuesta a observaciones | 26/Jun/2025 - 06:26 pm |  | - |
+| Avisos | CO1.REQ.8451175 | Publicación modificación | 26/Jun/2025 - 06:24 pm |  |  |
+| Avisos | CO1.REQ.8451175 | Publicación modificación | 24/Jun/2025 - 07:10 am |  |  |
+| Aclaraciones | CO1.MSG.8069208 | LIMITACION A MIPYMES MUNICIPALES | 21/Jun/2025 - 10:39 pm |  | - |

@@ -1,0 +1,255 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c2230d41c91.80050097
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:40:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICION DE BATERIAS Y REPUESTOS PARA LOS DIFERENTES TIPOS DE DRONES PARA SEGURIDAD Y DEFENSA DE LA FAC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32131000 - Accesorios, materias primas y piezas de componentes electrónicos
+
+**Códigos adicionales UNSPSC:**
+
+26111701 - Baterías recargables,25201600 - Sistemas de situación y navegación aeroespacial y componentes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/Jun/2025 - 07:56 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 04:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+20/Jun/2025 - 04:30 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+24/Jun/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+25/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/Jun/2025 - 02:56 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+01/Jul/2025 - 04:30 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+07/Jul/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+07/Jul/2025 - 07:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 04:30 pm
+
+**Apertura del sobre económico:**
+
+23/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+29/Jul/2025 - 04:30 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+30/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Ago/2025 - 04:30 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+06/Ago/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:17 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+23/Jul/2025 - 07:00 pm
+
+**Fecha de inicio:**
+
+25/Jul/2025 - 09:00 am
+
+**Fecha fin:**
+
+25/Jul/2025 - 09:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8470635 | Publicación modificación | 11/Jul/2025 - 03:57 pm |  |  |
+| Avisos | CO1.MSG.8126306 | La lista de oferentes del proceso 136-00-A-COFAC-CEGOT-2025 (Presentación de oferta) publicada por FUERZA AEROESPACIAL COLOMBIANA | 07/Jul/2025 - 10:08 am |  | - |
+| General | CO1.MSG.8123417 | Respuesta a observaciones recibidas | 04/Jul/2025 - 06:01 pm |  | - |
+| General | CO1.MSG.8123310 | Respuesta a observaciones recibidas | 04/Jul/2025 - 05:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8123267 | RE: OBSERVACION AL PLIEGO DE CONDICIONES | 04/Jul/2025 - 05:44 pm |  | - |
+| Aclaraciones | CO1.MSG.8108815 | OBSERVACION AL PLIEGO DE CONDICIONES | 02/Jul/2025 - 04:27 pm |  | - |

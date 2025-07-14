@@ -1,0 +1,94 @@
+Title: Licitaciones - METUN - Solicitud de información a los Proveedores (SECOPII) PN METUN 016 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d818d382f9.22721154
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:16:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE UN SERVIDOR DE DOMINIO PARA LA POLICÍA METROPOLITANA DE TUNJA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Tunja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201537 - Servidores de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+43211501 - Servidores de computador,43211502 - Servidores de computador de gama alta,43211506 - Computadores de cliente ligero,43211507 - Computadores de escritorio,43222608 - Repetidores de red,43222611 - Unidades de servicio de canales o información de red,43222612 - Interruptores de red,43222615 - Interruptor de área de almacenamiento de red san,43222619 - Equipo de video de red,43222620 - Interruptor multi servicios,43222621 - Interruptor de contenido,43222622 - Dispositivo para balancear la carga del servidor,43222625 - Servidores de acceso,81111505 - Servicios de programación de sistemas operativos,81111506 - Servicios de programación para clientes o servidores,81111508 - Servicios de implementación de aplicaciones,81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet,81112203 - Servicio de actualización o parcheo de firmware,81112204 - Mantenimiento de software de sistemas operativos,81112220 - Mantenimiento de software de servidores,81112221 - Servicio de mantenimiento del software del punto de venta,81112222 - Mantenimiento de software de gestión mantenimiento y operación de las instalaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 11 19 85 Tunja Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+45 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 04:05 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/May/2025 - 05:00 pm

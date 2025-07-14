@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ExtractMetadataObjectReference ContentHash="xp_zaIczQUyy7i_dKv1SvQ" Value="&lt;extract-table get_columns_name='1' get_empty_columns='1' columns_name_source='Longest'&gt;&lt;column name='Item' attr='fulltext' /&gt;&lt;column name='Nombre' attr='fulltext' /&gt;&lt;column name='Tipo' attr='fulltext' name2='Tipo Src' attr2='src' /&gt;&lt;column name='Documento' attr='fulltext' name2='Documento Url' attr2='href' /&gt;&lt;/extract-table&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix" />

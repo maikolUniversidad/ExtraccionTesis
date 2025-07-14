@@ -1,0 +1,100 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834f570693189.98071151
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 11:19:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPO ELECTRONICO TIPO TABLET- MIGRACIÓN COLOMBIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211900 - Monitores y pantallas de computador,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av. Calle 26 # 57 - 83 Torre 7 Piso 13 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:15 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8322602 | Publicación modificación | 30/May/2025 - 03:27 pm |  |  |

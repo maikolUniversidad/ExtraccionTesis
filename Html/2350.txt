@@ -1,0 +1,116 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE LA MUJER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682293eba3d2a6.15361918
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:13:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir o renovar la solución de hiperconvergencia, con el soporte y garantía.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,43211500 - Computadores,43201800 - Dispositivos de almacenamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Servidores (Suministro y alquiler)", "licicodigos": "102,269,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No. 69-76 Torre 1 Piso 9 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 120,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200 | I - SCDPI-101-01038-25 - Adquirir o renovar el soporte y garantía de la solución de hiperconvergencia por tres (3) años | Selección abreviada subasta inversa | NotApplied | $120.000.000 | DIRECCIÓN DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 07:34 pm
+
+**Plazo para solicitar aclaraciones:**
+
+15/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7902079 | respuesta als observaciones | 19/May/2025 - 02:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7902065 | RE: Observaciones_SDM | 19/May/2025 - 02:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7886712 | Observaciones_SDM | 15/May/2025 - 10:40 am |  | - |

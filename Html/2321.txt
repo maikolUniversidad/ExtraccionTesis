@@ -1,0 +1,100 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e75e38a89a2.68278789
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:23:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.081 MANTENIMIENTO Y SOPORTE TECNICO PARA LA PLATAFORMA RAPID7 DE LA UNIDAD CIBERDEFENSA , A EJECUTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 04:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 03:54 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8239118 | Publicación modificación | 27/May/2025 - 03:53 pm |  |  |
+| Avisos | CO1.REQ.8239118 | Publicación modificación | 27/May/2025 - 08:44 am |  |  |
+| Avisos | CO1.REQ.8239118 | Publicación modificación | 23/May/2025 - 05:12 pm |  |  |
+| Avisos | CO1.REQ.8239118 | Publicación modificación | 23/May/2025 - 04:59 pm |  |  |
+| Avisos | CO1.REQ.8239118 | Publicación modificación | 19/May/2025 - 08:41 am |  |  |

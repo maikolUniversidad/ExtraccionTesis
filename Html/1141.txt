@@ -1,0 +1,252 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67feb55ac9e552.55215943
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 06:35:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA REGIONAL ANTIOQUIA-CHOCÓ DE LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : La Estrella
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador
+
+**Códigos adicionales UNSPSC:**
+
+44103125 - Kit de mantenimiento de impresoras,56112005 - Partes o accesorios de soporte para computadores,72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,73152108 - Servicio de mantenimiento y reparación de equipos eléctricos,81112306 - Mantenimiento de impresoras,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Materiales para redes de comunicación", "licicodigos": "106,109,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 50 N° 79 Sur 101 Bodegas Stock Sur, La Estrella –Antioquia Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+220 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111812 | PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA REGIONAL ANTIOQUIA-CHOCÓ DE LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES | Mínima cuantía | Recursos propios | $18.000.000 | REGIONAL ANTIOQUIA CHOCO ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 02:32 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Abr/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/Abr/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+23/Abr/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+23/Abr/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+29/Abr/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Abr/2025 - 08:00 am | 30/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 25/Abr/2025 - 08:00 am | 30/Mar/2028 - 11:59 am |
+| Calidad del servicio | 20,00 | 25/Abr/2025 - 08:00 am | 30/Mar/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 23/Abr/2025 - 08:03 am | * **Nombre:** EQUIPARO SAS | Antioquia |
+| 2 | 23/Abr/2025 - 09:52 am | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+| 3 | 23/Abr/2025 - 09:55 am | * **Nombre:** READYNET | Girardota - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,000,000
+
+**Informes proceso de selección CO1.AWD.2235041 de 30/Abr/2025 - 04:55 am. Valor $18.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Abr/2025 - 04:01 pm |  |
+| Informe de evaluación | 25/Abr/2025 - 04:01 pm |  |
+| Informe de evaluación | 25/Abr/2025 - 04:01 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:08 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:08 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:08 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 06:08 pm |  |
+| Informe de selección | 30/Abr/2025 - 04:55 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2235041**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC ON LINE ALTA TECNOLOGIA SAS * **Tipo documento:** NIT * **Documento:** 900707916 | * **Nombre:** HECTOS EMILIO MEDINA SALGADO * **Tipo documento:** NIT * **Documento:** 86059341 | - | $18.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2235041****
+
+**Cuantía a la firma del contrato:**
+
+$ 18,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2235041 | Informe de selección CO1.AWD.2235041 | 30/Abr/2025 - 04:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2235041 | Informe de evaluación 2 CO1.AWD.2235041 | 29/Abr/2025 - 06:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2235041 | Informe de evaluación 1 CO1.AWD.2235041 | 25/Abr/2025 - 04:01 pm |  | - |
+| General | CO1.MSG.7799286 | RE: Soicitud des-clasificar de confidencial | 25/Abr/2025 - 12:09 pm |  | - |
+| General | CO1.MSG.7794459 | Adenda Cronograma Proceso | 24/Abr/2025 - 04:03 pm |  | - |
+| Avisos | CO1.REQ.8115309 | Publicación modificación | 24/Abr/2025 - 03:44 pm |  |  |
+| Avisos | CO1.MSG.7784848 | La lista de oferentes del proceso MC 007-014-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 23/Abr/2025 - 10:13 am |  | - |
+| Avisos | CO1.MSG.7784854 | Publicación de la lista de ofertas del proceso MC 007-014-2025. | 23/Abr/2025 - 10:13 am |  | - |
+| Avisos | CO1.REQ.8115309 | Publicación modificación | 21/Abr/2025 - 04:47 pm |  |  |
+| General | CO1.MSG.7775185 | Resolución por medio de la cual se limita un proceso | 21/Abr/2025 - 04:42 pm |  | - |

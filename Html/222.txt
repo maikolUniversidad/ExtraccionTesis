@@ -1,0 +1,252 @@
+Title: Licitaciones - AGENCIA NACIONAL DEL ESPECTRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a59fd3af615.18330468
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 15:32:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar el licenciamiento para la solución de la infraestructura hiperconvergente (QUANTUM), el cual incluye la prestación de los servicios de soporte, garantía, mantenimiento preventivo y correctivo para la Agencia Nacional del Espectro - ANE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,43233700 - Software de administración de sistemas,81112000 - Servicios de datos,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 93 # 17 - 45 piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 384,028,867
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800, 43212200, 43233700, 81112300 | Gestión TIC- Servicios de licenciamiento de la Plataforma Tecnológica de hiperconvergencia | Selección abreviada subasta inversa | Recursos propios | $384.028.867 | ANE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Abr/2025 - 10:29 am
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+06/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+07/May/2025 - 07:23 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+07/May/2025 - 11:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+07/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+12/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+12/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+20/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+20/May/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+04/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Jun/2025 - 11:58 pm
+
+**Firma del Contrato:**
+
+06/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 06/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 06/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+04/Jun/2025 - 04:00 pm
+
+**Fecha fin:**
+
+04/Jun/2025 - 04:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7938546 | Publicación de la lista de ofertas del proceso SASI-144-2025 (Presentación de oferta). | 26/May/2025 - 04:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262952 | Informe de evaluación 1 CO1.AWD.2262952 | 26/May/2025 - 04:19 pm |  | - |
+| Avisos | CO1.MSG.7912459 | La lista de oferentes del proceso SASI-144-2025 (Presentación de oferta) publicada por AGENCIA NACIONAL DEL ESPECTRO | 20/May/2025 - 11:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7828446 | Observaciones ANE SASI-144-2025 | 02/May/2025 - 05:40 pm |  | - |

@@ -1,0 +1,296 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE COROZAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68348fa266c8f6.04732407
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-22 06:50:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+DOTACIÓN DE EQUIPOS TECNOLÓGICOS, AIRES ACONDICIONADOS E INSUMOS DE OFICINA PARA LAS ACTIVIDADES DE LA COMISARÍA DE FAMILIA DEL MUNICIPIO DE COROZAL - SUCRE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Corozal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Mobiliario, -Aire acondicionado", "licicodigos": "104,105,127,128,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Carrera 28 No. 31A – 08, Barrio San Juan, Plaza de Junín, Palacio Municipal Segundo Piso Corozal Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 119,978,121
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 10:36 am
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 12:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 12:00 pm
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 12:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 12:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 05:09 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+10/Jun/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+17/Jun/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+18/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+20/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jun/2025 - 12:00 pm | 03/Ene/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 18/Jun/2025 - 12:00 pm | 03/Jul/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** FID | Corozal - Sucre |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 119,978,121
+
+**Informes proceso de selección CO1.AWD.2280499 de 20/Jun/2025 - 12:14 pm. Valor $119.978.121**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 05:56 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 05:44 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 02:45 pm |  |
+| Informe de selección | 20/Jun/2025 - 12:14 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2280499**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FUNDACION INTEGRAL Y DEPORTIVA FID * **Tipo documento:** NIT * **Documento:** 901145254 | * **Nombre:** JULIAN FELIPE GOMEZ CORONADO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 3837921 | Corozal - Sucre | $119.978.121 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2280499****
+
+**Cuantía a la firma del contrato:**
+
+$ 119,978,121
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+17/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+17/Jun/2025 - 02:01 pm
+
+**Fecha fin:**
+
+17/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2280499 | Informe de selección CO1.AWD.2280499 | 20/Jun/2025 - 12:14 pm |  | - |
+| Avisos | CO1.MSG.8057874 | Publicación de la lista de ofertas del proceso SUBASTA INVERSA PRESENCIAL SASI-CS-002-2025 (Presentación de oferta). | 19/Jun/2025 - 11:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2280499 | Informe de evaluación 3 CO1.AWD.2280499 | 18/Jun/2025 - 02:45 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280499 | Informe de evaluación 2 CO1.AWD.2280499 | 17/Jun/2025 - 05:44 pm |  | - |
+| Objeciones | CO1.MSG.8034912 | [Respondido] RE:SUBSANACION SEGUN INFORME DE EVALUACION.- | 17/Jun/2025 - 05:43 pm |  | - |
+| Objeciones | CO1.MSG.8034912 | SUBSANACION SEGUN INFORME DE EVALUACION.- | 16/Jun/2025 - 09:23 am |  | - |
+| Reporte preliminar | CO1.AWD.2280499 | Informe de evaluación 1 CO1.AWD.2280499 | 13/Jun/2025 - 05:55 pm |  | - |
+| Avisos | CO1.MSG.8011270 | La lista de oferentes del proceso SUBASTA INVERSA PRESENCIAL SASI-CS-002-2025 (Presentación de oferta) publicada por ALCALDIA MUNICIPAL DE COROZAL | 10/Jun/2025 - 06:13 pm |  | - |

@@ -1,0 +1,215 @@
+Title: Licitaciones - CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68096cd42c1552.71749059
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 21:13:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO N CONV.INTERAD0062024.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Mosquera
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121716 - Resaltadores
+
+**Códigos adicionales UNSPSC:**
+
+44103103 - Tóner para impresoras o fax,44121618 - Tijeras,44122003 - Carpetas,56121805 - Archivos planos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 N° 2-68 Mosquera Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121716, 44121618, 56121805, 44122003, 44103103 | 1348.ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO N CONV.INTERAD0062024. | Selección abreviada menor cuantía | Recursos propios | $38.000.000 | OFICINA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 05:16 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 05:30 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 05:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 05:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+02/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/May/2025 - 12:00 am | 30/Nov/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 02/May/2025 - 12:00 am | 31/May/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(15/May/2025 - 04:00 am:19 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA en 5 horas de tiempo transcurrido (15/May/2025 - 04:00 am:19 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: La entidad publicó declaratoria de desierto el 02/May/2025 - 11:09 am AM
+
+**Fecha de la cancelación:**
+
+15/May/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7825189 | RESOLUCION DECLARATORIA DE DESIERTA | 02/May/2025 - 11:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2238552 | Informe de evaluación 2 CO1.AWD.2238552 | 02/May/2025 - 11:05 am |  | - |
+| Reporte preliminar | CO1.AWD.2238552 | Informe de evaluación 1 CO1.AWD.2238552 | 29/Abr/2025 - 06:38 pm |  | - |
+| Avisos | CO1.MSG.7815204 | Publicación de la lista de ofertas del proceso MC-022-2025. | 29/Abr/2025 - 05:18 pm |  | - |
+| Avisos | CO1.MSG.7810568 | La lista de oferentes del proceso MC-022-2025 publicada por CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA | 29/Abr/2025 - 09:07 am |  | - |
+| General | CO1.MSG.7797510 | AVISO NO LIMITACIÓN A MIPYMES | 25/Abr/2025 - 08:50 am |  | - |
+| General | CO1.MSG.7795644 | RE: Solicitud de formatos | 24/Abr/2025 - 05:27 pm |  | - |

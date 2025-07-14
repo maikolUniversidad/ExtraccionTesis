@@ -1,0 +1,356 @@
+Title: Licitaciones - DIRECCIÓN GENERAL DE SANIDAD MILITAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682666c78b2f45.10314601
+
+Markdown Content:
+Licitaciones - DIRECCIÓN GENERAL DE SANIDAD MILITAR - Contratación mínima cuantía 167 MDN-COGFM-JEMCO-DIGSA-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-30 08:37:20
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+LICENCIAS SUITE ADOBE ACROBAT PRO Y ADOBE CREATIVE CLOUD PARA EL AREA DE COMUNICACIONES ESTRATEGICAS, DE LA DIRECCIÓN GENERAL DE SANIDAD MILITAR.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+43231512 - Software de manejo de licencias
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Av. Calle 26 No 69-76 Centro Empresarial Elemento Torre Tierra Piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | EQUIPO Y APARATOS DE RADIO, TELEVISIÓN Y COMUNICACIONES - LICENCIAMIENTO DE SUITE ADOBE ACROBAT PRO- LICENCIA ADOBE STOCK | Mínima cuantía | Recursos propios | $9.700.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+| 81112501 | EQUIPO Y APARATOS DE RADIO, TELEVISIÓN Y COMUNICACIONES - LICENCIAMIENTO WINSERVER CAL | Mínima cuantía | Recursos propios | $50.000.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 04:45 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 11:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 28/May/2025 - 05:00 pm | 30/Abr/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 28/May/2025 - 05:00 pm | 31/Dic/2028 - 11:36 pm |
+| Calidad del servicio | 10,00 | 28/May/2025 - 05:00 pm | 30/Abr/2026 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CREAR IMAGEN S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,814,000
+
+**Informes proceso de selección CO1.AWD.2262682 de 30/May/2025 - 09:44 am. Valor $9.814.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 04:16 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:16 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:16 pm |  |
+| Informe de selección | 30/May/2025 - 09:44 am |  |
+| Informe de selección | 30/May/2025 - 09:44 am |  |
+| Informe de selección | 30/May/2025 - 09:44 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262682**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CREAR IMAGEN DISEÑO WEB Y MULTIMEDIA S.A.S * **Tipo documento:** NIT * **Documento:** 900457310 | * **Nombre:** NEFTALI ARANGO ANGEL * **Tipo documento:** NIT * **Documento:** 80735933 | - Distrito Capital de Bogotá | $9.814.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262682****
+
+**Contrato 159 DIGSA-2025 de CREAR IMAGEN DISEÑO WEB Y MULTIMEDIA S.A.S:**
+
+**ID del contrato en SECOP:**
+
+159 DIGSA-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUSCRIPCIÓN DE LICENCIAS "SUITE ADOBE ACROBAT PRO Y ADOBE CRÉATIVE CLOUD" PARA EL AREA DE COMUNICACIONES ESTRATEGICAS, DE LA DIRECCIÓN GENERAL DE SANIDAD MILITAR.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43231512 | Adobe Creative Cloud: Dos (2) Licencias por un año, for Teams Multiple Plataforma Multilenguaje (diseño gráfico y contenidos multimedia y edicion), la cual permite el uso de herramientas de trabajo para producir y editar material audio visual para web, igualmente para la impresión de material en alta calidad. Además, el acceso a nuevas funciones y actualizaciones en cuanto estén disponibles. Funciones de almacenamiento en la nube y de sincronización de archivos que permitan acceder con seguridad a los archivos, incluso desde un dispositivo móvil. De acuerdo con los requerimientos técnicos | 2,00 | UN | 4.469.000,00 | 3.500.000,00 | 8.938.000,00 | 7.000.000,00 |
+| 2 | 43231512 | Suite Adobe Acrobat Pro: Dos (2) licencias por un año, debe incluir versiones completas con herramientas que se necesitan como editar, convertir, revisar y firmar. De acuerdo con los requerimientos tecnicos | 2,00 | UN | 1.500.539,00 | 1.407.000,00 | 3.001.078,00 | 2.814.000,00 |
+
+**Fecha inicio del contrato:**
+
+09/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 9,814,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | RP.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262682 | Informe de selección CO1.AWD.2262682 | 30/May/2025 - 09:44 am |  | - |
+| Avisos | CO1.MSG.7938500 | Publicación de la lista de ofertas del proceso 167 MDN-COGFM-JEMCO-DIGSA-2025. | 26/May/2025 - 04:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262682 | Informe de evaluación 1 CO1.AWD.2262682 | 26/May/2025 - 04:16 pm |  | - |
+| Avisos | CO1.MSG.7922491 | La lista de oferentes del proceso 167 MDN-COGFM-JEMCO-DIGSA-2025 publicada por DIRECCIÓN GENERAL DE SANIDAD MILITAR+ | 22/May/2025 - 12:55 pm |  | - |
+| Avisos | CO1.REQ.8266336 | Publicación modificación | 20/May/2025 - 05:26 pm |  |  |
+| General | CO1.MSG.7901539 | AVISO DE LIMITACIÓN A MIPYMES | 20/May/2025 - 12:06 pm |  | - |
+| General | CO1.MSG.7907940 | respuesta observación. | 20/May/2025 - 12:03 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:26 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

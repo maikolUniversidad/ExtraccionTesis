@@ -1,0 +1,209 @@
+Title: Licitaciones - FISCALÍA GENERAL DE LA NACIÓN NIVEL CENTRAL.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b3343e55e93.30451022
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:44:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICION DE MAQUINAS IMPRESORAS DE CARNES PARA LA IDENTIFICACION PARA LOS SERVIDORES DE LA FISCALIA GENERAL DE LA NACION A NIVEL NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida calle 24 No. 52 - 01 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+110 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112306 | ADQUISICIÓN DE MAQUINAS IMPRESORAS DE CARNÉS DE IDENTIFICACIÓN DE LOS SERVIDORES DE LA FISCALÍA GENERAL DE LA NACIÓN | Mínima cuantía | Presupuesto de entidad nacional | $82.000.000 | SUBDIRECCIÓN DE GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 02:43 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 10:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 02/Jul/2025 - 12:00 pm | 31/Mar/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 01/Nov/2025 - 12:00 pm | 30/Oct/2028 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2289841 | Informe de evaluación 2 CO1.AWD.2289841 | 27/Jun/2025 - 10:53 am |  | - |
+| General | CO1.MSG.8091589 | Anexo No. 8 | 27/Jun/2025 - 09:17 am |  | - |
+| General | CO1.MSG.8081388 | Documentos para Subsanar Evaluacion 2 | 25/Jun/2025 - 04:31 pm |  | - |
+| General | CO1.MSG.8081291 | Documentos para Subsanar Evaluacion | 25/Jun/2025 - 04:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289841 | Informe de evaluación 1 CO1.AWD.2289841 | 24/Jun/2025 - 04:43 pm |  | - |
+| Avisos | CO1.REQ.8403694 | Publicación modificación | 20/Jun/2025 - 04:47 pm |  |  |
+| General | CO1.MSG.8067053 | ADENDA 2 | 20/Jun/2025 - 04:21 pm |  | - |
+| General | CO1.MSG.8059027 | AVISO DE CIERRE Y PASO A EVALUACION | 19/Jun/2025 - 02:37 pm |  | - |
+| General | CO1.MSG.8058093 | AVISO REPORTAR SITUACION DEL PROPONENTE SOMETIDO A CONTROL | 19/Jun/2025 - 12:03 pm |  | - |
+| Avisos | CO1.MSG.8056909 | Publicación de la lista de ofertas del proceso FGN-NC-MC-0018-2025. | 19/Jun/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.8056905 | La lista de oferentes del proceso FGN-NC-MC-0018-2025 publicada por FISCALÍA GENERAL DE LA NACIÓN NIVEL CENTRAL. | 19/Jun/2025 - 10:08 am |  | - |
+| Avisos | CO1.REQ.8403694 | Publicación modificación | 17/Jun/2025 - 06:13 pm |  |  |
+| General | CO1.MSG.8046066 | RE: Observacion al Proceso | 17/Jun/2025 - 04:41 pm |  | - |
+| General | CO1.MSG.8042268 | AVISO INFORMA LIMITACION DE LA CONVOCATORIA A MIPYMES NACIONALES | 17/Jun/2025 - 10:16 am |  | - |
+| General | CO1.MSG.8039991 | SOLICITUD A LA CONTADORA QUE CERTIFICA LA CONDICION DE MIPYME DE LOS SOLICITANTES | 16/Jun/2025 - 06:25 pm |  | - |

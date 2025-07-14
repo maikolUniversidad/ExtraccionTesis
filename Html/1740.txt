@@ -1,0 +1,134 @@
+Title: Licitaciones - COLEGIO REPUBLICA FEDERAL DE ALEMANIA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68101433cecbd9.60622495
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:42:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición e implementación de un certificado de firma digital de Función Pública,destinado al envío de informes y documentación a los entes reguladores, garantizando la autenticidad, integridad y validez de estos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+84111500 - Servicios contables
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 23 B 44 05 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 250,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 03:14 pm
+
+**Fecha de Firma del Contrato:**
+
+08/May/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+07/May/2026 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8177580 | Publicación modificación | 06/May/2025 - 02:47 pm |  |  |
+| Avisos | CO1.REQ.8177580 | Publicación modificación | 05/May/2025 - 03:49 pm |  |  |
+| Avisos | CO1.REQ.8177580 | Publicación modificación | 02/May/2025 - 11:08 am |  |  |

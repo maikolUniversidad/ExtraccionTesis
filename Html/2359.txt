@@ -1,0 +1,94 @@
+Title: Licitaciones - METRO DE BOGOTA SA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823bbf8f31699.76601658
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:00:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar el servicio de renovación del pool de direcciones IPV6 ante lacnic para la empresa Metro de Bogotá S.A
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111708 - Servicios de planificación de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Acceso a internet", "licicodigos": "103,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 9 # 76-49 Pisos 3-4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 04:21 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Jun/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8256027 | Publicación modificación | 24/Jun/2025 - 09:58 am |  |  |
+| Avisos | CO1.REQ.8256027 | Publicación modificación | 21/May/2025 - 08:04 am |  |  |
+| General | CO1.MSG.7912753 | RE: OBSERVACION | 21/May/2025 - 08:03 am |  | - |

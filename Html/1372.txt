@@ -1,0 +1,210 @@
+Title: Licitaciones - MUNICIPIO DE ALTAMIRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68251b0abd1b96.32928374
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 22:30:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO E INSTALACION DE LICENCIAS DE SOFTWARE PARA SISTEMAS OPERATIVOS WINDOWS 11, OFFICE 365 CORPORATIVO Y ANTIVIRUS, CON DESTINO A LOS EQUIPOS DE CÓMPUTO DE LA ALCALDIA MUNICIPAL DE ALTAMIRA, HUILA, EN EL MARCO DEL CUMPLIMIENTO DEL PLAN ESTRATEGICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Altamira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 3 6-06 Altamira Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | CONTRATAR EL SUMINISTRO E INSTALACION DE LICENCIAS DE SOFTWARE PARA SISTEMAS OPERATIVOS WINDOWS 11, OFFICE 365 CORPORATIVO Y ANTIVIRUS, CON DESTINO A LOS EQUIPOS DE CÓMPUTO DE LA ALCALDIA MUNICIPAL DE ALTAMIRA, HUILA, EN EL MARCO DEL CUMPLIMIENTO DEL PLAN ESTRATEGICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES | Mínima cuantía | Recursos propios | $8.805.190 | MUNICIPIO DE ALTAMIRA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+14/May/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+14/May/2025 - 05:35 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 22/May/2025 - 07:00 pm | 21/Dic/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 22/May/2025 - 07:00 pm | 21/Jun/2026 - 11:50 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(26/Jun/2025 - 02:24 am:10 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE ALTAMIRA en 8 horas de tiempo transcurrido (26/Jun/2025 - 02:24 am:10 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se cancela teniendo en cuenta las consideraciones y justificaciones de la resolución de declaratoria desierta adjunta al presente proceso.
+
+**Fecha de la cancelación:**
+
+26/Jun/2025 - 02:24 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7975754 | MA-SMC-012-2025 RESOLUCION DECLARATORIA DESIERTO | 03/Jun/2025 - 05:49 pm |  | - |
+| General | CO1.MSG.7962204 | INFORME DE EVALUACION FINAL | 29/May/2025 - 06:23 pm |  | - |
+| General | CO1.MSG.7959899 | MA-SMC-012-2025 RESPUESTA OBSERVACION AL INFORME PRELIMINAR | 29/May/2025 - 03:03 pm |  | - |
+| Avisos | CO1.REQ.8261811 | Publicación modificación | 28/May/2025 - 06:36 pm |  |  |
+| Avisos | CO1.REQ.8261811 | Publicación modificación | 26/May/2025 - 05:25 pm |  |  |
+| Avisos | CO1.MSG.7927307 | La lista de oferentes del proceso MA-SMC-012-2025 publicada por MUNICIPIO DE ALTAMIRA | 23/May/2025 - 09:07 am |  | - |
+| Avisos | CO1.MSG.7927313 | Publicación de la lista de ofertas del proceso MA-SMC-012-2025. | 23/May/2025 - 09:07 am |  | - |
+| Reporte preliminar | CO1.AWD.2259803 | Informe de evaluación 1 CO1.AWD.2259803 | 22/May/2025 - 08:06 pm |  | - |
+| General | CO1.MSG.7921695 | MA-SMC-012-2025 RESPUESTA OBSERVACION EXTEMPORANEA | 22/May/2025 - 11:20 am |  | - |
+| Avisos | CO1.REQ.8261811 | Publicación modificación | 20/May/2025 - 06:20 pm |  |  |
+| General | CO1.MSG.7910982 | MA-SMC-012-2025 RESPUESTA OBSERVACIONES | 20/May/2025 - 05:22 pm |  | - |
+| Avisos | CO1.REQ.8261811 | Publicación modificación | 19/May/2025 - 06:14 pm |  |  |
+| Avisos | CO1.REQ.8261811 | Publicación modificación | 16/May/2025 - 11:56 am |  |  |
+| General | CO1.MSG.7893928 | MA-SMC-012-2025 ACTA LIMITACION A MIPYMES | 16/May/2025 - 11:49 am |  | - |

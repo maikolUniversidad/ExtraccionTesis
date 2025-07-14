@@ -1,0 +1,90 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a71ca454a3.77388501
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 09:13:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la prestación del servicio de instalación, configuración, puesta en funcionamiento y soporte técnico del sistema de monitoreo vehicular en tiempo real para los vehículos de la UAE Junta Central de Contadores.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+25173107 - Sistemas de posicionamiento global de vehículos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "GPS y servicio de monitoreo", "licicodigos": "377" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 97-46 EDIFICIO TORRE 97 OFICINA 301 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 06:27 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 02:00 pm

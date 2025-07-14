@@ -1,0 +1,211 @@
+Title: Licitaciones - MUNICIPIO DE ALTAMIRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c68c8959872.70452191
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:47:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO E INSTALACION DE LICENCIAS DE SOFTWARE PARA SISTEMAS OPERATIVOS WINDOWS 11, OFFICE 365 CORPORATIVO Y ANTIVIRUS, CON DESTINO A LOS EQUIPOS DE CÓMPUTO DE LA ALCALDIA MUNICIPAL DE ALTAMIRA, HUILA, EN EL MARCO DEL CUMPLIMIENTO DEL PLAN ESTRATEGICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Altamira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 3 6-06 Altamira Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | CONTRATAR EL SUMINISTRO E INSTALACION DE LICENCIAS DE SOFTWARE PARA SISTEMAS OPERATIVOS WINDOWS 11, OFFICE 365 CORPORATIVO Y ANTIVIRUS, CON DESTINO A LOS EQUIPOS DE CÓMPUTO DE LA ALCALDIA MUNICIPAL DE ALTAMIRA, HUILA, EN EL MARCO DEL CUMPLIMIENTO DEL PLAN ESTRATEGICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES | Mínima cuantía | Recursos propios | $8.805.190 | MUNICIPIO DE ALTAMIRA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 04:00 pm
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 04:12 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/Jun/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/Jun/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 12:01 pm
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 12:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 07:00 pm | 05/Ene/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 03/Jul/2025 - 07:00 pm | 05/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 8,805,190
+
+**Informes proceso de selección CO1.AWD.2294856 de 03/Jul/2025 - 05:23 am. Valor $8.805.190**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 04:55 pm |  |
+| Informe de selección | 03/Jul/2025 - 05:23 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2294856 | Informe de selección CO1.AWD.2294856 | 03/Jul/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.8109766 | SUBSANACIONES ROYAL TECH GROUP SAS | 02/Jul/2025 - 05:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2294856 | Informe de evaluación 1 CO1.AWD.2294856 | 01/Jul/2025 - 04:55 pm |  | - |
+| Avisos | CO1.MSG.8100638 | Publicación de la lista de ofertas del proceso MA-SMC-016-2025. | 01/Jul/2025 - 02:15 pm |  | - |
+| Avisos | CO1.MSG.8100635 | La lista de oferentes del proceso MA-SMC-016-2025 publicada por MUNICIPIO DE ALTAMIRA | 01/Jul/2025 - 02:15 pm |  | - |
+| General | CO1.MSG.8091323 | RE: SOLICITUD LIMITACION MIPYMES NACIONALES | 27/Jun/2025 - 08:47 am |  | - |

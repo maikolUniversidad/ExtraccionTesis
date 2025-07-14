@@ -1,0 +1,90 @@
+Title: Licitaciones - ICANH - Solicitud de información a los Proveedores (SECOPII) SP-ICANH-033-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68348b9c853033.76639969
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 07:49:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestación de servicios de soporte técnico, configuración, mantenimiento y asesoría integral en las plataformas Open Journal Systems (OJS) y Open Monograph Press (OPM), y de servicios de posedición a las revistas científicas y libros producidos por el Instituto Colombiano de Antropología e Historia (ICANH)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82111800 - Servicios editoriales y de soporte
+
+**Códigos adicionales UNSPSC:**
+
+82121800 - Publicación,81111500 - Ingeniería de software o hardware,41105900 - Bibliotecas y material relacionado,43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43233500 - Software de intercambio de información,81112200 - Mantenimiento y soporte de software,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 No. 2 -38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 10:36 am
+
+**Plazo para solicitar aclaraciones:**
+
+27/May/2025 - 01:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 11:59 pm

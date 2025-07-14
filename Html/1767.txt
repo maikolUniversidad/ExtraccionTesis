@@ -1,0 +1,96 @@
+Title: Licitaciones - ALCALDIA LOCAL DE SUMAPAZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c822a5e7326.34070147
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:27:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+REALIZAR EL SUMINISTRO DE BIENES Y ELEMENTOS TECNOLÓGICOS PARA EL DESARROLLO Y EJECUCIÓN DE LOS PROYECTOS DE INVERSIÓN 2319, 2324, 2388, 2404, 2486, 2613, 2671, 2682, 2703 y 2327, CONTEMPLADOS EN EL PLAN DE DESARROLLO LOCAL 2025 - 2028 DE LA ALCALDIA LOCAL DE SUMAPAZ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111701 - Baterías recargables
+
+**Códigos adicionales UNSPSC:**
+
+26111711 - Baterías de litio,41111700 - Instrumentos y accesorios de visión y observación,43191500 - Dispositivos de comunicación personal,43211500 - Computadores,43211711 - Escáneres,43212105 - Impresoras láser,44102900 - Accesorios de máquinas de oficina,44103125 - Kit de mantenimiento de impresoras,45111616 - Proyectores de video,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,45121500 - Cámaras,81141600 - Manejo de cadena de suministros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Electrodomésticos", "licicodigos": "104,105,115,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+casa de la cultura corregimiento de betania Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 05:39 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jul/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8467553 | Publicación modificación | 01/Jul/2025 - 03:15 pm |  |  |

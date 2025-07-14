@@ -1,0 +1,100 @@
+Title: Licitaciones - ALCALDIA LOCAL DE CIUDAD BOLIVAR //
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d044244dc47.72671689
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:34:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COTIZAR EL SUMINISTRO DE LOS ELEMENTOS TECNOLOGICOS (LOTE 1) Y PEDAGOGICOS (LOTE 2) PARA DOTAR 12 INSTITUCIONES EDUCATIVAS RURALES Y URBANAS DE LA LOCALIDAD DE CIUDAD BOLIVAR, EN EL MARCO DEL PLAN DE DESARROLLO LOCAL PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+11162100 - Tejidos o telas especiales,41111700 - Instrumentos y accesorios de visión y observación,44101500 - Máquinas de duplicación,44121700 - Instrumentos de escritura,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45121500 - Cámaras,49211800 - Equipo de clase de educación física,49221500 - Accesorios para deporte,52161500 - Equipos audiovisuales,60101000 - Kits de matemáticas,60102400 - Recursos de cuenta y temprano aprendizaje de matemáticas y accesorios,60102700 - Materiales de recursos del profesor de pensamiento lógico, percepción espacial, identificación de coincidencias y patrones,60106200 - Materiales de enseñanza de tecnología,60121100 - Lienzos, películas, tableros y papeles de artista,60141000 - Juguetes,60141100 - Juegos,86141700 - Tecnología educacional
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Fotocopiadoras, repuestos e insumos, -Equipos audiovisuales", "licicodigos": "104,105,108,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 62 Sur # 20F - 20 Barrio San Francisco Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 05:34 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8293359 | Publicación modificación | 26/May/2025 - 12:19 pm |  |  |

@@ -1,0 +1,257 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806c845c73313.58363403
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:51:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS PARA INCORPORAR, DESARROLLAR E IMPLEMENTAR LA ARQUITECTURA EMPRESARIAL SIGUIENDO EL MODELO DE REFERENCIA DEL MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES Y APLICAR LA ESTRATEGIA DE GOBIERNO Y OPERACIÓN EN LA SECRETARÍA DISTRITAL DE MOVILIDAD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111700 - Sistemas de manejo de información MIS
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81111500 - Ingeniería de software o hardware,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "102,117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+9 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,734,529,032
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800, 81111700, 81111500, 81112000 | SGC-248 PRESTAR LOS SERVICIOS PARA INCORPORAR DESARROLLAR E IMPLEMENTAR LA ARQUITECTURA EMPRESARIAL SIGUIENDO EL MODELO DE REFERENCIA DEL MINISTERIO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES Y APLICAR LA ESTRATEGIA DE GOBIERNO Y OPERACION EN LA SECRETARIA DISTRITAL DE MOVILIDAD(10) | Licitación pública | Recursos propios | $1.734.529.032 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/Abr/2025 - 05:19 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+21/Abr/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/Abr/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+15/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 06:24 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 08:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/May/2025 - 08:00 pm
+
+**Audiencia de asignación de Riesgos:**
+
+19/May/2025 - 03:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+30/May/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+30/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 11:59 pm
+
+**Audiencia de Adjudicación:**
+
+30/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+30/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+01/Ago/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 08:00 am | 02/Abr/2027 - 11:59 am |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 08:00 am | 02/Abr/2029 - 11:59 am |
+| Calidad del servicio | 20,00 | 03/Jul/2025 - 08:00 am | 02/Abr/2027 - 11:59 am |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2280180 | Informe de evaluación 2 CO1.AWD.2280180 | 11/Jul/2025 - 03:42 pm |  | - |
+| General | CO1.MSG.8138260 | ADENDA No. 03 - CRONOGRAMA | 08/Jul/2025 - 06:32 pm |  | - |
+| General | CO1.MSG.8138250 | RE: Observaciones otros proponentes. | 08/Jul/2025 - 06:31 pm |  | - |
+| Avisos | CO1.REQ.8269732 | Publicación modificación | 08/Jul/2025 - 06:08 pm |  |  |
+| General | CO1.MSG.8135108 | Observaciones otros proponentes. | 08/Jul/2025 - 02:12 pm |  | - |
+| General | CO1.MSG.8125743 | RE: Observaciones Ingenium_mq | 07/Jul/2025 - 09:10 am |  | - |
+| General | CO1.MSG.8125747 | RE: Observaciones a las subsanaciones _primera | 07/Jul/2025 - 09:10 am |  | - |
+| General | CO1.MSG.8115937 | Observaciones Ingenium_mq | 03/Jul/2025 - 04:55 pm |  | - |
+| General | CO1.MSG.8096515 | Observaciones a las subsanaciones _primera | 27/Jun/2025 - 09:58 pm |  | - |
+| General | CO1.MSG.8078003 | RESPUESTA SOPORTE PUBLICIDAD Y MENSAJES ALLEGADOS UT GROW Y DEMÁS INTERESADOS | 25/Jun/2025 - 09:54 am |  | - |
+| General | CO1.MSG.8077981 | RE: RE: RE: Solicitud de Publicidad de la TOTALIDAD de los Documentos de Subsanación | 25/Jun/2025 - 09:52 am |  | - |
+| General | CO1.MSG.8077993 | RE: RE: RE: Solicitud publicación subsanaciones | 25/Jun/2025 - 09:52 am |  | - |
+| General | CO1.MSG.8077925 | RE: Subsanación | 25/Jun/2025 - 09:44 am |  | - |
+| General | CO1.MSG.8077764 | RE: OBSERVACIONES AL INFORME | 25/Jun/2025 - 09:30 am |  | - |
+| General | CO1.MSG.8077706 | RE: Observaciones a otros oferentes | 25/Jun/2025 - 09:24 am |  | - |
+| General | CO1.MSG.8077565 | RE: Subsanación Proceso | 25/Jun/2025 - 09:10 am |  | - |
+| General | CO1.MSG.8076316 | RE: Solicitud de Publicidad de la TOTALIDAD de los Documentos de Subsanación | 24/Jun/2025 - 08:15 pm |  | - |
+| General | CO1.MSG.8071949 | RE: Solicitud publicación subsanaciones | 24/Jun/2025 - 11:41 am |  | - |
+| General | CO1.MSG.8069100 | RE: SUBSANACION AL INFORME DE EVALUACION PRELIMINAR | 21/Jun/2025 - 03:10 pm |  | - |
+| General | CO1.MSG.8069097 | RE: Observaciones a Informe de Evaluación y Aclaraciones a Oferta Presentada- LICITACIÓN PÚBLICA No. SDM-LP-41-2025 (BS-25-012) | 21/Jun/2025 - 03:08 pm |  | - |
+| Objeciones | CO1.MSG.8068612 | [Respondido] RE:Observaciones a Informe de Evaluación y Aclaraciones a Oferta Presentada- LICITACIÓN PÚBLICA No. SDM-LP-41-2025 (BS-25-012) | 21/Jun/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.8069094 | RE: Subsanación UT GROW IT 2025 | 21/Jun/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.8069093 | RE: Respuesta requerimiento precio artificialmente bajo UT GROW IT 2025 | 21/Jun/2025 - 03:02 pm |  | - |
+| General | CO1.MSG.8069090 | RE: SUBSANACIÓN UNIÓN TEMPORAL ARQUITECTURA DE INFORMACIÓN 2025 | 21/Jun/2025 - 03:00 pm |  | - |
+| General | CO1.MSG.8069089 | RE: OBSERVACIONES AL INFORME | 21/Jun/2025 - 02:58 pm |  | - |
+| General | CO1.MSG.8069088 | RE: ACLARACIONES | 21/Jun/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.8069087 | RE: Subsanación Proceso | 21/Jun/2025 - 02:56 pm |  | - |
+| General | CO1.MSG.8069086 | RE: Observaciones a otros oferentes | 21/Jun/2025 - 02:56 pm |  | - |
+| Objeciones | CO1.MSG.8068393 | [Respondido] RE:Propuesta económica DS4B DS_PSIC0320 | 21/Jun/2025 - 02:53 pm |  | - |
+| General | CO1.MSG.8068604 | SUBSANACION AL INFORME DE EVALUACION PRELIMINAR | 20/Jun/2025 - 10:55 pm |  | - |

@@ -1,0 +1,183 @@
+Title: Licitaciones - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68263cdc3cc469.48609958
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LOS SERVICIOS DE UNA AGENCIA DE MEDIOS PARA LA ESTRUCTURACIÓN, COORDINACIÓN Y EJECUCIÓN DE UN PLAN DE MEDIOS, ASÍ COMO LA PREPRODUCCIÓN, PRODUCCIÓN, POSTPRODUCCIÓN Y COLOCACIÓN DE CONTENIDOS, A TRAVÉS DE DIFERENTES MEDIOS DE COMUNICACIÓN NACIONALES, REGIONALES, COMUNITARIOS, INSTITUCIONALES Y REDES SOCIALES DE LA ENTIDAD, DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS REQUERIDAS POR FINAGRO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101903 - Inserción en internet
+
+**Códigos adicionales UNSPSC:**
+
+80141627 - Servicio de gestión de publicidad cooperativa o compartida,82101601 - Publicidad en radio,82101602 - Publicidad en televisión,82101603 - Publicidad en internet,82101605 - Servicio de producción de comerciales para televisión,82101801 - Servicios de campañas publicitarias,82101802 - Servicios de producción publicitaria,82101901 - Inserción en radio,82101902 - Inserción en televisión,82101905 - Inserción en medios impresos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mercadeo, ventas y publicidad, -Producciones audiovisuales (Radio - TV), -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "160,425,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 13 No 28 -17 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+15/May/2025 - 02:04 pm
+
+**Fecha límite de presentación de ofertas:**
+
+27/May/2025 - 04:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+27/May/2025 - 04:02 pm
+
+**Fecha de Firma del Contrato:**
+
+14/Jul/2025 - 07:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+15/Jul/2025 - 07:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 02/Jul/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 02/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,277,102,862
+
+**Informes proceso de selección CO1.AWD.2280136 de 09/Jul/2025 - 03:44 am. Valor $1.277.102.862**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 12:48 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 12:48 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 12:48 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 12:48 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 12:48 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de evaluación | 26/Jun/2025 - 06:43 am |  |
+| Informe de selección | 09/Jul/2025 - 03:44 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2280136 | Informe de selección CO1.AWD.2280136 | 09/Jul/2025 - 03:44 pm |  | - |
+| Objeciones | CO1.MSG.8054243 | [Respondido] RE:Observaciones informe preliminar | 09/Jul/2025 - 03:43 pm |  | - |
+| Objeciones | CO1.MSG.8043623 | [Respondido] RE:Subsanación Trebol Global Group SAS | 09/Jul/2025 - 03:43 pm |  | - |
+| General | CO1.MSG.8093748 | Oferente Seleccionado | 27/Jun/2025 - 02:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280136 | Informe de evaluación 2 CO1.AWD.2280136 | 26/Jun/2025 - 06:43 am |  | - |
+| General | CO1.MSG.8054827 | SUBSANACION INFORME DE EVALUACION | 18/Jun/2025 - 07:28 pm |  | - |
+| Objeciones | CO1.MSG.8054243 | Observaciones informe preliminar | 18/Jun/2025 - 05:44 pm |  | - |
+| Objeciones | CO1.MSG.8043623 | Subsanación Trebol Global Group SAS | 17/Jun/2025 - 09:09 pm |  | - |
+| Avisos | CO1.MSG.8029741 | Publicación de la lista de ofertas del proceso INVITACIÓN PUBLICA No. 03 DE 2025. | 13/Jun/2025 - 12:50 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280136 | Informe de evaluación 1 CO1.AWD.2280136 | 13/Jun/2025 - 12:48 pm |  | - |
+| General | CO1.MSG.8018043 | ADENDA No. 4 | 11/Jun/2025 - 05:25 pm |  | - |
+| Avisos | CO1.REQ.8267825 | Publicación modificación | 11/Jun/2025 - 05:24 pm |  |  |
+| Avisos | CO1.REQ.8267825 | Publicación modificación | 03/Jun/2025 - 12:17 pm |  |  |
+| General | CO1.MSG.7973033 | ADENDA No. 3 | 03/Jun/2025 - 12:16 pm |  | - |
+| Avisos | CO1.MSG.7945795 | La lista de oferentes del proceso INVITACIÓN PUBLICA No. 03 DE 2025 publicada por FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO | 27/May/2025 - 04:06 pm |  | - |
+| General | CO1.MSG.7945417 | RE: Observaciones a porcentaje de intermediación | 27/May/2025 - 03:38 pm |  | - |
+| Avisos | CO1.REQ.8267825 | Publicación modificación | 26/May/2025 - 05:03 pm |  |  |
+| General | CO1.MSG.7939077 | RE: Observaciones a pliegos | 26/May/2025 - 05:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7939064 | RE: Observaciones | 26/May/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7936410 | Observaciones | 26/May/2025 - 12:08 pm |  | - |
+| Avisos | CO1.REQ.8267825 | Publicación modificación | 23/May/2025 - 11:07 am |  |  |
+| Aclaraciones | CO1.MSG.7928367 | RE: Observacion Invitación Pública No. 03 de 2025, OBSERVACION INVITACION PUBLICA, OBSERVACIÓN INVITACIÓN PÚBLICA No. 03 DE 2025, Observaciones a los pliegos definitivos | 23/May/2025 - 11:03 am |  | - |
+| General | CO1.MSG.7928381 | RE: Observación experiencia | 23/May/2025 - 11:03 am |  | - |
+| Aclaraciones | CO1.MSG.7922579 | Observacion Invitación Pública No. 03 de 2025 | 22/May/2025 - 01:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7917949 | OBSERVACION INVITACION PUBLICA | 21/May/2025 - 05:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7911268 | OBSERVACIÓN INVITACIÓN PÚBLICA No. 03 DE 2025 | 20/May/2025 - 05:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7910643 | Observaciones a los pliegos definitivos | 20/May/2025 - 04:57 pm |  | - |

@@ -1,0 +1,227 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL LA VIRGINIA RISARALDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e7878a90429.47011419
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR POR ARRENDAMIENTO O SISTEMA DE LEASING 24 COMPUTADORES CON LAS CONDICIONES TÉCNICAS APTAS PARA TRABAJO INSTITUCIONAL ACOMPAÑADOS DE SOFTWARE QUE PERMITA TENER HERRAMIENTAS COLABORATIVAS Y DE OFIMATICA CON SERVICIO DE FIREWALL, PARA GARANTIZAR LA INTEGRIDAD Y SEGURIDAD DE LA INFORMACIÓN DE LA ADMINISTRACIÓN MUNICIPAL EN LA ALCALDIA DE LA VIRGINIA, RISARALDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : La Virginia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80161800 - Servicios de alquiler o arrendamiento de equipo de oficina
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 NUMERO 5 35 CENTRO La Virginia Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Arrendamiento de muebles
+
+**Plazo del contrato:**
+
+900 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80161800 | ADQUIRIR POR ARRENDAMIENTO O SISTEMA DE LEASING 24 COMPUTADORES CON LAS CONDICIONES TÉCNICAS APTAS PARA TRABAJO INSTITUCIONAL ACOMPAÑADOS DE SOFTWARE QUE PERMITA TENER HERRAMIENTAS COLABORATIVAS Y DE OFIMÁTICA CON SERVICIO DE FIREWALL, PARA GARANTIZAR LA INTEGRIDAD Y SEGURIDAD DE LA INFORMACIÓN DE LA ADMINSTRACION MUNIPAL EN LA ALCALDÍA DE LA VIRGINIA RISARALDA | Selección abreviada menor cuantía | Recursos propios | $273.190.248 | CONTRATACION |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 07:30 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 07:30 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 07:35 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 04:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+03/Jun/2025 - 05:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 05:45 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+03/Jun/2025 - 08:39 pm
+
+**Plazo para manifestación de interés:**
+
+05/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+09/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+12/Jun/2025 - 04:40 pm
+
+**Apertura de Ofertas:**
+
+12/Jun/2025 - 04:45 pm
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 04:50 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jul/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 08:00 am | 25/Dic/2025 - 11:59 pm |
+| Calidad del servicio | 20,00 | 26/Jun/2025 - 08:00 am | 25/May/2026 - 11:59 pm |
+| SERIEDAD DEL OFRECIMIENTO | 10,00 | 12/Jun/2025 - 12:00 pm | 11/Sep/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2292371 | Informe de evaluación 1 CO1.AWD.2292371 | 26/Jun/2025 - 05:26 pm |  | - |
+| Avisos | CO1.REQ.8395092 | Publicación modificación | 24/Jun/2025 - 12:11 pm |  |  |
+| Avisos | CO1.REQ.8395092 | Publicación modificación | 17/Jun/2025 - 04:58 pm |  |  |
+| Avisos | CO1.MSG.8025310 | Publicación de la lista de ofertas del proceso AM-SA-003-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 12/Jun/2025 - 05:09 pm |  | - |
+| Avisos | CO1.MSG.8025123 | La lista de oferentes del proceso AM-SA-003-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDIA MUNICIPAL LA VIRGINIA RISARALDA | 12/Jun/2025 - 04:56 pm |  | - |
+| General | CO1.MSG.7986271 | LIMITACION A MIPYMES DEPARTAMENTAL | 05/Jun/2025 - 10:40 am |  | - |
+| Aclaraciones | CO1.MSG.7966746 | RESPUESTA OBSERVACION | 30/May/2025 - 03:16 pm |  | - |
+| Aclaraciones | CO1.MSG.7953879 | OBSERVACIONES | 28/May/2025 - 05:00 pm |  | - |

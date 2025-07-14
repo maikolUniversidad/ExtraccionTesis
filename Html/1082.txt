@@ -1,0 +1,309 @@
+Title: Licitaciones - GOBERNACION DEL AMAZONAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a374d234b35.56836112
+
+Markdown Content:
+Licitaciones - GOBERNACION DEL AMAZONAS - Contratación mínima cuantía GOB-AMA-MC-14-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-13 02:21:36
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+COMPRAVENTA DE EQUIPOS TECNOLÓGICOS COMO APOYO A LA FORMULACIÓN, DIAGNÓSTICO, DISEÑO, APROBACIÓN, IMPLEMENTACIÓN, DESARROLLO Y EVALUACIÓN DE LOS PROGRAMAS Y PROYECTOS APROBADOS EN EL MARCO DE COMITÉ DE ORDEN PÚBLICO DEPARTAMENTAL
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Amazonas : Leticia
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+80101601 - Estudios de factibilidad o selección de ideas de proyectos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,115,127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+CALLE 10 # 10 - 77 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101601, 80101603, 82101506, 25101801, 81111505, 73181104, 72154032, 72151908, 46171610, 46171600, 43202206, 43201803, 39121600, 39121415, 26121609, 25131705, 22101902, 25101905, 56101508, 26111703, 43201411, 78181507, 15101505, 20121802 | SGAS38 APOYO PARA EL FORTALECIMIENTO DE LAS CAPACIDADES ADMINISTRATIVAS TECNICAS Y OPERATIVAS DE LA FUERZA PÚBLICA Y POLICIA JUDICIAL EN EL MARCO DE LOS PROYECTOS APROBADOS EN EL COMITÉ DE ORDEN PÚBLICO DEL DEPARTAMENTO DE AMAZONAS. | Selección abreviada subasta inversa | Recursos propios | $2.200.000.000 | Contratación Gobernación de Amazonas |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 11:59 pm
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 07:22 am
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+08/May/2025 - 08:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 05:06 pm | * **Nombre:** AMAZONAS DUTTY FREE.COM SAS | Leticia - Amazonas |
+| 2 | 28/Abr/2025 - 08:47 pm | * **Nombre:** CONTRUSERVICIOS TORO SAS | Neiva - Huila |
+| 3 | 29/Abr/2025 - 12:41 am | * **Nombre:** FERNANDO ARDILA | Leticia - Amazonas |
+| 4 | 30/Abr/2025 - 06:22 am | * **Nombre:** JULIAN ANDRES RAMIREZ SANCHEZ | Leticia - Amazonas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,600,000
+
+**Informes proceso de selección CO1.AWD.2244268 de 12/May/2025 - 07:35 am. Valor $18.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/May/2025 - 05:48 pm |  |
+| Informe de selección | 12/May/2025 - 07:35 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2244268**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FERNANDO ARDILA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 17627574 | * **Nombre:** FERNANDO ARDILA PAREDES * **Tipo documento:** NIT * **Documento:** 17627574 | Leticia - Amazonas | $18.600.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2244268****
+
+**Contrato 1430-2025 de FERNANDO ARDILA:**
+
+**ID del contrato en SECOP:**
+
+1430-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+COMPRAVENTA DE EQUIPOS TECNOLÓGICOS COMO APOYO A LA FORMULACIÓN, DIAGNÓSTICO, DISEÑO, APROBACIÓN, IMPLEMENTACIÓN, DESARROLLO Y EVALUACIÓN DE LOS PROGRAMAS Y PROYECTOS APROBADOS EN EL MARCO DE COMITÉ DE ORDEN PÚBLICO DEPARTAMENTAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 80101601 | COMPRAVENTA DE EQUIPOS TECNOLÓGICOS COMO APOYO A LA FORMULACIÓN, DIAGNÓSTICO, DISEÑO, APROBACIÓN, IMPLEMENTACIÓN, DESARROLLO Y EVALUACIÓN DE LOS PROGRAMAS Y PROYECTOS APROBADOS EN EL MARCO DE COMITÉ DE ORDEN PÚBLICO DEPARTAMENTAL | 1,00 | UN | 20.000.000,00 | 18.600.000,00 | 20.000.000,00 | 18.600.000,00 |
+
+**Fecha de terminación del contrato:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+1 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 18,600,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | COMUNICACION DE ACEPTACION MC-14-2015.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2244268 | Informe de selección CO1.AWD.2244268 | 12/May/2025 - 07:35 am |  | - |
+| Reporte preliminar | CO1.AWD.2244268 | Informe de evaluación 1 CO1.AWD.2244268 | 06/May/2025 - 05:48 pm |  | - |
+| Avisos | CO1.REQ.8158179 | Publicación modificación | 06/May/2025 - 05:47 pm |  |  |
+| Avisos | CO1.MSG.7816809 | La lista de oferentes del proceso GOB-AMA-MC-14-2025 publicada por GOBERNACION DEL AMAZONAS | 30/Abr/2025 - 08:27 am |  | - |
+| Avisos | CO1.REQ.8158179 | Publicación modificación | 28/Abr/2025 - 05:25 pm |  |  |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:03 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

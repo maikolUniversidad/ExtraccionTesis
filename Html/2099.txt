@@ -1,0 +1,101 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68542846c93705.21772772
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:55:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación, configuración y puesta en funcionamiento de equipos de cómputo, software e infraestructura de tecnología de información y comunicaciones para renovar y/o fortalecer la plataforma tecnológica de la Secretaria General de la Alcaldía mayor de Bogotá D.C
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211503 - Computadores notebook,43211515 - Estaciones de trabajo para computadores,43211708 - Mouse o bola de seguimiento para computador,43211702 - Lectores y codificadores de banda magnética,43211902 - Paneles o monitores de pantalla de cristal líquido lcd,43211711 - Escáneres,43212108 - Impresoras de cinta térmica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 10:05 am
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8439642 | Publicación modificación | 27/Jun/2025 - 02:20 pm |  |  |
+| General | CO1.MSG.8093755 | RESPUESTA A LAS OBSERVACIONES | 27/Jun/2025 - 02:18 pm |  | - |

@@ -1,0 +1,260 @@
+Title: Licitaciones - PERSONERIA MUNICIPAL DE TOCANCIPA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ae07402c1d9.11154802
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:38:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO, INSTALACION Y CONFIGURACION DE VEINTE(20) LICENCIAS DE ANTIVIRUS PARA LOS EQUIPOS DE CÓMPUTO DE LA PERSONERÍA MUNICIPAL DE TOCANCIPÁ Y LOS QUE SE ENCUENTREN EN COMODATO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Tocancipá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No 10-17 2 Piso Tocancipá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 08:43 am
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+17/Jun/2025 - 12:15 pm
+
+**Informe de presentación de ofertas:**
+
+17/Jun/2025 - 03:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+20/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 24/Jun/2025 - 07:00 am | 31/Oct/2025 - 11:00 am |
+| Pago de salarios | 5,00 | 24/Jun/2025 - 07:00 am | 30/Jun/2028 - 11:00 am |
+| Calidad del servicio | 10,00 | 24/Jun/2025 - 07:00 am | 31/Oct/2025 - 11:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INFOTECH | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 9,060,000
+
+**Informes proceso de selección CO1.AWD.2287603 de 24/Jun/2025 - 03:45 am. Valor $9.060.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 09:37 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 09:37 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 09:37 pm |  |
+| Informe de selección | 24/Jun/2025 - 03:45 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2287603**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INFOTECH DE COLOMBIA SAS * **Tipo documento:** NIT * **Documento:** 805019778 | * **Nombre:** JORGE MARIO BEDOYA CASTRO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 16785910 | Cali - Valle del Cauca | $9.060.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2287603****
+
+**ID del contrato en SECOP:**
+
+CC-050-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+28/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 9,060,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287603 | Informe de selección CO1.AWD.2287603 | 24/Jun/2025 - 03:45 pm |  | - |
+| Avisos | CO1.MSG.8068595 | Publicación de la lista de ofertas del proceso CMC-003-2025. | 20/Jun/2025 - 10:07 pm |  | - |
+| Avisos | CO1.MSG.8068594 | La lista de oferentes del proceso CMC-003-2025 publicada por PERSONERIA MUNICIPAL DE TOCANCIPA | 20/Jun/2025 - 10:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287603 | Informe de evaluación 1 CO1.AWD.2287603 | 20/Jun/2025 - 09:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285231 | Informe de evaluación 2 CO1.AWD.2285231 | 20/Jun/2025 - 08:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285231 | Informe de evaluación 1 CO1.AWD.2285231 | 18/Jun/2025 - 08:55 pm |  | - |
+| General | CO1.MSG.8040077 | LIMITACION A MIPYMES NACIONAL -PRCESO CMC 003-2025 | 16/Jun/2025 - 06:36 pm |  | - |
+| General | CO1.MSG.8039835 | RTA A LAS OBSERVACIONES PRESENTADAS CMC003-2025 | 16/Jun/2025 - 06:28 pm |  | - |
+| Aclaraciones | CO1.MSG.8030762 | Numero de licencia o contrato kasperky | 13/Jun/2025 - 03:20 pm |  | - |
+| Avisos | CO1.REQ.8397214 | Publicación modificación | 12/Jun/2025 - 04:21 pm |  |  |

@@ -1,0 +1,193 @@
+Title: Licitaciones - ARMADA NACIONAL - GRUPO GUARDACOSTAS DEL AMAZONAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849f7176aff20.05696210
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 11:26:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE INTERNET A TRAVÉS DE FIBRA ÓPTICA Y ZONAS WIFI PARA EL COLEGIO NAVAL DE LETICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83111602 - Servicios de sistemas de comunicación por satélite o terrestre
+
+**Códigos adicionales UNSPSC:**
+
+83121703 - Servicios relacionados con el internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 11 N° 10-15 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 130,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 83111602 | SERVICIO DE INTERNET SATELITAL Y ZONAS WIFI PARA EL COLEGIO NAVAL DE LETICIA | Mínima cuantía | Presupuesto de entidad nacional | $25.262.000 | ADQUISICIONES |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:33 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jun/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 26/Jun/2025 - 11:59 pm | 30/Oct/2025 - 11:59 pm |
+| Calidad del servicio | 30,00 | 26/Jun/2025 - 11:59 pm | 28/Feb/2027 - 11:59 pm |

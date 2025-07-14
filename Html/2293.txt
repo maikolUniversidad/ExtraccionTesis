@@ -1,0 +1,86 @@
+Title: Licitaciones - FONDO DE DESARROLLO LOCAL DE BOSA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bc5234c6198.11554658
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:29:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN DE LICENCIAS DE LA SUITE ADOBE CREATIVE CLOUD (ULTIMA VERSIÓN DEL MERCADO) PARA EL FONDO DE DESARROLLO LOCAL DE BOSA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Servicios en la nube (Cloud)", "licicodigos": "103,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 80 I Nº 61 05 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 02:40 pm
+
+**Plazo para solicitar aclaraciones:**
+
+08/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/May/2025 - 05:00 pm

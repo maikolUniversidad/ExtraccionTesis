@@ -1,0 +1,291 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823e5ac3f1a44.14634660
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 17:03:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUSCRIPCIÓN Y SOPORTE DE FÁBRICA DEL SOFTWARE LENOVO XCLARITY PRO PARA LA SECRETARÍA DISTRITAL DE MOVILIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232700 - Software de aplicaciones de red
+
+**Códigos adicionales UNSPSC:**
+
+43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233000 - Software de entorno operativo,43233400 - Software de controladores de dispositivos y utilidades,43233700 - Software de administración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232700, 43232800, 43232900, 43233000, 43233400, 43233700 | SGC-232 SUSCRIPCION Y SOPORTE DE FABRICA DEL SOFTWARE LENOVO XCLARITY PRO PARA LA SECRETARIA DISTRITAL DE MOVILIDAD (14) | Mínima cuantía | Recursos propios | $10.000.000 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 07:13 pm
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+13/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+21/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 10:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:01 am | 29/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INNATEL S.A.S BIC | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 7,677,728
+
+**Informes proceso de selección CO1.AWD.2260392 de 29/May/2025 - 05:00 am. Valor $7.677.728**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 04:59 pm |  |
+| Informe de evaluación | 23/May/2025 - 04:59 pm |  |
+| Informe de evaluación | 23/May/2025 - 04:59 pm |  |
+| Informe de evaluación | 28/May/2025 - 05:43 pm |  |
+| Informe de evaluación | 28/May/2025 - 05:43 pm |  |
+| Informe de evaluación | 28/May/2025 - 05:43 pm |  |
+| Informe de evaluación | 28/May/2025 - 05:43 pm |  |
+| Informe de selección | 29/May/2025 - 05:00 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260392**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INNATEL S.A.S BIC * **Tipo documento:** NIT * **Documento:** 900171749 | * **Nombre:** Julian Alfredo Becerra Espitia * **Tipo documento:** NIT * **Documento:** 79788444 | - Distrito Capital de Bogotá | $7.677.728 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260392****
+
+**Contrato 2025-2967 de INNATEL S.A.S BIC:**
+
+**ID del contrato en SECOP:**
+
+2025-2967
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUSCRIPCIÓN Y SOPORTE DE FÁBRICA DEL SOFTWARE LENOVO XCLARITY PRO PARA LA SECRETARÍA DISTRITAL DE MOVILIDAD
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43232700 | Suscripción y soporte de fábrica para el software Lenovo XClarity Pro ( per Managed Server S&S Renewal) por un año | 16,00 | UN | 512.951,00 | 479.858,00 | 8.207.216,00 | 7.677.728,00 |
+
+**Fecha inicio del contrato:**
+
+10/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+09/Sep/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+3 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 7,677,728
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260392 | Informe de selección CO1.AWD.2260392 | 29/May/2025 - 05:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260392 | Informe de evaluación 2 CO1.AWD.2260392 | 28/May/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7932661 | Subsanacion | 23/May/2025 - 07:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260392 | Informe de evaluación 1 CO1.AWD.2260392 | 23/May/2025 - 04:59 pm |  | - |
+| Avisos | CO1.MSG.7913947 | Publicación de la lista de ofertas del proceso SDM-MC-66-2025. | 21/May/2025 - 10:13 am |  | - |
+| Avisos | CO1.MSG.7913940 | La lista de oferentes del proceso SDM-MC-66-2025 publicada por SECRETARÍA DISTRITAL DE MOVILIDAD | 21/May/2025 - 10:12 am |  | - |
+| General | CO1.MSG.7899316 | AVISO DE LIMITACIÓN A MIPYMES | 19/May/2025 - 08:48 am |  | - |

@@ -1,0 +1,265 @@
+Title: Licitaciones - MUNICIPIO DE ENVIGADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826505d093f22.51938218
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-26 10:57:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestación de servicio integrado para migración de servidor, optimización y rediseño de la página web visitaenvigado.com para su adecuado funcionamiento.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112203 - Servicio de actualización o parcheo de firmware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño web (Redes sociales, capacitación, asesoría), -Servidores (Suministro y alquiler)", "licicodigos": "480,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+45 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 37 No. 45 B- 27 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112203 | PRESTACIÓN DE SERVICIO INTEGRADO PARA MIGRACIÓN DE SERVIDOR, OPTIMIZACIÓN Y REDISEÑO DE LA PÁGINA WEB VISITAENVIGADO.COM PARA SU ADECUADO FUNCIONAMIENTO. | Mínima cuantía | Recursos propios | $50.000.000 | SECRETARIA DE DESARROLLO ECONOMICO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:33 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+21/May/2025 - 08:03 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 08:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 15,00 | 28/May/2025 - 12:00 pm | 15/Abr/2026 - 12:00 pm |
+| Pago de salarios | 15,00 | 28/May/2025 - 12:00 pm | 28/Oct/2028 - 12:00 pm |
+| Calidad del servicio | 15,00 | 28/May/2025 - 12:00 pm | 28/Oct/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 16,615,500
+
+**Informes proceso de selección CO1.AWD.2258342 de 26/May/2025 - 08:22 am. Valor $16.615.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/May/2025 - 04:07 pm |  |
+| Informe de evaluación | 23/May/2025 - 04:02 pm |  |
+| Informe de selección | 26/May/2025 - 08:22 am |  |
+| Informe de selección | 26/May/2025 - 08:22 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2258342**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Royal Tech Group SAS * **Tipo documento:** NIT * **Documento:** 901394655 | * **Nombre:** Hector David Mendoza Arroyo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1140834004 | Barranquilla - Atlántico | $16.615.500 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2258342****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7911193
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+28/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 16,615,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2258342 | Informe de selección CO1.AWD.2258342 | 26/May/2025 - 08:22 am |  | - |
+| Reporte preliminar | CO1.AWD.2258342 | Informe de evaluación 2 CO1.AWD.2258342 | 23/May/2025 - 04:02 pm |  | - |
+| General | CO1.MSG.7930856 | RESPUESTA OBSERVACIONES INFORME DE EVALUACIÓN | 23/May/2025 - 03:56 pm |  | - |
+| Objeciones | CO1.MSG.7918126 | [Respondido] RE:Rechazo Oferta 1 Oferente ROYAL TECH | 23/May/2025 - 03:55 pm |  | - |
+| Objeciones | CO1.MSG.7918126 | Rechazo Oferta 1 Oferente ROYAL TECH | 21/May/2025 - 05:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2258342 | Informe de evaluación 1 CO1.AWD.2258342 | 21/May/2025 - 04:07 pm |  | - |
+| Avisos | CO1.MSG.7914795 | Publicación de la lista de ofertas del proceso ENV-17/Ago/1190-25. | 21/May/2025 - 11:31 am |  | - |
+| Avisos | CO1.MSG.7912808 | La lista de oferentes del proceso ENV-17/Ago/1190-25 publicada por MUNICIPIO DE ENVIGADO | 21/May/2025 - 08:08 am |  | - |
+| Avisos | CO1.REQ.8267658 | Publicación modificación | 19/May/2025 - 04:11 pm |  |  |
+| Aclaraciones | CO1.MSG.7902811 | RESPUESTA A OBSERVACIONES | 19/May/2025 - 03:45 pm |  | - |

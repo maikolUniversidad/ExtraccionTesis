@@ -1,0 +1,340 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681eb612d682a4.93396352
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:36:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+14000491503 Adquisición, renovación e implementación de una solución integral de seguridad perimetral para infraestructura local y en la nube, fortaleciendo la protección de los servicios y sistemas de información del MinTIC/Fondo Único de TIC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233200 - Software de seguridad y protección,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo, -Seguridad informática, -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "102,106,297,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 38 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Edificio Manuel Murillo Toro; Carrera 8 entre Calles 12A y 12B; Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43222600, 43232700, 43232800, 43232900, 43233200, 81111800 | 1400049-Adquisición, renovación e implementación de una solución integral de seguridad perimetral para infraestructura local y en la nube, fortaleciendo la protección de los servicios y sistemas de información del MinTIC/Fondo Único de TIC. | Selección abreviada subasta inversa | Recursos propios | $5.821.612.139 | UNIDAD DE CONTRATACION FONTIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 08:46 pm
+
+**Publicación Estudios Previos:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+16/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+23/May/2025 - 08:21 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+23/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+23/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+06/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+06/Jun/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+12/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+04/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+08/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 11:59 pm | 15/Abr/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Open Group S.A.S | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 5,709,382,000
+
+**Informes proceso de selección CO1.AWD.2280003 de 07/Jul/2025 - 10:20 am. Valor $5.709.382.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:04 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 07:02 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:50 am |  |
+| Informe de evaluación | 04/Jul/2025 - 03:01 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 03:01 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 03:01 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 03:01 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 03:01 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:04 am |  |
+| Informe de evaluación | 07/Jul/2025 - 09:04 am |  |
+| Informe de selección | 07/Jul/2025 - 10:20 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2280003**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Open Group S.A.S * **Tipo documento:** NIT * **Documento:** 900249043 | * **Nombre:** Ronald Ivan Muñoz * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1115062698 | Cali - Valle del Cauca | $5.709.382.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2280003****
+
+**Cuantía a la firma del contrato:**
+
+$ 5,709,382,000
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jul/2025 - 04:00 pm
+
+**Fecha de inicio:**
+
+04/Jul/2025 - 04:30 pm
+
+**Fecha fin:**
+
+04/Jul/2025 - 04:50 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8083950 | [Respondido] RE:OBS INFORME EVALUACIÓN TÉCNICA FINAL | 07/Jul/2025 - 10:20 pm |  | - |
+| Reporte final | CO1.AWD.2280003 | Informe de selección CO1.AWD.2280003 | 07/Jul/2025 - 10:20 pm |  | - |
+| Objeciones | CO1.MSG.8057500 | [Respondido] RE:Subsanación Open Group S.A.S | 07/Jul/2025 - 10:19 pm |  | - |
+| Objeciones | CO1.MSG.8047918 | [Respondido] RE:Subsanación y Observaciones al Informe de Evaluación-Open Group SAS | 07/Jul/2025 - 10:19 pm |  | - |
+| Objeciones | CO1.MSG.8078622 | [Respondido] RE:Subsanación Open Group S.A.S | 07/Jul/2025 - 10:19 pm |  | - |
+| General | CO1.MSG.8131447 | RESPUESTA A OBSERVACIONES Y DERECHO DE PETICIÓN | 07/Jul/2025 - 07:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280003 | Informe de evaluación 5 CO1.AWD.2280003 | 07/Jul/2025 - 09:04 am |  | - |
+| General | CO1.MSG.8121843 | solicitud suspencion del proceso | 04/Jul/2025 - 03:42 pm |  | - |
+| Avisos | CO1.MSG.8121452 | La lista de oferentes del proceso FTIC-SASI-001-2025 (Presentación de oferta) publicada por FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES | 04/Jul/2025 - 03:08 pm |  | - |
+| Avisos | CO1.MSG.8121455 | Publicación de la lista de ofertas del proceso FTIC-SASI-001-2025 (Presentación de oferta). | 04/Jul/2025 - 03:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280003 | Informe de evaluación 4 CO1.AWD.2280003 | 04/Jul/2025 - 03:01 pm |  | - |
+| General | CO1.MSG.8120589 | Solicitud de intervención y nulidad por posibles irregularidades, subjetividad, violación del principio de igualdad, debido proceso y colusión en la evaluación de la contratación adelantada por el FONTIC No. FTIC-SASI-001-2025 | 04/Jul/2025 - 01:16 pm |  | - |
+| General | CO1.MSG.8119069 | Comunicado Heimcore SAS | 04/Jul/2025 - 10:11 am |  | - |
+| General | CO1.MSG.8117325 | Solicitud jutificacion legal ampliaciion recurrente de apertura de sobres | 03/Jul/2025 - 07:51 pm |  | - |
+| General | CO1.MSG.8114312 | Reiteración Observaciones | 03/Jul/2025 - 07:00 pm |  | - |
+| Avisos | CO1.REQ.8314562 | Publicación modificación | 03/Jul/2025 - 02:36 pm |  |  |
+| General | CO1.MSG.8109309 | Alcance a Solicitud de evaluación en igualdad de términos | 02/Jul/2025 - 05:13 pm |  | - |
+| General | CO1.MSG.8106232 | RE: REQUERIMIENTO OPEN GROUP S.A.S | 02/Jul/2025 - 03:49 pm |  | - |
+| General | CO1.MSG.8107865 | Subsanación y/o aclaracion | 02/Jul/2025 - 03:21 pm |  | - |
+| General | CO1.MSG.8105640 | REQUERIMIENTO OPEN GROUP S.A.S | 02/Jul/2025 - 10:21 am |  | - |
+| General | CO1.MSG.8104041 | Solicitud de evaluacion en igualdad de terminos | 01/Jul/2025 - 09:46 pm |  | - |
+| General | CO1.MSG.8103023 | REQUERIMIENTO UT HC -WX 2025 | 01/Jul/2025 - 05:48 pm |  | - |
+| Avisos | CO1.REQ.8314562 | Publicación modificación | 01/Jul/2025 - 02:23 pm |  |  |
+| Avisos | CO1.REQ.8314562 | Publicación modificación | 26/Jun/2025 - 03:42 pm |  |  |
+| General | CO1.MSG.8085904 | APERTURA SOBRE ECONÓMICO | 26/Jun/2025 - 11:02 am |  | - |
+| General | CO1.MSG.8084604 | APERTURA SOBRE ECONÓMICO | 26/Jun/2025 - 09:00 am |  | - |
+| Objeciones | CO1.MSG.8083950 | OBS INFORME EVALUACIÓN TÉCNICA FINAL | 25/Jun/2025 - 11:52 pm |  | - |
+| Objeciones | CO1.MSG.8078622 | Subsanación Open Group S.A.S | 25/Jun/2025 - 10:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2280003 | Informe de evaluación 3 CO1.AWD.2280003 | 25/Jun/2025 - 09:50 am |  | - |
+| Objeciones | CO1.MSG.8057500 | Subsanación Open Group S.A.S | 19/Jun/2025 - 11:09 am |  | - |

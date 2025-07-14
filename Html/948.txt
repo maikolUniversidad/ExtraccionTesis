@@ -1,0 +1,183 @@
+Title: Licitaciones - CENTRO DE COMERCIO Y SERVICIOS - SENA REGIONAL CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685cb3360b9d75.16428187
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-01 15:40:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE MATERIALES DESTINADOS A LAS ACCIONES DE FORMACIÓN PROFESIONAL TITULADA DEL AREA DE TICS DEL CENTRO DE COMERCIO Y SERVICIOS SENA REGIONAL CAUCA VG 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+31201512 - Cinta transparente
+
+**Códigos adicionales UNSPSC:**
+
+51102710 - Antisépticos basados en alcohol o acetona,42132205 - Guantes de cirugía
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Dotación para seguridad industrial, -Papelería y elementos de oficina, -Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Materiales para redes de comunicación, -Instrumentación para obras eléctricas", "licicodigos": "126,127,269,438,628" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 4 No. 2 80 B/ Centro Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 09:34 pm
+
+**Publicación de estudios previos:**
+
+26/Jun/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+26/Jun/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/Jun/2025 - 11:00 am
+
+**Plazo para recepción de observaciones:**
+
+27/Jun/2025 - 11:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 11:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 11:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 07/Jul/2025 - 12:00 pm | 07/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 07/Jul/2025 - 12:00 pm | 07/Feb/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8468346 | Publicación modificación | 01/Jul/2025 - 10:03 am |  |  |
+| Aclaraciones | CO1.MSG.8089866 | LIMITACION AL PROCESO | 26/Jun/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8089548 | SOLICITUD DE LIMITACION | 26/Jun/2025 - 05:22 pm |  | - |

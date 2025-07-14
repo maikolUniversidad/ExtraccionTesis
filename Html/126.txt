@@ -1,0 +1,270 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681d7f14f1c261.28102964
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 17:10:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar los Servicios de SOC/NOC (seguridad para los sistemas de la JCC).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81111700 - Sistemas de manejo de información MIS,81111900 - Sistemas de recuperación de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 35 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 97-46 EDIFICIO TORRE 97 OFICINA 301 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,060,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+08/May/2025 - 10:12 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+08/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+08/May/2025 - 11:59 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+08/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 08:45 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:59 pm
+
+**Audiencia de asignación de Riesgos:**
+
+03/Jun/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 05:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+17/Jun/2025 - 10:20 am
+
+**Informe de presentación de Ofertas:**
+
+17/Jun/2025 - 10:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 08:00 am
+
+**Audiencia de Adjudicación:**
+
+11/Jul/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 17/Jul/2025 - 11:59 pm | 30/Abr/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 17/Jul/2025 - 11:59 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 31/Dic/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 31/Dic/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 861,979,356
+
+**Informes proceso de selección CO1.AWD.2290125 de 11/Jul/2025 - 02:30 am. Valor $861.979.356**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 06:46 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 06:46 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 06:46 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 01:32 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 01:32 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 01:32 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 01:32 pm |  |
+| Informe de selección | 11/Jul/2025 - 02:30 pm |  |
+| Informe de selección | 11/Jul/2025 - 02:30 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2290125 | Informe de selección CO1.AWD.2290125 | 11/Jul/2025 - 02:30 pm |  | - |
+| General | CO1.MSG.8135101 | Audiencia de adjudicación | 08/Jul/2025 - 02:14 pm |  | - |
+| Avisos | CO1.MSG.8124608 | Publicación de la lista de ofertas del proceso 001-UAE-JCC-LP-2025 (Presentación de oferta). | 05/Jul/2025 - 07:02 pm |  | - |
+| Avisos | CO1.REQ.8344601 | Publicación modificación | 04/Jul/2025 - 01:37 pm |  |  |
+| Reporte preliminar | CO1.AWD.2290125 | Informe de evaluación 2 CO1.AWD.2290125 | 04/Jul/2025 - 01:32 pm |  | - |
+| Objeciones | CO1.MSG.8077104 | [Respondido] RE:SUBSANACIÓN | 02/Jul/2025 - 07:39 am |  | - |
+| Objeciones | CO1.MSG.8077104 | SUBSANACIÓN | 25/Jun/2025 - 09:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2290125 | Informe de evaluación 1 CO1.AWD.2290125 | 24/Jun/2025 - 06:46 pm |  | - |
+| Avisos | CO1.MSG.8044200 | La lista de oferentes del proceso 001-UAE-JCC-LP-2025 (Presentación de oferta) publicada por UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES | 17/Jun/2025 - 01:58 pm |  | - |
+| General | CO1.MSG.8040607 | Envío de anexo de oferta económica ajustado | 16/Jun/2025 - 09:09 pm |  | - |
+| Avisos | CO1.REQ.8344601 | Publicación modificación | 11/Jun/2025 - 05:31 pm |  |  |
+| Aclaraciones | CO1.MSG.8012088 | RE: Observaciones adicionales, OBSERVACIONES 001-UAE-JCC-LP-2025, Observaciones Pliego LICITACIÓN PUBLICA No.001-UAE-JCC-LP-2025, OBSERVACIONES AL PROCESO, Observaciones de Coinsa al pliego de condiciones, observaciones, Observaciones proceso 001-UAE-JCC-LP-2025, Olimpia Observa y Solicita 1. | 10/Jun/2025 - 10:16 pm |  | - |
+| General | CO1.MSG.8012072 | Respuesta aclaraciones y/o Observaciones anexo al pliego de condiciones definitivo | 10/Jun/2025 - 10:14 pm |  | - |
+| Avisos | CO1.REQ.8344601 | Publicación modificación | 10/Jun/2025 - 05:39 pm |  |  |
+| Aclaraciones | CO1.MSG.7991629 | Observaciones adicionales | 06/Jun/2025 - 12:21 am |  | - |
+| Aclaraciones | CO1.MSG.7991258 | OBSERVACIONES 001-UAE-JCC-LP-2025 | 05/Jun/2025 - 08:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7990942 | Observaciones Pliego LICITACIÓN PUBLICA No.001-UAE-JCC-LP-2025 | 05/Jun/2025 - 06:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7990076 | OBSERVACIONES AL PROCESO | 05/Jun/2025 - 05:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7987969 | Observaciones de Coinsa al pliego de condiciones | 05/Jun/2025 - 02:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7987035 | observaciones | 05/Jun/2025 - 11:51 am |  | - |
+| Aclaraciones | CO1.MSG.7985498 | Observaciones proceso 001-UAE-JCC-LP-2025 | 05/Jun/2025 - 09:42 am |  | - |
+| Aclaraciones | CO1.MSG.7973371 | Olimpia Observa y Solicita 1. | 03/Jun/2025 - 01:16 pm |  | - |
+| General | CO1.MSG.7966058 | Audiencia de asignación de riesgos | 30/May/2025 - 02:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7956227 | RE: OBSERVACIONES PREPLIEGO | 29/May/2025 - 07:58 am |  | - |
+| Aclaraciones | CO1.MSG.7956222 | RE: Observaciones al pliego borrador | 29/May/2025 - 07:57 am |  | - |
+| Aclaraciones | CO1.MSG.7956216 | RE: OBSERVACIONES UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES | 29/May/2025 - 07:55 am |  | - |
+| Aclaraciones | CO1.MSG.7956212 | RE: Observaciones Borrador - LICITACIÓN PUBLICA No.001-UAE-JCC-LP-2025 | 29/May/2025 - 07:54 am |  | - |
+| Aclaraciones | CO1.MSG.7956207 | RE: OBSERVACIONES PROCESO No. 001-UAE-JCC-LP-2025 | 29/May/2025 - 07:53 am |  | - |
+| Aclaraciones | CO1.MSG.7956202 | RE: OBSERVACIONES | 29/May/2025 - 07:52 am |  | - |
+| General | CO1.MSG.7956188 | Respuesta a las observaciones al anexo del borrador del pliego de condiciones | 29/May/2025 - 07:51 am |  | - |

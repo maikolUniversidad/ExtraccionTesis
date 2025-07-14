@@ -1,0 +1,94 @@
+Title: Licitaciones - ANH - Solicitud de información a los Proveedores (SECOPII) ANH-EM-30-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834f43e7bdd24.91835799
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:14:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación sobre el derecho de uso del direccionamiento de IPv6 a nombre de la ANH.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida calle 26 No. 59-65 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+15 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:50 pm
+
+**Plazo para solicitar aclaraciones:**
+
+29/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 05:00 pm

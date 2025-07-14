@@ -1,0 +1,16 @@
+Title: Licitaciones - SENA REGIONAL SANTANDER Grupo Administrativo CGAO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68348ca087dda1.23314989
+
+Markdown Content:
+**Clasificación UNSPSC por la entidad contratante:**
+
+41111970 - Sensor de temperatura
+
+**Códigos adicionales UNSPSC:**
+
+23271806 - Cautín,23271813 - Alambre de soldadura,32101620 - Circuitos integrados digitales,32151705 - Módulo de controlador lógico programable,42181803 - Sondas o sensores para oxímetros de pulso,26111701 - Baterías recargables,43211914 - Pantalla pasiva lcd,40151513 - Bombas sumergibles,41111966 - Sensor de humedad,39121455 - Conector de molde de inserción eléctrica,39121435 - Hilos o cables de conexión,32111503 - Diodos emisores de luz (led),26101203 - Motor dc sin núcleo,41111965 - Sensor de agua,26101208 - Motor dc de imán permanente,56111605 - Iluminación o electricidad o componentes de información para sistemas de paneles,31201505 - Cinta doble faz,23261507 - Máquina impresora tridimensional,32121501 - Capacitores fijos,26121630 - Accesorios de cable,26121621 - Cable de kaptan,40151511 - Bombas para pozos,26121622 - Cable de poliamida,27112120 - Grapas c,43201559 - Tarjetas de puerto serial,44111807 - Escalas,41111931 - Sensores de flujo,27112402 - Ribeteadoras,39121406 - Receptáculos eléctricos,31162200 - Remaches,32151701 - Dispositivo de unión control de red,43211902 - Paneles o monitores de pantalla de cristal líquido lcd,27111700 - Llaves inglesas y guías,43222643 - Probador de cable de red,39121621 - Accesorios y aparatos de protección contra rayos,31181700 - Embalajes y empaquetaduras,44111804 - Papeles de dibujo,26111702 - Pilas alcalinas,60106214 - Materiales didácticos de robótica,26111704 - Cargadores de baterías,14121901 - Papel periódico estándar,47131813 - Limpiador de pantallas,39121440 - Cable de extensión eléctrica,14111800 - Papeles de uso comercial,44121618 - Tijeras,45111713 - Amplificador de distribución de audio,45111500 - Atriles, sistemas de sonido y accesorios,60121114 - Papeles para manualidades de origami,44121706 - Lápices de madera,44121708 - Marcadores,26111700 - Baterías, pilas y accesorios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Sensores, -Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Electrónica - Robótica, -Metalmecánica (Diseño, construcción, servicios y equipos)", "licicodigos": "113,121,122,212,288" }

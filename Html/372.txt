@@ -1,0 +1,298 @@
+Title: Licitaciones - GOBERNACIÓN DEL CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b4959470639.50183413
+
+Markdown Content:
+Licitaciones - GOBERNACIÓN DEL CAUCA - Subasta Inversa DC-SDEC-SASI-001-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 09:21:03
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+EL CONTRATISTA SE OBLIGA CON EL DEPARTAMENTO DEL CAUCA A TRANSFERIR A TÍTULO DE COMPRAVENTA EQUIPOS, MAQUINARIA, MUEBLES Y ENSERES PARA LA DOTACIÓN DE LAS UNIDADES PRODUCTIVAS DETERMINADAS EN EL MARCO DEL PROYECTO: FORTALECIMIENTO DE CAPACIDADES A EMPRENDIMIENTOS CONFORMADOS POR POBLACIÓN SUJETOS DE POLÍTICA SOCIAL, VICTIMAS Y REINCORPORADOS BAJO PRINCIPIOS DE ECONOMÍA SOLIDARIA EN 11 MUNICIPIOS DEL CAUCA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cauca
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+48101810 - Tapas para sartenes u ollas para uso comercial
+
+**Códigos adicionales UNSPSC:**
+41112305 - Controlador de humedad,48101813 - Batidoras manuales para uso comercial,43212110 - Impresoras de múltiples funciones,24111502 - Bolsas de papel,44102304 - Máquinas selladoras,41111507 - Básculas de mesa,21102005 - Molino para trituración,41111501 - Balanzas de carga superior electrónicos,48101509 - Freidoras para uso comercial,48101529 - Ollas de presión o freidoras de presión,24131601 - Congeladores horizontales,23121501 - Maquinaria para bordados,23121614 - Máquinas de coser,21101705 - Trilladoras,49201601 - Pesas,41111509 - Básculas de piso o de plataforma,23181801 - Equipo y suministros para elaboración de café,21101704 - Cosechadoras “trilladoras” o mixtas,23152902 - Maquinaria de formar, rellenar o sellar,23152903 - Empacadora al vacío,41103011 - Refrigeradores para propósitos generales o neveras congeladores,23181604 - Máquina cortadora,31401505 - Empaque moldeado de silicona,23152200 - Mesa y estantes para fabricación,24131510 - Refrigerador de mostrador,48101608 - Licuadoras para uso comercial,48101507 - Hornos de convección para uso comercial
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Básculas, instrumentos de medida, observación y ensayo, -Maquinaria procesamiento de alimentos (Suministro y mantenimiento)", "licicodigos": "105,272,298" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+4 Meses
+
+**Dirección de ejecución del contrato:**
+Cauca
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Comunidad Andina
+
+**Tipo de contrato:**
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 156,278,163
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 48101813, 43212110, 24111502, 44102304, 41112305 | EL CONTRATISTA SE OBLIGA CON EL DEPARTAMENTO DEL CAUCA A TRANSFERIR A TÍTULO DE COMPRAVENTA EQUIPOS, MAQUINARIA, MUEBLES Y ENSERES PARA LA DOTACIÓN DE LAS UNIDADES PRODUCTIVAS DETERMINADAS EN EL MARCO DEL PROYECTO: "FORTALECIMIENTO DE CAPACIDADES A EMPRENDIMIENTOS CONFORMADOS POR POBLACIÓN SUJETOS DE POLÍTICA SOCIAL, VICTIMAS Y REINCORPORADOS BAJO PRINCIPIOS DE ECONOMÍA SOLIDARIA EN 11 MUNICIPIOS DEL CAUCA". | Selección abreviada subasta inversa | Recursos propios | $156.278.163 | SECRETARIA DE DESARROLLO ECONOMICO Y COMPETITIVIDAD |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 04:09 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+19/Jun/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+24/Jun/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/Jun/2025 - 12:37 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+01/Jul/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+03/Jul/2025 - 06:05 pm
+
+**Informe de presentación de Ofertas:**
+
+03/Jul/2025 - 06:06 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 11:59 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+14/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jul/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+18/Jul/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 07:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+24/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+12 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 17/Jul/2025 - 02:00 pm | 17/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 17/Jul/2025 - 02:00 pm | 17/Oct/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+18/Jul/2025 - 04:00 pm
+
+**Fecha de inicio:**
+18/Jul/2025 - 04:30 pm
+
+**Fecha fin:**
+18/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8458355 | Publicación modificación | 10/Jul/2025 - 05:15 pm |  |  |
+| Avisos | CO1.REQ.8458355 | Publicación modificación | 07/Jul/2025 - 06:36 pm |  |  |
+| Avisos | CO1.MSG.8117281 | Publicación de la lista de ofertas del proceso DC-SDEC-SASI-001-2025 (Presentación de oferta). | 03/Jul/2025 - 07:31 pm |  | - |
+| Avisos | CO1.MSG.8117279 | La lista de oferentes del proceso DC-SDEC-SASI-001-2025 (Presentación de oferta) publicada por GOBERNACIÓN DEL CAUCA | 03/Jul/2025 - 07:30 pm |  | - |
+| General | CO1.MSG.8072298 | AVISO DE NO LIMITACIÓN DE MIPYMES | 24/Jun/2025 - 12:16 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:37 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

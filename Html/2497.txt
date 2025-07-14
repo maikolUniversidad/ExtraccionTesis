@@ -1,0 +1,82 @@
+Title: Licitaciones - ICBF REGIONAL ATLANTICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e3267d14858.64916884
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 08:20:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO COMPUTADOR PARA EL INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR REGIONAL ATLÁNTICO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra. 46 No. 61 - 15 Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 11:59 pm

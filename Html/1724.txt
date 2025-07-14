@@ -1,0 +1,193 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE LA MUJER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6856144423f350.17597090
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 12:38:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de los insumos requeridos para la identificación de los bienes muebles de la Secretaría Distrital de la Mujer
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+55121607 - Calcomanías
+
+**Códigos adicionales UNSPSC:**
+
+44103104 - Rollos de transferencia,44102412 - Cartuchos de etiquetas adhesivas,43212108 - Impresoras de cinta térmica,43212115 - Impresoras de códigos de barra
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adhesivos - Stikers, -Equipos de lectura de código de barras - inventarios", "licicodigos": "294,444" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No. 69-76 Torre 1 Piso 9 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 55121607 | I - SCDPF-401-01129-25 - Contratar la adquisición de los insumos requeridos para la identificación de los bienes muebles de la Secretaría | Mínima cuantía | NotApplied | $2.000.000 | DIRECCIÓN DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 08:55 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 11:59 pm | 07/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 04/Jul/2025 - 11:59 pm | 07/Jul/2026 - 11:59 pm |

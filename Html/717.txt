@@ -1,0 +1,283 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e8a50cb6ad2.48433473
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:32:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar un software personalizado para realizar las votaciones electrónicas para la elección de miembros del Tribunal Disciplinario, conforme a lo establecido en la normatividad vigente.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 97-46 EDIFICIO TORRE 97 OFICINA 301 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+220 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 05:59 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+14/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+16/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+19/May/2025 - 04:19 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+19/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+19/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+22/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+28/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+28/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+19/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UT IATECH-BARTIK 2025 JDC | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 43,435,000
+
+**Informes proceso de selección CO1.AWD.2268205 de 18/Jun/2025 - 10:29 am. Valor $43.435.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 10:02 pm |  |
+| Informe de evaluación | 30/May/2025 - 10:02 pm |  |
+| Informe de evaluación | 30/May/2025 - 10:02 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 03:35 pm |  |
+| Informe de selección | 18/Jun/2025 - 10:29 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2268205**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UT IATECH-BARTIK 2025 JDC * **Tipo documento:** Otro * **Documento:** 0 | * **Nombre:** Yhan Carlo Garcia Ortiz * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1096205466 | Bogotá - | $43.435.000 |  | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2268205****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7997540
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+09/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 43,435,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2268205 | Informe de selección CO1.AWD.2268205 | 18/Jun/2025 - 10:29 pm |  | - |
+| General | CO1.MSG.8030654 | Formulario de preguntas y respuestas a observación SYSTEMVOTE S.A.S | 13/Jun/2025 - 03:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2268205 | Informe de evaluación 2 CO1.AWD.2268205 | 12/Jun/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.8023813 | Formulario de preguntas y respuestas a evaluación. | 12/Jun/2025 - 03:29 pm |  | - |
+| General | CO1.MSG.8001177 | ADENDA No. 1 | 09/Jun/2025 - 01:11 pm |  | - |
+| Avisos | CO1.REQ.8311556 | Publicación modificación | 09/Jun/2025 - 01:09 pm |  |  |
+| General | CO1.MSG.7997140 | Información Adenda No.1 | 06/Jun/2025 - 06:44 pm |  | - |
+| General | CO1.MSG.7997019 | Respuesta observaciones al informe de evaluación. | 06/Jun/2025 - 06:21 pm |  | - |
+| Objeciones | CO1.MSG.7984506 | [Respondido] RE:Subsanación de Documentos del Proceso | 06/Jun/2025 - 06:20 pm |  | - |
+| Objeciones | CO1.MSG.7984506 | Subsanación de Documentos del Proceso | 04/Jun/2025 - 11:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2268205 | Informe de evaluación 1 CO1.AWD.2268205 | 30/May/2025 - 10:02 pm |  | - |
+| Avisos | CO1.MSG.7950913 | Publicación de la lista de ofertas del proceso 002-UAE-JCC-SAMC-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 28/May/2025 - 12:00 pm |  | - |
+| Avisos | CO1.MSG.7950894 | La lista de oferentes del proceso 002-UAE-JCC-SAMC-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES | 28/May/2025 - 11:58 am |  | - |
+| General | CO1.MSG.7948187 | Respuesta observaciones extemporáneas | 27/May/2025 - 09:43 pm |  | - |
+| General | CO1.MSG.7948181 | RE: OBSERVACIÓN NUMERAL 4.1.1 OFERTA ECONÓMICA | 27/May/2025 - 09:38 pm |  | - |
+| General | CO1.MSG.7948119 | RE: OBSERVACIÓN 2 PLIEGO DE CONDICIONES FORMATO INDUSTRIA NACIONAL | 27/May/2025 - 09:04 pm |  | - |
+| Avisos | CO1.REQ.8285258 | Publicación modificación | 20/May/2025 - 09:46 am |  |  |
+| General | CO1.MSG.7895757 | Formato de preguntas y respuestas. | 16/May/2025 - 03:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7895678 | Formato de preguntas y respuestas. | 16/May/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7864345 | Observación al proyecto pliego de condiciones | 12/May/2025 - 08:33 am |  | - |

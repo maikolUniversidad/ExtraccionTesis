@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w64T7Aya7kOIrPjjdlz_-Q" Reference="qCejIrBFe0qRQF-PnoPYfQ/f5O3IiSgIka37khvG0ynyg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="col.licitaciones.info/detalle-contrato" CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" CvElementArea="3146, 1244, 582, 44" CvTextArea="3404, 1256, 85, 18" CvTextArgument="Ver docs" CvType="Button" DesignTimeRectangle="3150, 1622, 578, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='info-seccion-contrato' tag='BUTTON' type='' class='btn btn-new-gray btnRadius d-inline-block descargar-ver-docs boton-lateral_posicion' aaname=' Ver docs' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Ver docs' /&gt;" Guid="dc793f9a-8b73-461b-904b-4211575cdf6a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO - Subasta Inversa SED-SA-SI-OTIC-036-2025-' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6c662b13-12e1-4030-8302-88c9b92bd2b3" CvTextArea="315, 1626, 303, 22" CvTextArgument="Descargar todos los documentos:" CvType="Text" DesignTimeRectangle="317, 1622, 542, 30" FuzzySelectorArgument="&lt;webctrl type='' class='d-block' parentid='info-seccion-contrato' tag='B' aaname='Descargar todos los documentos:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Descargar todos los documentos:' /&gt;" Guid="66254b65-4102-41f2-94fe-676bae3a119e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d8a303f3efe38e4339079477657790b.png" xmlns="">02pSjXE91N0uqtvPpCojvcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,337 @@
+Title: Licitaciones - MUNICIPIO DE VILLA DE LEYVA//
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807c69308cc93.09327167
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-10 10:48:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS TECNOLÓGICOS Y DE COMPUTO (HARDWARE Y SOFTWARE), PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Villa De Leyva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211508 - Computadores personales
+
+**Códigos adicionales UNSPSC:**
+
+43212105 - Impresoras láser,43211712 - Tabletas de gráficos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "102,104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 31 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 9 N° 13-11 Villa De Leyva Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 104,251,570
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 11:08 am
+
+**Publicación Estudios Previos:**
+
+22/Abr/2025 - 11:10 am
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 11:10 am
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 11:10 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/Abr/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 10:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/Abr/2025 - 12:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/Abr/2025 - 12:31 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/Abr/2025 - 12:35 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/May/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+09/May/2025 - 03:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+15/May/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/May/2025 - 12:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+22/May/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+23/May/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+23/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/May/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+23/May/2025 - 05:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/May/2025 - 12:30 pm | 22/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 20/May/2025 - 12:30 pm | 22/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 08/May/2025 - 05:48 pm | * **Nombre:** ZULMA YANETH MEDINA RUIZ | Tunja - Boyacá |
+| 2 | 09/May/2025 - 09:25 am | * **Nombre:** COMERCIALIZADORA SERLE.COM | Bogotá - Distrito Capital de Bogotá |
+| 3 | 09/May/2025 - 11:56 am | * **Nombre:** MP COMPUTERS LTDA | Bogotá - Distrito Capital de Bogotá |
+| 4 | 09/May/2025 - 12:53 pm | * **Nombre:** TECNOPHONE COLOMBIA SAS | Chía - Cundinamarca |
+| 5 | 09/May/2025 - 01:00 pm | * **Nombre:** OLIMAKRO SAS | Boyacá |
+| 6 | 09/May/2025 - 01:14 pm | * **Nombre:** TIENDA GALAXY SAS | Medellín - Antioquia |
+| 7 | 09/May/2025 - 01:55 pm | * **Nombre:** DISTRIBUIDORA RED COMPUTO SAS | Bogotá - Distrito Capital de Bogotá |
+| 8 | 09/May/2025 - 02:36 pm | * **Nombre:** PC SYSTEM | Bucaramanga - Santander |
+| 9 | 09/May/2025 - 02:48 pm | * **Nombre:** MULTITINTAS.INK S.A.S | Bucaramanga - Santander |
+| 10 | 09/May/2025 - 02:53 pm | * **Nombre:** LA UNIVERSAL DE INVERSIONES BOYACA SAS | Chiquinquirá - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 102,947,000
+
+**Informes proceso de selección CO1.AWD.2260707 de 23/May/2025 - 04:25 am. Valor $102.947.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 09:36 am |  |
+| Informe de evaluación | 23/May/2025 - 09:36 am |  |
+| Informe de selección | 23/May/2025 - 04:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260707**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TECNOPHONE COLOMBIA SAS * **Tipo documento:** NIT * **Documento:** 900741497 | * **Nombre:** DIANA CHRISTOFFEL RODRIGUEZ * **Tipo documento:** NIT * **Documento:** 52699905 | Chía - Cundinamarca | $102.947.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260707****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7908655
+
+**Estado del contrato:**
+
+Borrador
+
+**Cuantía a la firma del contrato:**
+
+$ 102,947,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/May/2025 - 04:00 pm
+
+**Fecha de inicio:**
+
+23/May/2025 - 08:30 am
+
+**Fecha fin:**
+
+23/May/2025 - 09:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7942740 | Solicitud ajuste propuesta económica | 27/May/2025 - 10:46 am |  | - |
+| Reporte final | CO1.AWD.2260707 | Informe de selección CO1.AWD.2260707 | 23/May/2025 - 04:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260707 | Informe de evaluación 1 CO1.AWD.2260707 | 23/May/2025 - 09:36 am |  | - |
+| General | CO1.MSG.7925388 | RESPUESTA OBSERVACIONES AL INFORME FINAL DE EVALUACIÓN TÉCNICO | 22/May/2025 - 05:39 pm |  | - |
+| Avisos | CO1.MSG.7923664 | Publicación de la lista de ofertas del proceso SA-SI-004-2025 (Presentación de oferta). | 22/May/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.7923641 | LISTA DE OFERENTES ADMITIDOS | 22/May/2025 - 03:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2252542 | Informe de evaluación 3 CO1.AWD.2252542 | 22/May/2025 - 03:22 pm |  | - |
+| Avisos | CO1.MSG.7920560 | La lista de oferentes del proceso SA-SI-004-2025 (Presentación de oferta) publicada por MUNICIPIO DE VILLA DE LEYVA// | 22/May/2025 - 09:33 am |  | - |
+| General | CO1.MSG.7916236 | RESPUESTA A OBSERVACIONES TECNICAS TECNOPHONE | 21/May/2025 - 02:45 pm |  | - |
+| Objeciones | CO1.MSG.7911089 | [Respondido] RE:OBSERVACIONES TECNICAS | 21/May/2025 - 02:43 pm |  | - |
+| Objeciones | CO1.MSG.7910866 | [Respondido] RE:SUBSANACION ASPECTOS JURIDICOS Y TECNICOS MULTITINTAS INK SAS | 21/May/2025 - 02:43 pm |  | - |
+| Objeciones | CO1.MSG.7905494 | [Respondido] RE:SUBSANACION- SA-SI-004-2025 | 21/May/2025 - 02:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2252542 | Informe de evaluación 2 CO1.AWD.2252542 | 21/May/2025 - 02:41 pm |  | - |
+| General | CO1.MSG.7911182 | subsanacion SA-SI-004-2025 | 20/May/2025 - 05:43 pm |  | - |
+| Objeciones | CO1.MSG.7910866 | SUBSANACION ASPECTOS JURIDICOS Y TECNICOS MULTITINTAS INK SAS | 20/May/2025 - 05:36 pm |  | - |
+| General | CO1.MSG.7911056 | DOCUMENTOS SUBSANCION MP COMPUTERS LTDA | 20/May/2025 - 05:33 pm |  | - |
+| Objeciones | CO1.MSG.7911089 | OBSERVACIONES TECNICAS | 20/May/2025 - 05:31 pm |  | - |
+| General | CO1.MSG.7908612 | SUBSANACION INFORME DE EVALUACION | 20/May/2025 - 04:01 pm |  | - |
+| General | CO1.MSG.7908633 | subsanacion serlecom parte 2 | 20/May/2025 - 02:12 pm |  | - |
+| General | CO1.MSG.7907366 | subsanacion serlecom | 20/May/2025 - 11:12 am |  | - |
+| Objeciones | CO1.MSG.7905494 | SUBSANACION- SA-SI-004-2025 | 20/May/2025 - 12:12 am |  | - |
+| Avisos | CO1.MSG.7898368 | Publicación de la lista de ofertas del proceso SA-SI-004-2025 (Presentación de oferta). | 17/May/2025 - 03:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2252542 | Informe de evaluación 1 CO1.AWD.2252542 | 15/May/2025 - 03:24 pm |  | - |
+| Avisos | CO1.REQ.8184020 | Publicación modificación | 09/May/2025 - 04:23 pm |  |  |
+| Avisos | CO1.MSG.7860674 | La lista de oferentes del proceso SA-SI-004-2025 (Presentación de oferta) publicada por MUNICIPIO DE VILLA DE LEYVA// | 09/May/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.7859440 | RESPUESTA OBSERVACION EXTEMPORANEA | 09/May/2025 - 12:09 pm |  | - |
+| General | CO1.MSG.7857483 | RES PUESTA OBSERVACION EXTEMPORANEA | 09/May/2025 - 08:35 am |  | - |
+| Avisos | CO1.REQ.8184020 | Publicación modificación | 08/May/2025 - 12:06 pm |  |  |
+| General | CO1.MSG.7852346 | RESPUESTA A OBSERVACIONES AL PLIEGO DEFINITIVO | 08/May/2025 - 11:36 am |  | - |
+| Aclaraciones | CO1.MSG.7852334 | RESPUESTAS A Observaciones al Pliego de Condiciones | 08/May/2025 - 11:34 am |  | - |

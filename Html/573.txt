@@ -1,0 +1,220 @@
+Title: Licitaciones - CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS - INPEC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685346972d8d24.82279440
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 11:08:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN DE MOBILIARIO Y EQUIPOS DE OFICINA PARA LA DOTACION A LOS DIFERENTES PROGRAMAS DE ATENCION Y REHABILITACION AL RECLUSO DEL ESTABLECIMIENTO PENITENCIARIO DE ALTA Y MEDIA SEGURIDAD DE LA DORADA, CALDAS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : La Dorada
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101706 - Mesas de conferencia
+
+**Códigos adicionales UNSPSC:**
+
+40101701 - Aires acondicionados,43211507 - Computadores de escritorio,43211513 - Computadores personales ultra móviles,43212104 - Impresoras de inyección de tinta,43212105 - Impresoras láser,52161505 - Televisores,56101703 - Escritorios,56112104 - Sillas para ejecutivos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario, -Electrodomésticos, -Aire acondicionado", "licicodigos": "105,128,139,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+BARRIO LAS FERIAS KM 3 VIA PALMAR La Dorada Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 43211513, 43212104, 43212105, 52161505, 40101701, 56112104, 56101703, 56101706 | ADQUISICION DE EQUIPOS DE OFICINAS, MOBILIARIO Y ELECTRODOMESTICOS PARA EL DESARROLLO DE LOS DIFERENTES PROGRAMAS PSICOSOCIALES, JUNTA DE TRABAJO ESTUDIO Y ENSEÑANZA, IMPLEMENTACIÓN Y DESARROLLO DEL SISTEMA INTEGRAL DE TRATAMIENTO PROGRESIVO PENITENCIARIO DE LA CARCEL Y PENTIENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS | Mínima cuantía | Recursos propios | $78.275.549 | GESTION CONTRACTUAL III |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 05:46 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 06:00 pm | 31/Mar/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/Jun/2025 - 06:00 pm | 31/Mar/2026 - 06:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(7/07/2025 6:10:57 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CPAMSLDO en 16 horas de tiempo transcurrido (7/07/2025 6:10:57 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: UNICO OFERENTE NO CUMPLIO CON LOS CRITERIOS DE EVALUACION.
+
+**Fecha de la cancelación:**
+
+07/Jul/2025 - 06:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8130835 | DECLARATORIA DESIERTA | 07/Jul/2025 - 06:07 pm |  | - |
+| Avisos | CO1.MSG.8130772 | Publicación de la lista de ofertas del proceso 637 MC 011 DE 2025. | 07/Jul/2025 - 06:01 pm |  | - |
+| Avisos | CO1.MSG.8130771 | La lista de oferentes del proceso 637 MC 011 DE 2025 publicada por CARCEL Y PENITENCIARIA CON ALTA Y MEDIA SEGURIDAD DE LA DORADA CALDAS - INPEC | 07/Jul/2025 - 06:01 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291412 | Informe de evaluación 1 CO1.AWD.2291412 | 25/Jun/2025 - 05:37 pm |  | - |
+| General | CO1.MSG.8072567 | RE: SOLICITUD ACLARACION MIPYMES | 24/Jun/2025 - 01:09 pm |  | - |
+| Avisos | CO1.REQ.8437300 | A new request amendment was published | 24/Jun/2025 - 01:07 pm |  |  |
+| General | CO1.MSG.8072548 | AVISO DE LIMITACION MIPYMES TERRITORIAL | 24/Jun/2025 - 01:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8071584 | RE: SOLICITUD DE LIMITACION NACIONAL | 24/Jun/2025 - 01:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8071485 | RE: OBSERVACIONES FICHAS TECNICAS | 24/Jun/2025 - 11:00 am |  | - |
+| General | CO1.MSG.8070868 | RE: SOLICITUD | 24/Jun/2025 - 09:55 am |  | - |
+| Aclaraciones | CO1.MSG.8064388 | SOLICITUD DE LIMITACION NACIONAL | 20/Jun/2025 - 11:08 am |  | - |
+| Aclaraciones | CO1.MSG.8055320 | OBSERVACIONES FICHAS TECNICAS | 18/Jun/2025 - 09:42 pm |  | - |

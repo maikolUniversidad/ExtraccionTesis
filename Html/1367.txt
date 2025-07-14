@@ -1,0 +1,178 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823e5a7a65272.69238919
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 09:39:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA LA DIVULGACIÓN Y PROMOCION DE LOS PROGRAMAS, PROYECTOS Y DEMÁS TEMAS DE INTERÉS PÚBLICO DE LA ALCALDIA DE VILLAVICENCIO, EN UNA PAGINA WEB
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101603 - Publicidad en internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 40 Nº 33 - 64 Centro PISO 2 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82101504, 82101603 | META (256) (DISEÑO E IMPLEMENTACIÓN DEL PLAN ESTRATÉGICO DE TECNOLOGÍAS DE LA INFORMACIÓN PARA EL MUNICIPIO DE VILLAVICENCIO, META) PRESTACION DE SERVICIOS PARA LA DIVULGACIÓN Y PROMOCION DE LOS PROGRAMAS, PROYECTOS Y DEMAS TEMAS DE INTERES PUBLICO DE LA ALCALDIA DE VILLAVICENCIO, EN UN PERIODICO DE CIRCUALACIÓN REGIONAL Y PAGINA WEB. | Mínima cuantía | Recursos propios | $200.000.000 | SECRETARIA DE LAS TIC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 07:18 pm
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+13/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 08:00 pm
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 08:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 08:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 08:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 08:03 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 08:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 08:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 10:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

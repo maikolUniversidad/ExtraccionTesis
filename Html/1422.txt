@@ -1,0 +1,194 @@
+Title: Licitaciones - MUNICIPIO DE MARIQUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855725dde72c5.66361235
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:47:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COMPRA DE ELEMENTOS PARA LA EJECUCION DEL PROYECTO GANADOR PRESENTADO POR LA IGLESIA CRISTIANA DE RESTAURACIÓN BAJO EL FUEGO DEL ESPÍRITU SANTO, EN EL MARCO DE LA CONVOCATORIA DIRIGIDA A LAS ENTIDADES RELIGIOSAS DEL MUNICIPIO DE SAN SEBASTIÁN DE MARIQUITA, CON EL PROPÓSITO DE FORTALECER SU IMPACTO SOCIAL Y COMUNITARIO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima: San Sebastián De Mariquita
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101519 - Mesas
+
+**Códigos adicionales UNSPSC:**
+
+44111901 - Tableros de planeación o accesorios,45101511 - Impresora de inyección de tinta para aplicaciones de impresión comercial,52161505 - Televisores,60131003 - Órganos musicales,60131303 - Guitarras,60141305 - Bloques de unidades
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario, -Instrumentos musicales", "licicodigos": "105,128,138" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 4 CARRERA 3 ESQUINA Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 09:10 am
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 09:10 am
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 09:15 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Jun/2025 - 09:10 am
+
+**Plazo para recepción de observaciones:**
+
+24/Jun/2025 - 09:10 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 04:59 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 02:05 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 12:00 am | 11/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jul/2025 - 12:00 am | 11/Nov/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8092628 | SUBSANACIÓN INFORME 1 | 27/Jun/2025 - 12:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292378 | Informe de evaluación 1 CO1.AWD.2292378 | 26/Jun/2025 - 05:47 pm |  | - |

@@ -1,0 +1,265 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE CULTURA, RECREACIÓN Y DEPORTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68266ceb176663.04097805
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:49:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovación y adquisición de licenciamiento software Fortinet
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 No. 9-83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 240,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231500 | SCDPI-21420-00306-25 - Renovación y adquisición de licenciamiento software Fortinet. | Selección abreviada subasta inversa | Recursos propios | $240.000.000 | DIRECCIÓN DE GESTIÓN CORPORATIVA |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 03:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 03:00 pm
+
+**Publicación Estudios Previos:**
+
+15/May/2025 - 03:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 05:27 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+24/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+24/Jun/2025 - 07:21 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+07/Jul/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+07/Jul/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jul/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+18/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+21/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+22/Jul/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+24/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 21/Jul/2025 - 06:00 pm | 31/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 21/Jul/2025 - 06:00 pm | 31/Jul/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+18/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+18/Jul/2025 - 02:40 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2304657 | Informe de evaluación 1 CO1.AWD.2304657 | 11/Jul/2025 - 03:31 pm |  | - |
+| General | CO1.MSG.8091252 | RE: Solicitud de minuta del contrato - Proceso SCRD-SASI-25-2025 | 07/Jul/2025 - 10:21 am |  | - |
+| Avisos | CO1.MSG.8126320 | Publicación de la lista de ofertas del proceso SCRD-SASI-25-2025 (Presentación de oferta). | 07/Jul/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.8126309 | La lista de oferentes del proceso SCRD-SASI-25-2025 (Presentación de oferta) publicada por SECRETARÍA DISTRITAL DE CULTURA, RECREACIÓN Y DEPORTE | 07/Jul/2025 - 10:08 am |  | - |
+| Aclaraciones | CO1.MSG.8115807 | RE: Observaciones al proceso_INNDOT, Observaciones , Observacion de it al proceso | 03/Jul/2025 - 04:46 pm |  | - |
+| Aclaraciones | CO1.MSG.8094913 | Observacion de it al proceso | 27/Jun/2025 - 04:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8091821 | Observaciones | 27/Jun/2025 - 09:54 am |  | - |
+| Aclaraciones | CO1.MSG.8090400 | Observaciones al proceso_INNDOT | 26/Jun/2025 - 07:29 pm |  | - |
+| General | CO1.MSG.8069639 | RE: LIMITACION NACIONAL | 23/Jun/2025 - 06:03 pm |  | - |
+| General | CO1.MSG.8069643 | RE: SOLICITUD LIMITACION MIPYMES NACIONALES | 23/Jun/2025 - 06:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8069638 | RE: Observaciones al proceso_E&C, OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 23/Jun/2025 - 06:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7923982 | OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 22/May/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7923987 | Observaciones al proceso_E&C | 22/May/2025 - 03:51 pm |  | - |

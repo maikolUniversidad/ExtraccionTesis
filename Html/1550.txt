@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA EL CAIMO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b2e1bbf37e6.12856910
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 17:37:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de mantenimiento a todo costo de equipos de cómputo, impresoras y telefonía del área administrativa y el área académica de la Institución Educativa El Caimo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREGIMIENTO EL CAIMO CRA 2 N°1-50 Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+145 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111812, 81112200 | Servicio de mantenimiento o soporte del hardware del computador, Mantenimiento y soporte de software | Contratación régimen especial - Régimen especial | NotApplied | $4.000.000 | REINA PATRICIA CASTAÑO NIÑO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 10:12 am
+
+**Fecha de Firma del Contrato:**
+
+13/Jun/2025 - 03:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+13/Jun/2025 - 04:00 pm
+
+**Plazo de ejecución del contrato:**
+
+05/Nov/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

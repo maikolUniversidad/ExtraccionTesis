@@ -1,0 +1,187 @@
+Title: Licitaciones - ALCALDIA DE ALCALA - Contratación mínima cuantía PCMA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826505d0f4a88.27247997
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 17:01:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ALQUILER DE EQUIPOS MULTIFUNCIONALES DE LÁSER MONOCROMÁTICOS Y ESCANERS, QUE INCLUIYE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, SUMINISTRO DE INSUMOS (REPUESTOS, TÓNER, TINTA) Y SERVICIO DE RECARGAS Y/O SUMINISTRO DE TONER NUEVOS, SEGÚN LA NECESIDAD QUE SE REQUIERA EN LOS DIFERENTES EQUIPOS DE LA ADMINISTRACIÓN del MUNICIPIO DE ALCALÁ VALLE DEL CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Alcalá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82121701 - Servicios de copias en blanco y negro o de cotejo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "106,312,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 N° 5 - 35 Alcalá Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+230 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82121701 | ALQUILER DE EQUIPOS MULTIFUNCIONALES DE LÁSER MONOCROMÁTICOS Y ESCANERS, QUE INCLUIYE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, SUMINISTRO DE INSUMOS (REPUESTOS, TÓNER, TINTA) SEGÚN LA NECESIDAD QUE SE REQUIERA EN EL MUNICIPIO DE ALCALÁ VALLE DEL CAUCA. | Mínima cuantía | SGP | $39.858.000 | CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:35 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 03:40 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 03:40 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 03:40 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 03:40 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 11:59 pm
+
+**Apertura de sobres:**
+
+21/May/2025 - 08:30 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 02:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/May/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+26/May/2025 - 05:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8268639 | Publicación modificación | 23/May/2025 - 12:44 pm |  |  |
+| Objeciones | CO1.MSG.7922493 | [Respondido] RE:OBSERVACIONES A LA EVALUACION | 22/May/2025 - 03:49 pm |  | - |
+| Objeciones | CO1.MSG.7922493 | OBSERVACIONES A LA EVALUACION | 22/May/2025 - 01:32 pm |  | - |
+| General | CO1.MSG.7921627 | RE: Objetar evaluación | 22/May/2025 - 11:48 am |  | - |
+| Reporte preliminar | CO1.AWD.2258618 | Informe de evaluación 1 CO1.AWD.2258618 | 21/May/2025 - 04:51 pm |  | - |
+| Avisos | CO1.MSG.7913290 | Publicación de la lista de ofertas del proceso PCMA - 090 DE 2025. | 21/May/2025 - 09:13 am |  | - |
+| Avisos | CO1.MSG.7913287 | La lista de oferentes del proceso PCMA - 090 DE 2025 publicada por ALCALDIA DE ALCALA | 21/May/2025 - 09:12 am |  | - |
+| General | CO1.MSG.7900210 | RE: Observación | 19/May/2025 - 10:37 am |  | - |
+| General | CO1.MSG.7900170 | RE: Observación | 19/May/2025 - 10:22 am |  | - |
+| General | CO1.MSG.7899997 | RE: Observación | 19/May/2025 - 10:12 am |  | - |
+| Aclaraciones | CO1.MSG.7894866 | RE: LIMITAR A MYPIME DEPARTAMENTAL PCMA -090 DE 2025 | 16/May/2025 - 02:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7894875 | RE: LIMITAR A MYPIME DEPARTAMENTAL | 16/May/2025 - 02:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7894664 | RE: ACLARACION CODIGO CIIU PARA PROCESO PCMA - 090 DE 2025 | 16/May/2025 - 02:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7891794 | LIMITAR A MYPIME DEPARTAMENTAL PCMA -090 DE 2025 | 16/May/2025 - 06:03 am |  | - |
+| Aclaraciones | CO1.MSG.7891753 | ACLARACION CODIGO CIIU PARA PROCESO PCMA - 090 DE 2025 | 15/May/2025 - 11:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7891744 | LIMITAR A MYPIME DEPARTAMENTAL | 15/May/2025 - 11:39 pm |  | - |

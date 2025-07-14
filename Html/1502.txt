@@ -1,0 +1,112 @@
+Title: Licitaciones - COLEGIO SAN CAYETANO INSTITUCION EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851dc02840d83.04154325
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 16:20:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+La entidad requiere contratar un proveedor idoneo que realice el mantenimiento preventivo y correctivo de los equipos de fotocopiado y duplicación del colegio, de igual forma (de ser necesario) proporcione los repuestos necesarios para el correcto funcionamiento de los mismos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos", "licicodigos": "106,108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 74A SUR # 17 49 ESTE Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 03:16 pm
+
+**Fecha de Firma del Contrato:**
+
+23/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

@@ -1,0 +1,86 @@
+Title: Licitaciones - CAJA DE RETIRO DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68548345f288e0.04114889
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:52:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLICITUD DE INFORMACIÓN A LOS PROVEEDORES CUYO OBJETO ES: CONTRATAR EL SOPORTE Y MANTENIMIENTO, DEL DIRECTORIO ACTIVO DE LA CAJA DE RETIRO DE LAS FUERZAS MILITARES QUE ACTUALMENTE OPERA SOBRE WINDOWS SERVER 2019
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231501 - Software de mesa de ayuda o centro de llamadas (call center)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KR 10 # 27 - 27 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 04:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 05:00 pm

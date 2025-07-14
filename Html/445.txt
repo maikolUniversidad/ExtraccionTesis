@@ -1,0 +1,217 @@
+Title: Licitaciones - GOBIERNO DEPARTAMENTAL - Contratación mínima cuantía MIN-036-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a72c0b26814.94707230
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 07:04:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121635 - Rollos de cable
+
+**Códigos adicionales UNSPSC:**
+
+32101601 - Memoria de acceso aleatorio (ram),43201814 - Equipos electrónicos de duplicación de medios o información,43201803 - Unidades de disco duro,43201827 - Dispositivo de almacenamiento de disco duro portátil,43202216 - Cable de conexión de impresora,43211501 - Servidores de computador,43211706 - Teclados,43211708 - Mouse o bola de seguimiento para computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro partes de computador y/o Periféricos, -Pilas y baterías desechables y recargables, -Materiales para redes de comunicación", "licicodigos": "103,105,299,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 3 calle entre calle 10 y 11 edificio gobernacion del tolima Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211501, 43201803, 32101601, 43201827, 43211708, 43211706, 43202216, 43201814, 26121635 | SA-TH-0166 "CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA." | Mínima cuantía | Recursos propios | $120.000.000 | SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 03:23 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+06/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+07/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+07/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+08/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+08/May/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+12/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+12/May/2025 - 09:07 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+15/May/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/May/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 12:00 pm | 09/Feb/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 12:00 pm | 09/Feb/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 15/May/2025 - 12:00 pm | 09/Feb/2026 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(16/May/2025 - 02:42 am:25 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal GOBIERNO DEPARTAMENTAL en 10 días de tiempo transcurrido (16/May/2025 - 02:42 am:25 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: DECLARADO DESIERTO
+
+**Fecha de la cancelación:**
+
+16/May/2025 - 02:42 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7889041 | RESOLUCION DECLARATORIA DESIERTA | 15/May/2025 - 03:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250833 | Informe de evaluación 1 CO1.AWD.2250833 | 13/May/2025 - 02:19 pm |  | - |
+| General | CO1.MSG.7874189 | RESOLUCIÓN COMITÉ EVALUADOR | 13/May/2025 - 02:18 pm |  | - |
+| General | CO1.MSG.7868590 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 12/May/2025 - 04:25 pm |  | - |
+| Avisos | CO1.MSG.7864770 | La lista de oferentes del proceso MIN-036-2025 publicada por GOBIERNO DEPARTAMENTAL | 12/May/2025 - 09:14 am |  | - |
+| Avisos | CO1.MSG.7864773 | Publicación de la lista de ofertas del proceso MIN-036-2025. | 12/May/2025 - 09:14 am |  | - |
+| General | CO1.MSG.7859549 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 09/May/2025 - 12:13 pm |  | - |
+| General | CO1.MSG.7853299 | AVISO DE LIMITACIÓN A MIPYMES | 08/May/2025 - 02:11 pm |  | - |

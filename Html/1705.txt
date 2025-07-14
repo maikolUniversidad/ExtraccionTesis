@@ -1,0 +1,129 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DEPARTAMENTAL CALIXTO GAITAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a08ac593120.02323982
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 10:18:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+FORMACION INTEGRAL: MANTENIMIENTO DE COMPUTADORES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : La Palma
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 9 # 2A-25 La Palma Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,155,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 03:05 pm
+
+**Fecha de Firma del Contrato:**
+
+13/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+20/Jun/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8400003 | Publicación modificación | 13/Jun/2025 - 09:58 am |  |  |
+| Avisos | CO1.REQ.8400003 | Publicación modificación | 12/Jun/2025 - 10:00 am |  |  |

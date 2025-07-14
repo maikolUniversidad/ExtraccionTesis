@@ -1,0 +1,259 @@
+Title: Licitaciones - Superintendencia de Transporte
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685072675c3a03.29218054
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:53:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+506_Renovación del soporte, mantenimiento y actualizaciones del licenciamiento de la herramienta Scriptcase para la Superintendencia de Transporte.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 25 G No 95 a – 85 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112500, 43232300, 43232200, 43231500, 43232400 | 506_Renovación del soporte, mantenimiento y actualizaciones del licenciamiento de la herramienta Scriptcase para la Superintendencia de Transporte. | Mínima cuantía | Recursos propios | $25.000.000 | SUPERTRANSPORTE |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 12:00 pm
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 02:10 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 10:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Software IT | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 22,015,000
+
+**Informes proceso de selección CO1.AWD.2289680 de 27/Jun/2025 - 12:56 pm. Valor $22.015.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 04:54 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 04:54 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 04:54 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 04:54 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 07:22 am |  |
+| Informe de evaluación | 27/Jun/2025 - 07:22 am |  |
+| Informe de evaluación | 27/Jun/2025 - 07:22 am |  |
+| Informe de selección | 27/Jun/2025 - 12:56 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289680**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Software IT SAS * **Tipo documento:** NIT * **Documento:** 900818708 | * **Nombre:** Walter Giraldo Gomez * **Tipo documento:** * **Documento:** 79519260 | Bogotá - Distrito Capital de Bogotá | $22.015.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289680****
+
+**ID del contrato en SECOP:**
+
+429-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+04/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 22,015,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289680 | Informe de selección CO1.AWD.2289680 | 27/Jun/2025 - 12:56 pm |  | - |
+| Objeciones | CO1.MSG.8078256 | [Respondido] RE:Documentación subsanación informe de Evaluación | 27/Jun/2025 - 07:24 am |  | - |
+| Reporte preliminar | CO1.AWD.2289680 | Informe de evaluación 2 CO1.AWD.2289680 | 27/Jun/2025 - 07:22 am |  | - |
+| Objeciones | CO1.MSG.8078256 | Documentación subsanación informe de Evaluación | 25/Jun/2025 - 10:22 am |  | - |
+| Reporte preliminar | CO1.AWD.2289680 | Informe de evaluación 1 CO1.AWD.2289680 | 24/Jun/2025 - 04:54 pm |  | - |
+| Avisos | CO1.MSG.8063775 | La lista de oferentes del proceso IPMC-009-2025 publicada por Superintendencia de Transporte | 20/Jun/2025 - 10:07 am |  | - |
+| General | CO1.MSG.8053326 | LIMITACIÓN A MIPYMES A NIVEL NACIONAL | 18/Jun/2025 - 04:34 pm |  | - |
+| General | CO1.MSG.8052696 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 18/Jun/2025 - 03:51 pm |  | - |

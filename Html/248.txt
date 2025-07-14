@@ -1,0 +1,324 @@
+Title: Licitaciones - AEROCIVIL - Selección abreviada de menor cuantía (Ley 1150 de 2007) 25000701 H2 de 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810fc249b3558.38538204
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-05 00:11:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+53600C0648 ADQUIRIR SISTEMAS DE CONTROL DE LUCES DE PISTA PARA EL AEROPUERTO VILLAVICENCIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39111508 - Alumbrado de pista
+
+**Códigos adicionales UNSPSC:**
+
+39121009 - Reguladores eléctricos o de potencia,39111615 - Luces exteriores para iluminación puntual instaladas en el suelo,26121613 - Cable aislado o forrado,43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43232600 - Software específico para la industria
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Equipos audiovisuales, -Aeropuertos", "licicodigos": "102,115,477" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 33 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO VANGUARDIA VILLAVICENCIO META Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 39111508, 39121009, 26121613, 39111615 | 53600C0648 ADQUIRIR SISTEMAS DE CONTROL DE LUCES DE PISTA PARA EL AEROPUERTO VILLAVICENCIO | Selección abreviada menor cuantía | Recursos propios | $300.000.000 | REGIONAL ORIENTE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+29/Abr/2025 - 10:50 am
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+29/Abr/2025 - 12:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+12/May/2025 - 12:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+13/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+13/May/2025 - 05:00 pm
+
+**Plazo para manifestación de Interés:**
+
+14/May/2025 - 12:00 pm
+
+**Publicación de la lista de precalificados:**
+
+14/May/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+15/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/May/2025 - 05:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+15/May/2025 - 05:30 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés:**
+
+16/May/2025 - 05:00 pm
+
+**Publicación de la lista de precalificados:**
+
+16/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés:**
+
+16/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+22/May/2025 - 10:10 am
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+23/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+23/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+05/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/Jun/2025 - 06:00 pm | 31/Dic/2025 - 11:59 pm |
+| Pago de salarios | 20,00 | 05/Jun/2025 - 06:00 pm | 31/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 31/Ago/2025 - 12:00 pm | 31/Ago/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 31/Ago/2025 - 12:00 pm | 31/Ago/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 246,222,900
+
+**Informes proceso de selección CO1.AWD.2265436 de 04/Jun/2025 - 05:25 am. Valor $246.222.900**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 02:44 pm |  |
+| Informe de evaluación | 28/May/2025 - 02:44 pm |  |
+| Informe de evaluación | 28/May/2025 - 02:44 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 09:57 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 09:57 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 09:57 pm |  |
+| Informe de selección | 04/Jun/2025 - 05:25 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265436**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SKYTECH SAS * **Tipo documento:** NIT * **Documento:** 900349758 | * **Nombre:** WILSON RICARDO ADAME MANOSALVA * **Tipo documento:** * **Documento:** 7228446 | Villavicencio - Meta | $246.222.900 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265436****
+
+**ID del contrato en SECOP:**
+
+25000701 H2 de 2025
+
+**Plazo de ejecución:**
+
+3 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 246,222,900
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265436 | Informe de selección CO1.AWD.2265436 | 04/Jun/2025 - 05:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265436 | Informe de evaluación 2 CO1.AWD.2265436 | 03/Jun/2025 - 09:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265436 | Informe de evaluación 1 CO1.AWD.2265436 | 28/May/2025 - 02:44 pm |  | - |
+| Avisos | CO1.REQ.8176009 | Publicación modificación | 13/May/2025 - 03:15 pm |  |  |
+| Aclaraciones | CO1.MSG.7852797 | RE: SKY-2025-299_Observaciones al pliego de condiciones borrador | 08/May/2025 - 12:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7831824 | SKY-2025-299_Observaciones al pliego de condiciones borrador | 05/May/2025 - 11:46 am |  | - |

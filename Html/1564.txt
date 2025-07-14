@@ -1,0 +1,134 @@
+Title: Licitaciones - Institucion Educativa Maria Auxiliadora
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f9eb6b74982.45720593
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 08:57:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el alquiler de los servicios tecnológicos de una plataforma virtual para el procesamiento de la información académica de 1289 estudiantes, que permita a cada docente cargar sus evaluaciones, y a los estudiantes y padres de familia observar los resultados del proceso académico y generación de informes básicos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Guadalupe
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 4 No. 10-155 Guadalupe Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+204 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,749,701
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | Servicio de licencia de software | Contratación régimen especial - Régimen especial | SGP | $3.749.701 | RECTORIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 09:22 am
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8176231 | Publicación modificación | 07/May/2025 - 03:10 pm |  |  |
+| Avisos | CO1.REQ.8176231 | Publicación modificación | 05/May/2025 - 08:32 am |  |  |
+| Avisos | CO1.REQ.8176231 | Publicación modificación | 29/Abr/2025 - 09:43 am |  |  |

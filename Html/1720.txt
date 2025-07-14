@@ -1,0 +1,135 @@
+Title: Licitaciones - CENTRO EDUCATIVO NUESTRA SEÑORA DEL CARMEN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6825e5cdaa6223.64025225
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:52:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+HOSTING DEL SISTEMA DE CONTROL DE GASTOS SCG
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Astrea
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting", "licicodigos": "111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CORREG SANTA CECILIA Astrea Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 700,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | Programas de informática y bases de datos | Contratación régimen especial - Régimen especial | SGP | $700.000 | EQUIPO DE COMPRAS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 07:55 am
+
+**Fecha de Firma del Contrato:**
+
+22/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+24/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+24/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8265228 | Publicación modificación | 03/Jun/2025 - 11:46 am |  |  |
+| Avisos | CO1.REQ.8265228 | Publicación modificación | 22/May/2025 - 10:13 am |  |  |
+| Avisos | CO1.REQ.8265228 | Publicación modificación | 21/May/2025 - 11:19 am |  |  |
+| Avisos | CO1.REQ.8265228 | Publicación modificación | 20/May/2025 - 09:24 am |  |  |

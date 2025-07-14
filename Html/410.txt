@@ -1,0 +1,252 @@
+Title: Licitaciones - Institución Universitaria Pascual Bravo COMPRADOR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b0cca0fd678.15416685
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 16:12:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Compra de dispositivos, Insumos Electrónicos y accesorios para el desarrollo de actividades académicas, investigativas y administrativas de la Institución Universitaria Pascual Bravo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41113120 - Analizador de monóxido de carbono
+
+**Códigos adicionales UNSPSC:**
+
+43211617 - Cable de extensión de bus serial universal usb
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para obras eléctricas en general, -Básculas, instrumentos de medida, observación y ensayo, -Materiales para redes de comunicación", "licicodigos": "105,121,272,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 73 # 73A – 226 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 140,753,652
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Jun/2025 - 03:07 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Jun/2025 - 08:00 pm
+
+**Publicación Estudios Previos:**
+
+24/Jun/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+01/Jul/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/Jul/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+02/Jul/2025 - 08:56 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/Jul/2025 - 09:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+02/Jul/2025 - 09:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jul/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jul/2025 - 07:01 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+14/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+22/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 09:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 08:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 10:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+28/Jul/2025 - 10:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Jul/2025 - 12:00 pm | 25/Mar/2026 - 11:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/Jul/2025 - 07:00 pm
+
+**Fecha de inicio:**
+
+23/Jul/2025 - 11:00 am
+
+**Fecha fin:**
+
+23/Jul/2025 - 11:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8140921 | Publicación de la lista de ofertas del proceso SIE 008 DE 2025 (Presentación de oferta). | 09/Jul/2025 - 10:43 am |  | - |
+| Avisos | CO1.MSG.8140916 | La lista de oferentes del proceso SIE 008 DE 2025 (Presentación de oferta) publicada por Institución Universitaria Pascual Bravo COMPRADOR | 09/Jul/2025 - 10:42 am |  | - |
+| General | CO1.MSG.8128938 | RESPUESTA A SOLICITUD TELEFÓNICA | 07/Jul/2025 - 03:38 pm |  | - |
+| General | CO1.MSG.8128775 | RE: OBSERVACIÓN URGENTE | 07/Jul/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.8110738 | AVISO DE LIMITACIÓN A MIPYME | 02/Jul/2025 - 08:58 pm |  | - |

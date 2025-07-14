@@ -1,0 +1,321 @@
+Title: Licitaciones - SENA REGIONAL CALDAS Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834efe8011ce9.09650428
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 14:53:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LA PAPELERÍA, ÚTILES DE ESCRITORIO Y TONER PARA LAS DIFERENTES DEPENDENCIAS DE LA DIRECCIÓN REGIONAL SENA CALDAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44122103 - Sujetadores de cierre
+
+**Códigos adicionales UNSPSC:**
+
+44121701 - Bolígrafos,44122003 - Carpetas,31201505 - Cinta doble faz,31201503 - Cinta de enmascarar,44122104 - Clips para papel,44112005 - Libretas de citas o repuestos,44121706 - Lápices de madera,44121708 - Marcadores,14111530 - Papel de notas autoadhesivas,14111507 - Papel para impresora o fotocopiadora,44121613 - Removedores de grapas (saca ganchos),12352310 - Siliconas,44111901 - Tableros de planeación o accesorios,81101500 - Ingeniería civil y arquitectura,44121618 - Tijeras,44111911 - Tableros blancos interactivos o accesorios,44121619 - Tajalápices manuales,44103103 - Tóner para impresoras o fax,44101706 - Unidades de fotoconductores o imágenes,60105704 - Barras de pegante libres de ácido,26111702 - Pilas alcalinas,46151703 - Tinta de huellas dactilares
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 10 VIA AL MAGDALENA Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 04:00 pm
+
+**Fecha de publicación:**
+
+26/May/2025 - 04:13 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+04/Jun/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+04/Jun/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+10/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+12/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 12/Jun/2025 - 08:00 am | 20/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 12/Jun/2025 - 08:00 am | 20/Nov/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMPUTAR S.A.S. | Manizales - Caldas |
+| 1 | - | * **Nombre:** DASEB COMPUTO SAS BIC | Bogotá - Distrito Capital de Bogotá |
+| 1 | - | * **Nombre:** EBM COMPUTADORES SAS | Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 17,374,973
+
+**Informes proceso de selección CO1.AWD.2273871 de 12/Jun/2025 - 12:15 pm. Valor $17.374.973**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 05:16 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 11:09 am |  |
+| Informe de evaluación | 10/Jun/2025 - 03:38 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 03:38 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 03:38 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 03:38 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 09:29 am |  |
+| Informe de evaluación | 12/Jun/2025 - 09:29 am |  |
+| Informe de evaluación | 12/Jun/2025 - 09:29 am |  |
+| Informe de evaluación | 12/Jun/2025 - 09:29 am |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+| Informe de selección | 12/Jun/2025 - 12:15 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2273871**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMPUTAR S.A.S. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 800226784 | * **Nombre:** ORLANDO GARZON MEJIA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10275263 | Manizales - Caldas | $17.374.973 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2273871****
+
+**Contrato CO1.PCCNTR.7974459 de COMPUTAR S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7974459
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUIRIR LA PAPELERÍA, ÚTILES DE ESCRITORIO Y TONER PARA LAS DIFERENTES DEPENDENCIAS DE LA DIRECCIÓN REGIONAL SENA CALDAS
+
+**Precios unitarios:**
+
+**Lote No. 2**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44103103 | ADQUIRIR LA PAPELERÍA, ÚTILES DE ESCRITORIO Y TONER PARA LAS DIFERENTES DEPENDENCIAS DE LA DIRECCIÓN REGIONAL SENA CALDAS (LOTE 2) | 1,00 | UN | 9.015.916,00 | 5.570.779,00 | 9.015.916,00 | 5.570.779,00 |
+
+**Lote No. 1**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121701 | ADQUIRIR LA PAPELERÍA, ÚTILES DE ESCRITORIO Y TONER PARA LAS DIFERENTES DEPENDENCIAS DE LA DIRECCIÓN REGIONAL SENA CALDAS (LOTE 1) | 1,00 | UN | 16.969.281,00 | 11.804.194,00 | 16.969.281,00 | 11.804.194,00 |
+
+**Fecha inicio del contrato:**
+
+18/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+08/Jul/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+20 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 17,374,973
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2273871 | Informe de selección CO1.AWD.2273871 | 12/Jun/2025 - 12:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273871 | Informe de evaluación 4 CO1.AWD.2273871 | 12/Jun/2025 - 09:29 am |  | - |
+| General | CO1.MSG.8011566 | SUBSANACION PROCESO LOTE 1 PAPELERIA | 10/Jun/2025 - 07:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273871 | Informe de evaluación 3 CO1.AWD.2273871 | 10/Jun/2025 - 03:37 pm |  | - |
+| Avisos | CO1.REQ.8321355 | Publicación modificación | 10/Jun/2025 - 11:37 am |  |  |
+| Reporte preliminar | CO1.AWD.2273871 | Informe de evaluación 2 CO1.AWD.2273871 | 10/Jun/2025 - 11:09 am |  | - |
+| General | CO1.MSG.8001354 | SUBSANAR REQUISITO | 09/Jun/2025 - 01:57 pm |  | - |
+| General | CO1.MSG.7998524 | SUBSANACION PROCESO | 08/Jun/2025 - 10:22 pm |  | - |
+| Avisos | CO1.MSG.7996533 | Publicación de la lista de ofertas del proceso MC-CLD-1010-0015-2025. | 06/Jun/2025 - 05:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273871 | Informe de evaluación 1 CO1.AWD.2273871 | 06/Jun/2025 - 05:16 pm |  | - |
+| General | CO1.MSG.7986782 | RE: solicitud | 05/Jun/2025 - 11:28 am |  | - |
+| Avisos | CO1.MSG.7979245 | La lista de oferentes del proceso MC-CLD-1010-0015-2025 publicada por SENA REGIONAL CALDAS Grupo de Apoyo Administrativo Mixto | 04/Jun/2025 - 11:15 am |  | - |
+| General | CO1.MSG.7977607 | RE: observación | 04/Jun/2025 - 08:34 am |  | - |
+| General | CO1.MSG.7971095 | RE: OBSERVACION | 03/Jun/2025 - 08:58 am |  | - |
+| General | CO1.MSG.7968552 | AVISO LIMITACIÒN MIPYMES | 30/May/2025 - 05:45 pm |  | - |
+| General | CO1.MSG.7968540 | RESPUESTA A OBSERVACIONES PRESENTADAS A LA INVITACIÓN PUBLICA | 30/May/2025 - 05:44 pm |  | - |
+| Avisos | CO1.REQ.8321355 | Publicación modificación | 30/May/2025 - 05:42 pm |  |  |
+| Avisos | CO1.REQ.8321355 | Publicación modificación | 29/May/2025 - 05:10 pm |  |  |

@@ -1,0 +1,96 @@
+Title: Licitaciones - COMANDO AÉREO DE COMBATE No. 5
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685047db1d3426.58988075
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-19 23:06:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicios tecnológicos especializados para el diseño de arquitectura y desarrollo, de componentes de software, interfaces de visualización e interfaces de comunicación de acuerdo con requerimientos en apoyo al proyecto: Estudios e investigación para el desarrollo de un sistema prototipo con capacidad de analítica de video para el comando y control de drones. Fase 1: Integración de drones comerciales.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Rionegro
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+VEREDA LA BODEGA - BASE AEREA Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 11:22 am
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/Jun/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8419847 | Publicación modificación | 16/Jun/2025 - 11:56 am |  |  |

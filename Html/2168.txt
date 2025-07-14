@@ -1,0 +1,96 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC AVIACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682531d7855949.12314167
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:52:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE REGULADORES DE CORRIENTE CONSTANTE CCR PARA EL AERÓDROMO MILITAR DE TOLEMAIDA A EJECUTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121000 - Equipamiento para distribución y conversión de alimentación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas eléctricas, generadores eléctricas, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores", "licicodigos": "227,454" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cundinamarca:Bogotá D.C.
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 06:54 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8262396 | Publicación modificación | 19/May/2025 - 06:22 pm |  |  |

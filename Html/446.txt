@@ -1,0 +1,260 @@
+Title: Licitaciones - GOBIERNO DEPARTAMENTAL - Contratación mínima cuantía MIN-048-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68352594bedd46.04550921
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-09 09:44:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN, INSTALACIÓN, CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO DE OCHENTA Y SEIS (86) LICENCIAS DE OFFICE 365 ENTERPRISE E3 POR 9 MESES CADA UNA Y UNA (1) LICENCIA POWER AUTOMATE POR 9 MESES PARA LA SECRETARÍA ADMINISTRATIVA Y DE TALENTO HUMANO DE LA GOBERNACIÓN DEL TOLIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 3 calle entre calle 10 y 11 edificio gobernacion del tolima Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | SA-TH-0169 "CONTRATAR LA ADQUISICIÓN, INSTALACIÓN, CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO DE OCHENTA Y SEIS (86) LICENCIAS DE OFFICE 365 ENTERPRISE E3 POR 9 MESES CADA UNA Y UNA (1) LICENCIA POWER AUTOMATE POR 9 MESES PARA LA SECRETARÍA ADMINISTRATIVA Y DE TALENTO HUMANO DE LA GOBERNACIÓN DEL TOLIMA" | Mínima cuantía | Recursos propios | $120.000.000 | SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 02:45 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+30/May/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 09:03 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/Jun/2025 - 01:00 am | 22/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 09/Jun/2025 - 01:00 am | 22/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JDI SAS | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 116,946,000
+
+**Informes proceso de selección CO1.AWD.2270333 de 06/Jun/2025 - 02:40 am. Valor $116.946.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 12:33 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 12:33 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 12:33 pm |  |
+| Informe de selección | 06/Jun/2025 - 02:40 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270333**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA Y SUMINISTROS JDI SAS * **Tipo documento:** NIT * **Documento:** 901800130 | * **Nombre:** JULIO CESAR BELTRAN GARZON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93386132 | Ibagué - Tolima | $116.946.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270333****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7956959
+
+**Estado del contrato:**
+
+Borrador
+
+**Cuantía a la firma del contrato:**
+
+$ 116,946,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270333 | Informe de selección CO1.AWD.2270333 | 06/Jun/2025 - 02:40 pm |  | - |
+| General | CO1.MSG.7976283 | RESPUESTA A LA SOLICITUD DE LIMITACIÓN A MIPYMES EXTEMPORANEA PRESENTADA AL PROCESO | 03/Jun/2025 - 06:44 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270333 | Informe de evaluación 1 CO1.AWD.2270333 | 03/Jun/2025 - 12:33 pm |  | - |
+| General | CO1.MSG.7973145 | RESOLUCION 0627 DESIGNACION DEL COMITE EVALUADOR | 03/Jun/2025 - 12:31 pm |  | - |
+| General | CO1.MSG.7973139 | Respuesta a la observación Extemporánea | 03/Jun/2025 - 12:30 pm |  | - |
+| Avisos | CO1.MSG.7964342 | La lista de oferentes del proceso MIN-048-2025 publicada por GOBIERNO DEPARTAMENTAL | 30/May/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.7964346 | Publicación de la lista de ofertas del proceso MIN-048-2025. | 30/May/2025 - 10:09 am |  | - |
+| General | CO1.MSG.7959367 | RESPUESTA A LAS SOLICITUDES DE MIPYMES | 29/May/2025 - 02:10 pm |  | - |
+| Avisos | CO1.REQ.8321516 | Publicación modificación | 28/May/2025 - 03:11 pm |  |  |
+| General | CO1.MSG.7952530 | AVISO DE LIMITACION A MIPYMES | 28/May/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.7952522 | AVISO DE LIMITACION A MIPYMES | 28/May/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.7952502 | ADENDA 001 | 28/May/2025 - 03:06 pm |  | - |
+| General | CO1.MSG.7952510 | EVALUACION DE SOLICITUDES DE LIMITACION A MIPYME | 28/May/2025 - 03:06 pm |  | - |
+| General | CO1.MSG.7952485 | RESPUESTA EXTEMPORANEA DE OBSERVACIONES A LA INVITACION | 28/May/2025 - 03:05 pm |  | - |
+| General | CO1.MSG.7952465 | RESPUESTA DE OBSERVACIONES A LA INVITACION | 28/May/2025 - 03:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7952032 | RESPUESTA DE OBSERVACIONES A LA INVITACION | 28/May/2025 - 03:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7946779 | Solicitud de formatos editables | 27/May/2025 - 05:13 pm |  | - |

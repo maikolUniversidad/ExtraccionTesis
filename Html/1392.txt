@@ -1,0 +1,239 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f84b4efdea0.16738831
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:49:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+REQUIERE LA ADQUISICIÓN DE UN DISPOSITIVO DE INSTALACIÓN E INTEGRACIÓN DE VARIAS LÍNEAS TELEFÓNICAS PARA EL SERVICIO CINAR Y DE UNA LICENCIA PARA LA INTEGRACIÓN DE VARIAS APLICACIONES PARA EL CALL CENTER DEL DCCAE DEL COMANDO GENERAL DE LAS FUERZAS MILITARES, DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS DEL ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221515 - Dispositivos para compartir líneas telefónicas
+
+**Códigos adicionales UNSPSC:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "103,210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43221515, 81112501 | ADQUISICIÓN DE DISPOSITIVO DE INSTALACIÓN E INTEGRACIÓN DE VARIAS LÍNEAS TELEFÓNICAS PARA EL SERVICIO CINAR. | Mínima cuantía | Presupuesto de entidad nacional | $8.200.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 02:09 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+22/May/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 11:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 11:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2025 - 07:00 am | 29/Ago/2025 - 07:00 am |
+| Calidad del servicio | 20,00 | 09/Jun/2025 - 07:00 am | 01/Mar/2026 - 07:00 am |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 09/Jun/2025 - 07:00 am | 29/Ago/2026 - 07:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Electrocom S.A.S. | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 7,970,739
+
+**Informes proceso de selección CO1.AWD.2266161 de 06/Jun/2025 - 12:27 pm. Valor $7.970.739**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 03:57 pm |  |
+| Informe de evaluación | 29/May/2025 - 03:57 pm |  |
+| Informe de evaluación | 29/May/2025 - 03:57 pm |  |
+| Informe de selección | 06/Jun/2025 - 12:27 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266161**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Eléctricos y Comunicaciones Electrocom S.A.S. * **Tipo documento:** NIT * **Documento:** 800229279 | * **Nombre:** Federico Guillermo Jaramillo Ochoa * **Tipo documento:** NIT * **Documento:** 98546740 | Bogotá - Distrito Capital de Bogotá | $7.970.739 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266161****
+
+**Cuantía a la firma del contrato:**
+
+$ 7,970,739
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266161 | Informe de selección CO1.AWD.2266161 | 06/Jun/2025 - 12:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266161 | Informe de evaluación 1 CO1.AWD.2266161 | 29/May/2025 - 03:57 pm |  | - |
+| Avisos | CO1.MSG.7943049 | Publicación de la lista de ofertas del proceso 212 COGFM DIADF 2025. | 27/May/2025 - 11:11 am |  | - |
+| Avisos | CO1.MSG.7943041 | La lista de oferentes del proceso 212 COGFM DIADF 2025 publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 27/May/2025 - 11:11 am |  | - |
+| General | CO1.MSG.7936409 | AVISO CONVOCATORIA NO LIMITA A MIPYMES | 26/May/2025 - 12:09 pm |  | - |

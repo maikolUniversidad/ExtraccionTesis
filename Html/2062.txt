@@ -1,0 +1,96 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851ae6df01f49.94254108
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:17:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación de las licencias Fortianalyzer, Fortigate 500E, 11 AP soporte a fallas de la plataforma Fortinet, propiedad de la Federación Colombiana de Municipios en cumplimiento de la función pública asignada
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 12:55 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8065731 | RE: OBSERVACIONES A LA INVITACION | 20/Jun/2025 - 02:24 pm |  | - |

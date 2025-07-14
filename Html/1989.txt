@@ -1,0 +1,94 @@
+Title: Licitaciones - CONTADURÍA GENERAL DE LA NACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b48d6c836f1.95733517
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 11:13:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE REPUESTOS, PARTES Y DISPOSITIVOS CON SU RESPECTIVA INSTALACIÓN PARA LA INFRAESTRUCTURA TECNOLÓGICA DE LA U.A.E CONTADURÍA GENERAL DE LA NACIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43201400 - Tarjetas del sistema,43201402 - Tarjetas de módulos de memoria,43202200 - Subconjuntos para dispositivos electrónicos,44103103 - Tóner para impresoras o fax,44103116 - Kit para impresora,44103120 - Recolectores de tóner,39121440 - Cable de extensión eléctrica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 # 69-76- EDIFICIO ELEMENTO -TORRE 1 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+191 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 04:09 pm
+
+**Plazo para solicitar aclaraciones:**
+
+13/Jun/2025 - 12:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+17/Jun/2025 - 05:00 pm

@@ -1,0 +1,255 @@
+Title: Licitaciones - MUNICIPIO DE ZARZAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685bfc06db48e5.81142042
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE ZARZAL - Contratación mínima cuantía MZ-MC031 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 06:48:03
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE PAPELERIA, ELEMENTOS DE OFICINA, A PRECIO UNITARIO, PARA EL ADECUADO FUNCIONAMIENTO DE LA ADMINISTRACION MUNICIPAL DE ZARZAL, VALLE DEL CAUCA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Valle del Cauca : Zarzal
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44121600 - Suministros de escritorio
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 9 N°10-36 Zarzal Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 14111800, 24121500, 44111500, 44111900, 44121500, 44121600, 44121700, 44121800, 44121900, 44122000, 44122100 | SUMINISTRO DE PAPELERIA, ELEMENTOS DE OFICINA, A PRECIO UNITARIO, PARA EL ADECUADO FUNCIONAMIENTO DE LA ADMINISTRACION MUNICIPAL DE ZARZAL, VALLE DEL CAUCA | Mínima cuantía | Recursos propios | $78.400.000 | MUNICIPIO DE ZARZAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 08:11 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 08:15 am
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 08:15 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 06:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:30 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 06:30 pm
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GRUPO TECNOLOGICO ITC SAS | Zarzal - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,858,000
+
+**Informes proceso de selección CO1.AWD.2294823 de 03/Jul/2025 - 10:16 am. Valor $39.858.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 02:46 pm |  |
+| Informe de selección | 03/Jul/2025 - 10:16 am |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2294823 | Informe de selección CO1.AWD.2294823 | 03/Jul/2025 - 10:16 am |  | - |
+| Reporte preliminar | CO1.AWD.2294823 | Informe de evaluación 1 CO1.AWD.2294823 | 01/Jul/2025 - 02:46 pm |  | - |
+| Aclaraciones | CO1.MSG.8091259 | RE: Observaciones | 27/Jun/2025 - 08:25 am |  | - |
+| Aclaraciones | CO1.MSG.8090490 | RE: Observaciones | 26/Jun/2025 - 07:57 pm |  | - |
+| Aclaraciones | CO1.MSG.8090459 | RE: OBSERVACIONES AL PROCESO. | 26/Jun/2025 - 07:50 pm |  | - |
+| General | CO1.MSG.8090450 | Solicitud de Información | 26/Jun/2025 - 07:45 pm |  | - |
+| General | CO1.MSG.8090446 | Aviso de limitación a Mipymes Territoriales | 26/Jun/2025 - 07:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8087238 | SOLICITUD LIMITACIÓN MYPIMES | 26/Jun/2025 - 02:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8087012 | MANIFESTACION DE INTERES Y LIMITACION A MIPYME | 26/Jun/2025 - 01:33 pm |  | - |
+| Aclaraciones | CO1.MSG.8086882 | LIMITACION MIPYMES | 26/Jun/2025 - 01:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8085839 | Observaciones | 26/Jun/2025 - 11:04 am |  | - |
+| Aclaraciones | CO1.MSG.8085393 | OBSERVACIONES AL PROCESO. | 26/Jun/2025 - 10:24 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:24 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

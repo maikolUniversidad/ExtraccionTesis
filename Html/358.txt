@@ -1,0 +1,267 @@
+Title: Licitaciones - MUNICIPIO DE NEIVA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68350dada7e313.57188543
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:11:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE COMPUTADORES Y MOBILIARIO DE OFICINA CON DESTINO A LA POLICIA METROPOLITANA Y GRUPO DE ACCION UNIFICADA POR LA LIBERTAD PERSONAL DE NEIVA (GAULA NEIVA) DE CONFORMIDAD CON EL PROYECTO APROBADO POR EL COMITÉ TERRITORIAL DE ORDEN PÚBLICO DEL MUNICIPIO DE NEIVA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211503 - Computadores notebook
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Mobiliario", "licicodigos": "104,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 8 Nº 8-61 PISO 3 Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 06:49 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+05/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 05:41 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+05/Jun/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+11/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 11:10 am
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 11:20 am
+
+**Publicación del informe de verificación o evaluación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jul/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 08:00 am
+
+**Apertura del sobre económico:**
+
+15/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 12:00 pm | 31/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 25/Jun/2025 - 12:00 pm | 30/Jun/2027 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+08/Jul/2025 - 04:00 pm
+
+**Fecha de inicio:**
+
+08/Jul/2025 - 05:00 pm
+
+**Fecha fin:**
+
+08/Jul/2025 - 05:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2286982 | Informe de evaluación 2 CO1.AWD.2286982 | 08/Jul/2025 - 02:51 pm |  | - |
+| General | CO1.MSG.8135193 | POR MEDIO DEL CUAL SE DA A CONOCER LA RESPUESTA DE LAS OBSERVACIONES | 08/Jul/2025 - 02:22 pm |  | - |
+| Objeciones | CO1.MSG.8070367 | [Respondido] RE:OBSERVACIÓN A EVALUACIÓN FINANCIERA | 08/Jul/2025 - 02:17 pm |  | - |
+| General | CO1.MSG.8135140 | Por medio del cual se da a conocer la resolución 187 de 2025 | 08/Jul/2025 - 02:16 pm |  | - |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 07/Jul/2025 - 02:52 pm |  |  |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 02/Jul/2025 - 02:30 pm |  |  |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 27/Jun/2025 - 02:53 pm |  |  |
+| Objeciones | CO1.MSG.8070367 | OBSERVACIÓN A EVALUACIÓN FINANCIERA | 24/Jun/2025 - 09:02 am |  | - |
+| Reporte preliminar | CO1.AWD.2286982 | Informe de evaluación 1 CO1.AWD.2286982 | 20/Jun/2025 - 04:44 pm |  | - |
+| General | CO1.MSG.8067301 | POR MEDIO DEL CUAL SE DA A CONOCER LA RESOLUCIÒN 177 DE 2025 | 20/Jun/2025 - 04:42 pm |  | - |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 17/Jun/2025 - 04:28 pm |  |  |
+| Avisos | CO1.MSG.8029045 | Publicación de la lista de ofertas del proceso MNSGOSASCV016-2025 (Presentación de oferta). | 13/Jun/2025 - 11:23 am |  | - |
+| Avisos | CO1.MSG.8028999 | La lista de oferentes del proceso MNSGOSASCV016-2025 (Presentación de oferta) publicada por MUNICIPIO DE NEIVA | 13/Jun/2025 - 11:17 am |  | - |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 11/Jun/2025 - 06:49 pm |  |  |
+| Aclaraciones | CO1.MSG.8018695 | RESPUESTA OBSERVACIÓN | 11/Jun/2025 - 06:39 pm |  | - |
+| Avisos | CO1.REQ.8373043 | Publicación modificación | 09/Jun/2025 - 05:20 pm |  |  |
+| Aclaraciones | CO1.MSG.7992459 | Observaciones al pliego de condiciones | 06/Jun/2025 - 09:32 am |  | - |
+| General | CO1.MSG.7990488 | POR MEDIO DEL PRESENTE SE PUBLICA LA RESOLUCIÓN No. 161 DE 2025 | 05/Jun/2025 - 05:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7989668 | RE: OBSERVACIONES FICHAS TECNICAS | 05/Jun/2025 - 04:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7963083 | SOLICITUD DE BUENAS PRACTICAS DE COMPETENCIA EN IVESTIGACION Y DESARROLLO EN EMPRESAS DE PRODUCCION NACIONAL | 30/May/2025 - 02:11 am |  | - |
+| Aclaraciones | CO1.MSG.7940900 | OBSERVACIONES FICHAS TECNICAS | 27/May/2025 - 01:40 am |  | - |

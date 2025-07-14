@@ -1,0 +1,283 @@
+Title: Licitaciones - POLITECNICO COLOMBIANO JAIME ISAZA CADAVID
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682dd7913501f0.81686621
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:35:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Actualización plataforma redes - Adquisición de licenciamiento dispositivos Aruba
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223112 - Equipos y componentes de red de acceso inalámbrica oss
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 48 No. 7–151, El Poblado Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+36 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 70,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43223112, 81112002 | 5124-Licenciamiento redes - Licencia de Aruba para controladora | Contratación directa | Recursos propios | $70.000.000 | PRINCIPAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 08:10 am
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 04:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 04:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 04:28 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+11/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 10:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+25/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 12:01 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 12:01 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 15,00 | 03/Jul/2025 - 12:00 pm | 20/Nov/2028 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 69,900,000
+
+**Informes proceso de selección CO1.AWD.2283763 de 09/Jul/2025 - 10:51 am. Valor $69.900.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 17/Jun/2025 - 05:11 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 05:11 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 05:11 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 11:24 am |  |
+| Informe de selección | 09/Jul/2025 - 10:51 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jun/2025 - 05:00 am
+
+**Fecha de inicio:**
+
+26/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+26/Jun/2025 - 10:20 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2283763 | Informe de selección CO1.AWD.2283763 | 09/Jul/2025 - 10:51 am |  | - |
+| Avisos | CO1.REQ.8360306 | Publicación modificación | 07/Jul/2025 - 01:43 pm |  |  |
+| Reporte preliminar | CO1.AWD.2283763 | Informe de evaluación 2 CO1.AWD.2283763 | 25/Jun/2025 - 11:24 am |  | - |
+| General | CO1.MSG.8078438 | Respuesta a las observaciones | 25/Jun/2025 - 10:33 am |  | - |
+| General | CO1.MSG.8073612 | modificación al cronograma | 24/Jun/2025 - 03:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283763 | Informe de evaluación 1 CO1.AWD.2283763 | 17/Jun/2025 - 05:11 pm |  | - |
+| Avisos | CO1.MSG.8028623 | Publicación de la lista de ofertas del proceso SASI-5124-2025 (Presentación de oferta). | 13/Jun/2025 - 10:42 am |  | - |
+| Avisos | CO1.MSG.8028619 | La lista de oferentes del proceso SASI-5124-2025 (Presentación de oferta) publicada por POLITECNICO COLOMBIANO JAIME ISAZA CADAVID | 13/Jun/2025 - 10:41 am |  | - |
+| Avisos | CO1.REQ.8360306 | Publicación modificación | 11/Jun/2025 - 05:14 pm |  |  |
+| General | CO1.MSG.8016052 | Adenda 1 | 11/Jun/2025 - 02:48 pm |  | - |
+| General | CO1.MSG.8015783 | Respuesta a las observaciones | 11/Jun/2025 - 02:23 pm |  | - |
+| Aclaraciones | CO1.MSG.8000885 | POLITECNICO COLOMBIANO JAIME ISAZA CADAVID Subasta Inversa No. SASI-5124-2025_OBSERVACIONES | 09/Jun/2025 - 12:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7999685 | Observacion | 09/Jun/2025 - 10:06 am |  | - |
+| Aclaraciones | CO1.MSG.7976813 | RE: POLITECNICO COLOMBIANO JAIME ISAZA CADAVID Subasta Inversa No. SASI-5124-2025_OBSERVACIONES, Observaciones Netmask al proceso No. SASI-5124-2025 | 03/Jun/2025 - 09:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7975442 | RE: INVITACIÓN NÚMERO 5154-2025 | 03/Jun/2025 - 09:20 pm |  | - |
+| General | CO1.MSG.7974978 | respuesta observaciones | 03/Jun/2025 - 05:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7952930 | INVITACIÓN NÚMERO 5154-2025 | 28/May/2025 - 03:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7951113 | POLITECNICO COLOMBIANO JAIME ISAZA CADAVID Subasta Inversa No. SASI-5124-2025_OBSERVACIONES | 28/May/2025 - 12:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7941980 | Observaciones Netmask al proceso No. SASI-5124-2025 | 27/May/2025 - 09:37 am |  | - |
+| General | CO1.MSG.7936882 | RE: observaciones | 26/May/2025 - 01:24 pm |  | - |

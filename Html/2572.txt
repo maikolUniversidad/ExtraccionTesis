@@ -1,0 +1,90 @@
+Title: Licitaciones - ENTerritorio S.A - Solicitud de información a los Proveedores (SECOPII) SIP-083-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b0578caed8.46000753
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 16:38:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MEJORAMIENTO DE CADENA PRODUCTIVA DE ESPECIES MENORES (GALLINAS PONEDORAS)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40183002 - Tubería de plástico pvc
+
+**Códigos adicionales UNSPSC:**
+
+24111810 - Tanques de almacenamiento de agua,43211500 - Computadores,43212100 - Impresoras de computador,10101600 - Pájaros y aves de corral,10121600 - Alimento para pájaros y aves de corral,93131608 - Servicios de suministro de alimentos,90101800 - Servicios de comida para llevar y a domicilio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Ferretería y materiales para la construcción de obras civiles, -Papelería y elementos de oficina, -Tubería PVC y accesorios, -Preparación de alimentos y catering, -Balanceado, concentrado o alimentos para animales", "licicodigos": "105,122,127,220,261,367" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 No.13-19 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 04:19 pm
+
+**Plazo para solicitar aclaraciones:**
+
+19/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/May/2025 - 01:00 pm

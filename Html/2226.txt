@@ -1,0 +1,84 @@
+Title: Licitaciones - empresa social del estado región de salud soacha.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f9f8e7897c4.10668727
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-11 17:34:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición de 85 cuentas de correo electrónico Google WorkSpace de 30 Gb de almacenamiento y 18 cuentas de correo electrónico WorkSpace de 2 TB cada una para la Empresa Social del Estado Región de Salud Soacha
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Soacha
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233501 - Software de correo electrónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 13 9 85 Soacha Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 10:29 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 11:30 am
+
+**Fecha límite para responder la solicitud de información:**
+
+28/Abr/2025 - 11:30 am

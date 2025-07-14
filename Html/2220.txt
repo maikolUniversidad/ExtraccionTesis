@@ -1,0 +1,82 @@
+Title: Licitaciones - AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680abd464afc71.63633720
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+RENOVACIÓN DE SUSCRIPCIÓN DEL LICENCIAMIENTO DE ENTERPRISE ARCHITECT CORPORATE EDITION, ATLASSIAN CONFLUENCE Y JIRA SOFTWARE DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 7 # 75-66 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 05:26 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Abr/2025 - 05:00 pm

@@ -1,0 +1,200 @@
+Title: Licitaciones - PERSONERÍA MUNICIPAL DE VALLEDUPAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812a198597381.96276221
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 11:11:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE SOFTWARE ADMINISTRATIVO, CONTABLE Y FINANCIERO PARA LA PERSONERIA MUNICIPAL DE VALLEDUPAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231601 - Software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+20 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 14 No. 6 – 44 Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231601 | ADQUISICION DE SOFWARE ADMINISTRATIVO, CONTABLE Y FINANCIERO | Mínima cuantía | Recursos propios | $39.000.000 | CONTRATACIÓN PERSONERÍA DE VALLEDUPAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 01:34 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+30/Abr/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+02/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+02/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+05/May/2025 - 02:15 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+13/May/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+13/May/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+13/May/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 15/May/2025 - 12:00 pm | 15/Sep/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 15/May/2025 - 12:00 pm | 30/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 15/May/2025 - 12:00 pm | 15/Sep/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 15/May/2025 - 12:00 pm | 15/Sep/2025 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8191148 | Publicación modificación | 09/May/2025 - 02:21 pm |  |  |
+| Avisos | CO1.REQ.8191148 | Publicación modificación | 09/May/2025 - 11:47 am |  |  |
+| General | CO1.MSG.7858946 | RESOLUCIÓN No. 0114 de fecha 8 de mayo de 2025 POR LA CUAL SE ORDENA EFECTUAR EL SANEAMIENTO DE UN VICIO DE FORMA DEL PROCESO DE SELECCIÓN DE MÍNIMA CUANTÍA No. CMC-036-2025 CUYO OBJETO ES ADQUISICION DE SOFTWARE ADMINISTRATIVO, CONTABLE Y FINANCIERO | 09/May/2025 - 11:35 am |  | - |
+| General | CO1.MSG.7854527 | RESPUESTA OBSERVACIONES - INVITACION MINIMA CUANTÍA CMC-036-2025 | 08/May/2025 - 03:54 pm |  | - |

@@ -1,0 +1,177 @@
+Title: Licitaciones - MUNICIPIO DE LA PLATA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68347e0e7cb2a1.34353981
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 07:52:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE FIRMA DIGITAL Y/O TOCKEN PARA EL PERSONAL ADSCRITO A LA ENTIDAD QUE REALIZAN TRAMITES ANTE DIFERENTES PLATAFORMAS CON SEDE ELECTRONICA AUTORIZADA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : La Plata
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112001 - Servicio de procesamiento de datos en línea
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 4 N° 5-09 La Plata Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112001 | ADQUISICIÓN DE FIRMA DIGITAL Y/O TOCKEN PARA EL PERSONAL, ADSCRITO A LA ENTIDAD, QUE REALIZAN TRAMITES ANTE DIFERENTES PLATAFORMAS CON SEDE ELECTRÓNICA AUTORIZADA.307- | Contratación directa | Recursos propios | $2.153.904 | CONTRATACIÓN LA PLATA HUILA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+23/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+23/May/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+26/May/2025 - 09:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jun/2025 - 12:00 pm | 02/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/Jun/2025 - 12:00 pm | 02/Nov/2025 - 11:59 pm |

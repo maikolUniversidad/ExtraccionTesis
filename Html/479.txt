@@ -1,0 +1,205 @@
+Title: Licitaciones - EMPRESA DE SEGURIDAD DEL ORIENTE SAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855d5a4b61c23.73949677
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 16:01:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE DRON, CAPACITACIÓN Y LICENCIAS DE FUNCIONAMIENTO PARA EL MUNICIPIO DE EL RETIRO, EN EL MARCO DEL CIAD N°C.I.029 DE 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia: El Retiro
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+25131700 - Aeronave de ala fija militar
+
+**Códigos adicionales UNSPSC:**
+
+46171600 - Equipo de vigilancia y detección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 46 # 30-425 Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 25131707 | ADQUISICIÓN DE EQUIPO DRON, QUE INCLUYA CAPACITACIÓN PARA SU USO Y GESTIÓN DE LICENCIA ANTE AUTORIDADES QUE SE REQUIERA PARA SU CORRECTO FUNCIONAMIENTO Y OPERACIÓN, PARA LA DIRECCIÓN DE SEGURIDAD DEL MUNICIPIO DE EL RETIRO | Contratación régimen especial (con ofertas) - Régimen especial | NotApplied | $110.000.000 | ESO |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+20/Jun/2025 - 04:36 pm
+
+**Fecha límite de presentación de ofertas:**
+
+24/Jun/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+24/Jun/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+24/Jun/2025 - 03:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+15/Sep/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 24/Jun/2025 - 03:00 pm | 15/Mar/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 24/Jun/2025 - 03:00 pm | 15/Sep/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 24/Jun/2025 - 03:00 pm | 15/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 24/Jun/2025 - 03:00 pm | 15/Mar/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** VALTO | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 106,403,213
+
+**Informes proceso de selección CO1.AWD.2289736 de 24/Jun/2025 - 01:04 am. Valor $106.403.213**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de selección | 24/Jun/2025 - 01:04 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289736**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** AEROSPACE FUTURE SYSTEMS * **Tipo documento:** NIT * **Documento:** 900953087 | * **Nombre:** Santiago Espitia Hoyos * **Tipo documento:** * **Documento:** 1126824600 | Bogotá - Distrito Capital de Bogotá | $106.403.213 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289736****
+
+**ID del contrato en SECOP:**
+
+265-2025-OC
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+15/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 106,403,213
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289736 | Informe de selección CO1.AWD.2289736 | 24/Jun/2025 - 01:04 pm |  | - |
+| Avisos | CO1.MSG.8072491 | Publicación de la lista de ofertas del proceso 265-2025-OC . | 24/Jun/2025 - 12:45 pm |  | - |
+| Avisos | CO1.MSG.8072479 | La lista de oferentes del proceso 265-2025-OC publicada por EMPRESA DE SEGURIDAD DEL ORIENTE SAS | 24/Jun/2025 - 12:42 pm |  | - |

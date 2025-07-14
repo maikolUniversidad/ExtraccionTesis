@@ -1,0 +1,183 @@
+Title: Licitaciones - INSTITUTO DEPARTAMENTAL DE SALUD DE NARIÑO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ace50807597.23585039
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-30 13:54:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+El Contratista se obligará a prestar el servicio para Implementar la Seguridad de la Información sobre la infraestructura del IDSN, descritas según el Clasificador de Bienes y Servicios con el código 81111801 - Seguridad de los computadores, redes e internet, al Instituto Departamental de Salud de Nariño.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 15 No. 28-41 Plazuela Bombona Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+165 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 10:54 am
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 10:55 am
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 10:55 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 16/Jul/2025 - 12:00 pm | 30/Abr/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 16/Jul/2025 - 12:00 pm | 30/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8091650 | Publicación de la lista de ofertas del proceso MCSP1925. | 27/Jun/2025 - 09:23 am |  | - |
+| Avisos | CO1.MSG.8091646 | La lista de oferentes del proceso MCSP1925 publicada por INSTITUTO DEPARTAMENTAL DE SALUD DE NARIÑO | 27/Jun/2025 - 09:23 am |  | - |
+| General | CO1.MSG.8085645 | AVISO DE NO LIMITACION A MIPYMES | 26/Jun/2025 - 10:49 am |  | - |

@@ -1,0 +1,122 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DULCE NOMBRE DE JESUS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681293c78115c4.33348528
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 09:07:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE IMPRESORAS Y FOTOCOPIADORAS DE LA INSTITUCION EDUCATIVA DULCE NOMBRE DE JESUS DEL MUNICIPIO DE SINCELEJO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Sucre : Sincelejo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 15 4A-222, BARRIO MEDIA LUNA Sincelejo Sucre COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 28,335,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 03:39 pm
+
+**Fecha de Firma del Contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+07/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

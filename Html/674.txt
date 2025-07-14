@@ -1,0 +1,248 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bdcdcd078e7.76673020
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-10 06:30:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE STREAMING PARA EVENTOS DE LA ARMADA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112103 - Servicios de diseño de sitios web www
+
+**Códigos adicionales UNSPSC:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Streaming", "licicodigos": "486" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 43 No. 57-14 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112103, 81161801 | STREAMING EMISORAS | Mínima cuantía | Presupuesto de entidad nacional | $39.600.000 | DIRECCIÓN DE COMUNICACIÓNES ESTRATEGICAS |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+19/May/2025 - 08:34 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 04:02 pm
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 04:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MOSSERT DAVID CABREJO TORRES | Tunja - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,000,000
+
+**Informes proceso de selección CO1.AWD.2264037 de 09/Jun/2025 - 02:12 am. Valor $18.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 02:38 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:38 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:38 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:20 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:20 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 01:45 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 01:45 pm |  |
+| Informe de selección | 09/Jun/2025 - 02:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264037**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MOSSERT DAVID CABREJO TORRES * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1055272708 | * **Nombre:** MOSSERT DAVID CABREJO TORRES * **Tipo documento:** NIT * **Documento:** 1055272708 | Tunja - Boyacá | $18.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264037****
+
+**Cuantía a la firma del contrato:**
+
+$ 18,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264037 | Informe de selección CO1.AWD.2264037 | 09/Jun/2025 - 02:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264037 | Informe de evaluación 3 CO1.AWD.2264037 | 04/Jun/2025 - 01:45 pm |  | - |
+| General | CO1.MSG.7980323 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 04/Jun/2025 - 01:40 pm |  | - |
+| Avisos | CO1.REQ.8282077 | Publicación modificación | 03/Jun/2025 - 06:33 pm |  |  |
+| Reporte preliminar | CO1.AWD.2264037 | Informe de evaluación 2 CO1.AWD.2264037 | 29/May/2025 - 05:20 pm |  | - |
+| Objeciones | CO1.MSG.7951245 | [Respondido] RE:subsanacion | 29/May/2025 - 02:33 pm |  | - |
+| General | CO1.MSG.7959553 | ERROR MENSAJE ANTERIOR | 29/May/2025 - 02:30 pm |  | - |
+| General | CO1.MSG.7959423 | SEGUNDA EVALUACIÓN | 29/May/2025 - 02:19 pm |  | - |
+| Objeciones | CO1.MSG.7951245 | subsanacion | 28/May/2025 - 12:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264037 | Informe de evaluación 1 CO1.AWD.2264037 | 27/May/2025 - 02:38 pm |  | - |
+| Avisos | CO1.MSG.7938640 | Publicación de la lista de ofertas del proceso 0143-ARC-CBNL06-2025. | 26/May/2025 - 04:27 pm |  | - |
+| Avisos | CO1.MSG.7938623 | La lista de oferentes del proceso 0143-ARC-CBNL06-2025 publicada por ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA | 26/May/2025 - 04:26 pm |  | - |
+| General | CO1.MSG.7924402 | RE: SOLICITUD DOCUMENTOS | 22/May/2025 - 04:24 pm |  | - |
+| General | CO1.MSG.7917222 | AVISO DE NO LIMITAR A MI PYMES | 21/May/2025 - 04:09 pm |  | - |

@@ -1,0 +1,193 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE PAZ DE ARIPORO*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f83d506e244.84333961
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICION DE ELEMENTOS TECNOLOGICOS PARA EL MEJORAMIENTO Y FORTALECIMIENTO DEL FUNCIONAMIENTO DE LAS ACTIVIDADES DEL CONCEJO MUNICIPAL DE PAZ DE ARIPORO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Casanare : Paz De Ariporo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Códigos adicionales UNSPSC:**
+
+43211711 - Escáneres,52161500 - Equipos audiovisuales,43201800 - Dispositivos de almacenamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Electrodomésticos", "licicodigos": "105,115,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 10 N° 6 - 15 Paz De Ariporo Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 08:09 am
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 08:10 am
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 08:10 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 11:59 pm
+
+**Apertura de sobres:**
+
+05/May/2025 - 07:30 am
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/May/2025 - 12:00 pm | 08/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 08/May/2025 - 12:00 pm | 08/Nov/2025 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7848454 | RESOLUCION DE DECLARATORIA DESIERTA | 07/May/2025 - 05:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243359 | Informe de evaluación 2 CO1.AWD.2243359 | 07/May/2025 - 05:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243359 | Informe de evaluación 1 CO1.AWD.2243359 | 05/May/2025 - 04:59 pm |  | - |
+| General | CO1.MSG.7831806 | ACTA DE CIERRE | 05/May/2025 - 11:05 am |  | - |
+| Avisos | CO1.MSG.7831218 | La lista de oferentes del proceso CM-PZA-MC-2-2025 publicada por CONCEJO MUNICIPAL DE PAZ DE ARIPORO* | 05/May/2025 - 10:08 am |  | - |
+| Avisos | CO1.REQ.8175123 | Publicación modificación | 30/Abr/2025 - 11:47 am |  |  |
+| General | CO1.MSG.7818501 | AVISO PUBLICO LIMITACION A MIPYMES | 30/Abr/2025 - 11:39 am |  | - |

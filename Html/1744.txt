@@ -1,0 +1,102 @@
+Title: Licitaciones - SENA REGIONAL ANTIOQUIA Grupo Administrativo CTAPT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ae217423b94.12239167
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contrato para el fomento de actividades de ciencia, tecnología e innovación mediante la administración de proyectos para modernización de los ambientes especializados de aprendizaje del Complejo Tecn
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Apartadó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+23181500 - Maquinaria para la elaboración de alimentos,43191500 - Dispositivos de comunicación personal,60101100 - Materiales electrónicos de aprendizaje,45121500 - Cámaras,43221500 - Sistemas de gestión de llamadas o accesorios,56121300 - Accesorios de instalaciones educativas generales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Refrigeración industrial, -Metalmecánica (Diseño, construcción, servicios y equipos), -Maquinaria procesamiento de alimentos (Suministro y mantenimiento), -Tablets, dispositivos de bolsillo, teléfonos inteligentes, -Equipo para el mantenimiento de vehículo", "licicodigos": "93,104,105,115,244,288,298,423,485" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 1 SALIDA A TURBO Apartadó Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 12:33 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 09:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8111587 | RE: Observaciones al Proceso Solicitud de información a los Proveedores No. SIP-ANT-CTAPT-005-2025 | 03/Jul/2025 - 08:41 am |  | - |
+| Avisos | CO1.REQ.8450266 | Publicación modificación | 01/Jul/2025 - 12:25 pm |  |  |
+| Aclaraciones | CO1.MSG.8091275 | Observaciones al Proceso Solicitud de información a los Proveedores No. SIP-ANT-CTAPT-005-2025 | 27/Jun/2025 - 08:29 am |  | - |

@@ -1,0 +1,305 @@
+Title: Licitaciones - GOBERNACION DEL CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68346f9fb3eb60.05637782
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:32:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE DOTACIÓN DE MOBILIARIO, EQUIPOS Y ELEMENTOS DEPORTIVOS PARA LOS ESTABLECIMIENTOS EDUCATIVOS OFICIALES DEL MUNICIPIO DE CURILLO CAQUETÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá: Curillo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101506 - Futones
+
+**Códigos adicionales UNSPSC:**
+
+56101506 - Futones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Mobiliario, -Implementos deportivos y/o gimnasio, -Electrodomésticos, -Lanchas, barcos y motores fuera de borda, -Purificadores de agua y máquinas dispensadoras de bebidas", "licicodigos": "115,128,137,139,211,445" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 13 CALLE 15 ESQUINA Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,300,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 07:00 am
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 07:00 am
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 07:00 am
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 08:15 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 06:11 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 06:45 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 06:45 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+04/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/Jun/2025 - 06:55 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+05/Jun/2025 - 06:56 pm
+
+**Informe de presentación de Ofertas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+05/Jun/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+11/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jun/2025 - 04:00 pm
+
+**Firma del Contrato:**
+
+11/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 11/Jun/2025 - 06:00 pm | 24/Mar/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 11/Jun/2025 - 06:00 pm | 11/Sep/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 11/Jun/2025 - 06:00 pm | 11/Sep/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SumServicios DNJ S.A.S. | San Vicente Del Caguán - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,133,564,319
+
+**Informes proceso de selección CO1.AWD.2273312 de 12/Jun/2025 - 12:40 pm. Valor $2.133.564.319**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/Jun/2025 - 02:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:42 am |  |
+| Informe de selección | 12/Jun/2025 - 12:40 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2273312**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SumServicios DNJ S.A.S. * **Tipo documento:** NIT * **Documento:** 901864883 | * **Nombre:** YULY NORELA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1018410193 | San Vicente Del Caguán - Caquetá | $2.133.564.319 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2273312****
+
+**Cuantía a la firma del contrato:**
+
+$ 2,133,564,319
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+11/Jun/2025 - 09:00 am
+
+**Fecha de inicio:**
+
+11/Jun/2025 - 10:05 am
+
+**Fecha fin:**
+
+11/Jun/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2273312 | Informe de selección CO1.AWD.2273312 | 12/Jun/2025 - 12:40 pm |  | - |
+| Avisos | CO1.MSG.8020134 | Publicación de la lista de ofertas del proceso DC-ED-SIE-014-2025 (Presentación de oferta). | 12/Jun/2025 - 08:51 am |  | - |
+| Avisos | CO1.MSG.8020128 | La lista de oferentes del proceso DC-ED-SIE-014-2025 (Presentación de oferta) publicada por GOBERNACION DEL CAQUETA | 12/Jun/2025 - 08:51 am |  | - |
+| Avisos | CO1.MSG.8020113 | Publicación de la lista de ofertas del proceso DC-ED-SIE-014-2025 (Presentación de oferta). | 12/Jun/2025 - 08:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2273312 | Informe de evaluación 2 CO1.AWD.2273312 | 12/Jun/2025 - 08:42 am |  | - |
+| Objeciones | CO1.MSG.8008459 | [Respondido] RE:SUBSANACION AL INFORME DE EVALUACIÓN | 12/Jun/2025 - 08:39 am |  | - |
+| Objeciones | CO1.MSG.8008459 | SUBSANACION AL INFORME DE EVALUACIÓN | 10/Jun/2025 - 02:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273312 | Informe de evaluación 1 CO1.AWD.2273312 | 06/Jun/2025 - 02:06 pm |  | - |
+| Avisos | CO1.MSG.7991253 | La lista de oferentes del proceso DC-ED-SIE-014-2025 (Presentación de oferta) publicada por GOBERNACION DEL CAQUETA | 05/Jun/2025 - 08:06 pm |  | - |
+| General | CO1.MSG.7984359 | RESPUESTA OBSERVACIONES | 04/Jun/2025 - 09:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7969027 | OBSERVACIONES PROYECTO PLIEGO DE CONDICIONES | 30/May/2025 - 06:54 pm |  | - |
+| Aclaraciones | CO1.MSG.7963077 | Observaciones al Proyecto de Pliegos | 30/May/2025 - 02:11 am |  | - |
+| Aclaraciones | CO1.MSG.7960924 | OBSERVACIONES PROYECTO DE PLIEGO | 29/May/2025 - 04:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7953487 | OBSERVACIONES TITAN | 28/May/2025 - 04:16 pm |  | - |

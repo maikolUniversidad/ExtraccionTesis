@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA LA ARCADIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6816e30fb9cdd0.69256246
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-05 09:50:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+: prestación de servicios técnicos del soporte y mantenimiento de la plataforma virtual del software CSM educativo. De la Institución Educativa La Arcadia del Municipio de Algeciras- Huila
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Algeciras
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CENTRO POBLADO LA ARCADIA Algeciras Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+191 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,300,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | Contrataciòn de Servicios Técnicos, para el mantenimiento de la plataforma virtual del software CSM educativo Educativo | Contratación régimen especial - Régimen especial | SGP | $1.300.000 | UNIDAD DE CONTRATACION GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+02/May/2025 - 05:28 pm
+
+**Fecha de Firma del Contrato:**
+
+14/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+14/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+21/Nov/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

@@ -1,0 +1,362 @@
+Title: Licitaciones - CONCEJO DE ENVIGADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ab00b2dc2b2.75531194
+
+Markdown Content:
+Licitaciones - CONCEJO DE ENVIGADO - Contratación mínima cuantía 01-00-32-20-002-25_1 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-16 10:32:29
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTROS DE INSUMOS DE ASEO, CAFETERÍA, PAPELERÍA, TÓNER Y TINTAS Y ELEMENTOS DE OFICINA PARA EL CONCEJO MUNICIPAL DE ENVIGADO ( POR LOTES)
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Envigado
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+47131608 - Cepillos de baño
+
+**Códigos adicionales UNSPSC:**
+50171500 - Hierbas y especias y extractos,47121800 - Equipo de limpieza,47121804 - Baldes para limpieza,47131500 - Trapos y paños de limpieza,47131600 - Escobas, traperos, cepillos y accesorios,52121600 - Mantelerías de cocina y mesa y accesorios,41111600 - Instrumentos de medida de longitud, espesor o distancia,44121905 - Almohadillas de tinta o estampillas,44122011 - Folders,24141514 - Películas para empacar,44122016 - Sujetador de documentos,44122017 - Folders de colgar o accesorios,60105704 - Barras de pegante libres de ácido,44101602 - Máquinas perforadoras o para unir papel,44121716 - Resaltadores,44121613 - Removedores de grapas (saca ganchos),44121619 - Tajalápices manuales,44121618 - Tijeras,12171703 - Tintas,55121612 - Etiquetas para impresoras,44111500 - Agendas y accesorios,31162001 - Chinches,23151901 - Cortadores,14111537 - Etiquetas de papel,44103100 - Suministros para impresora, fax y fotocopiadora,44103105 - Cartuchos de tinta,44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artículos de cafetería y víveres, -Artículos de aseo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,186,260,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 43 38 Sur 35 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+218 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 53131608, 50201706, 14111704, 47131801, 47131604, 50161511, 47131803, 50161509, 52121602, 47131824, 46181504, 47121804, 53131624, 47131807, 73101613, 47131601, 47131605, 50201707, 50201700, 52151502, 52151504, 47131600, 14111500, 41111604, 44121905, 12171703, 44121600, 44122101, 44121706, 44121701, 44121705, 44121902, 44121804, 24141514, 31201512, 44122104, 44121615, 44122107, 43201811, 43202101, 44122011, 44122017, 14111514, 44111500, 44121711, 60105704, 44101602, 44121716, 44121613, 44121503, 44121619, 44121618, 44122100, 26111702, 44101809, 44111905, 14111506, 47121700, 31162001, 23151901, 14111537, 11121802, 24121807, 44111515, 44122003, 47131500, 24111503, 47131805, 47131608, 47131603, 47131611, 52152102, 47101512, 50131700, 50171554, 50161510 | Suministro de insumos de aseo, cafetería, papelería y elementos de oficina para el concejo municipal de envigado para la vigencia 2025. | Mínima cuantía | Recursos propios | $39.800.000 | Contratacion Concejo Municipal Envigado |
+| 44103103 | SUMINISTRO DE TONNERS PARA LAS IMPRESORAS ADSCRITAS AL CONCEJO (TÓNER PARA IMPRESORAS) | Mínima cuantía | Recursos propios | $12.000.000 | Contratacion Concejo Municipal Envigado |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 04:06 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 05:28 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 08:27 pm | * **Nombre:** EL PUNTO CADENA S.A.S. | Itagui - Antioquia |
+| 2 | 29/Abr/2025 - 09:04 pm | * **Nombre:** EUFRACIO DE JESUIS ARISTIZABAL | Medellín - Antioquia |
+| 3 | 29/Abr/2025 - 09:30 pm | * **Nombre:** PROVEEDORA LA ISABELINA S.A.S. | Medellín - Antioquia |
+| 4 | 30/Abr/2025 - 07:17 am | * **Nombre:** PAPYSER | Envigado - Antioquia |
+| 5 | 30/Abr/2025 - 08:24 am | * **Nombre:** INDUSTRIAS ALIMENTICIAS ENRIPAN S.A.S | Itagui - Antioquia |
+| 6 | 30/Abr/2025 - 08:54 am | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 27,800,000
+
+**Informes proceso de selección CO1.AWD.2243239 de 09/May/2025 - 05:56 am. Valor $27.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/May/2025 - 02:27 pm |  |
+| Informe de evaluación | 05/May/2025 - 02:27 pm |  |
+| Informe de evaluación | 07/May/2025 - 02:25 pm |  |
+| Informe de evaluación | 07/May/2025 - 02:25 pm |  |
+| Informe de evaluación | 07/May/2025 - 02:32 pm |  |
+| Informe de evaluación | 09/May/2025 - 10:48 am |  |
+| Informe de selección | 09/May/2025 - 05:56 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2243239**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PAPELERIA Y SERVICIOS SAS * **Tipo documento:** NIT * **Documento:** 800049074 | * **Nombre:** HECTOR IVAN BAENA GIRALDO * **Tipo documento:** * **Documento:** 71628882 | Envigado - Antioquia | $27.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2243239****
+
+**Contrato 01-00-32-20-002-25_1 LOTE 1 de PAPELERIA Y SERVICIOS SAS:**
+
+**ID del contrato en SECOP:**
+
+01-00-32-20-002-25_1 LOTE 1
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUMINISTROS DE INSUMOS DE ASEO, CAFETERÍA, PAPELERÍA, TÓNER Y TINTAS Y ELEMENTOS DE OFICINA PARA EL CONCEJO MUNICIPAL DE ENVIGADO ( POR LOTES)- LOTE 1
+
+**Precios unitarios:**
+
+**Lote No. 1**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 50171554 | INSUMOS DE ASEO, CAFETERÍA, PAPELERÍA E INSUMOS DE OFICINA | 1,00 | UN | 27.800.000,00 | 27.800.000,00 | 27.800.000,00 | 27.800.000,00 |
+
+**Fecha inicio del contrato:**
+
+20/May/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+218 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 27,800,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7862565 | DECLARATORIA DESIERTO LOTE 2 | 09/May/2025 - 06:03 pm |  | - |
+| Reporte final | CO1.AWD.2243239 | Informe de selección CO1.AWD.2243239 | 09/May/2025 - 05:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243239 | Informe de evaluación 4 CO1.AWD.2243239 | 09/May/2025 - 10:48 am |  | - |
+| General | CO1.MSG.7852685 | Documentos a subsanar | 08/May/2025 - 01:54 pm |  | - |
+| Avisos | CO1.REQ.8163710 | Publicación modificación | 07/May/2025 - 03:03 pm |  |  |
+| General | CO1.MSG.7846417 | RE: OBSERVACION IMPORTAREX | 07/May/2025 - 03:00 pm |  | - |
+| General | CO1.MSG.7846098 | ADENDA 003 | 07/May/2025 - 02:36 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243239 | Informe de evaluación 3 CO1.AWD.2243239 | 07/May/2025 - 02:32 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243239 | Informe de evaluación 2 CO1.AWD.2243239 | 07/May/2025 - 02:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243239 | Informe de evaluación 1 CO1.AWD.2243239 | 05/May/2025 - 02:27 pm |  | - |
+| Avisos | CO1.REQ.8163710 | Publicación modificación | 30/Abr/2025 - 03:18 pm |  |  |
+| General | CO1.MSG.7819547 | JUSTIFICACION DE PRECIO ARTIFICIALMENTE BAJO | 30/Abr/2025 - 02:20 pm |  | - |
+| General | CO1.MSG.7819557 | ADENDA 002 | 30/Abr/2025 - 02:20 pm |  | - |
+| Avisos | CO1.MSG.7817273 | Publicación de la lista de ofertas del proceso 01-00-32-20-002-25_1. | 30/Abr/2025 - 09:24 am |  | - |
+| Avisos | CO1.MSG.7817236 | Publicación de la lista de ofertas del proceso 01-00-32-20-002-25_1. | 30/Abr/2025 - 09:21 am |  | - |
+| Avisos | CO1.MSG.7817229 | La lista de oferentes del proceso 01-00-32-20-002-25_1 publicada por CONCEJO DE ENVIGADO | 30/Abr/2025 - 09:20 am |  | - |
+| Avisos | CO1.REQ.8163710 | Publicación modificación | 28/Abr/2025 - 11:49 am |  |  |
+| General | CO1.MSG.7805856 | RESPUESTA OBSERVACIONES | 28/Abr/2025 - 11:42 am |  | - |
+| General | CO1.MSG.7805848 | AVISO INFORMATIVO LIMITACIÓN | 28/Abr/2025 - 11:41 am |  | - |
+| Aclaraciones | CO1.MSG.7805854 | RE: LIMITACION A MIPYMES DEPARTAMENTAL , Observaciones Proceso de mínima cuantía - por lotes | 28/Abr/2025 - 11:41 am |  | - |
+| Aclaraciones | CO1.MSG.7800917 | LIMITACION A MIPYMES DEPARTAMENTAL | 25/Abr/2025 - 03:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7799347 | Observaciones Proceso de mínima cuantía - por lotes | 25/Abr/2025 - 03:11 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:28 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

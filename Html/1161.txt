@@ -1,0 +1,248 @@
+Title: Licitaciones - COLOMBIA COMPRA EFICIENTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fedf595d6df9.39412083
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 02:11:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición del licenciamiento Audiocodes con el fin de optimizar las comunicaciones internas asociadas a los servicios de información para la compra pública de la Agencia Nacional de Contratación Pública -Colombia Compra Eficiente
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 # 26-20 piso. 17 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+40 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 05:31 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 10:20 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/May/2025 - 11:59 pm | 15/Jun/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 06/May/2025 - 11:59 pm | 15/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 24/Abr/2025 - 04:54 pm | * **Nombre:** Electrocom S.A.S. | Bogotá - Distrito Capital de Bogotá |
+| 2 | 25/Abr/2025 - 08:08 am | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 3 | 25/Abr/2025 - 09:44 am | * **Nombre:** UNE EPM TELECOMUNICACIONES S.A | Medellín - Antioquia |
+| 4 | 25/Abr/2025 - 09:50 am | * **Nombre:** Infinivirt Technologies S.A.S | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 13,556,480
+
+**Informes proceso de selección CO1.AWD.2238274 de 06/May/2025 - 03:56 am. Valor $13.556.480**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:38 pm |  |
+| Informe de selección | 06/May/2025 - 03:56 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2238274**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Duplicado no usar Electricos y Comunicaciones Electrocom S.A.S. * **Tipo documento:** NIT * **Documento:** 0 | * **Nombre:** Federico Jaramillo Ochoa * **Tipo documento:** NIT * **Documento:** 98546740 | Bogotá - Distrito Capital de Bogotá | $13.556.480 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2238274****
+
+**Cuantía a la firma del contrato:**
+
+$ 13,556,480
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2238274 | Informe de selección CO1.AWD.2238274 | 06/May/2025 - 03:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238274 | Informe de evaluación 1 CO1.AWD.2238274 | 29/Abr/2025 - 04:38 pm |  | - |
+| General | CO1.MSG.7807540 | RE: SOLICITUD ACLARACIÓN PROPUESTA ECONOMICA CCE-MC-004-2025 | 28/Abr/2025 - 04:26 pm |  | - |
+| General | CO1.MSG.7806797 | SOLICITUD ACLARACIÓN PROPUESTA ECONOMICA CCE-MC-004-2025 | 28/Abr/2025 - 02:26 pm |  | - |
+| Avisos | CO1.MSG.7799461 | Publicación de la lista de ofertas del proceso CCE-MC-004-2025. | 25/Abr/2025 - 12:30 pm |  | - |
+| Avisos | CO1.MSG.7799044 | La lista de oferentes del proceso CCE-MC-004-2025 publicada por COLOMBIA COMPRA EFICIENTE | 25/Abr/2025 - 11:34 am |  | - |
+| Avisos | CO1.REQ.8129762 | Publicación modificación | 23/Abr/2025 - 06:25 pm |  |  |
+| General | CO1.MSG.7789177 | AVISO DE NO LIMITACIÓN A MIPYME_CCE-MC-004-2025 | 23/Abr/2025 - 05:26 pm |  | - |
+| Aclaraciones | CO1.MSG.7788791 | RESPUESTA UNIFICADA A OBSERVACIONES PRESENTADAS AL PROCESO CCE-MC.004-2025 | 23/Abr/2025 - 04:57 pm |  | - |
+| General | CO1.MSG.7788752 | RESPUESTA UNIFICADA OBSERVACIONES CCE-MC-004-2025 | 23/Abr/2025 - 04:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7775170 | OBSERVACIONES _Proceso: Mínima cuantía- UNE EPM TELECOMUNICACIONES S.A. | 21/Abr/2025 - 04:41 pm |  | - |

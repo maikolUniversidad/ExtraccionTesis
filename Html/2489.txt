@@ -1,0 +1,94 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e6bef7437b4.03529914
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 10:38:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Realizar mediciones técnicas especializadas en relación con la ampliación de cobertura, actualización tecnológica, disponibilidad y la calidad de los servicios prestados por los operadores móviles en todo el territorio nacional
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas ; Antioquia ; Arauca ; Atlántico ; Bolívar ; Boyacá ; Caldas ; Caquetá ; Casanare ; Cauca ; Cesar ; Chocó ; Córdoba ; Cundinamarca ; Guainía ; Guaviare ; Huila ; La Guajira ; Magdalena ; Meta ; Nariño ; Norte de Santander ; Putumayo ; Quindío ; Risaralda ; San Andrés, Providencia y Santa Catalina ; Santander ; Sucre ; Tolima ; Valle del Cauca ; Vaupés ; Vichada
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161700 - Servicios de telecomunicaciones
+
+**Códigos adicionales UNSPSC:**
+
+81131500 - Metodología y Análisis,83111600 - Servicios de comunicaciones móviles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de obras de telecomunicaciones, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "101,117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Colombia: Todo el pais
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+120 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 06:56 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 11:59 pm

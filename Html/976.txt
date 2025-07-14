@@ -1,0 +1,263 @@
+Title: Licitaciones - SUBCUENTA PARA LA ADMON DE LOS RECURSOS Y MANEJO SPN FONAM - DTOR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68558e9d0f3cf6.97043443
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:55:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+OR02-3202010-24-120 Adquisición de dispositivos tecnológicos para la generación de entornos de realidad virtual en el Parque Nacional Natural Chingaza, en el marco de los servicios de ecoturismo del proyecto de conservación.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211907 - Cascos de realidad virtual
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 39 No. 26 C - 47 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 11:11 am
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 02:01 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 06:01 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ARDOBOT ROBOTICA SAS | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 19,744,000
+
+**Informes proceso de selección CO1.AWD.2295120 de 03/Jul/2025 - 08:29 am. Valor $19.744.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 12:02 pm |  |
+| Informe de selección | 03/Jul/2025 - 08:29 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2295120**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ARDOBOT ROBOTICA SAS * **Tipo documento:** NIT * **Documento:** 901061066 | * **Nombre:** FRANCISCO JAVIER MADRIGAL CORREA * **Tipo documento:** NIT * **Documento:** 1037629455 | Medellín - Antioquia | $19.744.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2295120****
+
+**Contrato DTOR-CV-FONAM-012-2025 de ARDOBOT ROBOTICA SAS:**
+
+**ID del contrato en SECOP:**
+
+DTOR-CV-FONAM-012-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+OR02-3202010-24-120 Adquisición de dispositivos tecnológicos para la generación de entornos de realidad virtual en el Parque Nacional Natural Chingaza, en el marco de los servicios de ecoturismo del proyecto de conservación
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211907 | OR02-3202010-24-120 Adquisición de dispositivos tecnológicos para la generación de entornos de realidad virtual en el Parque Nacional Natural Chingaza, en el marco de los servicios de ecoturismo del proyecto de conservación. | 1,00 | UN | 26.083.400,00 | 19.744.000,00 | 26.083.400,00 | 19.744.000,00 |
+
+**Fecha inicio del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+**Fecha de terminación del contrato:**
+
+06/Sep/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+60 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 19,744,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | OFERTA ARDOBOT SAS IPMC 079 2025.zip |  |
+|  | DTOR-CV-FONAM-012-2025 ARDOBOT SAS - GAFAS REALIDAD VIRTUAL CHINGAZA.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295120 | Informe de selección CO1.AWD.2295120 | 03/Jul/2025 - 08:29 am |  | - |
+| General | CO1.MSG.8101176 | Subsanación Documentos Ardobot | 02/Jul/2025 - 09:05 am |  | - |
+| Avisos | CO1.MSG.8099967 | La lista de oferentes del proceso IPMC-DTOR-079-2025 publicada por SUBCUENTA PARA LA ADMON DE LOS RECURSOS Y MANEJO SPN FONAM - DTOR | 01/Jul/2025 - 12:04 pm |  | - |
+| Avisos | CO1.MSG.8099973 | Publicación de la lista de ofertas del proceso IPMC-DTOR-079-2025. | 01/Jul/2025 - 12:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2295120 | Informe de evaluación 1 CO1.AWD.2295120 | 01/Jul/2025 - 12:02 pm |  | - |
+| General | CO1.MSG.8084299 | AVISO LIMITACION MIPYMES IPMC-DTOR-079-2025 | 26/Jun/2025 - 08:17 am |  | - |
+| Aclaraciones | CO1.MSG.8069446 | Limitacion Municipal | 23/Jun/2025 - 10:50 am |  | - |

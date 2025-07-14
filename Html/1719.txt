@@ -1,0 +1,136 @@
+Title: Licitaciones - Colegio Alfonso Reyes Echandia IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c3d4d666ee0.09073701
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 16:24:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SE REQUIERE CONTRATAR LA ACTUALIZACIÓN DEL SOFTWARE DE ALMACÉN, INDISPENSABLE PARA CONTINUAR CON EL ADECUADO FUNCIONAMIENTO Y CONTROL DE LOS INVENTARIOS DEL COLEGIO ALFONSO REYES ECHANDIA IED.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111508 - Servicios de implementación de aplicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 86 74 00 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111508 | APLICATIVOS FINANCIERO | Contratación régimen especial - Régimen especial | Recursos propios | $2.000.000 | IED ALFONSO REYES |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+13/Jun/2025 - 09:46 am
+
+**Fecha límite de presentación de ofertas:**
+
+17/Jun/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+17/Jun/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+18/Jun/2025 - 08:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+18/Jun/2025 - 08:01 am
+
+**Plazo de ejecución del contrato:**
+
+27/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2283833 | Informe de evaluación 1 CO1.AWD.2283833 | 17/Jun/2025 - 02:36 pm |  | - |

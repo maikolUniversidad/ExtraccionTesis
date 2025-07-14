@@ -1,0 +1,218 @@
+Title: Licitaciones - ASOCIACION AEROPUERTO DEL CAFE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d9b078a1ae8.07427857
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:48:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA RENOVACIÓN DE LICENCIAS ANTIVIRUS, DIPOSITIVOS FORTIWIFI Y FORTISWITCH, EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE EQUIPOS DE COMPUTO Y LA ADQUISICIÓN DE ELEMENTOS TECNOLÓGICOS PARA LA ASOCIACIÓN AEROPUERTO DEL CAFÉ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,81112208 - Mantenimiento de software de protección y seguridad,43233200 - Software de seguridad y protección,43233415 - Software de respaldo o archivo,43211711 - Escáneres,43211708 - Mouse o bola de seguimiento para computador,43211706 - Teclados,26121609 - Cable de redes,39121440 - Cable de extensión eléctrica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática, -Materiales para redes de comunicación", "licicodigos": "103,297,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 22 Nro. 18-09, PISO 2 Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 01:54 pm
+
+**Publicación de estudios previos:**
+
+26/Jun/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+26/Jun/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 09:10 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 09:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/Jun/2025 - 02:00 pm | 26/Ene/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 26/Jun/2025 - 02:00 pm | 26/Sep/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 8,445,500
+
+**Informes proceso de selección CO1.AWD.2296245 de 04/Jul/2025 - 04:57 am. Valor $8.445.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 04:13 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 01:53 pm |  |
+| Informe de selección | 04/Jul/2025 - 04:57 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2296245 | Informe de selección CO1.AWD.2296245 | 04/Jul/2025 - 04:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296245 | Informe de evaluación 2 CO1.AWD.2296245 | 04/Jul/2025 - 01:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296245 | Informe de evaluación 1 CO1.AWD.2296245 | 02/Jul/2025 - 04:13 pm |  | - |
+| Avisos | CO1.MSG.8108541 | La lista de oferentes del proceso MC-AAC-039-2025 publicada por ASOCIACION AEROPUERTO DEL CAFE | 02/Jul/2025 - 04:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8103209 | AVISO LIMITACION A MIPYME Y RESPUESTA A OBSERVACIONES | 01/Jul/2025 - 06:09 pm |  | - |
+| General | CO1.MSG.8103168 | AVISO LIMITACION A MIPYME Y RESPUESTA A OBSERVACIONES | 01/Jul/2025 - 06:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8103110 | RE: Limitación a Mipyme, MANIFESTACIÓN DE INTERES - LIMITACIÓN A MiPYMES MANIZALES , LIMITACIÓN A MIPYMES | 01/Jul/2025 - 05:55 pm |  | - |
+| Aclaraciones | CO1.MSG.8093200 | Limitación a Mipyme | 27/Jun/2025 - 12:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8091254 | MANIFESTACIÓN DE INTERES - LIMITACIÓN A MiPYMES MANIZALES | 27/Jun/2025 - 08:28 am |  | - |
+| Aclaraciones | CO1.MSG.8088915 | LIMITACIÓN A MIPYMES | 26/Jun/2025 - 04:39 pm |  | - |

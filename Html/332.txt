@@ -1,0 +1,160 @@
+Title: Licitaciones - EMPRESA DE SEGURIDAD DEL ORIENTE SAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b5d1a7a635.61137227
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-10 18:16:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE MATERIALES ELÉCTRICOS, ELECTRÓNICOS, ASÍ COMO HERRAMIENTAS PARA EL CENTRO DE MONITOREO Y CONTROL - CMC; EN EL MARCO DEL CIAD NO 10.07.00-21.16-009-2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Rionegro
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32131000 - Accesorios, materias primas y piezas de componentes electrónicos
+
+**Códigos adicionales UNSPSC:**
+
+32151800 - Dispositivos de control de seguridad,72151500 - Servicios de sistemas eléctricos,39121700 - Ferretería eléctrica y suministros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad, -Circuito cerrado de televisión, -Materiales para obras eléctricas en general, -Materiales para redes de comunicación", "licicodigos": "105,109,114,121,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 46 # 30-425 Rionegro Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 32131000, 32151800 | Suministro de materiales eléctricos, electrónicos y herramientas para el Centro de Monitoreo y Control del Municipio de Rionegro | Contratación régimen especial (con ofertas) - Régimen especial | Recursos propios | $50.000.000 | ESO |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/May/2025 - 04:58 pm
+
+**Fecha límite de presentación de ofertas:**
+
+22/May/2025 - 03:30 pm
+
+**Fecha límite para la apertura de sobres:**
+
+22/May/2025 - 03:31 pm
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2026 - 11:59 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 30/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 30/May/2025 - 12:00 pm | 31/Dic/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/May/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(10/Jul/2025 - 05:50 am:34 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ESO RIONEGRO S.A.S. en 25 minutos de tiempo transcurrido (10/Jul/2025 - 05:50 am:34 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Proceso Declarado Desierto
+
+**Fecha de la cancelación:**
+
+10/Jul/2025 - 05:50 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2260561 | Informe de evaluación 2 CO1.AWD.2260561 | 28/May/2025 - 06:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260561 | Informe de evaluación 1 CO1.AWD.2260561 | 23/May/2025 - 04:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7910729 | Información de incripción como proveedor de la ESo - Rionegro S.A.S | 20/May/2025 - 05:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7908741 | RE: ACLARACION | 20/May/2025 - 02:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7908583 | RE: ACLARACION | 20/May/2025 - 02:15 pm |  | - |
+| Aclaraciones | CO1.MSG.7903897 | ACLARACION | 19/May/2025 - 05:02 pm |  | - |

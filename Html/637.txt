@@ -1,0 +1,184 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE CALI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68251b31340416.94258448
+
+Markdown Content:
+**Objeto de la firma del contrato:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO ASI COMO EL SUMINISTRO DE REPUESTOS PARA LOS EQUIPOS DE COMPUTO COMPUTADORES IMPRESORAS Y SCANNERS DE LAS UNIDADES CENTRALIZADAS POR LA CENAC CALI VIGENCIA 2025
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112307 | DISCO DURO DE ESTADO SOLIDO 240 GB | 1,00 | UN | 199.169,00 | 47.625.316,00 | 199.169,00 | 47.625.316,00 |
+| 2 | 81112307 | COMBO TECLADO + MOUSE USB | 1,00 | UN | 69.423,00 | 65.000,00 | 69.423,00 | 65.000,00 |
+| 3 | 81112307 | DISCO DURO EXTERNO 1 TERA ANTIGOLPES | 1,00 | UN | 389.880,00 | 350.000,00 | 389.880,00 | 350.000,00 |
+| 4 | 81112307 | Disco Duro de 1TB HP 6G SATA 7.2K/659337/ ML310 | 1,00 | UN | 299.007,00 | 100.000,00 | 299.007,00 | 100.000,00 |
+| 5 | 81112307 | Memoria RAM 1GB DDR PC400/PC3200KVR400X64C3A/1G en Almacén Informático. 184 pin - 2,6V - CL3 ValueRAM | 1,00 | UN | 60.360,00 | 2.000,00 | 60.360,00 | 2.000,00 |
+| 6 | 81112307 | MOUSE INALAMBRICO Compatible con Windows xp vista, 7, 8, 10. | 1,00 | UN | 59.747,00 | 50.000,00 | 59.747,00 | 50.000,00 |
+| 7 | 81112307 | conjunto del formateador para IMPRESORA HP M630 | 1,00 | UN | 184.035,00 | 10.000,00 | 184.035,00 | 10.000,00 |
+| 8 | 81112307 | CABLE RJ45 PATCH CORD CAT6 3 METRO CERTIFICADO | 1,00 | UN | 31.170,00 | 6.000,00 | 31.170,00 | 6.000,00 |
+| 9 | 81112307 | FUENTE DE PODER 750 W (350 WTS) | 1,00 | UN | 143.200,00 | 45.000,00 | 143.200,00 | 45.000,00 |
+| 10 | 81112307 | DISCO DURO EXTERNO 2 TERA ANTIGOLPES | 1,00 | UN | 560.940,00 | 460.000,00 | 560.940,00 | 460.000,00 |
+| 11 | 81112307 | Disco Duro de 2TB 7200RPM Sata | 1,00 | UN | 275.745,00 | 90.000,00 | 275.745,00 | 90.000,00 |
+| 12 | 81112307 | Disco Duro de 1TB SATA2 5400RPM Portátil | 1,00 | UN | 202.395,00 | 25.000,00 | 202.395,00 | 25.000,00 |
+| 13 | 81112307 | DISCO DURO SÓLIDO 480 GB | 1,00 | UN | 293.713,00 | 270.000,00 | 293.713,00 | 270.000,00 |
+| 14 | 81112307 | TARJETA DE RED PCI EXPRESS 10/100/1000 | 1,00 | UN | 85.361,00 | 12.000,00 | 85.361,00 | 12.000,00 |
+| 15 | 81112307 | TARJETA DE VIDEO 1GB DDR3 PCI EXPRESS | 1,00 | UN | 194.113,00 | 40.000,00 | 194.113,00 | 40.000,00 |
+| 16 | 81112307 | Ventilador Cooler Master | 1,00 | UN | 47.185,00 | 5.000,00 | 47.185,00 | 5.000,00 |
+| 17 | 81112307 | Kit de fusor de las marcas: HP, EPSON, CANON, Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. incluye un fusor, un rodillo de transferencia y rodillos de recogida y alimentación fusor de 110 voltios: ce731a - fusor de 220 voltios:ce732a | 1,00 | UN | 1.045.460,00 | 980.000,00 | 1.045.460,00 | 980.000,00 |
+| 18 | 81112307 | kit del alimentador de documentos: incluye un ensamblaje de rodillo y una placa de separación de repuesto para el alimentador de documentos. de las marcas: HP, EPSON, CANON, Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | UN | 924.352,00 | 40.000,00 | 924.352,00 | 40.000,00 |
+| 19 | 81112307 | Cabezales de impresoras de las marcas: HP, EPSON, CANON, Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | UN | 492.835,00 | 430.000,00 | 492.835,00 | 430.000,00 |
+| 20 | 81112307 | conjunto del formateador ARA IMPRESORA HP M630 | 1,00 | UN | 260.265,00 | 10.000,00 | 260.265,00 | 10.000,00 |
+| 21 | 81112307 | ADAPTADOR USB WIFI 150MB INALÁMBRICO INTERNET | 1,00 | UN | 73.696,00 | 19.000,00 | 73.696,00 | 19.000,00 |
+| 22 | 81112307 | MEMORIA USB 32 GB UD 310 | 1,00 | UN | 193.216,00 | 18.000,00 | 193.216,00 | 18.000,00 |
+| 23 | 81112307 | PAD MOUSE GEL | 1,00 | UN | 27.605,00 | 25.000,00 | 27.605,00 | 25.000,00 |
+| 24 | 81112307 | PILAS PARA BOARD CR2032 | 1,00 | UN | 14.636,00 | 10.000,00 | 14.636,00 | 10.000,00 |
+| 25 | 81112307 | CÁMARA WEB FULL HD | 1,00 | UN | 285.303,00 | 80.000,00 | 285.303,00 | 80.000,00 |
+| 26 | 81112307 | PARLANTES SP U 120 USB | 1,00 | UN | 112.879,00 | 35.000,00 | 112.879,00 | 35.000,00 |
+| 27 | 81112307 | Cable HDMI/HDMI 5mts | 1,00 | UN | 42.681,00 | 30.000,00 | 42.681,00 | 30.000,00 |
+| 28 | 81112307 | Cable Poder SATA | 1,00 | UN | 23.544,00 | 4.000,00 | 23.544,00 | 4.000,00 |
+| 29 | 81112307 | CABLE IMPRESORA USB 1.8MTS | 1,00 | UN | 22.628,00 | 5.000,00 | 22.628,00 | 5.000,00 |
+| 30 | 81112307 | CABLE DE VIDEO VGA 15 MTS CON FILTRO | 1,00 | UN | 69.697,00 | 45.000,00 | 69.697,00 | 45.000,00 |
+| 31 | 81112307 | CABLE CONVERTIDOR SATA A USB 2.0 PARA DISCOS DUROS 2.5 | 1,00 | UN | 73.925,00 | 12.000,00 | 73.925,00 | 12.000,00 |
+| 32 | 81112307 | CABLE DE DATOS SATA SERIAL ATA ESTÁNDAR | 1,00 | UN | 25.450,00 | 1.000,00 | 25.450,00 | 1.000,00 |
+| 33 | 81112307 | CABLE DE PODER MONITORES IMPRESORAS COMPUTADORES 10 A 250 V 1,8MTS | 1,00 | UN | 29.007,00 | 4.000,00 | 29.007,00 | 4.000,00 |
+| 34 | 81112307 | CABLE HDMI 4K / 3D / 10 METROS DOBLE FILTRO | 1,00 | UN | 95.707,00 | 20.000,00 | 95.707,00 | 20.000,00 |
+| 35 | 81112307 | CABLE RJ45 PATCH CORD CAT6 10 METRO CERTIFICADO | 1,00 | UN | 69.914,00 | 35.000,00 | 69.914,00 | 35.000,00 |
+| 36 | 81112307 | CABLE RJ45 PATCH CORD CAT6 6 METRO CERTIFICADO | 1,00 | UN | 50.700,00 | 9.000,00 | 50.700,00 | 9.000,00 |
+| 37 | 81112307 | MEMORIA PARA PC DDR III 8GB 1600 MHZ | 1,00 | UN | 187.401,00 | 170.000,00 | 187.401,00 | 170.000,00 |
+| 38 | 81112307 | MEMORIA PARA PC DDR IV 8GB 2400 MHZ | 1,00 | UN | 211.721,00 | 180.000,00 | 211.721,00 | 180.000,00 |
+| 39 | 81112307 | MEMORIA PARA PORTÁTIL DDR III 8GB 1600 MHZ | 1,00 | UN | 162.294,00 | 90.000,00 | 162.294,00 | 90.000,00 |
+| 40 | 81112307 | MEMORIA PARA PORTÁTIL DDR IV 8GB 2666 Y 2400 MHZ | 1,00 | UN | 211.721,00 | 170.000,00 | 211.721,00 | 170.000,00 |
+| 41 | 81112307 | VENTILADOR 12 V PARA PC | 1,00 | UN | 25.043,00 | 5.000,00 | 25.043,00 | 5.000,00 |
+| 42 | 81112307 | Tarjeta de Sonido PCI 5.1 | 1,00 | UN | 89.526,00 | 25.000,00 | 89.526,00 | 25.000,00 |
+| 43 | 81112307 | UNIDAD QUEMADORA EXTERNA SLIM, CD, DVD-RW PORTABLE USB 3.0. | 1,00 | UN | 198.153,00 | 10.000,00 | 198.153,00 | 10.000,00 |
+| 44 | 81112307 | DISCO DURO DE ESTADO SOLIDO 980 GB O 1 TB | 1,00 | UN | 526.233,00 | 450.000,00 | 526.233,00 | 450.000,00 |
+| 45 | 81112307 | MEMORIA PARA COMPUTADOR DE MESA DDR3 8 GB 1600 MHZ | 1,00 | UN | 187.401,00 | 130.000,00 | 187.401,00 | 130.000,00 |
+| 46 | 81112307 | CABLE HDMI/5 MTS | 1,00 | UN | 36.474,00 | 24.000,00 | 36.474,00 | 24.000,00 |
+| 47 | 81112307 | CABLE HDMI 4K/3D/10MTS DOBLE FILTRO | 1,00 | UN | 82.885,00 | 15.000,00 | 82.885,00 | 15.000,00 |
+| 48 | 81112307 | COMBO BOARD PROC. CORE I3 3.5 MEMORIA DDR3 4 (4TA GENERACIÓN) | 1,00 | UN | 649.169,00 | 40.000,00 | 649.169,00 | 40.000,00 |
+| 49 | 81112307 | MEMORIA RAM COMPUTADOR DDR3 - 4 GB | 1,00 | UN | 143.765,00 | 10.000,00 | 143.765,00 | 10.000,00 |
+| 50 | 81112307 | DISCO DURO EXTERNO 4 TB ANTI GOLPES | 1,00 | UN | 944.847,00 | 430.000,00 | 944.847,00 | 430.000,00 |
+| 51 | 81112307 | QUEMADOR INTERNO DVD 20 SATA | 1,00 | UN | 110.771,00 | 10.000,00 | 110.771,00 | 10.000,00 |
+| 52 | 81112307 | FUENTE DE PODER HP 6005 | 1,00 | UN | 544.579,00 | 5.000,00 | 544.579,00 | 5.000,00 |
+| 53 | 81112307 | FUENTE DE PODER HP 6003 | 1,00 | UN | 544.579,00 | 5.000,00 | 544.579,00 | 5.000,00 |
+| 54 | 81112307 | FUENTE DE PODER HP 6002 | 1,00 | UN | 544.579,00 | 5.000,00 | 544.579,00 | 5.000,00 |
+| 55 | 81112307 | ADAPTADOR HDMI H HDMI M CODO, VGA H DVI M 24 5 VGA H | 1,00 | UN | 57.085,00 | 5.000,00 | 57.085,00 | 5.000,00 |
+| 56 | 81112307 | CABLE EXTENSIÓN USB 3.5MTS (10FT) | 1,00 | UN | 36.474,00 | 5.000,00 | 36.474,00 | 5.000,00 |
+| 57 | 81112307 | FUENTE DE PODER PARA PC TODO EN UNO HP | 1,00 | UN | 250.904,00 | 10.000,00 | 250.904,00 | 10.000,00 |
+| 58 | 81112307 | DISCO DURO EXTERNO 4 TERA ANTIGOLPES | 1,00 | UN | 785.945,00 | 430.000,00 | 785.945,00 | 430.000,00 |
+| 59 | 81112307 | DISCO DURO SERIAL ATA 1 TERA BYTE | 1,00 | UN | 253.781,00 | 40.000,00 | 253.781,00 | 40.000,00 |
+| 60 | 81112307 | disco de estado sólido BX500 1TB 3D NAND SATA 2.5-inch SSD | 1,00 | UN | 517.295,00 | 490.000,00 | 517.295,00 | 490.000,00 |
+| 61 | 81112307 | DISCO DURO PARA PORTÁTIL HDD SATA de 500 GB, 7200 RPM (2,5 pulgadas) | 1,00 | UN | 111.332,00 | 25.000,00 | 111.332,00 | 25.000,00 |
+| 62 | 81112307 | Disco Duro Serial ATA 3.0 (6,0 Gb/s (2,5 pulgadas) | 1,00 | UN | 119.634,00 | 25.000,00 | 119.634,00 | 25.000,00 |
+| 63 | 81112307 | Disco Duro (SSHD) SATA 6G, 8 GB, 1 TB y 3,5 pulgadas | 1,00 | UN | 134.968,00 | 90.000,00 | 134.968,00 | 90.000,00 |
+| 64 | 81112307 | Tarjeta gráfica 2 GB PCIe x8 | 1,00 | UN | 321.289,00 | 180.000,00 | 321.289,00 | 180.000,00 |
+| 65 | 81112307 | tarjeta 1 GB PCIe x16 | 1,00 | UN | 219.536,00 | 40.000,00 | 219.536,00 | 40.000,00 |
+| 66 | 81112307 | Tarjeta Gráficos HD (integrados) | 1,00 | UN | 138.561,00 | 10.000,00 | 138.561,00 | 10.000,00 |
+| 67 | 81112307 | MEMORIA COMPUTADOR - DDR3 - 2 GB (1333) | 1,00 | UN | 99.777,00 | 5.000,00 | 99.777,00 | 5.000,00 |
+| 68 | 81112307 | MEMORIA COMPUTADOR - DDR3 - 4 GB (1333) | 1,00 | UN | 189.912,00 | 20.000,00 | 189.912,00 | 20.000,00 |
+| 69 | 81112307 | memoria ram 32GB Desktop DDR4 2666 MHz UDIMM Memory Module (1 x 32GB) | 1,00 | UN | 506.084,00 | 100.000,00 | 506.084,00 | 100.000,00 |
+| 70 | 81112307 | Memoria DDR3 - 8GB 1333MHz Portátil | 1,00 | UN | 180.317,00 | 90.000,00 | 180.317,00 | 90.000,00 |
+| 71 | 81112307 | Memoria DDR3 4GB PC3-10600 ML-110G6 / G7 | 1,00 | UN | 137.437,00 | 25.000,00 | 137.437,00 | 25.000,00 |
+| 72 | 81112307 | Memoria DDR3 8GB 1600MHz(2X4GB) | 1,00 | UN | 167.804,00 | 80.000,00 | 167.804,00 | 80.000,00 |
+| 73 | 81112307 | Memoria DDR2 2GB 800MHz PCs | 1,00 | UN | 63.175,00 | 10.000,00 | 63.175,00 | 10.000,00 |
+| 74 | 81112307 | Memoria DDR2 2GB 667MHz PCS | 1,00 | UN | 63.175,00 | 10.000,00 | 63.175,00 | 10.000,00 |
+| 75 | 81112307 | CABLE HDMI 4K / 3D / 5 METROS DOBLE FILTRO | 1,00 | UN | 63.625,00 | 20.000,00 | 63.625,00 | 20.000,00 |
+| 76 | 81112307 | CABLE CONVERTIDOR DE HDMI A VGA PC | 1,00 | UN | 63.823,00 | 15.000,00 | 63.823,00 | 15.000,00 |
+| 77 | 81112307 | MONITOR 19 M38HLED HDMI Gtia 12 meses | 1,00 | UN | 524.550,00 | 180.000,00 | 524.550,00 | 180.000,00 |
+| 78 | 81112307 | DISCO DURO DE ESTADO SOLIDO BX500 1TB 3D NAND SATA 2.5-INCH SSD | 1,00 | UN | 448.101,00 | 430.000,00 | 448.101,00 | 430.000,00 |
+| 79 | 81112307 | DISCO DURO ESTADO SOLIDO DE 5OO GB | 1,00 | UN | 385.403,00 | 330.000,00 | 385.403,00 | 330.000,00 |
+| 80 | 81112307 | Cabezales de impresoras de las marcas: EPSON L3110 | 1,00 | UN | 603.520,00 | 220.000,00 | 603.520,00 | 220.000,00 |
+| 81 | 81112307 | FUENTE DE PODER HP COMPAQ DC5750 | 1,00 | UN | 385.403,00 | 10.000,00 | 385.403,00 | 10.000,00 |
+| 82 | 81112307 | MOUSE OPTICO USB: COMPATIBLE PARA LOS SISTEMAS WINDOWS 7,8,8.1,10- MAC OS 10.7.4 O SUPERIOR, PUERTO USB, UNIDAD DE SENSOR OPTICO, LONGITUD DE CABLE 1.5 M | 1,00 | UN | 58.230,00 | 53.000,00 | 58.230,00 | 53.000,00 |
+| 83 | 81112307 | TECLADO USB: DEBE CONTENER LA LETRA Ñ, CONEXIÓN USB COMPATIBLE CON WINDOWS Y MAC, TECLADO COMPLETO INCLUYENDO TECLAS NÚMERICAS, ILUMINACIÓN BLANCA LED CON ENCENDIDO/APAGADO, TECLAS TIPO MEMBRANA CON ESCELENTE TACTO Y RECORRIDO, DIMENSIONES APROXIMADAS 44X13X2.5 CM | 1,00 | UN | 82.806,00 | 80.000,00 | 82.806,00 | 80.000,00 |
+| 84 | 81112307 | DISCO DURO INTERNO PC 1TB | 1,00 | UN | 312.546,00 | 60.000,00 | 312.546,00 | 60.000,00 |
+| 85 | 81112307 | DISCO DURO INTERNO PC 2TB | 1,00 | UN | 420.626,00 | 120.000,00 | 420.626,00 | 120.000,00 |
+| 86 | 81112307 | DISCO DURO PARA PORTATIL 2TB | 1,00 | UN | 521.645,00 | 210.000,00 | 521.645,00 | 210.000,00 |
+| 87 | 81112307 | DISCO DURO PARA PORTATIL 1TB | 1,00 | UN | 357.000,00 | 30.000,00 | 357.000,00 | 30.000,00 |
+| 88 | 81112307 | UNIDAD DVD EXTERNA | 1,00 | UN | 288.155,00 | 10.000,00 | 288.155,00 | 10.000,00 |
+| 89 | 81112307 | UNIDAD DVD SATA | 1,00 | UN | 244.429,00 | 10.000,00 | 244.429,00 | 10.000,00 |
+| 90 | 81112307 | TARJETA DE RED PCI 10/100 | 1,00 | UN | 115.921,00 | 25.000,00 | 115.921,00 | 25.000,00 |
+| 91 | 81112307 | TARJETA DE RED PCI EXPRESS GIGABIT | 1,00 | UN | 210.642,00 | 20.000,00 | 210.642,00 | 20.000,00 |
+| 92 | 81112307 | TARJETA DE SONIDO PCI | 1,00 | UN | 181.531,00 | 25.000,00 | 181.531,00 | 25.000,00 |
+| 93 | 81112307 | TARJETA DE VIDEO PCI EXPRES DE 1 GB | 1,00 | UN | 219.536,00 | 40.000,00 | 219.536,00 | 40.000,00 |
+| 94 | 81112307 | BATERIA CR 2032 | 1,00 | UN | 23.184,00 | 18.000,00 | 23.184,00 | 18.000,00 |
+| 95 | 81112307 | BOAR EN FORMATOS ATX DE 3ra. GENERACIÒN INTEL | 1,00 | UN | 613.000,00 | 35.000,00 | 613.000,00 | 35.000,00 |
+| 96 | 81112307 | BOARD INTEL 4TA. Y 5TA. GENERACION SOCKET 1151 | 1,00 | UN | 711.413,00 | 45.000,00 | 711.413,00 | 45.000,00 |
+| 97 | 81112307 | BOARD INTEL 6TA. Y 7TA GENERACION SOCKET 1151 | 1,00 | UN | 739.107,00 | 45.000,00 | 739.107,00 | 45.000,00 |
+| 98 | 81112307 | BOARD INTEL 8TA. GENERACION SOCKET 1151 | 1,00 | UN | 856.555,00 | 70.000,00 | 856.555,00 | 70.000,00 |
+| 99 | 81112307 | CABLE DE PODER MONITORES IMPRESORAS COMPUTADORES 10 A 250 V 5 MTS | 1,00 | UN | 58.421,00 | 10.000,00 | 58.421,00 | 10.000,00 |
+| 100 | 81112307 | CABLE HDMI 10 METROS DOBLE FILTRO MALLADO PUNTA DORADA | 1,00 | UN | 103.898,00 | 35.000,00 | 103.898,00 | 35.000,00 |
+| 101 | 81112307 | CABLE HDMI 5 METROS DOBLE FILTRO MALLADO PUNTA DORADA | 1,00 | UN | 79.618,00 | 50.000,00 | 79.618,00 | 50.000,00 |
+| 102 | 81112307 | CABLE UTP CAT 5 EXTERIOR | 1,00 | UN | 67.336,00 | 25.000,00 | 67.336,00 | 25.000,00 |
+| 103 | 81112307 | CABLE UTP CAT 5E MTS | 1,00 | UN | 56.793,00 | 25.000,00 | 56.793,00 | 25.000,00 |
+| 104 | 81112307 | CABLE UTP CAT 6 | 1,00 | UN | 72.536,00 | 35.000,00 | 72.536,00 | 35.000,00 |
+| 105 | 81112307 | CABLE UTP CAT 6 EXTERIOR | 1,00 | UN | 125.452,00 | 45.000,00 | 125.452,00 | 45.000,00 |
+| 106 | 81112307 | CABLE VGA 1.5 MTS PARA MONITOR VIDEO BEAM PC CON FILTRO | 1,00 | UN | 58.421,00 | 12.000,00 | 58.421,00 | 12.000,00 |
+| 107 | 81112307 | CABLE VGA 15 MTS PARA MONITOR VIDEO BEAM PC CON FILTRO | 1,00 | UN | 152.304,00 | 20.000,00 | 152.304,00 | 20.000,00 |
+| 108 | 81112307 | CABLE VGA 3 MTS PARA MONITOR VIDEO BEAM PC CON FILTRO | 1,00 | UN | 77.601,00 | 25.000,00 | 77.601,00 | 25.000,00 |
+| 109 | 81112307 | CABLE VGA 5 MTS PARA MONITOR VIDEO BEAM PC CON FILTRO | 1,00 | UN | 96.450,00 | 30.000,00 | 96.450,00 | 30.000,00 |
+| 110 | 81112307 | CAJA EXTERNA 2.5 USB 2.0 | 1,00 | UN | 79.289,00 | 15.000,00 | 79.289,00 | 15.000,00 |
+| 111 | 81112307 | CAJA EXTERNA 3.5 CORRIENTE USB 2.0 | 1,00 | UN | 205.853,00 | 15.000,00 | 205.853,00 | 15.000,00 |
+| 112 | 81112307 | CAJA EXTERNA PARA DISCO DURO 2,5 | 1,00 | UN | 182.778,00 | 15.000,00 | 182.778,00 | 15.000,00 |
+| 113 | 81112307 | CONVERTID0R TIPO VGA USB 3.1 | 1,00 | UN | 107.329,00 | 15.000,00 | 107.329,00 | 15.000,00 |
+| 114 | 81112307 | CONVERTIDOR DE VIDEO COMPONENTE A HDMI | 1,00 | UN | 95.945,00 | 15.000,00 | 95.945,00 | 15.000,00 |
+| 115 | 81112307 | CONVERTIDOR DISPLAY PORT A VGA | 1,00 | UN | 95.945,00 | 10.000,00 | 95.945,00 | 10.000,00 |
+| 116 | 81112307 | FUENTE DE PODER 750 W | 1,00 | UN | 153.105,00 | 45.000,00 | 153.105,00 | 45.000,00 |
+| 117 | 81112307 | JACK CATEGORIA 5 | 1,00 | UN | 23.184,00 | 1.000,00 | 23.184,00 | 1.000,00 |
+| 118 | 81112307 | JACK CATEGORIA 6 | 1,00 | UN | 38.540,00 | 1.000,00 | 38.540,00 | 1.000,00 |
+| 119 | 81112307 | JACK RJ45 | 1,00 | UN | 16.827,00 | 1.000,00 | 16.827,00 | 1.000,00 |
+| 120 | 81112307 | FUENTE DE PODER 750 W (varias marcas) (350 WTS) | 1,00 | UN | 244.561,00 | 45.000,00 | 244.561,00 | 45.000,00 |
+| 121 | 81112307 | KIT RODILLO ARRASTRE PAPEL EPSON L210 L220 L300 L310 L350 L355 L365 L375 L380 L395 L455 L465 L475 L495 L555 L565 L575 entre otras marcas que hacen parte de los activos fijos | 1,00 | UN | 129.721,00 | 35.000,00 | 129.721,00 | 35.000,00 |
+| 122 | 81112307 | SWICHT DE 16 PUERTOS | 1,00 | UN | 384.351,00 | 65.000,00 | 384.351,00 | 65.000,00 |
+| 123 | 81112307 | CABLE UTP POR CAJA DE 300 MT | 1,00 | UN | 521.645,00 | 450.000,00 | 521.645,00 | 450.000,00 |
+| 124 | 81112307 | EQUIPO DE LECTURA DE CODIGO DE BARRAS | 1,00 | UN | 205.507,00 | 45.000,00 | 205.507,00 | 45.000,00 |
+| 125 | 81112307 | Mantenimiento Físico Preventivo para computador de escritorio, consistente en desensamble de la CPU, soplada interna de las partes, verificación de la instalación y ajuste de las partes, soplada del teclado y mouse, verificación del monitor, soplada del monitor. | 1,00 | S | 83.313,00 | 80.000,00 | 83.313,00 | 80.000,00 |
+| 126 | 81112307 | Mantenimiento Físico Preventivo para portátil, consistente en desensamble total del portátil, soplada interna de las partes, verificación de la instalación y ajuste de las partes, soplada del teclado, verificación de los conectores internos de la pantalla, restaurador de color a toda la carcasa. | 1,00 | S | 94.468,00 | 90.000,00 | 94.468,00 | 90.000,00 |
+| 127 | 81112307 | Mantenimiento Físico Correctivo para sistema operativo Windows XP,7, 8, consistente en reinstalación de los medios del software e instalación de actualizaciones libres de Microsoft para las diferentes versiones de Windows instaladas en los equipos, elaboración de backup de la información en medios externos y verificación de la copia de la información una vez termine el proceso. | 1,00 | S | 115.921,00 | 90.000,00 | 115.921,00 | 90.000,00 |
+| 128 | 81112307 | Aplicación de procedimientos específicos para la desinfección de los sistemas operativos, mediante herramientas de antivirus o tool | 1,00 | S | 63.465,00 | 10.000,00 | 63.465,00 | 10.000,00 |
+| 129 | 81112307 | Purga del sistema de Tintas continuas en Impresoras de Inyección pequeñas | 1,00 | S | 73.511,00 | 10.000,00 | 73.511,00 | 10.000,00 |
+| 130 | 81112307 | Mantenimiento preventivo Impresora de Inyección con Tanques de tinta continua Originales | 1,00 | S | 104.329,00 | 10.000,00 | 104.329,00 | 10.000,00 |
+| 131 | 81112307 | MANTENIMIENTO PREVENTIVO Software y Hardware de computadores todo en uno (todas las marcas aplica ) limpieza interna con el uso de turbina (soplador) consiste en Limpieza de contactos y lubricantes penetrantes limpieza externa con el uso de crema desengrasante y limpiadores a base de alcohol. Remoción de partículas de polvo y suciedades alojadas en las diferentes partes del pc, limpieza y prueba de periféricos (teclados, mouse, parlantes). Lubricación de ventiladores y chequeo de disco duro chekdsk. Verificación y diagnóstico de hardware que presenten mal funcionamiento. optimización del sistema operativo en el cual se incluye la eliminación de temporales. | 1,00 | S | 112.820,00 | 90.000,00 | 112.820,00 | 90.000,00 |
+| 132 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora Hewlet Packard | 1,00 | S | 158.283,33 | 120.000,00 | 158.283,33 | 120.000,00 |
+| 133 | 81112307 | MANTENIMIENTO PREVENTIVO Software y Hardware de computadores todo en uno, escritorio y portátil (todas las marcas aplica ) limpieza interna con el uso de turbina (soplador) consiste en Limpieza de contactos y lubricantes penetrantes limpieza externa con el uso de crema desengrasante y limpiadores a base de alcohol. Remoción de partículas de polvo y suciedades alojadas en las diferentes partes del pc, limpieza y prueba de periféricos (teclados, mouse, parlantes). Lubricación de ventiladores y chequeo de disco duro chekdsk. Verificación y diagnóstico de hardware que presenten mal funcionamiento. optimización del sistema operativo en el cual se incluye la eliminación de temporales. Incluye mantenimiento al monitor, teclado y mouse. | 1,00 | S | 120.812,50 | 90.000,00 | 120.812,50 | 90.000,00 |
+| 134 | 81112307 | Mantenimiento Fisico Correctivo de computadores todo en uno, escritorio y portátil (todas las marcas aplica ) para sistema operativo Windows XP,7, 8, 10 consistente en reinstalación de los medios del software e instalación de actualizaciones libres de Microsoft para las diferentes versiones de Windows instaladas en los equipos, elaboración de backup de la información en medios externos y verificación de la copia de la información una vez termine el proceso. | 1,00 | S | 128.188,00 | 9.000,00 | 128.188,00 | 9.000,00 |
+| 135 | 81112307 | Mantenimiento preventivo y aplicación de procedimientos específicos para la desinfección de los sistemas operativos, mediante herramientas de antivirus o tool. | 1,00 | S | 66.172,00 | 10.000,00 | 66.172,00 | 10.000,00 |
+| 136 | 81112307 | Mantenimiento preventivo y correctivo, limpieza, sopleteo, sincronización y actualización de software (firmware) de Impresora pequeña de las marcas HP, EPSON, CANON Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | S | 111.287,00 | 90.000,00 | 111.287,00 | 90.000,00 |
+| 137 | 81112307 | Mantenimiento preventivo Escáner COLOR AD280 AVISION | 1,00 | S | 127.586,00 | 20.000,00 | 127.586,00 | 20.000,00 |
+| 138 | 81112307 | Mantenimiento preventivo de equipo de computo consistente en actualización de software | 1,00 | S | 77.728,00 | 60.000,00 | 77.728,00 | 60.000,00 |
+| 139 | 81112307 | Mantenimiento preventivo y o correctivo, limpieza, sopleteo, sincronización y actualización de software (firmware) de impresora mediana de las marcas HP, EPSON, CANON Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | S | 157.384,00 | 90.000,00 | 157.384,00 | 90.000,00 |
+| 140 | 81112307 | Mantenimiento preventivo y o correctivo, limpieza, sopleteo, sincronización y actualización de software (firmware) de impresora grande de las marcas HP, EPSON, CANON Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | S | 168.301,00 | 90.000,00 | 168.301,00 | 90.000,00 |
+| 141 | 81112307 | Mantenimiento preventivo y o correctivo, limpieza, sopleteo, sincronización y actualización de software (firmware) impresora de Inyección con tanques de tinta continua Originales de las marcas HP, EPSON, CANON Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | S | 149.747,00 | 20.000,00 | 149.747,00 | 20.000,00 |
+| 142 | 81112307 | Mantenimiento preventivo y o correctivo, limpieza, sopleteo, sincronización y actualización de software (firmware) de scanner de las marcas HP, EPSON, CANON Laserjet, RICOH, lexmark, entre otras marcas que hacen parte de los activos fijos. | 1,00 | S | 149.747,00 | 20.000,00 | 149.747,00 | 20.000,00 |
+| 143 | 81112307 | Mantenimiento preventivo de Flyback de monitor consistente en limpieza general de plaquetas, disipadores de calor y verificación de fugas de tensión | 1,00 | S | 33.128,00 | 10.000,00 | 33.128,00 | 10.000,00 |
+| 144 | 81112307 | Mantenimiento preventivo de equipo de computo consistente en actualización red interna | 1,00 | S | 96.746,00 | 90.000,00 | 96.746,00 | 90.000,00 |
+| 145 | 81112307 | Mantenimiento Preventivo de teclado consistente en limpieza general de teclas, membranas y tarjeta de circuitos. | 1,00 | S | 29.781,00 | 10.000,00 | 29.781,00 | 10.000,00 |
+| 146 | 81112307 | Instalación de antivirus para equipos fuera de red | 1,00 | S | 134.305,00 | 10.000,00 | 134.305,00 | 10.000,00 |
+| 147 | 81112307 | Mantenimiento preventivo y correctivo limpieza y actualización de controladores, de impresora Hewlet Packard | 1,00 | S | 97.168,00 | 20.000,00 | 97.168,00 | 20.000,00 |
+| 148 | 81112307 | MANTENIMIENTO PREVENTIVO Y CORRECTIVO Sofware y Hadware de computores todo en uno (todas las marcas aplica ) limpieza interna con el uso de turbina (soplador) consiste en Limpieza de contactos y lubricantes penetrantes limpieza externa con el uso de crema desengrasante y limpiadores a base de alcohol. Remoción de partículas de polvo y suciedades alojadas en las diferentes partes del pc, limpieza y prueba de periféricos (teclados, mouse, parlantes). Lubricación de ventiladores y chequeo de disco duro chekdsk. Verificación y diagnostico de hardware que presenten mal funcionamiento. optimización del sistema operativo en el cual se incluye la eliminación de temporales. | 1,00 | S | 138.078,00 | 90.000,00 | 138.078,00 | 90.000,00 |
+| 149 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora LASER JET 600 M601 | 1,00 | S | 244.429,00 | 190.000,00 | 244.429,00 | 190.000,00 |
+| 150 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora , EPSON L555. | 1,00 | S | 117.810,00 | 110.000,00 | 117.810,00 | 110.000,00 |
+| 151 | 81112307 | Mantenimiento preventivo Tablet Capacidad 32 GB Conexión celular No Tamaño de la pantalla 8 pulgadas | 1,00 | S | 56.908,00 | 10.000,00 | 56.908,00 | 10.000,00 |
+| 152 | 81112307 | MANTENIMIENTO PREVENTIVO Monitor (todas las marcas, tipo y tamaño aplica) Limpieza interna y externa, limpieza de plaquetas y verificación de fugas de tención. | 1,00 | S | 52.959,00 | 10.000,00 | 52.959,00 | 10.000,00 |
+| 153 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora HP LaserJet Pro MFP M127fn | 1,00 | S | 137.417,00 | 10.000,00 | 137.417,00 | 10.000,00 |
+| 154 | 81112307 | Mantenimiento preventivo de impresora consistente en actualización de software ( firmware) HP LaserJet Pro MFP M127fn | 1,00 | S | 149.789,00 | 10.000,00 | 149.789,00 | 10.000,00 |
+| 155 | 81112307 | Mantenimiento Preventivo de impresoras HP LaserJet Pro MFP M127fn actualización de controladores configuración de comportamiento en la red, extracción de partículas de polvo. | 1,00 | S | 121.400,00 | 10.000,00 | 121.400,00 | 10.000,00 |
+| 156 | 81112307 | Mantenimiento Preventivo de impresoras IMPRESORA DIGITAL DEPARTAMENTAL A BLANCO Y NEGRO actualización de controladores configuración de comportamiento en la red, extracción de partículas de polvo. | 1,00 | S | 117.822,00 | 20.000,00 | 117.822,00 | 20.000,00 |
+| 157 | 81112307 | Mantenimiento preventivo Impresora Laser pequeña | 1,00 | S | 115.921,00 | 10.000,00 | 115.921,00 | 10.000,00 |
+| 158 | 81112307 | Mantenimiento preventivo Impresora Laser Mediana | 1,00 | S | 130.900,00 | 20.000,00 | 130.900,00 | 20.000,00 |
+| 159 | 81112307 | Mantenimiento preventivo Impresora Laser Grande | 1,00 | S | 303.799,00 | 170.000,00 | 303.799,00 | 170.000,00 |
+| 160 | 81112307 | Mantenimiento preventivo Impresora de Inyección con Tanques de tinta continua todas las marcas | 1,00 | S | 85.766,00 | 10.000,00 | 85.766,00 | 10.000,00 |
+| 161 | 81112307 | Mantenimiento preventivo, correctivo limpieza y actualizacion de controladores de scanner | 1,00 | S | 107.100,00 | 10.000,00 | 107.100,00 | 10.000,00 |
+| 162 | 81112307 | Mantenimiento preventivo, correctivo limpieza y actualizacion de controladores de computadores todo en uno, escritorio | 1,00 | S | 138.078,00 | 90.000,00 | 138.078,00 | 90.000,00 |
+| 163 | 81112307 | Mantenimiento Fisico Correctivo para sistema operativo Windows 10, consistente en reinstalación de los medios del software e instalación de actualizaciones libres de Microsoft para las diferentes versiones de Windows instaladas en los equipos, elaboración de backup de la información en medios externos y verificación de la copia de la información una vez termine el proceso. | 1,00 | S | 107.100,00 | 90.000,00 | 107.100,00 | 90.000,00 |
+| 134 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización fotocopiadora Ricoh Oficio 2015 | 1,00 | S | 336.680,00 | 80.000,00 | 336.680,00 | 80.000,00 |
+| 165 | 81112307 | Mantenimiento Fisico Preventivo para COMPUTADOR HP AIO 800 G5 AIO I7-9700 16GB 1TB, consistente en, soplada interna de las partes, verificación de la instalación y ajuste de las partes, soplada del teclado y mouse, verificación del monitor, soplada del monitor. | 1,00 | S | 109.593,00 | 90.000,00 | 109.593,00 | 90.000,00 |
+| 166 | 81112307 | Mantenimiento preventivo Impresora de tarjeta termica FARGO MOD Y00 1800 | 1,00 | S | 237.867,00 | 15.000,00 | 237.867,00 | 15.000,00 |
+| 167 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora IMPRESORA MULTIFUNCIONAL EPSON | 1,00 | S | 107.100,00 | 30.000,00 | 107.100,00 | 30.000,00 |
+| 168 | 81112307 | Mantenimiento preventivo y correctivo, limpieza y sincronización impresora IMPRESORA LASER MFP M681DH | 1,00 | S | 231.842,00 | 150.000,00 | 231.842,00 | 150.000,00 |
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION DE OFERTA ECONOMICA 048 MTTO Y REPUESTOS COMPUTO.pdf |  |
+|  | ANEXO 1 ACEPTACION DE OFERTA 048 MTTO Y REPUESTOS COMPUTO .pdf |  |

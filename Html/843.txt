@@ -1,0 +1,243 @@
+Title: Licitaciones - IMTTA - Contratación mínima cuantía MC 007 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685199067b6a23.64375206
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:40:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRAVENTA DE MOBILIARIO, MUEBLES Y EQUIPOS DE OFICINA PARA LAS DIFERENTES DEPENDENCIAS DEL INSTITUTO MUNICIPAL DE TRÁNSITO Y TRANSPORTE DE AGUACHICA, CESAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Aguachica
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101700 - Muebles de oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario, -Aire acondicionado", "licicodigos": "105,128,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 8 No 44-46 Aguachica Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56101700 | SUMINISTRO DE ELEMENTOS MOBILIARIOS PARA EL NORMAL FUNCIONAMIENTO DEL INSTITUTO MUNICIPAL DE TRANSITO Y TRANSPORTE DE AGUACHICA -CESAR. | Mínima cuantía | Recursos propios | $38.000.000 | GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:24 am
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:30 am
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 11:30 am
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 09:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 12:00 pm | 25/Ene/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 25/Jun/2025 - 12:00 pm | 25/Ene/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CONSORCIO ASIA | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,000,000
+
+**Informes proceso de selección CO1.AWD.2289962 de 26/Jun/2025 - 10:01 am. Valor $38.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 02:43 pm |  |
+| Informe de selección | 26/Jun/2025 - 10:01 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289962**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CONSORCIO ASIA * **Tipo documento:** * **Documento:** 0 | * **Nombre:** * **Tipo documento:** * **Documento:** 0 | Bogotá - | $38.000.000 |  |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289962****
+
+**Cuantía a la firma del contrato:**
+
+$ 38,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289962 | Informe de selección CO1.AWD.2289962 | 26/Jun/2025 - 10:01 am |  | - |
+| General | CO1.MSG.8076506 | Anexo Certificado REDAM | 24/Jun/2025 - 09:39 pm |  | - |
+| Avisos | CO1.MSG.8073214 | Publicación de la lista de ofertas del proceso MC 007 DE 2025. | 24/Jun/2025 - 02:45 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289962 | Informe de evaluación 1 CO1.AWD.2289962 | 24/Jun/2025 - 02:43 pm |  | - |
+| Avisos | CO1.MSG.8070618 | La lista de oferentes del proceso MC 007 DE 2025 publicada por IMTTA | 24/Jun/2025 - 09:27 am |  | - |
+| General | CO1.MSG.8060152 | RE: OBSERVACIONES FICHAS TECNICAS | 19/Jun/2025 - 04:13 pm |  | - |
+| Avisos | CO1.REQ.8425835 | Publicación modificación | 19/Jun/2025 - 04:03 pm |  |  |
+| Avisos | CO1.REQ.8425835 | Publicación modificación | 19/Jun/2025 - 07:31 am |  |  |

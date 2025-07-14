@@ -1,0 +1,271 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682293c201f3d9.47065806
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:33:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN, IMPLEMENTACION Y PUESTA EN FUNCIONAMIENTO DE UNA HERRAMIENTA DE PROTECCIÓN BASE DE DATOS PARA EL FORTALECIMIENTO DE LOS MEDIOS CIBERNETICOS DEL EJÉRCITO NACIONAL, A EJECUTAR VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red,43231500 - Software funcional específico de la empresa,43233201 - Software de servidor de autenticación,81111809 - Servicio de instalación de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 28 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+83 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,208,068,595
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200, 43222500 | ADQUISICIÓN DEL SISTEMA DE PROCESAMIENTO DE DATOS DE SEGURIDAD, CUYO FIN ES EL FORTALECIMIENTO DE LOS MEDIOS CIBERNÉTICOS DEL EJÉRCITO NACIONAL, A EJECUTAR EN LA VIGENCIA 2025 | Licitación pública | Presupuesto de entidad nacional | $2.208.068.595 | CENACTELEMATICA |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+12/May/2025 - 07:00 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+12/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 07:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/May/2025 - 07:26 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 07:25 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 08:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 08:00 pm
+
+**Audiencia de asignación de Riesgos:**
+
+10/Jun/2025 - 11:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+13/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 11:00 am
+
+**Apertura de Ofertas:**
+
+19/Jun/2025 - 11:01 am
+
+**Informe de presentación de Ofertas:**
+
+19/Jun/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 07:00 pm
+
+**Audiencia de Adjudicación:**
+
+08/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+08/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+11/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/Jul/2025 - 12:00 pm | 31/Mar/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 14/Jul/2025 - 12:00 pm | 30/Sep/2028 - 12:00 pm |
+| Calidad del servicio | 30,00 | 14/Jul/2025 - 12:00 pm | 30/Sep/2030 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 40,00 | 14/Jul/2025 - 12:00 pm | 30/Sep/2030 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,186,880,000
+
+**Informes proceso de selección CO1.AWD.2291610 de 08/Jul/2025 - 04:34 am. Valor $2.186.880.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Jun/2025 - 08:40 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:40 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:40 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 04:29 pm |  |
+| Informe de selección | 08/Jul/2025 - 04:34 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8134979 | RESOLUCION Y ACTA DE DE ADJUDICACION | 08/Jul/2025 - 04:43 pm |  | - |
+| Reporte final | CO1.AWD.2291610 | Informe de selección CO1.AWD.2291610 | 08/Jul/2025 - 04:34 pm |  | - |
+| General | CO1.MSG.8132655 | RESPUESTA A VEEDURIA | 08/Jul/2025 - 09:06 am |  | - |
+| General | CO1.MSG.8132493 | PODER AUDIENCIA DE ADJUDICACIÓN | 08/Jul/2025 - 08:48 am |  | - |
+| General | CO1.MSG.8129118 | FORMULARIO PREGUNTAS Y RESPUESTAS | 07/Jul/2025 - 03:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291610 | Informe de evaluación 2 CO1.AWD.2291610 | 04/Jul/2025 - 04:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291610 | Informe de evaluación 1 CO1.AWD.2291610 | 25/Jun/2025 - 08:40 pm |  | - |
+| Avisos | CO1.MSG.8064872 | Publicación de la lista de ofertas del proceso LP-046-CENACTELEMATICA-2025 (Presentación de oferta). | 20/Jun/2025 - 11:56 am |  | - |
+| Avisos | CO1.MSG.8057789 | La lista de oferentes del proceso LP-046-CENACTELEMATICA-2025 (Presentación de oferta) publicada por CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA | 19/Jun/2025 - 11:28 am |  | - |
+| General | CO1.MSG.8032482 | FORMULARIO DE PREGUNTAS Y REPUESTAS N 002 | 13/Jun/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8032470 | FORMULARIO DE PREGUNTAS Y RESPUESTAS N 002 | 13/Jun/2025 - 05:52 pm |  | - |
+| General | CO1.MSG.8011470 | AUDIENCIA ASIGNACION DE RIESGOS | 10/Jun/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.8011354 | OBSERVACIONES PCD LP-046-CENACTELEMATICA-2025 | 10/Jun/2025 - 06:25 pm |  | - |
+| Aclaraciones | CO1.MSG.8011276 | OBSERVACIONES PUNTUALES NEVITECH | 10/Jun/2025 - 06:16 pm |  | - |
+| Aclaraciones | CO1.MSG.8011197 | Observaciones proceso LP-046-CENACTELEMATICA-2025 | 10/Jun/2025 - 06:09 pm |  | - |
+| Aclaraciones | CO1.MSG.8009970 | Recursos Humanos - Lider o Gerente de Proyecto | 10/Jun/2025 - 04:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8009869 | CONSORCIO SUCURSALES EXTRANJERAS DE LA MISMA EMPRESA | 10/Jun/2025 - 04:18 pm |  | - |
+| Aclaraciones | CO1.MSG.8006753 | RE: link audiencia | 10/Jun/2025 - 10:29 am |  | - |
+| Aclaraciones | CO1.MSG.8006691 | LINK AUDIENCIA DE ASIGNACION DE RIESGOS | 10/Jun/2025 - 10:27 am |  | - |
+| Aclaraciones | CO1.MSG.8004673 | link audiencia | 09/Jun/2025 - 08:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7940234 | OBSERVACIONES LP-046-CENACTELEMATICA-2025 | 26/May/2025 - 06:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7940117 | Observaciones DTS | 26/May/2025 - 06:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7940033 | 2. Observaciones prepliego UNE | 26/May/2025 - 06:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7939908 | OBSERVACIONES PRELIMINARES CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA - INDAGACIONES | 26/May/2025 - 06:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7939853 | Observaciones proyecto pliego de condiciones LP 046 CENAC TELEMATICA 2025 | 26/May/2025 - 06:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7938832 | 1. Observaciones prepliego | 26/May/2025 - 04:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7882767 | OBSERVACIONES COLOMBIA TELECOMUNICACIONES - CENAC 2025 | 14/May/2025 - 04:02 pm |  | - |

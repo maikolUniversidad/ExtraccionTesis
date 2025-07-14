@@ -1,0 +1,204 @@
+Title: Licitaciones - CONTRALORIA DEPARTAMENTAL DEL HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68192176ef5992.21706272
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 14:22:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO INTEGRAL (CORRECTIVO Y PREVENTIVO) A LOS ACTIVOS INFORMÁTICOS QUE POSEE LA CONTRALORÍA DEPARTAMENTAL DEL HUILA (SERVIDORES, ESTACIONES DE TRABAJO, COMPUTADORES, IMPRESORAS, FOTOCOPIADORAS, ESCÁNERES Y OTROS) INCLUYENDO MANO DE OBRA Y REPUESTOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador
+
+**Códigos adicionales UNSPSC:**
+
+81112305 - Mantenimiento de servidores x86,81112306 - Mantenimiento de impresoras,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 4 CALLE 8 ESQUINA PISO 5 Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+222 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111812, 81112305, 81112306, 81112307 | Prestacion del servicio de Mantenimiento correctivo y preventivo a los activos infromaticos que posee la Contraloria Departamental del Huila (Servidores, estaciones de trabajo, computadores, impresoras, fotocpiadorasm escaneres y otros) incluyendo mano de obra y repuestos. | Mínima cuantía | Recursos propios | $8.000.000 | OFICINA ADMINISTRATIVA Y FINANCIERA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 03:33 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+07/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+07/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+08/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+08/May/2025 - 05:03 pm
+
+**Informe de presentación de ofertas:**
+
+08/May/2025 - 05:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 14/May/2025 - 07:00 pm | 29/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 14/May/2025 - 07:00 pm | 29/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 14/May/2025 - 07:00 pm | 29/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 14/May/2025 - 07:00 pm | 29/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7859806 | Publicación acto administrativo conforma comité evaluador | 09/May/2025 - 12:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247541 | Informe de evaluación 1 CO1.AWD.2247541 | 09/May/2025 - 12:56 pm |  | - |
+| Avisos | CO1.MSG.7855654 | La lista de oferentes del proceso IP-012-2025 publicada por CONTRALORIA DEPARTAMENTAL DEL HUILA | 08/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7843406 | Publicación Aviso de NO limitación a Mipymes IP 012 2025 | 07/May/2025 - 07:35 am |  | - |

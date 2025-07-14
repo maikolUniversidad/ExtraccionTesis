@@ -1,0 +1,296 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684cd904859629.78136388
+
+Markdown Content:
+Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD - Licitación PROCESO SDM-LP-85-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 10:29:30
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Licitación
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+PRESTAR LOS SERVICIOS DE GESTIÓN, ADMINISTRACIÓN Y OPERACIÓN DE LA PLATAFORMA TECNOLÓGICA DE LA INFORMACIÓN Y LAS COMUNICACIONES DE LA SECRETARÍA DISTRITAL DE MOVILIDAD INCLUYENDO LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO SOPORTE TECNICO Y ATENCION DE REQUERIMIENTOS DE USUARIO
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+43222600 - Equipo de servicio de red,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,81161500 - Servicios de administración de acceso,81161700 - Servicios de telecomunicaciones
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Cl 13 No 37-35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Chile, Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Costa Rica
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+27 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 31,320,949,107
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43222600, 81111800, 81111900, 81112000, 81112200, 81112300, 81161500, 81161700 | SGC-210 PRESTAR LOS SERVICIOS DE GESTION ADMINISTRACION Y OPERACION DE LA PLATAFORMA TECNOLOGICA DE LA INFORMACION Y LAS COMUNICACIONES DE LA SECRETARIA DISTRITAL DE MOVILIDAD INCLUYENDO LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO SOPORTE TECNICO Y ATENCION DE REQUERIMIENTOS DE USUARIO(17) | Licitación pública | Recursos propios | $25.980.345.107 | DIRECCION DE CONTRATACION |
+| 43222500, 43222600, 81111800, 81111900, 81112000, 81112200, 81112300, 81161500, 81161700 | SGM-624 PRESTAR LOS SERVICIOS DE GESTION ADMINISTRACION Y OPERACION DE LA PLATAFORMA TECNOLOGICA DE LA INFORMACION Y LAS COMUNICACIONES DE LA SECRETARIA DISTRITAL DE MOVILIDAD INCLUYENDO LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO SOPORTE TECNICO Y ATENCION DE REQUERIMIENTOS DE USUARIO(14) | Licitación pública | Recursos propios | $4.992.604.000 | DIRECCION DE CONTRATACION |
+| 43222500, 43222600, 81111800, 81111900, 81112000, 81112200, 81112300, 81161500, 81161700 | SSC-927 PRESTAR LOS SERVICIOS DE GESTION ADMINISTRACION Y OPERACION DE LA PLATAFORMA TECNOLOGICA DE LA INFORMACION Y LAS COMUNICACIONES DE LA SECRETARIA DISTRITAL DE MOVILIDAD INCLUYENDO LOS SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO SOPORTE TECNICO Y ATENCION DE REQUERIMIENTOS DE USUARIO(17) | Licitación pública | Recursos propios | $348.000.000 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/Jun/2025 - 08:38 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+15/Jul/2025 - 11:50 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+15/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/Jul/2025 - 11:59 pm
+
+**Audiencia de asignación de Riesgos:**
+
+18/Jul/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+22/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/Jul/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+01/Ago/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+01/Ago/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+01/Ago/2025 - 11:59 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+11/Ago/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Ago/2025 - 11:59 pm
+
+**Audiencia de Adjudicación:**
+
+01/Sep/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+01/Sep/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+08/Sep/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Sep/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/Sep/2025 - 11:59 pm | 08/Dic/2028 - 12:01 am |
+| Pago de salarios | 10,00 | 08/Sep/2025 - 11:59 pm | 08/Dic/2030 - 11:59 pm |
+| Calidad del servicio | 20,00 | 08/Sep/2025 - 11:59 pm | 08/Dic/2028 - 12:01 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 08/Sep/2025 - 11:59 pm | 08/Dic/2028 - 12:01 am |
+| PÓLIZA TODO RIESGO (que ampare los daños y pérdidas ocasionados a los equipos que disponga el contratista para la ejecución del contrato, y que permanecerán en las sedes de la SDM) | 100,00 | 08/Sep/2025 - 11:59 pm | 08/Dic/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8104233 | Observaciones Preliminares SDM Help Desk | 01/Jul/2025 - 11:47 pm |  | - |
+| Aclaraciones | CO1.MSG.8104193 | OBSERVACIONES PROCESO No. SDM-LP-85-2025 | 01/Jul/2025 - 11:16 pm |  | - |
+| Aclaraciones | CO1.MSG.8104194 | obs experiencia | 01/Jul/2025 - 11:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8104187 | obs tecnica 2 | 01/Jul/2025 - 11:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8104185 | obs tecnicas 1 | 01/Jul/2025 - 11:09 pm |  | - |
+| Aclaraciones | CO1.MSG.8104172 | Observaciones al proyecto pliego de condiciones | 01/Jul/2025 - 11:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8104129 | Observaciones al Pliego Definitivo II | 01/Jul/2025 - 10:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8104117 | Obs. Pre Pliego SDM-LP-85-2025 | 01/Jul/2025 - 10:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8103924 | Observaciones Grow Data SAS | 01/Jul/2025 - 09:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8103868 | Observaciones pliego de condiciones borrador | 01/Jul/2025 - 08:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8103811 | Observaciones SDM-LP-85-2025 | 01/Jul/2025 - 08:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8103771 | Observaciones Prepliego | 01/Jul/2025 - 08:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8103135 | Observaciones_ | 01/Jul/2025 - 05:58 pm |  | - |
+| Aclaraciones | CO1.MSG.8102931 | OBSERVACIONES AL PROCESO | 01/Jul/2025 - 05:35 pm |  | - |
+| Aclaraciones | CO1.MSG.8102839 | Observaciones Selcomp Ingeniería SAS | 01/Jul/2025 - 05:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8101993 | Observaciones al Pliego Definitivo | 01/Jul/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8101957 | OBSERVACIONES PRE PLIEGOS - PROCESO SDM-LP-85-2025 | 01/Jul/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8101774 | observaciones SDM | 01/Jul/2025 - 04:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8101662 | Observaciones | 01/Jul/2025 - 03:55 pm |  | - |
+| Aclaraciones | CO1.MSG.8100320 | OBSERRVACIONES COLSOF SAS | 01/Jul/2025 - 01:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8099196 | SECRETARIA DISTRITAL DE MOVILIDAD LICITACION No. SDM-LP-85-2025_OBSERVACIONES1 | 01/Jul/2025 - 10:42 am |  | - |
+| Aclaraciones | CO1.MSG.8084890 | OBSERVACIONES PREPLIEGOS | 26/Jun/2025 - 09:26 am |  | - |
+| Aclaraciones | CO1.MSG.8079095 | Solicitud de ajuste en el umbral de usuarios atendidos en los estudios previos del proceso de contratación en curso | 25/Jun/2025 - 11:45 am |  | - |
+| Aclaraciones | CO1.MSG.8051926 | OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 18/Jun/2025 - 02:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8051799 | Solicitud de aclaraciones - Licitación Pública No. SDM-LP-85-2025 1 | 18/Jun/2025 - 02:47 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:30 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

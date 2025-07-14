@@ -1,0 +1,314 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d0b86c17938.97919735
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 08:18:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE CONSUMIBLES DE IMPRESION TONER TINTAS Y CARTUCHOS ORIGINALES PARA LA DIRECCION REGIONAL NOROCCIDENTE DEL INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+47121700 - Envases y accesorios para residuos
+
+**Códigos adicionales UNSPSC:**
+
+24101500 - Camiones industriales,44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 Nro. 80 – 325 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 06:05 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 40,00 | 03/Jun/2025 - 04:00 pm | 02/Ago/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 40,00 | 03/Jun/2025 - 04:00 pm | 02/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC PRONTO SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 59,976,000
+
+**Informes proceso de selección CO1.AWD.2264464 de 30/May/2025 - 09:21 am. Valor $59.976.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 03:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 03:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 03:51 pm |  |
+| Informe de selección | 30/May/2025 - 09:21 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264464**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC PRONTO S.A.S. * **Tipo documento:** NIT * **Documento:** 830089925 | * **Nombre:** EINAR RENGIFO OME * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 12197521 | - Distrito Capital de Bogotá | $59.976.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264464****
+
+**Contrato 0023-DRNO-2025 de PC PRONTO S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+0023-DRNO-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE CONSUMIBLES DE IMPRESION TONER TINTAS Y CARTUCHOS ORIGINALES PARA LA DIRECCION REGIONAL NOROCCIDENTE DEL INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44103100 | Tóner Referencia: CF410X, para uso en impresora HP Color LaserJet Pro M452dw | 1,00 | UN | 1.238.580,36 | 928.200,00 | 1.238.580,36 | 928.200,00 |
+| 2 | 44103100 | Tóner Referencia: 45460512, para uso en impresora OKI DATA MPS5501B | 1,00 | UN | 1.529.010,97 | 297.500,00 | 1.529.010,97 | 297.500,00 |
+| 3 | 44103100 | Tóner referencia W151OX, para impresora HP LaserJet Pro M4003dw | 42,00 | UN | 1.680.994,60 | 1.213.800,00 | 47.067.848,80 | 50.979.600,00 |
+| 4 | 44103100 | Tóner referencia 418477, Original Black Tóner Cartridge Ricoh IM-600, para impresora RICOH P801 | 4,00 | UN | 662.063,24 | 357.000,00 | 1.324.126,48 | 1.428.000,00 |
+| 5 | 44103100 | Tóner referencia TK-3402, para impresora Kyocera ECOSYS MA4500ifx | 4,00 | UN | 551.923,59 | 428.400,00 | 1.103.847,18 | 1.713.600,00 |
+| 6 | 44103100 | Tóner referencia TK-5242K, de color negro microfino con capacidad para 4.000 páginas A4 acorde con ISO/IEC 19798, para impresora Kyocera ECOSYS M5526cdw | 5,00 | UN | 602.215,96 | 297.500,00 | 1.806.647,88 | 1.487.500,00 |
+| 7 | 44103100 | Tóner referencia TK-5242C, de color cian microfino con capacidad para 3.000 páginas A4 acorde con ISO/IEC 19798, para impresora Kyocera ECOSYS M5526cdw | 4,00 | UN | 626.160,75 | 261.800,00 | 1.878.482,25 | 1.047.200,00 |
+| 8 | 44103100 | Tóner referencia TK-5242M, de color magenta microfino con capacidad para 3.000 páginas A4 acorde con ISO/IEC 19798, para impresora Kyocera ECOSYS M5526cdw | 4,00 | UN | 626.160,75 | 261.800,00 | 1.878.482,25 | 1.047.200,00 |
+| 9 | 44103100 | Tóner referencia TK-5242Y, de color amarillo microfino con capacidad para 3.000 páginas A4 acorde con ISO/IEC 19798, para impresora Kyocera ECOSYS M5526cdw | 4,00 | UN | 626.160,75 | 261.800,00 | 1.878.482,25 | 1.047.200,00 |
+
+**Fecha inicio del contrato:**
+
+09/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+04/Ago/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+60 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 59,976,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264464 | Informe de selección CO1.AWD.2264464 | 30/May/2025 - 09:21 am |  | - |
+| Objeciones | CO1.MSG.7950789 | [Respondido] RE:observacion al informe | 30/May/2025 - 09:21 am |  | - |
+| Reporte preliminar | CO1.AWD.2267206 | Informe de evaluación 1 CO1.AWD.2267206 | 30/May/2025 - 09:15 am |  | - |
+| General | CO1.MSG.7959684 | OFICIO AJUSTE MONTO AGOTABLE | 29/May/2025 - 02:43 pm |  | - |
+| Objeciones | CO1.MSG.7950789 | observacion al informe | 28/May/2025 - 11:55 am |  | - |
+| Reporte preliminar | CO1.AWD.2264464 | Informe de evaluación 1 CO1.AWD.2264464 | 27/May/2025 - 03:51 pm |  | - |
+| General | CO1.MSG.7944697 | RESPUESTA A CONTESTACIÓN DE REQUERIMIENTO PRECIO ARTIFICIALMENTE BAJO | 27/May/2025 - 02:42 pm |  | - |
+| General | CO1.MSG.7938156 | REQUERIMIENTO PRECIO ARTIFICIALMENTE BAJO OFERENTE PC PRONTO SAS | 26/May/2025 - 03:53 pm |  | - |
+| General | CO1.MSG.7934755 | RE: SOLICITUD DE ELIMINACION DE CONFIDENCIALIDAD OFERTA DE APROVISIONAR SOLUCIONES SAS | 26/May/2025 - 09:22 am |  | - |
+| Avisos | CO1.MSG.7934361 | Publicación de la lista de ofertas del proceso MIC-0023-DRNO-2025. | 26/May/2025 - 08:28 am |  | - |
+| Avisos | CO1.MSG.7934355 | La lista de oferentes del proceso MIC-0023-DRNO-2025 publicada por INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES | 26/May/2025 - 08:27 am |  | - |
+| General | CO1.MSG.7927800 | AVISO LIMITACIÓN MIPYMES NACIONAL | 23/May/2025 - 10:03 am |  | - |
+| Aclaraciones | CO1.MSG.7924782 | OBSERVACION AL PROCESO | 22/May/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7924095 | RE: OBSERVACION HP COLOMBIA | 22/May/2025 - 04:01 pm |  | - |
+| General | CO1.MSG.7915776 | RE: OBSERVACION | 21/May/2025 - 01:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7913426 | OBSERVACION HP COLOMBIA | 21/May/2025 - 09:26 am |  | - |

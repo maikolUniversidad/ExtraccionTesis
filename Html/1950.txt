@@ -1,0 +1,90 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849e8c9d3c629.82603045
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 15:37:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+EL MINISTERIO DE DEFENSA NACIONAL - COMANDO GENERAL DE LAS FUERZAS MILITARES - DIRECCION ADMINISTRATIVA Y FINANCIERA requiere contratar el acceso y actualización de la herramienta analítica de medición y escucha de las Fuerzas Militares, de acuerdo con las especificaciones técnicas del ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112205 - Mantenimiento de software de sistemas de gestión de bases de datos
+
+**Códigos adicionales UNSPSC:**
+
+81112222 - Mantenimiento de software de gestión mantenimiento y operación de las instalaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 03:30 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/Jun/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+17/Jun/2025 - 03:00 pm

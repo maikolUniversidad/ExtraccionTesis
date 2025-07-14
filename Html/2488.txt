@@ -1,0 +1,103 @@
+Title: Licitaciones - MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e94859a9464.57842067
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 09:19:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de Hardware y componentes tecnológicos para la actualización de la infraestructura tecnológica del Datacenter del MSPS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores,43222600 - Equipo de servicio de red,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "104,105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 09:55 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+04/Jun/2025 - 05:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8301240 | Publicación modificación | 29/May/2025 - 01:25 pm |  |  |
+| General | CO1.MSG.7959073 | RE: Observaciones Estudio de Mercados - Actualización Infraestructura Datacenter | 29/May/2025 - 01:15 pm |  | - |
+| General | CO1.MSG.7959059 | RE: RE: RE: Observaciones | 29/May/2025 - 01:14 pm |  | - |
+| General | CO1.MSG.7954329 | RE: Observaciones | 28/May/2025 - 05:19 pm |  | - |

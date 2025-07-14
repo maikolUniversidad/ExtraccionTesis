@@ -1,0 +1,88 @@
+Title: Licitaciones - FONDECUN - Solicitud de información a los Proveedores (SECOPII) SAF-COT-2025-0005
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68264ffd8f4e35.77239725
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:51:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DEL FIREWALL DE SEGURIDAD DEL FONDO DE DESARROLLO DE PROYECTOS DE CUNDINAMARCA - FONDECÚN.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av. carrera 10 # 28-49 Torre A Piso 21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:26 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7918065 | RE: NUMERO DE PARTE DE LA LICENCIA | 21/May/2025 - 05:11 pm |  | - |

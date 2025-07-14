@@ -1,0 +1,100 @@
+Title: Licitaciones - BASPC Nº 19 *
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827a95b356ab3.27781141
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 16:53:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUSICION DE LIBROS, COMPUTADORES CON SUS LICENCIAS Y MEDIOS AUDIOVISUALES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111807 - Libros comerciales para múltiples usos
+
+**Códigos adicionales UNSPSC:**
+
+52161500 - Equipos audiovisuales,43211507 - Computadores de escritorio,43233004 - Software de sistema operativo,43212105 - Impresoras láser
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Material didáctico y libros", "licicodigos": "103,104,105,134" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CLL 80 Nº 38 - 00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 03:41 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 02:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 05:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8275000 | Publicación modificación | 21/May/2025 - 10:56 am |  |  |

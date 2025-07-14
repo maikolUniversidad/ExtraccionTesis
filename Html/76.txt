@@ -1,0 +1,324 @@
+Title: Licitaciones - Rama Judicial – Dirección Seccional de Administración Judicial de Cartagena
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c1587b81c37.30712267
+
+Markdown Content:
+Licitaciones - Rama Judicial – Dirección Seccional de Administración Judicial de Cartagena - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC 01 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 13:11:49
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Terminado anormalmente o descartado
+
+**Objeto:**
+Contratar en nombre de la Nación - Consejo Superior de la Judicatura - Dirección Seccional de Administración Judicial de Cartagena, el servicio de mantenimiento integral preventivo y correctivo en los muebles, equipos e inmuebles (incluye insumos, repuestos, piezas, accesorios, mano de obra) de las diferentes dependencias y despachos judiciales de Cartagena, municipios de Bolívar y Archipiélago de San Andrés y Providencia
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+San Andrés, Providencia y Santa Catalina ; Bolívar: Cartagena de Indias
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+72121103 - Servicios de renovación y reparación de edificios comerciales y de oficinas
+
+**Códigos adicionales UNSPSC:**
+72101507 - Servicio de mantenimiento de edificios,81101701 - Servicios de ingeniería eléctrica,26101504 - Motores diesel,26111600 - Generadores de potencia,72101500 - Servicios de apoyo para la construcción,72102900 - Servicios de mantenimiento y reparación de instalaciones,72151300 - Servicios de pintura e instalación de papel de colgadura,72151500 - Servicios de sistemas eléctricos,72151600 - Servicios de sistemas especializados de comunicación,72151700 - Servicios de instalación de sistemas de seguridad física e industrial,72151900 - Servicios de albañilería y mampostería,72152000 - Servicios de pañetado y drywall,72152300 - Servicios de carpintería,72152500 - Servicios de instalación de pisos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Construcción, mantenimiento y reforzamiento de edificaciones, -Redes de transmisión de datos (Cableado estructurado), -Instalaciones eléctricas", "licicodigos": "52,99,241" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+municipio de Santa Rosa del Norte -Bolívar, dirección Calle 18a Calle San Antonio No. 25-15 Santa Rosa Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) ANTIGUO TELECARTAGENA | Selección abreviada menor cuantía | Recursos propios | $873.688.200 | AREA ADMINISTRATIVA |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) CUARTEL DEL FIJO | Selección abreviada menor cuantía | Recursos propios | $953.444.342 | AREA ADMINISTRATIVA |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) EDIFICIO ALMIRANTE | Selección abreviada menor cuantía | Recursos propios | $345.249.276 | AREA ADMINISTRATIVA |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) EDIFICIO KALAMARY | Selección abreviada menor cuantía | Recursos propios | $674.385.889 | AREA ADMINISTRATIVA |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) EDIFICIO NACIONAL | Selección abreviada menor cuantía | Recursos propios | $935.242.126 | AREA ADMINISTRATIVA |
+| 72121103, 72101507, 81101701, 26101504, 26111600, 72101500, 72102900, 72151300, 72151500, 72151600, 72151700, 72151900, 72152000, 72152300, 72152500, 30102006, 30152001 | MEJORAMIENTO Y MANTENIMIENTO GENERAL DE LA EDIFICACIÓN (INCLUYE SISTEMA ARQUITECTÓNICO, SISTEMA ESTRUCTURAL, SISTEMA REDES SECAS, INSTALACIONES HIDRÁULICAS, REDES DE DESAGÜE, REDES DE PROTECCIÓN CONTRA INCENDIOS) PALACIO DE JUSTICIA | Selección abreviada menor cuantía | Recursos propios | $425.029.258 | AREA ADMINISTRATIVA |
+| 72151511, 72101507, 72101511, 72151500, 72152300, 72151900 | SERVICIO DE MANTENIMIENTO INTEGRAL PREVENTIVO Y CORRECTIVO EN LOS MUEBLES, INMUEBLES Y A LOS EQUIPOS ACONDICIONADORES DE AIRE (CON MANO DE OBRA E INSTALACIÓN DE LOS MATERIALES) POR PRECIOS UNITARIOS FIJOS, DE REPARACIONES LOCATIVAS MENORES EN LOS SISTEMAS ELÉCTRICOS, HIDROSANITARIOS - PLOMERÍAS, CERRAJERÍA Y EQUIPOS DE OFICINA, MANTENIMIENTOS EN GENERAL QUE INCLUYEN PINTURA Y RELACIONADOS, ARREGLO DE PUERTAS, DIVISIONES, TECHOS, ENTRE OTROS, EN LAS DIFERENTES SEDES MUNICIPALES DE BOLÍVAR Y DE LAS DEPENDENCIAS Y DESPACHOS JUDICIALES DE CARTAGENA, ADSCRITOS A LA DIRECCIÓN SECCIONAL DE ADMINISTRACIÓN JUDICIAL DE CARTAGENA | Selección abreviada menor cuantía | Recursos propios | $2.000.000.000 | AREA ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Abr/2025 - 05:57 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/May/2025 - 04:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo para manifestación de Interés:**
+
+12/May/2025 - 05:00 pm
+
+**Realización del sorteo:**
+
+13/May/2025 - 02:00 pm
+
+**Publicación de la lista de precalificados:**
+
+13/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés:**
+
+13/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+15/May/2025 - 02:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 02:59 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 03:00 pm
+
+**Apertura de Ofertas:**
+
+16/May/2025 - 03:02 pm
+
+**Informe de presentación de Ofertas:**
+
+16/May/2025 - 03:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+04/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+05/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jun/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 02/Jun/2025 - 08:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 02/Jun/2025 - 05:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 02/Jun/2025 - 08:00 am | 30/Jun/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+(18/Jun/2025 - 05:50 am:35 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal Rama Judicial – Dirección Seccional de Administración Judicial de Cartagena en 23 días de tiempo transcurrido (18/Jun/2025 - 05:50 am:35 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se declaró desierto según Resolución No. DESAJCAR25-2608 30 de mayo de 2025
+
+**Fecha de la cancelación:**
+18/Jun/2025 - 05:50 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7966718 | RESOLUCION No. DESAJCAR25-2608 30 de mayo de 2025 - DECLARATORIA DE DESIERTA | 30/May/2025 - 03:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2258739 | Informe de evaluación 2 CO1.AWD.2258739 | 30/May/2025 - 03:07 pm |  | - |
+| Objeciones | CO1.MSG.7937733 | [Respondido] RE:OBSERVACIÓN INFORME | 30/May/2025 - 02:54 pm |  | - |
+| Objeciones | CO1.MSG.7930744 | [Respondido] RE:OBSERVACION AL INFORME DE EVALUACION | 30/May/2025 - 02:51 pm |  | - |
+| Avisos | CO1.REQ.8260823 | Publicación modificación | 29/May/2025 - 03:17 pm |  |  |
+| Avisos | CO1.REQ.8260823 | Publicación modificación | 27/May/2025 - 04:48 pm |  |  |
+| General | CO1.MSG.7938481 | SUBSANACION PROCESO EN MENCION | 26/May/2025 - 04:41 pm |  | - |
+| General | CO1.MSG.7938440 | SUBSANACIÓN K RESIDUAL | 26/May/2025 - 04:16 pm |  | - |
+| General | CO1.MSG.7938329 | SUBSANACION ALFA 1A | 26/May/2025 - 04:10 pm |  | - |
+| Objeciones | CO1.MSG.7937733 | OBSERVACIÓN INFORME | 26/May/2025 - 03:12 pm |  | - |
+| Objeciones | CO1.MSG.7930744 | OBSERVACION AL INFORME DE EVALUACION | 23/May/2025 - 03:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2258739 | Informe de evaluación 1 CO1.AWD.2258739 | 21/May/2025 - 07:49 pm |  | - |
+| Avisos | CO1.REQ.8260823 | Publicación modificación | 20/May/2025 - 11:00 am |  |  |
+| Avisos | CO1.MSG.7895270 | Publicación de la lista de ofertas del proceso SAMC 01 DE 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 16/May/2025 - 03:13 pm |  | - |
+| Avisos | CO1.MSG.7895250 | La lista de oferentes del proceso SAMC 01 DE 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por Rama Judicial – Dirección Seccional de Administración Judicial de Cartagena | 16/May/2025 - 03:11 pm |  | - |
+| General | CO1.MSG.7891426 | RE: Solicitud de aclaraciones FORMATO 6A OFRECIMIENTO FACTORES DE CALIDAD | 15/May/2025 - 08:05 pm |  | - |
+| Avisos | CO1.REQ.8260823 | Publicación modificación | 15/May/2025 - 07:44 am |  |  |
+| Aclaraciones | CO1.MSG.7883803 | RE: PORCENTAJES AIU | 14/May/2025 - 06:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7882209 | PORCENTAJES AIU | 14/May/2025 - 03:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7870193 | Observación a los pliegos de condiciones | 12/May/2025 - 06:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7864884 | OBSERVACION AL PLIEGO DE CONDICIONES | 12/May/2025 - 09:28 am |  | - |
+| Aclaraciones | CO1.MSG.7855731 | RE: OBSERVACION FACTOR PONDERABLE | 08/May/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7855713 | RE: OBSERVACION AL PROYECTO DE PLIEGO DE CONDICIONES | 08/May/2025 - 05:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7834074 | OBSERVACION AL PROYECTO DE PLIEGO DE CONDICIONES | 05/May/2025 - 03:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7832439 | OBSERVACION FACTOR PONDERABLE | 05/May/2025 - 12:07 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:39 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

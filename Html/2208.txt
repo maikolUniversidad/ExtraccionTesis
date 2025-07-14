@@ -1,0 +1,94 @@
+Title: Licitaciones - ANM - Solicitud de información a los Proveedores (SECOPII) SIP-038-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a5367c83143.68802367
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de elementos para mantenimiento y adecuación de infraestructura tecnológica y de telecomunicaciones
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121600 - Cables eléctricos y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+27113200 - Juegos de herramientas,39131700 - Conductos eléctricos, electroductos y cables aéreos,41113600 - Equipo de medición y comprobación eléctrica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Materiales para redes de comunicación", "licicodigos": "106,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+45 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 09:46 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/Abr/2025 - 05:00 pm

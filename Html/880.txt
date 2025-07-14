@@ -1,0 +1,260 @@
+Title: Licitaciones - INSTITUTO DEPARTAMENTAL DE DEPORTES DE ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cf0eb58fee9.71378671
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 06:28:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro y servicio de mantenimiento de equipos de impresión, escáneres y/o multimedia de INDEPORTES ANTIOQUIA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101707 - Mantenimiento de equipos de impresión
+
+**Códigos adicionales UNSPSC:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora,44103125 - Kit de mantenimiento de impresoras,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 48 70 180 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+201 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103125, 81101707, 44103100, 43212100 | ITEM 478: SUMINISTRO Y SERVICIO DE MANTENIMIENTO DE EQUIPOS DE IMPRESIÓN, ESCÁNERES Y/O MULTIMEDIA DE INDEPORTES ANTIOQUIA | Mínima cuantía | Recursos propios | $35.000.000 | GERENCIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 03:11 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+29/May/2025 - 11:00 am
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 11:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+10/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 10/Jun/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 10/Jun/2025 - 11:59 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 10/Jun/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 10/Jun/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** 24 H SERVICES | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 35,000,000
+
+**Informes proceso de selección CO1.AWD.2271066 de 09/Jun/2025 - 06:22 am. Valor $35.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 06:02 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:02 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:02 pm |  |
+| Informe de selección | 09/Jun/2025 - 06:22 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271066**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** 24 H SERVICES S.A.S * **Tipo documento:** NIT * **Documento:** 901105552 | * **Nombre:** BIBIANA PATRICIA CORREA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 44006118 | Medellín - Antioquia | $35.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271066****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7964256
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 35,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271066 | Informe de selección CO1.AWD.2271066 | 09/Jun/2025 - 06:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271066 | Informe de evaluación 1 CO1.AWD.2271066 | 03/Jun/2025 - 06:02 pm |  | - |
+| Avisos | CO1.MSG.7958074 | Publicación de la lista de ofertas del proceso MC 005 DE 2025. | 29/May/2025 - 11:09 am |  | - |
+| Avisos | CO1.MSG.7958067 | La lista de oferentes del proceso MC 005 DE 2025 publicada por INSTITUTO DEPARTAMENTAL DE DEPORTES DE ANTIOQUIA | 29/May/2025 - 11:08 am |  | - |
+| General | CO1.MSG.7936959 | LIMITACION A MIPYME | 26/May/2025 - 01:41 pm |  | - |
+| General | CO1.MSG.7936944 | RESPUESTA A OBSERVACIONES | 26/May/2025 - 01:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7936925 | RE: OBSERVACION AL PROCESO | 26/May/2025 - 01:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7922385 | OBSERVACION AL PROCESO | 22/May/2025 - 12:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7917649 | OBSERVACION | 21/May/2025 - 04:43 pm |  | - |

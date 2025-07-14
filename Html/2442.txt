@@ -1,0 +1,84 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DE LA FRONTERA NORORIENTAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834d82d7caec0.86735056
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 15:05:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMEINTO DE IMPRESORAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Callen 13 Avenida El Bosque No 3E - 278 Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+180 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 03:56 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/May/2025 - 12:00 pm

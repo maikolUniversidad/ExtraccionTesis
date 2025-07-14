@@ -1,0 +1,224 @@
+Title: Licitaciones - UNIDAD AESPE - Contratación mínima cuantía SPE-SDT-MC-004-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6814f46ec39497.51729468
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:36:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir licencias de Microsoft Power Bi Por Usuario para el Grupo de Estudio del Mercado Laboral de la Unidad Administrativa Especial del Servicio Público de Empleo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 69 N° 25 B - 44 Piso 7 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300 | Adquirir licencias de Microsoft Power Bi Por Usuario para el Grupo de Estudio del Mercado Laboral de la Unidad Administrativa Especial del Servicio Público de Empleo. | Mínima cuantía | Presupuesto de entidad nacional | $6.603.364 | GRUPO CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+02/May/2025 - 11:30 am
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+08/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+08/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+12/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+12/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+10/Jun/2025 - 11:59 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 11:59 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 11:59 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 21/May/2025 - 12:00 am | 20/Nov/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 21/May/2025 - 12:00 am | 20/May/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8010915 | ACTO DE DECLARATORIA DE DESIERTA | 10/Jun/2025 - 05:41 pm |  | - |
+| Objeciones | CO1.MSG.7957880 | [Respondido] RE:OBSERVACIONES | 10/Jun/2025 - 05:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 9 CO1.AWD.2250845 | 10/Jun/2025 - 04:33 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 05/Jun/2025 - 03:31 pm |  |  |
+| General | CO1.MSG.7984386 | SUBSANACIONES ROYAL TECH GROUP SAS | 04/Jun/2025 - 10:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 8 CO1.AWD.2250845 | 03/Jun/2025 - 06:57 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 30/May/2025 - 06:02 pm |  |  |
+| Objeciones | CO1.MSG.7957880 | OBSERVACIONES | 29/May/2025 - 10:57 am |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 7 CO1.AWD.2250845 | 28/May/2025 - 08:42 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 28/May/2025 - 04:24 pm |  |  |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 6 CO1.AWD.2250845 | 28/May/2025 - 12:11 pm |  | - |
+| Objeciones | CO1.MSG.7947938 | [Respondido] RE:SUBSANACION AL PROCESO EN MENCION | 28/May/2025 - 12:04 pm |  | - |
+| Objeciones | CO1.MSG.7946224 | [Respondido] RE:SUBSANACION AL PROCESO EN MENCION | 28/May/2025 - 12:03 pm |  | - |
+| Objeciones | CO1.MSG.7947938 | SUBSANACION AL PROCESO EN MENCION | 27/May/2025 - 07:57 pm |  | - |
+| Objeciones | CO1.MSG.7946224 | SUBSANACION AL PROCESO EN MENCION | 27/May/2025 - 04:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 5 CO1.AWD.2250845 | 26/May/2025 - 09:08 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 23/May/2025 - 06:13 pm |  |  |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 4 CO1.AWD.2250845 | 21/May/2025 - 10:27 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 21/May/2025 - 04:26 pm |  |  |
+| General | CO1.MSG.7906770 | Subsanación Informe de evaluación | 20/May/2025 - 10:44 am |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 3 CO1.AWD.2250845 | 19/May/2025 - 10:15 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 19/May/2025 - 03:39 pm |  |  |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 2 CO1.AWD.2250845 | 15/May/2025 - 03:55 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 15/May/2025 - 03:07 pm |  |  |
+| General | CO1.MSG.7879135 | SUBSNACION DE DOCUMENTOS | 14/May/2025 - 09:53 am |  | - |
+| Avisos | CO1.MSG.7878986 | Publicación de la lista de ofertas del proceso SPE-SDT-MC-004-2025. | 14/May/2025 - 09:30 am |  | - |
+| Avisos | CO1.MSG.7878979 | La lista de oferentes del proceso SPE-SDT-MC-004-2025 publicada por UNIDAD AESPE | 14/May/2025 - 09:29 am |  | - |
+| Reporte preliminar | CO1.AWD.2250845 | Informe de evaluación 1 CO1.AWD.2250845 | 13/May/2025 - 04:37 pm |  | - |
+| General | CO1.MSG.7855490 | Adenda1 y Limitacion a Mipymes | 08/May/2025 - 05:00 pm |  | - |
+| Avisos | CO1.REQ.8192233 | Publicación modificación | 08/May/2025 - 04:57 pm |  |  |

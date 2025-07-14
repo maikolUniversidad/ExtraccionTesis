@@ -1,0 +1,280 @@
+Title: Licitaciones - AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6822aa603ef173.24261606
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 06:46:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir e implementar un paquete de ochenta y tres (83) Certificados Digitales de Función Pública Acreditado - AATL con formato de token virtual y una vigencia de uso de 2 años, de conformidad a las especificaciones descritas en el Anexo No. 1 Especificaciones Técnicas Mínimas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Bogotâ Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233201 | 3.3.13.Firma Digital - Servicio de Firma YA | Mínima cuantía | Presupuesto de entidad nacional | $26.588.312 | GRUPO GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 09:04 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 09:30 pm
+
+**Publicación de la invitación:**
+
+12/May/2025 - 09:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 10:20 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 30/May/2025 - 12:00 am | 31/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/May/2025 - 12:00 am | 30/Jun/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CAMERFIRMA | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 5,234,810
+
+**Informes proceso de selección CO1.AWD.2264501 de 03/Jun/2025 - 11:47 am. Valor $5.234.810**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:51 pm |  |
+| Informe de evaluación | 27/May/2025 - 04:51 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:19 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:19 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:19 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:19 pm |  |
+| Informe de evaluación | 30/May/2025 - 07:19 pm |  |
+| Informe de selección | 03/Jun/2025 - 11:47 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264501**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CAMERFIRMA COLOMBIA SAS * **Tipo documento:** NIT * **Documento:** 901312112 | * **Nombre:** HÉCTOR JOSÉ SANTIAGO GARCIA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79942771 | Bogotá - Distrito Capital de Bogotá | $5.234.810 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264501****
+
+**ID del contrato en SECOP:**
+
+1405-2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+30/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 5,234,810
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264501 | Informe de selección CO1.AWD.2264501 | 03/Jun/2025 - 11:47 am |  | - |
+| Reporte preliminar | CO1.AWD.2264501 | Informe de evaluación 2 CO1.AWD.2264501 | 30/May/2025 - 07:19 pm |  | - |
+| General | CO1.MSG.7946524 | PUBLICACIÓN REQUERIMIENTO OFERENTE MENOR VALOR | 27/May/2025 - 04:57 pm |  | - |
+| Avisos | CO1.MSG.7946500 | Publicación de la lista de ofertas del proceso MC-ARN-1046-2025. | 27/May/2025 - 04:54 pm |  | - |
+| Avisos | CO1.MSG.7946487 | La lista de oferentes del proceso MC-ARN-1046-2025 publicada por AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN | 27/May/2025 - 04:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264501 | Informe de evaluación 1 CO1.AWD.2264501 | 27/May/2025 - 04:51 pm |  | - |
+| Avisos | CO1.REQ.8248475 | Publicación modificación | 21/May/2025 - 06:29 pm |  |  |
+| General | CO1.MSG.7912003 | RESPUESTA OBSERVACIONES INVITACIÓN PÚBLICA | 20/May/2025 - 07:52 pm |  | - |
+| Avisos | CO1.REQ.8248475 | Publicación modificación | 16/May/2025 - 05:36 pm |  |  |

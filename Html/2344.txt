@@ -1,0 +1,82 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823a69984a526.22320455
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:11:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+IMPLEMENTACION Y DESARROLLO DEL SISTEMA PARA LA ADMINISTRACION DEL RIESGO DE LAVADO DE ACTIVOS FINANCIACION DEL TERRORISMO Y LA FINANCIACION DE LA PROLIFERACION DE ARMAS DE DESTRUCCION MASIVA SARLAFT
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232311 - Software de manejo de base de datos orientada al objeto
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 03:07 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/May/2025 - 12:00 pm

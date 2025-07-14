@@ -1,0 +1,90 @@
+Title: Licitaciones - VEEDURÍA DISTRITAL - Solicitud de información a los Proveedores (SECOPII) VEED-TIC-SIP-006-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b3679748988.79967927
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:36:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN CARTELERAS DIGITALES ELEMENTOS TECNOLÓGICOS ELEMENTOS AUDIOVISUALES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161500 - Equipos audiovisuales
+
+**Códigos adicionales UNSPSC:**
+
+45111603 - Pantallas o desplegadores para proyección,45111500 - Atriles, sistemas de sonido y accesorios,26121616 - Cable de telecomunicaciones,43201803 - Unidades de disco duro,43201830 - Unidad de estado sólido ssd,43211708 - Mouse o bola de seguimiento para computador,43211701 - Equipo de lectura de código de barras,45111616 - Proyectores de video
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales", "licicodigos": "105,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 26-20 piso 34 y 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 06:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 05:00 pm

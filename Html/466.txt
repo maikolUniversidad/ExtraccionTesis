@@ -1,0 +1,268 @@
+Title: Licitaciones - ARCHIVO GENERAL DE LA NACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f283002b5d8.99597561
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-07 15:57:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar los servicios de una empresa especializada, para la realización de un test y re-test de intrusión (Ethical Hacking) y pruebas de vulnerabilidades.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "102,117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 33 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 No. 6- 91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101500, 80101600, 81111800, 43233200 | CPi_SGGTI26 Contratar los servicios de una empresa especializada, para la realización de un test y re-test de intrusión (Ethical Hacking) y pruebas de vulnerabilidades | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $115.000.000 | PROCESO DE GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 08:19 am
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+06/Jun/2025 - 04:13 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/Jun/2025 - 11:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+06/Jun/2025 - 11:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 11:00 pm
+
+**Plazo para manifestación de interés:**
+
+11/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+13/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+17/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+17/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+04/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+08/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/Jul/2025 - 11:59 pm | 01/Nov/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 11:59 pm | 01/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 01/Jul/2025 - 11:59 pm | 01/Nov/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 93,600,000
+
+**Informes proceso de selección CO1.AWD.2296821 de 04/Jul/2025 - 11:52 am. Valor $93.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jul/2025 - 01:39 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 01:39 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 01:39 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 01:39 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 01:39 pm |  |
+| Informe de selección | 04/Jul/2025 - 11:52 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2296821 | Informe de selección CO1.AWD.2296821 | 04/Jul/2025 - 11:52 am |  | - |
+| General | CO1.MSG.8120012 | RESPUESTA, Solicitud de revisión de la evaluación jurídica - Proceso SAMC 004-2025 - Unión Temporal B2B GLOBAL | 04/Jul/2025 - 11:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2296821 | Informe de evaluación 1 CO1.AWD.2296821 | 03/Jul/2025 - 01:39 pm |  | - |
+| General | CO1.MSG.8094909 | Subsanacion oferta SAMC-004-2025 | 27/Jun/2025 - 04:15 pm |  | - |
+| General | CO1.MSG.8091763 | Subsanación ITM | 27/Jun/2025 - 09:40 am |  | - |
+| General | CO1.MSG.8091617 | Subsanaciones 2SECURE SAS - Proceso SAMC-004-2025 | 27/Jun/2025 - 09:31 am |  | - |
+| General | CO1.MSG.8091426 | Subsanacion UT AGN-ETH | 27/Jun/2025 - 08:53 am |  | - |
+| General | CO1.MSG.8088496 | SUBSANAR | 26/Jun/2025 - 04:06 pm |  | - |
+| General | CO1.MSG.8086074 | SUBSANACIÓN | 26/Jun/2025 - 11:18 am |  | - |
+| General | CO1.MSG.8078723 | SUBSANACION SAMC-004-2025 | 25/Jun/2025 - 11:29 am |  | - |
+| General | CO1.MSG.8077066 | Subsanación Informe de evaluación No. 1 | 25/Jun/2025 - 08:02 am |  | - |
+| Reporte preliminar | CO1.AWD.2290718 | Informe de evaluación 1 CO1.AWD.2290718 | 24/Jun/2025 - 08:51 pm |  | - |
+| General | CO1.MSG.8050823 | ADENDA 001- Modificación cronograma . | 18/Jun/2025 - 12:15 pm |  | - |
+| Avisos | CO1.REQ.8401808 | Publicación modificación | 18/Jun/2025 - 12:12 pm |  |  |
+| Avisos | CO1.MSG.8042782 | Publicación de la lista de ofertas del proceso SAMC-004-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 17/Jun/2025 - 10:58 am |  | - |
+| Avisos | CO1.MSG.8042728 | Publicación de la lista de ofertas del proceso SAMC-004-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 17/Jun/2025 - 10:54 am |  | - |
+| Avisos | CO1.MSG.8041725 | La lista de oferentes del proceso SAMC-004-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ARCHIVO GENERAL DE LA NACION | 17/Jun/2025 - 09:28 am |  | - |
+| General | CO1.MSG.8036141 | Adjunto respuesta observaciones | 16/Jun/2025 - 11:31 am |  | - |
+| General | CO1.MSG.8035663 | CORRECCION RESPUESTA A OBSERVACIONES PROCESO SAMC 004-2025 | 16/Jun/2025 - 10:41 am |  | - |
+| General | CO1.MSG.8030857 | RESPUESTA OBSERVACINES PLIEGO DEFINITIVO | 13/Jun/2025 - 03:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8008689 | Observaciones Pliego Definitivo 2Secure SAS - Proceso SAMC-004-2024 | 10/Jun/2025 - 02:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7976430 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 03/Jun/2025 - 07:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7959303 | OBSERVACIONES PROYECTO DE PLIEGO | 29/May/2025 - 02:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7959022 | Observaciones a prepliego | 29/May/2025 - 01:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7955638 | Observaciones Prepliego de condiciones | 28/May/2025 - 08:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7946883 | OBS-ARCHIVO G N | 27/May/2025 - 05:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7945754 | Observaciones- Sinergy | 27/May/2025 - 04:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7921919 | OBSERVACIONES Selección abreviada de menor cuantía SAMC-004-2025 | 22/May/2025 - 11:45 am |  | - |

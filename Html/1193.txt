@@ -1,0 +1,190 @@
+Title: Licitaciones - GESTORA URBANA BANCO INMOBILIARIO DE IBAGUE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a48c4ac08d4.51785273
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-06 12:37:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO PREVENTIVO, CORRECTIVO Y DE CONSUMIBLES (INCLUIDO INSUMOS) DE LOS EQUIPOS DE CÓMPUTO PERTENECIENTES A LA GESTORA URBANA DE IBAGUÉ E.I.C.E.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Códigos adicionales UNSPSC:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,81112306 - Mantenimiento de impresoras,44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 3 # 15-17 piso 7 EDIF BANCO AGRARIO Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+06/May/2025 - 10:00 am
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 10:00 am
+
+**Fecha de publicación:**
+
+06/May/2025 - 12:27 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+07/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+07/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+08/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+08/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+09/May/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+09/May/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/May/2025 - 12:00 am | 18/Jun/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 19/May/2025 - 12:00 am | 18/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 19/May/2025 - 12:00 am | 18/Jun/2026 - 11:59 pm |

@@ -1,0 +1,346 @@
+Title: Licitaciones - MUNICIPIO DE GACHANCIPA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a46a4576068.48940459
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 06:31:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS TECNOLÓGICOS PARA EL MANTENIMIENTO DE LOS EQUIPOS Y REDES DE LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE GACHANCIPÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Gachancipá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Escaleras y andamios", "licicodigos": "105,122,123,469" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+ALCALDIA Gachancipá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 52,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211600, 43201800, 43212200, 43202000 | SUMINISTRO DE ELEMENTOS TECNOLÓGICOS PARA EL MANTENIMIENTO DE LOS EQUIPOS Y REDES DE LAS DIFERENTES DEPENDENCIAS DE LA ALCALDIA MUNICIPAL DE GACHANCIPÁ. | Selección abreviada subasta inversa | Recursos propios | $52.000.000 | 6. SECRETARIA DE DESARROLLO INSTITUCIONAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Abr/2025 - 08:50 am
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 09:00 am
+
+**Publicación Estudios Previos:**
+
+24/Abr/2025 - 09:00 am
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Abr/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+02/May/2025 - 09:00 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 09:00 am
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+02/May/2025 - 12:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/May/2025 - 01:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+20/May/2025 - 10:25 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+20/May/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+05/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 11:00 am
+
+**Apertura del sobre económico:**
+
+11/Jun/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+12/Jun/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jun/2025 - 12:00 pm | 09/Oct/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 04/Jun/2025 - 12:00 pm | 09/Jun/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 04/Jun/2025 - 12:00 pm | 09/Oct/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 04/Jun/2025 - 12:00 pm | 09/Dic/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMERCIAL ORBELAR S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 51,858,653
+
+**Informes proceso de selección CO1.AWD.2272855 de 16/Jun/2025 - 03:26 am. Valor $51.858.653**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 03:59 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:59 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 03:59 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 12:47 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 12:47 pm |  |
+| Informe de selección | 16/Jun/2025 - 03:26 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272855**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIAL ORBELAR S.A.S * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 900726316 | * **Nombre:** LAURA GISELL ACOSTA URREGO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1014206113 | - Distrito Capital de Bogotá | $51.858.653 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272855****
+
+**Contrato CS-0157-2025 de COMERCIAL ORBELAR S.A.S:**
+
+**ID del contrato en SECOP:**
+
+CS-0157-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE ELEMENTOS TECNOLÓGICOS PARA EL MANTENIMIENTO DE LOS EQUIPOS Y REDES DE LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE GACHANCIPÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211500 | OFERTA ECONOMICA | 1,00 | UN | 51.997.276,60 | 51.858.653,00 | 51.997.276,60 | 51.858.653,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 51,858,653
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Resolucion de adjudicacion SASI 008-2025.pdf |  |
+|  | CONTRATO SASI - 008.pdf |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+11/Jun/2025 - 12:10 pm
+
+**Fecha de inicio:**
+
+11/Jun/2025 - 12:20 pm
+
+**Fecha fin:**
+
+11/Jun/2025 - 01:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272855 | Informe de selección CO1.AWD.2272855 | 16/Jun/2025 - 03:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272855 | Informe de evaluación 2 CO1.AWD.2272855 | 11/Jun/2025 - 12:47 pm |  | - |
+| General | CO1.MSG.8014932 | RESPUESTA A OBSERVACIONES Y ACLARACIONES | 11/Jun/2025 - 12:11 pm |  | - |
+| Avisos | CO1.REQ.8288117 | Publicación modificación | 10/Jun/2025 - 12:16 pm |  |  |
+| Avisos | CO1.MSG.7990207 | Publicación de la lista de ofertas del proceso SASI-008-2025 (Presentación de oferta). | 05/Jun/2025 - 05:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272855 | Informe de evaluación 1 CO1.AWD.2272855 | 05/Jun/2025 - 03:59 pm |  | - |
+| Avisos | CO1.REQ.8288117 | Publicación modificación | 03/Jun/2025 - 10:04 am |  |  |
+| Avisos | CO1.MSG.7945351 | La lista de oferentes del proceso SASI-008-2025 (Presentación de oferta) publicada por MUNICIPIO DE GACHANCIPA | 27/May/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.7937278 | RE: OBSERVACION OFERTA ECONOMICA | 26/May/2025 - 02:28 pm |  | - |
+| Avisos | CO1.REQ.8288117 | Publicación modificación | 26/May/2025 - 01:49 pm |  |  |
+| Aclaraciones | CO1.MSG.7936370 | RE: observaciones al pliego de Condiciones, Observaciones solicitud de aclaración | 26/May/2025 - 12:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7928181 | observaciones al pliego de Condiciones | 23/May/2025 - 11:23 am |  | - |
+| Aclaraciones | CO1.MSG.7926800 | Observaciones solicitud de aclaración | 23/May/2025 - 08:22 am |  | - |
+| Avisos | CO1.REQ.8288117 | Publicación modificación | 21/May/2025 - 12:10 pm |  |  |
+| General | CO1.MSG.7915172 | RE: URGENTE OBSERVACION | 21/May/2025 - 12:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7905688 | RE: OBSERVACIONES PLIEGO PTOCESO :sasi-008-2025 | 20/May/2025 - 07:56 am |  | - |
+| General | CO1.MSG.7864572 | RESPUESTA A OBSRVACIONES | 12/May/2025 - 08:52 am |  | - |
+| Aclaraciones | CO1.MSG.7823756 | OBSERVACIONES PLIEGO PTOCESO :sasi-008-2025 | 02/May/2025 - 08:48 am |  | - |

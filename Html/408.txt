@@ -1,0 +1,205 @@
+Title: Licitaciones - COMANDO AEREO DE TRANSPORTE MILITAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827716f580d61.02521840
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 12:18:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO, PROGRAMADO E IMPREVISTOS DE SIMULADORES DE VUELO VAPT, EPT, CBT295.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72103300 - Servicios de mantenimiento y reparación de infraestructura
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Simuladores de vuelo y terrestres (capacitación, mantenimiento, suministro)", "licicodigos": "820" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 32 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado complejo aeronáutico entrada puerta 6 - CATAM Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Los proponentes interesados en asistir a la visita técnica, deberán consultar el numeral 3.1.3 del Estudio Previo.
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72103300 | SERVICIO DE MANTENIMIENTO PREVENTIVO, PROGRAMADO E IMPREVISTOS DE SIMULADORES DE VUELO VAPT, EPT, CBT295, | Mínima cuantía | Presupuesto de entidad nacional | $142.000.000 | CATAM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 11:48 am
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 03:30 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 03:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+29/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 03:30 pm
+
+**Aceptación de ofertas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/Jun/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 13/Jun/2025 - 12:00 pm | 15/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 50,00 | 15/Dic/2025 - 12:00 pm | 15/Dic/2026 - 12:00 pm |

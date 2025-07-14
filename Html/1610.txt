@@ -1,0 +1,222 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO Y CARCELARIO SANTANDER DE QUILICHAO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685329a7a152c9.52298965
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR ELEMENTOS CON EL FIN DE FORTALECER EL EXPENDIO DEL EPMSC SANTANDER DE QUILICHAO, CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Santander De Quilichao
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+47131604 - Escobas
+
+**Códigos adicionales UNSPSC:**
+
+47131619 - Cabezas de traperos,47131801 - Limpiadores de pisos,47131601 - Cepillos o recogedores para polvo,47131803 - Desinfectantes para uso doméstico,40101604 - Ventiladores,43201803 - Unidades de disco duro
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Electrodomésticos, -Artículos de aseo", "licicodigos": "105,139,260" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 4 No. 27-34 B/Morales Duque Santander De Quilichao Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 47131604, 47131619, 47131801, 47131601, 47131803, 40101604, 43201803 | CONTRATAR ELEMENTOS CON EL FIN DE FORTALECER EL EXPENDIO DEL EPMSC SANTANDER DE QUILICHAO, CAUCA | Mínima cuantía | Recursos propios | $2.604.232 | GRUPO CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 03:59 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 02:02 pm
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 02:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 02/Jul/2025 - 11:59 pm | 02/Oct/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 02/Jul/2025 - 11:59 pm | 02/Oct/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** WORKING SOLUCIONES INTEGRALES SAS | Santander De Quilichao - Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,604,232
+
+**Informes proceso de selección CO1.AWD.2292315 de 27/Jun/2025 - 11:27 am. Valor $2.604.232**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 11:42 am |  |
+| Informe de selección | 27/Jun/2025 - 11:27 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292315 | Informe de selección CO1.AWD.2292315 | 27/Jun/2025 - 11:27 am |  | - |
+| Reporte preliminar | CO1.AWD.2292315 | Informe de evaluación 1 CO1.AWD.2292315 | 26/Jun/2025 - 11:42 am |  | - |
+| Avisos | CO1.MSG.8080132 | Publicación de la lista de ofertas del proceso 19-2025-EPMSC-SQ. | 25/Jun/2025 - 02:18 pm |  | - |
+| Avisos | CO1.MSG.8080129 | La lista de oferentes del proceso 19-2025-EPMSC-SQ publicada por ESTABLECIMIENTO PENITENCIARIO Y CARCELARIO SANTANDER DE QUILICHAO | 25/Jun/2025 - 02:18 pm |  | - |
+| General | CO1.MSG.8069197 | LIMITACIÓN MI PYMES PROCESO #19-2025-EPMSC-SQ | 21/Jun/2025 - 09:16 pm |  | - |

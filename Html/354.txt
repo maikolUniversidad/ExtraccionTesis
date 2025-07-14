@@ -1,0 +1,121 @@
+Title: Licitaciones - SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO S.A
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685362762ded25.11523725
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:57:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Fiduagraria S.A -en adelante la Fiduciaria o la Contratante requiere contratar el suministro de equipos de comunicaciones (Switches), así como el servicio de mantenimiento preventivo y configuración de microsegmentación de red en las unidades de gestión PAR ISS y PAR TELECOM.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 16 6 66 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 07:37 pm
+
+**Fecha de Firma del Contrato:**
+
+09/Jul/2025 - 11:59 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución del contrato:**
+
+09/Jul/2026 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8157236 | ALCANCE ACTA DE ADJUDICACIÓN SWITCHES | 11/Jul/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.8146134 | Acta de evaluación de requisitos ponderables y adjudicación INV_022_2025 | 09/Jul/2025 - 08:53 pm |  | - |
+| General | CO1.MSG.8117312 | Evaluación de requisitos habilitantes | 03/Jul/2025 - 07:47 pm |  | - |
+| Avisos | CO1.REQ.8438410 | Publicación modificación | 26/Jun/2025 - 05:31 pm |  |  |

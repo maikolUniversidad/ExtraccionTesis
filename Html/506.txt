@@ -1,0 +1,306 @@
+Title: Licitaciones - CORPORACIÓN AUTÓNOMA REGIONAL DEL CANAL DEL DIQUE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e5dd1cc52b6.15541986
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:34:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE PAPELERIA Y ELEMENTOS DE OFICINA PARA LA CORPORACION AUTONOMA REGIONAL DEL CANAL DEL DIQUE- CARDIQUE..
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Códigos adicionales UNSPSC:**
+
+44111500 - Agendas y accesorios,44121701 - Bolígrafos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+Bosque, Isla de Manzanillo, Trv. 52 # 16-190 Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 100,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500 | SUMINISTRO DE PAPELERIA Y ELEMENTOS DE OFICINA PARA LA CORPORACIÓN AUTONOMA REGIONAL DEL CANAL DEL DIQUE- CARDIQUE | Selección abreviada menor cuantía | Recursos propios | $100.000.000 | DIRECCION GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 05:44 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 12:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 10:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jun/2025 - 06:11 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 10:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/Jun/2025 - 06:00 pm
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+17/Jun/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+26/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+27/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/Jul/2025 - 12:00 pm | 25/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 12:00 pm | 26/Dic/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jul/2025 - 12:00 pm | 26/Dic/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Talento Comercializadora S.A | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 99,996,651
+
+**Informes proceso de selección CO1.AWD.2292225 de 26/Jun/2025 - 04:35 am. Valor $99.996.651**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 02:18 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 02:18 pm |  |
+| Informe de selección | 26/Jun/2025 - 04:35 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2292225**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Talento Comercializadora S.A * **Tipo documento:** NIT * **Documento:** 830048811 | * **Nombre:** Talento Comercializadora * **Tipo documento:** NIT * **Documento:** 3032904 | - Distrito Capital de Bogotá | $99.996.651 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2292225****
+
+**Cuantía a la firma del contrato:**
+
+$ 99,996,651
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+25/Jun/2025 - 07:00 pm
+
+**Fecha de inicio:**
+
+26/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+26/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292225 | Informe de selección CO1.AWD.2292225 | 26/Jun/2025 - 04:35 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292225 | Informe de evaluación 1 CO1.AWD.2292225 | 26/Jun/2025 - 02:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292028 | Informe de evaluación 1 CO1.AWD.2292028 | 26/Jun/2025 - 11:47 am |  | - |
+| Reporte preliminar | CO1.AWD.2291915 | Informe de evaluación 1 CO1.AWD.2291915 | 26/Jun/2025 - 11:33 am |  | - |
+| Avisos | CO1.MSG.8085215 | Publicación de la lista de ofertas del proceso SASI-CARDIQUE-010-2025 (Presentación de oferta). | 26/Jun/2025 - 10:00 am |  | - |
+| Avisos | CO1.MSG.8085207 | La lista de oferentes del proceso SASI-CARDIQUE-010-2025 (Presentación de oferta) publicada por CORPORACIÓN AUTÓNOMA REGIONAL DEL CANAL DEL DIQUE | 26/Jun/2025 - 09:59 am |  | - |
+| General | CO1.MSG.8085017 | RESPUESTA OBSERVACIÓN INFORME FINAL- HABILITACION DE OFERENTE | 26/Jun/2025 - 09:49 am |  | - |
+| General | CO1.MSG.8084684 | INFORME FINAL DE VERIFICACION REQUISITOS HABILITANTES | 26/Jun/2025 - 09:12 am |  | - |
+| Reporte preliminar | CO1.AWD.2283675 | Informe de evaluación 2 CO1.AWD.2283675 | 25/Jun/2025 - 04:55 pm |  | - |
+| General | CO1.MSG.8081743 | RESPUESTA A SOLICITUD DE SUBSANACION SOLEM AS SAS | 25/Jun/2025 - 04:49 pm |  | - |
+| Objeciones | CO1.MSG.8060309 | SUBSANACION TECNICA SASI-CARDIQUE-010-2025 | 19/Jun/2025 - 04:33 pm |  | - |
+| Avisos | CO1.MSG.8047494 | Publicación de la lista de ofertas del proceso SASI-CARDIQUE-010-2025 (Presentación de oferta). | 17/Jun/2025 - 07:11 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283675 | Informe de evaluación 1 CO1.AWD.2283675 | 17/Jun/2025 - 07:10 pm |  | - |
+| Avisos | CO1.MSG.8026039 | La lista de oferentes del proceso SASI-CARDIQUE-010-2025 (Presentación de oferta) publicada por CORPORACIÓN AUTÓNOMA REGIONAL DEL CANAL DEL DIQUE | 12/Jun/2025 - 06:12 pm |  | - |
+| General | CO1.MSG.8021482 | ANEXOS EDITABLES | 12/Jun/2025 - 10:55 am |  | - |
+| General | CO1.MSG.7979601 | RESOLUCIÓN COMITE EVALUADOR | 04/Jun/2025 - 01:25 pm |  | - |
+| General | CO1.MSG.7967820 | RESPUESTA A OBSERVACIONES | 30/May/2025 - 04:36 pm |  | - |

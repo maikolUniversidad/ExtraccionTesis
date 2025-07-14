@@ -1,0 +1,299 @@
+Title: Licitaciones - GOBERNACION DE NARIÑO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681d402b64df31.77268765
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 08:26:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro de licenciamiento de software antivirus para estaciones de trabajo, antivirus para servidores y protección Email con instalación, soporte, capacitación y asistencia técnica en sitio
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+1 Meses
+
+**Dirección de ejecución del contrato:**
+
+PASTO Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+229 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205 | Contratación de la Renovación del licenciamiento de software antivirus SOPHOS que se encuentra implementado en la entidad; con actualización, soporte, capacitación y asistencia técnica. | Mínima cuantía | Recursos propios | $120.000.000 | DEPARTAMENTO ADMINISTRATIVO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+08/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+08/May/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+08/May/2025 - 06:32 pm
+
+**Plazo para recepción de observaciones:**
+
+09/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+09/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/May/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 15,00 | 19/May/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 19/May/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 14/May/2025 - 10:59 am | * **Nombre:** CJT&T INGENIERIA DE SOFTWARE SAS | Pasto - Nariño |
+| 2 | 15/May/2025 - 05:26 pm | * **Nombre:** DATA TESLA ENGINEERING SERVICES | Pasto - Nariño |
+| 3 | 16/May/2025 - 11:28 am | * **Nombre:** STAR SOLUTIONS TI SAS | Distrito Capital de Bogotá |
+| 4 | 16/May/2025 - 02:48 pm | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+| 5 | 16/May/2025 - 03:24 pm | * **Nombre:** PCM SOLINFO S A S | Bogotá - Distrito Capital de Bogotá |
+| 6 | 16/May/2025 - 05:29 pm | * **Nombre:** UPKS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 86,442,200
+
+**Informes proceso de selección CO1.AWD.2255983 de 21/May/2025 - 05:33 am. Valor $86.442.200**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 19/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 21/May/2025 - 03:58 pm |  |
+| Informe de selección | 21/May/2025 - 05:33 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2255983**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** STAR SOLUTIONS TI SAS * **Tipo documento:** NIT * **Documento:** 900968161 | * **Nombre:** FABIAN PALOMARES * **Tipo documento:** NIT * **Documento:** 80239727 | - Distrito Capital de Bogotá | $86.442.200 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2255983****
+
+**Contrato GN2957-2025 de STAR SOLUTIONS TI SAS:**
+
+**ID del contrato en SECOP:**
+
+GN2957-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Suministro de licenciamiento de software antivirus para estaciones de trabajo, antivirus para servidores y protección Email con instalación, soporte, capacitación y asistencia técnica en sitio.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43233205 | LICENCIAMIENTO DE SOFTWARE ANTIVIRUS | 1,00 | UN | 113.267.700,00 | 86.442.200,00 | 113.267.700,00 | 86.442.200,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+223 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 86,442,200
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION OFERTA IMC018-2025.pdf |  |
+|  | Formato 2- Oferta economica.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2255983 | Informe de selección CO1.AWD.2255983 | 21/May/2025 - 05:33 pm |  | - |
+| Objeciones | CO1.MSG.7907832 | [Respondido] RE:Subsanacion al informe de evaluacion preliminar | 21/May/2025 - 03:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2255983 | Informe de evaluación 2 CO1.AWD.2255983 | 21/May/2025 - 03:57 pm |  | - |
+| Objeciones | CO1.MSG.7907832 | Subsanacion al informe de evaluacion preliminar | 20/May/2025 - 11:57 am |  | - |
+| Avisos | CO1.MSG.7906292 | Publicación de la lista de ofertas del proceso IMC018-2025. | 20/May/2025 - 09:17 am |  | - |
+| Reporte preliminar | CO1.AWD.2255983 | Informe de evaluación 1 CO1.AWD.2255983 | 19/May/2025 - 05:58 pm |  | - |
+| Avisos | CO1.MSG.7897500 | La lista de oferentes del proceso IMC018-2025 publicada por GOBERNACION DE NARIÑO | 16/May/2025 - 06:42 pm |  | - |
+| General | CO1.MSG.7887368 | RE: Observacion de invitacion | 15/May/2025 - 11:44 am |  | - |
+| General | CO1.MSG.7885628 | RESPUESTA A OBSERVACIÓN | 15/May/2025 - 08:47 am |  | - |
+| General | CO1.MSG.7884372 | ADENDA No. 2 | 14/May/2025 - 06:27 pm |  | - |
+| Avisos | CO1.REQ.8232369 | Publicación modificación | 14/May/2025 - 05:18 pm |  |  |
+| General | CO1.MSG.7883484 | RESOLUCIÓN SANEAMIENTO DEL PROCESO | 14/May/2025 - 04:52 pm |  | - |
+| General | CO1.MSG.7876740 | AVISO LIMITACION A MIPYME | 13/May/2025 - 05:42 pm |  | - |
+| General | CO1.MSG.7876059 | RESPUESTA A OBSERVACIONES Y VERIFICACIÓN DE SOLICITUDES DE LIMITACIÓN A MIPYME | 13/May/2025 - 05:37 pm |  | - |
+| General | CO1.MSG.7876556 | OBSERVACIONES PRESENTADAS | 13/May/2025 - 05:27 pm |  | - |
+| General | CO1.MSG.7870105 | ADENDA No. 1 | 12/May/2025 - 06:47 pm |  | - |
+| Avisos | CO1.REQ.8232369 | Publicación modificación | 12/May/2025 - 06:42 pm |  |  |
+| Aclaraciones | CO1.MSG.7862079 | OBSERVACION | 09/May/2025 - 05:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7861812 | Observación a la invitacion | 09/May/2025 - 04:41 pm |  | - |

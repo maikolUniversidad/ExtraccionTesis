@@ -1,0 +1,348 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DEL ALTO MAGDALENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cfe806802f4.42464912
+
+Markdown Content:
+Licitaciones - CORPORACION AUTONOMA REGIONAL DEL ALTO MAGDALENA - Subasta Inversa SA-SI-007- CAM-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 16:33:11
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE PAPELERIA Y UTILES DE OFICINA NECESARIOS PARA EL FUNCIONAMIENTO Y NORMAL DESEMPEÑO DE LAS DEPENDENCIAS DE LA SEDE PRINCIPAL Y LAS DIRECCIONES TERRITORIALES DE LA CORPORACIÓN AUTÓNOMA REGIONAL DEL ALTO MAGDALENA-CAM, COMO TAMBIÉN EL DESARROLLO DE DIFERENTES ACTIVIDADES ENMARCADAS EN PROYECTOS DEL PLAN DE ACCIÓN INSTITUCIONAL PAI
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Huila : Neiva
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+60121702 - Almohadilla para sellos de estampación de caucho
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 28 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+carrera 1 No 60-79 Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 0
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 60121702, 12171703, 44121804, 55121612, 44121706, 27112309, 14111507, 44121716, 44121618, 44121619, 43201817, 43202001, 44121711, 32101622, 44121701, 44122016, 26111700, 41121800, 44122104, 44122105, 44121600, 44121506, 30266501, 31201522, 44121708, 14111530, 14111808, 14111818, 44111515, 44122000, 60121200, 46181800, 31211900, 12161800, 24101900 | SUMINISTRO DE PAPELERÍA, Y ELEMENTOS DE OFICINA, NECESARIOS PARA EL FUNCIONAMIENTO Y NORMAL DESEMPEÑO DE LAS DEPENDENCIAS DE LA SEDE PRINCIPAL Y LAS DIRECCIONES TERRITORIALES | Selección abreviada subasta inversa | Recursos propios | $64.940.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 04:50 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 06:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+10/Jun/2025 - 05:34 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 07:30 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+25/Jun/2025 - 07:32 am
+
+**Informe de presentación de Ofertas:**
+
+25/Jun/2025 - 07:34 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 07:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+27/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+09/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+16/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 10/Jul/2025 - 07:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 10/Jul/2025 - 07:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 10/Jul/2025 - 07:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 10/Jul/2025 - 07:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 64,940,000
+
+**Informes proceso de selección CO1.AWD.2293039 de 11/Jul/2025 - 03:20 am. Valor $64.940.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 12:23 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 12:23 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 12:23 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 12:23 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 12:23 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 01:53 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 02:25 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 02:25 pm |  |
+| Informe de selección | 11/Jul/2025 - 03:20 pm |  |
+| Informe de selección | 11/Jul/2025 - 03:20 pm |  |
+| Informe de selección | 11/Jul/2025 - 03:20 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+10/Jul/2025 - 11:00 am
+
+**Fecha de inicio:**
+10/Jul/2025 - 11:30 am
+
+**Fecha fin:**
+10/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293039 | Informe de selección CO1.AWD.2293039 | 11/Jul/2025 - 03:20 pm |  | - |
+| General | CO1.MSG.8148398 | CONFIGURACIÓN EVENTO DE SUBASTA | 10/Jul/2025 - 11:05 am |  | - |
+| Avisos | CO1.MSG.8146142 | Publicación de la lista de ofertas del proceso SA-SI-007- CAM-2025 (Presentación de oferta). | 09/Jul/2025 - 08:58 pm |  | - |
+| Avisos | CO1.MSG.8146140 | La lista de oferentes del proceso SA-SI-007- CAM-2025 (Presentación de oferta) publicada por CORPORACION AUTONOMA REGIONAL DEL ALTO MAGDALENA | 09/Jul/2025 - 08:57 pm |  | - |
+| General | CO1.MSG.8143244 | INFORMACIÓN SOBRE LA SUBASTA | 09/Jul/2025 - 03:20 pm |  | - |
+| Avisos | CO1.REQ.8394651 | Publicación modificación | 09/Jul/2025 - 03:14 pm |  |  |
+| General | CO1.MSG.8142035 | RE: Solicitud informacion hora subasta | 09/Jul/2025 - 12:56 pm |  | - |
+| General | CO1.MSG.8142023 | REVISIÓN DE OFERTA ECONÓMICA | 09/Jul/2025 - 12:50 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293039 | Informe de evaluación 3 CO1.AWD.2293039 | 08/Jul/2025 - 02:25 pm |  | - |
+| Avisos | CO1.REQ.8394651 | Publicación modificación | 08/Jul/2025 - 07:31 am |  |  |
+| General | CO1.MSG.8130316 | Observaciones al informe de evaluacion final | 07/Jul/2025 - 05:31 pm |  | - |
+| Objeciones | CO1.MSG.8096812 | [Respondido] RE:Subsanación | 07/Jul/2025 - 01:54 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293039 | Informe de evaluación 2 CO1.AWD.2293039 | 07/Jul/2025 - 01:53 pm |  | - |
+| Objeciones | CO1.MSG.8096812 | Subsanación | 28/Jun/2025 - 11:12 am |  | - |
+| General | CO1.MSG.8094130 | Subsanacion Informe de evaluacion 1 | 27/Jun/2025 - 03:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293039 | Informe de evaluación 1 CO1.AWD.2293039 | 27/Jun/2025 - 12:23 pm |  | - |
+| Avisos | CO1.MSG.8077196 | Publicación de la lista de ofertas del proceso SA-SI-007- CAM-2025 (Presentación de oferta). | 25/Jun/2025 - 08:24 am |  | - |
+| Avisos | CO1.MSG.8077193 | La lista de oferentes del proceso SA-SI-007- CAM-2025 (Presentación de oferta) publicada por CORPORACION AUTONOMA REGIONAL DEL ALTO MAGDALENA | 25/Jun/2025 - 08:23 am |  | - |
+| General | CO1.MSG.8077186 | RE: ERROR AL CERRAR OFERTA | 25/Jun/2025 - 08:22 am |  | - |
+| General | CO1.MSG.8077183 | RE: error al presentar | 25/Jun/2025 - 08:21 am |  | - |
+| General | CO1.MSG.8064232 | RE: Aceptacion modificacion | 20/Jun/2025 - 10:53 am |  | - |
+| General | CO1.MSG.8061000 | MODIFICACIÓN DE OFERTAS | 19/Jun/2025 - 05:10 pm |  | - |
+| General | CO1.MSG.8060977 | RE: Aclaracion | 19/Jun/2025 - 05:09 pm |  | - |
+| Avisos | CO1.REQ.8394651 | Publicación modificación | 19/Jun/2025 - 05:05 pm |  |  |
+| General | CO1.MSG.8044540 | RE: Aclaracion | 17/Jun/2025 - 02:37 pm |  | - |
+| Avisos | CO1.REQ.8394651 | Publicación modificación | 16/Jun/2025 - 04:28 pm |  |  |
+| General | CO1.MSG.8037985 | RE: Solicitud aclaracion | 16/Jun/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.8037960 | RE: Observaciones | 16/Jun/2025 - 03:32 pm |  | - |
+| General | CO1.MSG.8016025 | RE: SOLICITUD DE LIMITACIÓN | 11/Jun/2025 - 02:47 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:05 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

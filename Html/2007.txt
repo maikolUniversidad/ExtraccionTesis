@@ -1,0 +1,100 @@
+Title: Licitaciones - SANTIAGO DE CALI DISTRITO ESPECIAL- UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE BIENES Y SERVICIOS - CALI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ca15cdcf034.91997396
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 08:57:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE PLOTTERS DE IMPRESIÓN DE GRAN FORMATO, DESTINADO A FORTALECER LAS CAPACIDADES OPERATIVAS Y DE DISEÑO GRÁFICO DE LA ENTIDAD, MEDIANTE LA IMPRESIÓN DE PLANOS, AFICHES, MAPAS, DIAGRAMAS TÉCNICOS Y DEMÁS PIEZAS GRÁFICAS REQUERIDAS EN EL DESARROLLO DE PROYECTOS INSTITUCIONALES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212107 - Impresoras de plotter
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AV.2 No.10-70 TORRE ALCALDIA PISO 16 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 04:53 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+18/Jun/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8033313 | LIMITACION A MIPYMES MUNICIPALES | 14/Jun/2025 - 08:53 am |  | - |

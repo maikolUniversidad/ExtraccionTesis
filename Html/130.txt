@@ -1,0 +1,324 @@
+Title: Licitaciones - ALCALDÍA DEL DISTRITO TURÍSTICO Y CULTURAL DE CARTAGENA DE INDIAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827be15cbb442.69067881
+
+Markdown Content:
+Licitaciones - ALCALDÍA DEL DISTRITO TURÍSTICO Y CULTURAL DE CARTAGENA DE INDIAS - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC-DAAL-014-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-15 06:30:54
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR LA IMPLEMENTACIÓN, LICENCIAMIENTO Y PRESTACIÓN DE SERVICIOS DE UNA PLATAFORMA TECNOLÓGICA PARA LA GESTIÓN DE IDENTIDADES IAM, GESTIÓN DE ITSM, GESTIÓN DE SEGURIDAD END POINT, GESTIÓN DE ITSM Y GESTIÓN DE SIEM EN LA ALCALDÍA DE CARTAGENA DE INDIAS
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Bolívar : Cartagena
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81111500 - Ingeniería de software o hardware
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 26 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+PLAZA DE LA ADUANA Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300, 43233200, 81111500, 81112200, 81112501 | CONTRATAR LA IMPLEMENTACION, LICENCIAMIENTO Y PRESTACIÓN DE SERVICIOS DE UNA PLATAFORMA TECNOLOGICA PARA LA GESTIÓN DE IDENTIDADES IAM, GESTIÓN DE ITSM, GESTIÓN DE SEGURIDAD END POINT, GESTIÓN DE ITSM Y GESTIÓN DE SIEM EN LA ALCALDÍA DE CARTAGENA DE INDIAS | Selección abreviada menor cuantía | Recursos propios | $850.000.000 | EQUIPO DE LA SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 05:14 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 05:30 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+26/May/2025 - 06:56 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+26/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+28/May/2025 - 04:00 pm
+
+**Realización del sorteo:**
+
+29/May/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+04/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+04/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jun/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+13/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+14/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/Jun/2025 - 07:00 pm | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 23/Jun/2025 - 07:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 23/Jun/2025 - 07:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 767,326,376
+
+**Informes proceso de selección CO1.AWD.2273948 de 13/Jun/2025 - 06:06 am. Valor $767.326.376**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/Jun/2025 - 02:30 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 02:30 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 02:30 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 04:59 pm |  |
+| Informe de selección | 13/Jun/2025 - 06:06 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2273948**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMPUMARKETING DE COLOMBIA SAS * **Tipo documento:** NIT * **Documento:** 830073068 | * **Nombre:** CARLOS JULIO MARIN BERMEO * **Tipo documento:** NIT * **Documento:** 79450776 | Bogotá - Distrito Capital de Bogotá | $767.326.376 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2273948****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7981977
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 767,326,376
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2273948 | Informe de selección CO1.AWD.2273948 | 13/Jun/2025 - 06:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273948 | Informe de evaluación 2 CO1.AWD.2273948 | 12/Jun/2025 - 04:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273948 | Informe de evaluación 1 CO1.AWD.2273948 | 06/Jun/2025 - 02:30 pm |  | - |
+| Avisos | CO1.MSG.7977936 | La lista de oferentes del proceso SAMC-DAAL-014-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDÍA DEL DISTRITO TURÍSTICO Y CULTURAL DE CARTAGENA DE INDIAS | 04/Jun/2025 - 09:08 am |  | - |
+| Aclaraciones | CO1.MSG.7961679 | Observaciones al pliego de condiciones - Alcaldía de Cartagena | 30/May/2025 - 03:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7932125 | Observaciones al pliego de condiciones - Alcaldía de Cartagena | 23/May/2025 - 05:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7908433 | OBSERVACIONES AL PROCESO | 20/May/2025 - 01:33 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:45 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

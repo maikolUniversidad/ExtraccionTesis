@@ -1,0 +1,256 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c88f20f1976.15300518
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:23:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUSCRIPCIÓN DEL LICENCIAMIENTO DE HERRAMIENTA ANTIVIRUS Y XDR PARA LA SECRETARIA DISTRITAL DE MOVILIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 915,757,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112500, 81112200, 43233200 | SGC-222 SUSCRIPCION DEL LICENCIAMIENTO DE HERRAMIENTA ANTIVIRUS Y XDR PARA LA SECRETARIA DISTRITAL DE MOVILIDAD(18) | Selección abreviada subasta inversa | Recursos propios | $915.757.000 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Jun/2025 - 06:24 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+25/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+11/Jul/2025 - 05:54 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+11/Jul/2025 - 09:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+11/Jul/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+11/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 04:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+18/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jul/2025 - 09:04 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jul/2025 - 09:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+24/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+12/Ago/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+14/Ago/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+19/Ago/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/Ago/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Ago/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/Ago/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 22/Ago/2025 - 12:01 am | 21/Ene/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 22/Ago/2025 - 12:01 am | 21/Ene/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 22/Ago/2025 - 12:01 am | 21/Ene/2027 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+12/Ago/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+12/Ago/2025 - 02:00 pm
+
+**Fecha fin:**
+
+12/Ago/2025 - 02:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8156432 | RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO | 11/Jul/2025 - 12:54 pm |  | - |
+| General | CO1.MSG.8156422 | RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO | 11/Jul/2025 - 12:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8116277 | Observaciones al proceso | 03/Jul/2025 - 05:20 pm |  | - |

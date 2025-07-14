@@ -1,0 +1,100 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DE CULTURA Y TURISMO DE TENJO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834f6391adec3.05215746
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:13:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR LICENCIAMIENTO DE SOFTWARE DE PRODUCTIVIDAD TIPO OFFICE Y CONTRATAR EL SERVICIO DE HOSTING, INCLUYENDO SU ACTIVACIÓN, CONFIGURACIÓN Y SOPORTE TÉCNICO, CON DESTINO AL FUNCIONAMIENTO ADMINISTRATIVO Y OPERATIVO DEL INSTITUTO MUNICIPAL DE CULTURA Y TURISMO DE TENJO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Tenjo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112102 - Proveedor de servicio de correo electrónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Hosting", "licicodigos": "103,111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+km 1 via tenjo la punta Tenjo Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 30,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:05 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 05:00 pm

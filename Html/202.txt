@@ -1,0 +1,317 @@
+Title: Licitaciones - ADRES - Subasta Inversa ADRES-SASI-001-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6800543fdb1897.65944458
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 06:53:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar los servicios tecnológicos para el soporte y mantenimiento evolutivo de la solución - Sistema de Gestión Documental ORFEO. ID-020-DGTIC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,43232200 - Software de gestión de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida Calle 26 No. 69 - 76 Piso 17 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+210 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 450,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+16/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Abr/2025 - 07:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Abr/2025 - 07:48 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+25/Abr/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+30/Abr/2025 - 06:37 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+30/Abr/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+30/Abr/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+14/May/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+14/May/2025 - 11:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+19/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+27/May/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+30/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+03/Jun/2025 - 11:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:00 pm | 19/Jun/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 29/May/2025 - 12:00 pm | 19/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 29/May/2025 - 12:00 pm | 19/Jun/2026 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** U.T. EL CISCO | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 438,379,725
+
+**Informes proceso de selección CO1.AWD.2256701 de 30/May/2025 - 05:48 am. Valor $438.379.725**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 07:25 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:25 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:25 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:25 pm |  |
+| Informe de evaluación | 26/May/2025 - 03:54 pm |  |
+| Informe de evaluación | 26/May/2025 - 03:54 pm |  |
+| Informe de evaluación | 26/May/2025 - 03:54 pm |  |
+| Informe de evaluación | 26/May/2025 - 03:54 pm |  |
+| Informe de selección | 30/May/2025 - 05:48 pm |  |
+| Informe de selección | 30/May/2025 - 05:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2256701**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** U.T. EL CISCO * **Tipo documento:** * **Documento:** 0 | * **Nombre:** * **Tipo documento:** * **Documento:** 0 | Bogotá - | $438.379.725 |  | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2256701****
+
+**Cuantía a la firma del contrato:**
+
+$ 438,379,725
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+27/May/2025 - 09:45 am
+
+**Fecha de inicio:**
+
+27/May/2025 - 10:00 am
+
+**Fecha fin:**
+
+27/May/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2256701 | Informe de selección CO1.AWD.2256701 | 30/May/2025 - 05:48 pm |  | - |
+| Avisos | CO1.REQ.8193947 | Publicación modificación | 29/May/2025 - 05:46 pm |  |  |
+| General | CO1.MSG.7961479 | SOLICITUD OFERTA ECONOMICA AJUSTADA-PROPONENTE 03-CONSULTORÍAS INTEGRALES Y SOLUCIONES INFORMÁTICAS, CONTABLES Y ADMINISTRATIVAS S.A.S- CISC | 29/May/2025 - 05:14 pm |  | - |
+| General | CO1.MSG.7961414 | INFORME FINAL ECONOMICO | 29/May/2025 - 05:05 pm |  | - |
+| Avisos | CO1.MSG.7961419 | Publicación de la lista de ofertas del proceso ADRES-SASI-001-2025 (Presentación de oferta). | 29/May/2025 - 05:03 pm |  | - |
+| General | CO1.MSG.7949596 | INFORME EVENTO DE SUBASTA - ADRES-SAI-001-2025 | 28/May/2025 - 10:00 am |  | - |
+| General | CO1.MSG.7943652 | SOLICITUD PRECIOS ARTIFICIALMENTE BAJOS | 27/May/2025 - 12:11 pm |  | - |
+| Avisos | CO1.MSG.7942054 | La lista de oferentes del proceso ADRES-SASI-001-2025 (Presentación de oferta) publicada por ADRES | 27/May/2025 - 09:43 am |  | - |
+| Objeciones | CO1.MSG.7921389 | [Respondido] RE:Subsanaciòn BISA CORPORTATION SAS- informe preliminar de evaluación | 26/May/2025 - 11:37 pm |  | - |
+| General | CO1.MSG.7939371 | AVISO HORA Y FECHA AUDIENCIA DE SUBASTA - ADRES-SASI-001-2025 | 26/May/2025 - 06:35 pm |  | - |
+| Avisos | CO1.REQ.8193947 | Publicación modificación | 26/May/2025 - 05:59 pm |  |  |
+| General | CO1.MSG.7938210 | RESPUESTA A LAS OBSERVACIONES - INFORME DE EVALUACION PRELIMINAR ADRES-SASSI-001-2025 | 26/May/2025 - 03:57 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256701 | Informe de evaluación 2 CO1.AWD.2256701 | 26/May/2025 - 03:54 pm |  | - |
+| Objeciones | CO1.MSG.7921389 | Subsanaciòn BISA CORPORTATION SAS- informe preliminar de evaluación | 22/May/2025 - 11:00 am |  | - |
+| Reporte preliminar | CO1.AWD.2256701 | Informe de evaluación 1 CO1.AWD.2256701 | 19/May/2025 - 07:25 pm |  | - |
+| Avisos | CO1.REQ.8193947 | Publicación modificación | 15/May/2025 - 11:22 am |  |  |
+| Avisos | CO1.MSG.7881876 | Publicación de la lista de ofertas del proceso ADRES-SASI-001-2025 (Presentación de oferta). | 14/May/2025 - 02:52 pm |  | - |
+| Avisos | CO1.MSG.7881085 | La lista de oferentes del proceso ADRES-SASI-001-2025 (Presentación de oferta) publicada por ADRES | 14/May/2025 - 01:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7816025 | RESPUESTA A LAS OBSERVACIONES PROYECTO DE PLIEGO ADRES-SASI-001-2025 | 29/Abr/2025 - 07:19 pm |  | - |
+| General | CO1.MSG.7816014 | RESPUESTA A LAS OBSERVACIONES PROYECTO PLIEGO DE CONDICIONES ADRES-SASI-001-2025 | 29/Abr/2025 - 07:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7802475 | Observaciones Sinergy & Lowells S.A.S | 25/Abr/2025 - 06:29 pm |  | - |

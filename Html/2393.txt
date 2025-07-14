@@ -1,0 +1,90 @@
+Title: Licitaciones - UNIDAD AESPE - Solicitud de información a los Proveedores (SECOPII) SPE-SDT-SIP-015-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682c9a49710bc5.05462471
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:36:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar el licenciamiento del antivirus Kaspersky Next EDR Optimum, incluido los servicios de configuración, soporte, afinamiento y puesta en marcha de la solución para los equipos de la Unidad Administrativa Especial del Servicio Público de Empleo - UAESPE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 69 N° 25 B - 44 Piso 7 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 09:42 am
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 05:00 pm

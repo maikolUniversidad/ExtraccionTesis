@@ -1,0 +1,86 @@
+Title: Licitaciones - METRO DE BOGOTA SA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68220040a5df04.49056524
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:22:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir el certificado de sitio seguro SSL WILDCARD avanzado y firmas digitales para el cifrado de los datos dispuestos en la web y la autenticación de los funcionarios de la Empresa Metro de Bogotá S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus,81112208 - Mantenimiento de software de protección y seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 9 # 76-49 Pisos 3-4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 08:21 am
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 11:59 pm

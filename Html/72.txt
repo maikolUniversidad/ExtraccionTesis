@@ -1,0 +1,260 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68555599598398.00548948
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:48:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Concurso de méritos abierto
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contrato de consultoría para el desarrollo de una herramienta para la calidad del dato en la interoperabilidad de los sistemas de recaudo de la Federación Colombiana de Municipios en cumplimiento de la función pública asignada - Simit
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Reino Unido e Irlanda del Norte
+
+**Tipo de contrato:**
+
+Consultoría
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,547,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300 | contrato de consultoria para el desarrollo de una herramienta para la calidad del dato en la interoperabilidad de los sistemas de recaudo de la Federación Colombiana de Municipios en cumplimiento de la función pública asignada - Simit. | Contratación directa (con ofertas) | Recursos propios | $1.547.000.000 | SECRETARÍA GENERAL |
+
+Cronograma:
+
+**Fecha de Publicación del Proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 07:20 am
+
+**Publicación del aviso de convocatoria pública:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al proyecto de pliegos y condiciones:**
+
+03/Jul/2025 - 11:58 pm
+
+**Respuesta a las observaciones al Proyecto Pliego de Condiciones:**
+
+03/Jul/2025 - 11:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 11:59 pm
+
+**Fecha prevista de publicación de los pliegos de condiciones definitivos:**
+
+04/Jul/2025 - 11:59 pm
+
+**Fecha de publicación de los pliegos de condiciones definitivos:**
+
+09/Jul/2025 - 07:50 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivo:**
+
+14/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jul/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jul/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+18/Jul/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jul/2025 - 10:03 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe evaluación de las ofertas:**
+
+30/Jul/2025 - 05:00 pm
+
+**Expedición del acto de adjudicación o de declaratoria desierta:**
+
+04/Ago/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+05/Ago/2025 - 07:00 pm
+
+**Entrega de las garantías o pólizas de ejecución del contrato:**
+
+06/Ago/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Ago/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+06/Ago/2025 - 08:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+06/Ago/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Ago/2025 - 12:00 pm | 29/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 06/Ago/2025 - 12:00 pm | 29/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 06/Ago/2025 - 12:00 pm | 29/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8156474 | RE: RE: RE: Observación pliego definitivo | 11/Jul/2025 - 01:04 pm |  | - |
+| General | CO1.MSG.8149471 | RE: Observación pliego definitivo | 10/Jul/2025 - 01:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8149442 | RE: OBSERVACION ERROR DE PLIEGOS | 10/Jul/2025 - 12:58 pm |  | - |
+| General | CO1.MSG.8149393 | RE: Error de los pliegos definitivos | 10/Jul/2025 - 12:45 pm |  | - |
+| Avisos | CO1.REQ.8542460 | Publicación modificación | 10/Jul/2025 - 07:40 am |  |  |
+| Aclaraciones | CO1.MSG.8146562 | PLIEGO DE CONDICIONES DEFINITIVO | 10/Jul/2025 - 07:16 am |  | - |
+| Aclaraciones | CO1.MSG.8146103 | OBSERVACION ERROR DE PLIEGOS | 09/Jul/2025 - 08:43 pm |  | - |
+| General | CO1.MSG.8131783 | Respuesta observaciones proyecto de pliego de condiciones | 07/Jul/2025 - 09:48 pm |  | - |
+| General | CO1.MSG.8115735 | Respuesta observaciones proyecto de pliego de condiciones | 03/Jul/2025 - 04:43 pm |  | - |
+| General | CO1.MSG.8107833 | RE: Observaciones al proyecto pliego de condiciones | 02/Jul/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.8107822 | RE: Observaciones | 02/Jul/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.8107766 | RE: Observaciones a los pliegos de condiciones | 02/Jul/2025 - 03:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8095009 | Proceso: Concurso de Méritos CM-02-FCM-2025 | 27/Jun/2025 - 04:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8094935 | OBSERVACIONES CM-02-FCM-2025 | 27/Jun/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8094915 | Observación Invitación aviso de convocatoria | 27/Jun/2025 - 04:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8094820 | Observaciones Prepliegos Grow Data SAS | 27/Jun/2025 - 04:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8094274 | OBSERVACIONES AL PREPLIEGO | 27/Jun/2025 - 03:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8094111 | Observaciones Pliego de Condiciones BIT512 | 27/Jun/2025 - 03:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8093955 | Observaciones | 27/Jun/2025 - 02:45 pm |  | - |
+| Aclaraciones | CO1.MSG.8093188 | Observaciones al Proyecto de Pliego - CM_02_FCM-2025_ Rockwater Partners | 27/Jun/2025 - 12:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8091676 | OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 27/Jun/2025 - 09:30 am |  | - |
+| Aclaraciones | CO1.MSG.8087881 | OBSERVACIONES PREPLIEGOS | 26/Jun/2025 - 03:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8087430 | OBSERVACIONES AL PREPLIEGO | 26/Jun/2025 - 02:34 pm |  | - |
+| Aclaraciones | CO1.MSG.8087383 | OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 26/Jun/2025 - 02:28 pm |  | - |
+| Aclaraciones | CO1.MSG.8087248 | Observaciones al proyecto de pliegos | 26/Jun/2025 - 02:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8086859 | Observaciones Concurso de Méritos CM-02-FCM-2025 | 26/Jun/2025 - 12:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8085703 | Observaciones a los documentos | 26/Jun/2025 - 10:45 am |  | - |
+| Aclaraciones | CO1.MSG.8084919 | Solicitud de aclaraciones | 26/Jun/2025 - 09:37 am |  | - |
+| Aclaraciones | CO1.MSG.8081060 | Solicitud de Prórroga para Presentar Preguntas | 25/Jun/2025 - 03:47 pm |  | - |

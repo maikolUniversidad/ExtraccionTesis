@@ -1,0 +1,318 @@
+Title: Licitaciones - DEPARTAMENTO DE ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6811243ce84766.42827723
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 06:27:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Servicios para renovar el periodo de suscripción de la plataforma Linux Enterprise del Departamento de Antioquia
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 42 B No. 52-106, PISO 6 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+365 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 786,836,922
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800 | SERVICIOS PARA RENOVAR EL PERIODO DE SUSCRIPCIÓN DE LA PLATAFORMA LINUX ENTERPRISE DEL DEPARTAMENTO DE ANTIOQUIA | Selección abreviada subasta inversa | NotApplied | $786.836.922 | 173H SECRETARÍA DE TALENTO HUMANO Y DESARROLLO ORGANIZACIONAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+29/Abr/2025 - 01:58 pm
+
+**Publicación Estudios Previos:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+09/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 04:36 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 07:30 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+14/May/2025 - 07:30 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+21/May/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+21/May/2025 - 10:30 am
+
+**Publicación del informe de verificación o evaluación:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+03/Jun/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 03:30 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 03:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Jun/2025 - 03:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+Si
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jun/2025 - 12:00 am | 03/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jun/2025 - 12:00 am | 03/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 03/Jun/2025 - 12:00 am | 03/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UNION TEMPORAL REDCOMPUTO-ENTELGY-PSA-031-2021 | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 689,004,640
+
+**Informes proceso de selección CO1.AWD.2262572 de 17/Jun/2025 - 02:57 am. Valor $689.004.640**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 03:54 pm |  |
+| Informe de evaluación | 30/May/2025 - 12:49 pm |  |
+| Informe de selección | 17/Jun/2025 - 02:57 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262572**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UNION TEMPORAL REDCOMPUTO-ENTELGY-PSA-031-2021 * **Tipo documento:** * **Documento:** 0 | - | Bogotá - | $689.004.640 |  | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262572****
+
+**Cuantía a la firma del contrato:**
+
+$ 689,004,640
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+03/Jun/2025 - 02:00 pm
+
+**Fecha fin:**
+
+03/Jun/2025 - 02:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262572 | Informe de selección CO1.AWD.2262572 | 17/Jun/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.7974012 | PANTALLAZO EVENTO SUBASTA INVERSA ELECTRÓNICA N°16497 | 03/Jun/2025 - 02:52 pm |  | - |
+| Avisos | CO1.MSG.7971384 | La lista de oferentes del proceso 16497 (Presentación de oferta) publicada por DEPARTAMENTO DE ANTIOQUIA | 03/Jun/2025 - 09:30 am |  | - |
+| Avisos | CO1.MSG.7971390 | Publicación de la lista de ofertas del proceso 16497 (Presentación de oferta). | 03/Jun/2025 - 09:30 am |  | - |
+| General | CO1.MSG.7965723 | RESPUESTA A OBSERVACIONES AL INFORME DE EVALUACIÓN Y SUBSANACIONES LINUX N°16497 | 30/May/2025 - 12:50 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262572 | Informe de evaluación 2 CO1.AWD.2262572 | 30/May/2025 - 12:49 pm |  | - |
+| General | CO1.MSG.7964174 | RE: Observaciones Programación Subasta | 30/May/2025 - 09:48 am |  | - |
+| Avisos | CO1.REQ.8263316 | Publicación modificación | 30/May/2025 - 09:47 am |  |  |
+| Avisos | CO1.REQ.8263316 | Publicación modificación | 28/May/2025 - 12:49 pm |  |  |
+| General | CO1.MSG.7950350 | MENSAJE CRONOGRAMA DEL PROCESO | 28/May/2025 - 11:08 am |  | - |
+| Avisos | CO1.REQ.8263316 | Publicación modificación | 28/May/2025 - 11:05 am |  |  |
+| Avisos | CO1.MSG.7948507 | Publicación de la lista de ofertas del proceso 16497 (Presentación de oferta). | 28/May/2025 - 07:44 am |  | - |
+| General | CO1.MSG.7938209 | INFORME EVALUACIÓN OFERTAS PLIEGO CONDICIONES N°16497 | 26/May/2025 - 03:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262572 | Informe de evaluación 1 CO1.AWD.2262572 | 26/May/2025 - 03:54 pm |  | - |
+| Avisos | CO1.MSG.7913833 | La lista de oferentes del proceso 16497 (Presentación de oferta) publicada por DEPARTAMENTO DE ANTIOQUIA | 21/May/2025 - 10:04 am |  | - |
+| General | CO1.MSG.7903409 | RE: Observaciones | 19/May/2025 - 04:28 pm |  | - |
+| Aclaraciones | CO1.MSG.7903415 | RE: OBSERVACIONES AL PROCESO, Observacion Pliego Definitivo, Observaciones_Entelgy | 19/May/2025 - 04:28 pm |  | - |
+| General | CO1.MSG.7903387 | RESPUESTA OBSERVACIONES PROYECTO PLIEGO DEFINITIVO N°16497 | 19/May/2025 - 04:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7896566 | Observaciones_Entelgy | 16/May/2025 - 04:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7896539 | OBSERVACIONES AL PROCESO | 16/May/2025 - 04:54 pm |  | - |
+| Aclaraciones | CO1.MSG.7894304 | Observacion Pliego Definitivo | 16/May/2025 - 12:37 pm |  | - |
+| General | CO1.MSG.7873657 | RESPUESTA OBSERVACIONES AL PROYECTO PLIEGO DE CONDICIONES N°16497 | 13/May/2025 - 12:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7873647 | RESPUESTA OBSERVACIONES AL PROYECTO PLIEGO DE CONDICIONES N°16497 | 13/May/2025 - 12:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7860543 | Observaciones Entelgy Departamento Antioquia | 09/May/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7815268 | OBSERVACIONES PREPLIEGO | 29/Abr/2025 - 05:27 pm |  | - |

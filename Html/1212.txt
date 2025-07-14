@@ -1,0 +1,284 @@
+Title: Licitaciones - CONTRALORIA MUNICIPAL DE IBAGUE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c8c46efa1b7.42654711
+
+Markdown Content:
+Licitaciones - CONTRALORIA MUNICIPAL DE IBAGUE - Contratación mínima cuantía MC-004-2025. 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-27 06:38:52
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE INSUMOS DE PAPELERÍA, ÚTILES DE OFICINA Y CONSUMIBLES DE IMPRESIÓN PARA LA CONTRALORÍA MUNICIPAL DE IBAGUÉ
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Tolima : Ibagué
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111500 - Papel de imprenta y papel de escribir
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Palacio Municipal Piso 3 Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111506, 14111514, 14111530, 14111823, 26111701, 26111704, 31201503, 31201512, 31201522, 31201610, 41111604, 42295407, 43201809, 43201810, 43202010, 43202101, 43211708, 43211802, 44101602, 44103103, 44103502, 44111515, 44111914, 44112004, 44112006, 44121503, 44121612, 44121613, 44121615, 44121618, 44121619, 44121621, 44121704, 44121705, 44121706, 44121707, 44121708, 44121716, 44121804, 44121805, 44121902, 44122003, 14111703, 14111704, 14111705, 24101510, 42132203, 44122022, 44122104, 44122105, 47121701, 55121503, 60105704, 60121120, 60123202, 47121803, 47131501, 41111951, 41112200, 47131502, 47131608, 47131619, 47131801, 47131803, 47131810, 47131811, 47131816, 47131820, 47131821, 47131824, 47131830, 47131909, 50201706, 50201712, 51102710, 52151504, 52151505, 53131608, 53131626, 55101504, 72102103, 39121004 | Materiales y suministros | Mínima cuantía | Recursos propios | $28.892.958 | Unidad De Contratacion |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 03:11 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 03:30 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 03:30 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 04:15 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 10:00 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 02:10 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 02:15 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/Jun/2025 - 07:00 am | 11/Ene/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 27/Jun/2025 - 07:00 am | 11/Ene/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JDI SAS | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 11,682,100
+
+**Informes proceso de selección CO1.AWD.2291238 de 26/Jun/2025 - 05:18 am. Valor $11.682.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Jun/2025 - 02:02 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:09 pm |  |
+| Informe de selección | 26/Jun/2025 - 05:18 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2291238**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA Y SUMINISTROS JDI SAS * **Tipo documento:** NIT * **Documento:** 901800130 | * **Nombre:** JULIO CESAR BELTRAN GARZON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93386132 | Ibagué - Tolima | $11.682.100 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2291238****
+
+**Cuantía a la firma del contrato:**
+
+$ 11,682,100
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2291238 | Informe de selección CO1.AWD.2291238 | 26/Jun/2025 - 05:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291238 | Informe de evaluación 2 CO1.AWD.2291238 | 26/Jun/2025 - 05:09 pm |  | - |
+| Avisos | CO1.REQ.8412468 | Publicación modificación | 25/Jun/2025 - 02:13 pm |  |  |
+| Reporte preliminar | CO1.AWD.2291238 | Informe de evaluación 1 CO1.AWD.2291238 | 25/Jun/2025 - 02:02 pm |  | - |
+| Avisos | CO1.REQ.8412468 | Publicación modificación | 24/Jun/2025 - 08:32 am |  |  |
+| General | CO1.MSG.8052540 | Acta De Expresión de Intereses de Limitación | 18/Jun/2025 - 03:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8052514 | RE: OBSERVACIONES HP | 18/Jun/2025 - 03:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8040506 | OBSERVACIONES HP | 16/Jun/2025 - 08:32 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:19 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

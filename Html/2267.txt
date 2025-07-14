@@ -1,0 +1,105 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) OFTIC-GRUMA001
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681386cc3b4662.55151513
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 10:15:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO EQUIPOS DE CÓMPUTO Y PERIFÉRICOS PARA LA POLICÍA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 59 26-21 Can Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+360 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+01/May/2025 - 09:28 am
+
+**Plazo para solicitar aclaraciones:**
+
+06/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8196013 | Publicación modificación | 14/May/2025 - 05:22 pm |  |  |
+| Avisos | CO1.REQ.8196013 | Publicación modificación | 12/May/2025 - 10:28 am |  |  |
+| Aclaraciones | CO1.MSG.7839727 | RE: Observación DILOF | 06/May/2025 - 02:42 pm |  | - |
+| Avisos | CO1.REQ.8196013 | Publicación modificación | 06/May/2025 - 02:32 pm |  |  |
+| Aclaraciones | CO1.MSG.7832285 | Observación DILOF | 05/May/2025 - 11:46 am |  | - |
+| Avisos | CO1.REQ.8196013 | Publicación modificación | 01/May/2025 - 09:31 am |  |  |

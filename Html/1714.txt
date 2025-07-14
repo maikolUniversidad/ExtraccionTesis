@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO ATABANZHA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b8838be0e80.48962696
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-25 08:06:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar Contratar SE REQUIERE LA ACTUALIZACIÓN DEL APLICATIVO CONTABLE AS FINANCIERO PARA LLEVAR EL CONTROL DEL FSE -COLEGIO ATABANZHA PARA LA VIGENCIA 2025 para el COLEGIO ATABANZHA I.E.D. para el COLEGIO ATABANZHA I.E.D.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 92 SUR 2-43 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,200,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512 | GASTOS DE COMPUTADOR | Contratación régimen especial - Régimen especial | SGP | $1.200.000 | Pagaduria |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 07:52 am
+
+**Fecha de Firma del Contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+07/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

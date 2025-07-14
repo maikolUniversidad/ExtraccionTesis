@@ -1,0 +1,204 @@
+Title: Licitaciones - MUNICIPIO DE PUERTO GAITAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6821eb5ed18a17.71783127
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:08:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE REPUESTOS PARA EL MANTENIMIENTO Y REPARACIÓN DE IMPRESORAS Y ESCANER A TODO COSTO, PARA EL ÒPTIMO FUNCIONAMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA ADMINISTRACIÓN MUNICIPAL DE PUERTO GAITÁN - META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Puerto Gaitán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador,44103100 - Suministros para impresora, fax y fotocopiadora,72154066 - Mantenimiento general de equipos de oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 10 # 10 - 60 Puerto Gaitán Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211600, 43232304, 43233501, 72154066 | 62284 Comercio al por menor de computadores y programas de informática integrados en establecimientos especializados | Contratación directa | Recursos propios | $75.000.000 | SECRETARIA GENERAL, ADMINISTRATIVA Y TELECOMUNICACIONES |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 07:29 am
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+12/May/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+13/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+15/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+15/May/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/May/2025 - 08:00 am
+
+**Aceptación de ofertas:**
+
+22/May/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/May/2025 - 10:00 am | 19/Feb/2026 - 11:59 pm |
+| Pago de salarios | 15,00 | 19/May/2025 - 10:00 am | 19/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 19/May/2025 - 10:00 am | 19/Feb/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.7906763 | Observaciones | 20/May/2025 - 10:08 am |  | - |
+| Reporte preliminar | CO1.AWD.2254007 | Informe de evaluación 2 CO1.AWD.2254007 | 20/May/2025 - 08:14 am |  | - |
+| Avisos | CO1.REQ.8243268 | Publicación modificación | 19/May/2025 - 08:27 am |  |  |
+| General | CO1.MSG.7899139 | ADENDA | 19/May/2025 - 08:24 am |  | - |
+| Objeciones | CO1.MSG.7893624 | Documentos subsanables | 16/May/2025 - 11:21 am |  | - |
+| Avisos | CO1.MSG.7892192 | Publicación de la lista de ofertas del proceso MC-SGAT-025-2025. | 16/May/2025 - 08:41 am |  | - |
+| Reporte preliminar | CO1.AWD.2254007 | Informe de evaluación 1 CO1.AWD.2254007 | 16/May/2025 - 08:39 am |  | - |
+| Avisos | CO1.MSG.7885448 | La lista de oferentes del proceso MC-SGAT-025-2025 publicada por MUNICIPIO DE PUERTO GAITAN | 15/May/2025 - 08:19 am |  | - |
+| General | CO1.MSG.7875333 | AVISO DE LIMITACIÓN A MIPYMES | 13/May/2025 - 03:55 pm |  | - |
+| Avisos | CO1.REQ.8243268 | Publicación modificación | 13/May/2025 - 03:54 pm |  |  |
+| Aclaraciones | CO1.MSG.7875248 | LIMITACIÓN A MIPYMES | 13/May/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7871342 | LIMITACION MIPYME | 13/May/2025 - 08:38 am |  | - |
+| Aclaraciones | CO1.MSG.7871249 | SOLICITUD DE LIMITACION MIPYME DEPARTAMENTAL | 13/May/2025 - 08:25 am |  | - |

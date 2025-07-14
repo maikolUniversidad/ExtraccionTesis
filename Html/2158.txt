@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL CUNDINAMARCA Grupo Administrativo CDAE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855d52649c870.26646566
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 14:36:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+5_9509_146 Compraventa de materiales de formación para la red de conocimiento Electrónica y automatización en el marco del programa de formación del CDAE- Regional Cundinamarca.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Villeta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+32151705 - Módulo de controlador lógico programable
+
+**Códigos adicionales UNSPSC:**
+
+32151704 - Chasis de controlador lógico programable,26121635 - Rollos de cable,32151702 - Interfaz pc red control,32151703 - Accesorios de controlador lógico programable,39121007 - Conversores de frecuencia,39121409 - Conectores de cables eléctricos,39121432 - Terminales eléctricos,39121528 - Sensores fotoeléctricos,39121529 - Contactores,39122003 - Unidad de servo control,39122230 - Interruptor de proximidad,39122315 - Relé electromagnético,39131714 - Canaletas para cables,41111933 - Sensores de carga eléctrica,41111946 - Sensores de inductancia eléctrica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Electrónica - Robótica", "licicodigos": "212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 2 No. 13 - 03 Barrio San Rafael Villeta Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 04:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 11:59 pm

@@ -1,0 +1,133 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA TECNICO TUNIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c06b6408856.52834173
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 09:01:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio continuo de la plataforma Sistema Integral para la Gestión de Información Académica y su respectivo soporte, a favor de la Institución Educativa Técnico Tunia durante el periodo académico 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Piendamó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231513 - Software para oficinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AV PANAMERICANA CORR TUNIA Piendamó Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,950,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231513 | Software para oficinas | Contratación régimen especial - Régimen especial | SGP | $1.950.000 | UNIDAD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 05:03 pm
+
+**Fecha de Firma del Contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+02/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8169060 | Publicación modificación | 02/May/2025 - 02:51 pm |  |  |
+| Avisos | CO1.REQ.8169060 | Publicación modificación | 30/Abr/2025 - 01:17 pm |  |  |

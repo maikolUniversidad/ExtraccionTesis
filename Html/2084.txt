@@ -1,0 +1,96 @@
+Title: Licitaciones - ESCUELA SUPERIOR DE GUERRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68534dc68c21f0.46783558
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:00:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS AUDIOVISUALES Y ACCESORIOS PARA LA ESCUELA SUPERIOR DE GUERRA GENERAL RAFAEL REYES PRIETO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161500 - Equipos audiovisuales
+
+**Códigos adicionales UNSPSC:**
+
+52161600 - Accesorios de equipo audiovisual,45111901 - Sistemas de audio conferencias,45111902 - Sistemas de video conferencias,52161520 - Micrófonos,52161551 - Micrófono inalámbrico y sistema de amplificación de instrumentos,45121504 - Cámaras digitales,45121510 - Cámaras aéreas,45121516 - Cámaras grabadoras o video cámaras digitales,52161512 - Altoparlantes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 11 # 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 06:15 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8436982 | Publicación modificación | 25/Jun/2025 - 05:51 pm |  |  |

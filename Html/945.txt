@@ -1,0 +1,285 @@
+Title: Licitaciones - CONCEJO MUNICIPIO DE MIRANDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a6291e53d37.03510207
+
+Markdown Content:
+Licitaciones - CONCEJO MUNICIPIO DE MIRANDA - Contratación mínima cuantía MC-02-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-01 02:32:44
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE EQUIPOS DE OFICINA, ELEMENTOS DE PAPELERÍA, CAFETERÍA Y ASEO NECESARIOS PARA DESARROLLAR LAS ACTIVIDADES OPERATIVAS Y ADMINISTRATIVAS DEL CONCEJO MUNICIPAL DEL MUNICIPIO DE MIRANDA, CAUCA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cauca : Miranda
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111700 - Productos de papel para uso personal
+
+**Códigos adicionales UNSPSC:**
+14111500 - Papel de imprenta y papel de escribir,47121800 - Equipo de limpieza,48101800 - Menaje y utensilios de cocina,48101900 - Tazas para servicio de mesa,50161500 - Chocolates, azúcares, edulcorantes productos,50201700 - Café y té,50202300 - Bebidas no alcohólicas,47131600 - Escobas, traperos, cepillos y accesorios,47131800 - Soluciones de limpieza y desinfección,44121900 - Repuestos de tinta y minas de lápices,44122000 - Carpetas de archivo, carpetas y separadores,44101800 - Máquinas calculadoras y accesorios,43202000 - Dispositivos de almacenamiento extraíbles,72154000 - Servicios de edificios especializados y comercios,50131700 - Productos de leche y mantequilla,44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,43201800 - Dispositivos de almacenamiento,43202100 - Accesorios de dispositivos de almacenamiento extraíbles,44111900 - Tableros,44111500 - Agendas y accesorios,44111515 - Cajas u organizadores de almacenamiento de archivos,44121615 - Grapadoras,44121618 - Tijeras,42132203 - Guantes de examen o para procedimientos no quirúrgicos,31163229 - Clip retenedor metálico,42131606 - Máscaras quirúrgicas o de aislamiento para personal médico,52141524 - Licuadoras para uso doméstico,52152100 - Cristalería de uso doméstico,12352310 - Siliconas,50181900 - Pan y galletas y pastelitos dulces,52151500 - Utensilios de cocina desechables domésticos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artículos de cafetería y víveres, -Artículos de aseo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,186,260,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Calle 6 Nro 5 - 21 - PIso 2 Miranda Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121600, 44121700, 44121900, 44122100, 44103103, 44103105, 44121804, 44122104, 44122003, 50201700, 50161509, 52151504, 47131600, 47131700, 47131800 | Contratar el suministro de elementos de oficina, maquinaria de informatica y sus partes, dotación y mantenimiento de equipo, textiles, prendas de vestir, productos de cuero papelería, cafetería y aseo para el Concejo Municipal | Mínima cuantía | Recursos propios | $45.000.000 | CONCEJO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 10:28 am
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 10:30 am
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 10:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 10:30 am
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 10:30 am
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 12:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 02:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 02:30 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 02:30 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 02:40 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 02:50 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 04:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 04:30 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 02:13 pm | * **Nombre:** JPM INGENIERIAS | Miranda - Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 29,537,194
+
+**Informes proceso de selección CO1.AWD.2236956 de 30/Abr/2025 - 09:45 am. Valor $29.537.194**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/Abr/2025 - 04:38 pm |  |
+| Informe de selección | 30/Abr/2025 - 09:45 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2236956**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** JUAN PAULO MOSQUERA PIZARRO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1059062758 | * **Nombre:** juan paulo mosquera pizarro * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1059062758 | Miranda - Cauca | $29.537.194 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2236956****
+
+**Cuantía a la firma del contrato:**
+
+$ 29,537,194
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2236956 | Informe de selección CO1.AWD.2236956 | 30/Abr/2025 - 09:45 am |  | - |
+| Reporte preliminar | CO1.AWD.2236956 | Informe de evaluación 1 CO1.AWD.2236956 | 28/Abr/2025 - 04:38 pm |  | - |
+| Avisos | CO1.MSG.7807046 | La lista de oferentes del proceso MC-02-2025 publicada por CONCEJO MUNICIPIO DE MIRANDA | 28/Abr/2025 - 02:52 pm |  | - |
+| Avisos | CO1.REQ.8159052 | Publicación modificación | 25/Abr/2025 - 12:46 pm |  |  |
+| Avisos | CO1.REQ.8159052 | Publicación modificación | 25/Abr/2025 - 12:19 pm |  |  |
+| Aclaraciones | CO1.MSG.7794013 | OBSERVACIÓN | 24/Abr/2025 - 03:08 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:47 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

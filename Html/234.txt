@@ -1,0 +1,180 @@
+Title: Licitaciones - ARTESANIAS DE COLOMBIA S.A
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68063548dac8a3.54127949
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 06:36:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE SOFTWARE A LA ÚLTIMA VERSIÓN LIBERADA EN EL MERCADO PARA ACTUALIZAR Y BRINDAR LAS SOLUCIONES A LOS REQUERIMIENTOS DE LOS FUNCIONARIOS DE LA ENTIDAD, CON EL FIN DE INTEGRAR TODAS LAS HERRAMIENTAS NECESARIAS Y LOGRAR RESULTADOS ÓPTIMOS Y DE CALIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 No. 18A - 58 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+212 Días
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+21/Abr/2025 - 07:00 am
+
+**Fecha límite de presentación de ofertas:**
+
+05/May/2025 - 03:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+05/May/2025 - 03:05 pm
+
+**Fecha de Firma del Contrato:**
+
+13/May/2025 - 05:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+14/May/2025 - 08:00 am
+
+**Plazo de ejecución del contrato:**
+
+12/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 08:00 am | 12/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 14/May/2025 - 08:00 am | 12/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MEN | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 340,000,000
+
+**Informes proceso de selección CO1.AWD.2247401 de 13/May/2025 - 05:02 am. Valor $340.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 08:00 am |  |
+| Informe de selección | 13/May/2025 - 05:02 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247401**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MINISTERIO DE EDUCACION NACIONAL * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 8999990017 | * **Nombre:** PATRICIA RODRIGUEZ * **Tipo documento:** * **Documento:** 52105427 | - Distrito Capital de Bogotá | $340.000.000 | - | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247401****
+
+**Cuantía a la firma del contrato:**
+
+$ 340,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247401 | Informe de selección CO1.AWD.2247401 | 13/May/2025 - 05:02 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247401 | Informe de evaluación 1 CO1.AWD.2247401 | 09/May/2025 - 08:00 am |  | - |
+| General | CO1.MSG.7846783 | RE: Solicitud de Subsanación Proceso de Invitación Abierta ADC-002-2025 | 07/May/2025 - 03:53 pm |  | - |
+| General | CO1.MSG.7842819 | Asunto: Respuesta Subsanación Invitación Abierta Nro. ADC-002-2025 GOLD SYS | 06/May/2025 - 07:43 pm |  | - |
+| General | CO1.MSG.7841087 | RE: Solicitud de Subsanación Proceso de Invitación Abierta ADC-002-2025 | 06/May/2025 - 04:25 pm |  | - |
+| General | CO1.MSG.7840688 | Solicitud de Subsanación Proceso de Invitación Abierta ADC-002-2025 | 06/May/2025 - 03:52 pm |  | - |
+| General | CO1.MSG.7840417 | Solicitud de Subsanación Proceso de Invitación Abierta ADC-002-2025 | 06/May/2025 - 03:36 pm |  | - |
+| Avisos | CO1.MSG.7834045 | Publicación de la lista de ofertas del proceso ADC-002-2025. | 05/May/2025 - 03:22 pm |  | - |
+| General | CO1.MSG.7833970 | Acta apertura de ofertas invitación abierta ADC-002-2025 | 05/May/2025 - 03:17 pm |  | - |
+| Avisos | CO1.MSG.7833890 | La lista de oferentes del proceso ADC-002-2025 publicada por ARTESANIAS DE COLOMBIA S.A | 05/May/2025 - 03:09 pm |  | - |
+| Avisos | CO1.REQ.8133648 | Publicación modificación | 25/Abr/2025 - 08:11 am |  |  |
+| Aclaraciones | CO1.MSG.7792790 | RE: Solicitud apertura por lotes - MEGACAD | 24/Abr/2025 - 12:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7786556 | Solicitud apertura por lotes - MEGACAD | 23/Abr/2025 - 02:18 pm |  | - |

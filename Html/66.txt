@@ -1,0 +1,284 @@
+Title: Licitaciones - DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682532ee9f5d59.56001029
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:52:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar el servicio de mantenimiento preventivo y correctivo para los equipos activos de red, los equipos de videoconferencia y los servidores de la DIAN a nivel nacional
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111803 - Mantenimiento o soporte de redes de área local (lan)
+
+**Códigos adicionales UNSPSC:**
+
+81111809 - Servicio de instalación de sistemas,81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112305 - Mantenimiento de servidores x86,81112303 - Mantenimiento de computadores “mainframe”
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales", "licicodigos": "106,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 62 No. 46 – 22 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,900,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112303 | 110-I-100154183-Prestar el servicio de mantenimiento preventivo y correctivo para los equipos activos de red, los equipos de videoconferencia y los servidores de la DIAN a nivel nacional. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $1.900.000.000 | 13-10-00-000-Sub de Infraestructura Tecnológica y de Operaciones |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 07:04 pm
+
+**Publicación Estudios Previos:**
+
+14/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 10:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/May/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+30/May/2025 - 12:33 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+30/May/2025 - 11:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 08:30 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+17/Jun/2025 - 08:32 am
+
+**Informe de presentación de Ofertas:**
+
+17/Jun/2025 - 08:34 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 12:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+01/Jul/2025 - 09:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+18/Jul/2025 - 01:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 08/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 08/Jul/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 08/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 08/Jul/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+01/Jul/2025 - 10:30 am
+
+**Fecha de inicio:**
+
+01/Jul/2025 - 11:00 am
+
+**Fecha fin:**
+
+01/Jul/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8156669 | Documentos Adjudicación | 11/Jul/2025 - 01:46 pm |  | - |
+| General | CO1.MSG.8153346 | Documentos adjudicación | 10/Jul/2025 - 07:54 pm |  | - |
+| General | CO1.MSG.8153340 | documento de respuestas a la solicitud de repetir la subasta | 10/Jul/2025 - 07:53 pm |  | - |
+| Avisos | CO1.REQ.8345704 | Publicación modificación | 09/Jul/2025 - 03:00 pm |  |  |
+| Avisos | CO1.REQ.8345704 | Publicación modificación | 07/Jul/2025 - 11:59 am |  |  |
+| General | CO1.MSG.8120893 | RE: Solicitud justificación del ofrecimiento de precios Subasta SASI-00-007-2025 | 04/Jul/2025 - 02:12 pm |  | - |
+| General | CO1.MSG.8120654 | Ofrecimiento Precios Bajos | 04/Jul/2025 - 01:33 pm |  | - |
+| General | CO1.MSG.8120595 | Justificación Precio Subasta | 04/Jul/2025 - 01:18 pm |  | - |
+| General | CO1.MSG.8120111 | RE: Solicitud justificación del ofrecimiento de precios Subasta SASI-00-007-2025-SELCOMP | 04/Jul/2025 - 12:01 pm |  | - |
+| General | CO1.MSG.8119726 | RE: Solicitud justificación del ofrecimiento de precios Subasta SASI-00-007-2025 | 04/Jul/2025 - 11:13 am |  | - |
+| General | CO1.MSG.8114359 | Solicitud justificación del ofrecimiento de precios Subasta SASI-00-007-2025 | 03/Jul/2025 - 02:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289746 | Informe de evaluación 3 CO1.AWD.2289746 | 01/Jul/2025 - 10:40 am |  | - |
+| General | CO1.MSG.8099145 | RE: CONSULTA | 01/Jul/2025 - 10:35 am |  | - |
+| General | CO1.MSG.8099110 | documento de rechazo de oferta por superar precios unitarios de referencias SERTECOPY SAS | 01/Jul/2025 - 10:32 am |  | - |
+| Avisos | CO1.MSG.8099037 | Publicación de la lista de ofertas del proceso SASI-00-007-2025 (Presentación de oferta). | 01/Jul/2025 - 10:24 am |  | - |
+| Avisos | CO1.MSG.8099026 | La lista de oferentes del proceso SASI-00-007-2025 (Presentación de oferta) publicada por DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES* | 01/Jul/2025 - 10:23 am |  | - |
+| General | CO1.MSG.8098569 | RE: RUP S&S CR S.A.S | 01/Jul/2025 - 09:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2289746 | Informe de evaluación 2 CO1.AWD.2289746 | 01/Jul/2025 - 09:04 am |  | - |
+| General | CO1.MSG.8098255 | Documento de respuesta a la subsanación jurídicas UNION TEMPORAL SOLUSOFT 2025 | 01/Jul/2025 - 09:00 am |  | - |
+| General | CO1.MSG.8097835 | RE: Requerimiento Jurídico UNION TEMPORAL SOLUSOFT 2025 | 01/Jul/2025 - 06:47 am |  | - |
+| General | CO1.MSG.8078284 | SERTECOPY SAS SUBSANAR | 25/Jun/2025 - 03:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289746 | Informe de evaluación 1 CO1.AWD.2289746 | 24/Jun/2025 - 03:27 pm |  | - |
+| General | CO1.MSG.8057622 | RE: Requerimiento Juridico Oferente-ITELCA SAS | 19/Jun/2025 - 11:16 am |  | - |
+| General | CO1.MSG.8056362 | ATENCION REQUERIMIENTO JURIDICO | 19/Jun/2025 - 09:28 am |  | - |
+| General | CO1.MSG.8050311 | Requerimiento Juridico COMSISTELCO SAS | 18/Jun/2025 - 11:24 am |  | - |
+| General | CO1.MSG.8050296 | Requerimiento Jurídico UNION TEMPORAL SOLUSOFT 2025 | 18/Jun/2025 - 11:23 am |  | - |
+| General | CO1.MSG.8049560 | Requerimiento Juridico Oferente-ITELCA SAS | 18/Jun/2025 - 10:15 am |  | - |
+| General | CO1.MSG.8045341 | Requerimiento Jurídico SERTECOPY S.A.S | 17/Jun/2025 - 03:39 pm |  | - |
+| Avisos | CO1.MSG.8041452 | Publicación de la lista de ofertas del proceso SASI-00-007-2025 (Presentación de oferta). | 17/Jun/2025 - 09:00 am |  | - |
+| Avisos | CO1.MSG.8041446 | La lista de oferentes del proceso SASI-00-007-2025 (Presentación de oferta) publicada por DIRECCION DE IMPUESTOS Y ADUANAS NACIONALES* | 17/Jun/2025 - 08:59 am |  | - |

@@ -1,0 +1,94 @@
+Title: Licitaciones - AGENCIA DE DESARROLLO RURAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681c908e3d6d58.18646998
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 15:42:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Renovación y adquisición del licenciamiento Microsoft que incluye herramientas Office 365, Directorio Activo, Dynamics-Power Automates para el desempeño de los procesos requeridos para apoyar la gestión institucional de la Agencia de Desarrollo Rural.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43232700 - Software de aplicaciones de red,43232300 - Software de consultas y gestión de datos,43233000 - Software de entorno operativo,43233200 - Software de seguridad y protección,43233700 - Software de administración de sistemas,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 43 No.57-41 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 11:19 pm
+
+**Plazo para solicitar aclaraciones:**
+
+08/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 12:00 pm

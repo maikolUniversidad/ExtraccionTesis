@@ -1,0 +1,239 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810c7afdb87d8.60556727
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 19:43:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO, CORRECTIVO PARA LOS EQUIPOS DE SISTEMAS Y COMPUTO DEL COMANDO DEL EJÉRCITO NACIONAL, A EJECUTAR VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201803 - Unidades de disco duro
+
+**Códigos adicionales UNSPSC:**
+
+26131814 - Disipador de sobretensiones de estaciones de maniobra,32101601 - Memoria de acceso aleatorio (ram),32101617 - Tarjetas inteligentes,39121004 - Unidades de suministro de energía,43201556 - Adaptadores de interconexión de sistemas para pequeños computadores scsi,43202222 - Cables de computador,43211500 - Computadores,43211600 - Accesorios de computador,43211706 - Teclados,43211900 - Monitores y pantallas de computador,43212100 - Impresoras de computador,43233400 - Software de controladores de dispositivos y utilidades,44103125 - Kit de mantenimiento de impresoras,45101500 - Maquinaria y equipo de imprenta,73152100 - Servicios de mantenimiento y reparación de equipo de manufactura,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,81111500 - Ingeniería de software o hardware,81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 31 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Seguros
+
+**Plazo del contrato:**
+
+175 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 143,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201803, 32101601 | MANTENIMIENTO PREVENTIVO, CORRECTIVO PARA LOS EQUIPOS DE COMPUTO DE SISTEMAS Y COMPUTO DEL COMANDO DEL EJERCITO NACIONAL EN LA VIGENCIA 2025 | Mínima cuantía | Presupuesto de entidad nacional | $244.699.000 | CENACTELEMATICA |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+28/Abr/2025 - 10:00 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 10:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+29/Abr/2025 - 06:49 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+07/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 06:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+12/May/2025 - 07:00 am
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 07:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+12/May/2025 - 07:32 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/May/2025 - 07:00 am
+
+**Plazo para manifestación de interés:**
+
+14/May/2025 - 11:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 08:00 pm
+
+**Informe de presentación de Ofertas:**
+
+28/May/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 06:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Jun/2025 - 08:00 pm
+
+**Firma del Contrato:**
+
+10/Jun/2025 - 08:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 08:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+16/Jun/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 16/Jun/2025 - 12:00 pm | 08/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 16/Jun/2025 - 12:00 pm | 08/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 16/Jun/2025 - 12:00 pm | 07/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 40,00 | 08/Dic/2025 - 12:00 am | 08/Dic/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8264124 | Publicación modificación | 27/May/2025 - 05:57 pm |  |  |
+| Avisos | CO1.MSG.7943383 | Publicación de la lista de ofertas del proceso SAMC-026-CENACTELEMATICA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 27/May/2025 - 11:41 am |  | - |
+| Avisos | CO1.MSG.7921959 | La lista de oferentes del proceso SAMC-026-CENACTELEMATICA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA | 22/May/2025 - 11:45 am |  | - |
+| Avisos | CO1.REQ.8264124 | Publicación modificación | 20/May/2025 - 05:04 pm |  |  |
+| General | CO1.MSG.7908345 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No. 002 SAMC-026-CENACTELEMATICA-2025 | 20/May/2025 - 01:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7841698 | OBSERVACIONES PRELIMINARES | 06/May/2025 - 05:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7833689 | Observación al pliego de condiciones. | 05/May/2025 - 02:55 pm |  | - |

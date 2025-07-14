@@ -1,0 +1,133 @@
+Title: Licitaciones - COLEGIO CENTRO EDUCATIVO DISTRITAL EL MOTORISTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c798cab74d8.57690619
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:36:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE SUMINISTROS, INSUMOS Y MATERIAL DIDÁCTICO PARA EL DESARROLLO DE LOS PROYECTOS DE INVERSIÓN DEL COLEGIO EL MOTORISTA IED PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60101300 - Adhesivos educativos y suministros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Materiales para obras eléctricas en general, -Herramientas manuales, -Papelería y elementos de oficina, -Suministro material y/o dispositivos médicos, -Señalización de interiores", "licicodigos": "115,121,123,127,190,446" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 57 Ñ # 75 F 27 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 13,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 01:01 pm
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+18/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 26/Jun/2025 - 12:36 pm |  |  |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 19/Jun/2025 - 10:13 am |  |  |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 18/Jun/2025 - 09:01 am |  |  |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 18/Jun/2025 - 08:01 am |  |  |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 18/Jun/2025 - 07:56 am |  |  |
+| Avisos | CO1.REQ.8410682 | Publicación modificación | 17/Jun/2025 - 11:39 am |  |  |

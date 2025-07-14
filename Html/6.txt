@@ -1,0 +1,321 @@
+Title: Licitaciones - UNP - Licitación LP-UNP-036-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6800299db05e28.42008613
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 10:49:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la Gestión Integral de los Servicios Tecnológicos de la UNP.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112000 - Servicios de datos,81112100 - Servicios de internet,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,81112400 - Servicios de alquiler o arrendamiento de hardware de computador,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81161500 - Servicios de administración de acceso,43231500 - Software funcional específico de la empresa,43231513 - Software para oficinas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática, -Helpdesk o mesa de ayuda, -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "102,297,374,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 63 # 14 - 97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 21,109,446,762
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101600, 81111500, 81111800, 81111900, 81112000, 81112100, 81112200, 81112300, 81112400, 81112500, 81161500, 43231500, 43231513 | 1100/004 Contratar la Gestión Integral de los Servicios Tecnológicos de la UNP | Licitación pública | Presupuesto de entidad nacional | $21.109.446.762 | CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Abr/2025 - 04:47 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+16/Abr/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+16/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Abr/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 09:17 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/May/2025 - 11:00 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 11:00 pm
+
+**Audiencia de asignación de Riesgos:**
+
+12/May/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+23/May/2025 - 10:10 am
+
+**Informe de presentación de Ofertas:**
+
+23/May/2025 - 10:13 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 05:00 pm
+
+**Audiencia de Adjudicación:**
+
+12/Jun/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+13/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 10/Jun/2025 - 12:00 am | 15/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 10/Jun/2025 - 12:00 am | 15/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 10/Jun/2025 - 12:00 am | 15/Jun/2026 - 11:59 pm |
+
+**Responsabilidad civil extracontractual:**
+
+5% del valor de la oferta
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UT SERVICIOS INTEGRALES STC 2025 | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 21,082,988,682
+
+**Informes proceso de selección CO1.AWD.2265480 de 12/Jun/2025 - 09:36 am. Valor $21.082.988.682**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 07:32 pm |  |
+| Informe de evaluación | 28/May/2025 - 07:32 pm |  |
+| Informe de evaluación | 28/May/2025 - 07:32 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 08:08 am |  |
+| Informe de evaluación | 12/Jun/2025 - 08:08 am |  |
+| Informe de evaluación | 12/Jun/2025 - 08:08 am |  |
+| Informe de evaluación | 12/Jun/2025 - 08:30 pm |  |
+| Informe de selección | 12/Jun/2025 - 09:36 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265480**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UT SERVICIOS INTEGRALES STC 2025 * **Tipo documento:** NIT * **Documento:** 0 | - | Bogotá - | $21.082.988.682 |  |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265480****
+
+**ID del contrato en SECOP:**
+
+2186 DE 2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+17/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 21,082,988,682
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8062600 | ACTA AUDIENCIA DE ADJUDICACIÓN | 24/Jun/2025 - 03:30 pm |  | - |
+| Reporte final | CO1.AWD.2265480 | Informe de selección CO1.AWD.2265480 | 12/Jun/2025 - 09:36 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265480 | Informe de evaluación 3 CO1.AWD.2265480 | 12/Jun/2025 - 08:30 pm |  | - |
+| Objeciones | CO1.MSG.7987528 | [Respondido] RE:ACLARACIONES UT UNP 036 | 12/Jun/2025 - 08:29 pm |  | - |
+| Objeciones | CO1.MSG.7989868 | [Respondido] RE:Subsanacion | 12/Jun/2025 - 08:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265480 | Informe de evaluación 2 CO1.AWD.2265480 | 12/Jun/2025 - 08:08 am |  | - |
+| General | CO1.MSG.8019783 | AUDIENCIA | 12/Jun/2025 - 08:06 am |  | - |
+| General | CO1.MSG.8019646 | RESPUESTA A OBSERVACIONES E INFORMES FINALES | 12/Jun/2025 - 08:05 am |  | - |
+| Avisos | CO1.REQ.8240150 | Publicación modificación | 09/Jun/2025 - 06:12 pm |  |  |
+| General | CO1.MSG.7990456 | PUBLICIDAD SUBSANACIONES Y/O OBSERVACIONES | 05/Jun/2025 - 05:48 pm |  | - |
+| Objeciones | CO1.MSG.7989868 | Subsanacion | 05/Jun/2025 - 04:51 pm |  | - |
+| General | CO1.MSG.7989767 | Sunsanacion UT INNOVA PEAR UNP 2025 | 05/Jun/2025 - 04:49 pm |  | - |
+| General | CO1.MSG.7988735 | Respuesta LP-UNP-036-2025 | 05/Jun/2025 - 03:28 pm |  | - |
+| Objeciones | CO1.MSG.7987528 | ACLARACIONES UT UNP 036 | 05/Jun/2025 - 01:07 pm |  | - |
+| General | CO1.MSG.7987042 | Aclaracion y/o subsanación de la Oferta presentada | 05/Jun/2025 - 11:54 am |  | - |
+| General | CO1.MSG.7982032 | Fallo AccionTutela 2025-152 | 04/Jun/2025 - 04:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265480 | Informe de evaluación 1 CO1.AWD.2265480 | 28/May/2025 - 07:32 pm |  | - |
+| General | CO1.MSG.7930685 | Aviso tutela - correo Juzgado26pccbt | 23/May/2025 - 03:46 pm |  | - |
+| Avisos | CO1.MSG.7928150 | Publicación de la lista de ofertas del proceso LP-UNP-036-2025 (Presentación de oferta). | 23/May/2025 - 10:38 am |  | - |
+| Avisos | CO1.MSG.7927975 | La lista de oferentes del proceso LP-UNP-036-2025 (Presentación de oferta) publicada por UNP | 23/May/2025 - 10:19 am |  | - |
+| General | CO1.MSG.7927443 | PUBLICACION AVISO - TUTELA | 23/May/2025 - 09:34 am |  | - |
+| General | CO1.MSG.7927304 | RTA - No prorroga del cierre | 23/May/2025 - 09:09 am |  | - |
+| General | CO1.MSG.7926227 | RTA OBSERVACION FORMATO 9 | 22/May/2025 - 08:02 pm |  | - |
+| General | CO1.MSG.7919059 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 21/May/2025 - 06:55 pm |  | - |
+| General | CO1.MSG.7904895 | Respuesta a Observaciones al Pliego Definitivo | 19/May/2025 - 06:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7904866 | RE: Observaciones al Pliego de Condiciones Definitivo - Proceso LP-UNP-036-2025, Observaciones_UNP, OBSERVACIONES COLVATEL SA ESP , Observaciones Pear Solutions Pliego, OBSERVACIONES AL PLIEGO DE CONDICIONES LP-UNP-036-2025 , Observaciones Sinergy & Lowells S.A.S, Observación al de Pliego de Condiciones , Link audiencia riesgos | 19/May/2025 - 06:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7883325 | Observaciones al Pliego de Condiciones Definitivo - Proceso LP-UNP-036-2025 | 14/May/2025 - 04:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7883305 | Observaciones_UNP | 14/May/2025 - 04:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7883233 | OBSERVACIONES COLVATEL SA ESP | 14/May/2025 - 04:36 pm |  | - |
+| Aclaraciones | CO1.MSG.7882139 | Observaciones Pear Solutions Pliego | 14/May/2025 - 03:14 pm |  | - |

@@ -1,0 +1,194 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826892f2b9a21.52040841
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 19:39:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y/O CORRECTIVO A TODO COSTO DEL SISTEMA DE CONTROL DE ARRANQUE AUTOMATICO DE ENERGIA DEEP SEA ELETRONICS, UBICADO EN LAS INSTALACIONES DE LA BASE AEREA CR. LUIS ARTURO RODRIGUEZ MENESES DEL GRUPO AEREO DEL ORIENTE UBICADO EN PUERTO CARREÑO (MARANDÚA) -VICHADA. CONFORME A LA FICHA TÉCNICA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Vichada: Puerto Carreño
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Automatización, -Electrónica - Robótica", "licicodigos": "97,212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Condiciones de la visita: Para coordinar la visita voluntaria al lugar de ejecución, los interesados en visitarlo deben realizar dicha solicitud como mínimo con 03 días calendario antes del cierre del proceso en el SECOP II. Se aclara que la FAC NO está en la obligación de transportar al personal hasta el GAORI. Interesados comunicarse al correo electrónico yesid.gomez@fac.mil.co y manifestar por mensaje de SECOP II. Es importante aclarar que la realización o no de la visita no excluye ni afecta la participación en el proceso. Favor remitirse al documento "EDP FORMATO ESTUDIOS Y DOCUMENTOS PREVIOS.
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 73152108 | GAORI-RADAR--MANTENIMIENTO SISTEMA DEEPSEA | Mínima cuantía | Presupuesto de entidad nacional | $20.000.000 | COMANDO FUERZA AEROESPACIAL COLOMBIANA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 06:45 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+21/May/2025 - 03:02 pm
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 29/May/2025 - 11:59 pm | 28/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 29/May/2025 - 11:59 pm | 31/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 31/Ago/2025 - 11:59 pm | 31/Ago/2026 - 11:59 am |

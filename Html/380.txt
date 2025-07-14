@@ -1,0 +1,241 @@
+Title: Licitaciones - UAECD - Selección abreviada de menor cuantía (Ley 1150 de 2007) UAECD-SAMC-004-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b050783f164.00235656
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Optimización de los componentes físicos del centro de cableado para su transformación hacia un datacenter básico
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221800 - Dispositivos de red óptica
+
+**Códigos adicionales UNSPSC:**
+
+72151600 - Servicios de sistemas especializados de comunicación,72151500 - Servicios de sistemas eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado)", "licicodigos": "99" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Pisos 11 y 12 de la UAECD ubicados en la Cra 30 No. 25- 90 En los términos del numeral 1.21 del pliego de condiciones
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43221800, 72151500, 72151600 | I - SCDPI-200-00238-25 - Optimización de los componentes físicos del centro de cableado para su transformación hacia un datacenter básico. | Selección abreviada menor cuantía | NotApplied | $170.000.000 | Subgerencia de Contratación |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Jun/2025 - 02:36 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+02/Jul/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+08/Jul/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/Jul/2025 - 09:06 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jul/2025 - 11:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/Jul/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jul/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+11/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+17/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+21/Jul/2025 - 09:10 am
+
+**Informe de presentación de Ofertas:**
+
+21/Jul/2025 - 09:20 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+31/Jul/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Ago/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+08/Ago/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Ago/2025 - 10:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+11/Ago/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 08/Ago/2025 - 06:00 pm | 08/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 08/Ago/2025 - 06:00 pm | 08/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 08/Ago/2025 - 06:00 pm | 08/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 08/Ago/2025 - 06:00 pm | 08/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8110812 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 02/Jul/2025 - 09:34 pm |  | - |
+| Aclaraciones | CO1.MSG.8110718 | Observaciones al Pliego | 02/Jul/2025 - 08:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8110566 | observaciones | 02/Jul/2025 - 07:42 pm |  | - |
+| Aclaraciones | CO1.MSG.8109697 | OBSERVACIONES AL PPC UAECD-SAMC-004-2025 | 02/Jul/2025 - 05:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8101677 | VISITA DE OBRA - AQSERV SAS | 01/Jul/2025 - 03:58 pm |  | - |

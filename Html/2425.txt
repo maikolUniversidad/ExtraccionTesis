@@ -1,0 +1,94 @@
+Title: Licitaciones - FONDO ROTATORIO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835f97a317ab0.89772120
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 15:40:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO AL HARDWARE DE SERVIDORES Y EQUIPOS DE COMPUTO DEL FONDO ROTATORIO DE LA POLICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador
+
+**Códigos adicionales UNSPSC:**
+
+81112301 - Mantenimiento de sistemas de almacenamiento de discos,81112305 - Mantenimiento de servidores x86
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 66A No. 43-18 Barrio Salitre el Greco Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 12:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+02/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 11:59 pm

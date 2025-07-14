@@ -1,0 +1,122 @@
+Title: Licitaciones - UNIVERSIDAD NACIONAL DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681ab8f3cc8486.92802124
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:29:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de las licencias Google Workspace For Education Plus para la Universidad Nacional de Colombia
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 29 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 45 No. 26-85 Edificio Uriel Gutiérrez Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+365 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 06:35 pm
+
+**Fecha de Firma del Contrato:**
+
+12/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+26/Jul/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8218744 | Publicación modificación | 30/Jun/2025 - 11:04 am |  |  |
+| Avisos | CO1.REQ.8218744 | Publicación modificación | 04/Jun/2025 - 04:10 pm |  |  |
+| Avisos | CO1.REQ.8218744 | Publicación modificación | 27/May/2025 - 10:30 am |  |  |
+| Avisos | CO1.REQ.8218744 | Publicación modificación | 22/May/2025 - 11:37 am |  |  |
+| Avisos | CO1.REQ.8218744 | Publicación modificación | 14/May/2025 - 02:40 pm |  |  |

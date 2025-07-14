@@ -1,0 +1,279 @@
+Title: Licitaciones - GOBERNACION DE CALDAS - Primero la Gente
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807f7ec6e1409.27981551
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:49:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la adquisición de equipos de cómputo de escritorio o portátiles para apoyar el proceso de modernización tecnológica de la Gobernación de Caldas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43211900 - Monitores y pantallas de computador,43233000 - Software de entorno operativo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 21 entre calles 22 y 23 Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+110 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,500,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211503 | Contratar el suministro de equipos de cómputo de escritorio o portátiles en la modalidad Renting para apoyar el proceso de modernización tecnológica de la Gobernación de Caldas | Licitación pública | Recursos propios | $2.500.000.000 | SECRETARIA GENERAL (SG) |
+
+Cronograma:
+
+**Publicación Estudios Previos:**
+
+22/Abr/2025 - 02:30 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 02:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 02:30 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 02:44 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 02:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 06:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+12/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 09:06 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 06:05 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 06:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jun/2025 - 10:00 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 10:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+03/Jul/2025 - 10:05 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+07/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+09/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 06:00 pm | 20/Oct/2025 - 06:00 pm |
+| Pago de salarios | 10,00 | 25/Jun/2025 - 06:00 pm | 20/Oct/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 25/Jun/2025 - 06:00 pm | 20/Oct/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jul/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+03/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+03/Jul/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8114652 | Informe de evaluación final - SA-SG-005-2025 | 03/Jul/2025 - 03:07 pm |  | - |
+| Objeciones | CO1.MSG.8111851 | ACLARACIÓN MULTITINTAS INK SAS | 03/Jul/2025 - 09:19 am |  | - |
+| Objeciones | CO1.MSG.8111887 | OBSERVACIONES AL SEGUNDO INFORME DE EVALUACION | 03/Jul/2025 - 09:15 am |  | - |
+| Objeciones | CO1.MSG.8110524 | OBSERVACIONES AL INFORME FINAL DE EVALUACIÓN UT GOB CALDAS | 02/Jul/2025 - 07:27 pm |  | - |
+| General | CO1.MSG.8110267 | Documentos completos - subsanaciones al informe de evaluación preliminar | 02/Jul/2025 - 06:44 pm |  | - |
+| Objeciones | CO1.MSG.8109963 | Subsanación al informe final | 02/Jul/2025 - 06:03 pm |  | - |
+| Objeciones | CO1.MSG.8109549 | SUBSANACION DE DOCUMENTOS - SEGUNDO INFORME DE EVALUACION | 02/Jul/2025 - 05:21 pm |  | - |
+| Objeciones | CO1.MSG.8106519 | SOLICITUD DE ACLARACION | 02/Jul/2025 - 12:15 pm |  | - |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 02/Jul/2025 - 12:07 pm |  |  |
+| Reporte preliminar | CO1.AWD.2280528 | Informe de evaluación 2 CO1.AWD.2280528 | 02/Jul/2025 - 11:16 am |  | - |
+| General | CO1.MSG.8106163 | SUBSANACIÓN DE DOCUMENTOS | 02/Jul/2025 - 11:14 am |  | - |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 01/Jul/2025 - 07:04 am |  |  |
+| General | CO1.MSG.8071668 | ACLARACIONES PROCESO SA-SG-005-2025 | 24/Jun/2025 - 11:29 am |  | - |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 24/Jun/2025 - 10:44 am |  |  |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 24/Jun/2025 - 07:36 am |  |  |
+| Objeciones | CO1.MSG.8054319 | SUBSANACION AL INFORME DE EVALUACION | 18/Jun/2025 - 05:54 pm |  | - |
+| Objeciones | CO1.MSG.8051353 | SUBSANACIÓN ASPECTOS TÉCNICOS Y JURIDICOS MULTITINTAS INK SAS | 18/Jun/2025 - 03:56 pm |  | - |
+| Objeciones | CO1.MSG.8051149 | Aclaración al informe de evaluación - aclaración puerto VGA | 18/Jun/2025 - 01:04 pm |  | - |
+| Objeciones | CO1.MSG.8049658 | Aclaracion UT GTI COMPUTAR | 18/Jun/2025 - 10:26 am |  | - |
+| Objeciones | CO1.MSG.8046258 | Envío de observaciones al informe de evaluación | 17/Jun/2025 - 04:51 pm |  | - |
+| Objeciones | CO1.MSG.8034437 | Observaciones Confidencialidad Informe | 16/Jun/2025 - 08:24 am |  | - |
+| Objeciones | CO1.MSG.8031798 | Observaciones técnicas | 13/Jun/2025 - 04:48 pm |  | - |
+| Objeciones | CO1.MSG.8031419 | OBSERVACIÓN SOBRE EL CUMPLIMIENTO DEL REGISTRO ÚNICO DE PROPONENTES (RUP) EN FIRME | 13/Jun/2025 - 04:15 pm |  | - |
+| Objeciones | CO1.MSG.8030399 | SOLICITUD DE INFORMACION | 13/Jun/2025 - 02:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280528 | Informe de evaluación 1 CO1.AWD.2280528 | 13/Jun/2025 - 01:18 pm |  | - |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 11/Jun/2025 - 11:41 am |  |  |
+| Avisos | CO1.MSG.7999735 | Publicación de la lista de ofertas del proceso SA-SG-005-2025 (Presentación de oferta). | 09/Jun/2025 - 10:10 am |  | - |
+| Avisos | CO1.MSG.7999728 | La lista de oferentes del proceso SA-SG-005-2025 (Presentación de oferta) publicada por GOBERNACION DE CALDAS - Primero la Gente | 09/Jun/2025 - 10:08 am |  | - |
+| General | CO1.MSG.7978116 | ACLARACIONES PROCESO SA-SG-005-2025 | 04/Jun/2025 - 09:26 am |  | - |
+| Avisos | CO1.REQ.8249437 | Publicación modificación | 03/Jun/2025 - 05:58 pm |  |  |

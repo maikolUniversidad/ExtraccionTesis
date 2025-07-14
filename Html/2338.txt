@@ -1,0 +1,94 @@
+Title: Licitaciones - ANM - Solicitud de información a los Proveedores (SECOPII) SIP-044-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682231a5828cc1.19187163
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:22:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar la suscripción de productos VMWARE con los que cuenta la ANM, incluidos los servicios de actualización y soporte (Línea PAA 130000325
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112000 - Servicios de datos,81112300 - Mantenimiento y soporte de hardware de computador,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 12:32 pm
+
+**Plazo para solicitar aclaraciones:**
+
+15/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+16/May/2025 - 05:00 pm

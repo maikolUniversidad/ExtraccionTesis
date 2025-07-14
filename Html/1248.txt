@@ -1,0 +1,282 @@
+Title: Licitaciones - ALCALDIA DE MOMPOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e78b6c940d5.79624015
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:16:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE INSUMOS PARA LA OPERACIÓN Y FUNCIONAMIENTO DEL DEPARTAMENTO ADMINISTRATIVO DE TRÁNSITO Y TRANSPORTE DE SANTA CRUZ DE MOMPOX, BOLÍVAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar: Santa Cruz de Mompós
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111800 - Papeles de uso comercial
+
+**Códigos adicionales UNSPSC:**
+
+25172610 - Placa de matrícula,55121734 - Láminas de material para señales,73151905 - Servicios de impresión industrial digital,23153035 - Placa
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Alcaldia de Mompos Mompós Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111800, 25172610, 55121734, 73151905, 23153035 | SUMINISTRO DE INSUMOS PARA LA OPERACIÓN Y FUNCIONAMIENTO DEL DEPARTAMENTO ADMINISTRATIVO DE TRANSITO Y TRANSPORTE DE SANTA CRUZ DE MOMPOS, BOLÍVAR | Mínima cuantía | Recursos propios | $12.448.000 | Minima cuantia |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 08:05 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 11:59 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 am
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 11:59 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 11:59 pm | 08/Oct/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 29/May/2025 - 11:59 pm | 08/Oct/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Servicios Integrales ID SYSTEM SAS | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 11,794,184
+
+**Informes proceso de selección CO1.AWD.2262681 de 28/May/2025 - 11:19 am. Valor $11.794.184**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:08 pm |  |
+| Informe de selección | 28/May/2025 - 11:19 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262681**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Servicios Integrales ID SYSTEM SAS * **Tipo documento:** NIT * **Documento:** 811015441 | * **Nombre:** NATALIA EUGENIA LONDOÑO GUERRA * **Tipo documento:** NIT * **Documento:** 43903525 | Medellín - Antioquia | $11.794.184 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262681****
+
+**Contrato MC-SUMINISTRO-21052025-020 de Servicios Integrales ID SYSTEM SAS:**
+
+**ID del contrato en SECOP:**
+
+MC-SUMINISTRO-21052025-020
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE INSUMOS PARA LA OPERACIÓN Y FUNCIONAMIENTO DEL DEPARTAMENTO ADMINISTRATIVO DE TRÁNSITO Y TRANSPORTE DE SANTA CRUZ DE MOMPOX, BOLÍVAR
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 23153035 | SUMINISTRO DE INSUMOS PARA LA OPERACIÓN Y FUNCIONAMIENTO DEL DEPARTAMENTO ADMINISTRATIVO DE TRÁNSITO Y TRANSPORTE DE SANTA CRUZ DE MOMPOX, BOLÍVAR | 1,00 | UN | 12.448.000,00 | 11.794.184,00 | 12.448.000,00 | 11.794.184,00 |
+
+**Fecha de terminación del contrato:**
+
+05/May/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+8 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 11,794,184
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION DE OFERTA SUMINISTRO DE INSUMOS DATT MC-SUMINISTRO-21052025-020.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262681 | Informe de selección CO1.AWD.2262681 | 28/May/2025 - 11:19 am |  | - |
+| Reporte preliminar | CO1.AWD.2262681 | Informe de evaluación 1 CO1.AWD.2262681 | 26/May/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.7937944 | RE: SOLICITUD DE SUBSANACIÓN | 26/May/2025 - 03:32 pm |  | - |
+| General | CO1.MSG.7937815 | SOLICITUD DE SUBSANACIÓN | 26/May/2025 - 03:21 pm |  | - |
+| Avisos | CO1.MSG.7934216 | La lista de oferentes del proceso MC-SUMINISTRO-21052025-020 publicada por ALCALDIA DE MOMPOS | 26/May/2025 - 08:05 am |  | - |
+| General | CO1.MSG.7929096 | Decreto de encargo | 23/May/2025 - 12:19 pm |  | - |
+| Avisos | CO1.REQ.8298703 | Publicación modificación | 23/May/2025 - 12:12 pm |  |  |
+| Aclaraciones | CO1.MSG.7928907 | RE: Observaciones | 23/May/2025 - 11:56 am |  | - |
+| General | CO1.MSG.7928224 | AVISO DE LIMITACION MIPYMES | 23/May/2025 - 10:48 am |  | - |
+| Aclaraciones | CO1.MSG.7924004 | Observaciones | 22/May/2025 - 04:56 pm |  | - |

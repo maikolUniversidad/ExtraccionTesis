@@ -1,0 +1,90 @@
+Title: Licitaciones - MINISTERIO DE COMERCIO INDUSTRIA Y TURISMO - MINCIT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c25fe150030.73828599
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:32:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Se da alcance para actualizar el resultado del evento de cotización MINCIT-SIP-014-2025, discriminando por ítemsd, el primer evento fue un costo por la prestación de servicio total, ahora se requiere discriminar los valores para cada ítem, pero es el mismo servicio. Favor incluir valor con IVA y demás contribuciones para prestar el servicio de mantenimiento y soporte técnico para los sitios web del Ministerio, implementados a través del sistema de gestor de contenidos web (CMS) Kentico
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "102,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 No. 13A -15 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 11:12 am
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 07:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 07:00 pm

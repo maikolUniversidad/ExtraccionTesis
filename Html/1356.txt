@@ -1,0 +1,122 @@
+Title: Licitaciones - COLEGIO TABORA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849ffa88d8c20.68796424
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 17:14:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Para la adecuada conservación y el optimo rendimiento de los equipos de copiado del colegio, se hace necesario contratar los servicios de mantenimiento preventivo y correctivo de los mismos y la compra de insumos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154065 - Mantenimiento de equipos eléctricos de copiado
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 77B 74A 02 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 0
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:20 pm
+
+**Fecha de Firma del Contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+05/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

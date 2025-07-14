@@ -1,0 +1,191 @@
+Title: Licitaciones - ESM BATALLÓN ASPC NO. 6
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ac67da90019.46952693
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 16:31:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS ACTIVOS INFORMÁTICOS, COMPUTADORES, IMPRESORAS, ESCANERS A TODO COSTO EN LOS ESTABLECIMIENTOS DE SANIDAD MILITAR DE LA REGIONAL 5, PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 N° 8-122 Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS ACTIVOS INFORMÁTICOS, COMPUTADORES, IMPRESORAS, ESCANER A TODO COSTO EN LOS ESTABLECIMIENTOS DE SANIDAD MILITAR DE LA REGIONAL 5, PARA LA VIGENCIA 2025 | Mínima cuantía | Presupuesto de entidad nacional | $60.000.000 | UNIDAD DE CONTRATACION SANIDAD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 10:11 am
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 05:59 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 15,00 | 04/Jul/2025 - 07:00 am | 31/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 07:00 am | 30/Nov/2028 - 12:00 pm |
+| Calidad del servicio | 15,00 | 04/Jul/2025 - 07:00 am | 30/Nov/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 15,00 | 04/Jul/2025 - 07:00 am | 30/Nov/2026 - 12:00 pm |

@@ -1,0 +1,100 @@
+Title: Licitaciones - DIVRI - Solicitud de información a los Proveedores (SECOPII) SIP-032/2025 MDN-VVGSE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ce0715f6945.73855350
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:35:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLICITUD COTIZACION **ADQUISICION DE LA EXTENSION DE LAS GARANTÍAS DE FABRICA Y SOPORTE DE SEGUNDO NIVEL DE LOS EQUIPOS SWITCHES CISCO (SUCCESS TRACK L1) SOPROTE SEGUNDO NIVEL SERVIDORES LENOVO THINK SYSTEM Y HEWLETT PACKARD Y ADQUISICION DE EQUIPO, PARA LA DIRECCIÓN DE VETERANOS Y REHABILITACIÓN INCLUSIVA - DIVRI - DEL MINISTERIO DE DEFENSA NACIONAL**
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222600 - Equipo de servicio de red
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,81111803 - Mantenimiento o soporte de redes de área local (lan),81112300 - Mantenimiento y soporte de hardware de computador,43222625 - Servidores de acceso
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 # 44 40 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 02:37 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8290889 | Publicación modificación | 22/May/2025 - 02:35 pm |  |  |

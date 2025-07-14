@@ -1,0 +1,192 @@
+Title: Licitaciones - Colegio María Josefa Canelones I.E.D.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffe393ec1826.58940885
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-24 01:20:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE PLATAFORMA DIGITAL PARA FINES PEDAGOGICOS REQUERIDA POR LA INSTITUCIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 16D # 75 – 39 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+9 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/Abr/2025 - 12:03 pm
+
+**Fecha límite de presentación de ofertas:**
+
+21/Abr/2025 - 06:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+21/Abr/2025 - 06:02 am
+
+**Fecha de Firma del Contrato:**
+
+23/Abr/2025 - 07:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BEEREADERS COLOMBIA SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,000,000
+
+**Informes proceso de selección CO1.AWD.2230806 de 21/Abr/2025 - 12:32 pm. Valor $12.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/Abr/2025 - 08:58 am |  |
+| Informe de selección | 21/Abr/2025 - 12:32 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2230806**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BEEREADERS COLOMBIA SAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 901453305 | * **Nombre:** DAVID ARIAS CARRASCAL * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 94407068 | Bogotá - Distrito Capital de Bogotá | $12.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2230806****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7797120
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+30/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 12,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2230806 | Informe de selección CO1.AWD.2230806 | 21/Abr/2025 - 12:32 pm |  | - |
+| Reporte preliminar | CO1.AWD.2230806 | Informe de evaluación 1 CO1.AWD.2230806 | 21/Abr/2025 - 08:58 am |  | - |
+| Aclaraciones | CO1.MSG.7770454 | Aclaración | 17/Abr/2025 - 06:17 am |  | - |

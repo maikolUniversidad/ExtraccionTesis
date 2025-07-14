@@ -1,0 +1,212 @@
+Title: Licitaciones - CONCEJO MUNICIPAL COTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810113369f2d2.52156132
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 23:33:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICION DE PAPELERIA Y SUMINISTRO DE TÓNER PARA FUNCIONAMIENTO DEL CONCEJO MUNICIPAL DE COTA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Cota
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra. 5 ##12-10 Cota Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121600 | ADQUISICION DE PAPELERIA Y SUMINISTRO DE TONNER PARA FUNCIONAMIENTO DEL CONCEJO MUNICIPAL DE COTA | Mínima cuantía | Recursos propios | $39.858.000 | Contratacion CMC |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 06:15 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 06:15 pm
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 06:31 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 05:10 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 11:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 07/May/2025 - 12:00 pm | 06/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 07/May/2025 - 12:00 pm | 06/Nov/2025 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(6/05/2025 6:46:14 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CONCEJO MUNICIPAL COTA en 7 días de tiempo transcurrido (6/05/2025 6:46:14 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Declarar DESIERTO el proceso de selección mínima cuantía No. CMC-SMIN-006-2025, cuyo objeto es la: “CONTRATAR LA ADQUISICION DE PAPELERIA Y SUMINISTRO DE TONNER PARA FUNCIONAMIENTO DEL CONCEJO MUNICIPAL DE COTA”. Toda vez que las propuestas presentadas fueron descalificadas y rechazadas por ausencia de requisitos exigidos por la entidad.
+
+**Fecha de la cancelación:**
+
+06/May/2025 - 06:46 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7842551 | ACTO ADMINISTRATIVO DECLARATORIA DESIERTO | 06/May/2025 - 06:43 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243264 | Informe de evaluación 2 CO1.AWD.2243264 | 06/May/2025 - 05:12 pm |  | - |
+| Avisos | CO1.MSG.7835229 | Publicación de la lista de ofertas del proceso CMC-MC-006-2025. | 05/May/2025 - 04:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243264 | Informe de evaluación 1 CO1.AWD.2243264 | 05/May/2025 - 04:54 pm |  | - |
+| General | CO1.MSG.7832247 | RESPUESTA A OBSERVACION PRINCIPIO DE TRANSPARENCIA | 05/May/2025 - 11:47 am |  | - |
+| Avisos | CO1.MSG.7823373 | La lista de oferentes del proceso CMC-MC-006-2025 publicada por CONCEJO MUNICIPAL COTA | 01/May/2025 - 09:51 pm |  | - |
+| Avisos | CO1.REQ.8179492 | Publicación modificación | 29/Abr/2025 - 05:57 pm |  |  |
+| Aclaraciones | CO1.MSG.7814701 | solicitud limitación Mypime municipal | 29/Abr/2025 - 04:39 pm |  | - |

@@ -1,0 +1,103 @@
+Title: Licitaciones - DEPARTAMENTO DE ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c681169b0c4.54143346
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:29:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de equipos de oficina (Computador de escritorio, impresora, UPS)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+39121004 - Unidades de suministro de energía,43212104 - Impresoras de inyección de tinta,81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad", "licicodigos": "104,105,109" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 42B 52 106, Piso 3 CAD La Alpujarra Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 04:19 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jul/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8091804 | RE: OBSERVACIONES | 27/Jun/2025 - 10:41 am |  | - |
+| Aclaraciones | CO1.MSG.8091716 | RE: OBSERVACION | 27/Jun/2025 - 09:41 am |  | - |
+| Aclaraciones | CO1.MSG.8085342 | OBSERVACION | 26/Jun/2025 - 10:14 am |  | - |
+| Aclaraciones | CO1.MSG.8084428 | OBSERVACIONES | 26/Jun/2025 - 08:40 am |  | - |

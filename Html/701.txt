@@ -1,0 +1,344 @@
+Title: Licitaciones - SENA REGIONAL QUINDIO Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a3ec3d36e92.48197115
+
+Markdown Content:
+Licitaciones - SENA REGIONAL QUINDIO Grupo de Apoyo Administrativo Mixto - Contratación mínima cuantía MC-QDO-CDTCI-022-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-13 10:53:17
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+Contratar el suministro de materiales, insumos y elementos de electrónica para apoyar los programas de formación en el Centro para el desarrollo Tecnológico de la Construcción y la Industria Regional Quindío en la vigencia 2025.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Quindío : Armenia
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111828 - Papelería comercial membreteada
+
+**Códigos adicionales UNSPSC:**
+26111701 - Baterías recargables,15121905 - Grasa térmica,26111711 - Baterías de litio,27113201 - Conjuntos generales de herramientas,27113203 - Kit de herramienta para computadores,23271813 - Alambre de soldadura,26101201 - Motor dc en derivación,26101208 - Motor dc de imán permanente,26101210 - Motor dc de excitación compuesta,26111702 - Pilas alcalinas,26111721 - Baterías de níquel-hidruro metálico,26121600 - Cables eléctricos y accesorios,26121607 - Cable de fibra óptica,26121609 - Cable de redes,60106402 - Suministros para la enseñanza de electrónica,32101617 - Tarjetas inteligentes,32111503 - Diodos emisores de luz (led),32121705 - Inversores,39121010 - Bobinas magnéticas,39121303 - Cajas eléctricas,39121311 - Accesorios eléctricos,39121409 - Conectores de cables eléctricos,39121419 - Conexiones flexibles,39121446 - Equipo conector de terminal de cable,39121552 - Módulos de control eléctrico,39121635 - Regulador de voltaje,39131604 - Empaque de espiral,39131714 - Canaletas para cables,31162304 - Regletas de montaje,32101629 - Amplificadores operacionales,32111502 - Diodos zener,32121505 - Capacitor fijo de aluminio electrolítico,32121506 - Capacitor cerámico fijo,39121022 - Transformadores electrónicos,39122331 - Relés de control,41111970 - Sensor de temperatura,41115320 - Generadores de señales,39131704 - Bandeja de cables,43201803 - Unidades de disco duro,43222639 - Hardware de subsistemas multimedia de protocolo de internet ip,43223303 - Cable de conexión de comunicación de datos,43223340 - Empalmadora de fusión de fibra óptica,43233603 - Software de control lógico programable,47131813 - Limpiador de pantallas,51102710 - Antisépticos basados en alcohol o acetona,60105705 - Cinta pegante libre de ácido,60106401 - Kits de electrónica,43223332 - Kit de herramientas de fibra óptica,45121504 - Cámaras digitales,15121514 - Lubricantes espray,41111915 - Sensores bi metálicos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Sensores, -Materiales para obras eléctricas en general, -Herramientas manuales, -Electrónica - Robótica, -Transformadores", "licicodigos": "105,113,121,123,212,234" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+AVENIDA CENTENARIO CRA 6 # 47N-15 Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+175 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 09:30 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 09:30 pm
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 08:22 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 02:30 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 02:40 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/May/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 70 |
+| 2 | 30 |
+| **total** | **100** |
+
+**Anticipos:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 06:00 am | 28/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 06:00 am | 31/Oct/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 09/May/2025 - 06:00 am | 30/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 27/Abr/2025 - 12:05 pm | * **Nombre:** CRR SOLUCIONES INTEGRALES S.A.S | Neiva - Huila |
+| 2 | 28/Abr/2025 - 08:24 am | * **Nombre:** SUMINISTROS Y ASESORIAS S | Bogotá - Distrito Capital de Bogotá |
+| 3 | 28/Abr/2025 - 09:50 am | * **Nombre:** SUMINISTRO, ACOMPAÑAMIENTO Y ASESORIAS CONTRACTUALES RYA | Villavicencio - Meta |
+| 4 | 28/Abr/2025 - 12:54 pm | * **Nombre:** SUMINFER SAS | Bogotá - Distrito Capital de Bogotá |
+| 5 | 28/Abr/2025 - 01:21 pm | * **Nombre:** SOCIEDAD RUSSI SAS | Bogotá - Distrito Capital de Bogotá |
+| 6 | 28/Abr/2025 - 01:31 pm | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+| 7 | 28/Abr/2025 - 01:52 pm | * **Nombre:** Grupo Caf tecnologia | Distrito Capital de Bogotá |
+| 8 | 28/Abr/2025 - 01:59 pm | * **Nombre:** EQUIFERSEG S.A.S | Quindío |
+| 9 | 28/Abr/2025 - 02:22 pm | * **Nombre:** YEFERSON CORDERO VALDERRAMA | Bogotá - Distrito Capital de Bogotá |
+| 10 | 28/Abr/2025 - 02:23 pm | * **Nombre:** PDCSAS | Barrancabermeja - Santander |
+| 11 | 28/Abr/2025 - 02:25 pm | * **Nombre:** ELECTRONICA I+D S.A.S | Medellín - Antioquia |
+| 12 | 28/Abr/2025 - 02:27 pm | * **Nombre:** MAFER SAS | Distrito Capital de Bogotá |
+| 13 | 28/Abr/2025 - 02:27 pm | * **Nombre:** ARDOBOT ROBOTICA SAS | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 48,364,532
+
+**Informes proceso de selección CO1.AWD.2241246 de 07/May/2025 - 06:29 am. Valor $48.364.532**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 04:08 pm |  |
+| Informe de selección | 07/May/2025 - 06:29 pm |  |
+| Informe de selección | 07/May/2025 - 06:29 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241246**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ELECTRONICA I+D S.A.S * **Tipo documento:** NIT * **Documento:** 900034424 | * **Nombre:** CESAR AUGUSTO GARCIA CARVAJAL * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 71222529 | Medellín - Antioquia | $48.364.532 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241246****
+
+**Contrato CO1.PCCNTR.7854918 de ELECTRONICA I+D S.A.S:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7854918
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Contratar el suministro de materiales, insumos y elementos de electrónica para apoyar los programas de formación en el Centro para el desarrollo Tecnológico de la Construcción y la Industria Regional Quindío en la vigencia 2025.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 60106401 | Adaptador 12 V - 2 amp | 1,00 | UN | 898.050,00 | 48.364.532,00 | 898.050,00 | 48.364.532,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Oct/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+175 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 48,364,532
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241246 | Informe de selección CO1.AWD.2241246 | 07/May/2025 - 06:29 pm |  | - |
+| Avisos | CO1.MSG.7827549 | Publicación de la lista de ofertas del proceso MC-QDO-CDTCI-022-2025 . | 02/May/2025 - 04:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241246 | Informe de evaluación 1 CO1.AWD.2241246 | 02/May/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.7818422 | Cambio integrante comité evaluador | 30/Abr/2025 - 11:29 am |  | - |
+| Avisos | CO1.MSG.7807226 | La lista de oferentes del proceso MC-QDO-CDTCI-022-2025 publicada por SENA REGIONAL QUINDIO Grupo de Apoyo Administrativo Mixto | 28/Abr/2025 - 03:11 pm |  | - |
+| General | CO1.MSG.7802616 | LIMITACIÓN A MIPYMES NACIONALES | 25/Abr/2025 - 06:55 pm |  | - |
+| General | CO1.MSG.7802260 | ESTUDIO PREVIO: Contratar el suministro de materiales, insumos y elementos de electrónica para apoyar los programas de formación en el Centro para el desarrollo Tecnológico de la Construcción y la Industria Regional Quindío en la vigencia 2025. | 25/Abr/2025 - 06:21 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:17 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

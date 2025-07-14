@@ -1,0 +1,251 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS //
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68534e5a5bec74.33744610
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:59:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE SOPORTE TÉCNICO PLATINUM DEL SISTEMA DE INFORMACIÓN GESTOR DOCUMENTAL SESUITE PARA EL INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS INVIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112204 - Mantenimiento de software de sistemas operativos
+
+**Códigos adicionales UNSPSC:**
+
+81112209 - Mantenimiento de software de desarrollo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 10 No. 64-28 Sede Presidencial Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 152,495,041
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200, 81112204, 81112209 | 25BS-L00295 PRESTAR EL SERVICIO DE SOPORTE TECNICO PLATINUM DEL SISTEMA DE INFORMACIÓN GESTOR DOCUMENTAL SESUITE PARA EL INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS – INVIMA..ID374 | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $152.495.041 | Grupo de Gestion Contractual |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+18/Jun/2025 - 06:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+18/Jun/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+18/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 12:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/Jul/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+03/Jul/2025 - 07:56 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/Jul/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jul/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jul/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+14/Jul/2025 - 10:03 am
+
+**Informe de presentación de Ofertas:**
+
+14/Jul/2025 - 11:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+22/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Jul/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Jul/2025 - 12:00 am | 28/Feb/2026 - 12:00 am |
+| Pago de salarios | 5,00 | 25/Jul/2025 - 12:00 am | 29/Ago/2028 - 12:00 am |
+| Calidad del servicio | 20,00 | 25/Jul/2025 - 12:00 am | 18/Feb/2026 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 25/Jul/2025 - 12:00 am | 29/Ago/2027 - 12:00 am |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/Jul/2025 - 08:00 am
+
+**Fecha de inicio:**
+
+22/Jul/2025 - 10:30 am
+
+**Fecha fin:**
+
+22/Jul/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8108939 | RE: Observaciones al prepliego de condiciones del proceso de seleccion abreviada Subasta Inversa Electronica Numero SASI 005 de 2025 | 02/Jul/2025 - 04:37 pm |  | - |

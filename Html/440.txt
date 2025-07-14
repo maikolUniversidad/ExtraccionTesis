@@ -1,0 +1,251 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b738b16e589.62491271
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPIO DE VILLAVICENCIO - Contratación mínima cuantía SMC-065-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-03 11:17:23
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+ADQUISICIÓN DE ELEMENTOS PARA EL CORRECTO DESARROLLO DE LAS ACTIVIDADES Y EL SERVICIO DE EXTENSIÓN AGROPECUARIA INTEGRAL DEL SECTOR RURAL DEL MUNICIPIO DE VILLAVICENCIO.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Meta : Villavicencio
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+21102401 - Equipo para apicultura
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Dotación para seguridad industrial, -Papelería y elementos de oficina", "licicodigos": "104,105,126,127" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Calle 40 Nº 33 - 64 Centro PISO 2 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44111500, 53103101, 12161801, 42121600, 42132205, 42121509, 41115603, 32101656, 46181804, 53102503, 53121700, 44111914, 46181546, 46181503, 27111504, 21102401, 46181504, 55101520, 43211507, 45111616, 56112105, 56101519, 49121503 | (252) Prestar el servicio de extensión agropecuaria integral para hacer competitiva y sostenible la producción y garantizar la seguridad alimentaria del municipio. - ADQUISICIÓN DE ELEMENTOS PARA EL CORRECTO DESARROLLO DE LAS ACTIVIDADES Y EL SERVICIO DE EXTENSIÓN AGROPECUARIA INTEGRAL DEL SECTOR RURAL DEL MUNICIPIO DE VILLAVICENCIO | Mínima cuantía | Recursos propios | $127.500.000 | SECRETARIA DE COMPETITIVIDAD Y DESARROLLO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 12:36 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 01:00 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 01:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 05:20 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/Jun/2025 - 12:00 pm | 11/Oct/2025 - 12:00 pm |
+| Calidad del servicio | 20,00 | 02/Jun/2025 - 12:00 pm | 11/Oct/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jun/2025 - 12:00 pm | 11/Jun/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7968689 | RESOLUCIÓN DE DECLARATORIA DE DESIERTA | 30/May/2025 - 06:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265479 | Informe de evaluación 2 CO1.AWD.2265479 | 30/May/2025 - 05:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265479 | Informe de evaluación 1 CO1.AWD.2265479 | 28/May/2025 - 05:53 pm |  | - |
+| Avisos | CO1.MSG.7935352 | Publicación de la lista de ofertas del proceso SMC-065-2025. | 26/May/2025 - 10:19 am |  | - |
+| Avisos | CO1.MSG.7935350 | La lista de oferentes del proceso SMC-065-2025 publicada por ALCALDIA MUNICIPIO DE VILLAVICENCIO | 26/May/2025 - 10:19 am |  | - |
+| Avisos | CO1.REQ.8283428 | Publicación modificación | 22/May/2025 - 06:12 pm |  |  |
+| General | CO1.MSG.7925596 | RE: RESPUESTA A OBSERVACIÓN - NATTSU SAS-Solicitud de Aclaracion | 22/May/2025 - 05:58 pm |  | - |
+| General | CO1.MSG.7918817 | AVISO DE LIMITACION MIPYMES | 21/May/2025 - 06:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7917985 | RE: observacion | 21/May/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7904050 | observacion | 19/May/2025 - 05:13 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:45 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

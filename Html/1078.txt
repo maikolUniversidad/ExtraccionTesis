@@ -1,0 +1,200 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE SAN JOSE DE CÚCUTA.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c086887f678.95302374
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 17:38:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO ELEMENTOS DE PAPELERIA, UTILES DE ESCRITORIO Y ELEMENTOS DE OFICINA PARA LAS DIFERENTES DEPENDENCIAS DE LA CORPORACIÓN CONCEJO MUNICIPAL DE SAN JOSÉ DE CÚCUTA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 11 N° 5-49 Palacio Municipal, San José de Cúcuta, Norte de Santander Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+175 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 43201800, 44103100, 44121600, 44121700, 44121900, 44122000, 44122100, 31201500 | ADQUISICION DE PAPELERIA, UTILES DE ESCRITORIO, ELEMENTOS DE OFICINA Y CONSUMIBLES DE IMPRESION PARA EL CONCEJO MUNICIPAL DE SAN JOSE DE CUCUTA | Mínima cuantía | Recursos propios | $28.058.852 | CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 09:30 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 09:40 am
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 09:40 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 09:40 am
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 09:40 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 12:00 pm | 30/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 04/Jul/2025 - 12:00 pm | 30/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8095738 | Publicación de la lista de ofertas del proceso CM-MC-003-2025. | 27/Jun/2025 - 05:31 pm |  | - |
+| Avisos | CO1.MSG.8095574 | La lista de oferentes del proceso CM-MC-003-2025 publicada por CONCEJO MUNICIPAL DE SAN JOSE DE CÚCUTA. | 27/Jun/2025 - 05:14 pm |  | - |
+| General | CO1.MSG.8088526 | CM-MC-003-2025-AVISO DE LIMITACION A MIPYMES | 26/Jun/2025 - 04:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8088422 | RESPUESTA A LA OBSERVACION | 26/Jun/2025 - 04:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8080063 | OBSERVACIONES | 25/Jun/2025 - 02:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8078159 | observacion | 25/Jun/2025 - 10:09 am |  | - |

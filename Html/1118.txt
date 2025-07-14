@@ -1,0 +1,284 @@
+Title: Licitaciones - CENTRAL DE TRANSPORTES ESTACION CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810045ecf6081.36756196
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 02:18:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD A INTERNET, RESPALDO, SEGURIDAD Y ALMACENACIMIENTO DE DATOS EN LA NUBE PARA GARANTIZAR LA OPERATIVIDAD, CONTINUIDAD Y EFICIENCIA DE LOS PROCESOS ADMINISTRATIVOS Y OPERATIVOS DE LA CENTRAL DE TRANSPORTES ESTACIÓN CÚCUTA (CTEC).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Códigos adicionales UNSPSC:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Acceso a internet, -Servicios en la nube (Cloud)", "licicodigos": "285,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AV 8 # 1-25 CALLEJON Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+225 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112100, 81112101 | PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD A INTERNET, RESPALDO, SEGURIDAD Y ALMACENAMIENTO DE DATOS EN LA NUBE PARA GARANTIZAR LA OPERATIVIDAD, CONTINUIDAD Y EFICIENCIA DE LOS PROCESOS ADMINISTRATIVOS Y OPERATIVOS DE LA CENTRAL DE TRANSPORTES ESTACIÓN CÚCUTA (CTEC) | Mínima cuantía | Recursos propios | $24.000.000 | OFICINA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+02/May/2025 - 08:33 am
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 08:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 06:01 pm | 10/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 06:01 pm | 10/Jun/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/May/2025 - 06:01 pm | 10/Dic/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 01/May/2025 - 11:48 pm | * **Nombre:** TECNOLOGIA INFORMACION Y COMUNICACIONES S.A.S TRICOMTELECOMUNICACIONES S.A.S | Cúcuta - Norte de Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 19,125,000
+
+**Informes proceso de selección CO1.AWD.2243556 de 08/May/2025 - 09:54 am. Valor $19.125.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/May/2025 - 05:17 pm |  |
+| Informe de evaluación | 05/May/2025 - 05:17 pm |  |
+| Informe de evaluación | 05/May/2025 - 05:17 pm |  |
+| Informe de evaluación | 07/May/2025 - 03:06 pm |  |
+| Informe de selección | 08/May/2025 - 09:54 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2243556**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TECNOLOGIA INFORMACION Y COMUNICACIONES S.A.S TRICOMTELECOMUNICACIONES S.A.S * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 900232917 | * **Nombre:** MAIRA XIOMARA TORRES CAÑAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 60373055 | Cúcuta - Norte de Santander | $19.125.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2243556****
+
+**Contrato 056-2025 de TECNOLOGIA INFORMACION Y COMUNICACIONES S.A.S TRICOMTELECOMUNICACIONES S.A.S:**
+
+**ID del contrato en SECOP:**
+
+056-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+PRESTACIÓN DEL SERVICIO DE CONECTIVIDAD A INTERNET, RESPALDO, SEGURIDAD Y ALMACENACIMIENTO DE DATOS EN LA NUBE PARA GARANTIZAR LA OPERATIVIDAD, CONTINUIDAD Y EFICIENCIA DE LOS PROCESOS ADMINISTRATIVOS Y OPERATIVOS DE LA CENTRAL DE TRANSPORTES ESTACIÓN CÚCUTA (CTEC).
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112100 | SERVICIOS DE CONECTIVIDAD | 1,00 | UN | 19.209.668,00 | 19.125.000,00 | 19.209.668,00 | 19.125.000,00 |
+
+**Fecha de terminación del contrato:**
+
+23/Dic/2025 - 11:59 am
+
+**Plazo de ejecución:**
+
+225 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 19,125,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 17. ACEPTACION DE OFERTA MC-004.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2243556 | Informe de selección CO1.AWD.2243556 | 08/May/2025 - 09:54 am |  | - |
+| Reporte preliminar | CO1.AWD.2243556 | Informe de evaluación 2 CO1.AWD.2243556 | 07/May/2025 - 03:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2243556 | Informe de evaluación 1 CO1.AWD.2243556 | 05/May/2025 - 05:17 pm |  | - |
+| Avisos | CO1.MSG.7823796 | La lista de oferentes del proceso CTEC-MC-004-2025 publicada por CENTRAL DE TRANSPORTES ESTACION CUCUTA | 02/May/2025 - 08:34 am |  | - |
+| Avisos | CO1.REQ.8178316 | Publicación modificación | 30/Abr/2025 - 06:01 pm |  |  |

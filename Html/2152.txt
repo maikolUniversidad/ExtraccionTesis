@@ -1,0 +1,98 @@
+Title: Licitaciones - ANH - Solicitud de información a los Proveedores (SECOPII) ANH-EM-36-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855e26644c2e2.75118411
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:43:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación del soporte, mantenimiento y/o licenciamiento de los componentes críticos de infraestructura tecnológica y facilidades físicas del datacenter de la ANH, conforme a lo establecido en el Anexo Técnico
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111900 - Sistemas de recuperación de información
+
+**Códigos adicionales UNSPSC:**
+
+39121000 - Equipamiento para distribución y conversión de alimentación,40101700 - Enfriamiento,43222500 - Equipo de seguridad de red,43233200 - Software de seguridad y protección,46191500 - Prevención contra incendios,46191600 - Equipo contra incendios,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida calle 26 No. 59-65 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 05:26 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jul/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8158962 | ALCANCE SONDEO DE MERCADO | 11/Jul/2025 - 05:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8093427 | RESPUESTA A OBSERVACIONES | 27/Jun/2025 - 01:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8087940 | Observaciones a la Solicitud de Información de Proveedores | 26/Jun/2025 - 03:23 pm |  | - |

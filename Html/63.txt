@@ -1,0 +1,294 @@
+Title: Licitaciones - MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a12b7adc1c1.13889937
+
+Markdown Content:
+Licitaciones - MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL - Licitación MSPS-LP-002-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 10:52:19
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Licitación
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+Contratar la implementación del modelo de analítica de datos usando inteligencia artificial y articulado con el modelo preventivo, predictivo y resolutivo de salud definido por el MSPS
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+81111504 - Servicios de programación de aplicaciones
+
+**Códigos adicionales UNSPSC:**
+81112002 - Servicios de procesamiento o preparación de datos,80101507 - Servicios de asesoramiento sobre tecnologías de la información,81112001 - Servicio de procesamiento de datos en línea,43201416 - Tablero de adquisición de datos,43201509 - Módulos de intercambio de comunicación de datos,43232300 - Software de consultas y gestión de datos,81112000 - Servicios de datos,43231512 - Software de manejo de licencias
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+170 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 8,000,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300, 81111504, 81112002, 80101507, 81112001, 43201416, 43201509, 81112000, 43231512 | PAA-1300-1. Contratar la implementación del modelo de analítica de datos usando inteligencia artificial y articulado con el modelo preventivo, predictivo y resolutivo de salud definido por el MSPS. | Licitación pública | Presupuesto de entidad nacional | $8.000.000.000 | UNIDAD DE CONTRATACIÓN GESTIÓN CONTRACTUAL MINSALUD |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+11/Jun/2025 - 06:07 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+11/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+11/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 11:50 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+01/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+01/Jul/2025 - 11:59 pm
+
+**Audiencia de asignación de Riesgos:**
+
+03/Jul/2025 - 09:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/Jul/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/Jul/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+14/Jul/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+14/Jul/2025 - 05:04 pm
+
+**Informe de presentación de Ofertas:**
+
+14/Jul/2025 - 05:07 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/Jul/2025 - 06:00 pm
+
+**Audiencia de Adjudicación:**
+
+25/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Jul/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 25/Jul/2025 - 11:59 pm | 30/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 25/Jul/2025 - 11:59 pm | 30/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 25,00 | 25/Jul/2025 - 11:59 pm | 30/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8089229 | Observaciones al Pliego Borrador | 26/Jun/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.8089100 | Obs. Pre Pliego Sec. SALUD | 26/Jun/2025 - 04:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8089099 | OBSERVACIONES PPC MINSALUD ANALITICA | 26/Jun/2025 - 04:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8088592 | Observaciones Borrador de Pliego | 26/Jun/2025 - 04:42 pm |  | - |
+| Aclaraciones | CO1.MSG.8088802 | Observaciones EY 2 | 26/Jun/2025 - 04:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8088770 | Observaciones al pliego de condiciones | 26/Jun/2025 - 04:27 pm |  | - |
+| Aclaraciones | CO1.MSG.8088743 | Observaciones al proceso Xertica Colombia | 26/Jun/2025 - 04:27 pm |  | - |
+| Aclaraciones | CO1.MSG.8088654 | Observaciones al proceso | 26/Jun/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8088623 | OBSERVACIONES LA CONSULTORÍA | 26/Jun/2025 - 04:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8088309 | Observaciones Proceso MSPS-LP-002-2025 | 26/Jun/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8087789 | Observaciones Grow Data SAS | 26/Jun/2025 - 03:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8087655 | Observación a los documentos expuestos | 26/Jun/2025 - 02:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8087446 | Observaciones -MSPS-LP-002-2025 | 26/Jun/2025 - 02:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8087275 | Observaciones Business Insights | 26/Jun/2025 - 02:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8086784 | Observaciones MSPS-LP-002-2025 V2 | 26/Jun/2025 - 12:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8086522 | Observaciones Proyectos de Pliegos | 26/Jun/2025 - 12:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8086502 | Inquietudes Proyecto de Pliegos | 26/Jun/2025 - 12:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8086454 | Observaciones Pliego de condiciones | 26/Jun/2025 - 12:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8085496 | solicitud observaciones Deloitte | 26/Jun/2025 - 11:54 am |  | - |
+| Aclaraciones | CO1.MSG.8085691 | Observaciones al Pliego Borrador | 26/Jun/2025 - 10:43 am |  | - |
+| Aclaraciones | CO1.MSG.8084701 | Observaciones - Proyecto de Pliegos | 26/Jun/2025 - 09:07 am |  | - |
+| Aclaraciones | CO1.MSG.8084532 | Inquietudes y Observaciones al proceso | 26/Jun/2025 - 08:51 am |  | - |
+| Aclaraciones | CO1.MSG.8083409 | Observaciones al prepliego | 25/Jun/2025 - 08:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8067102 | Observaciones y preguntas MSPS-LP-002-2025 | 20/Jun/2025 - 04:28 pm |  | - |
+| Aclaraciones | CO1.MSG.8038927 | Observaciones al pliego MSPS-LP-002-2025. | 16/Jun/2025 - 04:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8032462 | Link para audiencia de riesgos | 13/Jun/2025 - 05:52 pm |  | - |
+| Aclaraciones | CO1.MSG.8032386 | Observaciones Proceso No MSPS-LP-002-2025 - servi | 13/Jun/2025 - 05:40 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:37 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

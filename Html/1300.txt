@@ -1,0 +1,242 @@
+Title: Licitaciones - CONTRALORIA MUNICIPAL DE BELLO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683615fed45837.41557560
+
+Markdown Content:
+Licitaciones - CONTRALORIA MUNICIPAL DE BELLO - Contratación mínima cuantía IP-MC-001-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-05 22:44:28
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+La adquisición de elementos de papelería, útiles e implementos de oficina para las distintas dependencias de la Contraloría Municipal de Bello
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia: Bello
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44122100 - Suministros de sujeción
+
+**Códigos adicionales UNSPSC:**
+14111500 - Papel de imprenta y papel de escribir,44121701 - Bolígrafos,44121706 - Lápices de madera,44121708 - Marcadores,44121716 - Resaltadores,44121804 - Borradores,44121805 - Esferos de corrección,44121902 - Repuestos de minas,44122000 - Carpetas de archivo, carpetas y separadores,44122003 - Carpetas,44122010 - Separadores
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 50 51 00 piso 4 Bello Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 14111506, 14111507, 14111511, 14111532, 44103103, 44103105, 44103124, 44111501, 44111515, 44111520, 44121503, 44121615, 44121618, 44121619, 44121621, 44121634, 44121701, 44121702, 44121703, 44121707, 44121708, 44121711, 44121716, 44121719, 44121800 | adquisición de elementos de papelería y útiles de oficina para la Contraloría Municipal de Bello | Mínima cuantía | Recursos propios | $10.664.000 | Gestión contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 02:27 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+29/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+30/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+03/Jun/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 03:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 07:30 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 02:30 pm
+
+**Aceptación de ofertas:**
+
+09/Jun/2025 - 03:30 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 03:30 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 04:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2271102 | Informe de evaluación 1 CO1.AWD.2271102 | 05/Jun/2025 - 07:04 am |  | - |
+| Avisos | CO1.MSG.7978393 | Publicación de la lista de ofertas del proceso IP-MC-001-2025. | 04/Jun/2025 - 09:48 am |  | - |
+| General | CO1.MSG.7978251 | ADENDA - MODIFICA CRONOGRAMA | 04/Jun/2025 - 09:37 am |  | - |
+| Avisos | CO1.REQ.8327538 | Publicación modificación | 04/Jun/2025 - 09:31 am |  |  |
+| Avisos | CO1.MSG.7974490 | La lista de oferentes del proceso IP-MC-001-2025 publicada por CONTRALORIA MUNICIPAL DE BELLO | 03/Jun/2025 - 04:15 pm |  | - |
+| General | CO1.MSG.7961068 | SE LIMITA LA CONVOCATORIA | 29/May/2025 - 04:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7950147 | RE: ASUNTO: Observación al Pliego de Condiciones - Proceso de Selección de Mínima Cuantía IP 001-2025 REFERENCIA: Invitación Pública No. IP 001-2025 Entidad: CONTRALORÍA MUNICIPAL DE BELLO Modalidad: Contratación Mínima Cuantía Número: IP-MC-001-2025 Estado del proceso: Convocatoria Objeto: La adquisición de elementos de papelería, útiles e implementos de oficina para las distintas dependencias de la Contraloría Municipal de Bello Presupuesto oficial: $10,664,000 Localización: Antioquia: Bello | 28/May/2025 - 11:04 am |  | - |
+| Aclaraciones | CO1.MSG.7950125 | RE: ASUNTO: Observación al Pliego de Condiciones - Proceso de Selección de Mínima Cuantía IP 001-2025 REFERENCIA: Invitación Pública No. IP 001-2025 Entidad: CONTRALORÍA MUNICIPAL DE BELLO Modalidad: Contratación Mínima Cuantía Número: IP-MC-001-2025 Estado del proceso: Convocatoria Objeto: La adquisición de elementos de papelería, útiles e implementos de oficina para las distintas dependencias de la Contraloría Municipal de Bello Presupuesto oficial: $10,664,000 Localización: Antioquia: Bello | 28/May/2025 - 11:04 am |  | - |
+| Aclaraciones | CO1.MSG.7947740 | ASUNTO: Observación al Pliego de Condiciones - Proceso de Selección de Mínima Cuantía IP 001-2025 REFERENCIA: Invitación Pública No. IP 001-2025 Entidad: CONTRALORÍA MUNICIPAL DE BELLO Modalidad: Contratación Mínima Cuantía Número: IP-MC-001-2025 Estado del proceso: Convocatoria Objeto: La adquisición de elementos de papelería, útiles e implementos de oficina para las distintas dependencias de la Contraloría Municipal de Bello Presupuesto oficial: $10,664,000 Localización: Antioquia: Bello Co | 27/May/2025 - 07:00 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:29 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

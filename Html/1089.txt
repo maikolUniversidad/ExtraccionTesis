@@ -1,0 +1,174 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE LA VICTORIA VALLE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68363f1221b1f0.17716187
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 17:39:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE INTERNET FIBRA OPTICA PARA BRINDAR CONECTIVIDAD A LA COMUNIDAD Y GARANTIZAR LA SEGURIDAD Y VIGILANCIA EN EL MUNICIPIO Y SUS CORREGIMIENTOS, PARA: LA ESTACIÓN DE POLICÍA CASCO URBANO Y CASA DE LA CULTURA, SUBESTACION DE POLICIA MIRAVALLES, LA TERCERA EDAD DEL MUNICIPIO DE LA VICTORIA; ZONAS WIFI´S PARA: INSTITUCIÓN EDUCATIVA NUESTRA SEÑORA DE LA PAZ, PARQUE PRINCIPAL DE LOS CORREGIMIENTOS SAN PEDRO, SAN JOSE, HOLGUIN; PUNTO DE DATOS DE CÁMARAS DE SEGURIDAD DEL PARQUE PRINCIPAL DE LA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : La Victoria
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 # 8 - 45 La Victoria Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 05:31 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/May/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+29/May/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+30/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 05:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jun/2025 - 04:00 pm | 01/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 04/Jun/2025 - 04:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 04/Jun/2025 - 04:00 pm | 01/May/2026 - 12:00 pm |

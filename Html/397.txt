@@ -1,0 +1,233 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE GARZON
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bf9541d3675.76825558
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 10:24:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS PARA LA PROMOCION DIVULGACION SENSIBILIZACION, DIFUSION COMERCIALIZACION RADIAL TELEVISIVA Y DIGITAL DE LAS DIFERENTES ACTIVIDADES CULTURALES EVENTOS RECREATIVOS COMUNITARIOS TURISMO SEGURIDAD DE TRANSPORTE Y ENTRE OTROS EN CUMPLIMIENTO AL PLAN MUNICIPAL DE DESARROLLO GARZON ADELANTE 2024-2027
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Garzón
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101600 - Publicidad difundida
+
+**Códigos adicionales UNSPSC:**
+
+82101800 - Servicios de agencia de publicidad,82111900 - Servicios de noticias y publicidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "198,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 # 7-74 Garzón Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Abr/2025 - 03:38 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Abr/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 04:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+07/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 02:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+14/May/2025 - 02:22 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+14/May/2025 - 02:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+14/May/2025 - 02:30 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+14/May/2025 - 02:30 pm
+
+**Plazo para manifestación de interés:**
+
+16/May/2025 - 04:00 pm
+
+**Realización del sorteo:**
+
+16/May/2025 - 04:30 pm
+
+**Publicación de la lista de precalificados:**
+
+19/May/2025 - 10:30 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+19/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+22/May/2025 - 09:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+28/May/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+28/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 04:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+30/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 15/May/2025 - 12:00 pm | 14/May/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 15/May/2025 - 12:00 pm | 14/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 15/May/2025 - 12:00 pm | 14/May/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/May/2025 - 12:00 pm | 14/May/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7920332 | Publicación de la lista de ofertas del proceso MGSGGSAMCPS 000006 DEL 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 22/May/2025 - 09:08 am |  | - |
+| Avisos | CO1.MSG.7920300 | La lista de oferentes del proceso MGSGGSAMCPS 000006 DEL 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDIA MUNICIPIO DE GARZON | 22/May/2025 - 09:06 am |  | - |
+| General | CO1.MSG.7900250 | ACTA DE CONSOLIDACION DE OFERENTES | 19/May/2025 - 10:31 am |  | - |
+| General | CO1.MSG.7848404 | INFORMACION DE RESPUESTAS AL PRE PLIEGO. | 07/May/2025 - 05:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7832880 | Proceso de Contratación No. MGSGGSAMCPS 000006 - Proyecto de Pliego de Condiciones | 05/May/2025 - 01:10 pm |  | - |

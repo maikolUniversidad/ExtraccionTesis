@@ -1,0 +1,284 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE EL ESPINAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682511a37af4c7.14317722
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 07:02:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICION DE DISPOSITIVOS Y EQUIPOS DE COMUNICACIONES, COMPRA DE EQUIPOS TECNOLÓGICOS Y DE OFICINA DESTINADOS AL EQUIPO DE COMUNICACIONES DE LA ALCALDIA MUNICIPAL DE EL ESPINAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Espinal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211503 - Computadores notebook
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Mobiliario, -Pilas y baterías desechables y recargables", "licicodigos": "104,105,115,128,299" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 8-07 PALACIO MUNICIPAL Espinal Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211503, 45121516 | CONTRATAR LA ADQUISICION DE DISPOSITIVOS Y EQUIPOS DE COMUNICACIONES, COMPRA DE EQUIPOS TECNOLOGICOS Y DE OFICINA DESTINADOS AL EQUIPO DE COMUNICACIONES DE LA ALCALDIA DE EL ESPINAL | Mínima cuantía | Recursos propios | $39.800.000 | DIRECCION ADMINISTRATIVA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 04:54 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+14/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 11:59 pm
+
+**Apertura de sobres:**
+
+21/May/2025 - 07:30 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 06:05 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 07:30 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 08:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/May/2025 - 12:00 pm | 06/Oct/2025 - 11:59 am |
+| Pago de salarios | 5,00 | 26/May/2025 - 12:00 pm | 09/Jun/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 26/May/2025 - 12:00 pm | 06/Oct/2025 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** FUNDACION CORGESDE | Ibagué - Tolima |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,606,000
+
+**Informes proceso de selección CO1.AWD.2260574 de 30/May/2025 - 04:38 am. Valor $38.606.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 05:06 pm |  |
+| Informe de evaluación | 27/May/2025 - 06:29 pm |  |
+| Informe de selección | 30/May/2025 - 04:38 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260574**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FUNDACION CORGESDE * **Tipo documento:** NIT * **Documento:** 900976334 | * **Nombre:** JENIFFER ANDREA ORJUELA ORTIZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1105682299 | Ibagué - Tolima | $38.606.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260574****
+
+**Contrato 455-2025 de FUNDACION CORGESDE:**
+
+**ID del contrato en SECOP:**
+
+455-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+CONTRATAR LA ADQUISICION DE DISPOSITIVOS Y EQUIPOS DE COMUNICACIONES, COMPRA DE EQUIPOS TECNOLOGICOS Y DE OFICINA DESTINADOS AL EQUIPO DE COMUNICACIONES DE LA ALCALDIA MUNICIPAL DE EL ESPINAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211503 | CONTRATAR LA ADQUISICION DE DISPOSITIVOS Y EQUIPOS DE COMUNICACIONES, COMPRA DE EQUIPOS TECNOLÓGICOS Y DE OFICINA DESTINADOS AL EQUIPO DE COMUNICACIONES DE LA ALCALDIA MUNICIPAL DE EL ESPINAL. | 1,00 | UN | 39.800.000,00 | 38.606.000,00 | 39.800.000,00 | 38.606.000,00 |
+
+**Fecha de terminación del contrato:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 38,606,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION MC-16-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260574 | Informe de selección CO1.AWD.2260574 | 30/May/2025 - 04:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260574 | Informe de evaluación 2 CO1.AWD.2260574 | 27/May/2025 - 06:29 pm |  | - |
+| General | CO1.MSG.7934539 | RE: Observación informe de evaluacion | 26/May/2025 - 08:57 am |  | - |
+| Avisos | CO1.REQ.8262722 | Publicación modificación | 26/May/2025 - 08:50 am |  |  |
+| Reporte preliminar | CO1.AWD.2260574 | Informe de evaluación 1 CO1.AWD.2260574 | 23/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7931131 | RESPUESTA REQUERIMIENTO | 23/May/2025 - 04:17 pm |  | - |
+| General | CO1.MSG.7918819 | PRECIO ARTIFICIALMENTE BAJO | 21/May/2025 - 06:16 pm |  | - |
+| Avisos | CO1.MSG.7913206 | La lista de oferentes del proceso MC-16-2025 publicada por ALCALDÍA MUNICIPAL DE EL ESPINAL | 21/May/2025 - 09:03 am |  | - |
+| General | CO1.MSG.7904569 | RE: SOLICITUD DOCUMENTOS ANEXOS EDITABLES | 19/May/2025 - 06:00 pm |  | - |
+| General | CO1.MSG.7904495 | respuesta observaaciones | 19/May/2025 - 05:59 pm |  | - |
+| General | CO1.MSG.7895134 | AVISO DE NO LIMITACION A MIPYME | 16/May/2025 - 02:57 pm |  | - |

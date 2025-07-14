@@ -1,0 +1,198 @@
+Title: Licitaciones - SANTIAGO DE CALI DISTRITO ESPECIAL - DEPARTAMENTO ADMINISTRATIVO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810040dd8d081.26082272
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 09:10:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar el servicio de consultoría Basis especializada, para la creación, evolución y funcionalidad del Sistema de Gestión Financiero Territorial para sus ambientes SAP en el Distrito de Santiago de Cali.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+81111600 - Programadores de computador,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,43231500 - Software funcional específico de la empresa,43232400 - Programas de desarrollo,81112209 - Mantenimiento de software de desarrollo,81112201 - Tarifas de soporte o mantenimiento,81112501 - Servicio de licencias del software del computador,81112002 - Servicios de procesamiento o preparación de datos,81112003 - Servicios de centros de datos,81112204 - Mantenimiento de software de sistemas operativos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "102,117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida 2 norte #10-70 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 05:37 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 06:01 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/May/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+07/May/2025 - 09:01 am
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+12/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 12/May/2025 - 06:00 pm | 23/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 12/May/2025 - 06:00 pm | 25/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 12/May/2025 - 06:00 pm | 23/Feb/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7838853 | RE: aclaracion | 06/May/2025 - 12:30 pm |  | - |
+| General | CO1.MSG.7837881 | RE: aclaracion | 06/May/2025 - 10:38 am |  | - |
+| General | CO1.MSG.7832307 | RE: OBSERVACIONES ADICIONALES | 05/May/2025 - 11:48 am |  | - |
+| General | CO1.MSG.7832182 | RE: ALCANCE A LA RESPUESTA DE OBSERVACIONES | 05/May/2025 - 11:43 am |  | - |
+| General | CO1.MSG.7832058 | RE: ERROR FORMATO ANEXO No.4 | 05/May/2025 - 11:26 am |  | - |
+| Aclaraciones | CO1.MSG.7826985 | RE: OBSERVACVIONES GENERALES | 02/May/2025 - 03:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7816680 | OBSERVACVIONES GENERALES | 30/Abr/2025 - 08:04 am |  | - |

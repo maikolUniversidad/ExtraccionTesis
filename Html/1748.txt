@@ -1,0 +1,103 @@
+Title: Licitaciones - MINISTERIO DE EDUCACION NACIONAL (MEN)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6859d71924b0c6.98616649
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 21:27:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ESTUDIO DE MERCADO PARA CONOCER VALORES UNITARIOS DE ROLES Y PERFILES DE: PROYECTO LAGO DE DATOS Y ACTUALIZACIÓN DE ARQUITECTURA EMPRESARIAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111620 - Servicios temporales de recursos humanos
+
+**Códigos adicionales UNSPSC:**
+
+80111614 - Servicios temporales de ingeniería
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 43 # 57-14 CENTRO ADMINISTRATIVO NACIONAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+10 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Jun/2025 - 05:28 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 02:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8079305 | Observaciones Grow Data SAS | 25/Jun/2025 - 12:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8077868 | RE: OBSERVACIONES COEM | 25/Jun/2025 - 09:44 am |  | - |
+| Aclaraciones | CO1.MSG.8076314 | Observaciones Grow Data S.A.S | 24/Jun/2025 - 08:14 pm |  | - |
+| Aclaraciones | CO1.MSG.8073669 | OBSERVACIONES COEM | 24/Jun/2025 - 03:22 pm |  | - |

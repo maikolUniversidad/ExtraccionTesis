@@ -1,0 +1,210 @@
+Title: Licitaciones - MUNICIPIO DE YOPAL...
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681c03d86b6787.24852925
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 18:08:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+FORTALECER LA CULTURA TRIBUTARIA CON LA APLICACIÓN DE ESTRATEGIAS PARA LA IMPLEMENTACIÓN DE CAMPAÑAS DE SENSIBILIZACIÓN Y DIVULGACIÓN SOBRE LOS BENEFICIOS TRIBUTARIOS ESTABLECIDOS EN EL ACUERDO 014 DE 2024 Y EL CALENDARIO TRIBUTARIO PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Casanare : Yopal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101802 - Servicios de producción publicitaria
+
+**Códigos adicionales UNSPSC:**
+
+82101601 - Publicidad en radio,82101603 - Publicidad en internet,82141504 - Servicios de diseño de gráficos o gráficas,82141601 - Servicios fotográficos, de montaje o enmarcado
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Litografía e Impresión a gran formato, -Producciones audiovisuales (Radio - TV), -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "155,425,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 15 No. 15-21, Piso 2 Yopal Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82101801, 82101603, 82101601, 82141504, 82141600, 82141601 | FORTALECER LA CULTURA TRIBUTARIA CON LA APLICACIÓN DE ESTRATEGIAS PARA LA IMPLEMENTACIÓN DE CAMPAÑAS DE SENSIBILIZACIÓN Y DIVULGACIÓN SOBRE LOS BENEFICIOS TRIBUTARIOS ESTABLECIDOS EN EL ACUERDO 014 DE 2024 Y EL CALENDARIO TRIBUTARIO PARA LA VIGENCIA 2025, CON EL OBJETIVO DE PROMOVER UNA GESTIÓN FISCAL SOSTENIBLE Y RESPONSABLE EN EL MUNICIPIO DE YOPAL | Mínima cuantía | Recursos propios | $63.700.000 | PLAN ANUAL DE ADQUISICIONES |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+07/May/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+07/May/2025 - 08:00 pm
+
+**Fecha de publicación:**
+
+07/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+08/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+08/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+09/May/2025 - 06:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+09/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/May/2025 - 12:00 am
+
+**Apertura de sobres:**
+
+13/May/2025 - 08:00 am
+
+**Informe de presentación de ofertas:**
+
+14/May/2025 - 08:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/May/2025 - 12:00 pm | 07/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 19/May/2025 - 12:00 pm | 25/Ago/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 19/May/2025 - 12:00 pm | 07/Feb/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(8/05/2025 6:04:48 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE YOPAL... en 1 minuto de tiempo transcurrido (8/05/2025 6:04:48 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: POR MEDIO DEL CUAL SE DESCARTA EL PROCESO
+
+**Fecha de la cancelación:**
+
+08/May/2025 - 06:04 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7856256 | ACTO POR MEDIO DEL CUAL SE DESCARTA EL PROCESO | 08/May/2025 - 06:04 pm |  | - |

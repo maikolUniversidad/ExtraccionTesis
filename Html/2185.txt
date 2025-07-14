@@ -1,0 +1,98 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68067af43065c2.16526547
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:53:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SOLUCIÓN TECNOLÓGICA PARA LA GESTIÓN EN VÍA DE LA AUTORIDAD DE TRÁNSITO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,43231500 - Software funcional específico de la empresa,43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232900 - Software para trabajo en redes,43233000 - Software de entorno operativo,81111500 - Ingeniería de software o hardware,81111600 - Programadores de computador,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112000 - Servicios de datos,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 11:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7869463 | REQUERIMIENTO COTIZACIONES SDM-COT-081-2025 | 12/May/2025 - 05:29 pm |  | - |
+| Avisos | CO1.REQ.8143107 | Publicación modificación | 12/May/2025 - 05:21 pm |  |  |
+| General | CO1.MSG.7827682 | Respuesta observaciones 30 Abril 2025 | 02/May/2025 - 04:27 pm |  | - |
+| Avisos | CO1.REQ.8143107 | Publicación modificación | 25/Abr/2025 - 06:06 pm |  |  |
+| General | CO1.MSG.7802174 | RESPUESTA A OBSERVACIONES MESA TECNICA NO OBLIGATORIA | 25/Abr/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7786512 | COMUNICADO MESA TÉCNICA NO OBLIGATORIA | 23/Abr/2025 - 01:48 pm |  | - |
+| Avisos | CO1.REQ.8143107 | Publicación modificación | 22/Abr/2025 - 06:17 pm |  |  |

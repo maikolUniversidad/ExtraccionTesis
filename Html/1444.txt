@@ -1,0 +1,267 @@
+Title: Licitaciones - COMISIÓN NACIONAL DEL SERVICIO CIVIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e9a1b9bce68.17867466
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 06:38:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR UN (1) CERTIFICADO DIGITAL PARA LOS SERVICIOS INFORMÁTICOS DE LA CNSC PUBLICADOS A TRAVÉS DE INTERNET.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 96 -64 PISO 7 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233201 | 25085 - Adquirir Certificados digitales para el cargue y registro de información presupuestal y contable de la CNSC en el sistema SIIF Nación bajo la normatividad que rige la materia | Mínima cuantía | Recursos propios | $6.370.310 | Secretaría General |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 07:12 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+12/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+14/May/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+14/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 09:30 am
+
+**Apertura de sobres:**
+
+16/May/2025 - 09:35 am
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 09:40 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 23/May/2025 - 12:00 am | 22/May/2027 - 12:00 am |
+| Calidad del servicio | 10,00 | 23/May/2025 - 12:00 am | 22/May/2027 - 12:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CERTICAMARA S.A. | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,161,173
+
+**Informes proceso de selección CO1.AWD.2256305 de 23/May/2025 - 07:12 am. Valor $3.161.173**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 06:42 pm |  |
+| Informe de evaluación | 19/May/2025 - 06:42 pm |  |
+| Informe de evaluación | 19/May/2025 - 06:42 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:06 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:06 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:06 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:06 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:06 pm |  |
+| Informe de evaluación | 23/May/2025 - 02:36 pm |  |
+| Informe de evaluación | 23/May/2025 - 02:36 pm |  |
+| Informe de evaluación | 23/May/2025 - 02:36 pm |  |
+| Informe de selección | 23/May/2025 - 07:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2256305**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CERTICAMARA S.A. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 830084433 | * **Nombre:** CERTICAMARA S.A. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 830084433 | - Distrito Capital de Bogotá | $3.161.173 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2256305****
+
+**ID del contrato en SECOP:**
+
+443 DE 2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+22/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 3,161,173
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2256305 | Informe de selección CO1.AWD.2256305 | 23/May/2025 - 07:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256305 | Informe de evaluación 3 CO1.AWD.2256305 | 23/May/2025 - 02:36 pm |  | - |
+| General | CO1.MSG.7920612 | Aclaración de Precio Certicámara s.a. | 22/May/2025 - 09:40 am |  | - |
+| Reporte preliminar | CO1.AWD.2256305 | Informe de evaluación 2 CO1.AWD.2256305 | 21/May/2025 - 06:06 pm |  | - |
+| General | CO1.MSG.7910475 | CARTA DE PRESENTACIÓN DE LA OFERTA DEBIDAMENTE FIRMADA | 20/May/2025 - 04:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256305 | Informe de evaluación 1 CO1.AWD.2256305 | 19/May/2025 - 06:42 pm |  | - |
+| General | CO1.MSG.7898787 | DESIGNACIÓN DE COMITÉ EVALUADOR Y ASESOR | 18/May/2025 - 10:16 pm |  | - |
+| Avisos | CO1.MSG.7892775 | La lista de oferentes del proceso MC-008-2025-CNSC publicada por COMISIÓN NACIONAL DEL SERVICIO CIVIL | 16/May/2025 - 09:51 am |  | - |
+| Avisos | CO1.MSG.7892779 | Publicación de la lista de ofertas del proceso MC-008-2025-CNSC. | 16/May/2025 - 09:51 am |  | - |
+| General | CO1.MSG.7888550 | AVISO DE NO LIMITACIÓN A MIPYMES | 15/May/2025 - 02:43 pm |  | - |

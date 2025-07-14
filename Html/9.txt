@@ -1,0 +1,238 @@
+Title: Licitaciones - UNGRD - Licitación FNGRD-LP-002-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809b8887f86a4.56919675
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de bienes y servicios para la instalación, mantenimiento y puesta en funcionamiento de sistemas de alerta temprana por avenida torrencial en territorios priorizados por el FNGRD / UNGRD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41111938 - Sensores o transmisores de nivel
+
+**Códigos adicionales UNSPSC:**
+
+81151503 - Hidrometeorología,83121704 - Sistemas de alerta ciudadana,72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,46171606 - Sirenas,43191510 - Radios de dos vías
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Sensores, -Equipos meteorológicos y vulcanológicos", "licicodigos": "100,110,113,435" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 57 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Calle 26 No. 92-32 Piso 2 Gold 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 10:29 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 06:53 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 11:59 pm
+
+**Audiencia de asignación de Riesgos:**
+
+30/May/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+27/Jun/2025 - 05:01 pm
+
+**Informe de presentación de Ofertas:**
+
+27/Jun/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/Jul/2025 - 05:00 pm
+
+**Audiencia de Adjudicación:**
+
+22/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+28/Jul/2025 - 11:59 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 03:31 pm | 12/Jul/2025 - 03:31 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8131721 | Publicación de la lista de ofertas del proceso FNGRD-LP-002-2025 (Presentación de oferta). | 07/Jul/2025 - 09:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2300512 | Informe de evaluación 1 CO1.AWD.2300512 | 07/Jul/2025 - 08:41 pm |  | - |
+| General | CO1.MSG.8114602 | RESPUESTAS A OBSERVACIONES DE INDISPONIBILIDAD | 03/Jul/2025 - 03:48 pm |  | - |
+| Avisos | CO1.MSG.8095564 | La lista de oferentes del proceso FNGRD-LP-002-2025 (Presentación de oferta) publicada por UNGRD | 27/Jun/2025 - 05:13 pm |  | - |
+| General | CO1.MSG.8036572 | RESPUESTAS A OBSERVACIONES | 16/Jun/2025 - 01:32 pm |  | - |
+| General | CO1.MSG.8026865 | Adenda 01 | 12/Jun/2025 - 10:05 pm |  | - |
+| General | CO1.MSG.8026704 | RESPUESTAS A OBSERVACIONES | 12/Jun/2025 - 08:46 pm |  | - |
+| Avisos | CO1.REQ.8323545 | Publicación modificación | 12/Jun/2025 - 06:59 pm |  |  |
+| Aclaraciones | CO1.MSG.7997312 | RE: OBSERVACIONES AL PLIEGO DE CONDICIONES DEFINITIVO DEL PROCESO FNGRD No. LP-002-2025 | 06/Jun/2025 - 08:01 pm |  | - |
+| General | CO1.MSG.7997309 | RESPUESTAS A OBSERVACIONES | 06/Jun/2025 - 08:00 pm |  | - |
+| General | CO1.MSG.7997299 | ACTA DE AUDIENCIA DE ASIGANCIÓN DE RIESGOS | 06/Jun/2025 - 07:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7974270 | OBSERVACIONES AL PLIEGO DE CONDICIONES DEFINITIVO DEL PROCESO FNGRD No. LP-002-2025 | 03/Jun/2025 - 04:18 pm |  | - |
+| General | CO1.MSG.7962735 | RE: CARTA PARTICIPACION | 29/May/2025 - 08:39 pm |  | - |
+| General | CO1.MSG.7941194 | AUDIENCIA DE ASIGNACIÓN DE RIESGOS | 27/May/2025 - 08:18 am |  | - |
+| General | CO1.MSG.7924483 | RESPUESTAS A OBSERVACIONES | 22/May/2025 - 04:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7902447 | RE: Observaciones al Proyecto de Pliego de condiciones, Observación Proyecto de Pliego de Condiciones, OBSERVACIONES AL PROYECTO DE PLIEGO DENCONDICIONES, Envío de Observaciones la proyecto de pliego, Observación, Presentación de observaciones - Proceso FNGRD-LP-002-2025, OBSERVACIONES, Observaciones., OBSERVACIONES, Observaciones. | 19/May/2025 - 03:47 pm |  | - |
+| General | CO1.MSG.7868634 | 2DO AVISO DE CONVOCATORIA LEY 80 | 12/May/2025 - 04:30 pm |  | - |
+| Aclaraciones | CO1.MSG.7857008 | Observaciones al Proyecto de Pliego de condiciones | 08/May/2025 - 10:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7856848 | Observación Proyecto de Pliego de Condiciones | 08/May/2025 - 08:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7856426 | OBSERVACIONES AL PROYECTO DE PLIEGO DENCONDICIONES | 08/May/2025 - 06:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7856215 | Envío de Observaciones la proyecto de pliego | 08/May/2025 - 05:59 pm |  | - |
+| Aclaraciones | CO1.MSG.7856132 | Observación | 08/May/2025 - 05:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7847886 | Presentación de observaciones - Proceso FNGRD-LP-002-2025 | 08/May/2025 - 03:30 pm |  | - |
+| Aclaraciones | CO1.MSG.7851821 | OBSERVACIONES | 08/May/2025 - 12:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7850573 | Observaciones. | 08/May/2025 - 08:58 am |  | - |
+| Aclaraciones | CO1.MSG.7848110 | OBSERVACIONES | 07/May/2025 - 04:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7846372 | Observaciones. | 07/May/2025 - 02:58 pm |  | - |

@@ -1,0 +1,132 @@
+Title: Licitaciones - COLEGIO JOSE JAIME ROJAS INSTITUCION EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6825434c183142.06015579
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:52:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Suministro de toner, tintas para impresoras y cables para pc
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 78 D Nª 18U 91 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 13,951,600
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 03:31 pm
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+23/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8262144 | Publicación modificación | 23/May/2025 - 10:33 am |  |  |
+| Avisos | CO1.REQ.8262144 | Publicación modificación | 23/May/2025 - 10:32 am |  |  |
+| Avisos | CO1.REQ.8262144 | Publicación modificación | 21/May/2025 - 03:21 pm |  |  |
+| Avisos | CO1.REQ.8262144 | Publicación modificación | 19/May/2025 - 06:29 pm |  |  |
+| Avisos | CO1.REQ.8262144 | Publicación modificación | 19/May/2025 - 10:22 am |  |  |

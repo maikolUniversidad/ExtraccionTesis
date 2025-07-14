@@ -1,0 +1,129 @@
+Title: Licitaciones - COLEGIO LA AURORA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806d5c358f9e4.42290163
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-25 16:04:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El colegio La Aurora requiere contratar la compra de los repuestos e instalacion para la duplicadora Riso EZ 220U perteneciente a la institucion, para garantizar su correcto funcionamiento y así evitar deterioro o fallas en el equipo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154000 - Servicios de edificios especializados y comercios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Fotocopiadoras, repuestos e insumos", "licicodigos": "108" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 14 L # 71 03 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+12 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 04:29 pm
+
+**Fecha de Firma del Contrato:**
+
+29/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8144796 | Publicación modificación | 25/Abr/2025 - 03:57 pm |  |  |
+| Avisos | CO1.REQ.8144796 | Publicación modificación | 24/Abr/2025 - 01:51 pm |  |  |

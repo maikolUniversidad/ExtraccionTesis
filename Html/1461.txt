@@ -1,0 +1,182 @@
+Title: Licitaciones - PARQUES NACIONALES NATURALES DE COLOMBIA - DIRECCION TERRITORIAL ANDES NORORIENTALES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68520508915d26.46180488
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 19:15:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar mantenimiento preventivo y correctivo incluido repuestos de los equipos tecnológicos de las áreas protegidas de la Dirección Territorial Andes Nororientales en el marco de la Conservación de la diversidad biológica de las áreas protegidas del SINAP Nacional
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Códigos adicionales UNSPSC:**
+
+81141504 - Reparación o calibración de pruebas de equipo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad, -Equipos audiovisuales", "licicodigos": "105,109,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Quebrada Seca No. 30-12, Piso 1 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154066 | AN00-3202008-15-057Contratar mantenimiento preventivo y correctivo de los equipos tecnológicos de las áreas protegidas de la Dirección Territorial Andes Nororientales en el marco de la Conservación de la diversidad biológica de las áreas protegidas del SINAP Nacional | Mínima cuantía | Presupuesto de entidad nacional | $5.746.356 | DTAN |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 07:07 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 04:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 04:00 pm | 15/Dic/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 01/Jul/2025 - 04:00 pm | 15/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 04:00 pm | 15/Dic/2026 - 11:59 pm |

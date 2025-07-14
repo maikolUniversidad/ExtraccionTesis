@@ -1,0 +1,288 @@
+Title: Licitaciones - MUNICIPIO DE SANTA ROSA DE CABAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683615ab128298.44441073
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 07:03:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE UPS, AIRE ACONDICIONADO Y COMPUTADORES, AL SERVICIO DE LA ADMINISTRACIÓN MUNICIPAL DE SANTA ROSA DE CABAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Santa Rosa De Cabal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Códigos adicionales UNSPSC:**
+
+72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Aire acondicionado", "licicodigos": "106,109,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 14 Calle 12 esquina CAM Santa Rosa De Cabal Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | Mantenimiento y soporte de hardware de computador | Selección abreviada menor cuantía | Recursos propios | $54.000.000 | Gestión Contractual |
+| 72101511 | Servicio de instalación o mantenimiento o reparación de aires acondicionados | Mínima cuantía | Recursos propios | $2.419.200 | Gestión Contractual |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 02:00 pm
+
+**Fecha de publicación:**
+
+27/May/2025 - 02:27 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/May/2025 - 09:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+30/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 09:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/Jun/2025 - 09:00 am | 05/Feb/2026 - 11:00 pm |
+| Calidad del servicio | 10,00 | 05/Jun/2025 - 09:00 am | 05/Feb/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMPUTAR S.A.S. | Manizales - Caldas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 25,313,360
+
+**Informes proceso de selección CO1.AWD.2267346 de 04/Jun/2025 - 02:31 am. Valor $25.313.360**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 02:58 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 09:10 am |  |
+| Informe de selección | 04/Jun/2025 - 02:31 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267346**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMPUTAR S.A.S. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 800226784 | * **Nombre:** ORLANDO GARZON MEJIA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 10275263 | Manizales - Caldas | $25.313.360 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267346****
+
+**Contrato 479-2025 de COMPUTAR S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+479-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE UPS, AIRE ACONDICIONADO Y COMPUTADORES, AL SERVICIO DE LA ADMINISTRACIÓN MUNICIPAL DE SANTA ROSA DE CABAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112300 | EL PROPONENTE DEBERÁ PRESENTAR SU OFERTA ECONÓMICA DE MANERA DESAGREGADA EN EL FORMATO ADJUNTO POR LA ENTIDAD, DONDE ENCONTRARA LOS VALORES UNITARIOS DE REFERENCIA ESTABLECIDOS ADICIONALMENTE SE LE RECUERDA A LOS OFERENTES QUE EL VALOR TOTAL DE SU OFERTA ECONÓMICA DILIGENCIADA EN EL PRESENTE ANEXO DEBE TRASLADARSE AL FORMULARIO ECONÓMICO DISPUESTO POR LA ENTIDAD EN LA PLATAFORMA SECOP II, EL FORMATO PODRÁ ENCONTRARLO EN EL ANEXO DOCUMENTOS DEL PROCESO | 1,00 | UN | 37.482.630,33 | 25.313.360,00 | 37.482.630,33 | 25.313.360,00 |
+
+**Fecha de terminación del contrato:**
+
+05/Oct/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+4 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 25,313,360
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION DE OFERTA (1)[1].pdf |  |
+|  | CDP MANTENIMIENTO PREVENTIVO Y CORRECTIVO UPS 2025.pdf |  |
+|  | RUT MAYO 25 DE 2025.pdf |  |
+|  | ANEXO 4 OFERTA ECONOMICA INV SA-MC-471-2025.pdf |  |
+|  | CAMARA DE COMERCIO MANIZALES MAYO 2.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267346 | Informe de selección CO1.AWD.2267346 | 04/Jun/2025 - 02:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267346 | Informe de evaluación 2 CO1.AWD.2267346 | 04/Jun/2025 - 09:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2267346 | Informe de evaluación 1 CO1.AWD.2267346 | 30/May/2025 - 02:58 pm |  | - |
+| Avisos | CO1.MSG.7966438 | Publicación de la lista de ofertas del proceso SA-MC-471-2025. | 30/May/2025 - 02:44 pm |  | - |
+| Avisos | CO1.MSG.7964394 | La lista de oferentes del proceso SA-MC-471-2025 publicada por MUNICIPIO DE SANTA ROSA DE CABAL | 30/May/2025 - 10:13 am |  | - |
+| General | CO1.MSG.7961958 | RE: Observación al proceso por posible Incumpliendo y posible nulidad. | 29/May/2025 - 06:03 pm |  | - |
+| General | CO1.MSG.7956885 | AVISO DE NO LIMITACIÓN A MIPYME | 29/May/2025 - 09:17 am |  | - |

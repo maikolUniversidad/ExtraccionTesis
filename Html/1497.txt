@@ -1,0 +1,170 @@
+Title: Licitaciones - Concejo Municipal de Pensilvania - Contratación mínima cuantía MC - 001
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e16699d2358.94010046
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-21 13:11:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIO DE TRANSMISIÓN DE SESIONES ORDINARIAS Y EXTRAORDINARIAS DEL HONORABLE CONCEJO MUNICIPAL DE PENSILVANIA CALDAS DURANTE LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Pensilvania
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233700 - Software de administración de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+82101902 - Inserción en televisión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "198,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 6 # 4 06 Palacio Municipal Nivel 3 Pensilvania Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+100 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 12:48 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 04:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 05:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

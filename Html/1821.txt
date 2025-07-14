@@ -1,0 +1,96 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f842b4f3702.30991324
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar los servicios de mantenimiento, soporte y actualización con el suministro de repuestos para la infraestructura de telecomunicaciones, cableado estructurado (voz y datos), fibra óptica, energía normal y regulada de la Secretaría Distrital de Hacienda
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39131700 - Conductos eléctricos, electroductos y cables aéreos
+
+**Códigos adicionales UNSPSC:**
+
+43222602 - Equipo de centro distribuidor de cables,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,72151602 - Servicio de instalación de cables de fibra óptica,72151605 - Servicio de cableado para video, datos y voz,81111803 - Mantenimiento o soporte de redes de área local (lan)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Redes de transmisión de datos (Cableado estructurado), -Instalaciones eléctricas", "licicodigos": "98,99,241" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 08:16 am
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7810194 | Aclaración | 29/Abr/2025 - 08:24 am |  | - |

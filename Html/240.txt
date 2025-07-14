@@ -1,0 +1,265 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL DE SERVICIOS PÚBLICOS..
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ca300e44887.54674037
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:34:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+TIC-012 Adquisición de dispositivos FIREWALL y servicios relacionados, para control de la seguridad informática perimetral y administración de la seguridad informática en los dispositivos de usuario final de la Unidad Administrativa Especial de Servicios Públicos -UAESP
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232600 - Software específico para la industria
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Caracas ##53-80 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 330,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232600, 43233200, 81111800 | TIC-012 Adquisición de dispositivos FIREWALL y servicios relacionados, para control de la seguridad informática perimetral y administración de la seguridad informática en los dispositivos de usuario final de la Unidad Administrativa Especial de Servicios Públicos -UAESP | Selección abreviada subasta inversa | Recursos propios | $330.000.000 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/Jun/2025 - 04:48 pm
+
+**Publicación Estudios Previos:**
+
+13/Jun/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/Jun/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+24/Jun/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 10:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+25/Jun/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/Jun/2025 - 08:54 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/Jun/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+01/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+02/Jul/2025 - 05:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+08/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+08/Jul/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+08/Jul/2025 - 10:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+18/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 11:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+24/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/Jul/2025 - 11:00 pm | 23/Jul/2027 - 11:00 pm |
+| Pago de salarios | 5,00 | 23/Jul/2025 - 11:00 pm | 23/Jul/2029 - 11:00 pm |
+| Calidad del servicio | 10,00 | 23/Jul/2025 - 11:00 pm | 23/Jul/2027 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 23/Jul/2025 - 11:00 pm | 23/Jul/2027 - 11:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jul/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+18/Jul/2025 - 04:00 pm
+
+**Fecha fin:**
+
+18/Jul/2025 - 04:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2304726 | Informe de evaluación 1 CO1.AWD.2304726 | 11/Jul/2025 - 05:52 pm |  | - |
+| General | CO1.MSG.8145451 | RESPUESTA OBSERVACION PROCESO UAESP-SASI-02-2025 | 09/Jul/2025 - 06:08 pm |  | - |
+| Avisos | CO1.MSG.8133379 | Publicación de la lista de ofertas del proceso UAESP-SASI-02-2025 (Presentación de oferta). | 08/Jul/2025 - 10:17 am |  | - |
+| Avisos | CO1.MSG.8133335 | La lista de oferentes del proceso UAESP-SASI-02-2025 (Presentación de oferta) publicada por UNIDAD ADMINISTRATIVA ESPECIAL DE SERVICIOS PÚBLICOS.. | 08/Jul/2025 - 10:14 am |  | - |
+| Aclaraciones | CO1.MSG.8118074 | RESPUESTA OBSERVACIONES PLIEGO DEFINITIVO UAESP-SASI-02-2025 | 04/Jul/2025 - 08:14 am |  | - |
+| Aclaraciones | CO1.MSG.8098917 | Observaciones | 01/Jul/2025 - 10:18 am |  | - |
+| Aclaraciones | CO1.MSG.8096576 | Observaciones técnicas pliego de condiciones proceso UAESP-SASI-02-2025 | 27/Jun/2025 - 11:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8083509 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGO | 25/Jun/2025 - 08:28 pm |  | - |
+| Aclaraciones | CO1.MSG.8066368 | Observaciones al proceso | 20/Jun/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8067379 | Observaciones al Proyecto Pliego de Condiciones UAESP-SASI-02-2025 | 20/Jun/2025 - 04:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8065403 | OBSERVACIONES PREPLIEGO PROCESO UAESP-SASI-02-2025 | 20/Jun/2025 - 01:35 pm |  | - |

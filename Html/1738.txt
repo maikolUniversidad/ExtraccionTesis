@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA CLAVELLINAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808480e384401.00960613
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-22 21:02:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA TINTAS EXPOGRAFOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Aratoca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+VEREDA CLAVELLINAS Aratoca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 280,680
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103100 | COMPRA DE EXPOGRAFOS | Contratación régimen especial - Régimen especial | SGP | $280.680 | RECTORIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 02:51 pm
+
+**Fecha de Firma del Contrato:**
+
+25/Abr/2025 - 07:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+25/Abr/2025 - 07:00 am
+
+**Plazo de ejecución del contrato:**
+
+22/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

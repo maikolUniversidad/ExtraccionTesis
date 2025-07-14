@@ -1,0 +1,288 @@
+Title: Licitaciones - MPIO DE STA MARIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68069ea6cb1909.79283400
+
+Markdown Content:
+Licitaciones - MPIO DE STA MARIA - Contratación mínima cuantía IMC-USPD-020-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-04 06:27:20
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE PAPELERÍA, ELEMENTOS DE OFICINA, EQUIPOS Y MOBILIARIO CON DESTINO A LA UNIDAD DE SERVICIOS PUBLICOS DOMICILIARIOS DEL MUNICIPIO DE SANTA MARÍA - BOYACÁ.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Boyacá : Santa María
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+12171703 - Tintas
+
+**Códigos adicionales UNSPSC:**
+14111507 - Papel para impresora o fotocopiadora,14111530 - Papel de notas autoadhesivas,24141502 - Láminas elásticas de embalaje,26111702 - Pilas alcalinas,30161801 - Armarios,31201503 - Cinta de enmascarar,31201512 - Cinta transparente,40101604 - Ventiladores,43211501 - Servidores de computador,42121701 - Tablas quirúrgicas para uso veterinario,44121701 - Bolígrafos,44121618 - Tijeras,44121619 - Tajalápices manuales,44111515 - Cajas u organizadores de almacenamiento de archivos,44122003 - Carpetas,44121805 - Esferos de corrección,44121801 - Película o cinta de corrección,44111912 - Borradores para tableros blancos,44121716 - Resaltadores,44121708 - Marcadores,44122104 - Clips para papel,44121904 - Repuestos de tinta,44111914 - Tabla de soporte para escribir,44122010 - Separadores,44121804 - Borradores,44111503 - Organizadores o bandejas para el escritorio,56101703 - Escritorios,56112104 - Sillas para ejecutivos,56101701 - Cajoneras o estanterías,60105704 - Barras de pegante libres de ácido
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Mobiliario, -Servidores (Suministro y alquiler)", "licicodigos": "127,128,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+20 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 3 N°3-56 Santa María Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 53101502, 53101504, 53101602, 53101604, 46181503, 53111601, 53111602, 46182003, 46181504, 46181507, 46181546, 46181604, 46181611, 14111507, 53102516, 56101522, 56101507, 56101500, 56101703, 56101700 | SUMINISTRO DE PAPELERÍA, ELEMENTOS DE OFICINA, EQUIPOS, DOTACION, ELEMENTOS PROTECCION PERSONAL Y SEGURIDAD, CON DESTINO A LA UNIDAD DE SERVICIOS PUBLICOS DOMICILIARIOS DEL MUNICIPIO DE SANTA MARÍA - BOYACÁ | Mínima cuantía | Recursos propios | $39.858.000 | contratacion 1 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 02:10 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 02:11 pm
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 02:11 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/Abr/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/Abr/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 05:30 pm
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 05:31 pm
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 05:32 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+01/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/May/2025 - 12:00 am | 25/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 01/May/2025 - 12:00 am | 25/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 24/Abr/2025 - 04:41 pm | * **Nombre:** AYD CONSTRUCCIONES | San Luis De Gaceno - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 20,853,255
+
+**Informes proceso de selección CO1.AWD.2237169 de 30/Abr/2025 - 05:52 am. Valor $20.853.255**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/Abr/2025 - 04:36 pm |  |
+| Informe de selección | 30/Abr/2025 - 05:52 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2237169**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** AYD CONSTRUCCIONES Y SERVICIOS SAS * **Tipo documento:** NIT * **Documento:** 901247622 | * **Nombre:** angela vianey alfonso cuesta * **Tipo documento:** * **Documento:** 33677303 | San Luis De Gaceno - Boyacá | $20.853.255 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2237169****
+
+**Cuantía a la firma del contrato:**
+
+$ 20,853,255
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2237169 | Informe de selección CO1.AWD.2237169 | 30/Abr/2025 - 05:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237169 | Informe de evaluación 1 CO1.AWD.2237169 | 28/Abr/2025 - 04:36 pm |  | - |
+| Avisos | CO1.MSG.7795887 | Publicación de la lista de ofertas del proceso IMC-USPD-020-2025. | 24/Abr/2025 - 05:50 pm |  | - |
+| Avisos | CO1.MSG.7795883 | La lista de oferentes del proceso IMC-USPD-020-2025 publicada por MPIO DE STA MARIA | 24/Abr/2025 - 05:50 pm |  | - |
+| General | CO1.MSG.7787197 | AVISO INFORMATIVO DE LIMITACIÓN A MIPYMES MUNICIPALES | 23/Abr/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.7787178 | RE: OBSERVACIÓN FORMATO OFERTA ECONÓMICA | 23/Abr/2025 - 02:59 pm |  | - |
+| General | CO1.MSG.7787149 | RE: Solicitud Formatos Editables | 23/Abr/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.7787127 | RE: Observacion Proceso | 23/Abr/2025 - 02:56 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:01 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

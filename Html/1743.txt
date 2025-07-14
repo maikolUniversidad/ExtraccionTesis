@@ -1,0 +1,104 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE CAJICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ae2178e9922.96470730
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COMPRA DE LICENCIAS DE ADOBE Y AUTOCAD PARA EQUIPOS DE CÓMPUTO DE LA ALCALDÍA MUNICIPAL DE CAJICÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Cajicá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 2 No. 4-07 Palacio Municipal Cajicá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 33,600,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232100 | COMPRA DE LICENCIAS DE ADOBE Y AUTOCAD PARA EQUIPOS DE CÓMPUTO DE LA ALCALDÍA MUNICIPAL DE CAJICÁ BPIN 2024251260079 | Mínima cuantía | Recursos propios | $33.600.000 | Dirección de Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 12:34 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 01:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 04:00 pm

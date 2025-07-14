@@ -1,0 +1,127 @@
+Title: Licitaciones - COLEGIO MARIA CURREA MANRIQUE IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b38be188b60.29720268
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 10:19:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El Colegio María Currea Manrique I.E.D requiere contratar el suministro de insumos requeridos para la creación y dotación del aula STEM, de acuerdo con las necesidades de la institución y el presupuesto asignado a este rubro.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60106214 - Materiales didácticos de robótica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Electrónica - Robótica, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "212,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CLL 58D SUR # 51 - 10 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+40 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 27,390,850
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 60106214 | DE Adquisición de insumos para crear y dotar Laboratorio STEM | Contratación régimen especial - Régimen especial | SGP | $23.164.997 | COLEGIO MARIA CURREA MANRIQUE IED |
+| 60106214 | PI Adquisición de insumos para crear y dotar Laboratorio STEM | Contratación régimen especial - Régimen especial | Recursos propios | $4.225.853 | COLEGIO MARIA CURREA MANRIQUE IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 02:22 pm
+
+**Fecha de Firma del Contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+29/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

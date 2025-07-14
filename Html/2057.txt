@@ -1,0 +1,94 @@
+Title: Licitaciones - SERVICIO GEOLOGICO COLOMBIANO**
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d1f9766724.69563706
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:14:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la adquisición de dispositivos de almacenamiento, periféricos y accesorios tecnológicos de computador para el Servicio Geológico Colombiano.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+DIAGONAL 53 NO. 34-53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 03:24 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+01/Jul/2025 - 06:00 pm

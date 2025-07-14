@@ -1,0 +1,94 @@
+Title: Licitaciones - SANTIAGO DE CALI DISTRITO ESPECIAL - SECRETARIA DE CULTURA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b6c237c5de3.39253137
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 09:43:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Conocer es valor aproximado de los ETP requeridos por la Secretaría de Cultura
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43211800 - Accesorios de dispositivos de entrada de datos de computador,43211900 - Monitores y pantallas de computador,43212000 - Accesorios de pantallas de computador,43212100 - Impresoras de computador,43212200 - Sistemas de manejo de almacenamiento de datos de computador,43231500 - Software funcional específico de la empresa,43231600 - Software de planificación de recursos empresariales (ERP) y contabilidad financiera,43232000 - Software de entretenimiento o juegos de computador,43232100 - Software de edición y creación de contenidos,43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,43232500 - Software educativo o de referencia,43232600 - Software específico para la industria,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233000 - Software de entorno operativo,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,43233500 - Software de intercambio de información,43233600 - Software de equipo eléctrico,43233700 - Software de administración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Equipos audiovisuales", "licicodigos": "103,104,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 5 # 6 - 05 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 12:28 pm
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm

@@ -1,0 +1,180 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684cb6fc44ed30.99302590
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 17:37:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LOS SISTEMAS DE CITOFONÍA DE LOS ALOJAMIENTOS MILITARES A CARGO DE LA BASE AÉREA DEL COMANDO DE LA FUERZA AEROESPACIAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 06:35 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 03:03 pm
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 03:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 04:30 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 01/Jul/2025 - 12:00 am | 01/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 am | 01/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 01/Dic/2025 - 12:00 am | 01/Dic/2026 - 11:59 pm |

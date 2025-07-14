@@ -1,0 +1,239 @@
+Title: Licitaciones - Personería Salento - Contratación mínima cuantía PMSQ-CMC-001-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d8e4754b11.51346917
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:40:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS DE OFICINA Y TECNOLOGIA PARA EL MEJORAMIENTO DE LAS INSTALACIONES DE LA PERSONERÍA MUNICIPAL DE SALENTO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Salento
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101701 - Cajoneras o estanterías
+
+**Códigos adicionales UNSPSC:**
+
+56101702 - Gabinetes de archivo o accesorios,56101703 - Escritorios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mobiliario, -Litografía e Impresión a gran formato, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "105,128,155,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrer 6 # 6-34 Salento Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 04:04 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 04:10 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 04:10 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 04:10 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 04:10 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 12:01 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 12:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SUPERTINTAS Y SUMINISTROS S.A.S. | Armenia - Quindío |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,647,200
+
+**Informes proceso de selección CO1.AWD.2287244 de 25/Jun/2025 - 02:13 am. Valor $12.647.200**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 04:13 pm |  |
+| Informe de selección | 25/Jun/2025 - 02:13 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2287244**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SUPERTINTAS Y SUMINISTROS S.A.S. * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 901145571 | * **Nombre:** ALEJANDRA GARZON SOTO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1002636970 | Armenia - Quindío | $12.647.200 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2287244****
+
+**ID del contrato en SECOP:**
+
+PMSQ-CMC-001-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+01/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 12,647,200
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287244 | Informe de selección CO1.AWD.2287244 | 25/Jun/2025 - 02:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287244 | Informe de evaluación 1 CO1.AWD.2287244 | 20/Jun/2025 - 04:13 pm |  | - |
+| Avisos | CO1.MSG.8065634 | Publicación de la lista de ofertas del proceso PMSQ-CMC-001-2025. | 20/Jun/2025 - 02:13 pm |  | - |
+| Avisos | CO1.MSG.8065222 | La lista de oferentes del proceso PMSQ-CMC-001-2025 publicada por Personería Salento | 20/Jun/2025 - 12:52 pm |  | - |
+| General | CO1.MSG.8057431 | Aviso Informativo - CRONOGRAMA | 19/Jun/2025 - 10:59 am |  | - |
+| General | CO1.MSG.8056698 | limitación a MIPYMES | 19/Jun/2025 - 09:51 am |  | - |
+| General | CO1.MSG.8052337 | Aviso de limitación a MIPYMES | 18/Jun/2025 - 04:39 pm |  | - |

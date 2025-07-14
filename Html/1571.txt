@@ -1,0 +1,269 @@
+Title: Licitaciones - SECRETARIA DE EDUCACION DE CALI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68115cc90b8cc2.10884630
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 12:24:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir 3 licencias de Software Microsoft Power BI Premium per user, para la operación del sistema de información del Observatorio de la Educación.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. 4 Norte No. 13 - 39 Edificio Boulevard de la 6a Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+29/Abr/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 05:54 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+05/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+05/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+06/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+07/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+07/May/2025 - 03:10 pm
+
+**Informe de presentación de ofertas:**
+
+07/May/2025 - 03:15 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/Jun/2025 - 08:00 am | 31/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 30/Jun/2025 - 08:00 am | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 06/May/2025 - 05:50 pm | * **Nombre:** APROVISIONAR SOLUCIONES S.A.S | Medellín - Antioquia |
+| 2 | 06/May/2025 - 09:56 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 3 | 07/May/2025 - 12:14 pm | * **Nombre:** INTERCOPYSNEC | Cali - Valle del Cauca |
+| 4 | 07/May/2025 - 02:27 pm | * **Nombre:** Integra TIC Tecnologias de Optimizacion S.A.S. | Cali - Valle del Cauca |
+| 5 | 07/May/2025 - 02:37 pm | * **Nombre:** ADATA COMPANY | Bogotá - Distrito Capital de Bogotá |
+| 6 | 07/May/2025 - 02:52 pm | * **Nombre:** CORE IP | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,150,000
+
+**Informes proceso de selección CO1.AWD.2247438 de 16/May/2025 - 03:23 am. Valor $3.150.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 02:58 pm |  |
+| Informe de evaluación | 09/May/2025 - 02:58 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:00 pm |  |
+| Informe de selección | 16/May/2025 - 03:23 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247438**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INTERCOPYES.NEC * **Tipo documento:** NIT * **Documento:** 1130659396 | * **Nombre:** GIOVANNI ENRIQUE BALANTA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1130659396 | Cali - Valle del Cauca | $3.150.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247438****
+
+**ID del contrato en SECOP:**
+
+4143.010.26.1.0821.2025
+
+**Estado del contrato:**
+
+En ejecución
+
+**Fecha inicio del contrato:**
+
+12/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+30/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 3,150,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247438 | Informe de selección CO1.AWD.2247438 | 16/May/2025 - 03:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247438 | Informe de evaluación 2 CO1.AWD.2247438 | 14/May/2025 - 03:00 pm |  | - |
+| General | CO1.MSG.7869498 | Adenda N1 | 12/May/2025 - 05:32 pm |  | - |
+| Avisos | CO1.REQ.8183709 | Publicación modificación | 12/May/2025 - 05:29 pm |  |  |
+| Avisos | CO1.MSG.7867151 | Publicación de la lista de ofertas del proceso 4143.010.32.0834-2025. | 12/May/2025 - 02:12 pm |  | - |
+| General | CO1.MSG.7862986 | SUBSNACION DE DOCUMENTOS | 09/May/2025 - 07:58 pm |  | - |
+| General | CO1.MSG.7862830 | SUBSNACION DE DOCUMENTOS | 09/May/2025 - 06:56 pm |  | - |
+| General | CO1.MSG.7861848 | DESIGNACIÓN EQUIPO ASESOR EVALUADOR | 09/May/2025 - 04:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247438 | Informe de evaluación 1 CO1.AWD.2247438 | 09/May/2025 - 02:58 pm |  | - |
+| General | CO1.MSG.7854252 | SOLICITUD DE ACLARACION PRECIO ARTIFICIALMENTE BAJO | 08/May/2025 - 03:27 pm |  | - |
+| Avisos | CO1.MSG.7846724 | La lista de oferentes del proceso 4143.010.32.0834-2025 publicada por SECRETARIA DE EDUCACION DE CALI | 07/May/2025 - 03:20 pm |  | - |

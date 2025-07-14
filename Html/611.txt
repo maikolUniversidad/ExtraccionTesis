@@ -1,0 +1,184 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE IPIALES - NIVEL CENTRAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ca9183467e1.34034324
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:36:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS TOPOGRÁFICOS Y DE GEOREFERENCIACIÓN SATELITAL - GNSS DE ALTA PRECISIÓN PARA EL DESARROLLO DE ACTIVIDADES MISIONALES DE LA SECRETARIA DE INFRAESTRUCTURA Y VÍAS DEL MUNICIPIO DE IPIALES - NARIÑO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Ipiales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41111600 - Instrumentos de medida de longitud, espesor o distancia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "GPS y servicio de monitoreo, -Equipo de topografía", "licicodigos": "377,451" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 8-75 PLAZA 20 DE JULIO EDIFICIO CAM IPIALES NARIÑO COLOMBIA Ipiales Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 10:51 am
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 06:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2266502 | Informe de evaluación 2 CO1.AWD.2266502 | 16/Jun/2025 - 03:13 pm |  | - |
+| General | CO1.MSG.8037717 | Resolucion por medio de la cual la Entidad se aparta de la recomendacion del Comite evaluador. | 16/Jun/2025 - 03:10 pm |  | - |
+| Avisos | CO1.REQ.8288797 | Publicación modificación | 03/Jun/2025 - 06:12 pm |  |  |
+| General | CO1.MSG.7961288 | RE: Observaciones 2 al proceso de contratación SMC 033 de 2025 | 29/May/2025 - 04:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266502 | Informe de evaluación 1 CO1.AWD.2266502 | 29/May/2025 - 03:01 pm |  | - |
+| Avisos | CO1.MSG.7956471 | Publicación de la lista de ofertas del proceso SMC 033 DE 2025. | 29/May/2025 - 08:31 am |  | - |
+| Avisos | CO1.MSG.7956470 | La lista de oferentes del proceso SMC 033 DE 2025 publicada por ALCALDIA MUNICIPAL DE IPIALES - NIVEL CENTRAL | 29/May/2025 - 08:31 am |  | - |
+| Avisos | CO1.REQ.8288797 | Publicación modificación | 27/May/2025 - 12:12 pm |  |  |
+| General | CO1.MSG.7943628 | RESPUESTA OBSERVACIONES | 27/May/2025 - 12:06 pm |  | - |
+| Aclaraciones | CO1.MSG.7943614 | RESPUESTA A OBSERVACIONES AL PLIEGO DE CONDICIONES, Observaciones al proceso de contratación SMC 033 de 2025 , Observaciones al proceso, OBSERVACIONES AL PLIEGO DE CONDICIONES | 27/May/2025 - 12:05 pm |  | - |
+| Avisos | CO1.REQ.8288797 | Publicación modificación | 22/May/2025 - 03:12 pm |  |  |
+| Aclaraciones | CO1.MSG.7918200 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 21/May/2025 - 05:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7918087 | Observaciones al proceso de contratación SMC 033 de 2025 | 21/May/2025 - 05:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7917595 | Observaciones al proceso | 21/May/2025 - 04:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7916781 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 21/May/2025 - 03:34 pm |  | - |

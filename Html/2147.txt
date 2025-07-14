@@ -1,0 +1,86 @@
+Title: Licitaciones - AGENCIA DISTRITAL PARA LA EDUCACIÓN SUPERIOR, LA CIENCIA Y LA TECNOLOGÍA, ATENEA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68556b69328f30.93514596
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:48:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar certificado digital de sitio seguro SSL OV compatible con algoritmo ECC, para asegurar el cifrado de los contenidos, trasmisión de datos a través de los sitios web y sistemas de información de la Agencia Distrital para la Educación Superior, la Ciencia y la Tecnología ATENEA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra 10 # 28-49. Torre A, piso 26 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 08:39 am
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 03:00 pm

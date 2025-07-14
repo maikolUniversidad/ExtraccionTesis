@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL ANTIOQUIA Grupo Administrativo Complejo Itagüí
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68363cfcc7a4f9.21130641
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 17:30:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+5_9202_226 CONTRATAR LA COMPRA DE ELEMENTOS MECÁNICOS Y ELECTRONEUMÁTICOS PARA ORIENTAR ACTIVIDADES FORMATIVAS RELACIONADAS CON ADAPTACIONES Y CONVERSIONES TECNOLÓGICAS EN LA MAQUINARIA DE CONFECCIÓN INDUSTRIAL DE LOS PROGRAMAS DE FORMACIÓN DE MANTENIMIENTO OFRECIDOS POR EL CENTRO DE FORMACIÓN EN DISEÑO CONFECCIÓN Y MODA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Itagui
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+23121614 - Máquinas de coser
+
+**Códigos adicionales UNSPSC:**
+
+31381400 - Imanes pegados con plástico y ensambles magnéticos,27113200 - Juegos de herramientas,27113204 - Kits de electricista,39121311 - Accesorios eléctricos,41113669 - Detector de línea de voltaje,39121729 - Juego de cables eléctricos,39112505 - Luminarias tipo perfil,30151703 - Canaletas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para obras eléctricas en general, -Electrónica - Robótica, -Maquinaria para confección textil", "licicodigos": "121,212,353" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 63 N. 58B - 03 Itagui Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 04:32 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 04:00 pm

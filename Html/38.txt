@@ -1,0 +1,290 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6818fd0ce51bf5.63176235
+
+Markdown Content:
+Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS - Régimen Especial PCESAL-01-FCM-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-28 17:09:14
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Régimen Especial
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+Realizar los seminarios de actualización del Sistema Integrado de información sobre multas y sanciones por infracciones de tránsito - SIMIT a las autoridades de tránsito, así como los conversatorios tendientes a iniciar la actualización del SIMIT respecto de los Ejes de Transformación del Plan Nacional de Desarrollo 2023-2026, y los cursos de capacitación para certificar a los agentes de tránsito en el uso de alcohosensores por aire espirado, en virtud de la función pública asignada.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+86101700 - Servicios de capacitación vocacional no
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Capacitación y educación no formal", "licicodigos": "102,103,165" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 86101700 | Realizar los seminarios de actualización del Sistema Integrado de información sobre multas y sanciones por infracciones de tránsito - SIMIT a las autoridades de tránsito, así como los conversatorios tendientes a iniciar la actualización del SIMIT respecto de los Ejes de Transformación del Plan Nacional de Desarrollo 2023-2026, y los cursos de capacitación para certificar a los agentes de tránsito en el uso de alcohosensores por aire espirado, en virtud de la función pública asignada | Contratación régimen especial - Régimen especial | Recursos propios | $2.829.757.000 | SECRETARÍA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+05/May/2025 - 12:48 pm
+
+**Fecha límite de presentación de ofertas:**
+
+09/May/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+09/May/2025 - 11:05 am
+
+**Fecha de Firma del Contrato:**
+
+20/May/2025 - 05:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo de ejecución del contrato:**
+
+26/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,728,774,815
+
+**Informes proceso de selección CO1.AWD.2251529 de 21/May/2025 - 10:23 am. Valor $2.728.774.815**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 03:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 03:19 pm |  |
+| Informe de evaluación | 19/May/2025 - 03:35 pm |  |
+| Informe de evaluación | 19/May/2025 - 03:35 pm |  |
+| Informe de evaluación | 19/May/2025 - 03:35 pm |  |
+| Informe de selección | 21/May/2025 - 10:23 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2251529**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Centro de Conocimiento Alejandría * **Tipo documento:** NIT * **Documento:** 800113262 | * **Nombre:** Juan Felipe Agudelo García * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1088271328 | Bogotá - Distrito Capital de Bogotá | $2.728.774.815 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2251529****
+
+**Contrato 68 DE 2025 de Centro de Conocimiento Alejandría:**
+
+**ID del contrato en SECOP:**
+
+68 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+Realizar los seminarios de actualización del Sistema Integrado de información sobre multas y sanciones por infracciones de tránsito - SIMIT a las autoridades de tránsito, así como los conversatorios tendientes a iniciar la actualización del SIMIT respecto de los Ejes de Transformación del Plan Nacional de Desarrollo 2023-2026, y los cursos de capacitación para certificar a los agentes de tránsito en el uso de alcohosensores por aire espirado, en virtud de la función pública asignada.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 86101700 | Seminarios de actualización (valor total) | 1,00 | UN | 2.155.056.000,00 | 2.092.047.660,30 | 2.155.056.000,00 | 2.092.047.660,30 |
+| 1 | 86101700 | Seminarios de actualización (valor por persona) | 1,00 | UN | 1.722.667,00 | 1.672.300,29 | 1.722.667,00 | 1.672.300,29 |
+| 1 | 86101700 | Curso de medición de alcohol por aire espirado (valor total) | 1,00 | UN | 652.515.000,00 | 633.509.708,74 | 652.515.000,00 | 633.509.708,74 |
+| 1 | 86101700 | Curso de medición de alcohol por aire espirado (valor por persona) | 1,00 | UN | 1.591.500,00 | 1.545.145,63 | 1.591.500,00 | 1.545.145,63 |
+
+**Fecha inicio del contrato:**
+
+27/May/2025 - 04:00 pm
+
+**Fecha de terminación del contrato:**
+
+26/Dic/2025 - 11:59 am
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 2,728,774,815
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CONTRATO DE COLABORACION N° 68 DE 2025.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aprobación Póliza CTO 68 DE 2025.pdf |  |
+|  | Poliza de cumplimiento y RCE FCM 2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7945603 | PÓLIZA Y APROBACIÓN DE LA PÓLIZA | 27/May/2025 - 03:54 pm |  | - |
+| Reporte final | CO1.AWD.2251529 | Informe de selección CO1.AWD.2251529 | 21/May/2025 - 10:23 am |  | - |
+| Objeciones | CO1.MSG.7893373 | [Respondido] RE:Subsanacion Proceso ESAL FCM 2025 | 21/May/2025 - 10:20 am |  | - |
+| General | CO1.MSG.7910658 | ACTO ADMINISTRATIVO DE ADJUDICACIÓN | 20/May/2025 - 04:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251529 | Informe de evaluación 2 CO1.AWD.2251529 | 19/May/2025 - 03:35 pm |  | - |
+| Objeciones | CO1.MSG.7893373 | Subsanacion Proceso ESAL FCM 2025 | 16/May/2025 - 10:56 am |  | - |
+| Aclaraciones | CO1.MSG.7883590 | RE: Ampliación Plazo de presentación de ofertas_UROSARIO, OBSERVACIONES_UROSARIO | 14/May/2025 - 05:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251529 | Informe de evaluación 1 CO1.AWD.2251529 | 14/May/2025 - 03:19 pm |  | - |
+| General | CO1.MSG.7869612 | ADENDA NO. 1 - CRONOGRAMA | 12/May/2025 - 05:42 pm |  | - |
+| Avisos | CO1.REQ.8209053 | Publicación modificación | 12/May/2025 - 05:39 pm |  |  |
+| General | CO1.MSG.7866325 | REQUERIMIENTO documentación Centro de Conocimiento Alejandría | 12/May/2025 - 11:49 am |  | - |
+| Avisos | CO1.MSG.7858954 | Publicación de la lista de ofertas del proceso PCESAL-01-FCM-2025. | 09/May/2025 - 11:09 am |  | - |
+| Avisos | CO1.MSG.7858943 | La lista de oferentes del proceso PCESAL-01-FCM-2025 publicada por FEDERACION COLOMBIANA DE MUNICIPIOS | 09/May/2025 - 11:08 am |  | - |
+| Aclaraciones | CO1.MSG.7843274 | OBSERVACIONES_UROSARIO | 07/May/2025 - 12:31 am |  | - |
+| Aclaraciones | CO1.MSG.7843249 | Ampliación Plazo de presentación de ofertas_UROSARIO | 06/May/2025 - 11:49 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:34 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

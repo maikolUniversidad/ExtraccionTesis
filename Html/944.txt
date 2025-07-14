@@ -1,0 +1,281 @@
+Title: Licitaciones - CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834bd211bdd11.19761082
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 10:09:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DEL LICENCIAMIENTO DE LA SOLUCION DE SEGURIDAD PERIMETRAL POR 12 MESES E IMPLEMENTACIÓN, CAPACITACIÓN Y SOPORTE CERTIFICADO DE LA MISMA, PARA LA ALCALDÍA DE MOSQUERA -CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Mosquera
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 N° 2-68 Mosquera Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 01:54 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+30/May/2025 - 12:05 pm
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 12:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 14/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 14/Jun/2025 - 12:00 pm | 14/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 14/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GLOBALTEK SECURITY S.A.S. | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 25,788,490
+
+**Informes proceso de selección CO1.AWD.2269702 de 05/Jun/2025 - 08:36 am. Valor $25.788.490**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jun/2025 - 09:28 pm |  |
+| Informe de evaluación | 02/Jun/2025 - 09:28 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 10:26 am |  |
+| Informe de evaluación | 04/Jun/2025 - 10:26 am |  |
+| Informe de evaluación | 04/Jun/2025 - 04:29 pm |  |
+| Informe de selección | 05/Jun/2025 - 08:36 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2269702**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GLOBALTEK SECURITY S.A.S. * **Tipo documento:** NIT * **Documento:** 830001516 | * **Nombre:** PEDRO MUÑOZ * **Tipo documento:** NIT * **Documento:** 193311118 | - Distrito Capital de Bogotá | $25.788.490 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2269702****
+
+**Contrato CCV-008-2025 de GLOBALTEK SECURITY S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CCV-008-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+RENOVACIÓN DEL LICENCIAMIENTO DE LA SOLUCION DE SEGURIDAD PERIMETRAL POR 12 MESES E IMPLEMENTACIÓN, CAPACITACIÓN Y SOPORTE CERTIFICADO DE LA MISMA, PARA LA ALCALDÍA DE MOSQUERA -CUNDINAMARCA.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112501 | RENOVACIÓN DEL LICENCIAMIENTO DE LA SOLUCION DE SEGURIDAD PERIMETRAL POR 12 MESES E IMPLEMENTACIÓN, CAPACITACIÓN Y SOPORTE CERTIFICADO DE LA MISMA, PARA LA ALCALDÍA DE MOSQUERA -CUNDINAMARCA. | 1,00 | UN | 29.656.000,00 | 25.788.490,00 | 29.656.000,00 | 25.788.490,00 |
+
+**Fecha de terminación del contrato:**
+
+24/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+1 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 25,788,490
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CLAUSULADO MC-033-2025 - CCV-008-2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2269702 | Informe de selección CO1.AWD.2269702 | 05/Jun/2025 - 08:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2269702 | Informe de evaluación 3 CO1.AWD.2269702 | 04/Jun/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.7971750 | [Respondido] RE:Subsanación-Carta de presentación(Tiempo de ejecución)- Globaltek Security SAS | 04/Jun/2025 - 10:27 am |  | - |
+| Reporte preliminar | CO1.AWD.2269702 | Informe de evaluación 2 CO1.AWD.2269702 | 04/Jun/2025 - 10:26 am |  | - |
+| Objeciones | CO1.MSG.7971750 | Subsanación-Carta de presentación(Tiempo de ejecución)- Globaltek Security SAS | 03/Jun/2025 - 10:07 am |  | - |
+| Reporte preliminar | CO1.AWD.2269702 | Informe de evaluación 1 CO1.AWD.2269702 | 02/Jun/2025 - 09:28 pm |  | - |
+| Avisos | CO1.MSG.7965628 | Publicación de la lista de ofertas del proceso MC-033-2025. | 30/May/2025 - 12:35 pm |  | - |
+| Avisos | CO1.MSG.7965624 | La lista de oferentes del proceso MC-033-2025 publicada por CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA | 30/May/2025 - 12:34 pm |  | - |
+| General | CO1.MSG.7957645 | RE: Solicitud aclaración licencias y servicios proceso 033-2025 | 29/May/2025 - 10:37 am |  | - |

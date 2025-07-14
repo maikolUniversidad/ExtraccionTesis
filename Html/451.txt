@@ -1,0 +1,295 @@
+Title: Licitaciones - FONDO DE VALORIZACION DEL MUNICIPIO DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850640fdb43c2.39349437
+
+Markdown Content:
+Licitaciones - FONDO DE VALORIZACION DEL MUNICIPIO DE MEDELLIN - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC 2025-003_1 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 10:25:17
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+Adecuación de oficinas mediante el suministro, instalación y puesta en funcionamiento de sistemas de aire acondicionado, redes eléctricas, de voz y datos, y demás elementos necesarios requeridos para el funcionamiento de las oficinas de FONVALMED
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Medellín
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados
+
+**Códigos adicionales UNSPSC:**
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones,72151207 - Servicio de instalación y mantenimiento acondicionamiento del aire, enfriamiento y calefacción hvac,72151501 - Servicios de instalación de iluminación,72151502 - Servicio de construcción de sistemas de energía eléctrica,72151504 - Servicio de acondicionamiento de energía para computadores,72151507 - Servicio de instalación de controles electrónicos,72151509 - Servicio de instalación de controles de la administración de la energía,72151511 - Servicio de mantenimiento o reparación de sistemas de iluminación,72151605 - Servicio de cableado para video, datos y voz,72151607 - Ingeniería de superficie para equipos de comunicaciones
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Materiales para obras eléctricas en general, -Aire acondicionado, -Acceso a internet", "licicodigos": "99,121,263,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+CARRERA 65A # 13-157 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Obra
+
+**Plazo del contrato:**
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72101511, 72103302, 72151207, 72151501, 72151502, 72151504 | Adecuación de oficinas mediante el suministro, instalación y puesta en funcionamiento de sistemas de aire acondicionado, redes eléctricas, de voz y datos, y demás elementos necesarios requeridos para el funcionamiento de las oficinas de FONVALMED | Selección abreviada menor cuantía | Recursos propios | $119.000.315 | UC FONVALMED |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Jun/2025 - 01:35 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 01:35 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Jun/2025 - 01:35 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+24/Jun/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+24/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+25/Jun/2025 - 03:18 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+25/Jun/2025 - 06:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+25/Jun/2025 - 06:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés:**
+
+27/Jun/2025 - 10:00 am
+
+**Realización del sorteo:**
+
+27/Jun/2025 - 02:00 pm
+
+**Publicación de la lista de precalificados:**
+
+27/Jun/2025 - 03:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+01/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 04:00 pm
+
+**Apertura de Ofertas:**
+
+04/Jul/2025 - 04:05 pm
+
+**Informe de presentación de Ofertas:**
+
+04/Jul/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+15/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+17/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+18/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+18/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jul/2025 - 02:00 pm | 17/Nov/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 18/Jul/2025 - 02:00 pm | 17/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 18/Jul/2025 - 02:00 pm | 17/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 18/Jul/2025 - 02:00 pm | 17/Ago/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8157921 | Subsanación Informe de Evaluación | 11/Jul/2025 - 03:49 pm |  | - |
+| Avisos | CO1.MSG.8137438 | Publicación de la lista de ofertas del proceso SAMC 2025-003_1 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 08/Jul/2025 - 05:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2301362 | Informe de evaluación 1 CO1.AWD.2301362 | 08/Jul/2025 - 05:06 pm |  | - |
+| Avisos | CO1.MSG.8122363 | La lista de oferentes del proceso SAMC 2025-003_1 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por FONDO DE VALORIZACION DEL MUNICIPIO DE MEDELLIN | 04/Jul/2025 - 04:25 pm |  | - |
+| General | CO1.MSG.8094463 | Acta audiencia de Sorteo | 27/Jun/2025 - 03:33 pm |  | - |
+| General | CO1.MSG.8092310 | Realización audiencia de Sorteo | 27/Jun/2025 - 10:31 am |  | - |
+| General | CO1.MSG.8076140 | Acta limitación mipymes | 24/Jun/2025 - 07:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8076134 | RE: Observaciones al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC 2025-003_1, OBSERVACIONES AL PROCESO, OBVERVACIÓN MICROCORE S.A.S | 24/Jun/2025 - 07:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8066787 | Observaciones al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC 2025-003_1 | 20/Jun/2025 - 04:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8042968 | OBSERVACIONES AL PROCESO | 17/Jun/2025 - 11:21 am |  | - |
+| Aclaraciones | CO1.MSG.8042475 | SOLICITUD DE LIMITACION A MIPYMES DE ORDEN MUNICIPAL | 17/Jun/2025 - 10:31 am |  | - |
+| Aclaraciones | CO1.MSG.8042328 | OBVERVACIÓN MICROCORE S.A.S | 17/Jun/2025 - 10:19 am |  | - |
+| Aclaraciones | CO1.MSG.8039636 | RE: SOLICITUD | 16/Jun/2025 - 05:40 pm |  | - |
+| Aclaraciones | CO1.MSG.8039394 | SOLICITUD | 16/Jun/2025 - 05:35 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:46 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

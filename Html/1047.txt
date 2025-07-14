@@ -1,0 +1,273 @@
+Title: Licitaciones - MUNICIPIO DE PUERTO RICO - CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849ff1865a163.54785093
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:40:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE OFICINA CON DESTINO A LA UNIDAD NACIONAL DE PROTECCIÓN - UNP PARA EL FORTALECIMIENTO DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA EN EL MUNICIPIO DE PUERTO RICO CAQUETÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Puerto Rico
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43212100 - Impresoras de computador,44101600 - Máquinas para procesamiento de papel y accesorios,52161500 - Equipos audiovisuales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Equipos de oficina (Destructoras de papel, otros)", "licicodigos": "104,105,115,476" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 5a No. 4 - 01 Barrio el Comercio Puerto Rico Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43212100, 44101600 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE OFICINA CON DESTINO A LA UNIDAD NACIONAL DE PROTECCIÓN - UNP PARA EL FORTALECIMIENTO DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA EN EL MUNICIPIO DE PUERTO RICO CAQUETÁ | Mínima cuantía | Recursos propios | $22.600.000 | OFICINA DE CONTRATACION (Todos los procesos de selección 2025) |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 04:55 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 07:30 am
+
+**Apertura de sobres:**
+
+17/Jun/2025 - 07:35 am
+
+**Informe de presentación de ofertas:**
+
+17/Jun/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+17/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+19/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/Jun/2025 - 12:00 am | 09/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 19/Jun/2025 - 12:00 am | 09/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CRISTIAN YESID ADAIME QUINTERO | Puerto Rico - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 22,600,000
+
+**Informes proceso de selección CO1.AWD.2283656 de 19/Jun/2025 - 10:18 am. Valor $22.600.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 17/Jun/2025 - 04:41 pm |  |
+| Informe de selección | 19/Jun/2025 - 10:18 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2283656**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CRISTIAN YESID ADAIME QUINTERO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1117512124 | * **Nombre:** CRISTIAN YESID ADAIME QUINTERO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1117512124 | Puerto Rico - Caquetá | $22.600.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2283656****
+
+**Contrato CCV-2025-006 de CRISTIAN YESID ADAIME QUINTERO:**
+
+**ID del contrato en SECOP:**
+
+CCV-2025-006
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE OFICINA CON DESTINO A LA UNIDAD NACIONAL DE PROTECCIÓN - UNP PARA EL FORTALECIMIENTO DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA EN EL MUNICIPIO DE PUERTO RICO CAQUETÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43212100 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y DE OFICINA CON DESTINO A LA UNIDAD NACIONAL DE PROTECCIÓN - UNP PARA EL FORTALECIMIENTO DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA EN EL MUNICIPIO DE PUERTO RICO CAQUETÁ | 1,00 | VG | 22.600.000,00 | 22.600.000,00 | 22.600.000,00 | 22.600.000,00 |
+
+**Fecha de terminación del contrato:**
+
+09/Jul/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+20 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 22,600,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptacion de Oferta MC-2025-028.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2283656 | Informe de selección CO1.AWD.2283656 | 19/Jun/2025 - 10:18 am |  | - |
+| General | CO1.MSG.8053528 | SUBSANACION | 18/Jun/2025 - 04:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283656 | Informe de evaluación 1 CO1.AWD.2283656 | 17/Jun/2025 - 04:41 pm |  | - |
+| Avisos | CO1.MSG.8041278 | La lista de oferentes del proceso MC-2025-028 publicada por MUNICIPIO DE PUERTO RICO - CAQUETA | 17/Jun/2025 - 08:35 am |  | - |
+| Avisos | CO1.REQ.8400805 | Publicación modificación | 13/Jun/2025 - 05:15 pm |  |  |
+| General | CO1.MSG.8032048 | RE: Observacion Proceso | 13/Jun/2025 - 05:09 pm |  | - |

@@ -1,0 +1,283 @@
+Title: Licitaciones - DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cfe737d6737.41716640
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:35:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir licencias, soporte y actualizacion del software Verita Netbackup
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111900 - Sistemas de recuperación de información
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 52 165 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 905,960,594
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112500, 81112200, 81111900 | Adquirir licencias, soporte y actualizacion del software Verita Netbackup | Selección abreviada subasta inversa | Recursos propios | $905.960.594 | SECRETARÍA SUMINISTROS Y SERVICIOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 05:06 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 10:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+24/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+01/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+02/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/Jul/2025 - 12:00 am | 04/Ene/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 05/Jul/2025 - 12:00 am | 04/Jul/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 05/Jul/2025 - 12:00 am | 04/Ene/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SVAIT | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 905,700,000
+
+**Informes proceso de selección CO1.AWD.2280237 de 26/Jun/2025 - 12:13 pm. Valor $905.700.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 04:03 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 04:07 pm |  |
+| Informe de selección | 26/Jun/2025 - 12:13 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jun/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+25/Jun/2025 - 02:00 pm
+
+**Fecha fin:**
+
+25/Jun/2025 - 02:20 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8120987 | DESIGNACION CTO 4600105234 | 04/Jul/2025 - 02:20 pm |  | - |
+| Reporte final | CO1.AWD.2280237 | Informe de selección CO1.AWD.2280237 | 26/Jun/2025 - 12:13 pm |  | - |
+| Avisos | CO1.MSG.8071020 | Publicación de la lista de ofertas del proceso 0009015672 (Presentación de oferta). | 24/Jun/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.8071016 | La lista de oferentes del proceso 0009015672 (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 24/Jun/2025 - 10:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2280237 | Informe de evaluación 2 CO1.AWD.2280237 | 20/Jun/2025 - 04:07 pm |  | - |
+| General | CO1.MSG.8044578 | Subsanación Informe de Evaluación | 17/Jun/2025 - 03:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280237 | Informe de evaluación 1 CO1.AWD.2280237 | 13/Jun/2025 - 04:03 pm |  | - |
+| Avisos | CO1.MSG.8008569 | Publicación de la lista de ofertas del proceso 0009015672 (Presentación de oferta). | 10/Jun/2025 - 02:33 pm |  | - |
+| Avisos | CO1.MSG.7999593 | La lista de oferentes del proceso 0009015672 (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 09/Jun/2025 - 09:54 am |  | - |
+| General | CO1.MSG.7996332 | Respuesta a observación pliego | 06/Jun/2025 - 05:01 pm |  | - |

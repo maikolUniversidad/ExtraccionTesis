@@ -1,0 +1,133 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA SAN ROQUE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682342dcb15e47.15917692
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 17:58:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE FUNCIONAMIENTO DE USO DE LICENCIA DE SOFTWARE PARA EL MANEJO, ACTUALIZACIÓN, IMPLEMENTACIÓN Y DEPURACIÓN DE INVENTARIOS Y LICENCIA DE SOFTWARE DE CONTROL, IMPLEMENTACIÓN Y GENERACIÓN DE LOS INFORMES PRESUPUESTALES PARA LA INSTITUCIÓN EDUCATIVA SAN ROQUE DEL MUNICIPIO DE OPORAPA HUILA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Oporapa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CENTRO POBLADO SAN ROQUE Oporapa Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 8,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | Servicio de funcionamiento de uso de licencia de software para el manejo, actualización, implementación y depuración de inventarios y licencia de software de control, implementación y generación de los informes presupuestales para la institución educativa San Roque del municipio de Oporapa Huila. | Contratación régimen especial - Régimen especial | SGP | $8.000.000 | UNIDAD CONTRATACION I.E SAN ROQUE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 07:56 am
+
+**Fecha de Firma del Contrato:**
+
+30/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+30/Jun/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8251721 | Publicación modificación | 22/May/2025 - 11:09 am |  |  |
+| Avisos | CO1.REQ.8251721 | Publicación modificación | 20/May/2025 - 07:25 am |  |  |

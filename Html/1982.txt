@@ -1,0 +1,97 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b6459c3a081.13836819
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:41:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Implementar una solución integral que permita la emisión, validación y gestión digital de tarjetas profesionales y Certificado de vigencia y antecedentes disciplinarios para la UAE Junta Central de Contadores.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 97-46 EDIFICIO TORRE 97 OFICINA 301 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 06:20 pm
+
+**Plazo para solicitar aclaraciones:**
+
+16/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+18/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8044882 | AJUSTE A FORMATO DE COTIZACÓN | 17/Jun/2025 - 03:11 pm |  | - |
+| Avisos | CO1.REQ.8408715 | Publicación modificación | 17/Jun/2025 - 03:01 pm |  |  |

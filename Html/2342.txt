@@ -1,0 +1,84 @@
+Title: Licitaciones - UPRES DENOR - POLICÍA METROPOLITANA DE CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6822003475f676.65853921
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-02 15:39:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE SOFTWARE Y ELEMENTOS DE TELECOMUNICACIÓN PARA EL FUNCIONAMIENTO DEL CALL CENTER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231501 - Software de mesa de ayuda o centro de llamadas (call center)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Call center, -Helpdesk o mesa de ayuda", "licicodigos": "102,259,374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 22N # 2-03 ZONA FRANCA Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 08:31 am
+
+**Plazo para solicitar aclaraciones:**
+
+13/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 06:00 pm

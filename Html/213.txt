@@ -1,0 +1,208 @@
+Title: Licitaciones - CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683146099a52e7.29879024
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-02 15:16:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE BONOS PARA LAS DIFERENTES ACTIVIDADES QUE DESARROLLA LA ADMINISTRACIÓN MUNICIPAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Mosquera
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+50112000 - Carnes procesadas y preparadas
+
+**Códigos adicionales UNSPSC:**
+
+80141600 - Actividades de ventas y promoción de negocios,80141700 - Distribución,80151500 - Facilitación del comercio,53131500 - Dentales,53131600 - Baño y cuerpo,50131600 - Huevos y sustitutos,50131700 - Productos de leche y mantequilla,43211500 - Computadores,93131600 - Planeación y programas de políticas de alimentación y nutrición,53101500 - Pantalones de deporte, pantalones y pantalones cortos,49221500 - Accesorios para deporte
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Artículos de cafetería y víveres, -Bonos canjeables", "licicodigos": "104,186,338" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 43 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 N° 2-68 Mosquera Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/May/2025 - 10:25 pm
+
+**Publicación de estudios previos:**
+
+23/May/2025 - 10:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/May/2025 - 10:30 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 10:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+09/Jun/2025 - 08:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+10/Jun/2025 - 07:47 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+10/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+10/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+13/Jun/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+13/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+24/Jun/2025 - 10:03 am
+
+**Informe de presentación de Ofertas:**
+
+24/Jun/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 08:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+10/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+16/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:16 pm | 12/Jul/2025 - 04:16 pm |

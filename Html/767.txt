@@ -1,0 +1,262 @@
+Title: Licitaciones - MUNICIPIO DE OTANCHE - Contratación mínima cuantía MC - 038
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6825074786f6a4.96345447
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 11:52:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO E INSTALACION DE EQUIPOS E INMUEBLES CON DESTINO A LA ADMINISTRACION MUNICIPAL DE OTANCHE (BOYACA) PARA EL FORTALECIMIENTO DE LA GESTION ADMINISTRATIVA CON EL FIN DE DAR CONTINUIDAD Y CUMPLIMIENTO A LAS METAS TRAZADAS EN EL PLAN DE DESARROLLO MUNICIPAL YO CREO EN OTANCHE 2024-2027
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Otanche
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+56101708 - Archivadores móviles
+
+**Códigos adicionales UNSPSC:**
+
+43211507 - Computadores de escritorio,39121635 - Regulador de voltaje,43201830 - Unidad de estado sólido ssd,43201803 - Unidades de disco duro,52161505 - Televisores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -UPS y baterías de gran capacidad, -Mobiliario, -Electrodomésticos", "licicodigos": "104,109,128,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 6 #3-30 Otanche Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+12 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56101708, 43211507, 39121635, 43201830, 43201803, 52161505 | SUMINISTRO E INSTALACION DE EQUIPOS E INMUEBLES CON DESTINO A LA ADMINISTRACION MUNICIPAL DE OTANCHE (BOYACA) PARA EL FORTALECIMIENTO DE LA GESTION ADMINISTRATIVA CON EL FIN DE DAR CONTINUIDAD Y CUMPLIMIENTO A LAS METAS TRAZADAS EN EL PLAN DE DESARROLLO MUNICIPAL “YO CREO EN OTANCHE 2024-2027 | Mínima cuantía | SGP | $80.000.000 | Oficina de Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 03:57 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+14/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 03:30 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 03:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+15/May/2025 - 04:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 05:30 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 05:30 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 05:35 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 05:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/May/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 21/May/2025 - 05:00 pm | 03/Oct/2025 - 12:00 pm |
+| Calidad del servicio | 10,00 | 21/May/2025 - 05:00 pm | 03/Oct/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 16/May/2025 - 12:34 pm | * **Nombre:** Renso Leonardo Umaña | Otanche - Boyacá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,858,000
+
+**Informes proceso de selección CO1.AWD.2257012 de 22/May/2025 - 09:00 am. Valor $39.858.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/May/2025 - 10:09 am |  |
+| Informe de selección | 22/May/2025 - 09:00 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2257012**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Renso Leonardo Umaña * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1057014179 | * **Nombre:** Renso Leonardo Umaña * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1057014179 | Otanche - Boyacá | $39.858.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2257012****
+
+**ID del contrato en SECOP:**
+
+MC - 038 - 2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+04/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 39,858,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2257012 | Informe de selección CO1.AWD.2257012 | 22/May/2025 - 09:00 am |  | - |
+| Reporte final | CO1.AWD.2257012 | Informe de selección CO1.AWD.2257012 | 22/May/2025 - 08:59 am |  | - |
+| Reporte final | CO1.AWD.2257012 | Informe de selección CO1.AWD.2257012 | 22/May/2025 - 08:59 am |  | - |
+| Reporte preliminar | CO1.AWD.2257012 | Informe de evaluación 1 CO1.AWD.2257012 | 20/May/2025 - 10:09 am |  | - |
+| Avisos | CO1.MSG.7897777 | La lista de oferentes del proceso MC - 038 - 2025 publicada por MUNICIPIO DE OTANCHE | 16/May/2025 - 08:54 pm |  | - |
+| Avisos | CO1.MSG.7897778 | Publicación de la lista de ofertas del proceso MC - 038 - 2025. | 16/May/2025 - 08:54 pm |  | - |
+| Avisos | CO1.REQ.8262437 | Publicación modificación | 15/May/2025 - 05:06 pm |  |  |

@@ -1,0 +1,94 @@
+Title: Licitaciones - AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68312a4c3497f1.60499451
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:18:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+FORTALECER EL SISTEMA DE GESTIÓN DE SEGURIDAD DE LA INFORMACIÓN SGSI PARA LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES ANLA A TRAVÉS DE LOS COMPONENTES DE HARDWARE Y SOFTWARE ESPECIALIZADO DE SEGURIDAD PERIMETRAL PARA LA PROTECCIÓN Y PREVENCIÓN ANTE DESBORDAMIENTO DE PETICIONES DE RED, Y DE LOS COMPONENTES DE HARDWARE Y SOFTWARE ESPECIALIZADO PARA REALIZAR LA PROTECCIÓN POR FIREWALL DE APLICACIONES WEB.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+43233203 - Software de manejo de seguridad de red o de redes privadas virtuales vpn
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 13 A No, 34-72 Edificio 13 35 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+120 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 08:43 pm
+
+**Plazo para solicitar aclaraciones:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/May/2025 - 07:00 pm

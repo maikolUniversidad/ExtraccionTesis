@@ -1,0 +1,102 @@
+Title: Licitaciones - DEPARTAMENTO DE ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680be40de16c18.26334770
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-06 11:47:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SOLICITUD DE COTIZACIÓN PARA LA ADQUISICIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UNIDADES DE ENROLAMIENTO BIOMÉTRICO Y EQUIPOS TECNOLÓGICOS PARA EL FORTALECIMIENTO DE LA CAPACIDAD OPERATIVA DE LA UNIDAD ADMINISTRATIVA ESPECIAL MIGRACIÓN COLOMBIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43212105 - Impresoras láser,43232100 - Software de edición y creación de contenidos,43232300 - Software de consultas y gestión de datos,43211600 - Accesorios de computador,81111500 - Ingeniería de software o hardware,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,46151715 - Equipo de huellas dactilares
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tablets, dispositivos de bolsillo, teléfonos inteligentes, -Biometría", "licicodigos": "105,423,627" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+calle 42b no 52 106 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+8 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 02:22 pm
+
+**Plazo para solicitar aclaraciones:**
+
+02/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7834276 | RE: OBSERVACIONES A LA INVITACION | 05/May/2025 - 03:52 pm |  | - |
+| Avisos | CO1.REQ.8169196 | Publicación modificación | 02/May/2025 - 09:18 am |  |  |
+| Avisos | CO1.REQ.8169196 | Publicación modificación | 25/Abr/2025 - 02:32 pm |  |  |

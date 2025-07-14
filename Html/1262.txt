@@ -1,0 +1,219 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE NOCAIMA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850ac3b7cd739.02466047
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:43:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS PARA EL FORTALECIMIENTO DEL CONSEJO TERRITORIAL DE PLANEACION DEL MUNICIPIO DE NOCAIMA CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Nocaima
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Preparación de alimentos y catering", "licicodigos": "104,105,127,261" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+ALCALDIA DE NOCAIMA Nocaima Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211508, 43212110, 44103100, 43202000, 14111507, 90101603 | SUMINISTRO DE ELEMENTOS PARA EL FORTALECIMIENTO DEL CONSEJO TERRITORIAL DE PLANEACIÓN DEL MUNICIPIO DE NOCAIMA CUNDINAMARCA. | Mínima cuantía | SGP | $12.000.000 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 06:28 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 06:30 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 06:30 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 04:30 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 04:55 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 05:00 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/Jun/2025 - 12:00 pm | 30/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/Jun/2025 - 12:00 pm | 31/Jul/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,000,000
+
+**Informes proceso de selección CO1.AWD.2292064 de 04/Jul/2025 - 01:07 am. Valor $12.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 04:40 pm |  |
+| Informe de selección | 04/Jul/2025 - 01:07 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292064 | Informe de selección CO1.AWD.2292064 | 04/Jul/2025 - 01:07 pm |  | - |
+| Objeciones | CO1.MSG.8094840 | [Respondido] RE:SUBSANACION JURIDICA | 02/Jul/2025 - 05:43 am |  | - |
+| Avisos | CO1.MSG.8104284 | Publicación de la lista de ofertas del proceso SMC 021-2025. | 02/Jul/2025 - 05:40 am |  | - |
+| Objeciones | CO1.MSG.8094840 | SUBSANACION JURIDICA | 27/Jun/2025 - 04:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292064 | Informe de evaluación 1 CO1.AWD.2292064 | 26/Jun/2025 - 04:40 pm |  | - |
+| Avisos | CO1.MSG.8077692 | La lista de oferentes del proceso SMC 021-2025 publicada por ALCALDIA MUNICIPIO DE NOCAIMA | 25/Jun/2025 - 09:22 am |  | - |
+| General | CO1.MSG.8057841 | PRECIOS DE REFERENCIA | 19/Jun/2025 - 11:36 am |  | - |
+| General | CO1.MSG.8057831 | AVISO DE LIMITACION A MIPYMES | 19/Jun/2025 - 11:33 am |  | - |
+| Avisos | CO1.REQ.8422786 | Publicación modificación | 19/Jun/2025 - 10:26 am |  |  |
+| General | CO1.MSG.8041638 | SOLICITUD DE LIMITACION A MI PYMES DOMICILIADAS EN NOCAIMA | 17/Jun/2025 - 09:22 am |  | - |

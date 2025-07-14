@@ -1,0 +1,223 @@
+Title: Licitaciones - CONCEJO MUNICIPAL DE SIBATE CUNDINAMARCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685bfbf9c5e121.79267931
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:32:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS WINDOWS PRO, OFFICE 365 Y ANTIVIRUS VERSIÓN 2025 INCLUIDA SU INSTALACIÓN, PUESTA EN FUNCIONAMIENTO Y MANTENIMIENTO AL SOFTWARE Y HARDWARE CON DESTINO AL CONCEJO MUNICIPAL DE SIBATÉ CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Sibaté
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232200 - Software de gestión de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 10 N° 8-01 Sibaté Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232200, 43232202, 81112300, 81112200 | ADQUISICIÓN DE LICENCIAS WINDOWS PRO, OFFICE 365 Y ANTIVIRUS VERSIÓN 2025 INCLUIDA SU INSTALACIÓN, PUESTA EN FUNCIONAMIENTO Y MANTENIMIENTO AL SOFTWARE Y HARDWARE CON DESTINO AL CONCEJO MUNICIPAL DE SIBATÉ – CUNDINAMARCA | Mínima cuantía | NotApplied | $6.370.000 | CONCEJO DE SIBATE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 08:26 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/Jul/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+04/Jul/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+04/Jul/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 11:02 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+11/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 10/Jul/2025 - 11:00 pm | 26/Nov/2025 - 12:00 pm |
+| Calidad del servicio | 20,00 | 10/Jul/2025 - 11:00 pm | 26/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 10/Jul/2025 - 11:00 pm | 26/Nov/2025 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 4,430,000
+
+**Informes proceso de selección CO1.AWD.2300031 de 11/Jul/2025 - 06:24 am. Valor $4.430.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/Jul/2025 - 11:25 am |  |
+| Informe de evaluación | 11/Jul/2025 - 06:21 pm |  |
+| Informe de selección | 11/Jul/2025 - 06:24 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2300031 | Informe de selección CO1.AWD.2300031 | 11/Jul/2025 - 06:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2300031 | Informe de evaluación 2 CO1.AWD.2300031 | 11/Jul/2025 - 06:21 pm |  | - |
+| General | CO1.MSG.8159680 | RESPUESTA A OBSERVACION | 11/Jul/2025 - 06:20 pm |  | - |
+| General | CO1.MSG.8149122 | ADENDA | 11/Jul/2025 - 11:21 am |  | - |
+| Avisos | CO1.REQ.8461173 | Publicación modificación | 09/Jul/2025 - 06:17 pm |  |  |
+| Avisos | CO1.MSG.8139166 | Publicación de la lista de ofertas del proceso MC-CV-002-2025. | 08/Jul/2025 - 11:57 pm |  | - |
+| General | CO1.MSG.8128058 | SUBSNACION DE DOCUMENTOS | 07/Jul/2025 - 02:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2300031 | Informe de evaluación 1 CO1.AWD.2300031 | 07/Jul/2025 - 11:25 am |  | - |
+| Avisos | CO1.MSG.8119764 | La lista de oferentes del proceso MC-CV-002-2025 publicada por CONCEJO MUNICIPAL DE SIBATE CUNDINAMARCA | 04/Jul/2025 - 11:17 am |  | - |
+| General | CO1.MSG.8105387 | RESPUESTA A OBSERVACION Y AVISO | 02/Jul/2025 - 09:57 am |  | - |

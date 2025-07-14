@@ -1,0 +1,94 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a092e461622.48365491
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-06 13:51:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Solicitud cotización mantenimiento preventivo y correctivo de equipos de impresión y fotocopiado del Departamento de Policía Magdalena Medio
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+72154066 - Mantenimiento general de equipos de oficina,72154065 - Mantenimiento de equipos eléctricos de copiado
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 41 No. 11-44 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 08:00 am
+
+**Plazo para solicitar aclaraciones:**
+
+09/May/2025 - 12:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 12:00 am

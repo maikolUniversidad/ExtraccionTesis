@@ -1,0 +1,185 @@
+Title: Licitaciones - PARQUES NACIONALES NATURALES DE COLOMBIA - DIRECCION TERRITORIAL CARIBE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680beb886915c1.58437281
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-25 15:08:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN DE SERVICIO EN LÍNEA DE SENSORAMIENTO REMOTO DURANTE UN AÑO, CON LA CUAL SE REALIZA SEGUIMIENTO A LAS EMBARCACIONES COMO PARTE DE LA PREVENCIÓN Y MANEJO DE PRESIONES EN EL AREA PROTEGIDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+43191508 - Teléfonos digitales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 4 No. 3-204 Bocagrande Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800 | CA02-3202032-1-009 Contratar el servicio en línea de sensoramiento remoto, durante un año, de la Plataforma Satelital Marine Traffic, para el seguimiento al tránsito marítimo de embarcaciones, como parte de las actividades de Prevención, Vigilancia, Control y manejo de presiones en el PNN Corales de Profundiad. | Mínima cuantía | Presupuesto de entidad nacional | $10.000.000 | DIRECCIÓN TERRITORIAL CARIBE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 02:53 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 04:02 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 04:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/May/2025 - 06:00 pm | 06/Jul/2026 - 06:00 pm |
+| Calidad del servicio | 10,00 | 06/May/2025 - 06:00 pm | 06/Jul/2026 - 06:00 pm |

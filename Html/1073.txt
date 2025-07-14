@@ -1,0 +1,250 @@
+Title: Licitaciones - SENA DISTRITO CAPITAL GRUPO DE APOYO ADMINISTRATIVO - CGI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682529207fbbf4.99342576
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 06:40:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Compra de materiales de formación para las acciones de formación del programa de Articulación con la Educación Media
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121528 - Sensores fotoeléctricos
+
+**Códigos adicionales UNSPSC:**
+
+32111604 - Chips de transistor,32121501 - Capacitores fijos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Herramientas manuales, -Electrónica - Robótica", "licicodigos": "105,123,212" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 26 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 15 No 31 42 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 06:14 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 10:00 pm
+
+**Publicación de la invitación:**
+
+14/May/2025 - 10:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+19/May/2025 - 12:00 pm
+
+**Informe de presentación de ofertas:**
+
+19/May/2025 - 01:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+22/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/May/2025 - 10:00 pm | 30/Dic/2025 - 05:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 23/May/2025 - 10:00 pm | 30/Dic/2025 - 05:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ARDOBOT ROBOTICA SAS | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 11,240,780
+
+**Informes proceso de selección CO1.AWD.2258723 de 26/May/2025 - 02:57 am. Valor $11.240.780**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/May/2025 - 05:24 pm |  |
+| Informe de evaluación | 21/May/2025 - 05:24 pm |  |
+| Informe de evaluación | 21/May/2025 - 05:24 pm |  |
+| Informe de evaluación | 21/May/2025 - 05:24 pm |  |
+| Informe de selección | 26/May/2025 - 02:57 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2258723**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ARDOBOT ROBOTICA SAS * **Tipo documento:** NIT * **Documento:** 901061066 | * **Nombre:** FRANCISCO JAVIER MADRIGAL CORREA * **Tipo documento:** NIT * **Documento:** 1037629455 | Medellín - Antioquia | $11.240.780 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2258723****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7908853
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 11,240,780
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2258723 | Informe de selección CO1.AWD.2258723 | 26/May/2025 - 02:57 pm |  | - |
+| Avisos | CO1.MSG.7918308 | Publicación de la lista de ofertas del proceso MC-DC-CDM-006-2025. | 21/May/2025 - 05:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2258723 | Informe de evaluación 1 CO1.AWD.2258723 | 21/May/2025 - 05:24 pm |  | - |
+| Avisos | CO1.MSG.7902029 | La lista de oferentes del proceso MC-DC-CDM-006-2025 publicada por SENA DISTRITO CAPITAL GRUPO DE APOYO ADMINISTRATIVO - CGI | 19/May/2025 - 02:32 pm |  | - |
+| Avisos | CO1.REQ.8259624 | Publicación modificación | 16/May/2025 - 01:06 pm |  |  |
+| General | CO1.MSG.7892511 | RE: Observacion Proceso | 16/May/2025 - 09:22 am |  | - |

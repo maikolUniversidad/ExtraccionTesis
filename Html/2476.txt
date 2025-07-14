@@ -1,0 +1,111 @@
+Title: Licitaciones - SENA REGIONAL CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fb5131d9c05.61842358
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 09:40:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+Contratar la compra de Otros equipos para la dotación de los ambientes de formación necesarios para desarrollar la estrategia Tecnoacademia en el Centro Tecnológico de la Amazonia, Regional Caquetá
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211511 - Dispositivos de computación de vestir
+
+**Códigos adicionales UNSPSC:**
+
+23261507 - Máquina impresora tridimensional,26121636 - Cables de alimentación,39111504 - Sistemas de iluminación de escenario o estudio,45121504 - Cámaras digitales,45121602 - Trípodes para cámaras,45121630 - Reflector de parasol de cámara,48101813 - Batidoras manuales para uso comercial,52161502 - Reproductor de casetes o grabadora,52161514 - Audífonos,52161520 - Micrófonos,52161541 - Mezcladores de audio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Electrodomésticos, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "115,139,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 06 No. 7-11 y Carrera 7 No 07-08 Barrio La Estrella Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 06:25 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 05:00 pm
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(27/May/2025 - 05:48 am:12 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal SENA REGIONAL CAQUETA en 15 horas de tiempo transcurrido (27/May/2025 - 05:48 am:12 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Teniendo en cuenta que se venció el plazo para las cotizaciones, se procede al cierre de la solicitud de información.
+
+**Fecha de la cancelación:**
+
+27/May/2025 - 05:48 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7943403 | RE: Observaciones y sugerencias | 27/May/2025 - 11:44 am |  | - |
+| Aclaraciones | CO1.MSG.7926822 | Observaciones y sugerencias | 23/May/2025 - 08:27 am |  | - |

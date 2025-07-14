@@ -1,0 +1,260 @@
+Title: Licitaciones - ALCALDÍA DISTRITAL DE SANTA MARTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6830c2e545b215.62091378
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:25:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS DE CÓMPUTO, IMPRESORAS, ESCÁNERES, PARA EL FORTALECIMIENTO DE LA CAPACIDAD OPERATIVA Y LOGÍSTICA EN EL DISTRITO DE SANTA MARTA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Magdalena : Santa Marta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211711 - Escáneres,43211900 - Monitores y pantallas de computador,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 14 # 2-49 Santa Marta Magdalena COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 405,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43212100, 43211711, 43211900 | ADQUISICIÓN DE EQUIPOS DE CÓMPUTO, IMPRESORAS, ESCÁNERES, PARA EL FORTALECIMIENTO DE LA CAPACIDAD OPERATIVA Y LOGÍSTICA EN EL DISTRITO DE SANTA MARTA. | Selección abreviada subasta inversa | Recursos propios | $405.000.000 | Unidad de Contratacion |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/May/2025 - 12:47 pm
+
+**Publicación de estudios previos:**
+
+23/May/2025 - 01:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/May/2025 - 01:00 pm
+
+**Publicación Estudios Previos:**
+
+23/May/2025 - 01:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 01:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 01:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 09:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+03/Jun/2025 - 09:15 am
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+09/Jul/2025 - 04:44 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jul/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jul/2025 - 05:40 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 05:40 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jul/2025 - 05:46 pm
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 05:47 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+14/Jul/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jul/2025 - 12:00 pm
+
+**Apertura del sobre económico:**
+
+17/Jul/2025 - 12:30 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+17/Jul/2025 - 03:30 pm
+
+**Firma del Contrato:**
+
+18/Jul/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+23/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jul/2025 - 10:00 am | 18/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 18/Ago/2025 - 10:00 am | 18/Feb/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+17/Jul/2025 - 12:10 pm
+
+**Fecha de inicio:**
+
+17/Jul/2025 - 12:40 pm
+
+**Fecha fin:**
+
+17/Jul/2025 - 01:40 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8159442 | La lista de oferentes del proceso SA-SIP-004-2025 (Presentación de oferta) publicada por ALCALDÍA DISTRITAL DE SANTA MARTA | 11/Jul/2025 - 05:52 pm |  | - |
+| General | CO1.MSG.8154056 | Respuesta A Las Observaciones Al Pliego de Condiciones Definitivo | 11/Jul/2025 - 08:18 am |  | - |
+| Aclaraciones | CO1.MSG.7965649 | OBSERVACIONES HOLISTICA ORGANIZACION | 30/May/2025 - 12:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7964981 | OBSERVACIONES TECNICAS | 30/May/2025 - 11:54 am |  | - |
+| Aclaraciones | CO1.MSG.7963036 | OBSERVACIONES AL PROYECTO DE PLIEGOS | 29/May/2025 - 11:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7941978 | observacion tecnica | 27/May/2025 - 09:44 am |  | - |
+| Aclaraciones | CO1.MSG.7938713 | OBSERVACIONES, FINANCIERAS | 26/May/2025 - 04:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7937112 | OBSERVACIONES REDCOMPUTO LTDA | 26/May/2025 - 02:01 pm |  | - |

@@ -1,0 +1,101 @@
+Title: Licitaciones - ICANH - Solicitud de información a los Proveedores (SECOPII) SP-ICANH-031-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6830d39ba550e5.72771207
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:25:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación de las licencias del equipo de seguridad perimetral y antivirus, renovación del pool de direcciones IPV6 y renovación de las licencias de los dispositivos Access Point para el Instituto Colombiano de Antropología e Historia.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red,43222501 - Equipo de seguridad de red cortafuegos (firewall),43232700 - Software de aplicaciones de red,43233500 - Software de intercambio de información,81112100 - Servicios de internet,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81112501 - Servicio de licencias del software del computador,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,81161500 - Servicios de administración de acceso,81111500 - Ingeniería de software o hardware,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 No. 2 -38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 01:56 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8312155 | Publicación modificación | 28/May/2025 - 05:23 pm |  |  |
+| Aclaraciones | CO1.MSG.7936087 | SOLICITUD DE MODIFICACION PLIEGO | 26/May/2025 - 11:38 am |  | - |

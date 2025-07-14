@@ -1,0 +1,92 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE BARRANQUILLA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6849e8efc35a08.26014872
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 21:45:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+INSTALACION Y MANTENIMIENTO PREVENTIVO O CORRECTIVO DE LA RED DATOS Y SISTEMA ELECTRICO (RED REGULADA), CABLEADO ESTRUCTURADO, INCLUYE CAMBIO DE PUNTOS DE RED Y ENERGIA, CABLES Y DEMAS ACCESORIOS IVA INCLUIDO, PARA UNIDADES ADSCRITAS A LA REGION DE POLICIA No. 8 Y LA DIRECCION NACIONAL DE INCORPORACION No. 8.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81111803 - Mantenimiento o soporte de redes de área local (lan)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "99,105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 43 NO 47 - 53 Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+para agendar las visitas se podran comunicar con el señor Patrullero MAURICIO JAVIER SANTIAGO ESCORCIA, abonado telefonico 3106062119
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 03:20 pm
+
+**Plazo para solicitar aclaraciones:**
+
+17/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+17/Jun/2025 - 12:00 pm

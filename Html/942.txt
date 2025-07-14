@@ -1,0 +1,262 @@
+Title: Licitaciones - ALCALDÍA MUNICIPIO DE PALMIRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e5d9db533b3.41778421
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:49:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA SUSCRIBIR LOS EQUIPOS DE COMUNICACIÓN DE LOS TÉCNICOS OPERATIVOS DE LA SECRETARÍA DE TRÁNSITO Y TRANSPORTE DE PALMIRA, AL SERVICIO DE RADIOCOMUNICACIÓN ENCRIPTADA DIGITAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Palmira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161800 - Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia
+
+**Códigos adicionales UNSPSC:**
+
+81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 35 No. 42-291 Palmira Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81161800, 81161700 | 1677-PRESTACIÓN DE SERVICIOS PARA SUSCRIBIR LOS EQUIPOS DE COMUNICACIÓN DE LOS TÉCNICOS OPERATIVOS DE LA SECRETARÍA DE TRÁNSITO Y TRANSPORTE DE PALMIRA, AL SERVICIO DE RADIOCOMUNICACIÓN ENCRIPTADA DIGITAL | Mínima cuantía | Recursos propios | $30.000.000 | SECRETARIA DE TRANSITO Y TRANSPORTE |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+21/May/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 05:30 pm
+
+**Fecha de publicación:**
+
+21/May/2025 - 05:39 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 08:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 05:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 05:30 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 05:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 pm | 30/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/May/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ASOLIVOS ONG | Palmira - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 29,999,998
+
+**Informes proceso de selección CO1.AWD.2265544 de 04/Jun/2025 - 11:10 am. Valor $29.999.998**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 28/May/2025 - 02:23 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 07:24 am |  |
+| Informe de selección | 04/Jun/2025 - 11:10 am |  |
+| Informe de selección | 04/Jun/2025 - 11:10 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265544**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ASOCIACIÓN SOLIDARIA PARA LA INFANCIA Y LA VEJEZ * **Tipo documento:** NIT * **Documento:** 900201181 | * **Nombre:** JUAN CARLOS VELASCO * **Tipo documento:** NIT * **Documento:** 16284413 | Palmira - Valle del Cauca | $29.999.997 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265544****
+
+**ID del contrato en SECOP:**
+
+MP- 1413-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+30/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 29,999,997
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265544 | Informe de selección CO1.AWD.2265544 | 04/Jun/2025 - 11:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2265544 | Informe de evaluación 2 CO1.AWD.2265544 | 03/Jun/2025 - 07:24 am |  | - |
+| General | CO1.MSG.7953488 | SUBSANACIÓN RUT ACTUALIZADO VIGENCIA 2025 | 28/May/2025 - 04:15 pm |  | - |
+| Avisos | CO1.MSG.7951928 | Publicación de la lista de ofertas del proceso MP-MC-STTE-PS-034-2025. | 28/May/2025 - 02:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265544 | Informe de evaluación 1 CO1.AWD.2265544 | 28/May/2025 - 02:23 pm |  | - |
+| Avisos | CO1.MSG.7941257 | La lista de oferentes del proceso MP-MC-STTE-PS-034-2025 publicada por ALCALDÍA MUNICIPIO DE PALMIRA | 27/May/2025 - 08:21 am |  | - |
+| Avisos | CO1.REQ.8298906 | Publicación modificación | 23/May/2025 - 05:39 pm |  |  |
+| Aclaraciones | CO1.MSG.7931167 | RE: OBSERVACIÓN AL PROCESO | 23/May/2025 - 04:20 pm |  | - |
+| General | CO1.MSG.7930430 | LIMITACION MIPYME MUNICIPAL | 23/May/2025 - 03:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7924665 | OBSERVACIÓN AL PROCESO | 22/May/2025 - 04:42 pm |  | - |

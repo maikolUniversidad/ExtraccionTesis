@@ -1,0 +1,321 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bf1d4a90491.20281154
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN E INSTALACIÓN DE APARATOS ELÉCTRICOS, ELECTRÓNICOS, ELECTRODOMÉSTICOS, Y EQUIPOS AUDIO VISUALES PARA LA POLICÍA METROPOLITANA DE VILLAVICENCIO Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39111611 - Reflectores
+
+**Códigos adicionales UNSPSC:**
+
+46171604 - Sistemas de alarma,45111616 - Proyectores de video,72151701 - Servicio de instalación de sistemas de control de acceso,12142208 - Fuentes de calibración,40151601 - Compresores de aire,52141601 - Lavadoras de ropa para uso doméstico,41103011 - Refrigeradores para propósitos generales o neveras congeladores,52141804 - Ventiladores eléctricos para uso doméstico,40101701 - Aires acondicionados,48101711 - Dispensadores de agua embotellada o accesorios,44101603 - Máquinas trituradoras de papel o accesorios,43211711 - Escáneres,39121635 - Regulador de voltaje,24131508 - Gabinete refrigerado,52161505 - Televisores,45111500 - Atriles, sistemas de sonido y accesorios,46171622 - Sistema de televisión de circuito cerrado cctv,43201803 - Unidades de disco duro
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Circuito cerrado de televisión, -Equipos audiovisuales, -Electrodomésticos, -Aire acondicionado, -Control de acceso", "licicodigos": "106,114,115,139,263,315" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 36 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 21 via kirpas - Camini Ganadero Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 334,780,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 12142208, 25174001, 39111611, 40101701, 40151601, 41103011, 44101603, 45111616, 46171604, 48101711, 52141601, 72151701 | ADQUISICIÓN DE EQUIPOS ELÉCTRICOS, ELECTRODOMESTICOS Y AUDIOVISUALES | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $334.780.000 | GRUPO DE CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 09:48 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+19/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 09:49 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jun/2025 - 05:05 pm
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 05:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 12:00 am | 28/Feb/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 26/Jun/2025 - 12:00 am | 28/Feb/2029 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 31/Ago/2025 - 12:00 pm | 31/Ago/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** FABIAN ANDRES SOTO / UNIVERSAL DE ALARMAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 292,783,610
+
+**Informes proceso de selección CO1.AWD.2279707 de 20/Jun/2025 - 09:27 am. Valor $292.783.610**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/Jun/2025 - 06:57 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:57 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:57 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:57 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 09:56 am |  |
+| Informe de evaluación | 20/Jun/2025 - 09:56 am |  |
+| Informe de evaluación | 20/Jun/2025 - 09:56 am |  |
+| Informe de evaluación | 20/Jun/2025 - 09:56 am |  |
+| Informe de evaluación | 20/Jun/2025 - 01:03 pm |  |
+| Informe de selección | 20/Jun/2025 - 09:27 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2279707**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FABIAN ANDRES SOTO PEÑA / Universal de alarmas * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1022380269 | * **Nombre:** FABIAN ANDRES SOTO PEÑA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1022380269 | - Distrito Capital de Bogotá | $292.783.610 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2279707****
+
+**Cuantía a la firma del contrato:**
+
+$ 292,783,610
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+20/Jun/2025 - 01:00 pm
+
+**Fecha de inicio:**
+
+20/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+20/Jun/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2279707 | Informe de selección CO1.AWD.2279707 | 20/Jun/2025 - 09:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2279707 | Informe de evaluación 3 CO1.AWD.2279707 | 20/Jun/2025 - 01:03 pm |  | - |
+| Avisos | CO1.MSG.8064367 | La lista de oferentes del proceso PN MEVIL SA 025 2025 (Presentación de oferta) publicada por POLICIA METROPOLITANA DE VILLAVICENCIO | 20/Jun/2025 - 11:06 am |  | - |
+| Avisos | CO1.MSG.8064376 | Publicación de la lista de ofertas del proceso PN MEVIL SA 025 2025 (Presentación de oferta). | 20/Jun/2025 - 11:06 am |  | - |
+| Reporte preliminar | CO1.AWD.2279707 | Informe de evaluación 2 CO1.AWD.2279707 | 20/Jun/2025 - 09:55 am |  | - |
+| Objeciones | CO1.MSG.8055374 | [Respondido] RE:SUBSANACION AL INFORME PRILIMINAR DE EVALUACION | 20/Jun/2025 - 06:58 am |  | - |
+| Objeciones | CO1.MSG.8053596 | [Respondido] RE:Subsanacion al Informe No 1 | 20/Jun/2025 - 06:58 am |  | - |
+| Objeciones | CO1.MSG.8049972 | [Respondido] RE:SUBSANACION DOCUMENTO SOLICITADO | 20/Jun/2025 - 06:58 am |  | - |
+| Objeciones | CO1.MSG.8049972 | SUBSANACION DOCUMENTO SOLICITADO | 18/Jun/2025 - 10:44 pm |  | - |
+| Objeciones | CO1.MSG.8055374 | SUBSANACION AL INFORME PRILIMINAR DE EVALUACION | 18/Jun/2025 - 10:14 pm |  | - |
+| Objeciones | CO1.MSG.8053596 | Subsanacion al Informe No 1 | 18/Jun/2025 - 04:54 pm |  | - |
+| General | CO1.MSG.8035875 | DOCUMENTOS A SUBSANAR PARTE TECNICA | 16/Jun/2025 - 11:25 am |  | - |
+| General | CO1.MSG.8033574 | DOCUMENTOS A SUBSNAR PARTE JURIDICA | 14/Jun/2025 - 12:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2279707 | Informe de evaluación 1 CO1.AWD.2279707 | 12/Jun/2025 - 06:57 pm |  | - |
+| Avisos | CO1.MSG.8004690 | La lista de oferentes del proceso PN MEVIL SA 025 2025 (Presentación de oferta) publicada por POLICIA METROPOLITANA DE VILLAVICENCIO | 09/Jun/2025 - 08:27 pm |  | - |
+| Avisos | CO1.MSG.8004692 | Publicación de la lista de ofertas del proceso PN MEVIL SA 025 2025 (Presentación de oferta). | 09/Jun/2025 - 08:27 pm |  | - |
+| General | CO1.MSG.7998173 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 09/Jun/2025 - 07:51 am |  | - |
+| General | CO1.MSG.7998172 | RE: Observaciones | 09/Jun/2025 - 07:51 am |  | - |
+| Avisos | CO1.REQ.8344553 | Publicación modificación | 05/Jun/2025 - 05:37 pm |  |  |
+| General | CO1.MSG.7989650 | RESPUESTA OBSERVACIONES PLIEGO DE CONDICIONES DEFINITIVO | 05/Jun/2025 - 04:38 pm |  | - |
+| General | CO1.MSG.7962831 | RESPUESTA OBSRVACIONES PROYECTO DE PLIEGOS PROCESO PN MEVIL SA 025 2025 | 29/May/2025 - 09:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7962827 | RESPUESTA OBSRVACIONES PROYECTO DE PLIEGOS PROCESO PN MEVIL SA 025 2025 | 29/May/2025 - 09:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7933797 | Observaciones al proceso de Subasta Inversa PN MEVIL SA 025 2025 | 25/May/2025 - 05:38 pm |  | - |

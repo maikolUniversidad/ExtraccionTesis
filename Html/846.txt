@@ -1,0 +1,292 @@
+Title: Licitaciones - CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682617e60e6665.53570776
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-09 14:21:57
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO N CONV.INTERAD0062024.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Mosquera
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44121618 - Tijeras,44121716 - Resaltadores,44122003 - Carpetas,56121805 - Archivos planos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 2 N° 2-68 Mosquera Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103, 44122003, 56121805, 44121618, 44121716 | 1423.ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO N CONV.INTERAD0062024. | Mínima cuantía | Recursos propios | $38.000.000 | OFICINA JURÍDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 11:21 am
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 12:00 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+21/May/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 23/May/2025 - 12:00 am | 15/Dic/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 23/May/2025 - 12:00 am | 15/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** STATE SOLUTIONS SAS | Tenjo - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 37,614,591
+
+**Informes proceso de selección CO1.AWD.2258243 de 27/May/2025 - 08:12 am. Valor $37.614.591**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 21/May/2025 - 03:26 pm |  |
+| Informe de evaluación | 21/May/2025 - 03:26 pm |  |
+| Informe de evaluación | 23/May/2025 - 11:23 am |  |
+| Informe de evaluación | 23/May/2025 - 11:34 am |  |
+| Informe de evaluación | 23/May/2025 - 11:34 am |  |
+| Informe de evaluación | 26/May/2025 - 04:36 pm |  |
+| Informe de selección | 27/May/2025 - 08:12 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2258243**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** STATE SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 900464395 | * **Nombre:** FIDIAS GIOVANNI TORRES MARTINEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80091507 | Tenjo - Cundinamarca | $37.614.591 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2258243****
+
+**Contrato CCV-007-2025 de STATE SOLUTIONS SAS:**
+
+**ID del contrato en SECOP:**
+
+CCV-007-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Activo
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO No. CONV.INTERAD 0062024.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 56121805 | ADQUISICIÓN DE ELEMENTOS PARA DAR CUMPLIMIENTO AL CONVENIO INTERADMINISTRATIVO N CONV.INTERAD0062024. | 1,00 | VG | 38.000.000,00 | 37.614.591,00 | 38.000.000,00 | 37.614.591,00 |
+
+**Fecha de terminación del contrato:**
+
+07/Jun/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+10 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 37,614,591
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2258243 | Informe de selección CO1.AWD.2258243 | 27/May/2025 - 08:12 am |  | - |
+| Reporte preliminar | CO1.AWD.2258243 | Informe de evaluación 4 CO1.AWD.2258243 | 26/May/2025 - 04:36 pm |  | - |
+| General | CO1.MSG.7928764 | ADENDA No. 001. | 23/May/2025 - 11:41 am |  | - |
+| Avisos | CO1.REQ.8266300 | Publicación modificación | 23/May/2025 - 11:38 am |  |  |
+| Reporte preliminar | CO1.AWD.2258243 | Informe de evaluación 3 CO1.AWD.2258243 | 23/May/2025 - 11:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2258243 | Informe de evaluación 2 CO1.AWD.2258243 | 23/May/2025 - 11:23 am |  | - |
+| Reporte preliminar | CO1.AWD.2258243 | Informe de evaluación 1 CO1.AWD.2258243 | 21/May/2025 - 03:26 pm |  | - |
+| Avisos | CO1.MSG.7913322 | La lista de oferentes del proceso MC-028-2025 publicada por CUNDINAMARCA-ALCALDIA MUNICIPIO MOSQUERA | 21/May/2025 - 09:16 am |  | - |
+| Avisos | CO1.MSG.7913326 | Publicación de la lista de ofertas del proceso MC-028-2025. | 21/May/2025 - 09:16 am |  | - |
+| General | CO1.MSG.7911196 | RE: Observacion | 20/May/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7911210 | RE: precios techo | 20/May/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7901994 | AVISO NO LIMITACIÓN A MIPYMES | 19/May/2025 - 02:29 pm |  | - |

@@ -1,0 +1,182 @@
+Title: Licitaciones - CONTRALORIA MUNICIPAL DE BARRANCABERMEJA.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68220093eb03b1.90028112
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 09:07:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA LOS EQUIPOS DE IMPRESIÓN Y ESCÁNER DE LAS DIFERENTES DEPENDENCIAS DE LA CONTRALORÍA MUNICIPAL DE BARRANCABERMEJA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Códigos adicionales UNSPSC:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+2 Meses
+
+**Dirección de ejecución del contrato:**
+
+Avenida circunvalar calle 67 Tribuna Oriental del Estadio Daniel Villa Zapata Piso Tercero y Piso Cuarto Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 09:00 am
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 09:01 am
+
+**Publicación de la invitación:**
+
+12/May/2025 - 09:01 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+14/May/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+14/May/2025 - 04:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+15/May/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/May/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 16/May/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 16/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 16/May/2025 - 12:00 pm | 31/Ene/2026 - 12:00 pm |

@@ -1,0 +1,268 @@
+Title: Licitaciones - MUNICIPIO DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d0561997083.55202339
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 07:07:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUSCRIPCION A SERVICIO DE SEGUIMIENTO, VIGILANCIA Y CONTROL A PROCESOS JUDICIALES A TRAVES DE UN SISTEMA ELECTRONICO DE PUBLICACION EN EL MARCO DEL PROYECTO DENOMINADO FORTALECIMIENTO DEL PROCESO DE GESTIÓN JURIDICA CON ENFOQUE A LA PREVENCION DEL DAÑO ANTIJURÍDICO EN EL MUNICIPIO DE BUCARAMANGA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Bucaramanga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232304 - Software de sistemas de manejo de base datos
+
+**Códigos adicionales UNSPSC:**
+
+43232305 - Software de reportes de bases de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "102,103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 35 No. 10-43 FASE I PISO 2 Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232304 | SJ-PMC- SUSCRIPCIÓN A SERVICIO DE SEGUIMIENTO, VIGILANCIA Y CONTROL A PROCESOS JUDICIALES A TRAVES DE UN SISTEMA ELECTRONICO DE PUBLICACION EN EL MARCO DEL PROYECTO DENOMINADO "FORTALECIMIENTO DEL PROCESO DE GESTIÓN JURIDICA CON ENFOQUE A LA PREVENCION DEL DAÑO ANTIJURÍDICO EN EL MUNICIPIO DE BUCARAMANGA | Mínima cuantía | Recursos propios | $8.999.998 | SECRETARIA JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 05:11 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:00 pm | 30/Jun/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 29/May/2025 - 12:00 pm | 30/Jun/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** LITIS DATA | Bucaramanga - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 4,060,000
+
+**Informes proceso de selección CO1.AWD.2262992 de 28/May/2025 - 06:19 am. Valor $4.060.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 06:03 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:03 pm |  |
+| Informe de evaluación | 28/May/2025 - 06:15 pm |  |
+| Informe de selección | 28/May/2025 - 06:19 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262992**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LITIS DATA LTDA * **Tipo documento:** NIT * **Documento:** 804014509 | * **Nombre:** HECTOR GUILLERMO OVIEDO HERRERA * **Tipo documento:** NIT * **Documento:** 91473193 | Bucaramanga - Santander | $4.060.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262992****
+
+**ID del contrato en SECOP:**
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+30/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 4,060,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262992 | Informe de selección CO1.AWD.2262992 | 28/May/2025 - 06:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262992 | Informe de evaluación 2 CO1.AWD.2262992 | 28/May/2025 - 06:15 pm |  | - |
+| Avisos | CO1.MSG.7939837 | Publicación de la lista de ofertas del proceso SJ-CMC-001-2025. | 26/May/2025 - 06:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262992 | Informe de evaluación 1 CO1.AWD.2262992 | 26/May/2025 - 06:03 pm |  | - |
+| Avisos | CO1.MSG.7934696 | La lista de oferentes del proceso SJ-CMC-001-2025 publicada por MUNICIPIO DE BUCARAMANGA | 26/May/2025 - 09:14 am |  | - |
+| General | CO1.MSG.7928423 | RESPUESTA DE OBSERVACIONES Y ANEXOS | 23/May/2025 - 11:08 am |  | - |
+| General | CO1.MSG.7928286 | AVISO DE NO LIMITACIÓN MIPYME | 23/May/2025 - 10:54 am |  | - |
+| Aclaraciones | CO1.MSG.7928215 | RE: Observaciones Litigando | 23/May/2025 - 10:52 am |  | - |
+| Aclaraciones | CO1.MSG.7917726 | Observaciones Litigando | 21/May/2025 - 04:48 pm |  | - |

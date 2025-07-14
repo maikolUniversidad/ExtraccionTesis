@@ -1,0 +1,315 @@
+Title: Licitaciones - COMISIÓN NACIONAL DEL SERVICIO CIVIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826ba2021e324.46281103
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-03 12:09:48
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA LA ADQUISICIÓN Y SOPORTE TÉCNICO DE LICENCIAS DE ANTIVIRUS DE ÚLTIMA GENERACIÓN, POR EL PERIODO DE UN (1) AÑO PARA LA CNSC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 96 -64 PISO 7 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 150,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | 25126 - Adquisición Licencia de antivirus y protección de correos para los usuarios de la CNSC. | Selección abreviada subasta inversa | Recursos propios | $150.000.000 | Secretaría General |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 10:59 pm
+
+**Publicación Estudios Previos:**
+
+15/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 10:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 09:37 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 06:55 pm
+
+**Presentación de Ofertas:**
+
+09/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+09/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+10/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+18/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+19/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/Jun/2025 - 12:00 pm | 19/Jul/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 20/Jun/2025 - 12:00 pm | 19/Jul/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 20/Jun/2025 - 12:00 pm | 19/Jul/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 20/Jun/2025 - 12:00 pm | 19/Jul/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** STAR SOLUTIONS TI SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 113,680,000
+
+**Informes proceso de selección CO1.AWD.2286166 de 27/Jun/2025 - 09:12 am. Valor $113.680.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 18/Jun/2025 - 04:41 pm |  |
+| Informe de selección | 27/Jun/2025 - 09:12 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2286166**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** STAR SOLUTIONS TI SAS * **Tipo documento:** NIT * **Documento:** 900968161 | * **Nombre:** FABIAN PALOMARES * **Tipo documento:** NIT * **Documento:** 80239727 | - Distrito Capital de Bogotá | $113.680.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2286166****
+
+**Cuantía a la firma del contrato:**
+
+$ 113,680,000
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+13/Jun/2025 - 11:59 pm
+
+**Fecha de inicio:**
+
+17/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+17/Jun/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2286166 | Informe de selección CO1.AWD.2286166 | 27/Jun/2025 - 09:12 am |  | - |
+| General | CO1.MSG.8059303 | AVISO AUDIENCIA SUBASTA | 19/Jun/2025 - 03:05 pm |  | - |
+| General | CO1.MSG.8059098 | AVISO AUDIENCIA SUBASTA | 19/Jun/2025 - 02:46 pm |  | - |
+| General | CO1.MSG.8054795 | Requerimiento Oferta Económica | 18/Jun/2025 - 09:51 pm |  | - |
+| General | CO1.MSG.8054815 | AVISO AUDIENCIA SUBASTA | 18/Jun/2025 - 07:00 pm |  | - |
+| General | CO1.MSG.8053889 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 18/Jun/2025 - 05:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2277411 | Informe de evaluación 3 CO1.AWD.2277411 | 18/Jun/2025 - 04:41 pm |  | - |
+| General | CO1.MSG.8053271 | AVISO AUDIENCIA SUBASTA | 18/Jun/2025 - 04:31 pm |  | - |
+| General | CO1.MSG.8050294 | AVISO AUDIENCIA SUBASTA | 18/Jun/2025 - 11:25 am |  | - |
+| General | CO1.MSG.8049906 | AVISO AUDIENCIA SUBASTA | 18/Jun/2025 - 10:51 am |  | - |
+| General | CO1.MSG.8049821 | RE: INICIO DE AUDIENCIA DE SUBASTA | 18/Jun/2025 - 10:42 am |  | - |
+| General | CO1.MSG.8049688 | Observaciones Informe Evaluación 2 CNSC | 18/Jun/2025 - 10:29 am |  | - |
+| General | CO1.MSG.8049539 | INICIO DE AUDIENCIA DE SUBASTA | 18/Jun/2025 - 10:13 am |  | - |
+| General | CO1.MSG.8049158 | Observvaciones al Informe de Evalaucion 2 | 18/Jun/2025 - 09:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2277411 | Informe de evaluación 2 CO1.AWD.2277411 | 17/Jun/2025 - 10:18 pm |  | - |
+| Objeciones | CO1.MSG.8033165 | [Respondido] RE:Observaciones CNSC-PAMC-005 DE 2025 | 17/Jun/2025 - 04:58 pm |  | - |
+| Objeciones | CO1.MSG.8033165 | Observaciones CNSC-PAMC-005 DE 2025 | 13/Jun/2025 - 10:29 pm |  | - |
+| General | CO1.MSG.8031731 | SUBSANACION - PROCESO CNSC-PAMC-005-2025 | 13/Jun/2025 - 04:52 pm |  | - |
+| General | CO1.MSG.8027366 | SUBSANACIÓN AL INFORME PRELIMINAR DE EVALUACIÓN | 13/Jun/2025 - 08:40 am |  | - |
+| General | CO1.MSG.8022334 | SUBSANACIÓN INFORME DE EVALUACIÓN | 12/Jun/2025 - 05:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2277411 | Informe de evaluación 1 CO1.AWD.2277411 | 10/Jun/2025 - 08:11 pm |  | - |
+| Avisos | CO1.MSG.7999985 | Publicación de la lista de ofertas del proceso CNSC-PAMC-005 DE 2025 (Presentación de oferta). | 09/Jun/2025 - 10:33 am |  | - |
+| Avisos | CO1.MSG.7999968 | La lista de oferentes del proceso CNSC-PAMC-005 DE 2025 (Presentación de oferta) publicada por COMISIÓN NACIONAL DEL SERVICIO CIVIL | 09/Jun/2025 - 10:31 am |  | - |
+| Aclaraciones | CO1.MSG.7926504 | Observaciones | 22/May/2025 - 10:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7926488 | OBSERVACIONES A PREPLIEGO DE CONDICIONES | 22/May/2025 - 10:16 pm |  | - |
+| Aclaraciones | CO1.MSG.7926342 | OBSERVACIONES AL PROYECTO DE PLIEGO - CNSC-PAMC-005-2025 | 22/May/2025 - 08:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7924588 | Observaciones | 22/May/2025 - 04:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7924243 | OBSERVACION | 22/May/2025 - 04:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7921974 | OBSERVACIONES COBERTURA DE INTERESES | 22/May/2025 - 11:51 am |  | - |
+| Aclaraciones | CO1.MSG.7899797 | Selección abreviada de subasta inversa No. CNSC-PAMC-005 DE 2025 - Codigos de Clasificacion de Bienes y Servicios | 19/May/2025 - 09:47 am |  | - |

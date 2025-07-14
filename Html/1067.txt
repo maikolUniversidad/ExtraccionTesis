@@ -1,0 +1,196 @@
+Title: Licitaciones - INSTITUTO DE ATENCION A LA FAMILIA - Contratación mínima cuantía MIN 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6852f3077ae2c0.75618892
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:04:43
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COMPRA DE COMPUTADORES DE ESCRITORIO PARA LA OPERATIVIDAD DEL INSTITUTO DE ATENCIÓN A LA FAMILIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Manizales
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211708 - Mouse o bola de seguimiento para computador,39121006 - Adaptadores o inversores de potencia,43212110 - Impresoras de múltiples funciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 27 # 17-08 Manizales Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507 | COMPUTADORES | Mínima cuantía | Recursos propios | $12.739.990 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 12:02 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 12:15 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 12:15 pm
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 12:15 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 12:15 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 04:30 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 04:30 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 04:31 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 04:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 10:30 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8118916 | RESOLUCION N° 56 POR MEDIO DE LA CUAL SE DECLARA DESIERTO EL PROCESO DE CONTRATACIÓN DE MÍNIMA CUANTÍA INVITACIÓN PÚBLICA NO. MIN -2025-08 | 04/Jul/2025 - 09:59 am |  | - |
+| General | CO1.MSG.8101393 | RESOLUCION N° 56 POR MEDIO DE LA CUAL SE DECLARA DESIERTO EL PROCESO DE CONTRATACIÓN DE MÍNIMA CUANTÍA INVITACIÓN PÚBLICA NO. MIN -2025-08 | 01/Jul/2025 - 03:35 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291333 | Informe de evaluación 1 CO1.AWD.2291333 | 25/Jun/2025 - 03:03 pm |  | - |
+| Avisos | CO1.REQ.8433791 | Publicación modificación | 25/Jun/2025 - 11:23 am |  |  |
+| General | CO1.MSG.8063774 | AVISO DE CONVOCATORIA LIMITADA A MIPYMES | 20/Jun/2025 - 10:10 am |  | - |

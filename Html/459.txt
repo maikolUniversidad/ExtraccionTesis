@@ -1,0 +1,333 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE VALLEDUPAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ae90de2c339.39599877
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPAL DE VALLEDUPAR - Contratación mínima cuantía CMC-SGR-025- 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-09 06:56:02
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+MANTENIMIENTO DE LA INFRAESTRUCTURA DE RED DE DATOS DE LA ALCALDIA MUNICIPAL DE VALLEDUPAR, CON SUMINISTRO E INSTALACION DE EQUIPOS DE TELECOMUNICACIONES, CABLEADO ESTRUCTIRADO, REPOSICION DE TRAMO DE FOBRA OPTICA Y ELEMENTOS DE IDENTIFICACION DE RED, PARA GARANTIZAR LA CONTINUIDAD OPERATIVA DE LOS SERVICIOS TECNOLOGICOS INSTITUCIONALES
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cesar : Valledupar
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+72151600 - Servicios de sistemas especializados de comunicación
+
+**Códigos adicionales UNSPSC:**
+81111700 - Sistemas de manejo de información MIS
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Redes de transmisión de datos (Cableado estructurado)", "licicodigos": "98,99" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+CRA 5 N° 15-69 Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 120,997,500
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 12:50 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 01:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 01:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 11:00 am
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 11:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 10:06 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 09:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 07/Jul/2025 - 12:00 am | 07/Ene/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 07/Jul/2025 - 12:00 am | 07/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 07/Jul/2025 - 12:00 am | 07/Jul/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** WEBSYS SOLUCIONES INFORMATICAS | Valledupar - Cesar |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 114,048,293
+
+**Informes proceso de selección CO1.AWD.2292117 de 02/Jul/2025 - 01:14 am. Valor $114.048.293**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 12:10 pm |  |
+| Informe de selección | 02/Jul/2025 - 01:14 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2292117**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NELSON GUTIERREZ ACOSTA Y/O WEBSYS SOLUCIONES INFORMATICAS * **Tipo documento:** NIT * **Documento:** 624000081 | * **Nombre:** NELSON GUTIERREZ * **Tipo documento:** * **Documento:** 303015 | Valledupar - Cesar | $114.048.293 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2292117****
+
+**Contrato 1468-SGR DE 2025 de NELSON GUTIERREZ ACOSTA Y/O WEBSYS SOLUCIONES INFORMATICAS:**
+
+**ID del contrato en SECOP:**
+
+1468-SGR DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+MANTENIMIENTO DE LA INFRAESTRUCTURA DE RED DE DATOS DE LA ALCALDIA MUNICIPAL DE VALLEDUPAR, CON SUMINISTRO E INSTALACION DE EQUIPOS DE TELECOMUNICACIONES, CABLEADO ESTRUCTIRADO, REPOSICION DE TRAMO DE FOBRA OPTICA Y ELEMENTOS DE IDENTIFICACION DE RED, PARA GARANTIZAR LA CONTINUIDAD OPERATIVA DE LOS SERVICIOS TECNOLOGICOS INSTITUCIONALES
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 72151600 | SERVICIOS ESPECIALIZADOS DE SISTEMAS DE COMUNICACION | 1,00 | UN | 115.170.600,00 | 114.048.293,00 | 115.170.600,00 | 114.048.293,00 |
+
+**Fecha de terminación del contrato:**
+
+07/Ago/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 114,048,293
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 1. ESTUDIOS PREVIOS.pdf |  |
+|  | INVITACION PUBLICA.pdf |  |
+|  | Aviso de Limitacion a MIPYME minima.pdf |  |
+|  | RESPUESTAS A OBSERVACIONES PUB.pdf |  |
+|  | ADENDA No 1.pdf |  |
+|  | 2 - RUT 2025.pdf |  |
+|  | COMPLEMENTARIO ACEPTACIÒN DE OFERTA.pdf |  |
+|  | FIRM INFORME DE EVALUACIOON DE PROPUESTAS.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292117 | Informe de selección CO1.AWD.2292117 | 02/Jul/2025 - 01:14 pm |  | - |
+| Avisos | CO1.MSG.8092499 | Publicación de la lista de ofertas del proceso CMC-SGR-025- 2025. | 27/Jun/2025 - 10:52 am |  | - |
+| Avisos | CO1.MSG.8092495 | La lista de oferentes del proceso CMC-SGR-025- 2025 publicada por ALCALDIA MUNICIPAL DE VALLEDUPAR | 27/Jun/2025 - 10:52 am |  | - |
+| Reporte preliminar | CO1.AWD.2292117 | Informe de evaluación 1 CO1.AWD.2292117 | 26/Jun/2025 - 12:10 pm |  | - |
+| Avisos | CO1.REQ.8458736 | Publicación modificación | 25/Jun/2025 - 12:33 pm |  |  |
+| Aclaraciones | CO1.MSG.8079550 | RE: Limitacion MiPymes Nacionales , Respuesta a Observaciones | 25/Jun/2025 - 12:31 pm |  | - |
+| General | CO1.MSG.8079536 | RESPUESTAS A OBSERVACIONES | 25/Jun/2025 - 12:30 pm |  | - |
+| Aclaraciones | CO1.MSG.8078681 | Limitacion MiPymes Nacionales | 25/Jun/2025 - 10:58 am |  | - |
+| Aclaraciones | CO1.MSG.8078570 | Observaciones | 25/Jun/2025 - 10:46 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:47 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

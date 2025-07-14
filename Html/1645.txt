@@ -1,0 +1,182 @@
+Title: Licitaciones - AMAZONAS - CONTRALORIA DEPARTAMENTAL DEL AMAZONAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681d7107912170.11078528
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 10:27:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+COMPRA DE LICENCIAS, ANTIVIRUS PARA LOS EQUIPOS DE COMPUTO DE LA CONTRALORÍA DEPARTAMENTAL DEL AMAZONAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 11 No.11-35 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Seguros
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205 | ADQUISICIÓN DE LICENCIAS, ANTIVIRUS PARA LOS EQUIPOS DE COMPUTO DE LA CONTRALORÍA DEPARTAMENTAL DEL AMAZONAS | Mínima cuantía | Recursos propios | $3.000.000 | CONTRATACION CDA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 09:47 pm
+
+**Publicación de estudios previos:**
+
+08/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+08/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+09/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+13/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+13/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+13/May/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7877109 | La lista de oferentes del proceso MC-006-2025 publicada por AMAZONAS - CONTRALORIA DEPARTAMENTAL DEL AMAZONAS | 13/May/2025 - 06:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7868740 | RE: OBSERVACION PROCESO | 12/May/2025 - 04:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7868707 | RE: OBSERVACION | 12/May/2025 - 04:33 pm |  | - |
+| General | CO1.MSG.7867340 | AVISO 1 - LIMITACION MIPYMES | 12/May/2025 - 02:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7862021 | OBSERVACION | 09/May/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7861749 | OBSERVACION | 09/May/2025 - 04:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7859631 | OBSERVACION PROCESO | 09/May/2025 - 12:29 pm |  | - |

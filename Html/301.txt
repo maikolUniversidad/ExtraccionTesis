@@ -1,0 +1,274 @@
+Title: Licitaciones - ICANH - Subasta Inversa SASIE-ICANH-003-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a13782c0698.59431664
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:49:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir la renovación de las licencias del equipo de seguridad perimetral y antivirus, renovación del pool de direcciones IPV6 y renovación de las licencias de los dispositivos Access Point para el Instituto Colombiano de Antropología e Historia
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,43222500 - Equipo de seguridad de red,81111700 - Sistemas de manejo de información MIS,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81112000 - Servicios de datos,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112100 - Servicios de internet,81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 No. 2 -38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 238,196,663
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200, 43233200, 43222500, 81111700, 81112500, 81111500, 81112000, 81111800, 81112100 | C268-Adquirir la renovación de las licencias del equipo de seguridad perimetral y antivirus, renovacion del pool de direcciones ipv6, y renovación de las licencias de los dispositivos acces point para el Instituto Colombiano de Antropología e Historia. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $238.196.663 | Oficina de Contratos |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+11/Jun/2025 - 06:25 pm
+
+**Publicación Estudios Previos:**
+
+11/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+11/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+18/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 11:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+19/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+20/Jun/2025 - 03:54 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+20/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+20/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+24/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+25/Jun/2025 - 06:58 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 02:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/Jun/2025 - 02:15 pm
+
+**Informe de presentación de Ofertas:**
+
+27/Jun/2025 - 02:30 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+02/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+08/Jul/2025 - 05:15 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+14/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 08:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 11/Jul/2025 - 08:00 am | 11/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 11/Jul/2025 - 08:00 am | 11/Nov/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 11/Jul/2025 - 08:00 am | 11/May/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+08/Jul/2025 - 05:00 pm
+
+**Fecha de inicio:**
+
+10/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+10/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8449117 | Publicación modificación | 09/Jul/2025 - 05:05 pm |  |  |
+| General | CO1.MSG.8143198 | Adenda 2. Al proceso SASIE-ICANH-003-2025 | 09/Jul/2025 - 03:13 pm |  | - |
+| Avisos | CO1.MSG.8142450 | Publicación de la lista de ofertas del proceso SASIE-ICANH-003-2025 (Presentación de oferta). | 09/Jul/2025 - 02:04 pm |  | - |
+| General | CO1.MSG.8142296 | Información sobre el desarrollo del evento de subasta | 09/Jul/2025 - 01:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296293 | Informe de evaluación 3 CO1.AWD.2296293 | 09/Jul/2025 - 10:47 am |  | - |
+| Avisos | CO1.MSG.8137583 | La lista de oferentes del proceso SASIE-ICANH-003-2025 (Presentación de oferta) publicada por ICANH | 08/Jul/2025 - 05:17 pm |  | - |
+| Avisos | CO1.MSG.8137525 | Publicación de la lista de ofertas del proceso SASIE-ICANH-003-2025 (Presentación de oferta). | 08/Jul/2025 - 05:13 pm |  | - |
+| Avisos | CO1.REQ.8449117 | Publicación modificación | 08/Jul/2025 - 11:06 am |  |  |
+| Reporte preliminar | CO1.AWD.2296293 | Informe de evaluación 2 CO1.AWD.2296293 | 08/Jul/2025 - 10:39 am |  | - |
+| General | CO1.MSG.8133384 | Información - modificación de fecha para la realización del evento de subasta | 08/Jul/2025 - 10:25 am |  | - |
+| General | CO1.MSG.8127214 | SUBSANACION | 07/Jul/2025 - 11:35 am |  | - |
+| Objeciones | CO1.MSG.8127192 | SUBSANACION | 07/Jul/2025 - 11:35 am |  | - |
+| General | CO1.MSG.8125677 | Carta Subsanación y Ajuste | 07/Jul/2025 - 09:14 am |  | - |
+| Objeciones | CO1.MSG.8122312 | Respuesta a solicitud de subsanación - Carta de presentación de la oferta | 04/Jul/2025 - 04:32 pm |  | - |
+| Objeciones | CO1.MSG.8112604 | respuesta solicitud de subsanacion | 03/Jul/2025 - 10:26 am |  | - |
+| Reporte preliminar | CO1.AWD.2296293 | Informe de evaluación 1 CO1.AWD.2296293 | 02/Jul/2025 - 07:41 pm |  | - |
+| Avisos | CO1.MSG.8094210 | La lista de oferentes del proceso SASIE-ICANH-003-2025 (Presentación de oferta) publicada por ICANH | 27/Jun/2025 - 03:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8080938 | Respuesta a las observaciones presentadas al pliego definitivo del proceso SASIE-ICANH-003-2025 | 25/Jun/2025 - 03:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8069772 | SOLICITUD DE ACLARACION PLIEGO | 23/Jun/2025 - 09:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8069766 | SOLICITUD DE ACLARACION PLIEGO | 23/Jun/2025 - 09:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8030501 | SOLICITUD DE MODIFICACION PLIEGO | 13/Jun/2025 - 02:51 pm |  | - |

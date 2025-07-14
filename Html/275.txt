@@ -1,0 +1,307 @@
+Title: Licitaciones - DIRECCIÓN GENERAL DE SANIDAD MILITAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809645989fb98.18976746
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 17:58:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA ADMINISTRAR Y ACTUALIZAR (SOFTWARE), LOS SERVICIOS DE OPERACIÓN Y SEGURIDAD (SOC-SECURITY OPERATIONS CENTER) Y SERVICIO DEL CENTRO DEL CONTROL RED (NOC-NETWORK OPERATIONS CENTER) PARA SEGUIMIENTO, MONITOREO Y REMEDIACIÓN DE LAS VULNERABILIDADES EN LAS REDES Y LOS SERVICIOS TECNOLÓGICOS DE LA INFRAESTRUCTURA HIBRIDA DE LA DIRECCIÓN GENERAL DE SANIDAD MILITAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+
+81112103 - Servicios de diseño de sitios web www
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+180 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Calle 26 No 69-76 Centro Empresarial Elemento Torre Tierra Piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+220 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | EQUIPO Y APARATOS DE RADIO, TELEVISIÓN Y COMUNICACIONES - LICENCIAMIENTO SOC - NOC PARA MONITOREO | Selección abreviada menor cuantía | Recursos propios | $380.000.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+| 81112103 | OTROS SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS - (CERTIFICADO SSL) | Contratación directa | Recursos propios | $3.500.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 04:52 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/Abr/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+02/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/May/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+13/May/2025 - 08:53 am
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+13/May/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+13/May/2025 - 11:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+13/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés:**
+
+15/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+19/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+22/May/2025 - 09:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 06:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jun/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+05/Jun/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+06/Jun/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 30/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 30,00 | 30/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** eyc ingenieros SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 257,400,000
+
+**Informes proceso de selección CO1.AWD.2262202 de 09/Jun/2025 - 04:53 am. Valor $257.400.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 02:35 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:35 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:35 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 10:01 am |  |
+| Informe de evaluación | 06/Jun/2025 - 10:01 am |  |
+| Informe de selección | 09/Jun/2025 - 04:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262202**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** E&C INGENIEROS SAS * **Tipo documento:** NIT * **Documento:** 900024202 | * **Nombre:** ELQUIN LEONARDO PEREZ CRUZ * **Tipo documento:** NIT * **Documento:** 80059204 | - Distrito Capital de Bogotá | $257.400.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262202****
+
+**ID del contrato en SECOP:**
+
+162- DIGSA-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 257,400,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262202 | Informe de selección CO1.AWD.2262202 | 09/Jun/2025 - 04:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262202 | Informe de evaluación 2 CO1.AWD.2262202 | 06/Jun/2025 - 10:01 am |  | - |
+| Objeciones | CO1.MSG.7957215 | [Respondido] RE:RESPUESTA A INFORME | 29/May/2025 - 11:31 am |  | - |
+| Objeciones | CO1.MSG.7957215 | RESPUESTA A INFORME | 29/May/2025 - 09:55 am |  | - |
+| Reporte preliminar | CO1.AWD.2262202 | Informe de evaluación 1 CO1.AWD.2262202 | 27/May/2025 - 02:35 pm |  | - |
+| Avisos | CO1.MSG.7920312 | La lista de oferentes del proceso 160-MDN-COGFM-JEMCO-DIGSA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DIRECCIÓN GENERAL DE SANIDAD MILITAR+ | 22/May/2025 - 09:07 am |  | - |
+| Avisos | CO1.REQ.8281547 | Publicación modificación | 19/May/2025 - 11:06 am |  |  |
+| Aclaraciones | CO1.MSG.7884894 | Solicitud aclaración importante | 14/May/2025 - 08:57 pm |  | - |
+| General | CO1.MSG.7874828 | FORMULARIO RESPUESTAS | 13/May/2025 - 03:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7865875 | FORMULARIO DE PREGUNTAS Y RESPUESTAS 1. | 12/May/2025 - 11:05 am |  | - |
+| Aclaraciones | CO1.MSG.7822115 | OBSERVACIONES | 30/Abr/2025 - 05:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7822103 | Observaciones DIGSA | 30/Abr/2025 - 05:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7821984 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 30/Abr/2025 - 05:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7820231 | Observaciones al proceso | 30/Abr/2025 - 03:29 pm |  | - |

@@ -1,0 +1,134 @@
+Title: Licitaciones - COLEGIO ARBORIZADORA ALTA I.E.,D
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68082e912ff895.75378794
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:49:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ALQUILER DE PLATAFORMA PARA EL SERVICIO DE MENSAJERIA DE TEXTO, PARA LOGRAR ASI LA AGIL COMUNICACIÓN CON LOS PADRES DE FAMILIA SOBRE AUSENTISMO, LLEGADA TARDE, EVASION Y LA DESERCION.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Telefonía móvil, -Envíos masivos de mensajes de texto y correos electrónicos", "licicodigos": "405,488" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CR 43 70 A SUR 50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 03:37 pm
+
+**Fecha de Firma del Contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+12/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 29/Abr/2025 - 03:49 pm |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 25/Abr/2025 - 12:29 pm |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 25/Abr/2025 - 11:30 am |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 24/Abr/2025 - 10:18 am |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 22/Abr/2025 - 04:05 pm |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 22/Abr/2025 - 03:56 pm |  |  |
+| Avisos | CO1.REQ.8150818 | Publicación modificación | 22/Abr/2025 - 03:51 pm |  |  |

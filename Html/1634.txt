@@ -1,0 +1,137 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA JOSE MIGUEL MONTALVO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a529ebec919.31030658
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-06 13:19:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de reparación y mantenimiento de fotocopiadoras Ricoh MP4000, MP3501 y MP5002, de tipo preventivo y correctivo de partes mecánicas, eléctricas y electrónicas; incluye suministro e instalación de Kit por 4 tóner full color, además de provisión de insumos y repuestos instalados y entregados en óptimo funcionamiento de los equipos al servicio de las sedes de la Institución Educativa
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Gigante
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44103116 - Kit para impresora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Fotocopiadoras, repuestos e insumos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,108,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CL 4 15 25 Gigante Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,300,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 12:25 pm
+
+**Fecha de Firma del Contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+16/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No

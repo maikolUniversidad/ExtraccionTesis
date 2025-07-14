@@ -1,0 +1,277 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c9a0ca2af30.09707006
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:51:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar los servicios de mantenimiento preventivo y correctivo incluyendo los repuestos para el correcto funcionamiento de la librería HP MSL4048 Tape Library, propiedad de la Secretaría Distrital de Hacienda.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 130,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | 1000005630 - Prestar los servicios de mantenimiento preventivo y correctivo incluyendo los repuestos para el correcto funcionamiento de la librería HP MSL4048 Tape Library, propiedad de la Secretaría Distrital de Hacienda. | Mínima cuantía | Recursos propios | $60.000.000 | UNIDAD DE CONTRATACION SAC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 04:07 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 10:30 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 10:32 am
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 10:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 04/Jul/2025 - 12:00 am | 18/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 04/Jul/2025 - 12:00 am | 04/Jun/2028 - 11:19 pm |
+| Calidad del servicio | 20,00 | 04/Jul/2025 - 12:00 am | 18/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jul/2025 - 12:00 am | 04/Jun/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 21,200,000
+
+**Informes proceso de selección CO1.AWD.2292088 de 03/Jul/2025 - 02:31 am. Valor $21.200.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:00 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:00 pm |  |
+| Informe de selección | 03/Jul/2025 - 02:31 pm |  |
+| Informe de selección | 03/Jul/2025 - 02:31 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2292088**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IDEALOGIC SAS * **Tipo documento:** NIT * **Documento:** 901157921 | * **Nombre:** MICHAEL SMITH CABALLERO CORTES * **Tipo documento:** NIT * **Documento:** 80858877 | Bogotá - Distrito Capital de Bogotá | $21.200.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2292088****
+
+**Contrato 250520 de IDEALOGIC SAS:**
+
+**ID del contrato en SECOP:**
+
+250520
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Prestar los servicios de mantenimiento preventivo y correctivo incluyendo los repuestos para el correcto funcionamiento de la librería HP MSL4048 Tape Library, propiedad de la Secretaría Distrital de Hacienda.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112300 | Mantenimiento preventivo y correctivo de la librería HP MSL4048 Tape Library - Incluida UNA (1) visita técnica. | 1,00 | UN | 9.848.031,00 | 5.500.000,00 | 9.848.031,00 | 5.500.000,00 |
+| 2 | 81112300 | Suministro, instalación, configuración y puesta en marcha de DOS (2) drives de repuesto para la librería HP MSL4048 2 LTO-5 3000 FC Tape Library (media altura) | 2,00 | UN | 10.168.000,00 | 7.850.000,00 | 20.336.000,00 | 15.700.000,00 |
+
+**Fecha de terminación del contrato:**
+
+18/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+5 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 21,200,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 2. MinutaC250520(FO).pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292088 | Informe de selección CO1.AWD.2292088 | 03/Jul/2025 - 02:31 pm |  | - |
+| Avisos | CO1.MSG.8089313 | Publicación de la lista de ofertas del proceso SDH-SMINC-0041-2025. | 26/Jun/2025 - 05:03 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292088 | Informe de evaluación 1 CO1.AWD.2292088 | 26/Jun/2025 - 05:00 pm |  | - |
+| General | CO1.MSG.8074482 | RE: Solicitud Publicación Ofertas | 24/Jun/2025 - 04:30 pm |  | - |
+| Avisos | CO1.MSG.8064099 | La lista de oferentes del proceso SDH-SMINC-0041-2025 publicada por SECRETARIA DISTRITAL DE HACIENDA | 20/Jun/2025 - 10:37 am |  | - |
+| General | CO1.MSG.8051205 | AVISO COMUNICACIÓN VERIFICACIÓN DE MANIFESTACIONES DE INTERÉS PARA LIMITAR LA CONVOCATORIA A MIPYME COLOMBIANAS. | 18/Jun/2025 - 01:23 pm |  | - |

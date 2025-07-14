@@ -1,0 +1,122 @@
+Title: Licitaciones - COLEGIO PABLO NERUDA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682775a5dfcbb4.16815948
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 08:06:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir dos herramientas tecnológicas para la Institución Educativa Distrital Pablo Neruda: una para la gestión de los procesos del área de pagaduría (presupuesto, tesorería y contratación), y otra para la organización y control de los bienes muebles institucionales y el cardex del almacén, esta última con acceso virtual para al menos dos usuarios (almacenista y rector).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 16 F # 102 - 70 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112501 | SOFTWARE FINANCIERO Y DE INVENTARIOS | Contratación régimen especial - Régimen especial | SGP | $3.500.000 | COLEGIO PABLO NERUDA IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 11:17 am
+
+**Fecha de Firma del Contrato:**
+
+24/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+24/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

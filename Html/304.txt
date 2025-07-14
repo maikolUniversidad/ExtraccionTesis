@@ -1,0 +1,227 @@
+Title: Licitaciones - CORPOCESAR - Selección abreviada de menor cuantía (Ley 1150 de 2007) SAMC-003-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e20e2c865f5.79380868
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 09:05:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA LA ORGANIZACIÓN, ADMINISTRACIÓN Y EJECUCIÓN DEL PLAN DE MEDIOS EN LOS FORMATOS TELEVISIVOS, RADIALES, ESCRITOS Y WEB CON EL PROPÓSITO DE DIFUNDIR LOS DIFERENTES PROGRAMAS PLASMADOS DENTRO DEL PLAN DE ACCIÓN GOBERNANZA Y GOBERNABILIDAD EN LA GESTIÓN AMBIENTAL DEL CESAR 2024-202, ASÍ COMO LAS DISTINTAS ACTUACIONES DE LA CORPORACIÓN AUTÓNOMA REGIONAL DEL CESAR 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101600 - Publicidad difundida
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "198,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+km 1 via a la Paz lote 1 uic casa e campo Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+9 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82101600, 82111900 | PRESTACIÓN DE SERVICIOS PARA LA ORGANIZACIÓN, ADMINISTRACIÓN Y EJECUCIÓN DEL PLAN DE MEDIOS EN LOS FORMATOS TELEVISIVOS, RADIALES, ESCRITOS Y WEB CON EL PROPÓSITO DE DIFUNDIR LOS DIFERENTES PROGRAMAS PLASMADOS DENTRO DEL PLAN DE ACCIÓN, ASÍ COMO LAS DISTINTAS ACTUACIONES DE LA CORPORACIÓN AUTÓNOMA REGIONAL DEL CESAR | Selección abreviada menor cuantía | Recursos propios | $174.000.000 | CONTRATACION CORPOCESAR |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 10:30 am
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 10:30 am
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 10:35 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+15/May/2025 - 11:59 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+16/May/2025 - 09:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 10:00 am
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+19/May/2025 - 09:00 am
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+19/May/2025 - 09:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+19/May/2025 - 09:17 am
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+19/May/2025 - 09:31 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+21/May/2025 - 11:59 am
+
+**Plazo para manifestación de Interés:**
+
+21/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+22/May/2025 - 10:00 am
+
+**Realización del sorteo:**
+
+22/May/2025 - 10:30 am
+
+**Publicación de la lista de precalificados:**
+
+22/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 09:00 am
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:00 am
+
+**Apertura de Ofertas:**
+
+26/May/2025 - 09:30 am
+
+**Informe de presentación de Ofertas:**
+
+26/May/2025 - 09:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+06/Jun/2025 - 10:00 am
+
+**Firma del Contrato:**
+
+06/Jun/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 10:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+Si
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 06/Jun/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 06/Jun/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7893255 | RE: OBSERVACIONES A LA SELECCION ABREVIADA DE MENOR CUANTIA N° 003 DE 2025 | 16/May/2025 - 10:41 am |  | - |
+| Aclaraciones | CO1.MSG.7879522 | OBSERVACIONES A LA SELECCION ABREVIADA DE MENOR CUANTIA N° 003 DE 2025 | 14/May/2025 - 10:20 am |  | - |

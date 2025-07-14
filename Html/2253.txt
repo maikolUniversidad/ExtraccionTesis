@@ -1,0 +1,90 @@
+Title: Licitaciones - ALCALDIA LOCAL DE ANTONIO NARIÑO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810345131df79.12624180
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-03 10:38:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE OUTSOURCING DE FOTOCOPIADORAS MULTIFUNCIONALES MONOCROMATICAS, INCLUIDO SU MANTENIMIENTO PREVENTIVO Y CORRECTIVO, SOPORTE TÉCNICO, REPUESTOS E INSUMOS REQUERIDOS POR LAS MISMAS Y DISPOSICIÓN FINAL DE LOS MISMOS, PARA SER INSTALADAS EN LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA LOCAL DE ANTONIO NARIÑO, DE CONFORMIDAD CON LAS ESPECIFICACIONES TÉCNICAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14121701 - Papeles adheridos con película
+
+**Códigos adicionales UNSPSC:**
+
+45101512 - Impresora de transferencia térmica para aplicaciones de impresión comercial,44102405 - Máquinas para hacer etiquetas,80161801 - Servicio de alquiler o leasing de fotocopiadoras,44101728 - Alimentadores de rollos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "106,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 17 SUR 18 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 09:05 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 11:59 pm

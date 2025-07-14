@@ -1,0 +1,94 @@
+Title: Licitaciones - ESCUELA SUPERIOR DE ADMINISTRACIÓN PUBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68558e569828d4.42121348
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 10:38:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición de teclados para Tablet, para fortalecer el acceso tecnológico y el aprendizaje de los estudiantes en los CETAP y sedes territoriales de la ESAP.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211706 - Teclados
+
+**Códigos adicionales UNSPSC:**
+
+43211700 - Dispositivos informáticos de entrada de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 53-37 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 11:15 am
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 02:00 pm

@@ -1,0 +1,298 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682397fd17e3b4.74867482
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 06:32:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+11715- IMPLEMENTACIÓN Y PUESTA EN OPERACIÓN DE UN LAGO DE DATOS PARA LA SEGURIDAD, CONVIVENCIA Y JUSTICIA EN BOGOTÁ D.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av calle 26 No. 57 - 83 Torre 7 piso 6 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 925,275,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800, 81112000, 81112200 | 11715-IMPLEMENTACIÓN Y PUESTA EN OPERACIÓN DE UN LAGO DE DATOS PARA LA SEGURIDAD, CONVIVENCIA Y JUSTICIA EN BOGOTÁ D.C. | Selección abreviada menor cuantía | Recursos propios | $790.085.000 | Dirección Jurídica y Contractual |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/May/2025 - 01:53 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+21/May/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+23/May/2025 - 05:53 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+23/May/2025 - 11:59 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+23/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+23/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+27/May/2025 - 04:00 pm
+
+**Realización del sorteo:**
+
+28/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 05:00 pm
+
+**Publicación de la lista de precalificados:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+30/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 11:00 am
+
+**Apertura de Ofertas:**
+
+04/Jun/2025 - 11:02 am
+
+**Informe de presentación de Ofertas:**
+
+04/Jun/2025 - 11:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+17/Jun/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 08:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+20/Jun/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 17/Jun/2025 - 08:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 17/Jun/2025 - 08:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 17/Jun/2025 - 08:00 am | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** TECNOFACTORY S.A.S. | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 710,000,000
+
+**Informes proceso de selección CO1.AWD.2274402 de 16/Jun/2025 - 01:22 am. Valor $710.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 09:13 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 09:48 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:48 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:48 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:48 am |  |
+| Informe de selección | 16/Jun/2025 - 01:22 pm |  |
+| Informe de selección | 16/Jun/2025 - 01:22 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2274402**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** TECNOFACTORY S.A.S. * **Tipo documento:** NIT * **Documento:** 901184760 | * **Nombre:** Alfonso Medina Torres * **Tipo documento:** NIT * **Documento:** 19253400 | Bogotá - Distrito Capital de Bogotá | $710.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2274402****
+
+**Cuantía a la firma del contrato:**
+
+$ 710,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2274402 | Informe de selección CO1.AWD.2274402 | 16/Jun/2025 - 01:22 pm |  | - |
+| Objeciones | CO1.MSG.7999596 | [Respondido] RE:Subsanación Informe de Evaluación SCJ-SAMC-3-2025 | 16/Jun/2025 - 12:13 pm |  | - |
+| Reporte preliminar | CO1.AWD.2274402 | Informe de evaluación 2 CO1.AWD.2274402 | 13/Jun/2025 - 09:48 am |  | - |
+| General | CO1.MSG.8011305 | Subsanacion Informa Evaluacion Preliminar | 10/Jun/2025 - 06:27 pm |  | - |
+| Objeciones | CO1.MSG.7999596 | Subsanación Informe de Evaluación SCJ-SAMC-3-2025 | 09/Jun/2025 - 09:56 am |  | - |
+| Reporte preliminar | CO1.AWD.2274402 | Informe de evaluación 1 CO1.AWD.2274402 | 06/Jun/2025 - 09:13 pm |  | - |
+| Avisos | CO1.MSG.7986298 | Publicación de la lista de ofertas del proceso SCJ-SAMC-3-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 05/Jun/2025 - 10:40 am |  | - |
+| Avisos | CO1.MSG.7986265 | La lista de oferentes del proceso SCJ-SAMC-3-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por SECRETARIA DISTRITAL DE SEGURIDAD, CONVIVENCIA Y JUSTICIA | 05/Jun/2025 - 10:37 am |  | - |
+| General | CO1.MSG.7966388 | ADENDA 1 | 30/May/2025 - 02:40 pm |  | - |
+| General | CO1.MSG.7966379 | RESPUESTAS A LAS OBSERVACIONES PLIEGO DEFINITIVO | 30/May/2025 - 02:39 pm |  | - |
+| Avisos | CO1.REQ.8336320 | Publicación modificación | 30/May/2025 - 02:38 pm |  |  |
+| General | CO1.MSG.7956955 | RE: Lista de empresas después del sorteo | 29/May/2025 - 09:24 am |  | - |
+| Aclaraciones | CO1.MSG.7949428 | Observaciones pliego definitvo | 28/May/2025 - 09:41 am |  | - |
+| General | CO1.MSG.7949208 | AUDIENDIA DE SORTEO PROCESO LAGO DE DATOS | 28/May/2025 - 09:19 am |  | - |
+| Aclaraciones | CO1.MSG.7945540 | observaciones | 27/May/2025 - 03:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7944554 | PROCESO LAGO DE DATOS - OBSERVACIONES | 27/May/2025 - 02:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7937633 | OBSERVACIÓN1 | 26/May/2025 - 03:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7910623 | Observaciones al Pliego Borrador | 20/May/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7910314 | observacion preliminar lago datos | 20/May/2025 - 04:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7910179 | OBSERVACIONES PRELIMINAR-EXPERIENCIA | 20/May/2025 - 04:28 pm |  | - |
+| Aclaraciones | CO1.MSG.7909689 | observaciones | 20/May/2025 - 03:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7909372 | Observaciones al pliego de condiciones proceso SCJ-SAMC-3-2025 | 20/May/2025 - 03:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7900594 | OBSERVACION | 19/May/2025 - 11:05 am |  | - |
+| Aclaraciones | CO1.MSG.7900214 | Consultas desde Bmind | 19/May/2025 - 10:38 am |  | - |

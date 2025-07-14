@@ -1,0 +1,130 @@
+Title: Licitaciones - COLEGIO TECNICO DOMINGO FAUSTINO SARMIENTO INSTITUCION EDUCATIVA DISTRITAL - Régimen Especial CP-RE-CTDFS No.8
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b7f8076a798.40117349
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 12:17:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE TELEVISORES, SOPORTES PARA TV, TABLETAS, IMPRESORAS Y UN PLOTTER PARA LA INSTITUCIÓN EDUCATIVA DISTRITAL COLEGIO TÉCNICO DOMINGO FAUSTINO SARMIENTO, CON EL PROPÓSITO DE APOYAR Y FORTALECER LOS PROCESOS PEDAGÓGICOS Y ADMINISTRATIVOS DEL COLEGIO. TIPO BOLSA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Electrodomésticos, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "105,139,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TRANSVERSAL 60 # 95 - 51 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 05:12 pm
+
+**Fecha de Firma del Contrato:**
+
+24/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+25/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8408068 | Publicación modificación | 16/Jun/2025 - 12:51 pm |  |  |
+| Avisos | CO1.REQ.8408068 | Publicación modificación | 13/Jun/2025 - 02:09 pm |  |  |
+| Avisos | CO1.REQ.8408068 | Publicación modificación | 13/Jun/2025 - 02:04 pm |  |  |

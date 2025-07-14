@@ -1,0 +1,100 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6800068d2a27b7.47479240
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:53:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE TONER Y KIT DE MANTENIMIENTO PARA LAS IMPRESORAS DE LA REGIONAL NOROCCIDENTE DEL INMLyCF.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103000 - Fusores y Accesorios
+
+**Códigos adicionales UNSPSC:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 Nro. 80 – 325 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 02:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Abr/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7770418 | OBSERVACION HP COLOMBIA | 16/Abr/2025 - 10:48 pm |  | - |

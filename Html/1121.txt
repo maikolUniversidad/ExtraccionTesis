@@ -1,0 +1,217 @@
+Title: Licitaciones - INPEC - Contratación mínima cuantía MC-18-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b6d527312c7.41340709
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:41:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE CERTIFICADO DE SEGURIDAD DE SITIO WEB DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO - INPEC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233201 - Software de servidor de autenticación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CLL 26 # 27-48 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200, 43233201 | Adquisición Certificados de seguridad de la información | Mínima cuantía | Presupuesto de entidad nacional | $20.000.000 | SUBDIRECCIÓN DE GESTIÓN CONTRACTUAL |
+| 43233200, 43233201 | Adquisición Token digitales, manejo SIIF Nación | Mínima cuantía | Presupuesto de entidad nacional | $60.000.000 | SUBDIRECCIÓN DE GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 05:00 pm
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 07:11 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 02:05 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 02:10 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/Nov/2025 - 10:00 pm | 30/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/Nov/2025 - 11:00 pm | 30/Jun/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/Nov/2025 - 10:00 pm | 30/Nov/2026 - 11:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 6 CO1.AWD.2287013 | 09/Jul/2025 - 10:22 am |  | - |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 5 CO1.AWD.2287013 | 04/Jul/2025 - 09:59 am |  | - |
+| General | CO1.MSG.8115704 | MENSAJE PUBLICO | 03/Jul/2025 - 04:42 pm |  | - |
+| General | CO1.MSG.8113653 | RE: RESPUESTA A SUBSANACION DEL PROCESO | 03/Jul/2025 - 12:25 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 4 CO1.AWD.2287013 | 01/Jul/2025 - 11:50 am |  | - |
+| Avisos | CO1.REQ.8326692 | Publicación modificación | 27/Jun/2025 - 05:10 pm |  |  |
+| General | CO1.MSG.8095420 | ADENDA 2 | 27/Jun/2025 - 05:03 pm |  | - |
+| General | CO1.MSG.8093839 | RE: JUSTIFICACIÓN DE PRECIOS ARTIFICIALMENTE BAJOS INPEC INCLUYENDO ESCANEO DE MALWARE | 27/Jun/2025 - 04:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 3 CO1.AWD.2287013 | 27/Jun/2025 - 04:17 pm |  | - |
+| Avisos | CO1.REQ.8326692 | Publicación modificación | 25/Jun/2025 - 04:03 pm |  |  |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 2 CO1.AWD.2287013 | 25/Jun/2025 - 03:56 pm |  | - |
+| General | CO1.MSG.8081165 | RESOLUCION NÚMERO 005381 DEL 25 JUN 2025 | 25/Jun/2025 - 03:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287013 | Informe de evaluación 1 CO1.AWD.2287013 | 20/Jun/2025 - 04:41 pm |  | - |
+| Avisos | CO1.MSG.8057080 | La lista de oferentes del proceso MC-18-2025 publicada por INPEC+ | 19/Jun/2025 - 10:23 am |  | - |
+| General | CO1.MSG.8056781 | ADENDA No.1 | 19/Jun/2025 - 09:56 am |  | - |
+| General | CO1.MSG.8041922 | RE: RESPUESTA A OBSERVACIONES AL PROCESO MC-18-2025 | 17/Jun/2025 - 03:24 pm |  | - |
+| General | CO1.MSG.8045155 | RE: RESPUESTA A OBSERVACIONES AL PROCESO MC-18-2025 | 17/Jun/2025 - 03:23 pm |  | - |
+| General | CO1.MSG.8045089 | RE: RESPUESTA A OBSERVACIONES AL PROCESO MC-18-2025 | 17/Jun/2025 - 03:22 pm |  | - |
+| Aclaraciones | CO1.MSG.8036438 | RE: OBSERVACIÓN AL PROCESO MC-18-2025 | 17/Jun/2025 - 09:46 am |  | - |
+| General | CO1.MSG.8041856 | RE: SOLICITUD LIMITACIÓN A MYPYMES | 17/Jun/2025 - 09:42 am |  | - |
+| Aclaraciones | CO1.MSG.8027755 | OBSERVACIÓN AL PROCESO MC-18-2025 | 13/Jun/2025 - 09:42 am |  | - |

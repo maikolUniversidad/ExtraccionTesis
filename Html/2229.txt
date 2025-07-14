@@ -1,0 +1,16 @@
+Title: Licitaciones - CONGRESO DE LA REPÚBLICA - HONORABLE SENADO DE LA REPÚBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680e39b5d27d76.04825738
+
+Markdown Content:
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema
+
+**Códigos adicionales UNSPSC:**
+
+86141702 - Tecnología audiovisual,43201502 - Tarjetas de aceleración de audio,43201546 - Tarjetas de audio conferencia,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45111719 - Monitor de audio,45111720 - Analizador de espectro de audio,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,45111807 - Interfaces,45111815 - Consola de audio video,45111818 - Reducidor de ruido de videos,45111829 - Cámara de proceso,45111900 - Equipos, hardware y controladores para sistemas de teleconferencia y videoconferencia,45111901 - Sistemas de audio conferencias,45111902 - Sistemas de video conferencias,52161500 - Equipos audiovisuales,52161541 - Mezcladores de audio,52161547 - Amplificadores de audio,52161548 - Consola de audio,43223207 - Sistema de flujo de video,43233502 - Software de video conferencias,45121500 - Cámaras,46171600 - Equipo de vigilancia y detección,72151605 - Servicio de cableado para video, datos y voz,81112200 - Mantenimiento y soporte de software,81161700 - Servicios de telecomunicaciones,90111600 - Facilidades para encuentros,90111601 - Centros de conferencias,90111602 - Instalaciones para videoconferencias,32151900 - Dispositivos de automatización de control de la conectividad,32152000 - Control de procesos o sistemas empaquetados de automatización,39101600 - Lámparas y bombillas,39101800 - Componentes y accesorios de Lámpara,39101904 - Transformador de iluminación de bajo voltaje,39111500 - Iluminación de interiores y artefactos,39111800 - Accesorios de iluminación,39112100 - Iluminación óptica,39112300 - Iluminación y accesorios de escenarios y estudios,39112400 - Dispositivos para manejo de luces y control de escenarios y estudios,39121107 - Sistemas de control de iluminación,45111808 - Controles de iluminación,56112205 - Componentes de iluminación, electricidad o información,72151501 - Servicios de instalación de iluminación,72151511 - Servicio de mantenimiento o reparación de sistemas de iluminación,43211723 - Equipos de votación electrónica o de conteo de votos,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,72103300 - Servicios de mantenimiento y reparación de infraestructura,81101515 - Ingeniería de infraestructura de instalaciones o fábricas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Equipos audiovisuales, -Instalaciones eléctricas", "licicodigos": "102,115,241" }

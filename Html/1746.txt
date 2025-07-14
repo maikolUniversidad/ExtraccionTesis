@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL VALLE Grupo Administrativo CTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685acd6e95df22.98678652
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:38:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE MATERIALES DE FORMACIÓN PARA LOS DIFERENTES PROGRAMAS DE FORMACION DE ELECTRICOS Y TICS DEL CENTRO DE TECNOLOGÍAS AGROINDUSTRIALES PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Cartago
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+40141700 - Material de ferretería y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+20101801 - Apernador de cable,20121916 - Cable de fondo de pozo de sensor óptico,20122300 - Equipo de Slickline - Cable de Recuperación,20122401 - Dispositivo golpeador de cable,22101707 - Cables de retención,23241616 - Cortador de cable o alambre,23301501 - Equipo para cortado de cable y alambre y ensamble de terminales,26121500 - Alambre eléctrico,26121538 - Conjunto de cable,26121539 - Cables para cableado,26121540 - Cable galvanizado,26121542 - Cable de instalación,26121543 - Cable resistente al calor,26121544 - Cable de bajada,26121545 - Cable portátil eléctrico,26121546 - Cable de cobre recubierto de estaño,26121547 - Cable de bronce,26121548 - Cable rectangular,26121600 - Cables eléctricos y accesorios,26121637 - Cable de fibra óptica de exterior,26121650 - Conjunto de cable de fibra óptica,26121655 - Cable de fibra óptica simplex y dúplex,26121656 - Cable de fibra óptica submarina,26121657 - Cable de fibra óptica retardante de fuego,26121700 - Cableado preformado,27111562 - Cortadora de cables
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Materiales para obras eléctricas en general, -Herramientas manuales, -Maquinaria industrial, -Materiales para redes de comunicación, -Instrumentación para obras eléctricas", "licicodigos": "115,121,123,228,438,628" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 9 No. 12-141 Cartago Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+180 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 10:46 am
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 05:00 pm

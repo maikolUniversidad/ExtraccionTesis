@@ -1,0 +1,230 @@
+Title: Licitaciones - DICAR - Subasta Inversa PN DICAR SA 018 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680987e43f9387.79262433
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-26 11:52:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE MINUTOS Y/O UNIDADES DE VOZ PARA TELEFONÍA SATELITAL INMARSAT PARA LA DIRECCIÓN DE CARABINEROS Y PROTECCIÓN AMBIENTAL DE LA POLICÍA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+83121700 - Servicios de comunicación masiva
+
+**Códigos adicionales UNSPSC:**
+
+81161700 - Servicios de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida Boyacá No. 142 A-55 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+210 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 200,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81161700, 83121700 | SERVICIOS DE CANAL DE DATOS DICAR | Selección abreviada subasta inversa | Recursos propios | $200.000.000 | DIRECCIÓN DE CARABINEROS Y PROTECCIÓN AMBIENTAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 07:33 pm
+
+**Publicación Estudios Previos:**
+
+24/Abr/2025 - 07:00 am
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Abr/2025 - 07:00 am
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+02/May/2025 - 07:00 am
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+05/May/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+07/May/2025 - 07:00 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/May/2025 - 07:00 am
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+14/May/2025 - 07:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+19/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+19/May/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+27/May/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+29/May/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+30/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2025 - 12:00 pm | 30/Ago/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 pm | 30/Abr/2029 - 12:00 pm |
+| Calidad del servicio | 50,00 | 30/May/2025 - 12:00 pm | 30/Abr/2027 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+27/May/2025 - 09:00 am
+
+**Fecha de inicio:**
+
+27/May/2025 - 10:00 am
+
+**Fecha fin:**
+
+27/May/2025 - 10:30 am

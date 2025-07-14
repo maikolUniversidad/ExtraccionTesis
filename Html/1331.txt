@@ -1,0 +1,335 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL SAN PEDRO DE URABA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bc0f0835321.90861125
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPAL SAN PEDRO DE URABA - Contratación mínima cuantía SMC-022-SGG-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-01 07:06:53
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+DOTACION DE ELEMENTOS DE PAPELERIA Y EQUIPOS TECNOLOGICOS DESTINADOS A LA MESA MUNICIPAL DE VICTIMAS DEL MUNICIPIO DEL MUNICIPIO DE SAN PEDRO DE URABÁ
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : San Pedro De Uraba
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+44121700 - Instrumentos de escritura
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina", "licicodigos": "104,105,127" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CR 50 Nº 52- 114 B/ EL CENTRO San Pedro De Uraba Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 44121700 | DOTACION DE ELEMENTOS DE PAPELERIA Y EQUIPOS TECNOLOGICOS DESTINADOS A LA MESA MUNICIPAL DE VICTIMAS DEL MUNICIPIO DEL MUNICIPIO DE SAN PEDRO DE URABÁ | Mínima cuantía | Recursos propios | $10.000.000 | UNIDAD CONTRATACION MINIMA CUANTIA SPU |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 06:31 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 06:50 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 06:50 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/May/2025 - 06:00 pm | 12/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 27/May/2025 - 06:00 pm | 12/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PUBLIFOT | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 10,000,000
+
+**Informes proceso de selección CO1.AWD.2260607 de 27/May/2025 - 02:23 am. Valor $10.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 09:21 am |  |
+| Informe de selección | 27/May/2025 - 02:23 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260607**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LOGISTICAS Y SOLUCIONES VISIONES FUTURAS PUBLIFOT S.P.U S.A.S * **Tipo documento:** NIT * **Documento:** 901830726 | * **Nombre:** CARLOS ANDRES OSORIO GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1193539171 | - | $10.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260607****
+
+**Contrato SMC-022-SGG-2025 de LOGISTICAS Y SOLUCIONES VISIONES FUTURAS PUBLIFOT S.P.U S.A.S:**
+
+**ID del contrato en SECOP:**
+
+SMC-022-SGG-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+DOTACION DE ELEMENTOS DE PAPELERIA Y EQUIPOS TECNOLOGICOS DESTINADOS A LA MESA MUNICIPAL DE VICTIMAS DEL MUNICIPIO DEL MUNICIPIO DE SAN PEDRO DE URABÁ
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211500 | DOTACION DE ELEMENTOS DE PAPELERIA Y EQUIPOS TECNOLOGICOS DESTINADOS A LA MESA MUNICIPAL DE VICTIMAS DEL MUNICIPIO DEL MUNICIPIO DE SAN PEDRO DE URABA | 1,00 | UN | 10.000.000,00 | 10.000.000,00 | 10.000.000,00 | 10.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+28/May/2025 - 04:00 pm
+
+**Fecha de terminación del contrato:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 10,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CDP.pdf |  |
+|  | COMUNICACION DE ACEPTACION DE OFERTA.pdf |  |
+|  | ESTUDIOS PREVIOS.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACTA DE INICIO.pdf |  |
+|  | CRP.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260607 | Informe de selección CO1.AWD.2260607 | 27/May/2025 - 02:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260607 | Informe de evaluación 1 CO1.AWD.2260607 | 23/May/2025 - 09:21 am |  | - |
+| Avisos | CO1.MSG.7920974 | Publicación de la lista de ofertas del proceso SMC-022-SGG-2025. | 22/May/2025 - 10:18 am |  | - |
+| Avisos | CO1.MSG.7920972 | La lista de oferentes del proceso SMC-022-SGG-2025 publicada por ALCALDIA MUNICIPAL SAN PEDRO DE URABA | 22/May/2025 - 10:17 am |  | - |
+| Avisos | CO1.REQ.8286804 | Publicación modificación | 21/May/2025 - 04:04 pm |  |  |
+| General | CO1.MSG.7916870 | ADENDA MODIFICATORIA No. 1 (LIMITACION A MYPIME) | 21/May/2025 - 03:39 pm |  | - |
+| General | CO1.MSG.7916856 | RE: Solicitud Limitación Mypimes Departamental | 21/May/2025 - 03:38 pm |  | - |
+| General | CO1.MSG.7916838 | RE: Observacion Proceso | 21/May/2025 - 03:37 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:33 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

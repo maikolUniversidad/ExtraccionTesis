@@ -1,0 +1,314 @@
+Title: Licitaciones - ALCALDIA DISTRITAL BARRANCABERMEJA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682528c98e6129.61351981
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:48:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE INSTALACIÓN Y CONFIGURACIÓN DE LICENCIA ANTIVIRUS PARA LOS EQUIPOS DE CÓMPUTO Y SERVIDORES DE LA ALCALDÍA DISTRITAL DE BARRANCABERMEJA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 49 N° 3-61 Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 925,275,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200 | PRESTACIÓN DE SERVICIOS DE INSTALACIÓN Y CONFIGURACIÓN DE LICENCIA ANTIVIRUS PARA LOS EQUIPOS DE CÓMPUTO Y SERVIDORES DE LA ALCALDÍA DISTRITAL DE BARRANCABERMEJA | Selección abreviada menor cuantía | Recursos propios | $122.447.668 | SECRETARIA DE RECURSO FISICO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 06:31 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+21/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+22/May/2025 - 06:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+23/May/2025 - 12:14 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+23/May/2025 - 01:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+23/May/2025 - 01:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+23/May/2025 - 01:00 pm
+
+**Plazo para manifestación de interés:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+26/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+27/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+29/May/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+06/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+06/Jun/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+09/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2025 - 05:00 pm | 08/Ene/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 09/Jun/2025 - 05:00 pm | 08/Jul/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/Jun/2025 - 05:00 pm | 08/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 09/Jun/2025 - 05:00 pm | 08/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BESTEK SAS | Barrancabermeja - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 122,447,500
+
+**Informes proceso de selección CO1.AWD.2267230 de 06/Jun/2025 - 10:42 am. Valor $122.447.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 12:33 pm |  |
+| Informe de evaluación | 30/May/2025 - 12:33 pm |  |
+| Informe de evaluación | 30/May/2025 - 12:33 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 10:33 am |  |
+| Informe de evaluación | 06/Jun/2025 - 10:33 am |  |
+| Informe de evaluación | 06/Jun/2025 - 10:33 am |  |
+| Informe de selección | 06/Jun/2025 - 10:42 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267230**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BESTEK SAS * **Tipo documento:** NIT * **Documento:** 901460806 | * **Nombre:** MARIA ALEJANDRA CRUZ JACOME * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1098661641 | Barrancabermeja - Santander | $122.447.500 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267230****
+
+**Contrato CONTRATO 1738-25 de BESTEK SAS:**
+
+**ID del contrato en SECOP:**
+
+CONTRATO 1738-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+PRESTACIÓN DE SERVICIOS DE INSTALACIÓN Y CONFIGURACIÓN DE LICENCIA ANTIVIRUS PARA LOS EQUIPOS DE CÓMPUTO Y SERVIDORES DE LA ALCALDÍA DISTRITAL DE BARRANCABERMEJA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43233200 | Software de seguridad y protección | 1,00 | UN | 122.447.500,00 | 122.447.500,00 | 122.447.500,00 | 122.447.500,00 |
+
+**Fecha de terminación del contrato:**
+
+09/Jul/2025 - 11:20 pm
+
+**Plazo de ejecución:**
+
+1 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 122,447,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ANEXO CONDICIONES.pdf |  |
+|  | Copia de OFERTA ECONOMICA.xlsx |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267230 | Informe de selección CO1.AWD.2267230 | 06/Jun/2025 - 10:42 am |  | - |
+| Reporte preliminar | CO1.AWD.2267230 | Informe de evaluación 2 CO1.AWD.2267230 | 06/Jun/2025 - 10:33 am |  | - |
+| Avisos | CO1.MSG.7965631 | Publicación de la lista de ofertas del proceso SA-MC-007-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 30/May/2025 - 12:35 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267230 | Informe de evaluación 1 CO1.AWD.2267230 | 30/May/2025 - 12:33 pm |  | - |
+| Avisos | CO1.MSG.7957513 | La lista de oferentes del proceso SA-MC-007-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDIA DISTRITAL BARRANCABERMEJA | 29/May/2025 - 10:17 am |  | - |
+| Aclaraciones | CO1.MSG.7918441 | OBSERVACIONES AL PROYECTO PLIEGO DE CONDICIONES | 21/May/2025 - 05:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7900045 | OBSERVACION ANEXO TECNICO | 19/May/2025 - 10:20 am |  | - |

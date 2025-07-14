@@ -1,0 +1,279 @@
+Title: Licitaciones - EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERES SOCIAL DE BARRANCABERMEJA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68101f92be8c68.83652788
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-10 03:17:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE TINTAS, REPUESTOS ,RECARGA DE TONERS Y MANTENIMIENTO DE FOTOCOPIADORAS E IMPRESORAS DE LA EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERÉS SOCIAL DE BARRANCABERMEJA EDUBA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 48 17 25 Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103100 | SUMINISTRO DE TINTAS, REPUESTOS, RECARGA DE TONERS Y MANTENIMIENTO DE FOTOCOPIADORAS E IMPRESORAS DE LA EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERÉS SOCIAL DE BARRANCABERMEJA "EDUBA | Mínima cuantía | Recursos propios | $25.000.000 | GERENCIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 07:08 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+02/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 08:30 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 08:30 am
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 02:30 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 08/May/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 08/May/2025 - 12:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 31/Dic/2025 - 11:59 pm | 30/Abr/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 02/May/2025 - 04:42 pm | * **Nombre:** JORGE ELIECER ROSALES LARA | Barrancabermeja - Santander |
+| 2 | 02/May/2025 - 04:57 pm | * **Nombre:** BESTEK SAS | Barrancabermeja - Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 25,000,000
+
+**Informes proceso de selección CO1.AWD.2246205 de 09/May/2025 - 04:29 am. Valor $25.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 08:03 am |  |
+| Informe de evaluación | 08/May/2025 - 08:03 am |  |
+| Informe de evaluación | 09/May/2025 - 03:41 pm |  |
+| Informe de selección | 09/May/2025 - 04:29 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246205**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** JORGE ELIECER ROSALES LARA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1096221167 | * **Nombre:** JORGE ELIECER ROSALES LARA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1096221167 | Barrancabermeja - Santander | $25.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246205****
+
+**Contrato CO1.PCCNTR.7863123 de JORGE ELIECER ROSALES LARA:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7863123
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+RECARGA DE TONERS Y MANTENIMIENTO DE FOTOCOPIADORAS E IMPRESORAS DE LA EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERÉS SOCIAL DE BARRANCABERMEJA EDUBA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44103100 | SUMINISTRO DE TINTAS REPUESTOS ,RECARGA DE TONERS Y MANTENIMIENTO DE FOTOCOPIADORAS E IMPRESORAS DE LA EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERÉS SOCIAL DE BARRANCABERMEJA EDUBA | 1,00 | UN | 25.000.000,00 | 25.000.000,00 | 25.000.000,00 | 25.000.000,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+8 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 25,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CONTRATO 045 JORGE ELIECER GONZALEZ.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246205 | Informe de selección CO1.AWD.2246205 | 09/May/2025 - 04:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246205 | Informe de evaluación 2 CO1.AWD.2246205 | 09/May/2025 - 03:41 pm |  | - |
+| Avisos | CO1.MSG.7850270 | Publicación de la lista de ofertas del proceso MC-004-2025. | 08/May/2025 - 08:04 am |  | - |
+| Reporte preliminar | CO1.AWD.2246205 | Informe de evaluación 1 CO1.AWD.2246205 | 08/May/2025 - 08:03 am |  | - |
+| Avisos | CO1.REQ.8179941 | Publicación modificación | 08/May/2025 - 08:01 am |  |  |
+| General | CO1.MSG.7840852 | RE: SOLICITUD DE SUBSANACION | 06/May/2025 - 04:33 pm |  | - |
+| Avisos | CO1.MSG.7828126 | La lista de oferentes del proceso MC-004-2025 publicada por EMPRESA DE DESARROLLO URBANO Y VIVIENDA DE INTERES SOCIAL DE BARRANCABERMEJA | 02/May/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.7819679 | AVISO DE LIMITACION A MIPYMES | 30/Abr/2025 - 02:36 pm |  | - |

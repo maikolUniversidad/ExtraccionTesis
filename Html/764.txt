@@ -1,0 +1,227 @@
+Title: Licitaciones - MUNICIPIO DE SIBATE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68522717b0e838.82100300
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS, BIENES O PRODUCTOS REQUERIDOS PARA DAR RESPUESTA EFECTIVA Y OPORTUNA AL PLAN MUNICIPAL DE GESTIÓN DEL RIESGO ANTESITUACIONES DE DESASTRE Y EMERGENCIAS QUE SE PRESENTEN EN EL MUNICIPIO DE SIBATÉ CUNDINAMARCA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Sibaté
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+42172001 - Kits de primeros auxilios para servicios médicos de emergencia
+
+**Códigos adicionales UNSPSC:**
+
+42172010 - Kits de trauma para servicios médicos de emergencia,43191510 - Radios de dos vías,46181507 - Chalecos de seguridad,46181704 - Cascos de seguridad,49121503 - Carpas,56121201 - Camilla de primeros auxilios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Equipos audiovisuales, -Mobiliario, -Suministro material y/o dispositivos médicos, -Carpas y tarimas", "licicodigos": "110,115,128,190,417" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 10 No. 8-01 Sibaté Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+181 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 42172001, 43191510, 49121503, 46181704, 56121201, 42172010, 46181507 | SUMINISTRO DE ELEMENTOS, BIENES O PRODUCTOS REQUERIDOS PARA DAR RESPUESTA EFECTIVA Y OPORTUNA AL PLAN MUNICIPAL DE GESTIÓN DEL RIESGO ANTE SITUACIONES DE DESASTRE Y EMERGENCIAS QUE SE PRESENTEN EN EL MUNICIPIO DE SIBATÉ CUNDINAMARCA | Mínima cuantía | Recursos propios | $39.858.000 | CONTRATACIÓN-SECRETRIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 09:23 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 06:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+20/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/Jul/2025 - 12:00 pm | 30/Abr/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,858,000
+
+**Informes proceso de selección CO1.AWD.2292902 de 01/Jul/2025 - 09:39 am. Valor $39.858.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 09:01 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 09:01 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 09:01 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:39 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:39 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292902 | Informe de selección CO1.AWD.2292902 | 01/Jul/2025 - 09:39 pm |  | - |
+| Objeciones | CO1.MSG.8092789 | [Respondido] RE:SUBSANACION AL PROCESO DE INVITACION | 01/Jul/2025 - 09:38 pm |  | - |
+| Objeciones | CO1.MSG.8094902 | [Respondido] RE:SUBSANACIÓN DOCUMENTOS | 01/Jul/2025 - 09:38 pm |  | - |
+| Objeciones | CO1.MSG.8094902 | SUBSANACIÓN DOCUMENTOS | 27/Jun/2025 - 04:12 pm |  | - |
+| Objeciones | CO1.MSG.8092789 | SUBSANACION AL PROCESO DE INVITACION | 27/Jun/2025 - 11:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2292902 | Informe de evaluación 1 CO1.AWD.2292902 | 26/Jun/2025 - 09:01 pm |  | - |
+| General | CO1.MSG.8090652 | RESPUESTA A OBSERVACIONES | 26/Jun/2025 - 08:59 pm |  | - |
+| Avisos | CO1.MSG.8078583 | Publicación de la lista de ofertas del proceso MIC-SP-003-2025. | 25/Jun/2025 - 10:46 am |  | - |
+| Avisos | CO1.MSG.8078579 | La lista de oferentes del proceso MIC-SP-003-2025 publicada por MUNICIPIO DE SIBATE | 25/Jun/2025 - 10:45 am |  | - |
+| Aclaraciones | CO1.MSG.8066513 | RE: SOLICITUD | 20/Jun/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.8066493 | RESPUESTAS A OBSERVACIONES. | 20/Jun/2025 - 03:34 pm |  | - |
+| General | CO1.MSG.8066423 | Respuesta a Limitación Mypimes. | 20/Jun/2025 - 03:33 pm |  | - |
+| Aclaraciones | CO1.MSG.8050525 | SOLICITUD | 18/Jun/2025 - 11:47 am |  | - |

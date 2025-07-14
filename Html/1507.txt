@@ -1,0 +1,200 @@
+Title: Licitaciones - AGENCIA DE RENOVACION DEL TERRITORIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685458bdabf770.76975654
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-19 13:37:57
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Enajenación de bienes con subasta
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Enajenación a título oneroso de bienes muebles de propiedad de la Agencia de Renovación del Territorio, de acuerdo con recomendación de los miembros del Comité de Evaluación de Bienes.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211508 - Computadores personales
+
+**Códigos adicionales UNSPSC:**
+
+43191504 - Teléfonos fijos,43211711 - Escáneres,40101701 - Aires acondicionados,46171610 - Cámaras de seguridad,43201503 - Procesadores de unidad de procesamiento central cpu,52141526 - Cafeteras para uso doméstico,56112104 - Sillas para ejecutivos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 32-24, Torre Sur piso 38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+CONFORME CON LO ESTABLECIDO EN EL ESTUDIO PREVIO Y EL PLIEGO DE CONDICIONES.
+
+**Tipo de contrato:**
+
+Venta muebles
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 01:26 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 05:00 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+11/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+15/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jul/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jul/2025 - 03:10 pm
+
+**Apertura del sobre económico:**
+
+18/Jul/2025 - 03:15 pm
+
+**Informe de presentación de Ofertas:**
+
+18/Jul/2025 - 03:20 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/Jul/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jul/2025 - 11:59 pm
+
+**Audiencia de Adjudicación:**
+
+28/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+29/Jul/2025 - 03:00 pm
+
+**Firma del Contrato:**
+
+30/Jul/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Anticipos:**
+
+No
+
+**Comprobante de consignación:**
+
+No
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+28/Jul/2025 - 10:30 am
+
+**Fecha de inicio:**
+
+28/Jul/2025 - 11:00 am
+
+**Fecha fin:**
+
+28/Jul/2025 - 11:20 am

@@ -1,0 +1,242 @@
+Title: Licitaciones - ALCALDIA DE MALAMBO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68347dfa81df89.82497584
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:50:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO Y RECARGA DE TÓNER, CARTUCHO Y TINTAS, MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LAS IMPRESORAS EXISTENTES EN LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE MALAMBO - ATLÁNTICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Malambo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44103105 - Cartuchos de tinta,81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 17 N 11-12 Malambo Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 09:31 am
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+26/May/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 10:05 am
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 10:05 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 05:10 pm
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 05:15 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 05:15 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 10:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 03/Jun/2025 - 04:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jun/2025 - 05:00 pm | 30/Abr/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 50,000,000
+
+**Informes proceso de selección CO1.AWD.2266274 de 05/Jun/2025 - 12:02 pm. Valor $50.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 05:18 pm |  |
+| Informe de selección | 05/Jun/2025 - 12:02 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266274**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DISTRIBUCIONES NAMA SAS * **Tipo documento:** NIT * **Documento:** 901618415 | * **Nombre:** HUGO MARTINEZ PANTOJA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 72257030 | Barranquilla - Atlántico | $50.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266274****
+
+**ID del contrato en SECOP:**
+
+MM-MC-2025-008
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 50,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266274 | Informe de selección CO1.AWD.2266274 | 05/Jun/2025 - 12:02 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266274 | Informe de evaluación 1 CO1.AWD.2266274 | 29/May/2025 - 05:18 pm |  | - |
+| Avisos | CO1.MSG.7954446 | La lista de oferentes del proceso MM-MC-2025-008 publicada por ALCALDIA DE MALAMBO | 28/May/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.7946833 | aviso | 27/May/2025 - 05:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7946784 | PESPUESTA A OBSERVACIONES | 27/May/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7937694 | Observación requisitos habilitantes. | 26/May/2025 - 03:09 pm |  | - |

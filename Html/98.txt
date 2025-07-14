@@ -1,0 +1,298 @@
+Title: Licitaciones - DILOF - Subasta Inversa PN DILOF SA 168 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682532fa06d1d7.69677346
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE MONITORES DE COMUNICACIONES PA-RA LA POLICÍA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41113700 - Instrumentos de medición y comprobación de comunicación electrónica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+carrera 59 No. 26-21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,120,010,320
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 41113700 | ADQUISICIÓN DE MONITORES DE COMUNICACIONES PARA LA POLICÍA NACIONAL | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $1.120.010.320 | Dirección Logística y Financiera |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 06:54 pm
+
+**Publicación Estudios Previos:**
+
+14/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 10:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 08:53 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+10/Jun/2025 - 07:01 pm
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 07:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+08/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+11/Jul/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 11:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+17/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 11:59 pm | 02/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 11:59 pm | 02/Oct/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 04/Jul/2025 - 11:59 pm | 04/Jul/2028 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,120,000,000
+
+**Informes proceso de selección CO1.AWD.2280704 de 08/Jul/2025 - 07:44 am. Valor $1.120.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 07:43 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 07:43 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 07:43 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 10:33 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 10:33 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 01:44 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 01:49 pm |  |
+| Informe de selección | 08/Jul/2025 - 07:44 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+25/Jun/2025 - 02:30 pm
+
+**Fecha de inicio:**
+
+25/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+25/Jun/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2280704 | Informe de selección CO1.AWD.2280704 | 08/Jul/2025 - 07:44 pm |  | - |
+| Objeciones | CO1.MSG.8069793 | [Respondido] RE:Obs Informe de Evaluacion - UNION TEMPORAL MONITORES 2025 | 08/Jul/2025 - 04:20 pm |  | - |
+| Objeciones | CO1.MSG.8055631 | [Respondido] RE:Observaciones Informe de Evaluacion - UNION TEMPORAL MONITORES 2025 | 08/Jul/2025 - 04:20 pm |  | - |
+| General | CO1.MSG.8133605 | GS-2025-001919-JENAR Aclaración respuesta precios artificialmente bajos comité económico | 08/Jul/2025 - 10:46 am |  | - |
+| General | CO1.MSG.8131358 | Respuesta precios artificialmente bajos | 07/Jul/2025 - 07:27 pm |  | - |
+| General | CO1.MSG.8131354 | RE: RE V_Final: aclaración - solicitud de ampliación de cantidades contratadas con base en el remanente presupuestal. Requerimiento respuesta | 07/Jul/2025 - 07:21 pm |  | - |
+| General | CO1.MSG.8131346 | RE: RE: aclaración - solicitud de ampliación de cantidades contratadas con base en el remanente presupuestal. Requerimiento respuesta | 07/Jul/2025 - 07:20 pm |  | - |
+| General | CO1.MSG.8126505 | aclaración - solicitud de ampliación de cantidades contratadas con base en el remanente presupuestal. Requerimiento respuesta | 07/Jul/2025 - 10:30 am |  | - |
+| General | CO1.MSG.8125462 | Reiteración - Solicitud aclaración precios artificialmente bajos | 07/Jul/2025 - 08:42 am |  | - |
+| General | CO1.MSG.8124539 | Solicitud ampliación de cantidades - termino de respuesta | 05/Jul/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.8124537 | Solicitud aclaración precios artificialmente bajos - termino para dar respuesta | 05/Jul/2025 - 03:21 pm |  | - |
+| General | CO1.MSG.8124535 | Solicitud aclaración precios artificialmente bajos | 05/Jul/2025 - 03:16 pm |  | - |
+| General | CO1.MSG.8124533 | Informe resultado de la subasta | 05/Jul/2025 - 03:12 pm |  | - |
+| General | CO1.MSG.8124531 | Respuesta a observaciones | 05/Jul/2025 - 03:09 pm |  | - |
+| General | CO1.MSG.8124530 | RE: Respuesta OBSERVACION SUBASTA INVERSA | 05/Jul/2025 - 03:08 pm |  | - |
+| General | CO1.MSG.8124527 | RE: observacion SUMINCOL RE: LANCE MÍNIMO VÁLIDO | 05/Jul/2025 - 03:07 pm |  | - |
+| General | CO1.MSG.8117234 | ADENDA No.2 | 03/Jul/2025 - 07:18 pm |  | - |
+| Avisos | CO1.REQ.8336787 | Publicación modificación | 03/Jul/2025 - 06:59 pm |  |  |
+| General | CO1.MSG.8088761 | Reanuación Subasta | 26/Jun/2025 - 04:29 pm |  | - |
+| General | CO1.MSG.8082370 | AVISO | 25/Jun/2025 - 05:32 pm |  | - |
+| General | CO1.MSG.8080499 | LANCE MÍNIMO VÁLIDO | 25/Jun/2025 - 02:57 pm |  | - |
+| Avisos | CO1.MSG.8080493 | Publicación de la lista de ofertas del proceso PN DILOF SA 168 2025 (Presentación de oferta). | 25/Jun/2025 - 02:53 pm |  | - |
+| Avisos | CO1.MSG.8080487 | La lista de oferentes del proceso PN DILOF SA 168 2025 (Presentación de oferta) publicada por DILOF | 25/Jun/2025 - 02:52 pm |  | - |
+| General | CO1.MSG.8080192 | OFERENTES HABILITADOS | 25/Jun/2025 - 02:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280704 | Informe de evaluación 4 CO1.AWD.2280704 | 25/Jun/2025 - 01:49 pm |  | - |
+| General | CO1.MSG.8079901 | Respuesta Observaciones SUMINCOL S.A.S. | 25/Jun/2025 - 01:45 pm |  | - |
+| General | CO1.MSG.8079891 | Respuesta Observaciones UNION TEMPORAL MONITORES 2025 | 25/Jun/2025 - 01:42 pm |  | - |
+| General | CO1.MSG.8079806 | Adenda No. 01 Firmada | 25/Jun/2025 - 01:30 pm |  | - |
+| Objeciones | CO1.MSG.8069793 | Obs Informe de Evaluacion - UNION TEMPORAL MONITORES 2025 | 23/Jun/2025 - 09:42 pm |  | - |
+| Avisos | CO1.REQ.8336787 | Publicación modificación | 20/Jun/2025 - 02:30 pm |  |  |

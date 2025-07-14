@@ -1,0 +1,90 @@
+Title: Licitaciones - CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a8140f2a0b7.55596788
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:31:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+La Caja de Sueldos de Retiro de la Policía Nacional (CASUR) se complace en comunicar su interés en la contratación de la adquisición de licencias antivirus, con vigencia 1 año
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 NRO 12B-58 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 04:22 pm
+
+**Plazo para solicitar aclaraciones:**
+
+07/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+08/May/2025 - 06:00 pm

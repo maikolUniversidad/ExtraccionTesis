@@ -1,0 +1,94 @@
+Title: Licitaciones - DEFENSORÍA DEL PUEBLO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851a07a9b08b9.72956338
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:17:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Realizar el diagnóstico de las fuentes y sistemas de análisis de información con las que cuenta la Defensoría del Pueblo, así como las fuentes de información externas, que permitan impartir las recomendaciones dirigidas al diseño, e implementación de un modelo de monitoreo de ruido digital, paracrisis, crisis mapeo social y análisis estructural de contenidos, que afecten los derechos fundamentales y derechos humanos
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101504 - Servicios de asesoramiento sobre planificación estratégica
+
+**Códigos adicionales UNSPSC:**
+
+80101507 - Servicios de asesoramiento sobre tecnologías de la información,82111902 - Servicios de boletines informativos de interés especial,86131504 - Estudios de medios de comunicación,43222634 - Dispositivo de monitoreo o manejo de redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de obras de telecomunicaciones, -Monitoreo medios de comunicación", "licicodigos": "101,327" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 55 Cra 10-32 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:47 am
+
+**Plazo para solicitar aclaraciones:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 12:00 pm

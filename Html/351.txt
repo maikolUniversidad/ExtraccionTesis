@@ -1,0 +1,239 @@
+Title: Licitaciones - UNIVERSIDAD PEDAGÓGICA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68350ebd172e93.32885920
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-03 17:06:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LAS TABLETS NECESARIAS PARA LA EJECUCIÓN DEL PROYECTO SAR 10824 BARRISMO SOCIAL AGUANTE POPULAR POR LA VIDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211509 - Computadores de tableta
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16A # 79-08 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500 | SAE-591Adquirir las tablets necesarias para la ejecución del proyecto SAR 10824 "Barrismo social "Aguante Popular por la Vida"" | Licitación pública | NotApplied | $174.000.000 | GRUPO DE CONTRATACION UNIVERSIDAD PEDAGOGICA NACIONAL |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+26/May/2025 - 06:41 pm
+
+**Fecha límite de presentación de ofertas:**
+
+30/May/2025 - 05:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+30/May/2025 - 05:10 pm
+
+**Fecha de Firma del Contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+10/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 11/Jun/2025 - 12:00 pm | 11/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 11/Jun/2025 - 12:00 pm | 11/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SEMCAR SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 144,922,500
+
+**Informes proceso de selección CO1.AWD.2272208 de 10/Jun/2025 - 05:09 am. Valor $144.922.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 06:33 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:58 pm |  |
+| Informe de selección | 10/Jun/2025 - 05:09 pm |  |
+| Informe de selección | 10/Jun/2025 - 05:09 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2272208**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA SEMCAR SAS * **Tipo documento:** NIT * **Documento:** 900502917 | * **Nombre:** Juana Maria Zuleta Sandoval * **Tipo documento:** NIT * **Documento:** 40334052 | - Distrito Capital de Bogotá | $144.922.500 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2272208****
+
+**ID del contrato en SECOP:**
+
+UPN-CTO-875-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+12/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 144,922,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2272208 | Informe de selección CO1.AWD.2272208 | 10/Jun/2025 - 05:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272208 | Informe de evaluación 2 CO1.AWD.2272208 | 09/Jun/2025 - 05:58 pm |  | - |
+| Objeciones | CO1.MSG.7988814 | [Respondido] RE:OBSERVACION | 09/Jun/2025 - 05:41 pm |  | - |
+| Objeciones | CO1.MSG.7988829 | [Respondido] RE:Respuesta al Informe de evaluacion | 09/Jun/2025 - 05:41 pm |  | - |
+| General | CO1.MSG.8003803 | RESPUESTA A OBSERVACIONES DEL INFORME DE EVALUACION | 09/Jun/2025 - 05:40 pm |  | - |
+| Objeciones | CO1.MSG.7988814 | OBSERVACION | 05/Jun/2025 - 03:33 pm |  | - |
+| Objeciones | CO1.MSG.7988829 | Respuesta al Informe de evaluacion | 05/Jun/2025 - 03:33 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272208 | Informe de evaluación 1 CO1.AWD.2272208 | 04/Jun/2025 - 06:33 pm |  | - |
+| Avisos | CO1.MSG.7983742 | Publicación de la lista de ofertas del proceso UPN-VGU-IC-006-2025. | 04/Jun/2025 - 06:33 pm |  | - |
+| Avisos | CO1.MSG.7983734 | La lista de oferentes del proceso UPN-VGU-IC-006-2025 publicada por UNIVERSIDAD PEDAGÓGICA NACIONAL | 04/Jun/2025 - 06:32 pm |  | - |
+| General | CO1.MSG.7980816 | justificacion de precios | 04/Jun/2025 - 02:38 pm |  | - |
+| General | CO1.MSG.7980487 | Semcar subsanación informe preliminar de evaluación | 04/Jun/2025 - 02:16 pm |  | - |
+| General | CO1.MSG.7980476 | subsanacion serlecom final | 04/Jun/2025 - 02:05 pm |  | - |
+| General | CO1.MSG.7980030 | Subsanación componente juridico 2 | 04/Jun/2025 - 12:57 pm |  | - |
+| General | CO1.MSG.7979749 | Subsanación componente juridico | 04/Jun/2025 - 12:28 pm |  | - |
+| General | CO1.MSG.7979794 | ACLARACION DE PRECIOS | 04/Jun/2025 - 12:18 pm |  | - |
+| General | CO1.MSG.7979667 | RESPUESTA SUBSANACION JURIDICA PCL | 04/Jun/2025 - 12:07 pm |  | - |
+| General | CO1.MSG.7979634 | RESPUESTA SOLICITUD SUBSANACION COMPONENTE JURIDICO | 04/Jun/2025 - 12:00 pm |  | - |
+| General | CO1.MSG.7979587 | RE: SOLICITUD SUBSANACION COMPONENTE JURIDICO | 04/Jun/2025 - 11:54 am |  | - |
+| General | CO1.MSG.7979506 | subsanacion serlecom final | 04/Jun/2025 - 11:45 am |  | - |
+| General | CO1.MSG.7979014 | RE: SOLICITUD SUBSANACION COMPONENTE JURIDICO MULTITINTAS INK SAS | 04/Jun/2025 - 10:55 am |  | - |
+| General | CO1.MSG.7977912 | Semcar subsanación informe preliminar de evaluación | 04/Jun/2025 - 09:11 am |  | - |
+| General | CO1.MSG.7977506 | RE: SOLICITUD SUBSANACION COMPONENTE JURIDICO | 04/Jun/2025 - 08:18 am |  | - |
+| General | CO1.MSG.7977394 | RE: SOLICITUD SUBSANACION COMPONENTE JURIDICO | 04/Jun/2025 - 08:04 am |  | - |
+| General | CO1.MSG.7975225 | RE: SOLICITUD SUBSANACION COMPONENTE FINANCIERO | 04/Jun/2025 - 08:01 am |  | - |
+| General | CO1.MSG.7977299 | SUBSANACION | 04/Jun/2025 - 07:45 am |  | - |
+| General | CO1.MSG.7977199 | SUBSANACION | 04/Jun/2025 - 07:02 am |  | - |
+| General | CO1.MSG.7976875 | SOLICITUD SUBSANACION COMPONENTE JURIDICO | 03/Jun/2025 - 09:52 pm |  | - |
+| Avisos | CO1.REQ.8323467 | Publicación modificación | 03/Jun/2025 - 06:07 pm |  |  |
+| General | CO1.MSG.7973504 | RE: RE: SOLICITUD SUBSANACION COMPONENTE FINANCIERO | 03/Jun/2025 - 01:48 pm |  | - |

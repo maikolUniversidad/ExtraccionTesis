@@ -1,0 +1,352 @@
+Title: Licitaciones - UNP - Subasta Inversa SASI-UNP-043-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bbb2f360b01.03587639
+
+Markdown Content:
+Licitaciones - UNP - Subasta Inversa SASI-UNP-043-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 06:35:18
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR EL SUMINISTRO DE ÚTILES DE OFICINA Y ESCRITORIO, DERIVADOS DEL PAPEL, CARTÓN Y CORRUGADOS Y CONSUMIBLES DE IMPRESIÓN PARA LA UNIDAD NACIONAL DE PROTECCIÓN UNP.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44121500 - Suministros de correo
+
+**Códigos adicionales UNSPSC:**
+14111507 - Papel para impresora o fotocopiadora,14111514 - Blocs o cuadernos de papel,44103103 - Tóner para impresoras o fax,44103105 - Cartuchos de tinta,44103109 - Tambores para impresoras o faxes o fotocopiadoras,44103110 - Cabezales de impresión,44103112 - Cinta de impresora,44103116 - Kit para impresora,44103120 - Recolectores de tóner,44103125 - Kit de mantenimiento de impresoras,14121503 - Cartón,24141501 - Película elástica para envoltura,44111515 - Cajas u organizadores de almacenamiento de archivos,44111905 - Tableros de borrado en seco o accesorios,44111914 - Tabla de soporte para escribir,44121503 - Sobres,44121605 - Dispensadores de cinta,44121612 - Cortadoras de papel o repuestos,44121613 - Removedores de grapas (saca ganchos),44121615 - Grapadoras,44121618 - Tijeras,44121619 - Tajalápices manuales,44121621 - Almohadillas para escritorio o sus accesorios,44121636 - Tajalápices eléctricos,44121701 - Bolígrafos,44121706 - Lápices de madera,44121708 - Marcadores,44121716 - Resaltadores,44121804 - Borradores,44122003 - Carpetas,44122101 - Cauchos,44122104 - Clips para papel,44122107 - Grapas,44101706 - Unidades de fotoconductores o imágenes
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Productos de cartón, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,200,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 63 # 14 - 97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 1,267,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121500, 44121600, 44121700, 44121800, 44121900, 44122000, 44122100, 44103100 | 4000/253 Contratar el suministro de útiles de oficina y escritorio, derivados del papel, cartón y corrugados y consumibles de impresión para la Unidad Nacional de Protección Social UNP | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $1.267.500.000 | CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 05:42 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jun/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 07:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 08:54 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 11:01 am
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 11:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+24/Jun/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+25/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 08:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+01/Jul/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 03:40 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 2 | - | * **Nombre:** GESCOM SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,267,135,000
+
+**Informes proceso de selección CO1.AWD.2283754 de 27/Jun/2025 - 01:03 am. Valor $1.267.135.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 17/Jun/2025 - 06:12 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 06:12 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 06:12 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 08:55 am |  |
+| Informe de evaluación | 24/Jun/2025 - 08:55 am |  |
+| Informe de evaluación | 24/Jun/2025 - 02:55 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 02:55 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 02:55 pm |  |
+| Informe de selección | 27/Jun/2025 - 01:03 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+24/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+24/Jun/2025 - 02:30 pm
+
+**Fecha fin:**
+24/Jun/2025 - 02:50 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8107407 | RESPUESTA OBSERVACIONES A RESOLUCION DE ADJUDICACION | 02/Jul/2025 - 02:19 pm |  | - |
+| Reporte final | CO1.AWD.2283754 | Informe de selección CO1.AWD.2283754 | 27/Jun/2025 - 01:03 pm |  | - |
+| Objeciones | CO1.MSG.8053764 | [Respondido] RE:SUBSANACION VENEPLAST | 27/Jun/2025 - 01:02 pm |  | - |
+| Objeciones | CO1.MSG.8055099 | [Respondido] RE:SUBSANACION INFORME DE EVALUACION 1 | 27/Jun/2025 - 01:02 pm |  | - |
+| Objeciones | CO1.MSG.8067540 | [Respondido] RE:SUBSANACION OTROS ANEXOS DE DESEMPATE | 27/Jun/2025 - 01:02 pm |  | - |
+| Objeciones | CO1.MSG.8057328 | [Respondido] RE:SUBSANANIO MOJICA | 27/Jun/2025 - 01:02 pm |  | - |
+| Objeciones | CO1.MSG.8063102 | [Respondido] RE:SUBSANACION | 27/Jun/2025 - 01:02 pm |  | - |
+| General | CO1.MSG.8092714 | RESPUESTA AJUSTE DE OFERTAS | 27/Jun/2025 - 11:25 am |  | - |
+| General | CO1.MSG.8092616 | PUBLICACIÓN RESPUESTAS PRECIOS ARTIFICIALMENTE BAJOS | 27/Jun/2025 - 11:19 am |  | - |
+| General | CO1.MSG.8086242 | RE: OBSERVACION SUBASTA | 26/Jun/2025 - 11:36 am |  | - |
+| General | CO1.MSG.8083705 | OFERTA ECONOMICA AJUSTADA | 25/Jun/2025 - 09:43 pm |  | - |
+| General | CO1.MSG.8083312 | AJUSTE Y ACTUALIZACION DE PRECIOS LOTE 2 - gescom sas | 25/Jun/2025 - 07:27 pm |  | - |
+| General | CO1.MSG.8080875 | AJUSTE Y ACTUALIZACION DE PRECIOS LOTE 1 Y LOTE 2 | 25/Jun/2025 - 03:30 pm |  | - |
+| General | CO1.MSG.8080768 | RE: OBSERVACION SUBASTA SASI-UNP-043-2025 | 25/Jun/2025 - 03:22 pm |  | - |
+| General | CO1.MSG.8078217 | RE: OBSERVACION OFERTAS PROPONENTE | 25/Jun/2025 - 10:17 am |  | - |
+| General | CO1.MSG.8075940 | RE: OBSERVACION SUBASTA SASI-UNP-043-2025 | 24/Jun/2025 - 06:38 pm |  | - |
+| Avisos | CO1.MSG.8075907 | Publicación de la lista de ofertas del proceso SASI-UNP-043-2025 (Presentación de oferta). | 24/Jun/2025 - 06:32 pm |  | - |
+| Avisos | CO1.MSG.8075897 | La lista de oferentes del proceso SASI-UNP-043-2025 (Presentación de oferta) publicada por UNP | 24/Jun/2025 - 06:30 pm |  | - |
+| General | CO1.MSG.8075744 | OBSERVACION SUBASTA SASI-UNP-043-2025 | 24/Jun/2025 - 06:23 pm |  | - |
+| General | CO1.MSG.8074533 | REQUERIMIENTOS POR PRECIOS ARTIFICIALMENTE BAJOS LOTE 1 Y LOTE 2 | 24/Jun/2025 - 04:40 pm |  | - |
+| General | CO1.MSG.8073525 | RE: Observación a evaluación | 24/Jun/2025 - 03:13 pm |  | - |
+| General | CO1.MSG.8073438 | HORA SUBASTA LOTE 2 | 24/Jun/2025 - 03:06 pm |  | - |
+| General | CO1.MSG.8073347 | HORA SUBASTA LOTE 1 | 24/Jun/2025 - 02:58 pm |  | - |
+| Reporte preliminar | CO1.AWD.2283754 | Informe de evaluación 3 CO1.AWD.2283754 | 24/Jun/2025 - 02:55 pm |  | - |
+| General | CO1.MSG.8073247 | RE: SOLICITUD DE INFORMACIÓN HORA DE LA SUBASTA | 24/Jun/2025 - 02:48 pm |  | - |
+| General | CO1.MSG.8071971 | RE: SOLICITUD INFORMAR HORA SUBASTA LOTE 2 | 24/Jun/2025 - 11:54 am |  | - |
+| General | CO1.MSG.8071951 | RE: RE: NUEVA HORA DEL EVENTO DE SUBASTA | 24/Jun/2025 - 11:40 am |  | - |
+| General | CO1.MSG.8071920 | urgente observacion evaluacion tecnica | 24/Jun/2025 - 11:39 am |  | - |
+| General | CO1.MSG.8071605 | NUEVA HORA DEL EVENTO DE SUBASTA | 24/Jun/2025 - 11:06 am |  | - |
+| Avisos | CO1.REQ.8365605 | Publicación modificación | 24/Jun/2025 - 11:02 am |  |  |
+
+Ver más
+
+×Close
+
+#### Mis notas
+
+Hoy 8:40 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

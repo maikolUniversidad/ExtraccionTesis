@@ -1,0 +1,310 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681ea6615a7427.53387087
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 06:32:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE REPUESTOS Y SERVICIOS DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL EQUIPO COMPUTO Y COMUNICACIONES, PARA LA CENAC DE EDUCACIÓN Y SUS UNIDADES CENTRALIZADAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Códigos adicionales UNSPSC:**
+
+56112003 - Accesorios de almacenamiento de soporte para computadores,56112005 - Partes o accesorios de soporte para computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "102,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+180 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 7 no. 106-01 cantón Norte, Bogotá, D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+350 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 07:44 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+16/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+20/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+21/May/2025 - 08:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+26/May/2025 - 10:44 am
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+26/May/2025 - 11:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés:**
+
+28/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+30/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/Jun/2025 - 08:00 am
+
+**Apertura de Ofertas:**
+
+05/Jun/2025 - 08:01 am
+
+**Informe de presentación de Ofertas:**
+
+05/Jun/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+11/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+20/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+24/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 07:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+25/Jun/2025 - 07:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 18/Jun/2025 - 07:00 am | 05/Dic/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 18/Jun/2025 - 07:00 am | 09/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 30,00 | 18/Jun/2025 - 07:00 am | 05/Dic/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 18/Jun/2025 - 07:00 am | 05/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** T&S COMP TECNOLOGIA y SERVICIOS S.A.S | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 170,025,760
+
+**Informes proceso de selección CO1.AWD.2278101 de 24/Jun/2025 - 09:26 am. Valor $170.025.760**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 11/Jun/2025 - 06:39 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 06:39 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 06:39 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 06:39 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 07:45 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 07:45 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 07:45 pm |  |
+| Informe de selección | 24/Jun/2025 - 09:26 am |  |
+| Informe de selección | 24/Jun/2025 - 09:26 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2278101**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** T&S COMP TECNOLOGIA y SERVICIOS S.A.S * **Tipo documento:** NIT * **Documento:** 830080498 | * **Nombre:** Andrea Alexandra Castillo Carvajal * **Tipo documento:** NIT * **Documento:** 52148717 | Bogotá - Distrito Capital de Bogotá | $170.025.760 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2278101****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8007227
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+05/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 170,025,760
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2278101 | Informe de selección CO1.AWD.2278101 | 24/Jun/2025 - 09:26 am |  | - |
+| Objeciones | CO1.MSG.8059241 | [Respondido] RE:solicitud | 24/Jun/2025 - 09:25 am |  | - |
+| Objeciones | CO1.MSG.8037478 | [Respondido] RE:subsanacion | 24/Jun/2025 - 09:25 am |  | - |
+| Objeciones | CO1.MSG.8019273 | [Respondido] RE:SOLICITUD | 24/Jun/2025 - 09:25 am |  | - |
+| General | CO1.MSG.8064746 | RESPUESTA A OBSERVACIONES A LAS REEVALUACIONES | 20/Jun/2025 - 11:51 am |  | - |
+| General | CO1.MSG.8059271 | solicitud a la entidad | 19/Jun/2025 - 02:58 pm |  | - |
+| Objeciones | CO1.MSG.8059241 | solicitud | 19/Jun/2025 - 02:57 pm |  | - |
+| General | CO1.MSG.8058634 | OBSERVACION ASPECTO ECONOMICO A PROPONENTE T&S | 19/Jun/2025 - 01:41 pm |  | - |
+| General | CO1.MSG.8058009 | Observación urgente informe de evaluación | 19/Jun/2025 - 11:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2278101 | Informe de evaluación 2 CO1.AWD.2278101 | 18/Jun/2025 - 07:45 pm |  | - |
+| General | CO1.MSG.8038635 | SUBSANACION Y DOCUMENTOS FIX | 16/Jun/2025 - 04:42 pm |  | - |
+| General | CO1.MSG.8038696 | OBSERVACION A INFORME DE EVALUACION | 16/Jun/2025 - 04:32 pm |  | - |
+| Objeciones | CO1.MSG.8037478 | subsanacion | 16/Jun/2025 - 02:48 pm |  | - |
+| General | CO1.MSG.8034838 | subsanacion | 16/Jun/2025 - 12:17 pm |  | - |
+| General | CO1.MSG.8034398 | SUBSANACION | 16/Jun/2025 - 08:18 am |  | - |
+| General | CO1.MSG.8024515 | Subsanación T&S COMP | 12/Jun/2025 - 04:19 pm |  | - |
+| General | CO1.MSG.8022246 | SUBSANACION - CORBAN COMPUTADORES | 12/Jun/2025 - 12:05 pm |  | - |
+| Objeciones | CO1.MSG.8019273 | SOLICITUD | 11/Jun/2025 - 09:35 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278101 | Informe de evaluación 1 CO1.AWD.2278101 | 11/Jun/2025 - 06:39 pm |  | - |
+| General | CO1.MSG.8018663 | ADENDA NO. 2 | 11/Jun/2025 - 06:38 pm |  | - |
+| Avisos | CO1.REQ.8337183 | Publicación modificación | 11/Jun/2025 - 06:32 pm |  |  |
+| Avisos | CO1.MSG.7985565 | Publicación de la lista de ofertas del proceso 412-CENACEDUCACIÓN-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 05/Jun/2025 - 09:32 am |  | - |
+| Avisos | CO1.MSG.7985524 | La lista de oferentes del proceso 412-CENACEDUCACIÓN-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN// | 05/Jun/2025 - 09:28 am |  | - |
+| Avisos | CO1.REQ.8337183 | Publicación modificación | 03/Jun/2025 - 09:20 am |  |  |
+| General | CO1.MSG.7970156 | FORMULARIO PREGUNTAS Y RESPUESTAS | 01/Jun/2025 - 07:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7943271 | Solicitud de Aclaracion Formato | 27/May/2025 - 11:33 am |  | - |
+| Aclaraciones | CO1.MSG.7928755 | RE: OBSERVACION | 23/May/2025 - 11:38 am |  | - |
+| Aclaraciones | CO1.MSG.7873417 | OBSERVACION | 13/May/2025 - 12:09 pm |  | - |

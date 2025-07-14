@@ -1,0 +1,255 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b6eb06fe222.61808195
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:41:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir los derechos de actualización, soporte, mantenimiento preventivo y los correctivos necesarios para garantizar la operación TI de la plataforma Hewllet Packard y la actualización y soporte del software de backup Data Protector que hace parte de la Superintendencia Financiera de Colombia.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 705,288,610
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | Actualización plataforma servidores HP y renovación Dataprotector | Selección abreviada subasta inversa | Recursos propios | $705.288.610 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 07:10 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 08:04 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 10:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+14/Jul/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/Jul/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+15/Jul/2025 - 04:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+15/Jul/2025 - 04:02 pm
+
+**Informe de presentación de Ofertas:**
+
+15/Jul/2025 - 04:05 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+22/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+30/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Ago/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+06/Ago/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Ago/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Ago/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:09 pm | 12/Jul/2025 - 04:09 pm |
+| Calidad y correcto funcionamiento de los bienes |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+30/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+30/Jul/2025 - 10:15 am
+
+**Fecha fin:**
+
+30/Jul/2025 - 10:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8145089 | Observaciones a Definitivos. | 09/Jul/2025 - 06:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8145514 | Observación Pliego de Condiciones | 09/Jul/2025 - 06:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8061176 | Observaciones a prepliegos | 19/Jun/2025 - 05:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8060256 | Observaciones Sinergy & Lowells S.A.S | 19/Jun/2025 - 04:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8060238 | Observaciones a prepliegos | 19/Jun/2025 - 04:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8059683 | OBSERVACIONES PREPLIEGO | 19/Jun/2025 - 03:56 pm |  | - |
+| Aclaraciones | CO1.MSG.8058911 | Observaciones Borrador Pliego de Condiciones | 19/Jun/2025 - 02:30 pm |  | - |

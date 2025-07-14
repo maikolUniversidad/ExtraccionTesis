@@ -1,0 +1,324 @@
+Title: Licitaciones - SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR - Subasta Inversa SSF-SI-001 DE 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6812adb23d6326.76165747
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:31:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LA RENOVACIÓN Y SOPORTE DEL HARDWARE Y HERRAMIENTAS TECNOLÓGICAS QUE SOPORTAN LA INFRAESTRUCTURA FÍSICA DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR-212
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111508 - Servicios de implementación de aplicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 69 # 25 B - 44 Pisos 3, 4 y 7 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+160 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 140,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111500, 81111508, 81112300 | (ID: OTIC-212) PI: MEJORAMIENTO DEL ECOSISTEMA TECNOLÓGICO DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR. NACIONAL. ACTIVIDAD: REALIZAR LA MODERNIZACIÓN DE LA INFRAESTRUCTURA TECNOLÓGICA SEGURA, CONFIABLE Y DIMENSIONADA EN CAPACIDAD Y DISPONIBILIDAD REQUERIDA. OBJETO: ADQUIRIR LA RENOVACIÓN Y SOPORTE DEL HARDWARE Y HERRAMIENTAS TECNOLÓGICAS QUE SOPORTAN LA INFRAESTRUCTURA FÍSICA DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $140.000.000 | GESTIÓN CONTRACTUAL 2024-NO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+30/Abr/2025 - 06:08 pm
+
+**Publicación de estudios previos:**
+
+30/Abr/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+30/Abr/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+30/Abr/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+08/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+16/May/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+16/May/2025 - 07:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+22/May/2025 - 01:21 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+22/May/2025 - 11:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 11:05 am
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 11:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+03/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+16/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+20/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+23/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+25/Jun/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 20/Jun/2025 - 12:00 am | 30/Oct/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 20/Jun/2025 - 12:00 am | 30/Oct/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COLSOF S.A.S | Cota - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 139,800,000
+
+**Informes proceso de selección CO1.AWD.2270837 de 19/Jun/2025 - 12:19 pm. Valor $139.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 06:40 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:40 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:40 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:40 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 01:18 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 01:18 pm |  |
+| Informe de evaluación | 13/Jun/2025 - 01:18 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 11:00 am |  |
+| Informe de selección | 19/Jun/2025 - 12:19 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270837**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COLSOF S.A.S * **Tipo documento:** NIT * **Documento:** 800015583 | * **Nombre:** Jorge Luis Oviedo Hernandez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 13822868 | Cota - Cundinamarca | $139.800.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270837****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7986723
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+10/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 139,800,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+16/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+16/Jun/2025 - 03:30 pm
+
+**Fecha fin:**
+
+16/Jun/2025 - 03:45 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270837 | Informe de selección CO1.AWD.2270837 | 19/Jun/2025 - 12:19 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270837 | Informe de evaluación 3 CO1.AWD.2270837 | 19/Jun/2025 - 11:00 am |  | - |
+| Avisos | CO1.MSG.8035545 | La lista de oferentes del proceso SSF-SI-001 DE 2025 - DATAPROTECTOR (Presentación de oferta) publicada por SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR | 16/Jun/2025 - 10:29 am |  | - |
+| Avisos | CO1.MSG.8035552 | Publicación de la lista de ofertas del proceso SSF-SI-001 DE 2025 - DATAPROTECTOR (Presentación de oferta). | 16/Jun/2025 - 10:29 am |  | - |
+| Reporte preliminar | CO1.AWD.2270837 | Informe de evaluación 2 CO1.AWD.2270837 | 13/Jun/2025 - 01:18 pm |  | - |
+| Avisos | CO1.REQ.8302852 | Publicación modificación | 12/Jun/2025 - 06:06 pm |  |  |
+| General | CO1.MSG.8025636 | ADENDA CRONOGRAMA | 12/Jun/2025 - 05:34 pm |  | - |
+| General | CO1.MSG.7998634 | RE: SOLICITUD PUBLICACIÓN PROPUESTAS | 09/Jun/2025 - 07:25 am |  | - |
+| Avisos | CO1.MSG.7998633 | Publicación de la lista de ofertas del proceso SSF-SI-001 DE 2025 - DATAPROTECTOR (Presentación de oferta). | 09/Jun/2025 - 07:23 am |  | - |
+| General | CO1.MSG.7994938 | SUBSANACIÓN COLSOF SAS | 06/Jun/2025 - 03:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270837 | Informe de evaluación 1 CO1.AWD.2270837 | 03/Jun/2025 - 06:40 pm |  | - |
+| Avisos | CO1.MSG.7958987 | La lista de oferentes del proceso SSF-SI-001 DE 2025 - DATAPROTECTOR (Presentación de oferta) publicada por SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR | 29/May/2025 - 12:59 pm |  | - |
+| General | CO1.MSG.7941371 | RESPUESTA OBSERVACIÓN PLIEGO DE CONDICIONES DEFINITIVO | 27/May/2025 - 08:37 am |  | - |
+| Aclaraciones | CO1.MSG.7941359 | RESPUESTAS OBSERVACIÓN PLIEGO DEFINITIVO | 27/May/2025 - 08:36 am |  | - |
+| Aclaraciones | CO1.MSG.7931103 | Observaciones SSF-SI-001 DE 2025 - DATAPROTECTOR | 23/May/2025 - 04:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7920772 | RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO DE CONDICIONES | 22/May/2025 - 09:58 am |  | - |
+| Aclaraciones | CO1.MSG.7854920 | Observaciones | 08/May/2025 - 04:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7853416 | OBSERVACIONES | 08/May/2025 - 02:22 pm |  | - |

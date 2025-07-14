@@ -1,0 +1,153 @@
+Title: Licitaciones - JEP - Régimen Especial JEP-IPS-004-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c5fa1f2a9e9.61061380
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:29:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTAR SERVICIOS PARA LA ACTUALIZACIÓN E IMPLEMENTACIÓN DE LOS PROGRAMAS DEL PLAN DE CONSERVACIÓN DOCUMENTAL DE LA JEP, Y EL DESARROLLO DE PLANES DE ACCIÓN Y ACTIVIDADES ORIENTADAS AL FORTALECIMIENTO DE PRESERVACIÓN DIGITAL A LARGO PLAZO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+76111500 - Servicios de limpieza y mantenimiento de edificios generales y de oficinas
+
+**Códigos adicionales UNSPSC:**
+
+76101500 - Desinfección,76101600 - Descontaminación de materiales peligrosos,80161500 - Servicios de apoyo gerencial,80111504 - Formación o desarrollo laboral
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Gestión documental, organización y/o transporte y/o custodia de archivos", "licicodigos": "102,323" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 63 - 44 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+25/Jun/2025 - 03:38 pm
+
+**Fecha límite de presentación de ofertas:**
+
+08/Jul/2025 - 05:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+08/Jul/2025 - 05:15 pm
+
+**Fecha de Firma del Contrato:**
+
+25/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+25/Jul/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 25/Jul/2025 - 12:00 pm | 31/Dic/2026 - 11:59 pm |
+| Pago de salarios | 15,00 | 25/Jul/2025 - 12:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 25/Jul/2025 - 12:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8139300 | La lista de oferentes del proceso JEP-IPS-004-2025 publicada por JEP | 09/Jul/2025 - 07:23 am |  | - |
+| General | CO1.MSG.8117192 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 03/Jul/2025 - 07:08 pm |  | - |
+| Avisos | CO1.REQ.8465018 | Publicación modificación | 03/Jul/2025 - 06:18 pm |  |  |
+| Aclaraciones | CO1.MSG.8111777 | SOLICITUD AMPLIACIÓN | 03/Jul/2025 - 09:55 am |  | - |
+| Aclaraciones | CO1.MSG.8110508 | RE: OBSERVACIONES PROCESO: JEP-IPS-004-2025, OBSERVACIÓN A LAS REGLAS DE PARTICIPACIÓN - PYS, Solicitud de aclaración y flexibilización del numeral 4.1.4.2 - Permiso y certificación para el manejo de plaguicidas, OBSERVACIONES ALMARCHIVOS | 02/Jul/2025 - 07:38 pm |  | - |
+| Avisos | CO1.REQ.8465018 | Publicación modificación | 02/Jul/2025 - 05:56 pm |  |  |
+| Aclaraciones | CO1.MSG.8097696 | OBSERVACIONES PROCESO: JEP-IPS-004-2025 | 01/Jul/2025 - 12:00 am |  | - |
+| Aclaraciones | CO1.MSG.8096391 | OBSERVACIÓN A LAS REGLAS DE PARTICIPACIÓN - PYS | 27/Jun/2025 - 07:35 pm |  | - |
+| Aclaraciones | CO1.MSG.8096146 | Solicitud de aclaración y flexibilización del numeral 4.1.4.2 - Permiso y certificación para el manejo de plaguicidas | 27/Jun/2025 - 06:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8089136 | OBSERVACIONES ALMARCHIVOS | 26/Jun/2025 - 04:53 pm |  | - |

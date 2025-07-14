@@ -1,0 +1,111 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE CAJICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685198ceeb7bd9.50031423
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:17:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS DE ALOJAMIENTO (HOSTING) PARA GARANTIZAR EL FUNCIONAMIENTO DE LA PLATAFORMA INTERACTIVA (SITIO WEB) - WWW.CAJICA.GOV.CO DE LA CALDIA DE CAJICA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Cajicá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112105 - Servicios de hospedaje de operación de sitios web
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting", "licicodigos": "111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 2 No. 4-07 Palacio Municipal Cajicá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 47,730,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105 | PRESTACIÓN DE SERVICIOS DE ALOJAMIENTO (HOSTING) PARA GARANTIZAR EL FUNCIONAMIENTO DE LA PLATAFORMA INTERACTIVA (SITIO WEB) - WWW.CAJICA.GOV.CO DE LA ALCALDÍA DE CAJICÁ - BPIN 2024251260079 | Mínima cuantía | Recursos propios | $47.730.000 | Dirección de Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:31 am
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 05:30 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 01:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8059943 | RE: Observaciones DACARTEC | 19/Jun/2025 - 03:59 pm |  | - |
+| Aclaraciones | CO1.MSG.8050477 | Observaciones DACARTEC | 18/Jun/2025 - 11:39 am |  | - |

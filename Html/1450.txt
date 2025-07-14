@@ -1,0 +1,277 @@
+Title: Licitaciones - CONCEJO TITIRIBI - Contratación mínima cuantía MC 001 DE 2025.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b2fc401a399.27031906
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:57:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro de equipos tecnológicos y de oficina requeridos para el buen funcionamiento del Concejo Municipal de Titiribí - Antioquia
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Titiribí
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -UPS y baterías de gran capacidad", "licicodigos": "104,109" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 20 NRO. 20 -28 Titiribí Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 05:56 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 04:15 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 04:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 12:00 am | 04/Feb/2026 - 11:00 pm |
+| Calidad del servicio | 10,00 | 04/Jul/2025 - 12:00 am | 04/Feb/2026 - 11:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 5,301,450
+
+**Informes proceso de selección CO1.AWD.2295061 de 04/Jul/2025 - 09:42 am. Valor $5.301.450**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 01/Jul/2025 - 05:31 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 09:38 am |  |
+| Informe de selección | 04/Jul/2025 - 09:42 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2295061**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** suministros y servicios villegas * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 41471845 | * **Nombre:** maria lili gutierrez tovar * **Tipo documento:** * **Documento:** 41471845 | Puerto Triunfo - Antioquia | $5.301.450 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2295061****
+
+**Contrato CS 001 DE 2025 de suministros y servicios villegas:**
+
+**ID del contrato en SECOP:**
+
+CS 001 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Suministro de equipos tecnológicos y de oficina requeridos para el buen funcionamiento del Concejo Municipal de Titiribí - Antioquia.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44121600 | Suministro de equipos tecnológicos y de oficina requeridos para el buen funcionamiento del Concejo Municipal de Titiribí, Antioquia | 1,00 | UN | 6.000.000,00 | 5.301.450,00 | 6.000.000,00 | 5.301.450,00 |
+
+**Fecha de terminación del contrato:**
+
+07/Ago/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 5,301,450
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptacion.pdf |  |
+|  | Designación de supervisor .pdf |  |
+|  | RP 0000000897 DE 2025.pdf |  |
+|  | Propuesta seleccionada.zip |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2295061 | Informe de selección CO1.AWD.2295061 | 04/Jul/2025 - 09:42 am |  | - |
+| Reporte preliminar | CO1.AWD.2295061 | Informe de evaluación 2 CO1.AWD.2295061 | 04/Jul/2025 - 09:38 am |  | - |
+| Reporte preliminar | CO1.AWD.2295061 | Informe de evaluación 1 CO1.AWD.2295061 | 01/Jul/2025 - 05:31 pm |  | - |
+| Avisos | CO1.MSG.8095881 | La lista de oferentes del proceso MC 001 DE 2025. publicada por CONCEJO TITIRIBI | 27/Jun/2025 - 05:47 pm |  | - |
+| Avisos | CO1.REQ.8460980 | Publicación modificación | 26/Jun/2025 - 02:05 pm |  |  |
+| General | CO1.MSG.8087140 | Limitación a Mipy,es - Antioquia | 26/Jun/2025 - 02:03 pm |  | - |
+| General | CO1.MSG.8087130 | RE: SOLICITUD DE FORMATOS | 26/Jun/2025 - 01:55 pm |  | - |

@@ -1,0 +1,274 @@
+Title: Licitaciones - RECLUSIÓN DE MUJERES DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b48f1babca7.37619504
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-22 07:01:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE ARTICULOS DE DEPORTE, RECREACION, CULTURA Y CONCURSO DE TEATRO, MUSICA Y PINTURA CPAMSMBOG
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Calzado y/o vestido de labor o deportivo (Diseño y/o confección), -Papelería y elementos de oficina, -Mobiliario, -Material didáctico y libros, -Implementos deportivos y/o gimnasio, -Artículos de aseo", "licicodigos": "115,124,127,128,134,137,260" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 58 Nº 80-95 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 04:37 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+17/Jun/2025 - 10:10 am
+
+**Informe de presentación de ofertas:**
+
+17/Jun/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+20/Jun/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jun/2025 - 02:17 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/Jun/2025 - 12:00 pm | 31/Ene/2026 - 05:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 20/Jun/2025 - 12:00 pm | 31/Ene/2026 - 05:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** M A S - UNION EMPRESARIAL SAS | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 19,590,800
+
+**Informes proceso de selección CO1.AWD.2284760 de 20/Jun/2025 - 03:36 am. Valor $19.590.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 18/Jun/2025 - 04:34 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 04:34 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 04:34 pm |  |
+| Informe de selección | 20/Jun/2025 - 03:36 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2284760**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** M A S - UNION EMPRESARIAL SAS * **Tipo documento:** NIT * **Documento:** 901917773 | * **Nombre:** MILTON YESID LOPEZ LOZADA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 17335796 | Villavicencio - Meta | $19.590.800 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2284760****
+
+**Contrato CO1.PCCNTR.8005180 de M A S - UNION EMPRESARIAL SAS:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8005180
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICION DE ARTICULOS DE DEPORTE, RECREACION, CULTURA Y CONCURSO DE TEATRO, MUSICA Y PINTURA CPAMSMBOG
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 53102900 | ADQUISICION DE ARTICULOS DE DEPORTE, RECREACION, CULTURA Y CONCURSO DE TEATRO, MUSICA Y PINTURA CPAMSMBOG de conformidad con los documentos del proceso | 1,00 | UN | 8.760.499,00 | 19.590.800,00 | 8.760.499,00 | 19.590.800,00 |
+
+**Fecha de terminación del contrato:**
+
+31/Jul/2025 - 05:00 pm
+
+**Plazo de ejecución:**
+
+40 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 19,590,800
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | contrato-08082023181945.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2284760 | Informe de selección CO1.AWD.2284760 | 20/Jun/2025 - 03:36 pm |  | - |
+| Reporte preliminar | CO1.AWD.2284760 | Informe de evaluación 1 CO1.AWD.2284760 | 18/Jun/2025 - 04:34 pm |  | - |
+| Avisos | CO1.MSG.8042380 | Publicación de la lista de ofertas del proceso 129-MC-014-2025. | 17/Jun/2025 - 10:23 am |  | - |
+| Avisos | CO1.MSG.8042343 | La lista de oferentes del proceso 129-MC-014-2025 publicada por RECLUSIÓN DE MUJERES DE BOGOTA | 17/Jun/2025 - 10:20 am |  | - |
+| Avisos | CO1.REQ.8405900 | Publicación modificación | 13/Jun/2025 - 03:10 pm |  |  |

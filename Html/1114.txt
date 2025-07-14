@@ -1,0 +1,197 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68081305903c74.68519746
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-01 21:56:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar los servicios de proveedor tecnológico para la emisión de facturación electrónica.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+84111506 - Servicios de facturación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 130,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 84111506 | 1000004887 - Prestar los servicios de proveedor tecnológico para la emisión de facturación electrónica. | Mínima cuantía | Recursos propios | $20.983.500 | UNIDAD DE CONTRATACION SAC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 04:45 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+08/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 08/May/2025 - 12:00 pm | 08/Nov/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 08/May/2026 - 12:00 pm | 08/May/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 11/May/2025 - 12:00 pm | 08/Nov/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7817664 | La lista de oferentes del proceso SDH-SMINC-0017-2025 publicada por SECRETARIA DISTRITAL DE HACIENDA | 30/Abr/2025 - 10:09 am |  | - |
+| General | CO1.MSG.7805986 | AVISO NO LIMITACIÓN A MIPYME | 28/Abr/2025 - 11:55 am |  | - |

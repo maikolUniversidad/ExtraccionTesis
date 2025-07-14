@@ -1,0 +1,134 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA SAN JOSE DE CHILLANQUER
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ae1b06c55a7.94451204
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 09:18:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE SOTFWARE PARA PROCESOS EDUCATIVOS DE LA INSTITUCIÓN EDUCATIVA SAN JOSE DE CHILLANQUER DEL MUNICIPIO DE GUACHUCAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Guachucal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+VEREDA SAN JOSE DE CHILLANQUER Guachucal Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300 | SUMINISTRO DE SOFTWARE PARA PROCESOS EDUCATIVOS | Contratación régimen especial - Régimen especial | SGP | $500.000 | UNIDAD DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 08:37 am
+
+**Fecha de Firma del Contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+13/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 50 |
+| 2 | 50 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No

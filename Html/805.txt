@@ -1,0 +1,201 @@
+Title: Licitaciones - MUNICIPIO DE FIRAVITOBA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850ac45e66d48.91954684
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 16:53:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA OFICINA Y EQUIPOS PARA LA ALCALDÍA MUNICIPAL Y UNIDAD DE SERVICIOS PÚBLICOS DE FIRAVITOBA BOYACA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Firavitoba
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121700 - Instrumentos de escritura
+
+**Códigos adicionales UNSPSC:**
+
+23261500 - Máquinas para prototipos rápidos,43212100 - Impresoras de computador,43211900 - Monitores y pantallas de computador,43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina", "licicodigos": "104,105,127" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 4 35 Firavitoba Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 44122000, 44121600 | SUMINISTRO DE ELEMENTOS DE PAPELERÍA OFICINA Y EQUIPOS PARA LA ALCALDÍA MUNICIPAL Y UNIDAD DE SERVICIOS PÚBLICOS DE FIRAVITOBA BOYACA | Mínima cuantía | Recursos propios | $39.500.000 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 06:17 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 06:19 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 06:19 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 04:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(26/Jun/2025 - 12:08 pm PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE FIRAVITOBA en 1 día de tiempo transcurrido (26/Jun/2025 - 12:08 pm PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: no cumplió el oferente
+
+**Fecha de la cancelación:**
+
+26/Jun/2025 - 12:08 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8086541 | DECLARATORIA DESIERTA | 26/Jun/2025 - 12:09 pm |  | - |
+| General | CO1.MSG.8084796 | respuesta observaciones evaluación | 26/Jun/2025 - 09:38 am |  | - |
+| Objeciones | CO1.MSG.8076360 | Solicitud aceptacion oferta | 24/Jun/2025 - 08:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289878 | Informe de evaluación 1 CO1.AWD.2289878 | 24/Jun/2025 - 06:21 pm |  | - |
+| Avisos | CO1.MSG.8060117 | La lista de oferentes del proceso MF-MC-031 DE 2025 publicada por MUNICIPIO DE FIRAVITOBA | 19/Jun/2025 - 04:02 pm |  | - |
+| Avisos | CO1.MSG.8060119 | Publicación de la lista de ofertas del proceso MF-MC-031 DE 2025. | 19/Jun/2025 - 04:02 pm |  | - |
+| General | CO1.MSG.8057056 | RE: OBSERVACIONES | 19/Jun/2025 - 10:25 am |  | - |
+| Avisos | CO1.REQ.8422917 | Publicación modificación | 18/Jun/2025 - 01:14 pm |  |  |
+| General | CO1.MSG.8049377 | respuesta limitación MiPymes | 18/Jun/2025 - 10:00 am |  | - |
+| General | CO1.MSG.8049388 | respuesta observaciones | 18/Jun/2025 - 10:00 am |  | - |
+| Aclaraciones | CO1.MSG.8048862 | RE: Limitacion Mypimes Municipales | 18/Jun/2025 - 09:16 am |  | - |
+| Aclaraciones | CO1.MSG.8046473 | Limitacion Mypimes Municipales | 17/Jun/2025 - 05:13 pm |  | - |

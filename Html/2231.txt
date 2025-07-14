@@ -1,0 +1,100 @@
+Title: Licitaciones - AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c3fa95745a3.49757350
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 19:05:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir, instalar o suministrar e implementar un paquete de ochenta y tres (83) Certificados Digitales de Función Pública Acreditado - AATL con formato de token virtual y una vigencia de uso de 2 años, de conformidad a las especificaciones descritas en el Anexo No. 1 Especificaciones Técnicas Mínimas.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233201 - Software de servidor de autenticación
+
+**Códigos adicionales UNSPSC:**
+
+81111503 - Diseño de integración de sistemas,81112208 - Mantenimiento de software de protección y seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotâ Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 08:53 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7813410 | OBSERVACIONES AL PROCESO | 29/Abr/2025 - 02:55 pm |  | - |

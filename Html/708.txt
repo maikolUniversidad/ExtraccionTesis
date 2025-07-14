@@ -1,0 +1,271 @@
+Title: Licitaciones - FONDO ROTATORIO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bdc30a84791.71891980
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-04 17:43:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN LICENCIAS DE OFIMÁTICA CON DESTINO AL DEPARTAMENTO DE POLICÍA ANTIOQUIA - ANEXO No. 3
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia: Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 66A No.43-18 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 05:08 pm
+
+**Publicación de estudios previos:**
+
+07/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+07/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+08/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+08/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+14/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+14/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/May/2025 - 11:59 pm | 22/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 23/May/2025 - 11:59 pm | 22/Jun/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MICRONET SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 30,576,000
+
+**Informes proceso de selección CO1.AWD.2254096 de 26/May/2025 - 09:26 am. Valor $30.576.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/May/2025 - 06:22 pm |  |
+| Informe de evaluación | 16/May/2025 - 06:22 pm |  |
+| Informe de evaluación | 16/May/2025 - 06:22 pm |  |
+| Informe de evaluación | 16/May/2025 - 06:22 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:49 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:49 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:49 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:49 pm |  |
+| Informe de selección | 26/May/2025 - 09:26 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2254096**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MICRONET SAS * **Tipo documento:** NIT * **Documento:** 815001055 | * **Nombre:** DIEGO TRUJILLO BENITEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 16260038 | Cali - Valle del Cauca | $30.576.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2254096****
+
+**ID del contrato en SECOP:**
+
+CTO 050-2-25
+
+**Estado del contrato:**
+
+En ejecución
+
+**Fecha inicio del contrato:**
+
+27/May/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+15/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 30,576,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2254096 | Informe de selección CO1.AWD.2254096 | 26/May/2025 - 09:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2254096 | Informe de evaluación 2 CO1.AWD.2254096 | 21/May/2025 - 06:49 pm |  | - |
+| Objeciones | CO1.MSG.7904383 | [Respondido] RE:SUBSANACION | 20/May/2025 - 11:51 am |  | - |
+| Objeciones | CO1.MSG.7904383 | SUBSANACION | 19/May/2025 - 05:44 pm |  | - |
+| Avisos | CO1.MSG.7897485 | Publicación de la lista de ofertas del proceso MC-006-2025. | 16/May/2025 - 06:40 pm |  | - |
+| Avisos | CO1.MSG.7897416 | La lista de oferentes del proceso MC-006-2025 publicada por FONDO ROTATORIO DE LA POLICIA NACIONAL | 16/May/2025 - 06:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2254096 | Informe de evaluación 1 CO1.AWD.2254096 | 16/May/2025 - 06:22 pm |  | - |
+| General | CO1.MSG.7870228 | RESPUESTA A OBSERVACIONES Y ADENDA No. 2 | 12/May/2025 - 07:06 pm |  | - |
+| General | CO1.MSG.7870215 | AVISO LIMITACIÓN A MIPYMES NACIONAL | 12/May/2025 - 07:04 pm |  | - |
+| Avisos | CO1.REQ.8220802 | Publicación modificación | 12/May/2025 - 06:58 pm |  |  |
+| General | CO1.MSG.7862817 | ADENDA No. 1 - Modifica cronograma oficial | 09/May/2025 - 06:59 pm |  | - |
+| Avisos | CO1.REQ.8220802 | Publicación modificación | 09/May/2025 - 06:27 pm |  |  |
+| Aclaraciones | CO1.MSG.7851863 | Limitacion nacional. | 08/May/2025 - 10:48 am |  | - |

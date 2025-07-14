@@ -1,0 +1,361 @@
+Title: Licitaciones - DIRECCIÓN DE INVESTIGACIÓN CRIMINAL E INTERPOL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807785cbe1232.93906507
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 21:32:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE RECEPTORES GNSS CON CORRECCIÓN Y SOFTWARE DE DISEÑO 2D Y 3D PARA LA REGIÓN DEL CATATUMBO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca: Bogotá D.C. ; Norte de Santander: San José de Cúcuta ; Cesar: Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+41114200 - Instrumentos de agrimensión
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Equipo de topografía", "licicodigos": "102,103,451" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA EL DORADO Nº 75-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 11:59 pm
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 05:03 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 03:01 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 03:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:49 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 12:45 pm | * **Nombre:** Geoinstrumentos Topograficos SAS | Distrito Capital de Bogotá |
+| 2 | 28/Abr/2025 - 01:22 pm | * **Nombre:** Geosystem 4D SAS | Bogotá - Distrito Capital de Bogotá |
+| 3 | 28/Abr/2025 - 02:23 pm | * **Nombre:** GALILEO INSTRUMENTS SAS | Medellín - Antioquia |
+| 4 | 28/Abr/2025 - 02:31 pm | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 49,300,000
+
+**Informes proceso de selección CO1.AWD.2251620 de 14/May/2025 - 02:30 am. Valor $49.300.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 02:27 pm |  |
+| Informe de selección | 14/May/2025 - 02:30 pm |  |
+
+**Cuantia del contrato:**
+
+$ 59,402,500
+
+**Informes proceso de selección CO1.AWD.2251938 de 14/May/2025 - 02:37 am. Valor $59.402.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 02:33 pm |  |
+| Informe de selección | 14/May/2025 - 02:37 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2251620**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Geosystem 4D SAS * **Tipo documento:** NIT * **Documento:** 901733788 | * **Nombre:** Camilo Hernandez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1030628608 | Bogotá - Distrito Capital de Bogotá | $49.300.000 | - |  | Ver |
+
+**Adjudicatario Proceso de selección CO1.AWD.2251938**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GALILEO INSTRUMENTS SAS * **Tipo documento:** NIT * **Documento:** 900393949 | * **Nombre:** JULIAN RICARDO RODRIGUEZ VALENCIA * **Tipo documento:** NIT * **Documento:** 80029118 | Medellín - Antioquia | $59.402.500 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2251620****
+
+**Contrato 03-2-10042-25 de Geosystem 4D SAS:**
+
+**ID del contrato en SECOP:**
+
+03-2-10042-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE RECEPTORES GNSS CON CORRECCIÓN Y SOFTWARE DE DISEÑO 2D Y 3D PARA LA REGIÓN DEL CATATUMBO
+
+**Precios unitarios:**
+
+**Lote No. 2**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43232100 | SOFTWARE DE DISEÑO 2D Y 3D | 2,00 | UN | 26.800.000,00 | 24.650.000,00 | 53.600.000,00 | 49.300.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+3 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 49,300,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptación de oferta Nro. 03-2-10042-25 lote 2.pdf |  |
+
+**Proceso de selección **CO1.AWD.2251938****
+
+**<i class='icon-Candado'></i>:**
+
+https://community.secop.gov.co/Public/Tendering/ContractDetailView/Index?UniqueIdentifier=CO1.PCCNTR.7876370&AwardContractDetailId=5979143&IsFromMarketplace=False&IsFromContractNotice=True&isModal=true&asPopupView=true
+
+**ID del contrato en SECOP:**
+
+03-2-10041-25
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE RECEPTORES GNSS CON CORRECCIÓN Y SOFTWARE DE DISEÑO 2D Y 3D PARA LA REGIÓN DEL CATATUMBO
+
+**Precios unitarios:**
+
+**Lote No. 1**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43232100 | SOFTWARE DE OFICINA | 2,00 | UN | 2.901.250,00 | 2.901.250,00 | 5.802.500,00 | 5.802.500,00 |
+| 2 | 41114200 | RECEPTOR GNSS CON CORRECIÓN | 2,00 | UN | 26.800.000,00 | 26.800.000,00 | 53.600.000,00 | 53.600.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+3 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 59,402,500
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptación de oferta Nro. 03-2-10041-25 lote 1.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2251938 | Informe de selección CO1.AWD.2251938 | 14/May/2025 - 02:37 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251938 | Informe de evaluación 1 CO1.AWD.2251938 | 14/May/2025 - 02:33 pm |  | - |
+| Reporte final | CO1.AWD.2251620 | Informe de selección CO1.AWD.2251620 | 14/May/2025 - 02:30 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251620 | Informe de evaluación 1 CO1.AWD.2251620 | 14/May/2025 - 02:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251726 | Informe de evaluación 1 CO1.AWD.2251726 | 14/May/2025 - 12:09 pm |  | - |
+| Avisos | CO1.REQ.8145681 | Publicación modificación | 09/May/2025 - 06:04 pm |  |  |
+| Avisos | CO1.MSG.7829004 | Publicación de la lista de ofertas del proceso PN DIJIN MIC 021 DE 2025. | 02/May/2025 - 08:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241807 | Informe de evaluación 1 CO1.AWD.2241807 | 02/May/2025 - 08:26 pm |  | - |
+| General | CO1.MSG.7817290 | SUBSANACIONES INFORME DE EVALUACION | 30/Abr/2025 - 09:34 am |  | - |
+| General | CO1.MSG.7816785 | REQUERIMIENTO ECONÓMICO JUSTIFICACIÓN PRECIOS ARTIFICIALMENTE BAJOS | 30/Abr/2025 - 08:30 am |  | - |
+| General | CO1.MSG.7815752 | REQUERIMIENTO JURÍDICO - SUBSANACIÓN DE DOCUMENTOS | 29/Abr/2025 - 06:22 pm |  | - |
+| General | CO1.MSG.7815581 | REQUERIMIENTO JURÍDICO - SUBSANACIÓN DE DOCUMENTOS | 29/Abr/2025 - 06:07 pm |  | - |
+| General | CO1.MSG.7814184 | REQUERIMIENTO TÉCNICO | 29/Abr/2025 - 04:06 pm |  | - |
+| Avisos | CO1.MSG.7807385 | La lista de oferentes del proceso PN DIJIN MIC 021 DE 2025 publicada por DIRECCIÓN DE INVESTIGACIÓN CRIMINAL E INTERPOL | 28/Abr/2025 - 03:26 pm |  | - |
+| Avisos | CO1.REQ.8145681 | Publicación modificación | 25/Abr/2025 - 02:59 pm |  |  |
+| General | CO1.MSG.7798842 | RE: Observaciones | 25/Abr/2025 - 01:55 pm |  | - |
+| Avisos | CO1.REQ.8145681 | Publicación modificación | 25/Abr/2025 - 10:22 am |  |  |
+| General | CO1.MSG.7795591 | RE: Observaciones | 24/Abr/2025 - 05:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7795507 | RE: OBSERVACIONES AL PROCESO - DATUM INGENIERIA | 24/Abr/2025 - 05:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7795379 | RE: OBSERVACIONES GENERALES | 24/Abr/2025 - 05:13 pm |  | - |
+| General | CO1.MSG.7795256 | AVISO LIMITACIÓN MIPYMES NACIONALES | 24/Abr/2025 - 04:56 pm |  | - |
+| General | CO1.MSG.7794599 | RE: Limitacion Nacional | 24/Abr/2025 - 04:01 pm |  | - |
+| General | CO1.MSG.7794547 | RE: Limitacion Nacional | 24/Abr/2025 - 03:54 pm |  | - |
+| General | CO1.MSG.7794475 | RE: Limitacion Nacional | 24/Abr/2025 - 03:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7788773 | OBSERVACIONES AL PROCESO - DATUM INGENIERIA | 23/Abr/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7784257 | OBSERVACIONES GENERALES | 23/Abr/2025 - 09:24 am |  | - |

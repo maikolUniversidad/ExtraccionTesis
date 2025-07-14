@@ -1,0 +1,112 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA TECNICA MARCO FIDEL SUAREZ - HERVEO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68100d527fcff9.15432355
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 09:50:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Mantenimiento de software de la plataforma de notas para los informes académicos de la institución educativa Marco Fidel Suarez del año 2025 incluye hosting y dominio
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Herveo
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 5 39 Herveo Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+247 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 05:40 pm
+
+**Fecha de Firma del Contrato:**
+
+02/May/2025 - 02:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

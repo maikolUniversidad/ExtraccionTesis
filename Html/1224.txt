@@ -1,0 +1,258 @@
+Title: Licitaciones - GOBERNACIÓN DEL CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68350b462d67b3.25323723
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-15 06:32:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR A TÍTULO DE COMPRAVENTA EQUIPOS DE PRODUCCIÓN AUDIOVISUAL, ELEMENTOS Y EQUIPOS EN EL MARCO DEL PROYECTO: FORTALECIMIENTO DE LA CADENA DE VALOR DEL SECTOR TURISMO PARA FORMAR E INTEGRAR CIRCUITOS TURÍSTICOS EN LAS SUBREGIONES DEL DEPARTAMENTO CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161520 - Micrófonos
+
+**Códigos adicionales UNSPSC:**
+
+43212110 - Impresoras de múltiples funciones,45111616 - Proyectores de video,52161518 - Receptores de sistemas de posicionamiento global,41111717 - Binoculares,53103100 - Chalecos,53102516 - Gorras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Calzado y/o vestido de labor o deportivo (Diseño y/o confección), -GPS y servicio de monitoreo", "licicodigos": "105,115,124,377" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+calle 4 carrera 7 esquina Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500 | ADQUIRIR A TÍTULO DE COMPRAVENTA EQUIPOS DE PRODUCCIÓN AUDIOVISUAL, ELEMENTOS Y EQUIPOS EN EL MARCO DEL PROYECTO: FORTALECIMIENTO DE LA CADENA DE VALOR DEL SECTOR TURISMO PARA FORMAR E INTEGRAR CIRCUITOS TURÍSTICOS EN LAS SUBREGIONES DEL DEPARTAMENTO CAUCA | Mínima cuantía | Recursos propios | $48.415.000 | SECRETARIA DE DESARROLLO ECONOMICO Y COMPETITIVIDAD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 06:30 pm
+
+**Publicación de estudios previos:**
+
+28/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+28/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 06:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/May/2025 - 08:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/May/2025 - 08:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+03/Jun/2025 - 06:03 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 11/Jun/2025 - 06:00 pm | 11/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 11/Jun/2025 - 06:00 pm | 11/Nov/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IMPOCAMARAS - BRAYAN ALBERTO CAMACHO OYOLA | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 10,990,000
+
+**Informes proceso de selección CO1.AWD.2273215 de 13/Jun/2025 - 10:49 am. Valor $10.990.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 05/Jun/2025 - 09:30 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 09:30 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 11:03 am |  |
+| Informe de selección | 13/Jun/2025 - 10:49 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2273215**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IMPOCAMARAS - BRAYAN ALBERTO CAMACHO OYOLA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1030598851 | * **Nombre:** brayan alberto camacho oyola * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1030598851 | Bogotá - Distrito Capital de Bogotá | $10.990.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2273215****
+
+**ID del contrato en SECOP:**
+
+XXXX-2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+17/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 10,990,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2273215 | Informe de selección CO1.AWD.2273215 | 13/Jun/2025 - 10:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2273215 | Informe de evaluación 2 CO1.AWD.2273215 | 11/Jun/2025 - 11:03 am |  | - |
+| Reporte preliminar | CO1.AWD.2273215 | Informe de evaluación 1 CO1.AWD.2273215 | 05/Jun/2025 - 09:30 pm |  | - |
+| Avisos | CO1.MSG.7976609 | La lista de oferentes del proceso DC-SDEC-MC-002-2025 publicada por GOBERNACIÓN DEL CAUCA | 03/Jun/2025 - 08:01 pm |  | - |
+| Avisos | CO1.MSG.7976610 | Publicación de la lista de ofertas del proceso DC-SDEC-MC-002-2025. | 03/Jun/2025 - 08:01 pm |  | - |
+| General | CO1.MSG.7966257 | LIMITACION A MIPYMES | 30/May/2025 - 02:27 pm |  | - |
+| General | CO1.MSG.7966237 | RESPUESTA A OBSERVACIONES | 30/May/2025 - 02:25 pm |  | - |

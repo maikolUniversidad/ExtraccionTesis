@@ -1,0 +1,236 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE SOPO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d8e6c131d2.25684458
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:40:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS Y ELEMENTOS PARA EL FORTALECIMIENTO Y DESARROLLO DE LAS ACTIVIDADES PROGRAMADAS POR LAS INSTANCIAS DE PARTICIPACIÓN JUVENIL, JÓVENES Y COLECTIVOS PARTICIPANTES EN LA CONVOCATORIA DE LA SEMANA DE A JUVENTUD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Sopó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+93141500 - Desarrollo y servicios sociales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Papelería y elementos de oficina, -Mobiliario, -Pintura, -Artesanía y manualidades (Suministro)", "licicodigos": "115,127,128,135,202" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 3 No 2-45 Sopó Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 45,458,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 93141500 | Adquisición de equipos y elementos para el fortalecimiento y desarrollo de las actividades programadas por las instancias de participación juvenil, jóvenes y colectivos participantes en la convocatoria de la semana de la juventud | Mínima cuantía | Recursos propios | $15.200.000 | OFICINA DE CONTRATACIÓN |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 04:00 pm
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** servicios y suministros a y c | Zipaquirá - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 14,799,352
+
+**Informes proceso de selección CO1.AWD.2290308 de 26/Jun/2025 - 03:50 am. Valor $14.799.352**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 06:12 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 06:12 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 03:38 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 03:38 pm |  |
+| Informe de selección | 26/Jun/2025 - 03:50 pm |  |
+| Informe de selección | 26/Jun/2025 - 03:50 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2290308**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** servicios y suministros a y c * **Tipo documento:** NIT * **Documento:** 901452997 | * **Nombre:** oscar castellanos * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1075655990 | Zipaquirá - Cundinamarca | $14.799.352 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2290308****
+
+**Cuantía a la firma del contrato:**
+
+$ 14,799,352
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2290308 | Informe de selección CO1.AWD.2290308 | 26/Jun/2025 - 03:50 pm |  | - |
+| Objeciones | CO1.MSG.8077394 | [Respondido] RE:subsanar | 26/Jun/2025 - 03:39 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290308 | Informe de evaluación 2 CO1.AWD.2290308 | 26/Jun/2025 - 03:38 pm |  | - |
+| Objeciones | CO1.MSG.8077394 | subsanar | 25/Jun/2025 - 09:18 am |  | - |
+| Reporte preliminar | CO1.AWD.2290308 | Informe de evaluación 1 CO1.AWD.2290308 | 24/Jun/2025 - 06:12 pm |  | - |
+| Avisos | CO1.MSG.8069183 | La lista de oferentes del proceso MC-2025-0005 publicada por ALCALDÍA MUNICIPAL DE SOPO | 21/Jun/2025 - 07:30 pm |  | - |
+| General | CO1.MSG.8063129 | ACLARATORIO A LIMITACIÓN A MIPYMES | 20/Jun/2025 - 09:02 am |  | - |
+| General | CO1.MSG.8052989 | LIMITACIÓN A MIPYME MUNICIPAL | 18/Jun/2025 - 04:13 pm |  | - |

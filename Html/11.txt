@@ -1,0 +1,337 @@
+Title: Licitaciones - SENA DIRECCION GENERAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e5dcb65cd95.94985526
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 22:20:57
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el derecho de uso de la suite de productos Adobe bajo la modalidad ETLA, para soportar las actividades misionales y administrativas de la Entidad, incluido su soporte técnico.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+
+43232500 - Software educativo o de referencia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Cll 57 # 8 -69 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+193 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 12,506,078,076
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 05:49 pm
+
+**Publicación Estudios Previos:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 04:24 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 05:10 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 05:10 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+06/Jun/2025 - 05:11 pm
+
+**Informe de presentación de Ofertas:**
+
+06/Jun/2025 - 05:15 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+10/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+16/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/Jun/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+17/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+20/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 17/Jun/2025 - 05:00 pm | 31/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 17/Jun/2025 - 05:00 pm | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 17/Jun/2025 - 05:00 pm | 31/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NEXSYS DE COLOMBIA S.A.S | Cota - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,506,042,903
+
+**Informes proceso de selección CO1.AWD.2276872 de 17/Jun/2025 - 11:19 am. Valor $12.506.042.903**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 10/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:40 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:05 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:05 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:05 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:05 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:05 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 06:04 pm |  |
+| Informe de selección | 17/Jun/2025 - 11:19 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2276872**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NEXSYS DE COLOMBIA S.A.S * **Tipo documento:** NIT * **Documento:** 800035776 | * **Nombre:** Mario Jaramillo * **Tipo documento:** NIT * **Documento:** 79945276 | Cota - Cundinamarca | $12.506.042.903 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2276872****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7988947
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 12,506,042,903
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+16/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+16/Jun/2025 - 11:00 am
+
+**Fecha fin:**
+
+16/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8061540 | La lista de oferentes del proceso SASI-DG-OS-001-2025 (Presentación de oferta) publicada por SENA DIRECCION GENERAL | 19/Jun/2025 - 05:56 pm |  | - |
+| Avisos | CO1.MSG.8061542 | Publicación de la lista de ofertas del proceso SASI-DG-OS-001-2025 (Presentación de oferta). | 19/Jun/2025 - 05:56 pm |  | - |
+| Reporte final | CO1.AWD.2276872 | Informe de selección CO1.AWD.2276872 | 17/Jun/2025 - 11:19 am |  | - |
+| Reporte preliminar | CO1.AWD.2276872 | Informe de evaluación 3 CO1.AWD.2276872 | 16/Jun/2025 - 06:04 pm |  | - |
+| Avisos | CO1.MSG.8037178 | Publicación de la lista de ofertas del proceso SASI-DG-OS-001-2025 (Presentación de oferta). | 16/Jun/2025 - 02:11 pm |  | - |
+| Avisos | CO1.MSG.8037169 | La lista de oferentes del proceso SASI-DG-OS-001-2025 (Presentación de oferta) publicada por SENA DIRECCION GENERAL | 16/Jun/2025 - 02:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2276872 | Informe de evaluación 2 CO1.AWD.2276872 | 16/Jun/2025 - 02:05 pm |  | - |
+| Objeciones | CO1.MSG.8011770 | [Respondido] RE:SUBSANACIÓN NEXSYS DE COLOMBIA | 11/Jun/2025 - 11:21 am |  | - |
+| Objeciones | CO1.MSG.8011770 | SUBSANACIÓN NEXSYS DE COLOMBIA | 10/Jun/2025 - 08:09 pm |  | - |
+| General | CO1.MSG.8011753 | SUBSANACIÓN NEXSYS DE COLOMBIA | 10/Jun/2025 - 08:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2276872 | Informe de evaluación 1 CO1.AWD.2276872 | 10/Jun/2025 - 04:40 pm |  | - |
+| Avisos | CO1.REQ.8341742 | Publicación modificación | 09/Jun/2025 - 05:23 pm |  |  |
+| General | CO1.MSG.7990258 | RE: CODIGO UNSPSC | 05/Jun/2025 - 05:21 pm |  | - |
+| General | CO1.MSG.7990148 | RE: SOLICITUD ACLARACION | 05/Jun/2025 - 05:18 pm |  | - |
+| Avisos | CO1.REQ.8341742 | Publicación modificación | 05/Jun/2025 - 05:07 pm |  |  |
+| Aclaraciones | CO1.MSG.7983679 | RE: OBSERVACION COEM, observaciones | 04/Jun/2025 - 06:27 pm |  | - |
+| Aclaraciones | CO1.MSG.7974332 | OBSERVACION COEM | 03/Jun/2025 - 04:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7974179 | observaciones | 03/Jun/2025 - 04:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7942510 | Observaciones Financieras | 27/May/2025 - 10:22 am |  | - |

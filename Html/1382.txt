@@ -1,0 +1,134 @@
+Title: Licitaciones - INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682c8ba7499c14.75435178
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:36:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO MANTENIMIENTO, ADMINISTRACION, SOPORTE, TECNICO Y RENOVACION DE HOSTING DE LA PAGINA WEB DEL INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112103 - Servicios de diseño de sitios web www
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting", "licicodigos": "111" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 16 VIA A PAMPLONA VEREDA ROSABLANCA Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 8,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112103 | CONTRATO DE PRESTACION DE SERVICIOS DE APOYO EN LA ACTUALIZACION, MANTENIMIENTO Y CARGUE DE INFORMACION ENLA PLATAFORMA EDUCATIVA DEL INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN | Contratación régimen especial - Régimen especial | SGP | $8.500.000 | INSTITUTO AGROPECUARIO GUSTAVO DUARTE ALEMAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 08:56 am
+
+**Fecha de Firma del Contrato:**
+
+23/May/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+23/May/2025 - 10:00 am
+
+**Plazo de ejecución del contrato:**
+
+21/Nov/2025 - 12:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8288164 | Publicación modificación | 26/May/2025 - 10:45 am |  |  |
+| Avisos | CO1.REQ.8288164 | Publicación modificación | 22/May/2025 - 12:05 pm |  |  |
+| Avisos | CO1.REQ.8288164 | Publicación modificación | 21/May/2025 - 02:00 pm |  |  |

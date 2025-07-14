@@ -1,0 +1,190 @@
+Title: Licitaciones - ALCALDIA LOCAL DE USAQUEN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b23bbe65551.81694964
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 17:41:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA RED TELEFÓNICA DE PROPIEDAD DEL FONDO DE DESARROLLO DE USAQUEN Y SEDES ANEXAS INCLUIDO BOLSA DE REPUESTOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191516 - Sistema de conmutador telefónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 A # 118 -03 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43191516, 43191603, 43222802, 43222805, 43222806, 72103302, 81161708 | 093 PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA RED TELEFÓNICA DE PROPIEDAD DEL FONDO DE DESARROLLO DE USAQUEN Y SEDES ANEXAS INCLUIDO BOLSA DE REPUESTOS | Mínima cuantía | NotApplied | $15.748.722 | OFICINA DE CONTRATACION-AGDLUSA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 04:46 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 06:16 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 06:19 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jul/2025 - 12:00 pm | 09/Jul/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 09/Jul/2025 - 12:00 pm | 09/Ene/2029 - 12:00 pm |
+| Calidad del servicio | 20,00 | 09/Jul/2025 - 12:00 pm | 19/Jul/2026 - 12:00 pm |

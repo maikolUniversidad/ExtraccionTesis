@@ -1,0 +1,243 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE CALARCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68066682663850.19713329
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 06:33:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE INFORMACIÓN JUDICIAL MEDIANTE UNA HERRAMIENTA TECNOLOGICA QUE FACILITE MOTORES DE BUSQUEDA DE EXPEDIENTES JUDICIALES Y PERMITA ACCEDER A NOTIFICACIONES JUDICIALES ON-LINE DE LOS PROCESOS JUDICIALES EN QUE SEA PARTE O VINCULADO EL MUNICIPIO DE CALARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Calarca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 24 # 38-57 Calarca Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+259 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 10:14 am
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 10:15 am
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 10:15 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/Abr/2025 - 10:15 am
+
+**Plazo para recepción de observaciones:**
+
+22/Abr/2025 - 10:15 am
+
+**Respuesta a las observaciones a la invitación:**
+
+22/Abr/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/Abr/2025 - 03:15 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 10:15 am
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 05:41 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 06:45 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 06:45 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 11:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 05:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 25/Abr/2025 - 12:00 am | 25/Jun/2026 - 12:00 am |
+| Pago de salarios | 5,00 | 25/Abr/2025 - 12:00 am | 31/Dic/2026 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 25/Abr/2025 - 12:00 am | 31/Dic/2028 - 12:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DIESTRO PD CONSULTING SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 13,000,000
+
+**Informes proceso de selección CO1.AWD.2238578 de 05/May/2025 - 03:04 am. Valor $13.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/Abr/2025 - 06:46 pm |  |
+| Informe de selección | 05/May/2025 - 03:04 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2238578**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DIESTRO PD CONSULTING SAS * **Tipo documento:** NIT * **Documento:** 901390860 | * **Nombre:** DAVID BORRERO DIAZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1234088322 | Bogotá - Distrito Capital de Bogotá | $13.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2238578****
+
+**Cuantía a la firma del contrato:**
+
+$ 13,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2238578 | Informe de selección CO1.AWD.2238578 | 05/May/2025 - 03:04 pm |  | - |
+| Avisos | CO1.REQ.8094156 | Publicación modificación | 30/Abr/2025 - 03:21 pm |  |  |
+| Reporte preliminar | CO1.AWD.2238578 | Informe de evaluación 1 CO1.AWD.2238578 | 29/Abr/2025 - 06:46 pm |  | - |
+| General | CO1.MSG.7804668 | RESOLUCIÓN 0379 DE 2025 | 28/Abr/2025 - 09:26 am |  | - |
+| Avisos | CO1.REQ.8094156 | Publicación modificación | 24/Abr/2025 - 05:44 pm |  |  |
+| General | CO1.MSG.7795742 | NOMBRAMIENTO DE COMITE EVALUADOR Y LISTA DE PROPONENTES | 24/Abr/2025 - 05:39 pm |  | - |
+| Avisos | CO1.MSG.7795650 | Publicación de la lista de ofertas del proceso MC-009-2025. | 24/Abr/2025 - 05:27 pm |  | - |
+| Avisos | CO1.MSG.7795649 | La lista de oferentes del proceso MC-009-2025 publicada por ALCALDIA MUNICIPIO DE CALARCA | 24/Abr/2025 - 05:27 pm |  | - |
+| General | CO1.MSG.7784573 | AVISO SOBRE LA NO LIMITACIÓN A MIPYMES | 23/Abr/2025 - 09:49 am |  | - |
+| Aclaraciones | CO1.MSG.7780142 | RE: Observaciones a la Invitacion Publica | 22/Abr/2025 - 02:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7777924 | Observaciones a la Invitacion Publica | 22/Abr/2025 - 09:36 am |  | - |

@@ -1,0 +1,273 @@
+Title: Licitaciones - AEROCIVIL - Contratación mínima cuantía 25000831 H3
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68312b305fcde6.33661820
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 06:34:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+53400C0461 REALIZAR EL MANTENIMIENTO Y CONSERVACIÓN DE LOS SISTEMAS DE RADIOAYUDAS AERONAUTICAS DE LA REGIONAL OCCIDENTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda: Pereira ; Quindío: Armenia ; Cauca: Popayan
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+25173100 - Sistemas y componentes de localización y navegación
+
+**Códigos adicionales UNSPSC:**
+
+25201600 - Sistemas de situación y navegación aeroespacial y componentes,24112900 - Embalajes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Construcción, mantenimiento y reforzamiento de edificaciones, -Impermeabilización, -Antenas y equipos de repetición, -Protecciones Eléctricas", "licicodigos": "52,57,100,243" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 22 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO ALFONSO BONILLA ARAGON Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 25173100, 25201600, 24112900 | 53400C0461 REALIZAR EL MANTENIMIENTO Y CONSERVACIÓN DE LOS SISTEMAS DE RADIOAYUDAS AERONAUTICAS DE LA REGIONAL OCCIDENTE | Mínima cuantía | Recursos propios | $100.000.000 | REGIONAL OCCIDENTE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 09:00 pm
+
+**Publicación de estudios previos:**
+
+23/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+23/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+03/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+12/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+18/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 18/Jun/2025 - 11:59 pm | 14/Abr/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 18/Jun/2025 - 11:59 am | 15/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Dic/2025 - 11:59 pm | 15/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SKYTECH SAS | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 98,335,888
+
+**Informes proceso de selección CO1.AWD.2280308 de 19/Jun/2025 - 11:29 am. Valor $98.335.888**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 09:31 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:31 am |  |
+| Informe de evaluación | 16/Jun/2025 - 02:21 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:21 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 04:06 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 04:06 pm |  |
+| Informe de selección | 19/Jun/2025 - 11:29 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2280308**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SKYTECH SAS * **Tipo documento:** NIT * **Documento:** 900349758 | * **Nombre:** WILSON RICARDO ADAME MANOSALVA * **Tipo documento:** * **Documento:** 7228446 | Villavicencio - Meta | $98.335.888 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2280308****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7997030
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 98,335,888
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2280308 | Informe de selección CO1.AWD.2280308 | 19/Jun/2025 - 11:29 am |  | - |
+| Reporte preliminar | CO1.AWD.2280308 | Informe de evaluación 3 CO1.AWD.2280308 | 17/Jun/2025 - 04:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280308 | Informe de evaluación 2 CO1.AWD.2280308 | 16/Jun/2025 - 02:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280308 | Informe de evaluación 1 CO1.AWD.2280308 | 13/Jun/2025 - 09:31 am |  | - |
+| Reporte preliminar | CO1.AWD.2278193 | Informe de evaluación 1 CO1.AWD.2278193 | 11/Jun/2025 - 07:19 pm |  | - |
+| Objeciones | CO1.MSG.8012365 | [Respondido] RE:OBSERVACION AL INFORME DE EVALUACION UNINGECOL SA | 11/Jun/2025 - 06:47 pm |  | - |
+| Objeciones | CO1.MSG.8012365 | OBSERVACION AL INFORME DE EVALUACION UNINGECOL SA | 11/Jun/2025 - 07:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2273875 | Informe de evaluación 2 CO1.AWD.2273875 | 10/Jun/2025 - 04:34 pm |  | - |
+| Objeciones | CO1.MSG.8002802 | SUBSANACION AL INFORME DE EVALUACION UNINGECOL SA | 09/Jun/2025 - 04:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273875 | Informe de evaluación 1 CO1.AWD.2273875 | 06/Jun/2025 - 05:31 pm |  | - |
+| Avisos | CO1.MSG.7971517 | La lista de oferentes del proceso 25000831 H3 publicada por AEROCIVIL | 03/Jun/2025 - 09:44 am |  | - |
+| Avisos | CO1.MSG.7971523 | Publicación de la lista de ofertas del proceso 25000831 H3 . | 03/Jun/2025 - 09:44 am |  | - |
+| General | CO1.MSG.7959346 | RE: Solicitud Respuesta observaciones CYK ING | 29/May/2025 - 02:07 pm |  | - |
+| Avisos | CO1.REQ.8315121 | Publicación modificación | 28/May/2025 - 06:26 pm |  |  |
+| General | CO1.MSG.7954763 | AVISO INFORMATIVO NO LIMITACION A MIPYMES | 28/May/2025 - 05:55 pm |  | - |
+| Aclaraciones | CO1.MSG.7954682 | RE: SKY-2025-311_Observaciones al pliego de condiciones borrador, Observaciones 25000831 H3 de 2025 | 28/May/2025 - 05:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7946166 | SKY-2025-311_Observaciones al pliego de condiciones borrador | 27/May/2025 - 04:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7944541 | Observaciones 25000831 H3 de 2025 | 27/May/2025 - 02:33 pm |  | - |

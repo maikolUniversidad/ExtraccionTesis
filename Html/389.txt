@@ -1,0 +1,311 @@
+Title: Licitaciones - INSTITUTO TECNICO NACIONAL DE COMERCIO SIMON RODRIGUEZ - Subasta Inversa 200.17.001-INT-SEL- ABR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68262cb5085525.34623592
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:50:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Selección Abreviada por subasta inversa
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA 4 NORTE # 34 AN 18 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 150,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43222501 | Selección Abreviada por subasta inversa | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $150.000.000 | CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/May/2025 - 12:38 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 02:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/May/2025 - 02:00 pm
+
+**Publicación Estudios Previos:**
+
+15/May/2025 - 02:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/May/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+19/May/2025 - 12:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+22/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+23/May/2025 - 04:18 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+23/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 06:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+03/Jun/2025 - 12:00 pm
+
+**Informe de presentación de Ofertas:**
+
+04/Jun/2025 - 05:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+06/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+06/Jun/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 01:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jun/2025 - 01:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2025 - 12:00 pm | 08/Dic/2025 - 11:59 pm |
+| Calidad del servicio | 20,00 | 09/Jun/2025 - 12:00 pm | 08/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 09/Jun/2025 - 12:00 pm | 08/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PYMES ON LINE | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 149,950,746
+
+**Informes proceso de selección CO1.AWD.2271757 de 06/Jun/2025 - 10:34 am. Valor $149.950.746**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 04:48 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:48 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 04:48 pm |  |
+| Informe de selección | 06/Jun/2025 - 10:34 am |  |
+| Informe de selección | 06/Jun/2025 - 10:34 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271757**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PYMES ON LINE SAS * **Tipo documento:** NIT * **Documento:** 900440998 | * **Nombre:** BERNARDO SAAVEDRA * **Tipo documento:** NIT * **Documento:** 6316686 | Cali - Valle del Cauca | $149.950.746 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271757****
+
+**Cuantía a la firma del contrato:**
+
+$ 149,950,746
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+06/Jun/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+06/Jun/2025 - 10:20 am
+
+**Fecha fin:**
+
+06/Jun/2025 - 10:40 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271757 | Informe de selección CO1.AWD.2271757 | 06/Jun/2025 - 10:34 am |  | - |
+| Objeciones | CO1.MSG.7983034 | [Respondido] RE:Subsanación | 06/Jun/2025 - 10:19 am |  | - |
+| Avisos | CO1.MSG.7992296 | La lista de oferentes del proceso 200.17.001-INT-SEL- ABR - 2025 (Presentación de oferta) publicada por INSTITUTO TECNICO NACIONAL DE COMERCIO SIMON RODRIGUEZ | 06/Jun/2025 - 09:12 am |  | - |
+| Avisos | CO1.REQ.8313197 | Publicación modificación | 06/Jun/2025 - 09:10 am |  |  |
+| General | CO1.MSG.7989336 | Subsanación | 05/Jun/2025 - 04:25 pm |  | - |
+| Objeciones | CO1.MSG.7983034 | Subsanación | 05/Jun/2025 - 07:54 am |  | - |
+| Reporte preliminar | CO1.AWD.2271757 | Informe de evaluación 1 CO1.AWD.2271757 | 04/Jun/2025 - 04:48 pm |  | - |
+| General | CO1.MSG.7952090 | RE: Observaciones al pliego de condiciones | 28/May/2025 - 06:45 pm |  | - |
+| Avisos | CO1.REQ.8231145 | Publicación modificación | 21/May/2025 - 03:24 pm |  |  |
+| Avisos | CO1.REQ.8231145 | Publicación modificación | 20/May/2025 - 02:46 pm |  |  |
+| Aclaraciones | CO1.MSG.7900991 | Observaciones Media Commerce Partners S.A.S 19 de Mayo de 2025 | 19/May/2025 - 11:49 am |  | - |
+| Aclaraciones | CO1.MSG.7900972 | Observaciones 2 | 19/May/2025 - 11:48 am |  | - |
+| Aclaraciones | CO1.MSG.7900816 | Observaciones experiencia | 19/May/2025 - 11:33 am |  | - |
+| Aclaraciones | CO1.MSG.7900539 | Obsevaciones indicadores | 19/May/2025 - 10:57 am |  | - |

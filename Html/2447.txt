@@ -1,0 +1,94 @@
+Title: Licitaciones - Rama Judicial – Dirección Seccional de Administración Judicial de Pereira
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834ca2393ddf0.57297682
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 11:48:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición, Instalación, configuración y puesta en funcionamiento a todo costo de los equipos y sistemas electrónicos para las salas de audiencias en el Distrito Judicial de Pereira, en sus 14 municipios.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : Pereira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211500 - Computadores,43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43211800 - Accesorios de dispositivos de entrada de datos de computador,43211900 - Monitores y pantallas de computador,43212000 - Accesorios de pantallas de computador,43212100 - Impresoras de computador,43212200 - Sistemas de manejo de almacenamiento de datos de computador,43221700 - Equipo fijo de red y componentes,43231500 - Software funcional específico de la empresa,52161500 - Equipos audiovisuales,52161600 - Accesorios de equipo audiovisual,52161502 - Reproductor de casetes o grabadora,52161547 - Amplificadores de audio,45121500 - Cámaras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Circuito cerrado de televisión, -Equipos audiovisuales", "licicodigos": "114,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 # 42 B 50 PISO 3 Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 02:57 pm
+
+**Plazo para solicitar aclaraciones:**
+
+03/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+05/Jun/2025 - 06:00 pm

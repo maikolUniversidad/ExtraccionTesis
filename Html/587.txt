@@ -1,0 +1,308 @@
+Title: Licitaciones - MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68533f6aa555d4.71050387
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:49:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar los servicios de ChatBot para mejorar la atención y orientación a la ciudadanía sobre la documentación metodológica en relación con el Sistema de Salud y Seguridad Social.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233500 - Software de intercambio de información
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa,43231512 - Software de manejo de licencias,43232100 - Software de edición y creación de contenidos,43232400 - Programas de desarrollo,43232403 - Software de integración de aplicaciones de empresas,43232700 - Software de aplicaciones de red,80101507 - Servicios de asesoramiento sobre tecnologías de la información,80111711 - Desarrolladores de software de tecnologías de la información permanentes,81111500 - Ingeniería de software o hardware,81111508 - Servicios de implementación de aplicaciones,81111700 - Sistemas de manejo de información MIS
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233500, 43232700 | PAA-4200-38. Contratar los servicios de ChatBot para mejorar la atención y orientación a la ciudadanía sobre la documentación metodológica en relación con el Sistema de Salud y Seguridad Social | Contratación directa | Presupuesto de entidad nacional | $71.506.666 | UNIDAD DE CONTRATACIÓN GESTIÓN CONTRACTUAL MINSALUD |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 03:55 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 03:55 pm
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 05:32 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 05:10 pm
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 05:20 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 11:59 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 11:59 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 03/Jul/2025 - 12:00 am | 03/Jun/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 12:00 am | 03/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 03/Jul/2025 - 12:00 am | 03/Jun/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** In-Nova Corporation SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 32,200,000
+
+**Informes proceso de selección CO1.AWD.2293519 de 07/Jul/2025 - 11:55 am. Valor $32.200.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 07:08 pm |  |
+| Informe de selección | 07/Jul/2025 - 11:55 am |  |
+| Informe de selección | 07/Jul/2025 - 11:55 am |  |
+| Informe de selección | 07/Jul/2025 - 11:55 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2293519**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** In-Nova Corporation SAS * **Tipo documento:** NIT * **Documento:** 901289619 | * **Nombre:** Sergio David Saavedra Sierra * **Tipo documento:** * **Documento:** 1031421892 | Bogotá - Distrito Capital de Bogotá | $32.200.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2293519****
+
+**Contrato MSPS-1727-2025 de In-Nova Corporation SAS:**
+
+**ID del contrato en SECOP:**
+
+MSPS-1727-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Contratar los servicios de ChatBot para mejorar la atención y orientación a la ciudadanía sobre la documentación metodológica en relación con el Sistema de Salud y Seguridad Social.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43233500 | Contratar los servicios de ChatBot para mejorar la atención y orientación a la ciudadanía sobre la documentación metodológica en relación con el Sistema de Salud y Seguridad Social. | 1,00 | UA | 71.506.666,00 | 32.200.000,00 | 71.506.666,00 | 32.200.000,00 |
+
+**Fecha de terminación del contrato:**
+
+07/Dic/2025 - 11:59 am
+
+**Plazo de ejecución:**
+
+5 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 32,200,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CLAUSULADO ANEXO MSPS-1727-2025 - FINAL.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293519 | Informe de selección CO1.AWD.2293519 | 07/Jul/2025 - 11:55 am |  | - |
+| Objeciones | CO1.MSG.8101674 | [Respondido] RE:Observación frente al cumplimiento del requisito de experiencia por parte de SUPPLY ASISTENCIA S.A.S. | 07/Jul/2025 - 11:53 am |  | - |
+| Objeciones | CO1.MSG.8097031 | [Respondido] RE:Justificación de Precios | 07/Jul/2025 - 11:53 am |  | - |
+| Objeciones | CO1.MSG.8101541 | [Respondido] RE:Solicitud de verificación sobre cumplimiento técnico y de experiencia del proponente GRUPO VECTOR S.A.S. | 07/Jul/2025 - 11:52 am |  | - |
+| Objeciones | CO1.MSG.8101576 | [Respondido] RE:Solicitud de verificación sobre cumplimiento técnico y de experiencia del proponente GRUPO VECTOR S.A.S. | 07/Jul/2025 - 11:52 am |  | - |
+| Objeciones | CO1.MSG.8100873 | [Respondido] RE:subsanacion | 07/Jul/2025 - 11:51 am |  | - |
+| General | CO1.MSG.8126812 | RESPUESTA OBSERVACIONES AL INFORME PRELIMINAR DE EVALUACIÓN | 07/Jul/2025 - 11:31 am |  | - |
+| Objeciones | CO1.MSG.8097581 | [Respondido] RE:Observación sobre el cumplimiento técnico de la solución propuesta por IN-NOVA CORPORATION S.A.S. | 07/Jul/2025 - 10:43 am |  | - |
+| Avisos | CO1.REQ.8435253 | Publicación modificación | 03/Jul/2025 - 05:55 pm |  |  |
+| Objeciones | CO1.MSG.8101674 | Observación frente al cumplimiento del requisito de experiencia por parte de SUPPLY ASISTENCIA S.A.S. | 01/Jul/2025 - 03:54 pm |  | - |
+| Objeciones | CO1.MSG.8101576 | Solicitud de verificación sobre cumplimiento técnico y de experiencia del proponente GRUPO VECTOR S.A.S. | 01/Jul/2025 - 03:48 pm |  | - |
+| Objeciones | CO1.MSG.8101541 | Solicitud de verificación sobre cumplimiento técnico y de experiencia del proponente GRUPO VECTOR S.A.S. | 01/Jul/2025 - 03:45 pm |  | - |
+| Objeciones | CO1.MSG.8100873 | subsanacion | 01/Jul/2025 - 02:49 pm |  | - |
+| Objeciones | CO1.MSG.8097581 | Observación sobre el cumplimiento técnico de la solución propuesta por IN-NOVA CORPORATION S.A.S. | 30/Jun/2025 - 10:09 pm |  | - |
+| Objeciones | CO1.MSG.8097031 | Justificación de Precios | 28/Jun/2025 - 05:52 pm |  | - |
+| Avisos | CO1.MSG.8096324 | Publicación de la lista de ofertas del proceso MSPS-SMC-012-2025. | 27/Jun/2025 - 07:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293519 | Informe de evaluación 1 CO1.AWD.2293519 | 27/Jun/2025 - 07:08 pm |  | - |
+| General | CO1.MSG.8089884 | RESPUESTA OBSERVACIONES EXTEMPORANEAS | 26/Jun/2025 - 06:01 pm |  | - |
+| Avisos | CO1.MSG.8089480 | La lista de oferentes del proceso MSPS-SMC-012-2025 publicada por MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL | 26/Jun/2025 - 05:15 pm |  | - |
+| General | CO1.MSG.8080626 | RESPUESTA OBSERVACIONES EXTEMPORANEAS | 25/Jun/2025 - 03:11 pm |  | - |
+| General | CO1.MSG.8075874 | SOCIALIZACIÓN ADENDA No.1 AL PROCESO MSPS-SMC-015-2025 | 24/Jun/2025 - 06:31 pm |  | - |
+| Avisos | CO1.REQ.8435253 | Publicación modificación | 24/Jun/2025 - 06:23 pm |  |  |
+| General | CO1.MSG.8074787 | RESOLUCIÓN COMITÉ ASESOR Y EVALUADOR | 24/Jun/2025 - 04:52 pm |  | - |
+| General | CO1.MSG.8074551 | RESPUESTA A LAS OBSERVACIONES | 24/Jun/2025 - 04:37 pm |  | - |
+| General | CO1.MSG.8074396 | AVISO DE LIMITACIÓN A MIPYMES | 24/Jun/2025 - 04:27 pm |  | - |
+| Aclaraciones | CO1.MSG.8065206 | SOLICITUD CONVOCATORIA LIMITADA A MIPYMES | 20/Jun/2025 - 01:57 pm |  | - |
+| Aclaraciones | CO1.MSG.8065117 | SOLICITUD TECNICA | 20/Jun/2025 - 12:44 pm |  | - |
+| Aclaraciones | CO1.MSG.8063720 | SOLICITUD LIMITACIÓN MIPYME | 20/Jun/2025 - 10:04 am |  | - |
+| Aclaraciones | CO1.MSG.8063292 | Observaciones | 20/Jun/2025 - 09:17 am |  | - |
+| Aclaraciones | CO1.MSG.8062226 | Observaciones Proceso de Selección de Mínima Cuantía No. MSPS-SMC-012-2025 | 19/Jun/2025 - 08:39 pm |  | - |

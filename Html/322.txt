@@ -1,0 +1,315 @@
+Title: Licitaciones - ALCALDIA DE GUAMAL - META
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f5affbe9f56.23560637
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 16:16:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN E INSTALACIÓN DE ELEMENTOS OFIMÁTICOS PARA EL FORTALECIMIENTO DE LA INFRAESTRUCTURA TECNOLOGICA DE LA ALCALDÍA MUNICIPAL DE GUAMAL - META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Guamal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 13 # 7 - 09 Guamal Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Comunidad Andina
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 210,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211600, 43211700, 43212100 | ADQUISICIÓN E INSTALACIÓN DE ELEMENTOS OFIMÁTICOS PARA EL FORTALECIMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA DE LA ALCALDÍA MUNICIPAL DE GUAMAL – META | Selección abreviada subasta inversa | Recursos propios | $210.000.000 | OFICINA ASESORA JURIDICA Y DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 12:10 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 12:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 12:30 pm
+
+**Publicación Estudios Previos:**
+
+22/May/2025 - 12:30 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 08:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+29/May/2025 - 08:22 am
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+29/May/2025 - 09:00 am
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 09:00 am
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+30/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+06/Jun/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+06/Jun/2025 - 08:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+11/Jun/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+18/Jun/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+20/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/Jun/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 20/Jun/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NGN INGENIERIA SAS | Guamal - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 200,458,000
+
+**Informes proceso de selección CO1.AWD.2278309 de 25/Jun/2025 - 09:44 am. Valor $200.458.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 11/Jun/2025 - 09:20 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:20 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:20 am |  |
+| Informe de evaluación | 18/Jun/2025 - 10:03 am |  |
+| Informe de selección | 25/Jun/2025 - 09:44 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2278309**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Next Generation Network Ingeniería en Tecnología SAS * **Tipo documento:** NIT * **Documento:** 9013093072 | * **Nombre:** Angie Milena Bermúdez Izquierdo * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1122143282 | Guamal - Meta | $200.458.000 | - | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2278309****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8015564
+
+**Estado del contrato:**
+
+Borrador
+
+**Cuantía a la firma del contrato:**
+
+$ 200,458,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jun/2025 - 08:40 am
+
+**Fecha de inicio:**
+
+18/Jun/2025 - 09:00 am
+
+**Fecha fin:**
+
+18/Jun/2025 - 09:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2278309 | Informe de selección CO1.AWD.2278309 | 25/Jun/2025 - 09:44 am |  | - |
+| Reporte preliminar | CO1.AWD.2278309 | Informe de evaluación 2 CO1.AWD.2278309 | 18/Jun/2025 - 10:03 am |  | - |
+| Avisos | CO1.MSG.8048418 | La lista de oferentes del proceso SASI-SAF-001-2025 (Presentación de oferta) publicada por ALCALDIA DE GUAMAL - META | 18/Jun/2025 - 08:21 am |  | - |
+| Reporte preliminar | CO1.AWD.2278309 | Informe de evaluación 1 CO1.AWD.2278309 | 11/Jun/2025 - 09:20 am |  | - |
+| Avisos | CO1.MSG.7992626 | La lista de oferentes del proceso SASI-SAF-001-2025 (Presentación de oferta) publicada por ALCALDIA DE GUAMAL - META | 06/Jun/2025 - 09:49 am |  | - |
+| Avisos | CO1.MSG.7992629 | Publicación de la lista de ofertas del proceso SASI-SAF-001-2025 (Presentación de oferta). | 06/Jun/2025 - 09:49 am |  | - |
+| General | CO1.MSG.7989983 | Reiteración ficha tecnica definitiva | 05/Jun/2025 - 05:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7948185 | Asunto Solicitud cierre a Mipymes proceso Selección Abreviada Subasta Inversa Electrónica No. SASI-SAF-001-2025. | 27/May/2025 - 09:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7943765 | OBSERVACIONES TECNICAS | 27/May/2025 - 12:22 pm |  | - |

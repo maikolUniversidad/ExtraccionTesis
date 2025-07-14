@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA TECNICA SAN JOSE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fd5484876d1.06724093
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE HOSTING, DOMINIO, PÁGINA WEB Y COMPUTACIÓN EN LA NUBE, PROGRAMA PLATAFORMA DE NOTAS PARA 195 ESTUDIANTES Y APLICATIVO MÓVIL PARA ANDROID, HISTORIAL DE AÑOS ANTERIORES (2014-2024); IMPRESIÓN DE BOLETINES DE CADA PERIODO EMPASTADO LIBRO DE REGISTRO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Dolores
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161801 - Servicio de arriendo o leasing de plataformas o equipos de comunicación de datos
+
+**Códigos adicionales UNSPSC:**
+
+82121506 - Impresión de publicaciones,82121903 - Encuadernación con pegante
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Hosting, -Litografía e Impresión a gran formato, -Encuadernación, empastado y argollado, -Servicios en la nube (Cloud), -Diseño web (Redes sociales, capacitación, asesoría), -Aplicaciones para dispositivos móviles", "licicodigos": "111,155,415,437,480,652" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+VEREDA SAN JOSE Dolores Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+209 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 5,500,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 10:31 am
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 08:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 08:00 am
+
+**Plazo de ejecución del contrato:**
+
+30/Nov/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

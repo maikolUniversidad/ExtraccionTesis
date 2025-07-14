@@ -1,0 +1,237 @@
+Title: Licitaciones - GOBERNACION DEL DEPARTAMENTO DEL CESAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68198c4572a082.39773528
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 02:48:23
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+FIREWALL REQUERIDO PARA SUPERVISAR Y PROTEGER LA PLATAFORMA TECNOLÓGICA (HARDWARE Y SOFTWARE) DE INTRUSOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 16 # 12 - 120 EDIFICIO ALFONSO LOPEZ MIECHELSEN Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222501, 43233203, 43233204 | FIREWALL REQUERIDO PARA SUPERVISAR Y PROTEGER LA PLATAFORMA TECNOLÓGICA (HARDWARE Y SOFTWARE) DE INTRUSOS. PS_0184 | Mínima cuantía | Recursos propios | $100.000.000 | Unidad de Contratación de la Secretaría General - Comprador |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 10:52 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+05/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+06/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+07/May/2025 - 06:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+07/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+09/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+09/May/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 06:00 pm | 15/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 08/May/2025 - 10:29 pm | * **Nombre:** WEBSYS SOLUCIONES INFORMATICAS | Valledupar - Cesar |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 92,082,200
+
+**Informes proceso de selección CO1.AWD.2250728 de 15/May/2025 - 07:17 am. Valor $92.082.200**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/May/2025 - 01:28 pm |  |
+| Informe de selección | 15/May/2025 - 07:17 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2250728**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NELSON GUTIERREZ ACOSTA Y/O WEBSYS SOLUCIONES INFORMATICAS * **Tipo documento:** NIT * **Documento:** 624000081 | * **Nombre:** NELSON GUTIERREZ * **Tipo documento:** * **Documento:** 303015 | Valledupar - Cesar | $92.082.200 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2250728****
+
+**Cuantía a la firma del contrato:**
+
+$ 92,082,200
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2250728 | Informe de selección CO1.AWD.2250728 | 15/May/2025 - 07:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250728 | Informe de evaluación 1 CO1.AWD.2250728 | 13/May/2025 - 01:28 pm |  | - |
+| Avisos | CO1.MSG.7873825 | Publicación de la lista de ofertas del proceso MC-SGR-0008-2025. | 13/May/2025 - 01:28 pm |  | - |
+| Avisos | CO1.MSG.7857505 | La lista de oferentes del proceso MC-SGR-0008-2025 publicada por GOBERNACION DEL DEPARTAMENTO DEL CESAR | 09/May/2025 - 08:35 am |  | - |
+| General | CO1.MSG.7849801 | Respuestas a la Observaciones a la Invitacion Publica No. MC-SGR-0008-2025 | 07/May/2025 - 09:52 pm |  | - |
+| General | CO1.MSG.7846482 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 07/May/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.7846460 | RE: SOLICITUD DE LIMITACIÓN A MIPYME DEL PROCESO NÚMERO - MC-SGR-0008-2025. | 07/May/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.7846066 | Aviso de Limitacion Proceso a Mipymes Municipales MC-SGR-0008-2025 | 07/May/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.7846447 | RE: LIMITACION DEL PROCESO A MIPYMES - Nº MC-SGR-0008-2025 | 07/May/2025 - 03:01 pm |  | - |

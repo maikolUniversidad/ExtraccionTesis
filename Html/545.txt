@@ -1,0 +1,308 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b0311ae396.99465329
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:33:46
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar servicios profesionales de manera autónoma e independiente en el desarrollo de nuevas funcionalidades, soporte y mantenimiento del aplicativo de gestión Documental SIGA que tiene el DASCD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet
+
+**Códigos adicionales UNSPSC:**
+
+81111510 - Servicios de desarrollo de aplicaciones para servidores de internet / intranet,81112205 - Mantenimiento de software de sistemas de gestión de bases de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Cra 30 No 25-90 piso 9 costado oriental Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+10 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111509, 81111510, 81112205 | Prestar servicios profesionales de manera autónoma e independiente en el desarrollo de nuevas funcionalidades, soporte y mantenimiento del aplicativo de gestión Documental SIGA que tiene el DASCD. | Selección abreviada menor cuantía | Recursos propios | $84.190.000 | SUBDIRECCION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 04:06 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+28/May/2025 - 04:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+28/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+29/May/2025 - 05:00 pm
+
+**Realización del sorteo:**
+
+30/May/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 05:00 pm
+
+**Publicación de la lista de precalificados:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+05/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+06/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+10/Jun/2025 - 10:02 am
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+27/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+03/Jul/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 03/Jul/2025 - 07:00 pm | 03/Nov/2026 - 07:00 pm |
+| Pago de salarios | 10,00 | 03/Jul/2025 - 07:00 pm | 03/Jul/2029 - 07:00 pm |
+| Calidad del servicio | 15,00 | 03/Jul/2025 - 07:00 pm | 03/Nov/2026 - 07:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** C.G.H. INGENIERIA & SOLUCIONES S.A.S. | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 70,000,000
+
+**Informes proceso de selección CO1.AWD.2282447 de 25/Jun/2025 - 10:57 am. Valor $70.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 02:01 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:01 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 02:01 pm |  |
+| Informe de selección | 25/Jun/2025 - 10:57 am |  |
+| Informe de selección | 25/Jun/2025 - 10:57 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2282447**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** C.G.H. INGENIERIA & SOLUCIONES S.A.S. * **Tipo documento:** NIT * **Documento:** 900450904 | * **Nombre:** HUGO ANDRES MOGOLLON PARRA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1121816111 | Villavicencio - Meta | $70.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2282447****
+
+**ID del contrato en SECOP:**
+
+CPS-092-2025
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+03/May/2026 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 70,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2282447 | Informe de selección CO1.AWD.2282447 | 25/Jun/2025 - 10:57 am |  | - |
+| Objeciones | CO1.MSG.8043152 | [Respondido] RE:Observacion al informe de evaluacion | 24/Jun/2025 - 02:01 pm |  | - |
+| Objeciones | CO1.MSG.8044340 | [Respondido] RE:FICHA TECNICA | 24/Jun/2025 - 02:01 pm |  | - |
+| General | CO1.MSG.8072808 | RESPUESTA OBSERVACIONES AL INFORME DE EVALUACIÓN | 24/Jun/2025 - 01:59 pm |  | - |
+| Objeciones | CO1.MSG.8044340 | FICHA TECNICA | 17/Jun/2025 - 02:38 pm |  | - |
+| Objeciones | CO1.MSG.8043152 | Observacion al informe de evaluacion | 17/Jun/2025 - 11:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2282447 | Informe de evaluación 1 CO1.AWD.2282447 | 16/Jun/2025 - 02:01 pm |  | - |
+| Avisos | CO1.MSG.8034839 | Publicación de la lista de ofertas del proceso DASCD-SAMC-001-2025 copia (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 16/Jun/2025 - 09:13 am |  | - |
+| Avisos | CO1.MSG.8006500 | La lista de oferentes del proceso DASCD-SAMC-001-2025 copia (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 10/Jun/2025 - 10:05 am |  | - |

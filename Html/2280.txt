@@ -1,0 +1,86 @@
+Title: Licitaciones - HOSMIL - Solicitud de información a los Proveedores (SECOPII) COT-225-2025-HOMIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a79f8263db1.80900348
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 12:41:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LA SUSCRIPCIÓN DE CONTROLES DE SEGURIDAD EN LA NUBE Y LA ACTUALIZACIÓN DEL LICENCIAMIENTO Y SOPORTE DE LA SOLUCIÓN DE FORTINET DEL HOSPITAL MILITAR CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112501 - Servicio de licencias del software del computador
+
+**Códigos adicionales UNSPSC:**
+
+43222500 - Equipo de seguridad de red,43231512 - Software de manejo de licencias,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática, -Servicios en la nube (Cloud)", "licicodigos": "297,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Transversal 3C N° 49-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 03:58 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/May/2025 - 06:00 pm

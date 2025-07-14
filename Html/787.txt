@@ -1,0 +1,241 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE LETICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681018c0d82013.18758982
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-18 01:20:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE EQUIPOS DE COMPUTO, COMUNICACION Y ACCESORIOS PARA EL FORTALECIMIENTO DE LA COMISARIA DE FAMILIA DEL MUNICIPIO DE LETICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211711 - Escáneres,43212105 - Impresoras láser,43212110 - Impresoras de múltiples funciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 10 # 10- 47 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212105, 43212110, 43211500 | LINEA 42 - COMPRA DE IMPRESORAS ESCANER Y EQUIPOS TECNOLÓGICOS PARA LA GESTIÓN ADMINISTRATIVA DE LA ALCALDIA DE LETICIA | Mínima cuantía | Recursos propios | $39.800.000 | Oficina Asesora Juridica Alcaldia de Leticia |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 06:42 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 11:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 05:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+06/May/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+12/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 01/May/2025 - 12:05 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 2 | 02/May/2025 - 02:47 am | * **Nombre:** DISTRIBUIDORA AMAZONAS SAS | Leticia - Amazonas |
+| 3 | 02/May/2025 - 03:48 pm | * **Nombre:** SEMCAR SAS | Distrito Capital de Bogotá |
+| 4 | 02/May/2025 - 05:09 pm | * **Nombre:** LASUS | Medellín - Antioquia |
+| 5 | 02/May/2025 - 05:13 pm | * **Nombre:** ADAMCOL SAS | Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,300,000
+
+**Informes proceso de selección CO1.AWD.2246309 de 16/May/2025 - 04:52 am. Valor $39.300.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 09:59 am |  |
+| Informe de evaluación | 08/May/2025 - 09:59 am |  |
+| Informe de selección | 16/May/2025 - 04:52 pm |  |
+| Informe de selección | 16/May/2025 - 04:52 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246309**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DISTRIBUIDORA AMAZONAS SAS * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 901351717 | * **Nombre:** DORA LILIANA CUELLAR CUELLAR * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 20532854 | Leticia - Amazonas | $39.300.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246309****
+
+**Cuantía a la firma del contrato:**
+
+$ 39,300,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246309 | Informe de selección CO1.AWD.2246309 | 16/May/2025 - 04:52 pm |  | - |
+| Avisos | CO1.MSG.7893623 | La lista de oferentes del proceso MC-024-2025 publicada por ALCALDIA MUNICIPIO DE LETICIA | 16/May/2025 - 11:16 am |  | - |
+| Avisos | CO1.MSG.7893630 | Publicación de la lista de ofertas del proceso MC-024-2025. | 16/May/2025 - 11:16 am |  | - |
+| Reporte preliminar | CO1.AWD.2246309 | Informe de evaluación 1 CO1.AWD.2246309 | 08/May/2025 - 09:59 am |  | - |
+| General | CO1.MSG.7836116 | RE: OBSERVACIÓN AL PROCESO MC-024-2025 - COMPRA DE EQUIPOS DE CÓMPUTO, COMUNICACIÓN Y ACCESORIOS PARA EL FORTALECIMIENTO DE LA COMISARÍA DE FAMILIA DEL MUNICIPIO DE LETICIA | 06/May/2025 - 07:55 am |  | - |
+| General | CO1.MSG.7828600 | PUBLICACION AVISO LIMITACION MIPYMES_MC-024-2025 | 02/May/2025 - 06:03 pm |  | - |
+| Avisos | CO1.REQ.8180365 | Publicación modificación | 02/May/2025 - 05:47 pm |  |  |
+| General | CO1.MSG.7828447 | RESPUESTAS A LAS OBSERVACIONES | 02/May/2025 - 05:43 pm |  | - |
+| General | CO1.MSG.7828413 | PUBLICACION ADENDA 002_MC-024-2025 | 02/May/2025 - 05:37 pm |  | - |
+| Avisos | CO1.REQ.8180365 | Publicación modificación | 02/May/2025 - 05:27 pm |  |  |
+| Avisos | CO1.REQ.8180365 | Publicación modificación | 02/May/2025 - 07:05 am |  |  |
+| General | CO1.MSG.7823183 | Informacion General. | 01/May/2025 - 03:38 pm |  | - |
+| General | CO1.MSG.7823169 | DECRETO 073 DE 30 DE ABRIL DE 2025 | 01/May/2025 - 03:01 pm |  | - |
+| General | CO1.MSG.7815607 | PUBLICACION ADENDA 001_MC-024-2025 | 29/Abr/2025 - 06:00 pm |  | - |

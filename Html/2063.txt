@@ -1,0 +1,94 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE AMBIENTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6852203a5db895.14354149
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 16:22:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el desarrollo e implementación de un Sistema Integrado de Datos y Modelos Acoplados que contenga los componentes: (Hidrológico, Hidráulico y de Calidad) de los ríos Torca, Salitre, Fucha y Tunjuelo para la gestión dinámica y adaptativa del recurso hídrico.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+81102700 - Servicios de diseño e ingeniería de sistemas instrumentados de control,77101500 - Evaluación de impacto ambiental,81101500 - Ingeniería civil y arquitectura,81101700 - Ingeniería eléctrica y electrónica,81101800 - Ingeniería química
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Caracas No. 54-38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 08:35 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+25/Jun/2025 - 05:00 pm

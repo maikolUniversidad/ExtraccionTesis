@@ -1,0 +1,252 @@
+Title: Licitaciones - MUNICIPIO DE LA MONTAÑITA CAQUETA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682dc32a90b195.62652838
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-03 10:58:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICION E INSTALACION DE ELEMENTOS TECNOLOGICOS QUE PERMITAN GARANTIZAR LA ATENCION A LA CIUDADANIA POR PARTE DE LA POLICIA NACIONAL ACANTONADA EN EL MUNICIPIO DE LA MONTAÑITA CAQUETA, DE CONFORMIDAD CON EL PROYECTO APROBADO POR EL COMITE DE ORDEN PUBLICO-FONSET
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : La Montañita
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos de oficina (Destructoras de papel, otros)", "licicodigos": "104,105,476" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 5 CALLE 4 ESQUINA La Montañita Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 79,304,194
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56101700, 56112100, 43211500, 56101600, 52151600 | ADQUISICIÓN E INSTALACION DE ELEMENTOS TECNOLOGICOS QUE PERMITAN GARANTIZAR LA ATENCION A LA CIUDADANIA POR PARTE DE LA POLICIA NACIONAL ACONTONADA EN EL MUNINICIPIO DE LA MONTAÑITA CAQUETA, DE CONFORMIDAD CON EL PROYECTO APROBADO POR EL COMITÉ DE ORDEN PUBLICO-FONSET | Selección abreviada subasta inversa | Recursos propios | $79.304.194 | MUNICIPIO LA MONTAÑITA |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:30 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 11:30 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 11:30 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/May/2025 - 06:40 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 03:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+28/May/2025 - 03:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+28/May/2025 - 03:45 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+28/May/2025 - 04:22 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 03:30 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+29/May/2025 - 03:45 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 07:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+30/May/2025 - 07:01 pm
+
+**Informe de presentación de Ofertas:**
+
+30/May/2025 - 07:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+03/Jun/2025 - 09:30 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/Jun/2025 - 09:30 am
+
+**Apertura del sobre económico:**
+
+09/Jun/2025 - 09:30 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 11:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jun/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 08:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jun/2025 - 08:30 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 12:00 pm | 31/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 06/Jun/2025 - 12:00 pm | 20/Jun/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+06/Jun/2025 - 08:00 am
+
+**Fecha de inicio:**
+
+06/Jun/2025 - 08:02 am
+
+**Fecha fin:**
+
+06/Jun/2025 - 08:30 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8335221 | Publicación modificación | 03/Jun/2025 - 10:00 am |  |  |
+| Reporte preliminar | CO1.AWD.2270312 | Informe de evaluación 1 CO1.AWD.2270312 | 03/Jun/2025 - 09:59 am |  | - |
+| Avisos | CO1.MSG.7969076 | La lista de oferentes del proceso 006-SASI-2025 (Presentación de oferta) publicada por MUNICIPIO DE LA MONTAÑITA CAQUETA | 30/May/2025 - 07:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7915333 | OBSERVACIONES, FINANCIERAS | 21/May/2025 - 12:25 pm |  | - |

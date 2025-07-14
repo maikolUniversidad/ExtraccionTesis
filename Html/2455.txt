@@ -1,0 +1,98 @@
+Title: Licitaciones - ADRES - Solicitud de información a los Proveedores (SECOPII) ADRES-SIP-017-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683484274c0a82.77508171
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:18:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir el servicio de arrendamiento de equipos tecnológicos y periféricos ID-009-DGTIC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112401 - Alquiler de hardware de computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software", "licicodigos": "107" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida Calle 26 No. 69 - 76 Piso 17 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+11 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 08:28 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+05/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7975792 | RE: OBSERVACIONES | 03/Jun/2025 - 05:52 pm |  | - |
+| General | CO1.MSG.7975768 | RE: SOLICITUD ACLARACION A LA SOLICITUD ARRENDAMIENTO DE EQUIPOS | 03/Jun/2025 - 05:51 pm |  | - |
+| Avisos | CO1.REQ.8313520 | Publicación modificación | 30/May/2025 - 10:44 am |  |  |

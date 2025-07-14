@@ -1,0 +1,287 @@
+Title: Licitaciones - MUNICIPIO DE TAURAMENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6825078453dfc5.70890677
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-05 17:26:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DE LICENCIAS DE DROPBOX BUSINESS STANDARD, ESET PROTECT ENTRY, FIREWALL SONICWALL Y CUENTAS DE CORREO DE GOOGLE PARA LA ALCALDÍA MUNICIPAL DE TAURAMENA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Casanare : Tauramena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 5 14 34 Tauramena Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 70,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200, 81112000 | RENOVACIÓN DE LICENCIA DE DROPBOX, LICENCIA ZKTECO Y OTRAS LICENCIAS PARA LA ALCALDÍA MUNICIPAL DE TAURAMENA. | Selección abreviada subasta inversa | Recursos propios | $70.000.000 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 04:04 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 04:05 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 04:05 pm
+
+**Publicación Estudios Previos:**
+
+14/May/2025 - 04:05 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+21/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+22/May/2025 - 04:58 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+22/May/2025 - 05:01 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+22/May/2025 - 05:01 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+23/May/2025 - 05:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+27/May/2025 - 08:01 am
+
+**Informe de presentación de Ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+28/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+04/Jun/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jun/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+12/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INUCLEO ING | Tauramena - Casanare |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 64,641,000
+
+**Informes proceso de selección CO1.AWD.2265452 de 05/Jun/2025 - 11:19 am. Valor $64.641.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 04:06 pm |  |
+| Informe de evaluación | 28/May/2025 - 04:06 pm |  |
+| Informe de evaluación | 28/May/2025 - 04:06 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 06:06 pm |  |
+| Informe de selección | 05/Jun/2025 - 11:19 am |  |
+| Informe de selección | 05/Jun/2025 - 11:19 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265452**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INUCLEO INGENIERIA S.A.S * **Tipo documento:** NIT * **Documento:** 901253365 | * **Nombre:** JUAN DAVID NIETO JARAMILLO * **Tipo documento:** NIT * **Documento:** 1030580468 | Tauramena - Casanare | $64.641.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265452****
+
+**Cuantía a la firma del contrato:**
+
+$ 64,641,000
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jun/2025 - 05:00 pm
+
+**Fecha de inicio:**
+
+04/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+04/Jun/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265452 | Informe de selección CO1.AWD.2265452 | 05/Jun/2025 - 11:19 am |  | - |
+| Avisos | CO1.MSG.7978801 | Publicación de la lista de ofertas del proceso SASIE-MT-SGL-003-2025 (Presentación de oferta). | 04/Jun/2025 - 10:28 am |  | - |
+| Avisos | CO1.MSG.7978545 | La lista de oferentes del proceso SASIE-MT-SGL-003-2025 (Presentación de oferta) publicada por MUNICIPIO DE TAURAMENA | 04/Jun/2025 - 10:03 am |  | - |
+| Reporte preliminar | CO1.AWD.2265452 | Informe de evaluación 2 CO1.AWD.2265452 | 03/Jun/2025 - 06:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265452 | Informe de evaluación 1 CO1.AWD.2265452 | 28/May/2025 - 04:06 pm |  | - |
+| Avisos | CO1.MSG.7941914 | La lista de oferentes del proceso SASIE-MT-SGL-003-2025 (Presentación de oferta) publicada por MUNICIPIO DE TAURAMENA | 27/May/2025 - 09:28 am |  | - |
+| General | CO1.MSG.7917948 | RESPUESTA A OBSERVACIONES AL PREPLIEGO | 21/May/2025 - 05:03 pm |  | - |

@@ -1,0 +1,132 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA SAN AGUSTIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681aa11f4690e0.55792119
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 07:05:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+cantidad Descripción Valor unitario Valor total 22 DISCO SSD 125 GB SEDE DANIEL MARIA LOPEZ(8) Y SEDE PRINCIPAL (10) Y SEDE FRANCISCO JOSE DE CALDAS (4) 8 MANTENIMIENTO PREVENTIVO POR EQUIPO: ESTO INCLUYE, INSTALACIÓN DE DISCO INSTALACIÓN DE SISTEMA OPERATIVO Y TODOS SUS PROGRAMAS SEDE (DANIEL MARIA LOPEZ) 21 MANTENIMIENTO PREVENTIVO POR EQUIPO: ESTO INCLUYE,INSTALACION DE TECLADO, INSTALACIÓN DE DISCO INSTALACIÓN DE SISTEMA OPERATIVO Y TODOS SUS PROGRAMAS A SEDE C (SEDE PRINCIPAL) 20
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caldas : Samaná
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112204 - Mantenimiento de software de sistemas operativos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "105,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 5A #8-60 Samaná Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 5,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112204, 81112300 | Mantenimiento de equipos de computo con el fin de mejorar el sistema de procesamiento de informacion y reparacion de partes inservibles como teclado entre otros Formación integral FI | Contratación régimen especial - Régimen especial | SGP | $5.000.000 | CONTRATACION I.E SAN AGUSTIN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 04:29 pm
+
+**Fecha de Firma del Contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8217538 | Publicación modificación | 07/May/2025 - 05:21 pm |  |  |

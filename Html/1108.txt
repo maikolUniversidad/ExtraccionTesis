@@ -1,0 +1,194 @@
+Title: Licitaciones - INSTITUTO NACIONAL PARA CIEGOS - Contratación mínima cuantía 084
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e9a20933ea4.30557083
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 09:48:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de mantenimiento correctivo y preventivo de las máquinas Offset.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72152101 - Servicio de trabajos acústicos y de cielorraso
+
+**Códigos adicionales UNSPSC:**
+
+73152102 - Servicio de reparación de equipo industrial,73152103 - Servicios de mantenimiento de equipos de ingeniería
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos para imprenta y litografía", "licicodigos": "106,617" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 13 No. 34 -91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+300 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 73152101, 73152102, 73152103, 81101707 | Servicio de mantenimiento correctivo y preventivo de las máquinas Offset y de la máquina Estereotipadora PED 30. | Mínima cuantía | Recursos propios | $20.000.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+14/May/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+14/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+16/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+21/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+22/May/2025 - 12:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 20/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 20/May/2025 - 12:00 pm | 09/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 20/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |

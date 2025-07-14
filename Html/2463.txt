@@ -1,0 +1,104 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL DE CONTADORES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6830d2b57c2762.62573175
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:25:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación y puesta en funcionamiento de un sistema de gestión de documentos electrónicos de archivo (SGDEA), que permita la implementación de los procesos de la gestión documental y la integración de los sistemas de información de la UAE Junta Central de Contadores.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,81111600 - Programadores de computador,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Gestión documental, organización y/o transporte y/o custodia de archivos", "licicodigos": "103,323" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 97-46 EDIFICIO TORRE 97 OFICINA 301 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 02:49 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/Jun/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7973591 | RE: OBSERVACIONES AL PLIEGO INTEXUS, Observaciones al proceso en referencia, Anexo Técnico - Proceso de Adquisición, instalación y puesta en funcionamiento de un SGDEA | 03/Jun/2025 - 02:10 pm |  | - |
+| Avisos | CO1.REQ.8312523 | Publicación modificación | 28/May/2025 - 02:41 pm |  |  |
+| Aclaraciones | CO1.MSG.7944218 | OBSERVACIONES AL PLIEGO INTEXUS | 27/May/2025 - 01:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7944100 | Observaciones al proceso en referencia | 27/May/2025 - 01:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7943740 | Anexo Técnico - Proceso de Adquisición, instalación y puesta en funcionamiento de un SGDEA | 27/May/2025 - 12:34 pm |  | - |

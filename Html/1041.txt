@@ -1,0 +1,126 @@
+Title: Licitaciones - EMPRESA SOCIAL DEL ESTADO CENTRO 1 ESE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685adcc07ad094.61243231
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 12:15:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar sus servicios como profesional de apoyo del área Tecnologías de la Información en los puntos de atención de la ESE CENTRO 1.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Piendamó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111608 - Desarrolladores temporales de software de tecnologías de la información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Capacitación en tecnologías de la información y telecomunicaciones, -Asesorías en el sector TIC", "licicodigos": "158,781" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 4 # 5 - 78 Piendamó Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 25,425,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80111608, 80111609 | PROFESIONAL SISTEMAS (Apoyo) | Contratación régimen especial - Régimen especial | Recursos propios | $25.425.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 11:50 am
+
+**Fecha de Firma del Contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Dic/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

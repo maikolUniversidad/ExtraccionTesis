@@ -1,0 +1,92 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE IBAGUE - UPRES TOLIMA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a65d611df57.04315852
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 08:16:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE LOS SERVICIOS DE MANTENIMIENTO CORRECTIVO A TODO COSTO DE EQUIPOS DE CÓMPUTO, ESCÁNER, CIRCUITO CERRADO DE TELEVISIÓN (CCTV) Y OTROS, DE LA UNIDAD PRESTADORA DE SALUD TOLIMA Y LOS DIFERENTES ESTABLECIMIENTOS DE SANIDAD POLICIAL UBICADOS EN LOS MUNICIPIOS DE LA DORADA - CALDAS, MARIQUITA, SAN LUIS, ESPINAL E IBAGUÉ TOLIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima: Ibagué ; Caldas: La Dorada ; Tolima: San Sebastián De Mariquita ; Tolima: San Luis ; Tolima: El Espinal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112303 - Mantenimiento de computadores “mainframe”
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Circuito cerrado de televisión", "licicodigos": "106,114" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 4 No 14-52 CENTRO Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 02:12 pm
+
+**Plazo para solicitar aclaraciones:**
+
+08/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7855567 | COTIZACION MANTENIMIENTO EQUIPOS | 08/May/2025 - 05:03 pm |  | - |

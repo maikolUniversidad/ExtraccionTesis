@@ -1,0 +1,96 @@
+Title: Licitaciones - METRO DE BOGOTA SA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cdd0885e2e0.64385061
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:27:17
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE LICENCIAS DEL SOFTWARE ESPECIALIZADO PARA EL CORRECTO DESARROLLO DE LAS ACTIVIDADES DE LA EMPRESA METRO DE BOGOTÁ S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232604 - Software de diseño asistido de computador cad
+
+**Códigos adicionales UNSPSC:**
+
+43232102 - Software de imágenes gráficas o de fotografía,43231500 - Software funcional específico de la empresa,43231513 - Software para oficinas,43232100 - Software de edición y creación de contenidos,43232103 - Software de creación y edición de video,43232104 - Software de procesamiento de palabras,43232200 - Software de gestión de contenidos,43232202 - Software de manejo de documentos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 9 # 76-49 Pisos 3-4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 11:12 am
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8229321 | Publicación modificación | 08/May/2025 - 06:16 pm |  |  |

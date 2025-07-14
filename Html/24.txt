@@ -1,0 +1,362 @@
+Title: Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6819781a4931f5.72322373
+
+Markdown Content:
+Licitaciones - SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO - Subasta Inversa SIC 11 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-11 06:32:14
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN PARA LA ACTUALIZACIÓN DE LA INFRAESTRUCTURA TECNOLÓGICA DE SEGURIDAD PERIMETRAL, INCLUIDA LA RENOVACIÓN DE SUSCRIPCIONES Y SERVICIOS CONEXOS REQUERIDOS PARA LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Códigos adicionales UNSPSC:**
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81111801 - Seguridad de los computadores, redes o internet,81112220 - Mantenimiento de software de servidores,43233204 - Software de equipos de seguridad de red y de redes privadas virtuales vpn
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 33 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 13 No. 27 - 00 Edificio Bochica Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 4,676,322,036
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111809, 81111812, 81111801, 81112201, 81112208 | 20.1 - Adquisición y renovación de solucion de AntiDDoS de la SIC (SOFTWARE) | Selección abreviada subasta inversa | Recursos propios | $394.295.990 | Unidad de Contratación - Grupo de contratación SIC |
+| 43222501, 81111812, 81111801, 81112220, 43233204 | 20.1.1.2.51 - Adquisición para la renovación de los firewall datacenter principal para la Superintendencia de Industria y Comercio | Selección abreviada subasta inversa | Recursos propios | $2.348.036.560 | Unidad de Contratación - Grupo de contratación SIC |
+| 43222501, 43222502, 81111801, 81112220, 43233204, 43233205 | 20.1.1.2.52 - Adquisición para el fortalecimiento de la solución de correlacionador de eventos para la Superintendencia de Industria y Comercio | Selección abreviada subasta inversa | Recursos propios | $600.000.000 | Unidad de Contratación - Grupo de contratación SIC |
+| 81111809, 81111812, 81111801, 81112201, 81112208 | 20.1.1.2.53 - Adquisición y renovación de solucion de Balanceador de la SIC (SOFTWARE) | Selección abreviada subasta inversa | Recursos propios | $305.989.486 | Unidad de Contratación - Grupo de contratación SIC |
+| 81111809, 81111812, 81111801, 81112201, 81112208 | 20.1.1.3.4 - Renovación de suscripciones para las soluciones de seguridad perimetral | Selección abreviada subasta inversa | Recursos propios | $1.028.000.000 | Unidad de Contratación - Grupo de contratación SIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+05/May/2025 - 09:25 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+05/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+05/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+14/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+15/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+20/May/2025 - 03:26 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+20/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+23/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 10:03 am
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 10:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+11/Jun/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+01/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+04/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 03:33 pm | 12/Jul/2025 - 03:33 pm |
+| Calidad y correcto funcionamiento de los bienes |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SOFTSECURITY S.A.S | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 4,567,554,300
+
+**Informes proceso de selección CO1.AWD.2272201 de 01/Jul/2025 - 09:08 am. Valor $4.567.554.300**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 06:22 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 06:22 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 06:22 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 09:02 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:02 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:02 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:02 am |  |
+| Informe de evaluación | 11/Jun/2025 - 09:02 am |  |
+| Informe de evaluación | 11/Jun/2025 - 12:40 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+| Informe de selección | 01/Jul/2025 - 09:08 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+11/Jun/2025 - 01:00 pm
+
+**Fecha de inicio:**
+11/Jun/2025 - 02:00 pm
+
+**Fecha fin:**
+11/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8143733 | RE: Observacion al proceso en general | 09/Jul/2025 - 03:52 pm |  | - |
+| General | CO1.MSG.8143687 | RE: OBSERVACION MODIFICACIÓN PROCESO SIC 11 DE 2025 | 09/Jul/2025 - 03:50 pm |  | - |
+| Reporte final | CO1.AWD.2272201 | Informe de selección CO1.AWD.2272201 | 01/Jul/2025 - 09:07 pm |  | - |
+| General | CO1.MSG.8050923 | Observacion al proceso en general | 18/Jun/2025 - 12:26 pm |  | - |
+| Avisos | CO1.REQ.8288614 | Publicación modificación | 16/Jun/2025 - 06:26 pm |  |  |
+| Avisos | CO1.MSG.8015182 | Publicación de la lista de ofertas del proceso SIC 11 DE 2025 (Presentación de oferta). | 11/Jun/2025 - 12:44 pm |  | - |
+| Avisos | CO1.MSG.8015175 | La lista de oferentes del proceso SIC 11 DE 2025 (Presentación de oferta) publicada por SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO | 11/Jun/2025 - 12:44 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272201 | Informe de evaluación 3 CO1.AWD.2272201 | 11/Jun/2025 - 12:40 pm |  | - |
+| General | CO1.MSG.8014863 | AVISO INFORMATIVO | 11/Jun/2025 - 12:05 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272201 | Informe de evaluación 2 CO1.AWD.2272201 | 11/Jun/2025 - 09:02 am |  | - |
+| Avisos | CO1.MSG.7983674 | Publicación de la lista de ofertas del proceso SIC 11 DE 2025 (Presentación de oferta). | 04/Jun/2025 - 06:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2272201 | Informe de evaluación 1 CO1.AWD.2272201 | 04/Jun/2025 - 06:22 pm |  | - |
+| Avisos | CO1.MSG.7957436 | La lista de oferentes del proceso SIC 11 DE 2025 (Presentación de oferta) publicada por SIC SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO | 29/May/2025 - 10:11 am |  | - |
+| Avisos | CO1.REQ.8288614 | Publicación modificación | 27/May/2025 - 05:32 pm |  |  |
+| General | CO1.MSG.7942788 | RE: Observaciones Gamma Ingenieros S.A.S | 27/May/2025 - 10:49 am |  | - |
+| Aclaraciones | CO1.MSG.7942743 | RE: observación, OBSERVACIONES, Observaciones al pliego definitivo proceso No. SIC 11 DE 2025 | 27/May/2025 - 10:47 am |  | - |
+| Aclaraciones | CO1.MSG.7931662 | observación | 23/May/2025 - 04:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7931545 | OBSERVACIONES | 23/May/2025 - 04:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7922940 | Observaciones al pliego definitivo proceso No. SIC 11 DE 2025 | 22/May/2025 - 02:20 pm |  | - |
+| General | CO1.MSG.7884805 | Respuesta Observaciones GMS LOTE 2 SIEM | 14/May/2025 - 08:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7884779 | RE: Preguntas SIC - EDR, Preguntas SIC - SIEM, Observaciones_SIC, Observaciones al pliego de condiciones, Observaciones DTS, OBSERVACIONES, Observaciones al proyecto de condiciones | 14/May/2025 - 08:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7870651 | Preguntas SIC - EDR | 12/May/2025 - 09:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7869596 | Preguntas SIC - SIEM | 12/May/2025 - 09:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7870635 | Observaciones_SIC | 12/May/2025 - 09:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7870176 | Observaciones al pliego de condiciones | 12/May/2025 - 06:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7869832 | Observaciones DTS | 12/May/2025 - 06:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7868360 | OBSERVACIONES | 12/May/2025 - 04:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7865603 | Observaciones al proyecto de condiciones | 12/May/2025 - 10:42 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 8:33 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

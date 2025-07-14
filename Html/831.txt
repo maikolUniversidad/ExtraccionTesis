@@ -1,0 +1,328 @@
+Title: Licitaciones - CORPORACIÓN AUTÓNOMA REGIONAL DE LA ORINOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683508be63cd29.98689209
+
+Markdown Content:
+Licitaciones - CORPORACIÓN AUTÓNOMA REGIONAL DE LA ORINOQUIA - Contratación mínima cuantía CO-MC-006-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-11 08:39:48
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN, CONFIGURACIÓN E IMPLEMENTACIÓN DEL SERVICIO DE SERVIDOR VIRTUAL (VPS) PARA EL ALOJAMIENTO DE LAS DIFERENTES APLICACIONES WEB DE LA CORPORACIÓN, Y CERTIFICADOS DE AUTENTICIDAD DIGITAL SSL, COMO MECANISMOS DE IMPLEMENTACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN Y CONTINUIDAD DEL SERVICIO WEB A TRAVÉS DE LA PÁGINA WEB Y APLICATIVOS INFORMÁTICOS DE LA GESTIÓN DE LA CORPORACIÓN, DENTRO DEL PROYECTO FORTALECIMIENTO DE LA CAPACIDAD OPERATIVA DE TECNOLOGÍAS DE LA INFORMACIÓN PARA LA GESTIÓN AMB
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Casanare : Yopal
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43233201 - Software de servidor de autenticación
+
+**Códigos adicionales UNSPSC:**
+81112105 - Servicios de hospedaje de operación de sitios web,81111809 - Servicio de instalación de sistemas
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática, -Servidores (Suministro y alquiler)", "licicodigos": "297,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Carrera 23 No. 18-31 2º Piso Yopal Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112105, 43233201 | RENOVACION DEL SERVICIO DEL ALOJAMIENTO, SERVIDOR VIRTUAL DEDICADO VPS Y CERTIFICADO DE AUTENTICACION DIGITAL SSL POR TRES AÑOS. | Mínima cuantía | Recursos propios | $39.000.000 | UNIDAD CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 07:26 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 06:58 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+29/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 06:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 11:59 pm | 25/Dic/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 06/Jun/2025 - 11:59 pm | 25/Jun/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 06/Jun/2025 - 11:59 pm | 25/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 06/Jun/2025 - 11:59 pm | 25/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DATALINK NETWORKS SAS | Yopal - Casanare |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,750,000
+
+**Informes proceso de selección CO1.AWD.2270201 de 04/Jun/2025 - 07:16 am. Valor $38.750.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jun/2025 - 05:26 am |  |
+| Informe de evaluación | 04/Jun/2025 - 07:12 pm |  |
+| Informe de selección | 04/Jun/2025 - 07:16 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2270201**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DATALINK NETWORKS SAS * **Tipo documento:** NIT * **Documento:** 900112851 | * **Nombre:** CARLOS IVAN GRAJALES MANTILLA * **Tipo documento:** * **Documento:** 91271115 | Yopal - Casanare | $38.750.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2270201****
+
+**Contrato 120.12.4.25.384 de DATALINK NETWORKS SAS:**
+
+**ID del contrato en SECOP:**
+
+120.12.4.25.384
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Activo
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN, CONFIGURACIÓN E IMPLEMENTACIÓN DEL SERVICIO DE SERVIDOR VIRTUAL (VPS) PARA EL ALOJAMIENTO DE LAS DIFERENTES APLICACIONES WEB DE LA CORPORACIÓN, Y CERTIFICADOS DE AUTENTICIDAD DIGITAL SSL, COMO MECANISMOS DE IMPLEMENTACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN Y CONTINUIDAD DEL SERVICIO WEB A TRAVÉS DE LA PÁGINA WEB Y APLICATIVOS INFORMÁTICOS DE LA GESTIÓN DE LA CORPORACIÓN Y CERTIFICADOS DE AUTENTICIDAD DIGITAL SSL, COMO MECANISMOS DE IMPLEMENTACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112105 | ADQUISICIÓN, CONFIGURACIÓN E IMPLEMENTACIÓN DEL SERVICIO DE SERVIDOR VIRTUAL (VPS) PARA EL ALOJAMIENTO DE LAS DIFERENTES APLICACIONES WEB DE LA CORPORACIÓN, Y CERTIFICADOS DE AUTENTICIDAD DIGITAL SSL, COMO MECANISMOS DE IMPLEMENTACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN Y CONTINUIDAD DEL SERVICIO WEB A TRAVÉS DE LA PÁGINA WEB Y APLICATIVOS INFORMÁTICOS DE LA GESTIÓN DE LA CORPORACIÓN, DENTRO DEL PROYECTO FORTALECIMIENTO DE LA CAPACIDAD OPERATIVA DE TECNOLOGÍAS DE LA INFORMACIÓN PARA LA GESTIÓN AMBIENTAL | 1,00 | UN | 38.750.000,00 | 38.750.000,00 | 38.750.000,00 | 38.750.000,00 |
+
+**Fecha de terminación del contrato:**
+
+25/Jun/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+20 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 38,750,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2270201 | Informe de selección CO1.AWD.2270201 | 04/Jun/2025 - 07:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2270201 | Informe de evaluación 2 CO1.AWD.2270201 | 04/Jun/2025 - 07:12 pm |  | - |
+| Avisos | CO1.MSG.7972690 | Publicación de la lista de ofertas del proceso CO-MC-006-2025. | 03/Jun/2025 - 11:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2270201 | Informe de evaluación 1 CO1.AWD.2270201 | 03/Jun/2025 - 05:26 am |  | - |
+| Avisos | CO1.MSG.7962031 | La lista de oferentes del proceso CO-MC-006-2025 publicada por CORPORACIÓN AUTÓNOMA REGIONAL DE LA ORINOQUIA | 29/May/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.7954744 | AVISO INFORMATIVO A MIPYMES | 28/May/2025 - 05:51 pm |  | - |
+| Avisos | CO1.REQ.8323963 | Publicación modificación | 28/May/2025 - 05:49 pm |  |  |
+| Aclaraciones | CO1.MSG.7954238 | Respuesta Observaciones | 28/May/2025 - 05:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7940725 | Observación | 26/May/2025 - 10:32 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:33 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

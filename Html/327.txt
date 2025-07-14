@@ -1,0 +1,249 @@
+Title: Licitaciones - DILOF - Subasta Inversa PN DILOF SA 170 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680022f4d1c058.40893455
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-30 16:06:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+MANTENIMIENTO Y AFINAMIENTO DE LA ACREDITACIÓN DE LA ENTIDAD DE CERTIFICACIÓN DIGITAL DE LA POLICÍA NACIONAL, BAJO LOS PARÁMETROS ESPECIFICADOS EN EL CEA (CRITERIOS DE ESPECIFICACIÓN DE ACREDITACIÓN) 3.0-07
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Códigos adicionales UNSPSC:**
+
+84111600 - Servicios de auditoría
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+carrera 59 No. 26-21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 200,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101600, 84111600 | MANTENIMIENTO Y AFINAMIENTO DE LA ACREDITACIÓN DE LA ENTIDAD DE CERTIFICACIÓN DIGITAL DE LA POLICÍA NACIONAL, BAJO LOS PARÁMETROS ESPECIFICADOS EN EL CEA (CRITERIOS DE ESPECIFICACIÓN DE ACREDITACIÓN) 3.0-07 | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $200.000.000 | Dirección Logística y Financiera |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Abr/2025 - 04:30 pm
+
+**Publicación Estudios Previos:**
+
+16/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+25/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+02/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+05/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+13/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 07:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+14/May/2025 - 07:01 pm
+
+**Informe de presentación de ofertas:**
+
+14/May/2025 - 07:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+19/May/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+21/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+26/May/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2025 - 11:59 pm | 30/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/Jun/2025 - 11:59 pm | 30/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 50,00 | 09/Jun/2025 - 11:59 pm | 30/May/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+26/May/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+26/May/2025 - 03:30 pm
+
+**Fecha fin:**
+
+26/May/2025 - 04:00 pm
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(27/Jun/2025 - 04:24 am:08 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal DILOF en 2 días de tiempo transcurrido (27/Jun/2025 - 04:24 am:08 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: La Entidad informa que no continuará con el proceso de selección.
+
+**Fecha de la cancelación:**
+
+27/Jun/2025 - 04:24 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7796794 | 5 EXPERIENCIA DE LOS PROFESIONALES | 24/Abr/2025 - 10:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7795943 | 2.3 Capacitación Certificada en Ethical Hacking | 24/Abr/2025 - 09:44 pm |  | - |

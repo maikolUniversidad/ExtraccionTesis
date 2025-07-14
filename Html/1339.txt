@@ -1,0 +1,112 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA CIUDADELA LAS AMERICAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fe807bb8570.61387079
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 14:27:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO TÉCNICO PARA EL MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE COMPUTADORES, IMPRESORAS Y RED DE DATOS DEL ÁREA ADMINISTRATIVA DE LA INSTITUCIÓN EDUCATIVA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112303 - Mantenimiento de computadores “mainframe”
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "99,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 111 79 77 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+192 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 09:00 pm
+
+**Fecha de Firma del Contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+29/Nov/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

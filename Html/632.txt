@@ -1,0 +1,343 @@
+Title: Licitaciones - MUNICIPIO DE VILLA DEL ROSARIO**
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834c518e7efa8.11097706
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE VILLA DEL ROSARIO** - Contratación mínima cuantía MC-019 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-06 07:01:39
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y MOBILIARIO DE OFICINA DESTINADOS AL FORTALECIMIENTO DE LA CONVIVENCIA Y LA SEGURIDAD CIUDADANA EN EL MUNICIPIO DE VILLA DEL ROSARIO, DEPARTAMENTO DE NORTE DE SANTANDER
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Norte de Santander : Villa Del Rosario
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+43211700 - Dispositivos informáticos de entrada de datos,43212100 - Impresoras de computador,56101700 - Muebles de oficina
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Mobiliario, -Materiales para redes de comunicación", "licicodigos": "104,105,128,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+cra 7 N0 4-71 Villa Del Rosario Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 02:18 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/May/2025 - 06:00 pm | 29/Ene/2026 - 11:00 pm |
+| Calidad del servicio | 10,00 | 30/May/2025 - 06:00 pm | 29/Ene/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** RICH PULP S.A.S | Cúcuta - Norte de Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 60,000,000
+
+**Informes proceso de selección CO1.AWD.2266449 de 04/Jun/2025 - 07:10 am. Valor $60.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 03:46 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 05:39 pm |  |
+| Informe de selección | 04/Jun/2025 - 07:10 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266449**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FABRICA Y COMERCIALIZADORA RICH PULP S.A.S * **Tipo documento:** NIT * **Documento:** 900923560 | * **Nombre:** LENIZ MARCELA VIVAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 60359724 | Cúcuta - Norte de Santander | $60.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266449****
+
+**Contrato CONTRATO 375 DE 2025 de FABRICA Y COMERCIALIZADORA RICH PULP S.A.S:**
+
+**ID del contrato en SECOP:**
+
+CONTRATO 375 DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y MOBILIARIO DE OFICINA DESTINADOS AL FORTALECIMIENTO DE LA CONVIVENCIA Y LA SEGURIDAD CIUDADANA EN EL MUNICIPIO DE VILLA DEL ROSARIO, DEPARTAMENTO DE NORTE DE SANTANDER
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 001 | 43211500 | ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS Y MOBILIARIO DE OFICINA DESTINADOS AL FORTALECIMIENTO DE LA CONVIVENCIA Y LA SEGURIDAD CIUDADANA EN EL MUNICIPIO DE VILLA DEL ROSARIO, DEPARTAMENTO DE NORTE DE SANTANDER | 1,00 | UN | 60.000.000,00 | 60.000.000,00 | 60.000.000,00 | 60.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+04/Jun/2025 - 06:00 pm
+
+**Fecha de terminación del contrato:**
+
+24/Jun/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+20 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 60,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CONTRATO N0 375 EQUIPOS TECNOLOGICOS Y MOBILIARA.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | POLIZAS .pdf |  |
+|  | RP 00001089.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266449 | Informe de selección CO1.AWD.2266449 | 04/Jun/2025 - 07:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2266449 | Informe de evaluación 2 CO1.AWD.2266449 | 03/Jun/2025 - 05:39 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266449 | Informe de evaluación 1 CO1.AWD.2266449 | 29/May/2025 - 03:46 pm |  | - |
+| Avisos | CO1.MSG.7954723 | Publicación de la lista de ofertas del proceso MC-019 DE 2025. | 28/May/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.7954718 | La lista de oferentes del proceso MC-019 DE 2025 publicada por MUNICIPIO DE VILLA DEL ROSARIO** | 28/May/2025 - 05:45 pm |  | - |
+| General | CO1.MSG.7950458 | RE: OBSERVACIONES FICHAS TECNICAS | 28/May/2025 - 11:16 am |  | - |
+| Aclaraciones | CO1.MSG.7947953 | RE: OBSERVACIONES TITAN | 27/May/2025 - 07:54 pm |  | - |
+| Aclaraciones | CO1.MSG.7947511 | RE: OBSERVACIONES AL PROCESO | 27/May/2025 - 06:20 pm |  | - |
+| Avisos | CO1.REQ.8321082 | Publicación modificación | 27/May/2025 - 04:01 pm |  |  |
+| General | CO1.MSG.7945696 | AVISO A LAS MIPYMES | 27/May/2025 - 03:59 pm |  | - |
+| General | CO1.MSG.7945146 | SOLICITUDES A LAS MIPYMES | 27/May/2025 - 03:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7944376 | OBSERVACIONES TITAN | 27/May/2025 - 02:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7942073 | OBSERVACIONES AL PROCESO | 27/May/2025 - 09:46 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:09 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL ATLANTICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cf59190a880.52417552
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-21 08:47:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la compra de materiales de formación y otras compras de equipos para el funcionamiento de la tecnoacademia itinerante en el departamento del Atlántico, como estrategia para fortalecer las competencias de ciencia, tecnología e innovación en niños y jóvenes de la región Vigencia 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+14111500 - Papel de imprenta y papel de escribir,26111700 - Baterías, pilas y accesorios,45121500 - Cámaras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Electrónica - Robótica, -Materiales para redes de comunicación", "licicodigos": "105,212,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra. 43 No 42-40 SENA Regional Atlántico Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+60 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 04:29 pm
+
+**Plazo para solicitar aclaraciones:**
+
+22/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 07:00 pm

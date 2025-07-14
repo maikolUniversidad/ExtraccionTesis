@@ -1,0 +1,247 @@
+Title: Licitaciones - MUNICIPIO DE PITALITO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808069c6baae8.99976697
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 02:25:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE PARTES Y REPUESTOS PARA COMPUTADOR Y LA RED DE DATOS DE PROPIEDAD DE LA ADMINISTRACION MUNICIPAL DE PITALITO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Pitalito
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201618 - Componente de rack de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 3ª No. 4-78 Centro Administrativo Municipal Pitalito Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201618 | SUMINISTRO DE PARTES Y REPUESTOS PARA COMPUTADOR Y LA RED DE DATOS DE PROPIEDAD DE LA ADMINISTRACION MUNICIPAL DE PITALITO | Mínima cuantía | Recursos propios | $50.000.000 | OFICINA DE CONTRATACIÓN PAA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 03:08 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 08:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/Abr/2025 - 12:00 pm | 19/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/Abr/2025 - 12:00 pm | 19/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/Abr/2025 - 12:00 pm | 19/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 30/Abr/2025 - 12:00 pm | 19/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 28/Abr/2025 - 08:30 pm | * **Nombre:** EYDER ARIZA CALDERON | Pitalito - Huila |
+| 2 | 29/Abr/2025 - 12:37 am | * **Nombre:** CENTRAL TECNOLOGICA SAS | Pitalito - Huila |
+| 3 | 29/Abr/2025 - 07:31 am | * **Nombre:** AGROINVERSIONES DEL SUR SAS | Pitalito - Huila |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 50,000,000
+
+**Informes proceso de selección CO1.AWD.2238360 de 05/May/2025 - 05:31 am. Valor $50.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/Abr/2025 - 04:11 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:11 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:11 pm |  |
+| Informe de evaluación | 29/Abr/2025 - 04:11 pm |  |
+| Informe de selección | 05/May/2025 - 05:31 pm |  |
+| Informe de selección | 05/May/2025 - 05:31 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2238360**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** EYDER ARIZA CALDERON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80724635 | * **Nombre:** EYDER ARIZA CALDERON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80724635 | Pitalito - Huila | $50.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2238360****
+
+**Cuantía a la firma del contrato:**
+
+$ 50,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2238360 | Informe de selección CO1.AWD.2238360 | 05/May/2025 - 05:31 pm |  | - |
+| Objeciones | CO1.MSG.7817538 | [Respondido] RE:ACLARACIÓN Y OBSERVACIONES INFORME 1 | 05/May/2025 - 05:26 pm |  | - |
+| Objeciones | CO1.MSG.7817538 | ACLARACIÓN Y OBSERVACIONES INFORME 1 | 30/Abr/2025 - 09:55 am |  | - |
+| Reporte preliminar | CO1.AWD.2238360 | Informe de evaluación 1 CO1.AWD.2238360 | 29/Abr/2025 - 04:11 pm |  | - |
+| Avisos | CO1.MSG.7810215 | Publicación de la lista de ofertas del proceso MP-SG-MC-SM-024-2025. | 29/Abr/2025 - 08:25 am |  | - |
+| Avisos | CO1.MSG.7810197 | La lista de oferentes del proceso MP-SG-MC-SM-024-2025 publicada por MUNICIPIO DE PITALITO | 29/Abr/2025 - 08:23 am |  | - |
+| General | CO1.MSG.7801603 | AVISO DE LIMITACION A MIPYME | 25/Abr/2025 - 04:49 pm |  | - |
+| Avisos | CO1.REQ.8147953 | Publicación modificación | 25/Abr/2025 - 04:46 pm |  |  |
+| General | CO1.MSG.7801572 | RESPUESTA A LAS SOLICITUDES DE LIMITACION A MIPYMES | 25/Abr/2025 - 04:45 pm |  | - |
+| General | CO1.MSG.7801492 | RESPUESTA A LAS OBSERVACIONES DE ROYAL TECH GROUP SAS | 25/Abr/2025 - 04:40 pm |  | - |
+| General | CO1.MSG.7801023 | RESPUESTA SOLICITUD DE LIMITACION MIPYMES NACIONAL | 25/Abr/2025 - 04:04 pm |  | - |
+| Avisos | CO1.REQ.8147953 | A new request amendment was published | 24/Abr/2025 - 05:10 pm |  |  |

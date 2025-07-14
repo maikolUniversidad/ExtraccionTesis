@@ -1,0 +1,97 @@
+Title: Licitaciones - DIRECCION DE EDUCACION POLICIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e762701c333.88383441
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:23:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+El proyecto Fortalecimiento de la Seguridad y Convivencia Ciudadana mediante la Construcción de 10 Escenarios en Realidad Virtual con Inteligencia Artificial incorpora tecnologías inmersivas y adaptativas para entrenar al personal de la Escuela de Inteligencia y Contrainteligencia (ESCIC) en escenarios de alto riesgo.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231503 - Software de adquisiciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Equipos audiovisuales, -Servidores (Suministro y alquiler)", "licicodigos": "102,103,115,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 36 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Transversal 33 Nro. 47 A – 35 Sur Barrio Fátima Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 04:09 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 10:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7880635 | RE: OBSERVACIONES ESTUDIO DE MERCADOS PROCESO 0001-ESCIC | 14/May/2025 - 12:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7865067 | OBSERVACIONES ESTUDIO DE MERCADOS PROCESO 0001-ESCIC | 12/May/2025 - 09:42 am |  | - |

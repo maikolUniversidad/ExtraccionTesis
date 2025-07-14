@@ -1,0 +1,290 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68250780301e94.69817359
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:36:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la renovación de la garantía para la plataforma marca FORTIGATE de conformidad con las especificaciones técnicas requeridas por la Entidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Bogotá Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 270,559,427
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300, 81111800, 43222501, 81112303, 81112304, 43233200 | Contratar la renovación de la garantía de la plataforma Fortigate en atención a las especificaciones técnicas. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $270.559.427 | Area de Contratos Dapre |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+14/May/2025 - 03:51 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+14/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+14/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/May/2025 - 11:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 04:42 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 11:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+10/Jun/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 04:30 pm
+
+**Presentación de Ofertas:**
+
+11/Jun/2025 - 04:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jun/2025 - 04:01 pm
+
+**Informe de presentación de Ofertas:**
+
+11/Jun/2025 - 04:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 11:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/Jun/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+02/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 11:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+07/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 11:00 pm | 03/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 12:00 pm | 03/Sep/2028 - 11:00 am |
+| Calidad del servicio | 20,00 | 03/Jul/2025 - 12:00 pm | 03/Sep/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jul/2025 - 12:00 pm | 03/Sep/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 264,763,100
+
+**Informes proceso de selección CO1.AWD.2286919 de 02/Jul/2025 - 06:27 am. Valor $264.763.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 04:30 pm |  |
+| Informe de selección | 02/Jul/2025 - 06:27 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2286919**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ELLIPTICAL S.A.S * **Tipo documento:** NIT * **Documento:** 900138327 | * **Nombre:** Diego Fernando Alvarez Quintero * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 16758893 | - Distrito Capital de Bogotá | $264.763.100 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2286919****
+
+**Cuantía a la firma del contrato:**
+
+$ 264,763,100
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+19/Jun/2025 - 06:00 pm
+
+**Fecha de inicio:**
+
+20/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+20/Jun/2025 - 10:15 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2286919 | Informe de selección CO1.AWD.2286919 | 02/Jul/2025 - 06:27 am |  | - |
+| General | CO1.MSG.8067545 | Anexo economico -Subasta | 20/Jun/2025 - 05:06 pm |  | - |
+| General | CO1.MSG.8059902 | LISTA DE PARTICIPANTES A LA SUBASTA | 19/Jun/2025 - 03:52 pm |  | - |
+| Objeciones | CO1.MSG.8050316 | RESPUESTA INFORME PRELIMINAR | 18/Jun/2025 - 12:40 pm |  | - |
+| Avisos | CO1.MSG.8031625 | Publicación de la lista de ofertas del proceso DAPRE-SASI06-2025 (Presentación de oferta). | 13/Jun/2025 - 04:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280476 | Informe de evaluación 1 CO1.AWD.2280476 | 13/Jun/2025 - 04:30 pm |  | - |
+| Avisos | CO1.MSG.8016981 | La lista de oferentes del proceso DAPRE-SASI06-2025 (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA | 11/Jun/2025 - 04:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7922760 | Observaciones Elliptical | 22/May/2025 - 03:49 pm |  | - |
+| Aclaraciones | CO1.MSG.7896506 | OBSERVACIONES AL BORRADOR DEL PLIEGO | 21/May/2025 - 04:50 pm |  | - |

@@ -1,0 +1,187 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE CUMARAL META
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bac4b8788a7.67655284
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:48:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE CORRESPONDENCIA EXPRESA Y CORREO ELECTRÓNICO CERTIFICADO PARA LAS NOTIFICACIONES DEL MUNICIPIO DE CUMRAL META
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Cumaral
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161600 - Servicios de correo electrónico y mensajería
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Mensajería", "licicodigos": "103,174" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 11 # 20-20, BARRIO CENTRO Cumaral Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81161600 | PRESTACION DE SERVICIOS DE CORRESPONDENCIA EXPRESA Y CORREO ELECTRONICO CERTIFICADO PARA LAS NOTIFICACIONES DEL MUNICIPIO DE CUMARAL, META. | Contratación directa | Recursos propios | $20.106.700 | ASESORA JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 04:59 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 08:30 am
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 08:30 am
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 09:00 am
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+26/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/May/2025 - 12:00 pm | 25/Abr/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 26/May/2025 - 12:00 pm | 25/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8283772 | Publicación modificación | 21/May/2025 - 08:48 am |  |  |

@@ -1,0 +1,60 @@
+Title: Licitaciones - MUNICIPIO DE SARAVENA - Contratación mínima cuantía MIN - SVNA - SGGM - 124
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a460504dd84.41213627
+
+Markdown Content:
+**Proceso de selección **CO1.AWD.2239780****
+
+**Contrato 122 de SUMINISTROS Y SERVICIOS MAVI S.A.S:**
+
+**ID del contrato en SECOP:**
+
+122
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+DOTACIÓN DE EQUIPOS Y HERRAMIENTAS TECNOLOGICAS AUDIOVISUALES PARA EL DESARROLLO DE LA ESTRATEGIA DE COMUNICACIÓN INSTITUCIONAL DE LA ALCALDÍA DEL MUNICIPIO DE SARAVENA, DEPARTAMENTO DE ARAUCA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 52161520 | Micrófono digital UHF, permite hasta 83 delegados DGU100T1. Pantalla de matriz de 12864 píxeles, con indicación clara e intuitiva del estado del dispositivo. La prioridad de la unidad de discusión se establece libremente a través de IR Sync. La cápsula de condensador ofrece alta fidelidad, larga distancia de captación, alta sensibilidad, baja distorsión y sonido claro. Incluye instalación. | 1,00 | UN | 1.470.000,00 | 1.470.000,00 | 1.470.000,00 | 1.470.000,00 |
+| 2 | 52161520 | Micrófono digital UHF, DG-U100T2. La cápsula de condensador ofrece alta fidelidad, larga distancia de captación, alta sensibilidad, baja distorsión y sonido claro. Las unidades de presidente tienen prioridad, no tienen restricciones y pueden interrumpir el discurso de las unidades de delegados. Incluye instalación. | 14,00 | UN | 1.225.000,00 | 1.225.000,00 | 17.150.000,00 | 17.150.000,00 |
+| 3 | 52161551 | Unidad Digital, UHF, Multifrecuencia DG-U100 Rpta de frecuencia: 640-692MHz Conecta hasta 83 unidades de micrófono dentro de la cobertura de señal, lo que permite la conversación simultánea de 1 a 4 personas Software de control de LAN inteligente para administrar todas las unidades en una interfaz integrada, fácil de implementar, Sincronización por infrarrojos para una mayor facilidad a la hora de configurar la conferencia Salidas aisladas XLR/TRS/TRS para conexión con varios equipos de audio. El tamaño de unidad de rack 2U se instala en un soporte de rack estándar de 19". Incluye instalación. | 1,00 | UN | 5.970.000,00 | 5.970.000,00 | 5.970.000,00 | 5.970.000,00 |
+| 4 | 45111704 | Consola Digital: 12 entradas 2 salidas XLR para Master. 2 salidas para auxiliares. Mezclador digital de 12 entradas para tabletas iPad / Android con 4 preamplificadores Midas programables, 8 entradas de línea, módulo Wifi integrado y grabador estéreo USB. iPad * / Android * mezclador digital de 12 entradas controlado por tableta para estudio y aplicación en vivo. 4 galardonados preamplificadores de micrófono totalmente programables diseñados por Midas para una calidad de sonido audiófila. Enrutador Wifi trimodal incorporado. Incluye instalación. | 1,00 | UN | 4.020.000,00 | 4.020.000,00 | 4.020.000,00 | 4.020.000,00 |
+| 4 | 52161512 | Cabina Activa Pro Dj Cabina activa a 2 vías. Woofer de 10" - driver de 25 mm Bluetooth audio. Reproductor MP3 USB/SD Radio FM. 1 entrada de micrófono. XLR/TS 1 entrada de línea RCA / XLR. Alimentación de cabina pasiva 100 w RMS. Ecualizador de altos y bajos. Control remoto. | 4,00 | UN | 870.000,00 | 870.000,00 | 3.480.000,00 | 3.480.000,00 |
+| 6 | 43211509 | Tablet 11 128 gigas, 8 de RAM. Tablet Memoria Interna 128 GB, Memoria RAM 8 GB, Sistema Operativo Android, Número de Núcleos más núcleos más multitareas 8 Núcleos, Conectividad Conexión a Datos WiFi, Fuentes de Alimentación de Energía, Batería Recargable Interna, Tipos de Puertos Entradas y Salidas, Puerto USB Tipo C, Salida de Audífonos Opciones de Conectividad WiFi, Imagen y Pantalla Resolución, Pantalla WUXGA, Tamaño Pantalla 11 Pulgadas Resolución Cámara Frontal 8 Mpx, Resolución Cámara Posterior 8 Mpx, Duración de la Batería 10 Horas Aproximadas. | 1,00 | UN | 1.800.000,00 | 1.800.000,00 | 1.800.000,00 | 1.800.000,00 |
+| 7 | 45111702 | Interfaz de audio Behringer 2 canales UMC202HD, 2 entradas combo (xlr/plug) mic/line, instrumento con preamplificador midas, Phantom Power 48 v, 2 salida trs de 1/4 para monitor Ges, Salida stereo plug 1/4 trs de audífonos, Conector usb B, Cable usb 1.5 metros, Interruptor de monitoreo directo, Sample rate 44.1 / 48 - 192 kHz, Atenuador por canal. | 1,00 | UN | 975.000,00 | 975.000,00 | 975.000,00 | 975.000,00 |
+| 8 | 52161610 | Soporte para Cabina de sonido, elaborada en tubo metálico redondo 1", calibre 20, dos tornillos de 1/4 x 3", uno con tuerca de seguridad y otro con tuerca mariposa, medidas: 20 cm x 23 cm. Tubo rectangular 2 1/4 x 1 1/2 calibre. 20 cm de planchuela metálica de calibre 14 con seis (6) perforaciones a cada lado con doblés y 19 cm de ancho. Planchuela de 25 cm calibre 1/8 con 6 perforaciones doblados en V semi, tubo redondo de 17 cm de largo x 1" c/18, 28 cm de tubo rectangular 2x1 calibre 18 y tornillo giratorio de 3" x 3/8. | 4,00 | UN | 375.000,00 | 375.000,00 | 1.500.000,00 | 1.500.000,00 |
+| 9 | 45111609 | Video beam Power lite 992 f, color: blanco, Voltaje: 110V, Conexiones de entrada: HDMI, USB, cable vga, cable de audio, Conexiones de salida: HDMI, Consumo energético de 345W, Resolución nativa: 1920px x 1080px.Soporta resoluciones Full HD 1080p.Tecnología de proyección 3 LCD. Relación de contraste 16.000:1. Proyecta imagen de 30 - 300. Conectividad wifi. Incluye control remoto. Con parlantes incorporados en el proyector. | 1,00 | UN | 3.493.000,00 | 3.493.000,00 | 3.493.000,00 | 3.493.000,00 |
+
+**Fecha de terminación del contrato:**
+
+14/May/2025 - 06:00 pm
+
+**Plazo de ejecución:**
+
+8 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 39,858,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 23. MINUTA.pdf |  |

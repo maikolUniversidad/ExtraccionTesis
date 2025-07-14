@@ -1,0 +1,210 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE SANTANDER DE QUILICHAO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834fa683ff863.04802677
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 20:22:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+EL CONTRATISTA SE ENCUENTRA OBLIGADO CON EL MUNICIPIO DE SANTANDER DE QUILICHAO A REALIZAR MANTENIMIENTO PREVENTIVO Y/O CORRECTIVO, REPARACIÓN DE EQUIPOS, CONFIGURACION DE FRECUENCIA AL SISTEMA DE COMUNICACIONES Y ALERTA TEMPRANAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Santander De Quilichao
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "100,110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+125 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 3 # 9- 75 SANTANDER DE QUILICHAO Santander De Quilichao Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+26/May/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 05:30 pm
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:42 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+28/May/2025 - 06:02 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 06:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+04/Jun/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 15,00 | 03/Jun/2025 - 09:00 am | 18/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 15,00 | 03/Jun/2025 - 09:00 am | 18/Dic/2025 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(17/Jun/2025 - 10:28 am AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ALCALDIA MUNICIPIO DE SANTANDER DE QUILICHAO en 9 horas de tiempo transcurrido (17/Jun/2025 - 10:28 am AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: el porceso fue declarado desierto
+
+**Fecha de la cancelación:**
+
+17/Jun/2025 - 10:28 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2266331 | Informe de evaluación 5 CO1.AWD.2266331 | 11/Jun/2025 - 11:36 am |  | - |
+| Reporte preliminar | CO1.AWD.2266331 | Informe de evaluación 4 CO1.AWD.2266331 | 05/Jun/2025 - 03:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266331 | Informe de evaluación 3 CO1.AWD.2266331 | 05/Jun/2025 - 03:09 pm |  | - |
+| Avisos | CO1.REQ.8322817 | Publicación modificación | 04/Jun/2025 - 10:07 am |  |  |
+| Reporte preliminar | CO1.AWD.2266331 | Informe de evaluación 2 CO1.AWD.2266331 | 04/Jun/2025 - 08:44 am |  | - |
+| Objeciones | CO1.MSG.7961282 | [Respondido] RE:SOLICITUD DE RECHAZO OFERTA ECONOMICA | 04/Jun/2025 - 08:35 am |  | - |
+| Objeciones | CO1.MSG.7961282 | SOLICITUD DE RECHAZO OFERTA ECONOMICA | 29/May/2025 - 04:53 pm |  | - |
+| Avisos | CO1.MSG.7959536 | Publicación de la lista de ofertas del proceso MSQ-CMIC-037-2025. | 29/May/2025 - 02:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266331 | Informe de evaluación 1 CO1.AWD.2266331 | 29/May/2025 - 12:05 pm |  | - |
+| Avisos | CO1.MSG.7955033 | La lista de oferentes del proceso MSQ-CMIC-037-2025 publicada por ALCALDIA MUNICIPIO DE SANTANDER DE QUILICHAO | 28/May/2025 - 06:19 pm |  | - |
+| General | CO1.MSG.7947483 | el presente porceso no se ENCUENTRA LIMITADO A MYPIMES | 27/May/2025 - 06:16 pm |  | - |
+| General | CO1.MSG.7947458 | RE: SOLICITUD DE LIMITACION A MIPYMES DEPARTAMENTAL VALLE | 27/May/2025 - 06:14 pm |  | - |

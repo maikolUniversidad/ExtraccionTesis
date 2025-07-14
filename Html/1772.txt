@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL ATLANTICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c68196c62c3.72383932
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 10:09:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de equipos para el fortalecimiento de capacidades en comercialización de productos y servicios en emprendimientos de sectores, agro, turismo y moda en el marco del proyecto tesoros del atlántico para la en el Centro de Comercio y Servicios.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Barranquilla
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+23261507 - Máquina impresora tridimensional
+
+**Códigos adicionales UNSPSC:**
+
+27111500 - Herramientas de corte y engarzado y punzones,27112300 - Herramientas de marcar,27112700 - Herramientas mecánicas,42295011 - Video cámaras o grabadoras o adaptadores o accesorios para endoscopia,23261507 - Máquina impresora tridimensional,56101714 - Estantes para carpetas de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales", "licicodigos": "105,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Cra. 43 No 42-40 SENA Regional Atlántico Barranquilla Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+105 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 04:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jul/2025 - 05:00 pm

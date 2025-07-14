@@ -1,0 +1,95 @@
+Title: Licitaciones - SECRETARIA DE EDUCACION DE CALI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682762b8e95c67.17940294
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-19 19:27:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Dotar con paquetes escolares a la población con discapacidad visual de las Instituciones Educativas Oficiales (IEO) y herramientas técnicas, tecnológicas y didácticas para la atención de la población escolar con discapacidad
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45121500 - Cámaras
+
+**Códigos adicionales UNSPSC:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador,45131500 - Película para cámara fotográfica,39112000 - Proyectores móviles,31162500 - Soportes y puntales,45111500 - Atriles, sistemas de sonido y accesorios,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45131600 - Medios cinematográficos,43212110 - Impresoras de múltiples funciones,43232500 - Software educativo o de referencia,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,43211507 - Computadores de escritorio,60121100 - Lienzos, películas, tableros y papeles de artista,60103100 - Materiales de recursos del profesor de geometría,60121500 - Utensilios de dibujo, suministros y accesorios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Papelería y elementos de oficina", "licicodigos": "104,105,115,127" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Av. 4 Norte No. 13 - 39 Edificio Boulevard de la 6a Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 10:43 am
+
+**Plazo para solicitar aclaraciones:**
+
+21/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+21/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8272833 | Publicación modificación | 16/May/2025 - 11:10 am |  |  |
+| Avisos | CO1.REQ.8272833 | Publicación modificación | 16/May/2025 - 11:05 am |  |  |

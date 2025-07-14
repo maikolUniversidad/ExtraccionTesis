@@ -1,0 +1,302 @@
+Title: Licitaciones - GOBERNACIÓN DE RISARALDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b3a72ad3932.09907517
+
+Markdown Content:
+Licitaciones - GOBERNACIÓN DE RISARALDA - Subasta Inversa SA-SASI-5-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 10:44:18
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON SUMINISTRO DE REPUESTOS Y CONSUMIBLES DE LAS IMPRESORAS, CAMARAS DE SEGURIDAD, ESCÁNER Y UPS DEL DEPARTAMENTO DE RISARALDA; ASI COMO EL ALQUILER DE ESTOS ELEMENTOS CUANDO SEAN REQUERIDOS POR LA ENTIDAD
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Risaralda : Pereira
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+44103125 - Kit de mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+80161800 - Servicios de alquiler o arrendamiento de equipo de oficina,44103125 - Kit de mantenimiento de impresoras,56112005 - Partes o accesorios de soporte para computadores,81112300 - Mantenimiento y soporte de hardware de computador,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Circuito cerrado de televisión", "licicodigos": "106,109,114" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 29 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+CALLE 19 No 13-17 Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+150 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 870,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56112005, 44103125 | ADQUISICIÓN DE PARTES O ACCESORIOS DE SOPORTE PARA COMPUTADORES E IMPRESORAS QUE HACEN PARTE DEL INVENTARIO INFORMÁTICO DE LA SECRETARIA DE SALUD | Contratación directa | NotApplied | $120.000.000 | SECRETARIA DE SALUD |
+| 81141500 | MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON SUMINISTRO DE REPUESTOS Y CONSUMIBLES DE LAS IMPRESORAS, CAMARAS DE SEGURIDAD, ESCÁNER Y UPS DEL DEPARTAMENTO DE RISARALDA; ASí COMO EL ALQUILER DE ESTOS ELEMENTOS CUANDO SEAN REQUERIDOS POR LA ENTIDAD | Contratación directa | Recursos propios | $30.000.000 | SECRETARIA DE DEPORTE, RECREACIÓN Y CULTURA |
+| 44103100, 43211600, 81111812, 81112306, 81112307 | MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON SUMINISTRO DE REPUESTOS Y CONSUMIBLES DE LAS IMPRESORAS, CAMARAS DE SEGURIDAD, ESCÁNER Y UPS DEL DEPARTAMENTO DE RISARALDA; ASÍ COMO EL ALQUILER DE ESTOS ELEMENTOS CUANDO SEAN REQUERIDOS POR LA ENTIDAD. | Selección abreviada subasta inversa | Recursos propios | $650.000.000 | SECRETARÍA ADMINISTRATIVA |
+| 80161800 | MANTENIMIENTO PREVENTIVO Y CORRECTIVO CON SUMINISTRO DE REPUESTOS Y CONSUMIBLES DE LAS IMPRESORAS, CAMARAS DE SEGURIDAD, ESCÁNER Y UPS DEL DEPARTAMENTO DE RISARALDA; ASí COMO EL ALQUILER DE ESTOS ELEMENTOS CUANDO SEAN REQUERIDOS POR LA ENTIDAD. | Selección abreviada subasta inversa | Recursos propios | $70.000.000 | SECRETARÍA DE HACIENDA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 03:15 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 04:00 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 04:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 04:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 03:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Jun/2025 - 04:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/Jun/2025 - 11:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/Jun/2025 - 02:04 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/Jun/2025 - 03:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/Jun/2025 - 03:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+27/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 02:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+04/Jul/2025 - 02:05 pm
+
+**Informe de presentación de Ofertas:**
+
+04/Jul/2025 - 02:10 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+09/Jul/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/Jul/2025 - 02:00 pm
+
+**Apertura del sobre económico:**
+
+15/Jul/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+17/Jul/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+18/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/Jul/2025 - 04:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+21/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 21/Jul/2025 - 04:00 pm | 31/Ago/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 21/Jul/2025 - 04:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 21/Jul/2025 - 04:00 pm | 31/Dic/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+15/Jul/2025 - 02:00 pm
+
+**Fecha de inicio:**
+15/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+15/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2302116 | Informe de evaluación 1 CO1.AWD.2302116 | 09/Jul/2025 - 12:00 pm |  | - |
+| Avisos | CO1.MSG.8120895 | La lista de oferentes del proceso SA-SASI-5-2025 (Presentación de oferta) publicada por GOBERNACIÓN DE RISARALDA | 04/Jul/2025 - 02:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8081626 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGO | 25/Jun/2025 - 04:27 pm |  | - |
+| General | CO1.MSG.8081483 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGOS | 25/Jun/2025 - 04:15 pm |  | - |
+| Aclaraciones | CO1.MSG.8056862 | Observaciones al proyecto de pliegos - Proceso SA-SASI-5-2025 | 19/Jun/2025 - 10:24 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:07 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

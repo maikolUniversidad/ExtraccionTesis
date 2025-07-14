@@ -1,0 +1,269 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE POPAYAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684df2d9e3e390.54484243
+
+Markdown Content:
+Licitaciones - POLICIA METROPOLITANA DE POPAYAN - Contratación mínima cuantía PN MEPOY MIC 086 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 10:28:15
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+ADQUISICIÓN DE MICRÓFONOS ALÁMBRICOS PROFESIONALES, ACCESORIOS DE TABLET, CÁMARAS FOTOGRÁFICAS PROFESIONALES Y ACCESORIOS, RADIOS ESCANNER Y DIADEMAS O AUDÍFONOS PARA MONITOREO, DESTINADOS PARA LA POLICÍA METROPOLITANA DE POPAYÁN, DEPARTAMENTO DE POLICÍA CAUCA, COMANDO DE REGIÓN DE POLICÍA NÚMERO CUATRO Y DEMÁS UNIDADES QUE DEPENDEN ADMINISTRATIVAMENTE DE LA POLICÍA METROPOLITANA DE POPAYÁN
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cauca : Popayán
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+52161520 - Micrófonos
+
+**Códigos adicionales UNSPSC:**
+43211500 - Computadores,45121516 - Cámaras grabadoras o video cámaras digitales,45121603 - Lentes para cámaras,45121602 - Trípodes para cámaras,52161522 - Escáneres de radio frecuencia,52161514 - Audífonos
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Equipos audiovisuales, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "105,110,115,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+60 Días
+
+**Dirección de ejecución del contrato:**
+avenida panamericana1n-75 Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500 | ACCESORIOS TABLET DE DISEÑO DE 512GB PARA COEST DECAU (CARGADOR - CABLE DE DATOS - PENCIL Y PUNTAS REPUESTOS - TECLADO KEYBOARD) | Mínima cuantía | Presupuesto de entidad nacional | $5.000.000 | Departamento de Policía Cauca |
+| 45121516 | CAMARA FOTOGRAFICA PROFESIONAL 4K PARA COEST Y SIPOL-SIJIN | Mínima cuantía | Presupuesto de entidad nacional | $30.000.000 | Departamento de Policía Cauca |
+| 52161514 | DIADEMAS O AUDÍFONOS MARCA SENNHEISER O VENTO PARA MONITOREO | Mínima cuantía | Presupuesto de entidad nacional | $2.000.000 | Comando de Region de Policia No. 4 |
+| 45121602 | ESTABILIZADOR TRIPODE PARA CAMARA FOTOGRAFICA PROFESIONAL 4K PARA COEST | Mínima cuantía | Presupuesto de entidad nacional | $2.600.000 | Departamento de Policía Cauca |
+| 45121603 | LENTE PARA CAMARA FOTOGRAFICA PROFESIONAL 4K PARA COEST | Mínima cuantía | Presupuesto de entidad nacional | $7.000.000 | Departamento de Policía Cauca |
+| 52161520 | MICRÓFONOS ALÁMBRICOS PROFESIONALES DE CONDENSADOR PARA EMISORA GUTIC (COEST) | Mínima cuantía | Presupuesto de entidad nacional | $4.980.000 | Metropolitana de Popayan |
+| 52161522 | RADIO ESCANNER (SIPOL) | Mínima cuantía | Presupuesto de entidad nacional | $12.000.000 | Departamento de Policía Cauca |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/Jun/2025 - 04:41 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 07:10 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 07:13 pm
+
+**Informe de presentación de ofertas:**
+
+14/Jul/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+15/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+23/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+25/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 07:00 pm | 26/Ago/2026 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 27/Jun/2025 - 07:00 pm | 25/Ago/2030 - 07:00 pm |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8153147 | PUBLICACION ADENADA ELECTRONICA No 4 AL PROCESO PN MEPOY MIC 086 DE 2025 | 10/Jul/2025 - 07:11 pm |  | - |
+| Avisos | CO1.REQ.8410852 | Publicación modificación | 10/Jul/2025 - 06:00 pm |  |  |
+| Objeciones | CO1.MSG.8135154 | Adjunto subsanacion al informe de evaluacion de proceso No. PN MEPOY MIC 086 de 2025. | 08/Jul/2025 - 02:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290210 | Informe de evaluación 3 CO1.AWD.2290210 | 07/Jul/2025 - 04:32 pm |  | - |
+| Avisos | CO1.REQ.8410852 | Publicación modificación | 04/Jul/2025 - 12:02 pm |  |  |
+| General | CO1.MSG.8115193 | PUBLICACION ADENADA ELECTRONICA No 3 AL PROCESO PN MEPOY MIC 086 DE 2025 | 03/Jul/2025 - 03:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290210 | Informe de evaluación 2 CO1.AWD.2290210 | 01/Jul/2025 - 05:54 pm |  | - |
+| General | CO1.MSG.8094745 | PUBLICACIÓN ADENDA ELECTRÓNICA No.2 | 27/Jun/2025 - 03:59 pm |  | - |
+| Avisos | CO1.REQ.8410852 | Publicación modificación | 27/Jun/2025 - 03:57 pm |  |  |
+| Avisos | CO1.MSG.8075558 | Publicación de la lista de ofertas del proceso PN MEPOY MIC 086 DE 2025. | 24/Jun/2025 - 05:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2290210 | Informe de evaluación 1 CO1.AWD.2290210 | 24/Jun/2025 - 05:50 pm |  | - |
+| Avisos | CO1.MSG.8068396 | La lista de oferentes del proceso PN MEPOY MIC 086 DE 2025 publicada por POLICIA METROPOLITANA DE POPAYAN | 20/Jun/2025 - 07:17 pm |  | - |
+| General | CO1.MSG.8060325 | FORMATOS EDITABLES PN MEPOY MIC 086 DE 2025 | 19/Jun/2025 - 04:20 pm |  | - |
+| General | CO1.MSG.8060126 | PUBLICACION ADENADA No 1 AL PROCESO PN MEPOY MIC 086 DE 2025 | 19/Jun/2025 - 04:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8060093 | RE: observacion | 19/Jun/2025 - 04:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8060079 | RE: OBSERVACION PN MEPOY MIC 086 DE 2025 | 19/Jun/2025 - 04:00 pm |  | - |
+| Avisos | CO1.REQ.8410852 | Publicación modificación | 19/Jun/2025 - 03:48 pm |  |  |
+| General | CO1.MSG.8053916 | AVISO DE LIMITACION A MIPYMES PN-MEPOY MIC 086 DE 2025 | 18/Jun/2025 - 05:25 pm |  | - |
+| Aclaraciones | CO1.MSG.8035631 | OBSERVACION PN MEPOY MIC 086 DE 2025 | 16/Jun/2025 - 10:42 am |  | - |
+| Aclaraciones | CO1.MSG.8034589 | observacion | 16/Jun/2025 - 08:45 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:07 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

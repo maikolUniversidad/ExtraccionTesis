@@ -1,0 +1,193 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685afe152c4222.81241865
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:37:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICIÓN DE MONITORES DE CONTROL DE CALIDAD DE VIDEO (LUMINANCIA, CROMINANCIA Y SEÑAL DE VIDEO) PARA EL AREA DE AUDIOVISUALES, DE CONFORMIDAD CON LAS ESPECIFICACIONES TÉCNICAS DEL ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46171612 - Monitores de video
+
+**Códigos adicionales UNSPSC:**
+
+46171600 - Equipo de vigilancia y detección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 46171612 | ADQUIRIR MONITORES DE CONTROL DE CALIDAD DE VIDEO PARA EL AREA DE AUDIOVISDUALES | Mínima cuantía | Presupuesto de entidad nacional | $81.000.000 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 02:29 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 02:30 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 02:35 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 02:40 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+14/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 18/Jul/2025 - 11:59 pm | 17/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 18/Jul/2025 - 11:59 pm | 17/Jul/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2297044 | Informe de evaluación 2 CO1.AWD.2297044 | 10/Jul/2025 - 02:39 pm |  | - |
+| Objeciones | CO1.MSG.8127882 | [Respondido] RE:OBSERVACION - PUBLICAR OFERTAS | 08/Jul/2025 - 07:49 am |  | - |
+| Avisos | CO1.MSG.8132160 | Publicación de la lista de ofertas del proceso 232 COGFM DIADF 2025. | 08/Jul/2025 - 07:46 am |  | - |
+| Objeciones | CO1.MSG.8127882 | OBSERVACION - PUBLICAR OFERTAS | 07/Jul/2025 - 01:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297044 | Informe de evaluación 1 CO1.AWD.2297044 | 07/Jul/2025 - 07:37 am |  | - |
+| Avisos | CO1.MSG.8093916 | La lista de oferentes del proceso 232 COGFM DIADF 2025 publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 27/Jun/2025 - 02:39 pm |  | - |
+| General | CO1.MSG.8084229 | AVISO CONVOCATORIA NO LIMITACION A MIPYMES | 26/Jun/2025 - 08:12 am |  | - |

@@ -1,0 +1,266 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE - CENAC - ARMENIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684af4bb6d0e91.16483221
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+GRUPO 1 EDICION DE LIBROS, REVISTA, ESCRITORIOS Y TRABAJOS TIPOGRÁFICOS, GRUPO 2 CARTUCHOS DE IMPRESORAS, GRUPO 3 SUMINISTRO DE ELEMENTOS PARA OFICINA, GRUPO 4 PASTA O PULPA, PAPEL Y PRODUCTOS DE PAPEL; IMPRESOS Y ARTICULOS RELACIONADOS, PARA LOS ESTABLECIMIENTOS DE SANIDAD MILITAR DE LA REGIONAL No.11.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+14111800 - Papeles de uso comercial,14111828 - Papelería comercial membreteada,44121600 - Suministros de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Litografía e Impresión a gran formato, -Tóner, cartuchos e insumos para impresión y fotocopiado, -Diseño gráfico, -Edición de textos", "licicodigos": "155,312,347,348" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+AV CENTENARIO 25N - 00 Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82121503, 44103103, 44103105, 44121600, 14111828 | SUMINISTRO DE GRUPO 1 EDICIÓN DE LIBROS, REVISTA, ESCRITORIOS Y TRABAJOS TIPOGRÁFICOS, GRUPO 2 SUMINISTRO Y RECARGA DE CARTUCHOS DE IMPRESORAS, GRUPO 3 SUMINISTRO DE ELEMENTOS PARA OFICINA, GRUPO 4 SUMINISTRO DE PAPELERIA Y DEMAS ELEMENTOS PROPIOS DE RUBRO, PARA LOS ESTABLECIMIENTOS DE SANIDAD MILITAR DE LA REGIONAL No.11 | Mínima cuantía | Recursos propios | $76.000.000 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+12/Jun/2025 - 10:00 am
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 10:27 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+19/Jun/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+19/Jun/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 23/Jun/2025 - 06:00 pm | 20/Mar/2026 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 23/Jun/2025 - 06:00 pm | 20/May/2026 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** LUIS FERNANDO VARGAS SKRYBE S.A.S | Calarca - Quindío |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 76,000,000
+
+**Informes proceso de selección CO1.AWD.2287273 de 25/Jun/2025 - 06:59 am. Valor $76.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 07:12 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 07:12 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 07:12 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 06:40 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 06:40 pm |  |
+| Informe de selección | 25/Jun/2025 - 06:59 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2287273**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** LUIS FERNANDO VARGAS SKRYBE S.A.S * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 901152111 | * **Nombre:** LUIS FERNANDO VARGAS * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 18392689 | Calarca - Quindío | $76.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2287273****
+
+**ID del contrato en SECOP:**
+
+184-DISANEJC/CENACARMENIA-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+20/Nov/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 76,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287273 | Informe de selección CO1.AWD.2287273 | 25/Jun/2025 - 06:59 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287273 | Informe de evaluación 2 CO1.AWD.2287273 | 25/Jun/2025 - 06:40 pm |  | - |
+| General | CO1.MSG.8074988 | SUBSANACION DE DOCUMENTOS | 24/Jun/2025 - 05:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287273 | Informe de evaluación 1 CO1.AWD.2287273 | 20/Jun/2025 - 07:12 pm |  | - |
+| Avisos | CO1.REQ.8401100 | Publicación modificación | 17/Jun/2025 - 05:25 pm |  |  |
+| General | CO1.MSG.8046149 | FORMULARIO DE PREGUNTAS Y RESPUESNTAS No. 01 A OBSERVACIONES PRESENTADAS | 17/Jun/2025 - 04:43 pm |  | - |
+| General | CO1.MSG.8039792 | AVISO LIMITACIÓN MIPYMES | 16/Jun/2025 - 05:58 pm |  | - |
+| General | CO1.MSG.8039583 | RE: Observaciones | 16/Jun/2025 - 05:36 pm |  | - |
+| Aclaraciones | CO1.MSG.8027854 | OBSERVACIONES | 13/Jun/2025 - 09:34 am |  | - |

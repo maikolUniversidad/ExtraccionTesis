@@ -1,0 +1,220 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE PAICOL HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854e11fde89c3.49976056
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE DOTACION MOBILIARIA Y ELEMENTOS TECNOLOGICOS CON DESTINO A LA ADMINISTRACION MUNICIPAL DE PAICOL, HUILA Y ARCHIVADORES METALICOS PARA EL CENTRO PENITENCIARIO Y CARCELARIO DEL MUNICIPIO DE LA PLATA, HUILA PARA LA VIGENCIA 2025 EN CUMPLIMIENTO DEL CONVENIO INTERADMINISTRATIVO NO. 087 DEL 11 DE MARZO DE 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila: Paicol ; Huila: Neiva ; Huila: La Plata
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+56101518 - Estanterías de pared,56101522 - Sillas de brazos,56101502 - Sofás,56121805 - Archivos planos,56101713 - Puestos (mesas) laterales de escritorios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Mobiliario", "licicodigos": "104,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+15 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 4 No. 6-68 Paicol Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 56101522, 56101502, 56121805, 56101518, 56101713 | ADQUISICION DE DOTACION MOBILIARIA Y ELEMENTOS TECNOLOGICOS CON DESTINO A LA ADMINISTRACION MUNICIPAL DE PAICOL, HUILA Y ARCHIVADORES METALICOS PARA EL CENTRO PENITENCIARIO Y CARCELARIO DEL MUNICIPIO DE LA PLATA, HUILA PARA LA VIGENCIA 2025 EN CUMPLIMIENTO DEL CONVENIO INTERADMINISTRATIVO No. 087 del 11 de MARZO de 2025 | Mínima cuantía | Recursos propios | $20.740.000 | DESPACHO DEL ALCALDE |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 11:10 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 11:50 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 11:50 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 12:00 pm | 04/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Jul/2025 - 12:00 pm | 04/Ago/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 16,400,000
+
+**Informes proceso de selección CO1.AWD.2296144 de 04/Jul/2025 - 04:54 am. Valor $16.400.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 04:00 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 04:00 pm |  |
+| Informe de selección | 04/Jul/2025 - 04:54 pm |  |
+| Informe de selección | 04/Jul/2025 - 04:54 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2296144 | Informe de selección CO1.AWD.2296144 | 04/Jul/2025 - 04:54 pm |  | - |
+| Avisos | CO1.MSG.8108509 | Publicación de la lista de ofertas del proceso DHMP-IMC-AG-022 DE 2025. | 02/Jul/2025 - 04:01 pm |  | - |
+| Avisos | CO1.MSG.8108492 | La lista de oferentes del proceso DHMP-IMC-AG-022 DE 2025 publicada por ALCALDIA MUNICIPAL DE PAICOL HUILA | 02/Jul/2025 - 04:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296144 | Informe de evaluación 1 CO1.AWD.2296144 | 02/Jul/2025 - 04:00 pm |  | - |
+| Avisos | CO1.REQ.8445484 | Publicación modificación | 26/Jun/2025 - 04:21 pm |  |  |
+| General | CO1.MSG.8088647 | AVISO LIMITACIÓN A MIPYME DEPARTAMENTAL | 26/Jun/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8066982 | ACREDITACION A MIPYMES DEPARTAMENTAL. | 20/Jun/2025 - 04:17 pm |  | - |

@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA DISTRITAL FLORENTINO GONZALEZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851f87a4a9561.67230303
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-23 22:16:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Mantenimiento Mobiliario Equipo de Impresión
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Mantenimiento de elementos (Manuales y de oficina)", "licicodigos": "106,441" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 5A No. 30A - 45 SUR Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 22,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154066 | Mantenimiento Sonido, Instrumentos Musicales , Equipos de Impresión | Contratación régimen especial - Régimen especial | Recursos propios | $22.000.000 | INSTITUCION EDUCATIVA DISTRITAL FLORENTINO GONZALEZ |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 05:04 pm
+
+**Fecha de Firma del Contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+26/Nov/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

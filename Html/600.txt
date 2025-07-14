@@ -1,0 +1,252 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682538254fd9c3.98025499
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 06:56:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UN SERVIDOR PARA EL CORREO DEL DEPARTAMENTO DE BUCEO Y SALVAMENTO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211501 - Servidores de computador
+
+**Códigos adicionales UNSPSC:**
+
+43222625 - Servidores de acceso,43233501 - Software de correo electrónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 95 No. 13-08 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211501, 43222625 | ADQUISICIÓN, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UN SERVIDOR PARA EL CORREO DEL DEPARTAMENTO DE BUCEO Y SALVAMENTO. | Mínima cuantía | Recursos propios | $60.000.000 | SUBDIRECCION GENERAL DE CONTRATACION ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/May/2025 - 06:51 pm
+
+**Publicación de estudios previos:**
+
+14/May/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+14/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+15/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+15/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+20/May/2025 - 11:01 am
+
+**Informe de presentación de ofertas:**
+
+20/May/2025 - 11:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 28/May/2025 - 07:00 pm | 30/Dic/2025 - 07:00 pm |
+| Pago de salarios | 5,00 | 28/May/2025 - 07:00 pm | 30/Ago/2028 - 07:00 pm |
+| Calidad del servicio | 20,00 | 28/May/2025 - 07:00 pm | 28/Feb/2026 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 28/May/2025 - 07:00 pm | 30/Dic/2026 - 07:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ACCESAR SAS | Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 54,939,329
+
+**Informes proceso de selección CO1.AWD.2259569 de 28/May/2025 - 09:27 am. Valor $54.939.329**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 22/May/2025 - 04:50 pm |  |
+| Informe de evaluación | 22/May/2025 - 04:50 pm |  |
+| Informe de evaluación | 22/May/2025 - 04:50 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:08 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:08 pm |  |
+| Informe de selección | 28/May/2025 - 09:27 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2259569**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ACCESAR SAS * **Tipo documento:** NIT * **Documento:** 800217129 | * **Nombre:** CLAUDIA PATRICIA LUNA RUIZ * **Tipo documento:** NIT * **Documento:** 32690340 | - Atlántico | $54.939.329 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2259569****
+
+**Cuantía a la firma del contrato:**
+
+$ 54,939,329
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2259569 | Informe de selección CO1.AWD.2259569 | 28/May/2025 - 09:27 am |  | - |
+| Objeciones | CO1.MSG.7931106 | [Respondido] RE:Subsanar documentos solicitados tecnica y jurídicamente | 28/May/2025 - 09:26 am |  | - |
+| Reporte preliminar | CO1.AWD.2259569 | Informe de evaluación 2 CO1.AWD.2259569 | 26/May/2025 - 04:08 pm |  | - |
+| General | CO1.MSG.7932351 | Subsanación | 23/May/2025 - 06:14 pm |  | - |
+| Objeciones | CO1.MSG.7931106 | Subsanar documentos solicitados tecnica y jurídicamente | 23/May/2025 - 04:24 pm |  | - |
+| General | CO1.MSG.7929391 | Documentos de Subsanación de Accesar | 23/May/2025 - 01:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2259569 | Informe de evaluación 1 CO1.AWD.2259569 | 22/May/2025 - 04:50 pm |  | - |
+| Avisos | CO1.MSG.7907985 | Publicación de la lista de ofertas del proceso MC 002-114-2025. | 20/May/2025 - 12:06 pm |  | - |
+| Avisos | CO1.MSG.7907929 | La lista de oferentes del proceso MC 002-114-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 20/May/2025 - 12:00 pm |  | - |
+| General | CO1.MSG.7907081 | RE: Solicitud limitacion convocatoria a MIPYMES nacionales | 20/May/2025 - 10:41 am |  | - |
+| Aclaraciones | CO1.MSG.7902459 | RE: Forma de pago del servicio | 19/May/2025 - 03:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7889961 | Forma de pago del servicio | 15/May/2025 - 04:41 pm |  | - |

@@ -1,0 +1,262 @@
+Title: Licitaciones - DIRECCION DE SANIDAD DE LA POLICIA NACIONAL DISAN PONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e9a8d760873.14699085
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-12 16:41:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DEL SERVICIO DE MANTENIMIENTO CORRECTIVO DE EQUIPOS DE CÓMPUTO, PERIFÉRICOS Y ESCÁNER DE LA DIRECCIÓN DE SANIDAD DE LA POLICIA NACIONAL, QUE INCLUYE REPUESTOS Y MANO DE OBRA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112303 - Mantenimiento de computadores “mainframe”
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 44 No 50-51 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 06:42 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+19/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+19/May/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+19/May/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 16 |
+| 2 | 16 |
+| 3 | 16 |
+| 4 | 16 |
+| 5 | 16 |
+| 6 | 20 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/May/2025 - 07:00 pm | 31/Mar/2026 - 07:00 pm |
+| Pago de salarios | 5,00 | 28/May/2025 - 07:00 pm | 31/Mar/2029 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 28/May/2025 - 07:00 pm | 31/Mar/2027 - 07:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 50,000,000
+
+**Informes proceso de selección CO1.AWD.2261302 de 12/Jun/2025 - 11:31 am. Valor $50.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 07:53 pm |  |
+| Informe de evaluación | 27/May/2025 - 06:25 pm |  |
+| Informe de evaluación | 05/Jun/2025 - 06:53 pm |  |
+| Informe de selección | 12/Jun/2025 - 11:31 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2261302**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FIX TECHNOLOGY SAS * **Tipo documento:** NIT * **Documento:** 901449497 | * **Nombre:** Esneider Dario Guevara Cardenas * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1121925410 | Villavicencio - Meta | $50.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2261302****
+
+**Cuantía a la firma del contrato:**
+
+$ 50,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2261302 | Informe de selección CO1.AWD.2261302 | 12/Jun/2025 - 11:31 am |  | - |
+| General | CO1.MSG.8018682 | Respuesta a la petición presentada respecto al resultado del informe de evaluación. | 11/Jun/2025 - 06:38 pm |  | - |
+| Objeciones | CO1.MSG.7950561 | [Respondido] RE:SUBSANACION | 11/Jun/2025 - 06:36 pm |  | - |
+| Avisos | CO1.REQ.8196633 | Publicación modificación | 10/Jun/2025 - 06:57 pm |  |  |
+| General | CO1.MSG.8011450 | Cordial saludo DIOS Y PATRIA Se publica Adenda N°3 por la cual se amplía la fecha de publicación de la Aceptación de oferta y demás, conforme al documento adjunto | 10/Jun/2025 - 06:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2261302 | Informe de evaluación 3 CO1.AWD.2261302 | 05/Jun/2025 - 06:53 pm |  | - |
+| Avisos | CO1.REQ.8196633 | Publicación modificación | 05/Jun/2025 - 06:40 pm |  |  |
+| General | CO1.MSG.7987215 | publicación Adenda N°2 por la cual se amplía la fecha de publicación de la Aceptación de oferta y demás | 05/Jun/2025 - 12:09 pm |  | - |
+| Objeciones | CO1.MSG.7950561 | SUBSANACION | 28/May/2025 - 11:26 am |  | - |
+| General | CO1.MSG.7948448 | SUBSANACION Y DOCUMENTOS FIX | 28/May/2025 - 10:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2261302 | Informe de evaluación 2 CO1.AWD.2261302 | 27/May/2025 - 06:25 pm |  | - |
+| Avisos | CO1.MSG.7933072 | Publicación de la lista de ofertas del proceso PN DISAN MIC 001 2025. | 24/May/2025 - 08:49 am |  | - |
+| Reporte preliminar | CO1.AWD.2261302 | Informe de evaluación 1 CO1.AWD.2261302 | 23/May/2025 - 07:53 pm |  | - |
+| Avisos | CO1.REQ.8196633 | Publicación modificación | 22/May/2025 - 06:52 pm |  |  |
+| General | CO1.MSG.7925710 | ADENDA 1 | 22/May/2025 - 06:24 pm |  | - |
+| Avisos | CO1.MSG.7904191 | La lista de oferentes del proceso PN DISAN MIC 001 2025 publicada por DIRECCION DE SANIDAD DE LA POLICIA NACIONAL DISAN PONAL | 19/May/2025 - 05:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7884619 | ACLARACION E INFORMACION PROCESO PN DISAN MIC 001 2025 | 14/May/2025 - 07:16 pm |  | - |
+| Aclaraciones | CO1.MSG.7877233 | Observacion Documentos del Proceso de Seleccion | 13/May/2025 - 06:39 pm |  | - |

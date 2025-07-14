@@ -1,0 +1,94 @@
+Title: Licitaciones - Empresa Nacional Promotora del Desarrollo Territorial S.A – ENTerritorio S.A
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f92be29b0e7.07032270
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 09:40:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Fortalecimiento de la capacidad productiva de la asociación de ganaderos de Chapuesquer (Asogacha) mediante dotaciones, manejo praderas silvopastoril. postulada por ASOCIACIÓN GANADEROS CHAPUESQUER (Asogacha) seleccionada en el marco de la estrategia Incentivos para la Paz Territorial
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño: Santacruz Guachavés
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+21101902 - Equipo para cría de ganado
+
+**Códigos adicionales UNSPSC:**
+
+10101516 - Ganado vacuno,10121500 - Pienso para ganado,10131506 - Establos para ganado,10151500 - Semillas y plántulas vegetales,10171500 - Abonos orgánicos y nutrientes para plantas,10171600 - Abonos químicos y nutrientes para plantas,10171700 - Herbicidas,10171800 - Acondicionadores de suelos,21101500 - Maquinaria agrícola para preparación del suelo,21101600 - Maquinaria agrícola para siembra y plantado,21101700 - Maquinaria agrícola para cosechar,21101900 - Equipo para aves de corral y ganado,21101905 - Equipo para identificación de ganado
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Dotación para seguridad industrial, -Plántulas y plantas, -Maquinaria agrícola, -Productos para el control de plagas, toldos y herbicidas, -Guadañas, motosierras, fumigadoras, nebulizadoras, -Semillas, -Abonos orgánicos y nutrientes para plantas", "licicodigos": "104,105,126,290,300,368,473,622,623" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 No.13-19 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 09:08 am
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 02:00 pm

@@ -1,0 +1,207 @@
+Title: Licitaciones - MUNICIPIO DE SAN JOSE DE CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a0c58caa520.56553986
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:51:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO SISTEMA DE COMUNICACIÓN DIGITAL PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MEDICAS SEM, DE LA SECRETARIA DE SALUD DEL MUNICIPIO SAN JOSÉ DE CÚCUTA.NOTA: LOS PAGOS DEBEN PACTARSE DE ACUERDO A LA PROGRAMACION DEL PAC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+83111900 - Servicios de radio,43211500 - Computadores,23152000 - Manejo del Web y maquinaria de control y equipo y suministros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 11 # 5-49 PALACIO MUNICIPAL Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 23152000 | 2025C-300 2025C-300 SUMINISTRO SISTEMA DE COMUNICACIÓN DIGITAL PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MEDICAS SEM, DE LA SECRETARIA DE SALUD DEL MUNICIPIO SAN JOSÉ DE CÚCUTA. | Mínima cuantía | Recursos propios | $104.000.000 | SECRETARIA DE SALUD |
+| 23152000 | 2025C-300 2025C-300 SUMINISTRO SISTEMA DE COMUNICACIÓN DIGITAL PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MEDICAS SEM, DE LA SECRETARIA DE SALUD DEL MUNICIPIO SAN JOSÉ DE CÚCUTA. | Mínima cuantía | Recursos propios | $104.000.000 | SECRETARIA DE SALUD |
+| 23152000 | 2025C-300 2025C-300 SUMINISTRO SISTEMA DE COMUNICACIÓN DIGITAL PARA LA EJECUCIÓN DEL PROGRAMA DE SISTEMA DE EMERGENCIAS MEDICAS SEM, DE LA SECRETARIA DE SALUD DEL MUNICIPIO SAN JOSÉ DE CÚCUTA. | Mínima cuantía | Recursos propios | $104.000.000 | SECRETARIA DE SALUD |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 05:48 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/Jun/2025 - 06:15 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/Jun/2025 - 06:20 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 06:30 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 06:30 pm
+
+**Apertura de sobres:**
+
+13/Jun/2025 - 06:35 pm
+
+**Informe de presentación de ofertas:**
+
+13/Jun/2025 - 06:37 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jun/2025 - 06:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 06:30 pm
+
+**Aceptación de ofertas:**
+
+20/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jun/2025 - 10:00 am | 17/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 18/Jun/2025 - 10:00 am | 17/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento del Servicio prestado | 10,00 | 18/Jun/2025 - 10:00 am | 17/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8067747 | POR LA CUAL SE DECLARA DESIERTO EL PROCESO DE MINIMA CUANTIA SSM-MC-006-2025 | 20/Jun/2025 - 05:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285405 | Informe de evaluación 2 CO1.AWD.2285405 | 20/Jun/2025 - 05:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285405 | Informe de evaluación 1 CO1.AWD.2285405 | 18/Jun/2025 - 06:04 pm |  | - |
+| Avisos | CO1.REQ.8401059 | Publicación modificación | 18/Jun/2025 - 05:58 pm |  |  |
+| Avisos | CO1.MSG.8054351 | Publicación de la lista de ofertas del proceso SSM-MC-006-2025. | 18/Jun/2025 - 05:52 pm |  | - |
+| Avisos | CO1.MSG.8032741 | La lista de oferentes del proceso SSM-MC-006-2025 publicada por MUNICIPIO DE SAN JOSE DE CUCUTA | 13/Jun/2025 - 06:38 pm |  | - |

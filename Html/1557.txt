@@ -1,0 +1,118 @@
+Title: Licitaciones - COLEGIO LAS AMERICAS I.E.D.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680855f4568044.77831109
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-02 19:42:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Reparación y puesta en funcionamiento central telefónica Tes 616 actual 82, teniendo en cuenta las siguientes especificaciones: Reemplazo fuente principal, desmonte unidad extracción tarjetas impresos de servicios puertos, reemplazo de componentes electrónicos defectuosos. Revisión limpieza mantenimiento ajuste tarjeta base Panasonic 308, reemplazo de postes y conectores defectuoso. Revisión limpieza mantenimiento ajuste tarjetas de ampliación 616-824. Mantenimiento general de la unidad de conm
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81141504 - Reparación o calibración de pruebas de equipo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+cra 73cbis#38c84sur Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+20 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 12:06 pm
+
+**Fecha de Firma del Contrato:**
+
+07/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+08/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8148995 | Publicación modificación | 29/Abr/2025 - 03:38 pm |  |  |

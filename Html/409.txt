@@ -1,0 +1,213 @@
+Title: Licitaciones - Rama Judicial Dirección Seccional de Administración Judicial de Pasto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68508e906e2482.35381571
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:22:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de equipos de telefonía móvil para los despachos judiciales y oficinas administrativas de los distritos judiciales de Pasto y Mocoa.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño: San Juan de Pasto ; Putumayo: San Miguel de Mocoa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191501 - Teléfonos móviles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 19 No 23-00 Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43191501 | Adquisición de equipos de telefonía móvil para los despachos judiciales y oficinas administrativas de los distritos judiciales de Pasto y Mocoa | Mínima cuantía | Presupuesto de entidad nacional | $141.000.000 | Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 04:17 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 08:32 am
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 08:00 am | 26/Ene/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 26/Jun/2025 - 08:00 am | 26/Jul/2026 - 06:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8148491 | Respuesta Observación | 10/Jul/2025 - 11:55 am |  | - |
+| General | CO1.MSG.8094407 | RESOLUCIÓN No. DESAJPAR25-2364 DECLARA DESIERTO EL PROCESO DE SELECCIÓN DE MÍNIMA CUANTÍA No. MC015_2025 | 27/Jun/2025 - 03:37 pm |  | - |
+| General | CO1.MSG.8078906 | Corrección informe experiencia Corsa Colombia SAS - SIMCO GROUP SAS | 25/Jun/2025 - 11:20 am |  | - |
+| Reporte preliminar | CO1.AWD.2290135 | Informe de evaluación 1 CO1.AWD.2290135 | 24/Jun/2025 - 08:39 pm |  | - |
+| Avisos | CO1.MSG.8074414 | Publicación de la lista de ofertas del proceso MC015_2025. | 24/Jun/2025 - 04:22 pm |  | - |
+| Avisos | CO1.MSG.8074370 | La lista de oferentes del proceso MC015_2025 publicada por Rama Judicial Dirección Seccional de Administración Judicial de Pasto | 24/Jun/2025 - 04:18 pm |  | - |
+| Avisos | CO1.REQ.8418930 | Publicación modificación | 18/Jun/2025 - 04:47 pm |  |  |
+| General | CO1.MSG.8051545 | AVISO LIMITACIÓN A MIPYMES NACIONALES MC015_2025 | 18/Jun/2025 - 04:42 pm |  | - |

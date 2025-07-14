@@ -1,0 +1,107 @@
+Title: Licitaciones - SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851a072a419c4.92098773
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:17:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR EL HARDWARE Y SOFTWARE QUE SOPORTAN LA INFRAESTRUCTURA DE RED DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221700 - Equipo fijo de red y componentes
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,81111803 - Mantenimiento o soporte de redes de área local (lan),81111706 - Servicios de planificación de redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 69 No. 25B - 44. Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+4 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:52 am
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8091567 | RE: Observaciones , Observaciones Estudio de Mercados, Observaciones Estudio de Mercados, Observaciones Gamma Ingenieros, OBSERVACIONES , OBSERVACION 1 SC-SSF-033-2025 | 27/Jun/2025 - 09:15 am |  | - |
+| Aclaraciones | CO1.MSG.8082027 | Observaciones | 25/Jun/2025 - 04:59 pm |  | - |
+| Aclaraciones | CO1.MSG.8081774 | Observaciones Estudio de Mercados | 25/Jun/2025 - 04:41 pm |  | - |
+| Aclaraciones | CO1.MSG.8080190 | Observaciones Estudio de Mercados | 25/Jun/2025 - 02:43 pm |  | - |
+| Avisos | CO1.REQ.8427557 | Publicación modificación | 24/Jun/2025 - 02:31 pm |  |  |
+| Aclaraciones | CO1.MSG.8060804 | Observaciones Gamma Ingenieros | 19/Jun/2025 - 04:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8059537 | OBSERVACIONES | 19/Jun/2025 - 03:52 pm |  | - |
+| Aclaraciones | CO1.MSG.8058124 | OBSERVACION 1 SC-SSF-033-2025 | 19/Jun/2025 - 12:04 pm |  | - |

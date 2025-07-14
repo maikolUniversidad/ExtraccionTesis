@@ -1,0 +1,187 @@
+Title: Licitaciones - SENA REGIONAL VALLE Grupo Administrativo CNPB
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f84a5b1a986.21688760
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 08:35:00
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la Compra de otros equipos y herramientas del sector agropecuario, agroindustrial y ambiental y programas de mayor demanda del CNPB, incluye pantallas industriales, video beam y puntos hidratación aprendices vigencia 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Buenaventura
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121609 - Cable de redes
+
+**Códigos adicionales UNSPSC:**
+
+52161542 - Pantallas de plasma,48101714 - Dispensadores de agua caliente,41111604 - Reglas,27112004 - Palas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Materiales para obras eléctricas en general, -Electrodomésticos, -Productos y equipos de belleza, -Purificadores de agua y máquinas dispensadoras de bebidas", "licicodigos": "105,115,121,139,326,445" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA SIMÓN BOLIVAR KILOMETRO 5 Buenaventura Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+22/May/2025 - 02:00 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 02:00 pm
+
+**Fecha de publicación:**
+
+22/May/2025 - 02:28 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 08:00 am | 30/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 03/Jun/2025 - 08:00 am | 30/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7943030 | Publicación de la lista de ofertas del proceso MC-VLL-CNPB-0011-2025. | 27/May/2025 - 11:10 am |  | - |
+| Avisos | CO1.MSG.7943025 | La lista de oferentes del proceso MC-VLL-CNPB-0011-2025 publicada por SENA REGIONAL VALLE Grupo Administrativo CNPB | 27/May/2025 - 11:09 am |  | - |
+| Avisos | CO1.REQ.8299220 | Publicación modificación | 26/May/2025 - 10:29 am |  |  |

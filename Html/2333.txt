@@ -1,0 +1,90 @@
+Title: Licitaciones - MINISTERIO DE EDUCACION NACIONAL (MEN)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68226a505b30d7.59053530
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 10:10:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SOPORTE, MANTENIMIENTO PREVENTIVO Y CORRECTIVO PARA LA INFRAESTRUCTURA DE SERVIDORES LENOVO DEL MINISTERIO DE EDUCACION NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 43 # 57-14 CENTRO ADMINISTRATIVO NACIONAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 04:32 pm
+
+**Plazo para solicitar aclaraciones:**
+
+14/May/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/May/2025 - 05:00 pm

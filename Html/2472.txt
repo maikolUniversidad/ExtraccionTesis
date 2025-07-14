@@ -1,0 +1,94 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fe61c212be5.98353992
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 22:06:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.069 ADQUISICIÓN SISTEMA DE SIMULADOR DE AUTOMOVIL PARA LA DIPSE, A EJECUTAR VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211900 - Monitores y pantallas de computador
+
+**Códigos adicionales UNSPSC:**
+
+43211907 - Cascos de realidad virtual
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Simuladores de vuelo y terrestres (capacitación, mantenimiento, suministro)", "licicodigos": "820" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 09:46 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 08:00 am

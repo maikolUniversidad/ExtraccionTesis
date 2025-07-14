@@ -1,0 +1,341 @@
+Title: Licitaciones - MUNICIPIO DE CARTAGO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681b3e84f35cc1.86789968
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE CARTAGO - Contratación mínima cuantía PSMC-009-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-29 19:38:24
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+SUMINISTRO DE LOS SERVICIOS DE RECARGA Y/O REMANUFACTURA PARA TONERS Y CARTUCHOS Y MANTENIMIENTO DE IMPRESORAS Y ESCANERES DE LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Valle del Cauca : Cartago
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+12171703 - Tintas
+
+**Códigos adicionales UNSPSC:**
+81112306 - Mantenimiento de impresoras
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CALLE 8 No6-52 Cartago Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+06/May/2025 - 11:40 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 11:40 pm
+
+**Fecha de publicación:**
+
+06/May/2025 - 11:45 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+07/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+07/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+08/May/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+08/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 11:30 am
+
+**Apertura de sobres:**
+
+09/May/2025 - 11:32 am
+
+**Informe de presentación de ofertas:**
+
+09/May/2025 - 11:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+15/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/May/2025 - 12:00 pm | 31/Jul/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** todotoner del valle | Cartago - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 42,000,000
+
+**Informes proceso de selección CO1.AWD.2250765 de 15/May/2025 - 10:30 am. Valor $42.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/May/2025 - 05:24 pm |  |
+| Informe de evaluación | 14/May/2025 - 06:11 pm |  |
+| Informe de evaluación | 14/May/2025 - 06:11 pm |  |
+| Informe de selección | 15/May/2025 - 10:30 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2250765**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** todotoner del valle * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 35604914 | * **Nombre:** dalila benitez rodriguez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 35604914 | Cartago - Valle del Cauca | $42.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2250765****
+
+**Contrato ORDEN No 2-003-2025 de todotoner del valle:**
+
+**ID del contrato en SECOP:**
+
+ORDEN No 2-003-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+SUMINISTRO DE LOS SERVICIOS DE RECARGA Y/O REMANUFACTURA PARA TONERS Y CARTUCHOS Y MANTENIMIENTO DE IMPRESORAS Y ESCANERES DE LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 12171703 | SUMINISTRO DE LOS SERVICIOS DE RECARGA Y/O REMANUFACTURA PARA TONERS Y CARTUCHOS Y MANTENIMIENTO DE IMPRESORAS Y ESCANERES DE LAS DIFERENTES DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL | 1,00 | UN | 17.997.333,33 | 42.000.000,00 | 17.997.333,33 | 42.000.000,00 |
+
+**Fecha inicio del contrato:**
+
+16/May/2025 - 12:00 pm
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+230 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 42,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ANEXO ACEPTACION DE LA OFERTA ORDEN DE SUMINISTRO No 2-003-2025.pdf |  |
+|  | CERTIFICADO DE DISPONIBILIDAD PRESUPUESTAL.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | COMPROMISO PRESUPUESTAL No 2650 CTO 2-003-2025.pdf |  |
+|  | RESOLUCION 041 APROBACION POLIZA ORDEN 2-003-2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7888433 | RESPUESTA: fecha de inicio y fecha de terminacion del contrato y cuantos meses mas para la expedicion de la poliza | 15/May/2025 - 02:43 pm |  | - |
+| Objeciones | CO1.MSG.7877605 | [Respondido] RE:formato experiencia | 15/May/2025 - 10:30 am |  | - |
+| Reporte final | CO1.AWD.2250765 | Informe de selección CO1.AWD.2250765 | 15/May/2025 - 10:30 am |  | - |
+| Reporte preliminar | CO1.AWD.2250765 | Informe de evaluación 2 CO1.AWD.2250765 | 14/May/2025 - 06:11 pm |  | - |
+| Objeciones | CO1.MSG.7877605 | formato experiencia | 13/May/2025 - 08:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250765 | Informe de evaluación 1 CO1.AWD.2250765 | 13/May/2025 - 05:24 pm |  | - |
+| General | CO1.MSG.7867939 | DESIGNACION COMITE EVALUADOR | 12/May/2025 - 03:32 pm |  | - |
+| General | CO1.MSG.7865340 | ADENDA No 01 MODIFICACION CRONOGRAMA | 12/May/2025 - 10:09 am |  | - |
+| Avisos | CO1.REQ.8220013 | Publicación modificación | 12/May/2025 - 10:08 am |  |  |
+| General | CO1.MSG.7864248 | REQUERIMIENTO PARA EXPLICACIÓN DE VALOR OFRECIDO PRECIO ARTIFICIALMENTE BAJO | 12/May/2025 - 08:14 am |  | - |
+| Avisos | CO1.MSG.7859388 | La lista de oferentes del proceso PSMC-009-2025 publicada por MUNICIPIO DE CARTAGO | 09/May/2025 - 11:54 am |  | - |
+| Avisos | CO1.MSG.7859392 | Publicación de la lista de ofertas del proceso PSMC-009-2025. | 09/May/2025 - 11:54 am |  | - |
+| Avisos | CO1.REQ.8220013 | Publicación modificación | 08/May/2025 - 09:44 am |  |  |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:21 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

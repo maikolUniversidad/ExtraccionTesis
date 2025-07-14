@@ -1,0 +1,265 @@
+Title: Licitaciones - SENA REGIONAL SANTANDER Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f6f58827129.82119230
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 06:35:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Compra de tinta y tóner para el C.A.S.A. SENA Regional Santander
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Piedecuesta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Kilómetro 2 vía Palogordo Vereda Guatiguará Piedecuesta Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 07:04 am
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 08:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 05:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 05:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+02/May/2025 - 05:55 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/May/2025 - 11:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/May/2025 - 11:59 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 08/May/2025 - 12:00 pm | 23/Nov/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC PRONTO SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,587,850
+
+**Informes proceso de selección CO1.AWD.2241524 de 06/May/2025 - 12:09 pm. Valor $3.587.850**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/May/2025 - 05:47 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:47 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:47 pm |  |
+| Informe de selección | 06/May/2025 - 12:09 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2241524**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC PRONTO S.A.S. * **Tipo documento:** NIT * **Documento:** 830089925 | * **Nombre:** EINAR RENGIFO OME * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 12197521 | - Distrito Capital de Bogotá | $3.587.850 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2241524****
+
+**Contrato CO1.PCCNTR.7848237 de PC PRONTO S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7848237
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Compra de tinta y tóner para el C.A.S.A. SENA Regional Santander
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44103103 | Toner para Impresora SAMSUNG M5370LX Cartucho de TONNER NEGRO de alto rendimiento Ref: MLT D358S para sistemas de impresion Laser de la marca SAMSUNG modelo M5370LX ubicadas en el Centro de Atencion al Sector Agropecuario CASA SENA Piedecuesta. | 3,00 | UN | 855.467,00 | 392.700,00 | 2.566.401,00 | 1.178.100,00 |
+| 2 | 44103103 | Unidad Fusora para impresora SAMSUNG M5370LX Repuesto Parte Pieza: Unidad Fusora Fuser Assembly Marca: Samsung Modelo: JC91-01160A Código De Fábrica: JC91-01160A Tecnología De Impresión: Láser Monocromática Color: Black Capacidad: Alta Compatibilidad: Impresoras Samsung MultiXpress SL M4370LX / SL-M5370LX / SL M5360RX | 1,00 | UN | 1.899.983,00 | 1.130.500,00 | 1.899.983,00 | 1.130.500,00 |
+| 3 | 44103103 | Ribbon para impresora Zebra Color YMCKO ZC100/ZC300 Ribbon para impresora Zebra Color YMCKO ZC100/ZC300 Ref:N/P: 800300-550LA Compatible con: serie zc100 Card Printer Categoria: panel a color YMCKO Imagenes 200 ORIGINAL DE ZEBRA | 5,00 | UN | 617.333,00 | 255.850,00 | 3.086.665,00 | 1.279.250,00 |
+
+**Fecha de terminación del contrato:**
+
+23/May/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+15 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 3,587,850
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | GCCON-F-021-AnexoalcontratooaceptaciondeofertaV03.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2241524 | Informe de selección CO1.AWD.2241524 | 06/May/2025 - 12:09 pm |  | - |
+| Reporte preliminar | CO1.AWD.2241524 | Informe de evaluación 1 CO1.AWD.2241524 | 02/May/2025 - 05:47 pm |  | - |
+| Avisos | CO1.MSG.7828507 | Publicación de la lista de ofertas del proceso MC-STD-CASA-0093-2025. | 02/May/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.7822213 | La lista de oferentes del proceso MC-STD-CASA-0093-2025 publicada por SENA REGIONAL SANTANDER Grupo de Apoyo Administrativo Mixto | 30/Abr/2025 - 06:11 pm |  | - |
+| General | CO1.MSG.7813311 | AVISO DE NO LIMITACIÓN A MIPYMES | 29/Abr/2025 - 02:44 pm |  | - |

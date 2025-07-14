@@ -1,0 +1,329 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE MADRID CUNDINAMARCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cf13f2b6427.80246192
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:34:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERÍA Y ÚTILES DE OFICINA DE ESCRITORIO E INSUMOS PARA IMPRESORAS Y FOTOCOPIADORAS CON DESTINO A LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL NIVEL CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Madrid
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Códigos adicionales UNSPSC:**
+
+44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax,44122000 - Carpetas de archivo, carpetas y separadores,14111500 - Papel de imprenta y papel de escribir
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 5 No 4-74 Madrid Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 550,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103100, 44101700, 14111500, 44122000 | 077.SUMINISTRO DE ELEMENTOS DE OFICINA, PAPELERÍA Y ÚTILES DE OFICINA DE ESCRITORIO E INSUMOS PARA IMPRESORAS Y FOTOCOPIADORAS CON DESTINO A LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL NIVEL CENTRAL | Selección abreviada subasta inversa | Recursos propios | $550.000.000 | SECRETARIA JURIDICA ALCALDÍA MUNICIPAL DE MADRID |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 03:53 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 04:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 10:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+30/May/2025 - 12:42 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+30/May/2025 - 02:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+30/May/2025 - 02:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 11:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 11:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 10:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+10/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+10/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+10/Jun/2025 - 09:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+12/Jun/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+25/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 02:00 pm
+
+**Firma del Contrato:**
+
+25/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+26/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 19/Jun/2025 - 12:00 pm | 15/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** UT PAPELERIA E IMPRESIÓN T&R MADRID 2025 | Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 400,000,000
+
+**Informes proceso de selección CO1.AWD.2279525 de 25/Jun/2025 - 05:27 am. Valor $400.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/Jun/2025 - 07:48 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 07:48 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 07:48 pm |  |
+| Informe de selección | 25/Jun/2025 - 05:27 pm |  |
+| Informe de selección | 25/Jun/2025 - 05:27 pm |  |
+| Informe de selección | 25/Jun/2025 - 05:27 pm |  |
+| Informe de selección | 25/Jun/2025 - 05:27 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2279525**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** UT PAPELERIA E IMPRESIÓN T&R MADRID 2025 * **Tipo documento:** * **Documento:** 0 | - | Bogotá - | $400.000.000 |  |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2279525****
+
+**ID del contrato en SECOP:**
+
+CONTRATO DE SUMINISTRO NO. 660-2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+15/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 400,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jun/2025 - 05:00 pm
+
+**Fecha de inicio:**
+
+25/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+25/Jun/2025 - 10:25 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2279525 | Informe de selección CO1.AWD.2279525 | 25/Jun/2025 - 05:27 pm |  | - |
+| Avisos | CO1.MSG.8069405 | Publicación de la lista de ofertas del proceso SI-005-2025 (Presentación de oferta). | 23/Jun/2025 - 07:35 am |  | - |
+| General | CO1.MSG.8064780 | RESOLUCION POR LA CUAL SE MODIFICA EL COMITE EVALUADOR | 20/Jun/2025 - 11:48 am |  | - |
+| Avisos | CO1.REQ.8345325 | Publicación modificación | 19/Jun/2025 - 10:55 am |  |  |
+| General | CO1.MSG.8055955 | ADENDA No. 2 | 19/Jun/2025 - 08:32 am |  | - |
+| Avisos | CO1.REQ.8345325 | Publicación modificación | 19/Jun/2025 - 08:18 am |  |  |
+| General | CO1.MSG.8048413 | ADENDA No. 1 | 18/Jun/2025 - 08:20 am |  | - |
+| Reporte preliminar | CO1.AWD.2279525 | Informe de evaluación 1 CO1.AWD.2279525 | 12/Jun/2025 - 07:48 pm |  | - |
+| Avisos | CO1.MSG.8005867 | La lista de oferentes del proceso SI-005-2025 (Presentación de oferta) publicada por ALCALDÍA MUNICIPAL DE MADRID CUNDINAMARCA | 10/Jun/2025 - 09:02 am |  | - |
+| General | CO1.MSG.8000057 | RE: Solicitud Aclaracion | 09/Jun/2025 - 10:41 am |  | - |
+| General | CO1.MSG.7977925 | RESPUESTA OBSERVACIONES PLIEGO DE CONDICIONES | 04/Jun/2025 - 09:07 am |  | - |
+| Aclaraciones | CO1.MSG.7977915 | RE: Solicitud de limitación a Mipymes | 04/Jun/2025 - 09:06 am |  | - |
+| General | CO1.MSG.7977429 | Respuesta a observaciones presentadas extemporaneamente | 04/Jun/2025 - 08:07 am |  | - |
+| Aclaraciones | CO1.MSG.7969962 | Solicitud de limitación a Mipymes | 01/Jun/2025 - 09:30 am |  | - |
+| General | CO1.MSG.7960607 | RESPUESTA OBSERVACIONES | 29/May/2025 - 04:03 pm |  | - |

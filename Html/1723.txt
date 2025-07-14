@@ -1,0 +1,174 @@
+Title: Licitaciones - RECLUSION DE MUJERES DE POPAYAN - INPEC
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68222b1e59e6d0.52007693
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 16:32:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO DE EQUIPOS TECNOLÓGICOS PARA EL FUNCIONAMIENTO DEL ÓRGANO COLEGIADO CET DE LA CÁRCEL Y PENITENCIARIA DE MEDIANA SEGURIDAD PARA MUJERES DE POPAYÁN - INPEC 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212105 - Impresoras láser
+
+**Códigos adicionales UNSPSC:**
+
+43211507 - Computadores de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "102,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 3 No 16-11 Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+120 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 132,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212105, 43211507 | MANTENIMIENTO EQUIPOS TECNOLOGICOS CET 2025 | Mínima cuantía | Presupuesto de entidad nacional | $700.000 | CONTRATOS RM POPAYAN - INPEC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 11:42 am
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 09:00 am
+
+**Publicación de la invitación:**
+
+13/May/2025 - 09:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 09:00 am
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+14/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+14/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+15/May/2025 - 09:30 am
+
+**Informe de presentación de ofertas:**
+
+15/May/2025 - 10:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+15/May/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/May/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 10:15 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

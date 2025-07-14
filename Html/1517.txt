@@ -1,0 +1,279 @@
+Title: Licitaciones - MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68533f6a6149e8.79626987
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:48:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN ANTE LACNIC, DE LOS BLOQUES DE DIRECCIONAMIENTO IPV6 CON LOS QUE CUENTA EL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231511 - Software de sistemas expertos
+
+**Códigos adicionales UNSPSC:**
+
+81111820 - Servicios de funcionalidad del sistema,81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet,81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 # 32-42 piso 7 al 12 San martin Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231511 | OTIC_059 RENOVACIÓN ANTE LACNIC, DE LOS BLOQUES DE DIRECCIONAMIENTO IPV6 CON LOS QUE CUENTA EL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL. | Mínima cuantía | Presupuesto de entidad nacional | $5.000.000 | MINAGRICULTURA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 05:32 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 08:00 am | 03/Feb/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/Jul/2025 - 08:00 am | 03/Feb/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,599,000
+
+**Informes proceso de selección CO1.AWD.2293171 de 03/Jul/2025 - 08:44 am. Valor $3.599.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 03:53 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:53 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:53 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 03:53 pm |  |
+| Informe de selección | 03/Jul/2025 - 08:44 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2293171**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MCE NET SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 900232293 | * **Nombre:** JESUS ANTONIO CANASTERO ROMERO * **Tipo documento:** NIT * **Documento:** 79569901 | - Cundinamarca | $3.599.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2293171****
+
+**Contrato 20250654 de MCE NET SOLUTIONS SAS:**
+
+**ID del contrato en SECOP:**
+
+20250654
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+RENOVACIÓN ANTE LACNIC, DE LOS BLOQUES DE DIRECCIONAMIENTO IPV6 CON LOS QUE CUENTA EL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43231511 | Renovación ante LACNIC, de los bloques de direccionamiento IPv6 con los que cuenta el Ministerio de Agricultura y Desarrollo Rural | 1,00 | UN | 4.489.950,00 | 3.599.000,00 | 4.489.950,00 | 3.599.000,00 |
+
+**Fecha de terminación del contrato:**
+
+08/Ago/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 3,599,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 20_Aceptacion oferta MADR-MC-007-2025.pdf |  |
+|  | ACUERDO CONFIDENCIALIDAD..pdf |  |
+|  | 6_EP_MADR_MC_007_2025..pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293171 | Informe de selección CO1.AWD.2293171 | 03/Jul/2025 - 08:44 pm |  | - |
+| Avisos | CO1.MSG.8095831 | Publicación de la lista de ofertas del proceso MADR-MC-007-2025. | 27/Jun/2025 - 05:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293171 | Informe de evaluación 1 CO1.AWD.2293171 | 27/Jun/2025 - 03:53 pm |  | - |
+| Avisos | CO1.MSG.8084871 | La lista de oferentes del proceso MADR-MC-007-2025 publicada por MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL | 26/Jun/2025 - 09:23 am |  | - |
+| General | CO1.MSG.8071776 | AVISO DE NO LIMITACIÓN A MYPIME MADR-MC-007-2025 | 24/Jun/2025 - 11:21 am |  | - |

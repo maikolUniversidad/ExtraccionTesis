@@ -1,0 +1,170 @@
+Title: Licitaciones - REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835e701d0c619.85445374
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-29 08:08:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA, DE OFICINA, CAFETERÍA, ASEO Y OTROS ELEMENTOS PARA EL FUNCIONAMIENTO DE LA REGIÓN DE PLANEACIÓN Y GESTIÓN DEL BAJO CAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Caucasia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101700 - Gerencia industrial
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Artículos de cafetería y víveres, -Artículos de aseo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,186,260,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 21 # 14 – 04; Mall Portal El Triángulo Caucasia Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+15 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 11:09 am
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 01:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 01:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+28/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+29/May/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 10:05 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 10:10 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7954282 | Limitacion territorial mipymes municipio de Caucasia Antioquia | 28/May/2025 - 05:14 pm |  | - |

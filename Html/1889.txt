@@ -1,0 +1,104 @@
+Title: Licitaciones - SERVICIO NACIONAL DE APRENDIZAJE - SENA MAGDALENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807e81119f732.66344362
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-24 16:01:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la compra de Elementos de Papelería, Útiles de Oficina, Toner, Recarga de Toner
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Magdalena : Santa Marta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121600 - Suministros de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+44101809 - Calculadoras de escritorio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 29 No. 13 - 127 Santa Marta Magdalena COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 80,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 01:58 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/Abr/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Abr/2025 - 12:00 pm

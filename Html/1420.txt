@@ -1,0 +1,220 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE TAMESIS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f8c1cde61d8.95309287
+
+Markdown Content:
+Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE TAMESIS - Contratación mínima cuantía TAM013-25 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-26 09:34:22
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+CONTRATAR LA ADQUISICIÓN DE ELEMENTOS PARA EL PROGRAMA DE CULTURA, RECREACIÓN Y DEPORTE DEL EPMSC TÁMESIS
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Támesis
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+60121905 - Lienzos estampables
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Textiles y productos para confección, -Papelería y elementos de oficina, -Material didáctico y libros", "licicodigos": "105,125,127,134" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+CRA 10 N° 9-40 Támesis Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 60121905, 11161704, 31211904, 14111810, 14111530, 49161504, 49221505, 55101510, 45101803, 39121103, 45121520 | CONTRATAR LA ADQUISICIÓN DE ELEMENTOS PARA EL PROGRAMA DE CULTURA, RECREACIÓN Y DEPORTE DEL EPMSC TÁMESIS. | Mínima cuantía | Recursos propios | $3.360.000 | CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 03:21 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 03:25 pm
+
+**Publicación de la invitación:**
+
+22/May/2025 - 03:25 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 03:10 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 03:15 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 03:30 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 09:02 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 09:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 09:30 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 09:30 am
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 11:30 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7930355 | SE INFORMA AL PÚBLICO EN GENERAL QUE LA CONTRATACIÓN TAM013-25 NO SE LIMITA A MIPYMES, TODA VEZ QUE NO LO SOLICITARON | 23/May/2025 - 03:16 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:44 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

@@ -1,0 +1,243 @@
+Title: Licitaciones - INSTITUTO DE HIDROLOGIA, METEOROLOGÍA Y ESTUDIOS AMBIENTALES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68506b88bfc512.63407030
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 12:02:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+(HIDRO-333) ADQUIRIR A TITULO DE COMPRAVENTA EQUIPOS PARA LA RED DE ESTACIONES AUTOMATICAS (BATERÍAS, REGULADORES ELECTRONICOS, ENTRE OTROS), DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS DEFINIDAS POR EL IDEAM
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121600 - Cables eléctricos y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+39101600 - Lámparas y bombillas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Pilas y baterías desechables y recargables, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores", "licicodigos": "299,454" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 25d No. 96b - 70 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 50,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/Jun/2025 - 01:47 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/Jun/2025 - 02:00 pm
+
+**Publicación Estudios Previos:**
+
+16/Jun/2025 - 02:00 pm
+
+**Plazo para presentar observaciones al proyecto de pliego de condiciones:**
+
+24/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 11:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+01/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jul/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+07/Jul/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+07/Jul/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+07/Jul/2025 - 10:02 am
+
+**Publicación del informe de verificación o evaluación:**
+
+09/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+15/Jul/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 12:01 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/Jul/2025 - 12:00 pm | 23/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 23/Jul/2025 - 12:00 pm | 23/Sep/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+18/Jul/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+18/Jul/2025 - 12:01 pm
+
+**Fecha fin:**
+
+18/Jul/2025 - 12:15 pm
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(17/Jun/2025 - 12:04 pm PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal IDEAM en 2 días de tiempo transcurrido (17/Jun/2025 - 12:04 pm PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se cancela proceso debido a que en la plataforma se indicó objeto que no corresponde.
+
+**Fecha de la cancelación:**
+
+17/Jun/2025 - 12:04 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8041669 | Información objeto plataforma | 17/Jun/2025 - 09:27 am |  | - |

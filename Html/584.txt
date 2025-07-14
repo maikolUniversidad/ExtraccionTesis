@@ -1,0 +1,206 @@
+Title: Licitaciones - SECRETARIA DISTRITAL DE HACIENDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c418a978ea7.99244761
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:30:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar los servicios de actualización, configuración y soporte para el software de gestión de impresoras para el uso del Concejo de Bogotá D.C.., de conformidad con lo establecido en la presente invitación pública.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 30 No. 25 – 90, piso 1º Ventanilla de Correspondencia de la Secretaría Distrital de Hacienda Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 130,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200 | 1000005331 - Prestar los servicios de actualización, configuración y soporte para el software de gestión de impresoras para el uso del Concejo de Bogotá D.C. | Mínima cuantía | Recursos propios | $82.000.000 | UNIDAD DE CONTRATACION SAC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 01:10 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+27/Jun/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/Jul/2025 - 11:58 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/Jul/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+04/Jul/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+04/Jul/2025 - 11:02 am
+
+**Informe de presentación de ofertas:**
+
+04/Jul/2025 - 11:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+10/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+15/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+17/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 01/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 01/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8156296 | Publicación de la lista de ofertas del proceso SDH-SMINC-0047-2025. | 11/Jul/2025 - 12:27 pm |  | - |
+| Avisos | CO1.MSG.8156293 | La lista de oferentes del proceso SDH-SMINC-0047-2025 publicada por SECRETARIA DISTRITAL DE HACIENDA | 11/Jul/2025 - 12:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2303254 | Informe de evaluación 1 CO1.AWD.2303254 | 10/Jul/2025 - 06:14 pm |  | - |
+| Avisos | CO1.REQ.8455010 | Publicación modificación | 09/Jul/2025 - 12:01 pm |  |  |
+| General | CO1.MSG.8140500 | REQUERIMIENTO Grupo Empresarial Crear de Colombia SAS | 09/Jul/2025 - 10:09 am |  | - |
+| Avisos | CO1.REQ.8455010 | Publicación modificación | 07/Jul/2025 - 11:01 am |  |  |
+| General | CO1.MSG.8106675 | AVISO NO LIMITACIÓN A MIPYME | 02/Jul/2025 - 12:03 pm |  | - |
+| General | CO1.MSG.8106667 | RESPUESTA OBSERVACIONES | 02/Jul/2025 - 12:01 pm |  | - |
+| General | CO1.MSG.8106651 | RESPUESTA OBSERVACIONES | 02/Jul/2025 - 11:59 am |  | - |
+| Aclaraciones | CO1.MSG.8106641 | RESPUESTA OBSERVACIONES | 02/Jul/2025 - 11:58 am |  | - |
+| Aclaraciones | CO1.MSG.8087519 | OBSERVACIONES GENERALES | 26/Jun/2025 - 02:41 pm |  | - |

@@ -1,0 +1,110 @@
+Title: Licitaciones - SENA REGIONAL QUINDIO Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a91ca556c87.91325626
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 22:21:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+Contratar el mantenimiento preventivo y correctivo de equipos FABLAB - Producción de Centros del Centro para el Desarrollo Tecnológico de la Construcción y la Industria, SENA Quindío.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152101 - Servicio de mantenimiento de equipo industrial
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Maquinaria industrial, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "106,228,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA CENTENARIO CRA 6 # 47N-15 Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 02:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Abr/2025 - 11:59 am
+
+**Fecha límite para responder la solicitud de información:**
+
+28/Abr/2025 - 11:59 am
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(18/Jun/2025 - 04:08 am:32 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal SENA REGIONAL QUINDIO Grupo de Apoyo Administrativo Mixto en 6 horas de tiempo transcurrido (18/Jun/2025 - 04:08 am:32 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se cancela por cambio en el PAA
+
+**Fecha de la cancelación:**
+
+18/Jun/2025 - 04:08 pm

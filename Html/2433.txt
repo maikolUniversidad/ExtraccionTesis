@@ -1,0 +1,108 @@
+Title: Licitaciones - FONDO NACIONAL DEL AHORRO S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68352c93ae8210.98585639
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 10:51:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar los servicios e implementación de una solución integral bajo la metodología Datafabric, una solución integral de analítica digital con sus respectivos modelos de operación, así como la implementación y adopción del modelo de gobierno de datos transversal del Fondo Nacional del Ahorro S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,43233000 - Software de entorno operativo,43233500 - Software de intercambio de información,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,81112000 - Servicios de datos,81112200 - Mantenimiento y soporte de software,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 # 11 - 83 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+18 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 09:50 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+06/Jun/2025 - 08:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8324337 | Publicación modificación | 05/Jun/2025 - 12:36 pm |  |  |
+| General | CO1.MSG.7986500 | REITERACIÓN COTIZACIÓN | 05/Jun/2025 - 10:59 am |  | - |
+| General | CO1.MSG.7986474 | REITERACIÓN COTIZACIÓN | 05/Jun/2025 - 10:58 am |  | - |
+| General | CO1.MSG.7980108 | RE: Solicitud Ampliación de Plazo | 04/Jun/2025 - 01:02 pm |  | - |
+| Avisos | CO1.REQ.8324337 | Publicación modificación | 04/Jun/2025 - 07:01 am |  |  |
+| General | CO1.MSG.7976450 | ACTUALIZACIÓN ANEXOS AL EVENTO DE COTIZACION | 03/Jun/2025 - 07:15 pm |  | - |
+| Avisos | CO1.REQ.8324337 | Publicación modificación | 30/May/2025 - 03:39 pm |  |  |
+| Aclaraciones | CO1.MSG.7954066 | Observaciones Grow Data SAS | 28/May/2025 - 04:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7950210 | PRORROGA | 28/May/2025 - 10:57 am |  | - |

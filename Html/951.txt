@@ -1,0 +1,182 @@
+Title: Licitaciones - COLEGIO ACACIA II IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834901e868718.69000719
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE ELEMENTOS Y SUMINISTROS NECESARIOS PARA EL BUEN FUNCIONAMIENTO DE LA IED
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Códigos adicionales UNSPSC:**
+
+14111506 - Papel para impresión de computadores,42121800 - Equipo y suministros para inseminación artificial veterinaria
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Ferretería y materiales para la construcción de obras civiles, -Papelería y elementos de oficina, -Suministro material y/o dispositivos médicos, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,115,122,127,190,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 62 SUR No 19 B 42 SAN FRANCISCO LOCALIDAD CIUDAD BOLIVAR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+20 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111500, 14111506, 14111507, 14111509, 44103105, 44103126, 44121600, 44121700, 44121800, 44121900, 44122000, 44122100, 60121800 | COMPRA DE SUMINISTROS NECESARIOS PARA EL BUEN FUNCIONAMIENTO DE LA ENTIDAD | Contratación régimen especial (con ofertas) - Régimen especial | SGP | $35.000.000 | COLEGIO ACACIA II IED |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+26/May/2025 - 10:44 am
+
+**Fecha límite de presentación de ofertas:**
+
+29/May/2025 - 02:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+29/May/2025 - 02:05 pm
+
+**Fecha de Firma del Contrato:**
+
+04/Jun/2025 - 02:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+04/Jun/2025 - 03:00 pm
+
+**Plazo de ejecución del contrato:**
+
+20/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMERCIALIZADORA MRO SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 21,655,428
+
+**Informes proceso de selección CO1.AWD.2267410 de 03/Jun/2025 - 06:58 am. Valor $21.655.428**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 09:24 am |  |
+| Informe de selección | 03/Jun/2025 - 06:58 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267410**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA MRO SAS * **Tipo documento:** NIT * **Documento:** 901816632 | * **Nombre:** MARLON DARIO LARA GONZALEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1143130608 | Bogotá - Distrito Capital de Bogotá | $21.655.428 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267410****
+
+**Cuantía a la firma del contrato:**
+
+$ 21,655,428
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267410 | Informe de selección CO1.AWD.2267410 | 03/Jun/2025 - 06:58 am |  | - |
+| Reporte preliminar | CO1.AWD.2267410 | Informe de evaluación 1 CO1.AWD.2267410 | 30/May/2025 - 09:24 am |  | - |
+| Avisos | CO1.MSG.7963939 | Publicación de la lista de ofertas del proceso CP 16 COMPRA DE ELEMENTOS Y SUMINISTROS NECESARIOS. | 30/May/2025 - 09:21 am |  | - |
+| Avisos | CO1.MSG.7963934 | La lista de oferentes del proceso CP 16 COMPRA DE ELEMENTOS Y SUMINISTROS NECESARIOS publicada por COLEGIO ACACIA II IED | 30/May/2025 - 09:20 am |  | - |

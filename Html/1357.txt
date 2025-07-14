@@ -1,0 +1,170 @@
+Title: Licitaciones - MUNICIPIO DE CHIGORODO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680f8b53c27852.49605737
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-30 07:28:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE TRANSMISIÓN DE FACTURACIÓN ELECTRONICA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Chigorodó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+84111506 - Servicios de facturación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+1 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 104A Numero 100-08 Barrio Centro Chigorodó Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+230 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 84111506 | SH-SERVICIO DE TRANSMISIÓN DE FACTURACIÓN ELECTRONICA | Mínima cuantía | Recursos propios | $9.000.000 | Secretaria de Hacienda |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 09:04 am
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 09:10 am
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 09:10 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 11:30 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/May/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

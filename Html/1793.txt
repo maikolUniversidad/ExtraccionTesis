@@ -1,0 +1,94 @@
+Title: Licitaciones - DEPARTAMENTO DE CUNDINAMARCA-SECRETARIA DEL AMBIENTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c88152493c8.44346375
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:23:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+AUNAR ESFUERZOS TÉCNICOS, ADMINISTRATIVOS Y FINANCIEROS CON EL MUNICIPIO DE VILLAPINZÓN Y LA SECRETARÍA DE BIENESTAR VERDE DEL DEPARTAMENTO DE CUNDINAMARCA PARA CONTINUAR CON EL FORTALECIMIENTO DEL CENTRO TECNOLÓGICO DEL CUERO-CTC, PARA FOMENTAR ALTERNATIVAS DE SOSTENIBILIDAD AMBIENTAL ESTABLECIDOS EN EL POMCA Y LA SENTENCIA DEL RÍO BOGOTÁ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81101800 - Ingeniería química
+
+**Códigos adicionales UNSPSC:**
+
+81101706 - Mantenimiento de equipos de laboratorio,43211500 - Computadores,81101500 - Ingeniería civil y arquitectura
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -GPS y servicio de monitoreo, -Reactivos, insumos y/o dispositivos para laboratorio", "licicodigos": "104,105,115,377,378" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 No 51-53 Bogotá – Colombia piso 3 torre Beneficencia. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 06:21 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/Jun/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+01/Jul/2025 - 05:00 pm

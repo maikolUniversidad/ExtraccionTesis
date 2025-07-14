@@ -1,0 +1,88 @@
+Title: Licitaciones - AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68080c10666db2.55310498
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 09:48:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DEL SERVICIO DE SOPORTE Y GARANTIA DE EQUIPOS DE INFRAESTRUCTURA TECNOLOGICA PARA LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "102,106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 7 # 75-66 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 04:27 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8151067 | Publicación modificación | 28/Abr/2025 - 09:28 am |  |  |

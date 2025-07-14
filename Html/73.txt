@@ -1,0 +1,284 @@
+Title: Licitaciones - FONDO FINANCIERO DISTRITAL DE SALUD..
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827d50b588ac9.06293563
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:41:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE LOS EQUIPOS DE LA RED LAN (SWITCH) Y DATA CENTER DEL FONDO FINANCIERO DISTRITAL DE SALUD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151600 - Servicios de sistemas especializados de comunicación
+
+**Códigos adicionales UNSPSC:**
+
+72151500 - Servicios de sistemas eléctricos,43221800 - Dispositivos de red óptica
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para redes de comunicación", "licicodigos": "438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 32 N 12-81 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,590,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72151500, 72151600, 43221800 | 088-054000_0154_8108 Adquisición de los equipos de la RED LAN (switch) y data center del Fondo Financiero Distrital de Salud. | Selección abreviada subasta inversa | Recursos propios | $1.590.000.000 | SUBDIRECCION DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 06:54 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+30/May/2025 - 05:53 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+05/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/Jun/2025 - 11:10 am
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 11:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+20/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+04/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+17/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+18/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/Jul/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+23/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 07:00 am | 02/Nov/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 07:00 am | 02/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 03/Jul/2025 - 07:00 am | 02/Nov/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jul/2025 - 07:00 am | 02/Nov/2028 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+04/Jul/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+04/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+04/Jul/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8159646 | ACTA DE AUDIENCIA APERTURA DE SOBRES ECONOMICOS | 11/Jul/2025 - 06:13 pm |  | - |
+| General | CO1.MSG.8159183 | RESPUESTA JUSTIFICACION PAB MENOR VALOR | 11/Jul/2025 - 05:25 pm |  | - |
+| General | CO1.MSG.8145908 | REQUERIMIENTO JUSTIFICACION PAB PROPONENTE SDT INGENIERIA SAS | 09/Jul/2025 - 07:34 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287508 | Informe de evaluación 3 CO1.AWD.2287508 | 09/Jul/2025 - 07:29 pm |  | - |
+| Avisos | CO1.REQ.8341560 | Publicación modificación | 09/Jul/2025 - 06:22 pm |  |  |
+| General | CO1.MSG.8125077 | NUEVA HORA EVENTO DE SUBASTA 07 DE JULIO A LAS 11:30 A.M. | 07/Jul/2025 - 07:11 am |  | - |
+| General | CO1.MSG.8122049 | INFORMACIÓN HORA EVENTO DE SUBASTA FFDS-SASI-003-2025 | 04/Jul/2025 - 04:11 pm |  | - |
+| General | CO1.MSG.8121024 | NUEVA HORA POR DEFINIR EVENTO DE SUBASTA | 04/Jul/2025 - 02:25 pm |  | - |
+| General | CO1.MSG.8120847 | LISTA DE PARTICIPANTES Y MENOR VALOR | 04/Jul/2025 - 02:09 pm |  | - |
+| General | CO1.MSG.8120598 | NUEVA HORA PUBLICACION LISTA PARTICIPACION PROPONENTES Y EVENTO DE SUBASTA | 04/Jul/2025 - 01:19 pm |  | - |
+| General | CO1.MSG.8120439 | NUEVA HORA PUBLICACION LISTA PARTICIPACION PROPONENTES Y EVENTO DE SUBASTA | 04/Jul/2025 - 12:46 pm |  | - |
+| General | CO1.MSG.8120108 | ALCANCE No. 2 INFORME DE EVALUACION DEFINITIVO TECNICO FFDS-SASI-003-2025 Y RESPUESTA OBSERVACIONES | 04/Jul/2025 - 12:34 pm |  | - |
+| General | CO1.MSG.8118887 | NUEVA HORA AUDIENCIA APERTURA SOBRE ECONÓMICO 04 DE JULIO DE 2025 A LAS 10:45 A.M. | 04/Jul/2025 - 09:57 am |  | - |
+| General | CO1.MSG.8118776 | ALCANCE 1 EVALUACION DEFINITIVA FFDS-SASI-003-2025 | 04/Jul/2025 - 09:44 am |  | - |
+| Objeciones | CO1.MSG.8117258 | [Respondido] RE:Observación segundo informe. | 03/Jul/2025 - 10:40 pm |  | - |
+| Objeciones | CO1.MSG.8114598 | [Respondido] RE:OBSERVACIONES SUBASTA INVERSA | 03/Jul/2025 - 10:37 pm |  | - |
+| Objeciones | CO1.MSG.8117258 | Observación segundo informe. | 03/Jul/2025 - 07:28 pm |  | - |
+| General | CO1.MSG.8116935 | AUDIENCIA DE APERTURA DE SOBRES ECONOMICOS Y PROTOCOLO FFDS-SASI-003-2025 | 03/Jul/2025 - 06:43 pm |  | - |
+| General | CO1.MSG.8115890 | Respuesta observaciones al informe de evaluación preliminar y aclaraciones presentadas. | 03/Jul/2025 - 04:52 pm |  | - |
+| Objeciones | CO1.MSG.8114598 | OBSERVACIONES SUBASTA INVERSA | 03/Jul/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.8113290 | AUDIENCIA APERTURA DE SOBRES ECONÓMICOS PROCESO FFDS-SASI-003-2025 - SWITCH CORE | 03/Jul/2025 - 11:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2287508 | Informe de evaluación 2 CO1.AWD.2287508 | 03/Jul/2025 - 06:58 am |  | - |
+| Objeciones | CO1.MSG.8089504 | [Respondido] RE:SUBSANACIÓN GTS | 27/Jun/2025 - 12:39 pm |  | - |
+| Objeciones | CO1.MSG.8089469 | [Respondido] RE:Observaciones al informe de evaluacion | 27/Jun/2025 - 12:36 pm |  | - |
+| Objeciones | CO1.MSG.8088399 | [Respondido] RE:SUBSANACIÓN JURIDICA Y FINANCIERA UT INTEGRA 25-I | 27/Jun/2025 - 12:32 pm |  | - |
+| Objeciones | CO1.MSG.8086042 | [Respondido] RE:Subsanación GAMMA INGENIEROS | 27/Jun/2025 - 12:30 pm |  | - |
+| Objeciones | CO1.MSG.8080915 | [Respondido] RE:SUBSANACION | 27/Jun/2025 - 12:24 pm |  | - |
+| Objeciones | CO1.MSG.8079333 | [Respondido] RE:Subsanación SANOLIVAR | 27/Jun/2025 - 12:22 pm |  | - |
+| Objeciones | CO1.MSG.8072434 | [Respondido] RE:Respuesta al informe de evaluación 1 - TESERACT SAS | 27/Jun/2025 - 12:19 pm |  | - |
+| Objeciones | CO1.MSG.8089504 | SUBSANACIÓN GTS | 26/Jun/2025 - 05:39 pm |  | - |

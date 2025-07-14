@@ -1,0 +1,173 @@
+Title: Licitaciones - COLEGIO NUEVA COLOMBIA IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808557d595677.64169508
+
+Markdown Content:
+Licitaciones - COLEGIO NUEVA COLOMBIA IED - Régimen Especial CNC-112025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-04-23 09:13:51
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Régimen Especial
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+Suministro e instalación de componentes eléctricos para mantenimiento del sistema de audio y video de las 31 aulas de la institución así como el mantenimiento de la central telefónica de la sede A, necesarios para asegurar el funcionamiento de todo el sistema de audio y video y la central telefónica con sus extensiones con una garantía de calidad de componentes, mano de obra y soporte técnico de por lo menos un año DEJÁNDO LOS SISTEMA EN OPTIMO FUNCIONAMIENTO:
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+76111503 - Servicios de mantenimiento del alumbrado
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "115,210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+CALLE 128B 102A 25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Obra
+
+**Plazo del contrato:**
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 116,237,389
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154108, 72154109, 72154022, 70171701, 70171704, 70171705, 70171707, 70171800, 72154031, 72154032, 72151507, 72151509, 72151510, 72151511, 72151515, 72151900, 72152000, 72152100, 72152200, 72152300, 72152400, 72152500, 72152600, 72152700, 72152800, 72152900, 72153000, 72153100, 72153200, 72153600, 72153700, 72153900, 72154400, 76111503, 39111504, 39111506, 39111512, 39111521, 39111522, 39111541, 72141115, 41111739, 10191500, 10191700, 23153500, 24121802, 31211501, 31211502, 31211503, 31211504, 31211505, 31211506, 31211507, 31211508, 31211518, 31211519, 40161524, 60121001 | MANTENIMIENTO PREVENTIVO, PREDICTIVO Y CORRECTIVO INTEGRAL DE INFRAESTRUCTURA FÍSICA DEL COLEGIO SEDE A Y B, INCLUYEN SUMINISTRO DE MATERIALES, MANO DE OBRA, TERMINACIONES DE BUENA CALIDAD ENTRE ELLOS, PINTURA, SOLDADURAS, LIMPIEZA DE CANALES, CAJAS DE INSPECCIÓN, ARREGLO HIDRÁULICO, FUMIGACION, RECARGA DE EXTINTORES, MANEJO DE PLAGAS, PINTURA CANCHAS DEPORTIVAS, LAVADO DE TANQUES, PINTURA DE CANCHA DE FUTBOL DEL COLEGIO. | Contratación régimen especial - Régimen especial | SGP | $84.113.159 | COLEGIO NUEVA COLOMBIA IED |
+| 10191500, 10191700, 39111504, 39111505, 39111506, 39111512, 39111521, 39111522, 39111541, 41111739, 70171701, 70171704, 70171705, 70171707, 70171800, 72141115, 72151507, 72151509, 72151510, 72151511, 72151515, 72151900, 72152000, 72152100, 72152200, 72152300, 72152400, 72152500, 72152600, 72152700, 72152800, 72152900, 72153000, 72153100, 72153200, 72153600, 72154022, 72154031, 72154032, 72154100, 72154400, 76111503 | MANTENIMIENTO PREVENTIVO, PREDICTIVO Y CORRECTIVO INTEGRAL DE INFRAESTRUCTURA FÍSICA DEL COLEGIO SEDE A Y B, INCLUYEN SUMINISTRO DE MATERIALES, MANO DE OBRA, TERMINACIONES DE BUENA CALIDAD ENTRE ELLOS, PINTURA, SOLDADURAS, LIMPIEZA DE CANALES, CAJAS DE INSPECCIÓN, ARREGLO HIDRÁULICO, MANTENIMIENTO DE PLANTAS Y JARDINES, RECARGA DE EXTINTORES, MANEJO DE PLAGAS, LAVADO DE TANQUES, PINTURA DE CANCHA DE FUTBOL DEL COLEGIO. | Contratación régimen especial - Régimen especial | Recursos propios | $32.124.230 | COLEGIO NUEVA COLOMBIA IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 12:10 pm
+
+**Fecha de Firma del Contrato:**
+
+29/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+31/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+×Close
+
+#### Mis notas
+
+Hoy 12:06 am
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

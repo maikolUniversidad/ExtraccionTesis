@@ -1,0 +1,97 @@
+Title: Licitaciones - EMAVI - Solicitud de información a los Proveedores (SECOPII) 004-JEAES-DICTI-CITAE-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67feae40e54136.20669190
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 11:23:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Servicios profesionales personal científico como desarrollador de software para FRONT END, para actividades de Ciencia, Tecnología e Innovación del CITAE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111600 - Programadores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 No. 58-67 EMAVI ENTIDAD CONTRATANTE Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 01:38 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/Abr/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Abr/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7791510 | RE: Observaciones Proceso Servicios profesionales personal científico como desarrollador de software para FRONT END, para actividades de Ciencia, Tecnología e Innovación del CITAE. | 24/Abr/2025 - 09:55 am |  | - |
+| Aclaraciones | CO1.MSG.7766031 | Observaciones Proceso Servicios profesionales personal científico como desarrollador de software para FRONT END, para actividades de Ciencia, Tecnología e Innovación del CITAE. | 15/Abr/2025 - 05:12 pm |  | - |

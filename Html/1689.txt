@@ -1,0 +1,126 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA SANTA LUCIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809808568bc93.51557958
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-23 19:08:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Alquiler de los servicios tecnológicos de una plataforma virtual para el procesamiento de la información académica de 262 estudiantes, durante tres (3) periodos académicos, que permita a la comunidad educativa observar, descargar informes básicos de los estudiantes e impresión de los boletines por cada periodo académico para los padres de familia y demás libros e informes oficiales que requiera la Institución Educativa Santa Lucia del municipio de la Plata Huila.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : La Plata
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111609 - Administradores temporales de bases de datos o de sistemas de tecnologías de la información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software, -Litografía e Impresión a gran formato", "licicodigos": "107,155" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CENTRO POBLADO SAN ANDRES La Plata Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,700,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80111609 | REMUNERACION SERVICIOS TECNICOS:Alquiler de los servicios tecnológicos de una plataforma virtual para el procesamiento de la información académica de los estudiantes e impresion fisica de boletines periodicos para informes periodicos a los padres de familia de los estudiantes de la institución educativa santa lucia del municipio de la Plata Huila. | Contratación régimen especial - Régimen especial | SGP | $1.700.000 | INSTITUCION EDUCATIVA SANTA LUCIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 01:06 pm
+
+**Fecha de Firma del Contrato:**
+
+28/Abr/2025 - 09:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+28/Nov/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

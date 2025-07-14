@@ -1,0 +1,110 @@
+Title: Licitaciones - ARCHIVO GENERAL DE LA NACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b3a339ff820.58316156
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-21 11:59:39
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisición, instalación y puesta en funcionamiento de la infraestructura de red, incluyendo la reubicación integral del Datacenter Principal.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222634 - Dispositivo de monitoreo o manejo de redes
+
+**Códigos adicionales UNSPSC:**
+
+43222644 - Controlador de tráfico de red,43223306 - Gabinete o cerramiento para sistemas de red,43223303 - Cable de conexión de comunicación de datos,72151605 - Servicio de cableado para video, datos y voz,81111803 - Mantenimiento o soporte de redes de área local (lan)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Redes de transmisión de datos (Cableado estructurado)", "licicodigos": "98,99" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 No. 6- 91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/Jun/2025 - 03:32 pm
+
+**Plazo para solicitar aclaraciones:**
+
+19/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8406786 | Publicación modificación | 19/Jun/2025 - 04:10 pm |  |  |
+| Aclaraciones | CO1.MSG.8049782 | OBSERVACIONES ARCHIVO GENERAL DE LA NACION | 18/Jun/2025 - 10:39 am |  | - |
+| Aclaraciones | CO1.MSG.8048866 | RE: Observaciones al proceso - AQSERV SAS | 18/Jun/2025 - 09:17 am |  | - |
+| Aclaraciones | CO1.MSG.8048003 | VISTA TECNICA SICMES | 17/Jun/2025 - 11:34 pm |  | - |
+| Aclaraciones | CO1.MSG.8047868 | OBSERVACIONES ESTUDIO DE MERCADOS | 17/Jun/2025 - 11:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8047556 | VISITA TECNICA AGN | 17/Jun/2025 - 08:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8047047 | VISITA TECNICA | 17/Jun/2025 - 06:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8046115 | VISITA DE OBRA - AQSERV SAS | 17/Jun/2025 - 04:43 pm |  | - |
+| Aclaraciones | CO1.MSG.8045664 | RE: RE: SOLICITUD VISITA TECNICA | 17/Jun/2025 - 04:07 pm |  | - |
+| Aclaraciones | CO1.MSG.8041830 | SOLICITUD DE ACLARACION NUEVO CRONOGRAMA | 17/Jun/2025 - 09:40 am |  | - |
+| Aclaraciones | CO1.MSG.8038175 | RE: SOLICITUD VISITA TECNICA | 16/Jun/2025 - 03:50 pm |  | - |
+| Aclaraciones | CO1.MSG.8038175 | RE: SOLICITUD VISITA TECNICA | 16/Jun/2025 - 03:50 pm |  | - |
+| Aclaraciones | CO1.MSG.8030862 | Observaciones al proceso - AQSERV SAS | 13/Jun/2025 - 03:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8030862 | Observaciones al proceso - AQSERV SAS | 13/Jun/2025 - 03:26 pm |  | - |
+| Aclaraciones | CO1.MSG.8029666 | SOLICITUD VISITA TECNICA | 13/Jun/2025 - 12:39 pm |  | - |

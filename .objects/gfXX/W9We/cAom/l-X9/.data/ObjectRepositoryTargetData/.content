@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cNFEloxXTEWEuRAFR8TFBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="col.licitaciones.info/detalle-contrato" CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" CvTextArea="315, 1251, 303, 22" CvTextArgument="Descargar todos los documentos:" CvType="Text" DesignTimeRectangle="317, 1247, 542, 30" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;b' idx='3' parentid='info-seccion-contrato' tag='B' /&gt;" Guid="f3a83ae9-0d6c-41f5-8d6e-df359e40111f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Licitaciones - SECRETARIA DE EDUCACION DEL DISTRITO - Subasta Inversa SED-SA-SI-OTIC-036-2025-' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e16759b4-4cb5-40ba-9924-c7265390dd6c" CvElementArea="265, 1248, 36, 28" CvType="Icon" DesignTimeRectangle="268, 1247, 31, 31" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='info-seccion-contrato' src='https://col.licitaciones.info/img/detalle-contrato/svg/Detalle-zip.svg' tag='IMG' /&gt;" Guid="01a6898a-9a94-46a0-b8c7-159f7c93093e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEUSURBVFhH7Zc9CsJAEIVtvYSd97C3tfOn1OgBBF2wsRJkrewEmTss1kIgrbbxCsYzjEwwkmQzEWJCFObB14SQ9y1s8dLAH0oj/aDOiAwXkeGSKxMEQSZVxZLxfR+VUug4DovWuhKphAwVRIWw6SFsBwi7McJu+kavp5UJJWSMMWGR2XcRz03EyxDxOrYgqUioCNSTdZCEDACEJfdTG9FtWRJZQkVRy4UlVFjmG6KDeJ4Xr69H5nZ63UuAeH09Mg93IjKZiAyHyHCIDIfIcPyvjHfs5O6ZbzGHWdhDuyaehAztC7WYhy/qVR9hO7KWXhnQ94ncPUOhjfFpA5cBbe10LJko6T+CMuHCytQRkeEiMlx+SuYJXZfDgGNt8MgAAAAASUVORK5CYII=" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ff5bbab53837b57b06037d6f2f175be.png" xmlns="">03kUnXWxUdU2QiIkWLdJ4fw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

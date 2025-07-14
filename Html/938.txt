@@ -1,0 +1,183 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL LA VIRGINIA RISARALDA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823fb652f5c03.33924677
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 11:15:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+PRESTAR LOS SERVICIOS TÉCNICO EN REPARACIÓN Y MANTENIMIENTO PREVENTIVO Y/O CORRECTIVO (INCLUYE REPUESTOS) PARA LAS IMPRESORAS Y EQUIPOS DE COMPUTO Y SUMINISTRO DE TÓNER Y RECARGAS PARA IMPRESORAS LÁSER, Y TINTAS LIQUIDAS PARA EL CORRECTO FUNCIONAMIENTO DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE LA VIRGINIA RISARALDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Risaralda : La Virginia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 NUMERO 5 35 CENTRO La Virginia Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103100 | PRESTAR LOS SERVICIOS TÉCNICO EN REPARACIÓN Y MANTENIMIENTO PREVENTIVO Y/O CORRECTIVO (INCLUYE REPUESTOS) PARA LAS IMPRESORAS Y EQUIPOS DE COMPUTO Y SUMINSITROS DE TONER Y RECARGAS PARA IMPRESORAS LÁSER Y TINTAS LIQUIDAS PARA EL CORRECTO FUNCIONAMIENTO DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPAL DE LA VIRGINIA RISARALDA | Mínima cuantía | Recursos propios | $30.000.000 | CONTRATACION |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+13/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+13/May/2025 - 08:44 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+15/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 03:45 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 03:50 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 04:55 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+20/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2255970 | Informe de evaluación 1 CO1.AWD.2255970 | 19/May/2025 - 04:48 pm |  | - |
+| Avisos | CO1.MSG.7896179 | Publicación de la lista de ofertas del proceso AM-MC-017-2025. | 16/May/2025 - 04:21 pm |  | - |
+| Avisos | CO1.MSG.7896176 | La lista de oferentes del proceso AM-MC-017-2025 publicada por ALCALDIA MUNICIPAL LA VIRGINIA RISARALDA | 16/May/2025 - 04:21 pm |  | - |
+| Avisos | CO1.REQ.8257410 | Publicación modificación | 16/May/2025 - 03:14 pm |  |  |
+| General | CO1.MSG.7893010 | COTIZACIONES | 16/May/2025 - 10:16 am |  | - |
+| General | CO1.MSG.7892953 | RE: Solicitud de cotizaciones | 16/May/2025 - 10:15 am |  | - |
+| General | CO1.MSG.7889495 | LIMITACION A MIPYMES MUNICIPAL | 15/May/2025 - 04:11 pm |  | - |
+| Avisos | CO1.REQ.8257410 | Publicación modificación | 15/May/2025 - 02:38 pm |  |  |

@@ -1,0 +1,96 @@
+Title: Licitaciones - CONSEJO PROFESIONAL NACIONAL DE INGENIERIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bdc99b413b2.13095120
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:45:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DE CANVA PARA EL DISEÑO GRÁFICO DEL ÁREA DE RELA-CIONAMIENTO INTERINSTITUCIONAL Y COMUNICACIONES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161500 - Servicios de administración de acceso
+
+**Códigos adicionales UNSPSC:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 78 No. 9-57 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 01:59 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Abr/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7818793 | RE: Recomendacion tecnica | 30/Abr/2025 - 12:05 pm |  | - |

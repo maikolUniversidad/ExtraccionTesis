@@ -1,0 +1,90 @@
+Title: Licitaciones - CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827b742b753d9.11923319
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:44:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+La Caja de Sueldos de Retiro de la Policía Nacional (CASUR) se complace en comunicar su interés en la contratación de Actualización, Soporte, hosting, Diseño, desarrollo e implementación de nuevos servicios para la sede electrónica y Apps Móvil. Por lo anterior, les extendemos una cordial invitación a presentar su cotización antes del día 22 de mayo de 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232400 - Programas de desarrollo,81112103 - Servicios de diseño de sitios web www,81112200 - Mantenimiento y soporte de software,43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Hosting, -Diseño web (Redes sociales, capacitación, asesoría), -Aplicaciones para dispositivos móviles", "licicodigos": "102,111,480,652" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 NRO 12B-58 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 05:07 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 10:00 am

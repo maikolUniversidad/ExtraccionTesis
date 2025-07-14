@@ -1,0 +1,94 @@
+Title: Licitaciones - ANM - Solicitud de información a los Proveedores (SECOPII) SIP-041-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cd69e3c9038.21508471
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 15:27:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+suite de productos Aranda
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233700 - Software de administración de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+80111600 - Servicios de personal temporal,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+BOGOTA D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 10:49 am
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+13/May/2025 - 05:00 pm

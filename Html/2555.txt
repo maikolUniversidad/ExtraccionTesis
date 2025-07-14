@@ -1,0 +1,98 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b650a324817.77856575
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 09:02:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Solicitud cotización para realizar el diagnóstico de los Fondos y Colecciones Documentales Digitales, y sus medios de almacenamiento en el Archivo General de Bogotá.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111508 - Servicios de implementación de aplicaciones
+
+**Códigos adicionales UNSPSC:**
+
+81111503 - Diseño de integración de sistemas,81111504 - Servicios de programación de aplicaciones,81111806 - Servicio de análisis de bases de datos,81111808 - Servicio de análisis de sistemas,81111809 - Servicio de instalación de sistemas,81112001 - Servicio de procesamiento de datos en línea,81112006 - servicios de almacenamiento de datos,93141707 - Servicios de preservación o promoción del patrimonio cultural
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Gestión documental, organización y/o transporte y/o custodia de archivos", "licicodigos": "102,323" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Para solicitar una visita al Archivo Distrital de Bogotá o realizar una aclaración o consulta por favor, contactar a la profesional Erika Rangel al correo elrangel@alcaldiabogota.gov.co
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 11:54 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 01:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 05:00 pm

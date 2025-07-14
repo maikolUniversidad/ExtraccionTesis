@@ -1,0 +1,170 @@
+Title: Licitaciones - DEPARTAMENTO DEL META
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680831f03962f1.81902889
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-23 11:13:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Difundir los resultados alcanzados por el Gobierno Departamental, así como las acciones para la atención y reparación integral a la población víctima del Meta, a través de un medio de comunicación digital.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+82101603 - Publicidad en internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "198,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 33 No. 38 -45 EDIFICIO GOBERNACIÓN DEL META PISO 6 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+2 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 82101603 | Comunicaciones: 39 Prestación de Servicios - publicidad Digital | Mínima cuantía | Recursos propios | $5.000.000 | GOBMETA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 06:26 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 08:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

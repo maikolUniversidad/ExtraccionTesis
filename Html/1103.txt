@@ -1,0 +1,144 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA ESCUELA NORMAL SUPERIOR MARIA AUXILIADORA GIRARDOT
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bb730164668.73633124
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 07:47:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN POR COMPRA DE BIENES DE CONSUMO DE USO DURADERO (EQUIPO TECNOLOGICO) PARA GARANTIZAR LA BUENA MARCHA DE LAS ACTIVIDADES ACADEMICAS Y ADMINISTRATIVAS DE LA INSTITUCIÓN EDUCATIVA NORMAL SUPERIOR MARIA AUXILIADORA DE GIRARDOT CUNDINAMARCA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Girardot
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161505 - Televisores
+
+**Códigos adicionales UNSPSC:**
+
+45111616 - Proyectores de video,43212100 - Impresoras de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Electrodomésticos", "licicodigos": "105,115,139" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KM 3 Via Tocaima Barrio Diamante Girardot Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 19,820,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212100, 45111616, 52161505 | ADQUISICIÓN POR COMPRA DE BIENES DE CONSUMO DE USO DURADERO (EQUIPO TECNOLOGICO) PARA GARANTIZAR LA BUENA MARCHA DE LAS ACTIVIDADES ACADEMICAS Y ADMINISTRATIVAS DE LA INSTITUCIÓN EDUCATIVA NORMAL SUPERIOR MARIA AUXILIADORA DE GIRARDOT CUNDINAMARCA. | Contratación régimen especial - Régimen especial | SGP | $19.820.000 | AC - APOYO CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 03:41 pm
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+08/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/Jun/2025 - 12:00 pm | 06/Oct/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 09/Jun/2025 - 12:00 pm | 06/Oct/2025 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7908430 | ADENDA No. 1 | 20/May/2025 - 01:26 pm |  | - |
+| Avisos | CO1.REQ.8285029 | Publicación modificación | 20/May/2025 - 01:26 pm |  |  |

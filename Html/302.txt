@@ -1,0 +1,296 @@
+Title: Licitaciones - MUNICIPIO DE TAURAMENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bf9468db697.83306942
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-03 06:33:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+DESARROLLAR ACTIVIDADES DE FORTALECIMIENTO DEL ECOSISTEMA DIGITAL A TRAVES DEL FUNCIONMAMIENTO ADECUADO DE LAS REDES AL INTERIOR DE LAS INSTITUCIONES EDUCATIVAS Y EL ACCESO A ESPACIOS PUBLICOS PARA LA PROMOCION DE LAS TICS EN EL MUNICIPIO DE TAURAMENA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Casanare : Tauramena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Acceso a internet", "licicodigos": "99,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 5 14 34 Tauramena Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101600 | DESARROLLAR ACTIVIDADES DE FORTALECIMIENTO DEL ECOSISTEMA DIGITAL A TRAVES DEL FUNCIONAMIENTO ADECUADO DE LAS REDES AL INTERIOR DE LAS INSTITUCIONES EDUCATIVAS Y EL ACCESO A ESPACIOS PUBLICOS PARA LA PROMOCION DE LAS TICS EN EL MUNICIPIO DE TAURAMENA. | Selección abreviada menor cuantía | NotApplied | $265.000.000 | SECRETARIA DE DESARROLLO SOCIAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Abr/2025 - 03:59 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Abr/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 08:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+06/May/2025 - 07:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+09/May/2025 - 10:28 am
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+09/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés:**
+
+14/May/2025 - 08:00 am
+
+**Realización del sorteo:**
+
+14/May/2025 - 08:05 am
+
+**Publicación de la lista de precalificados:**
+
+14/May/2025 - 08:10 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+23/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+30/May/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jun/2025 - 04:00 am
+
+**Firma del Contrato:**
+
+02/Jun/2025 - 04:00 am
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Buen manejo y correcta inversión del anticipo | 100,00 | 23/May/2025 - 12:00 pm | 23/Ago/2025 - 12:00 pm |
+| Cumplimiento del contrato | 10,00 | 23/May/2025 - 12:00 pm | 23/Ago/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 23/Ago/2025 - 12:00 pm | 23/Ago/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 23/Ago/2025 - 12:00 pm | 23/Ago/2030 - 12:00 pm |
+
+**Buen manejo y correcta inversión del anticipo:**
+
+100,00% del valor del contrato, desde 23/May/2025 - 12:00 pm hasta 23/Ago/2025 - 12:00 pm
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SAROM PRO SAS | Tauramena - Casanare |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 232,390,632
+
+**Informes proceso de selección CO1.AWD.2262949 de 30/May/2025 - 03:48 am. Valor $232.390.632**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 03:48 pm |  |
+| Informe de selección | 30/May/2025 - 03:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262949**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SAROM PRO SAS * **Tipo documento:** NIT * **Documento:** 901812930 | * **Nombre:** ANDREA MAYERLI ROMERO MANRIQUE * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1115914375 | Tauramena - Casanare | $232.390.632 | - | - | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262949****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7936083
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+30/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 232,390,632
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262949 | Informe de selección CO1.AWD.2262949 | 30/May/2025 - 03:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262949 | Informe de evaluación 1 CO1.AWD.2262949 | 26/May/2025 - 03:48 pm |  | - |
+| Avisos | CO1.MSG.7938125 | Publicación de la lista de ofertas del proceso SAMT-SDS-002-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 26/May/2025 - 03:45 pm |  | - |
+| Avisos | CO1.MSG.7928298 | La lista de oferentes del proceso SAMT-SDS-002-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por MUNICIPIO DE TAURAMENA | 23/May/2025 - 10:55 am |  | - |
+| Aclaraciones | CO1.MSG.7923816 | RE: Observaciones al pliego Sarom Pro SAS | 22/May/2025 - 03:39 pm |  | - |
+| Avisos | CO1.REQ.8265444 | Publicación modificación | 21/May/2025 - 05:41 pm |  |  |
+| General | CO1.MSG.7889991 | Listado oficial de posibles oferentes | 15/May/2025 - 04:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7889661 | Observaciones al pliego Sarom Pro SAS | 15/May/2025 - 04:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7880971 | Observaciones al pliego definitivo Sarom Pro SAS | 14/May/2025 - 12:49 pm |  | - |

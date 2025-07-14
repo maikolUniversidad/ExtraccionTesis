@@ -1,0 +1,190 @@
+Title: Licitaciones - MUNICIPIO DE GALAPA.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685b2fe9aff6e8.23274491
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 11:57:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+FORTALECIMIENTO CON ESTRATEGIAS EDUCATIVAS Y DE RECONOCIMIENTO A LOS PRESIDENTES Y DEMÁS MIEMBROS ACTIVOS DE LAS JUNTAS DE ACCIÓN COMUNAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico : Galapa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+92112003 - Zonas de paz
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Construcción, mantenimiento y reforzamiento de edificaciones, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Mobiliario, -Aire acondicionado", "licicodigos": "52,105,115,128,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 No 17-117 Galapa Atlántico COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 92112003, 93121612 | FORTALECIMIENTO CON ESTRATEGIA EDUCATIVA Y RECONOCIMIENTOS A LOS PRESIDENTES ACTIVOS DE LAS JAC | Contratación directa | Recursos propios | $14.000.000 | OFICINA ASESORA JURIDICA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 05:30 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 05:30 pm
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 05:42 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 05:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 11:59 am
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 11:59 am
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 12:01 pm
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 12:20 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 12:00 am | 02/Nov/2025 - 11:59 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 12:00 am | 16/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 03/Jul/2025 - 12:00 am | 02/Ene/2026 - 11:59 pm |

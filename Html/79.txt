@@ -1,0 +1,291 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806f97305ba59.97492887
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:31:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Renovación de los soportes, licenciamientos y servicios para los equipos de seguridad perimetral, sistema Hiperconvergente y equipos networking del DADEP
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43231500 - Software funcional específico de la empresa,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43233200 - Software de seguridad y protección,80101600 - Gerencia de proyectos,81111500 - Ingeniería de software o hardware,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática, -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "103,297,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CR 30 25 90 PS 15 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,345,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800 | Renovación de los soportes, licenciamientos y servicios para los equipos de seguridad perimetral, sistema Hiperconvergente y equipos networking del DADEP. LINEA 322. | Licitación pública | Recursos propios | $1.345.000.000 | DADEP |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+21/Abr/2025 - 08:37 pm
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 11:59 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+21/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+21/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/May/2025 - 11:59 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+09/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+10/May/2025 - 12:39 am
+
+**Audiencia de asignación de Riesgos:**
+
+14/May/2025 - 02:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 04:00 pm
+
+**Apertura de Ofertas:**
+
+23/May/2025 - 04:01 pm
+
+**Informe de presentación de Ofertas:**
+
+23/May/2025 - 04:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 05:00 pm
+
+**Audiencia de Adjudicación:**
+
+04/Jul/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+07/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+08/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/Jun/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 13/Jun/2025 - 11:59 pm | 19/Jun/2029 - 11:59 pm |
+| Calidad del servicio | 20,00 | 13/Jun/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 13/Jun/2025 - 11:59 pm | 31/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Open Group S.A.S | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,326,444,400
+
+**Informes proceso de selección CO1.AWD.2265715 de 08/Jul/2025 - 12:11 pm. Valor $1.326.444.400**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 28/May/2025 - 09:01 pm |  |
+| Informe de evaluación | 18/Jun/2025 - 02:14 am |  |
+| Informe de evaluación | 18/Jun/2025 - 02:14 am |  |
+| Informe de evaluación | 18/Jun/2025 - 02:14 am |  |
+| Informe de evaluación | 18/Jun/2025 - 02:14 am |  |
+| Informe de evaluación | 04/Jul/2025 - 02:18 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 02:18 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 02:18 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 02:18 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 05:32 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 05:32 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 05:36 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 05:36 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 09:31 pm |  |
+| Informe de selección | 08/Jul/2025 - 12:11 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8145115 | AUDIENCIA DE ADJUDICACIÓN DADEP-LP-405-2025 | 09/Jul/2025 - 05:38 pm |  | - |
+| Reporte final | CO1.AWD.2265715 | Informe de selección CO1.AWD.2265715 | 08/Jul/2025 - 12:11 am |  | - |
+| Objeciones | CO1.MSG.7989879 | [Respondido] RE:Observaciones y subsanación al informe de evaluación | 08/Jul/2025 - 12:10 am |  | - |
+| Objeciones | CO1.MSG.7989285 | [Respondido] RE:SUBSANACIÓN INFORME 1 - UNIÓN TEMPORAL RENOVACIÓN DADEP 2025 | 08/Jul/2025 - 12:09 am |  | - |
+| Objeciones | CO1.MSG.7959484 | [Respondido] RE:Solicitud de Publicación de Ofertas | 08/Jul/2025 - 12:08 am |  | - |
+| Reporte preliminar | CO1.AWD.2265715 | Informe de evaluación 6 CO1.AWD.2265715 | 07/Jul/2025 - 09:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265715 | Informe de evaluación 5 CO1.AWD.2265715 | 04/Jul/2025 - 05:36 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265715 | Informe de evaluación 4 CO1.AWD.2265715 | 04/Jul/2025 - 05:32 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265715 | Informe de evaluación 3 CO1.AWD.2265715 | 04/Jul/2025 - 02:18 pm |  | - |
+| General | CO1.MSG.8120826 | RESPUESTA OBSERVACIONES AUDIENCIA DE ADJUDICACIÓN | 04/Jul/2025 - 02:01 pm |  | - |
+| General | CO1.MSG.8120568 | REANUDACÍON AUDIENCIA DADEP-LP-405-2025 | 04/Jul/2025 - 01:22 pm |  | - |
+| General | CO1.MSG.8117838 | REANUDACIÓN AUDIENCIA DE ADJUDICACIÓN DADEP-LP-405-2025 | 04/Jul/2025 - 06:10 am |  | - |
+| General | CO1.MSG.8094592 | Subsanación al Alcance del 19 de junio | 27/Jun/2025 - 04:05 pm |  | - |
+| General | CO1.MSG.8093152 | RE: SOLICITUD DE ACLARACIÓN - PROCESO DADEP-LP-405-2025 UNIÓN TEMPORAL RENOVACIÓN DADEP 2025 | 27/Jun/2025 - 12:18 pm |  | - |
+| General | CO1.MSG.8077122 | Observaciones | 25/Jun/2025 - 08:18 am |  | - |
+| General | CO1.MSG.8061505 | ADENDA No 6 PROCESO DADEP-LP-405-2025 | 20/Jun/2025 - 10:48 am |  | - |
+| Avisos | CO1.REQ.8240995 | Publicación modificación | 19/Jun/2025 - 06:16 pm |  |  |
+| General | CO1.MSG.8055445 | RE: Observación Veeduria VIgilando la contratación. | 18/Jun/2025 - 11:33 pm |  | - |
+| General | CO1.MSG.8054859 | AUDIENCIA DE ADJUDICACIÓN DADEP-LP-405-2025 | 18/Jun/2025 - 07:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265715 | Informe de evaluación 2 CO1.AWD.2265715 | 18/Jun/2025 - 02:14 am |  | - |
+| General | CO1.MSG.8042689 | ADENDA No 5 PROCESO DADEP-LP-405-2025.pdf | 17/Jun/2025 - 10:54 am |  | - |
+| Avisos | CO1.REQ.8240995 | Publicación modificación | 17/Jun/2025 - 10:47 am |  |  |
+| General | CO1.MSG.8036805 | Subsanación | 16/Jun/2025 - 12:55 pm |  | - |
+| General | CO1.MSG.8036193 | Respuesta Observaciones Unión Temporal Renovación DADEP 2025 | 16/Jun/2025 - 12:53 pm |  | - |
+| General | CO1.MSG.8032342 | Respuesta observaciones informe preliminar DADEP-LP-405-2025 | 13/Jun/2025 - 05:40 pm |  | - |
+| General | CO1.MSG.8019526 | ADENDA No 4 PROCESO DADEP-LP-405-2025.pdf | 12/Jun/2025 - 12:37 am |  | - |
+| Avisos | CO1.REQ.8240995 | Publicación modificación | 11/Jun/2025 - 06:02 pm |  |  |
+| General | CO1.MSG.8002289 | ADENDA No 3 PROCESO DADEP-LP-405-2025.pdf | 09/Jun/2025 - 03:37 pm |  | - |
+| Avisos | CO1.REQ.8240995 | Publicación modificación | 09/Jun/2025 - 03:22 pm |  |  |
+| Objeciones | CO1.MSG.7989879 | Observaciones y subsanación al informe de evaluación | 05/Jun/2025 - 04:51 pm |  | - |

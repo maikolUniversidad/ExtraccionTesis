@@ -1,0 +1,277 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68116965d15d50.59432421
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 06:42:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SERVICIO DE DESARROLLO DE LAS APLICACIONES PARA LA ADMINISTRACIÓN DEL TALENTO HUMANO DEL EJÉRCITO NACIONAL, A EJECUTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111504 - Servicios de programación de aplicaciones
+
+**Códigos adicionales UNSPSC:**
+
+81111500 - Ingeniería de software o hardware,81112200 - Mantenimiento y soporte de software,81111900 - Sistemas de recuperación de información,43233700 - Software de administración de sistemas,43222500 - Equipo de seguridad de red,43231500 - Software funcional específico de la empresa,43232800 - Software de administración de redes,43233000 - Software de entorno operativo,43233200 - Software de seguridad y protección,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 143,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111504 | SERVICIO DE DESARROLLO DE LAS APLICACIONES PARA LA ADMINISTRACIÓN DEL TALENTO HUMANO DEL EJÉRCITO NACIONAL, A EJECUTAR EN LA VIGENCIA 2025. | - | Presupuesto de entidad nacional | $467.301.742 | CENACTELEMATICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+29/Abr/2025 - 06:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+29/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+07/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/May/2025 - 06:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+12/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 07:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 07:40 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+12/May/2025 - 08:20 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+15/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 11:03 am
+
+**Informe de presentación de Ofertas:**
+
+22/May/2025 - 11:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+05/Jun/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+16/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 17/Jun/2025 - 12:00 am | 02/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 17/Jun/2025 - 12:00 am | 02/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 30,00 | 02/Dic/2025 - 12:00 am | 02/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DB SYSTEM S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 467,224,100
+
+**Informes proceso de selección CO1.AWD.2264338 de 05/Jun/2025 - 12:39 pm. Valor $467.224.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 02:41 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:41 pm |  |
+| Informe de evaluación | 27/May/2025 - 02:41 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 08:14 am |  |
+| Informe de selección | 05/Jun/2025 - 12:39 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264338**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DB SYSTEM S.A.S * **Tipo documento:** NIT * **Documento:** 830039811 | * **Nombre:** OSCAR ALBERTO SUAREZ RAMIREZ * **Tipo documento:** * **Documento:** 80418215 | - Distrito Capital de Bogotá | $467.224.100 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264338****
+
+**Cuantía a la firma del contrato:**
+
+$ 467,224,100
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264338 | Informe de selección CO1.AWD.2264338 | 05/Jun/2025 - 12:39 pm |  | - |
+| Objeciones | CO1.MSG.7951107 | [Respondido] RE:Respuesta al informe de evaluación | 03/Jun/2025 - 08:15 am |  | - |
+| Reporte preliminar | CO1.AWD.2264338 | Informe de evaluación 2 CO1.AWD.2264338 | 03/Jun/2025 - 08:14 am |  | - |
+| Objeciones | CO1.MSG.7951107 | Respuesta al informe de evaluación | 28/May/2025 - 12:34 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264338 | Informe de evaluación 1 CO1.AWD.2264338 | 27/May/2025 - 02:41 pm |  | - |
+| Avisos | CO1.MSG.7921709 | Publicación de la lista de ofertas del proceso SAMC-032-CENACTELEMATICA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 22/May/2025 - 11:21 am |  | - |
+| Avisos | CO1.MSG.7921697 | La lista de oferentes del proceso SAMC-032-CENACTELEMATICA-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA | 22/May/2025 - 11:20 am |  | - |
+| General | CO1.MSG.7915001 | RESPUESTA OBSERVACIÓN EXTEMPORANEA SOLICITUD DE ACLARACIÓN EMPRESA DB SYSTEM S.A.S | 21/May/2025 - 12:14 pm |  | - |
+| General | CO1.MSG.7909102 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No. 002 | 20/May/2025 - 02:57 pm |  | - |
+| Aclaraciones | CO1.MSG.7890671 | OBSERVACIONES 032-CENACTELEMATICA-2025 | 15/May/2025 - 05:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7888246 | Observaciones al proceso. | 15/May/2025 - 02:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7887993 | Observaciones | 15/May/2025 - 01:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7884764 | Observaciones al pliego de condiciones | 14/May/2025 - 07:59 pm |  | - |
+| General | CO1.MSG.7870223 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No. 001 | 12/May/2025 - 07:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7870212 | FORMULARIO DE PREGUNTAS Y RESPUESTAS No. 001 | 12/May/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7827044 | Duda del objeto | 02/May/2025 - 03:45 pm |  | - |

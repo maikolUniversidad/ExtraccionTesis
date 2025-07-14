@@ -1,0 +1,334 @@
+Title: Licitaciones - DIRECCIÓN DE INTELIGENCIA POLICIAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67feecfb604ad1.87547135
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:27:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN INSUMOS Y SUMINISTROS ELÉCTRICOS Y ELECTRÓNICOS PARA LA DIRECCIÓN DE INTELIGENCIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+48102100 - Suministros y equipo de manipulación y almacenamiento
+
+**Códigos adicionales UNSPSC:**
+
+31201500 - Cinta adhesiva,31201502 - Cinta aislante eléctrica,46181500 - Ropa de seguridad,39121400 - Lengüetas de conexión, conectadores y terminales,43201400 - Tarjetas del sistema,39122200 - Interruptores eléctricos y accesorios,39121000 - Equipamiento para distribución y conversión de alimentación,39121500 - Conmutadores, controles y relés y accesorios,26121600 - Cables eléctricos y accesorios,26111700 - Baterías, pilas y accesorios,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,52161522 - Escáneres de radio frecuencia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Materiales para obras eléctricas en general", "licicodigos": "110,121" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida Boyacá 142a-55 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 26111700 | BATERÍA RECARGABLE | Mínima cuantía | Presupuesto de entidad nacional | $320.000 | GRUPO CONTRATOS DIPOL |
+| 26121600 | CABLE UTP | Mínima cuantía | Presupuesto de entidad nacional | $601.000 | GRUPO CONTRATOS DIPOL |
+| 31201500 | CINTA AISLANTE | Mínima cuantía | Presupuesto de entidad nacional | $350.000 | GRUPO CONTRATOS DIPOL |
+| 31201500 | CINTA AUTOFUNDENTE | Mínima cuantía | Presupuesto de entidad nacional | $500.000 | GRUPO CONTRATOS DIPOL |
+| 39121400 | CONECTOR RJ45 | Mínima cuantía | Presupuesto de entidad nacional | $651.000 | GRUPO CONTRATOS DIPOL |
+| 39121400 | CONECTORES T | Mínima cuantía | Presupuesto de entidad nacional | $38.500.000 | GRUPO CONTRATOS DIPOL |
+| 45111800 | CONVERTIDOR SATA | Mínima cuantía | Presupuesto de entidad nacional | $300.000 | GRUPO CONTRATOS DIPOL |
+| 39121000 | FUENTES DE PODER | Mínima cuantía | Presupuesto de entidad nacional | $3.000.000 | GRUPO CONTRATOS DIPOL |
+| 46181500 | GUANTES DE POLIÉSTER | Mínima cuantía | Presupuesto de entidad nacional | $114.000 | GRUPO CONTRATOS DIPOL |
+| 39122200 | INTERRUPTOR BASCULANTE DE PALANCA | Mínima cuantía | Presupuesto de entidad nacional | $268.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | MODULO AMPLIFICADOR DE POTENCIA 1.2 GHZ RF, GENERADOR DE RUIDO, 100W. | Mínima cuantía | Presupuesto de entidad nacional | $5.000.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | MODULO AMPLIFICADOR DE POTENCIA 2000-3000 MHZ RF, GENERADOR DE RUIDO, 100W. | Mínima cuantía | Presupuesto de entidad nacional | $10.000.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | MODULO AMPLIFICADOR DE POTENCIA 5.2 GHZ RF, GENERADOR DE RUIDO, 100W. | Mínima cuantía | Presupuesto de entidad nacional | $7.500.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | MODULO AMPLIFICADOR DE POTENCIA 5.8 GHZ RF, GENERADOR DE RUIDO, 100W. | Mínima cuantía | Presupuesto de entidad nacional | $3.700.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | MODULO AMPLIFICADOR DE POTENCIA RF, GENERADOR DE RUIDO, 100W, 700-850 MHZ. | Mínima cuantía | Presupuesto de entidad nacional | $15.000.000 | GRUPO CONTRATOS DIPOL |
+| 39121500 | MODULO DE PROCESAMIENTO DIGITAL | Mínima cuantía | Presupuesto de entidad nacional | $7.200.000 | GRUPO CONTRATOS DIPOL |
+| 48102100, 14111700 | ROLLO VINIPEL | Mínima cuantía | Presupuesto de entidad nacional | $600.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | TARJETA SDR BÁSICA | Mínima cuantía | Presupuesto de entidad nacional | $1.800.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | TARJETA SDR HF VHF UHF | Mínima cuantía | Presupuesto de entidad nacional | $14.000.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | TARJETA SDR VHF | Mínima cuantía | Presupuesto de entidad nacional | $1.600.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | TARJETA SDR VHF/UHF | Mínima cuantía | Presupuesto de entidad nacional | $3.000.000 | GRUPO CONTRATOS DIPOL |
+| 43201400 | TARJETA SDR VHF/UHF/SHF | Mínima cuantía | Presupuesto de entidad nacional | $6.000.000 | GRUPO CONTRATOS DIPOL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 06:28 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+15/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+21/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/May/2025 - 07:00 pm | 30/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 05/May/2025 - 07:00 pm | 30/Oct/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 111,933,000
+
+**Informes proceso de selección CO1.AWD.2237050 de 11/Jun/2025 - 02:21 am. Valor $111.933.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/Abr/2025 - 05:16 pm |  |
+| Informe de evaluación | 28/Abr/2025 - 05:16 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 05:32 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 05:32 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 02/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 06/May/2025 - 04:41 pm |  |
+| Informe de evaluación | 06/May/2025 - 04:41 pm |  |
+| Informe de evaluación | 07/May/2025 - 06:35 pm |  |
+| Informe de evaluación | 07/May/2025 - 06:35 pm |  |
+| Informe de evaluación | 09/May/2025 - 06:12 pm |  |
+| Informe de evaluación | 09/May/2025 - 06:12 pm |  |
+| Informe de evaluación | 13/May/2025 - 04:48 pm |  |
+| Informe de evaluación | 13/May/2025 - 04:48 pm |  |
+| Informe de evaluación | 15/May/2025 - 05:23 pm |  |
+| Informe de evaluación | 15/May/2025 - 05:23 pm |  |
+| Informe de evaluación | 19/May/2025 - 04:02 pm |  |
+| Informe de evaluación | 19/May/2025 - 04:02 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:36 pm |  |
+| Informe de evaluación | 21/May/2025 - 06:36 pm |  |
+| Informe de evaluación | 23/May/2025 - 06:17 pm |  |
+| Informe de evaluación | 23/May/2025 - 06:17 pm |  |
+| Informe de evaluación | 27/May/2025 - 03:56 pm |  |
+| Informe de evaluación | 27/May/2025 - 03:56 pm |  |
+| Informe de selección | 11/Jun/2025 - 02:21 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2237050**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** VICARTECHZ SAS * **Tipo documento:** NIT * **Documento:** 900194987 | * **Nombre:** VIVIAN PAOLA JIMENEZ REINA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 52438369 | - Distrito Capital de Bogotá | $111.933.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2237050****
+
+**ID del contrato en SECOP:**
+
+04-2-10036-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+30/Jun/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 111,933,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2237050 | Informe de selección CO1.AWD.2237050 | 11/Jun/2025 - 02:21 pm |  | - |
+| General | CO1.MSG.7988324 | Respuesta solicitud de información | 05/Jun/2025 - 02:56 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 12 CO1.AWD.2237050 | 27/May/2025 - 03:56 pm |  | - |
+| Objeciones | CO1.MSG.7932955 | [Respondido] RE:SOLICITUD DE RECHAZO VICARTECHZ | 27/May/2025 - 03:46 pm |  | - |
+| Objeciones | CO1.MSG.7940750 | [Respondido] RE:Observaciones al informe de evaluación | 27/May/2025 - 03:44 pm |  | - |
+| Objeciones | CO1.MSG.7940750 | Observaciones al informe de evaluación | 26/May/2025 - 11:35 pm |  | - |
+| Objeciones | CO1.MSG.7932955 | SOLICITUD DE RECHAZO VICARTECHZ | 23/May/2025 - 11:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 11 CO1.AWD.2237050 | 23/May/2025 - 06:17 pm |  | - |
+| Avisos | CO1.REQ.8126050 | Publicación modificación | 23/May/2025 - 06:16 pm |  |  |
+| General | CO1.MSG.7932190 | ADENDA MODIFICATORIA NÚMERO 06 | 23/May/2025 - 06:16 pm |  | - |
+| General | CO1.MSG.7925427 | RESPUESTA OBSERVACIONES | 22/May/2025 - 05:55 pm |  | - |
+| Objeciones | CO1.MSG.7921216 | [Respondido] RE:Solicitud Eleminacion oferente ARDOBOT ROBÓTICA SAS. | 22/May/2025 - 05:40 pm |  | - |
+| Objeciones | CO1.MSG.7921134 | [Respondido] RE:SOLICITUD DE RECHAZO ARDOBOT | 22/May/2025 - 05:39 pm |  | - |
+| Objeciones | CO1.MSG.7921216 | Solicitud Eleminacion oferente ARDOBOT ROBÓTICA SAS. | 22/May/2025 - 10:57 am |  | - |
+| Objeciones | CO1.MSG.7921134 | SOLICITUD DE RECHAZO ARDOBOT | 22/May/2025 - 10:34 am |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 10 CO1.AWD.2237050 | 21/May/2025 - 06:36 pm |  | - |
+| General | CO1.MSG.7918658 | ADENDA MODIFICATORIA NÚMERO 05 | 21/May/2025 - 06:34 pm |  | - |
+| Avisos | CO1.REQ.8126050 | Publicación modificación | 21/May/2025 - 06:33 pm |  |  |
+| General | CO1.MSG.7906413 | Subsanación Documentos Ardobot | 20/May/2025 - 04:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 9 CO1.AWD.2237050 | 19/May/2025 - 04:02 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 8 CO1.AWD.2237050 | 15/May/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.7889612 | ADENDA MODIFICATORIA NÚMERO 04 | 15/May/2025 - 04:17 pm |  | - |
+| Avisos | CO1.REQ.8126050 | Publicación modificación | 15/May/2025 - 04:13 pm |  |  |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 7 CO1.AWD.2237050 | 13/May/2025 - 04:48 pm |  | - |
+| General | CO1.MSG.7861314 | ADENDA MODIFICATORIA NÚMERO 03 | 09/May/2025 - 06:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 6 CO1.AWD.2237050 | 09/May/2025 - 06:12 pm |  | - |
+| Avisos | CO1.REQ.8126050 | Publicación modificación | 09/May/2025 - 06:11 pm |  |  |
+| Reporte preliminar | CO1.AWD.2237050 | Informe de evaluación 5 CO1.AWD.2237050 | 07/May/2025 - 06:35 pm |  | - |
+| Avisos | CO1.REQ.8126050 | Publicación modificación | 07/May/2025 - 06:34 pm |  |  |
+| General | CO1.MSG.7849056 | ADENDA MODIFICATORIA NÚMERO 02 | 07/May/2025 - 06:34 pm |  | - |

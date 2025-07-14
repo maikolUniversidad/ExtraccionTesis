@@ -1,0 +1,180 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE MALAGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68277167d7ff62.06310829
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-20 08:06:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE MATERIALES CON DESTINO A LA IMPLEMENTACIÓN Y FORTALECIMIENTO DEL PROGRAMA DELINQUIR NO PAGA DIRIGIDO A LA POBLACIÓN PRIVADA DE LA LIBERTAD EN EL ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE MÁLAGA, SANTANDER
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Málaga
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212110 - Impresoras de múltiples funciones
+
+**Códigos adicionales UNSPSC:**
+
+45111616 - Proyectores de video,45121610 - Cables para cámaras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Equipos audiovisuales", "licicodigos": "105,115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 9 # 11 - 40 Málaga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+220 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212110, 45111616, 45121610 | COMPRA DE MATERIALES CON DESTINO A LA IMPLEMENTACIÓN Y FORTALECIMIENTO DEL PROGRAMA “DELINQUIR NO PAGA” DIRIGIDO A LA POBLACIÓN PRIVADA DE LA LIBERTAD EN EL ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE MÁLAGA, SANTANDER | Mínima cuantía | Presupuesto de entidad nacional | $4.218.500 | CONTRATACION |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+16/May/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 12:00 pm
+
+**Fecha de publicación:**
+
+16/May/2025 - 12:02 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+21/May/2025 - 09:15 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 09:30 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+21/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7903065 | AVISO DE NO LIMITACION PROCESO 413-MC-014-2025 | 19/May/2025 - 04:04 pm |  | - |

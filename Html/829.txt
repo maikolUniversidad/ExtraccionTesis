@@ -1,0 +1,182 @@
+Title: Licitaciones - INSTITUTO TOLIMENSE DE FORMACION TECNICA PROFESIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c11a2ca4a43.33601944
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-01 10:35:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO E INSTALACIÓN DE FIBRA ÓPTICA, SOLUCIÓN DE CABLEADO ESTRUCTURADO PARA INTERIORES Y SOLUCIÓN DE CABLEADO ESTRUCTURADO PARA EXTERIORES EN EL INSTITUTO TOLIMENSE DE FORMACIÓN TÉCNICA PROFESIONAL - ITFIP
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Espinal
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151600 - Servicios de sistemas especializados de comunicación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Redes de transmisión de datos (Cableado estructurado)", "licicodigos": "98,99" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 18 Carrera 1ª Barrio/Arkabal Espinal, Tolima - Colombia Espinal Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72151600 | CONTRATAR EL SUMINISTRO E INSTALACIÓN DE FIBRA ÓPTICA, SOLUCIÓN DE CABLEADO ESTRUCTURADO PARA INTERIORES Y SOLUCIÓN DE CABLEADO ESTRUCTURADO PARA EXTERIORES EN EL INSTITUTO TOLIMENSE DE FORMACIÓN TÉCNICA PROFESIONAL - ITFIP | Mínima cuantía | Recursos propios | $38.805.900 | OFICINA DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 09:56 am
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 05:10 pm
+
+**Informe de presentación de ofertas:**
+
+27/Jun/2025 - 05:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8088464 | AVISO INFORMATIVO A MIPYMES | 26/Jun/2025 - 04:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8088432 | RESPUESTA A LAS OBSERVACIONES | 26/Jun/2025 - 04:01 pm |  | - |
+| Aclaraciones | CO1.MSG.8085969 | Observaciones | 26/Jun/2025 - 11:09 am |  | - |

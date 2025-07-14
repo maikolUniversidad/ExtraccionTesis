@@ -1,0 +1,181 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL FUSAGASUGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681557d691a677.11023642
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 09:36:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE TOKENS PARA LA EMISIÓN DE CERTIFICADOS DE FIRMA DIGITAL PARA LA ALCALDÍA DE FUSAGASUGÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Fusagasugá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111703 - Diseño del intercambio electrónico de datos (ied)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+FUSAGASUGA Fusagasugá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111703 | ADQUISICIÓN DETOKENS PARA LAEMISIÓN DECERTIFICADOS DEFIRMA DIGITALPARA LA ALCALDÍADE FUSAGASUGÁ | Mínima cuantía | Recursos propios | $2.502.496 | SEC ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+02/May/2025 - 06:21 pm
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+02/May/2025 - 08:00 pm
+
+**Plazo para recepción de observaciones:**
+
+05/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+06/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+09/May/2025 - 08:31 am
+
+**Informe de presentación de ofertas:**
+
+09/May/2025 - 09:32 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+13/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+14/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 14/May/2025 - 12:00 pm | 20/Dic/2025 - 06:00 am |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 15/May/2025 - 12:00 pm | 20/Dic/2025 - 06:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8199578 | Publicación modificación | 07/May/2025 - 05:54 pm |  |  |
+| General | CO1.MSG.7840077 | AVISO NO LIMITACIÓN MIPYMES | 06/May/2025 - 03:05 pm |  | - |
+| General | CO1.MSG.7840051 | RESPUESTA OBS. | 06/May/2025 - 03:04 pm |  | - |

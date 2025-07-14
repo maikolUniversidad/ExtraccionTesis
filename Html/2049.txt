@@ -1,0 +1,107 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6850d4f4665dc0.84837838
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 08:28:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.059 SOPORTE Y MANTENIMIENTO HERRAMIENTAS DE CIBERSEGURIDAD PERIMETRAL WAF - DDOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 09:15 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 08:00 am
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(24/Jun/2025 - 03:36 am:09 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA en 16 horas de tiempo transcurrido (24/Jun/2025 - 03:36 am:09 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Se cancela el proceso en base a cambios por parte de la unidad en objeto de la contratación
+
+**Fecha de la cancelación:**
+
+24/Jun/2025 - 03:36 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8425021 | Publicación modificación | 20/Jun/2025 - 09:05 am |  |  |
+| Aclaraciones | CO1.MSG.8044993 | ITSCSAS Observaciones Estudio de Mercado SC-059 | 17/Jun/2025 - 03:17 pm |  | - |

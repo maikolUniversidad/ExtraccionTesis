@@ -1,0 +1,100 @@
+Title: Licitaciones - DIRECCION DE ANTINARCOTICOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68261136d07387.11632815
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:51:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+DQUISICION DE RADIOS DE COMUNICACIONES PARA EL FORTALECIMIENTO DE LAS COMUNICACIONES OPERACIONALES DE LA DIRECCION DE ANTINARCOTICOS-POLICIA NACIONAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191500 - Dispositivos de comunicación personal
+
+**Códigos adicionales UNSPSC:**
+
+43223100 - Componentes y equipo de infraestructura de redes móviles y digitales,43221700 - Equipo fijo de red y componentes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO EL DORADO ENTRADA SEIS VIA CATAM Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 10:57 am
+
+**Plazo para solicitar aclaraciones:**
+
+19/May/2025 - 11:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8266266 | Publicación modificación | 15/May/2025 - 01:39 pm |  |  |

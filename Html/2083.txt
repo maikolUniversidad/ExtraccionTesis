@@ -1,0 +1,100 @@
+Title: Licitaciones - MINISTERIO DE MINAS Y ENERGIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68529da100e2a8.68141993
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 09:42:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE ATENCIÓN DE MESA DE SERVICIOS A USUARIO FINAL E INFRAESTRUCTURA TIC, INCLUIDO MANTENIMIENTO PREVENTIVO/CORRECTIVO Y BOLSA DE SUMINISTRO DE REPUESTOS, ACCESORIOS, SERVICIOS Y EQUIPOS TECNOLÓGICOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43211600 - Accesorios de computador,44103100 - Suministros para impresora, fax y fotocopiadora,81112200 - Mantenimiento y soporte de software,81112300 - Mantenimiento y soporte de hardware de computador,26111700 - Baterías, pilas y accesorios,32101600 - Circuitos integrados,43211800 - Accesorios de dispositivos de entrada de datos de computador,43211900 - Monitores y pantallas de computador,43221700 - Equipo fijo de red y componentes,43222600 - Equipo de servicio de red,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,43201600 - Componentes del chasis,43201800 - Dispositivos de almacenamiento,43202000 - Dispositivos de almacenamiento extraíbles,43211700 - Dispositivos informáticos de entrada de datos,43212000 - Accesorios de pantallas de computador,43212200 - Sistemas de manejo de almacenamiento de datos de computador,72151500 - Servicios de sistemas eléctricos,43202100 - Accesorios de dispositivos de almacenamiento extraíbles,72151514 - Servicio de mantenimiento de energía de emergencia o de reserva
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 43 No 57 - 31 CAN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 12:01 am
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 11:59 am
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 06:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8431778 | Publicación modificación | 20/Jun/2025 - 06:13 pm |  |  |

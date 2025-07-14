@@ -1,0 +1,219 @@
+Title: Licitaciones - INSTITUTO DEPARTAMENTAL DE ACCIÓN COMUNAL DEL DEPARTAMENTO DEL HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a0856cbf02.52687795
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 10:59:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SERVICIOS DE ARRENDAMIENTO DE LICENCIAS DE SOFTWARE PARA LOS PROCESOS INTEGRADOS DE GESTION FINANCIERA Y ADMINISTRATIVA EN EL INSTITUTO DEPARTAMENTAL DE ACCION COMUNAL DEL HUILA IDACOHUILA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231500 - Software funcional específico de la empresa
+
+**Códigos adicionales UNSPSC:**
+
+43231600 - Software de planificación de recursos empresariales (ERP) y contabilidad financiera,43231601 - Software de contabilidad,43232300 - Software de consultas y gestión de datos,43232100 - Software de edición y creación de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 4 CALLE 8 ESQUINA Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231500, 43231600, 43231601, 43232300, 43232100 | SERVICIOS DE ARRENDAMIENTO DE LICENCIAS DE SOFTWARE PARA LOS PROCESOS INTEGRADOS DE GESTION FINANCIERA Y ADMINISTRATIVA EN EL INSTITUTO DEPARTAMENTAL DE ACCION COMUNAL DEL HUILA IDACOHUILA | Mínima cuantía | Recursos propios | $38.000.000 | CONTRATACION2025 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 06:23 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+20/Jun/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 09:20 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 10:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+08/Jul/2025 - 05:30 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 06:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 20,00 | 04/Jul/2025 - 06:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 04/Jul/2025 - 06:00 am | 31/Dic/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(8/07/2025 5:16:51 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal IDACOHUILA en 17 horas de tiempo transcurrido (8/07/2025 5:16:51 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: SE DECLARA DESIERTO EL PROCESO MEDIANTE RESOLUCION No. IDACOH-2025-94, POR PROPUESTA ECONOMICA, PRECIO ARTIFIALMENTE BAJO SEGUN ANALISIS DEL COMITE EVALUADOR A LA JUSTIFICACION PRESENTADA POR EL UNICO PROPONENTE IN-NOVA.
+
+**Fecha de la cancelación:**
+
+08/Jul/2025 - 05:16 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2294837 | Informe de evaluación 3 CO1.AWD.2294837 | 08/Jul/2025 - 05:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2294837 | Informe de evaluación 2 CO1.AWD.2294837 | 08/Jul/2025 - 05:08 pm |  | - |
+| General | CO1.MSG.8137230 | INFORME FRENTE A LA JUSTIFICACION DE OFERTA (PRECIO ARTIFICIALMENTE BAJO) Y DECLARATORIA DESIERTA | 08/Jul/2025 - 04:57 pm |  | - |
+| Avisos | CO1.REQ.8444047 | Publicación modificación | 04/Jul/2025 - 08:39 am |  |  |
+| Objeciones | CO1.MSG.8111125 | Subsanación informe | 02/Jul/2025 - 11:28 pm |  | - |
+| General | CO1.MSG.8103325 | anexos | 01/Jul/2025 - 06:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2294837 | Informe de evaluación 1 CO1.AWD.2294837 | 01/Jul/2025 - 05:43 pm |  | - |
+| Avisos | CO1.MSG.8101626 | Publicación de la lista de ofertas del proceso IDACOHUILA-PCMC-003-2025. | 01/Jul/2025 - 03:51 pm |  | - |
+| Avisos | CO1.MSG.8101610 | La lista de oferentes del proceso IDACOHUILA-PCMC-003-2025 publicada por INSTITUTO DEPARTAMENTAL DE ACCIÓN COMUNAL DEL DEPARTAMENTO DEL HUILA | 01/Jul/2025 - 03:50 pm |  | - |
+| General | CO1.MSG.8089891 | AVISO LIMITACION A MIPYMES | 26/Jun/2025 - 05:55 pm |  | - |

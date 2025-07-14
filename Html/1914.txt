@@ -1,0 +1,107 @@
+Title: Licitaciones - SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67ffea8b488688.85445615
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-25 14:52:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición, instalación, configuración y puesta en funcionamiento de equipos de cómputo, software e infraestructura de tecnología de información y comunicaciones para renovar y/o fortalecer la plataforma tecnológica de la Secretaria General de la Alcaldía mayor de Bogotá D.C
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211503 - Computadores notebook,43211515 - Estaciones de trabajo para computadores,43211708 - Mouse o bola de seguimiento para computador,43211702 - Lectores y codificadores de banda magnética,43211902 - Paneles o monitores de pantalla de cristal líquido lcd
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "103,104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+contratossgeneral@alcaldiabogota.gov.co Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Abr/2025 - 12:13 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/Abr/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/Abr/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7810401 | RE: OBSERVACIONES TECNICAS, Observaciones HP Colombia, Observaciones, OBSERVACIONES SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ, OSERVACIONES EQUIPOS DE COMPUTO, observaciones | 29/Abr/2025 - 08:50 am |  | - |
+| Avisos | CO1.REQ.8134530 | Publicación modificación | 25/Abr/2025 - 03:52 pm |  |  |
+| Aclaraciones | CO1.MSG.7785767 | OBSERVACIONES TECNICAS | 23/Abr/2025 - 11:44 am |  | - |
+| Aclaraciones | CO1.MSG.7785095 | Observaciones HP Colombia | 23/Abr/2025 - 10:37 am |  | - |
+| Aclaraciones | CO1.MSG.7784364 | Observaciones | 23/Abr/2025 - 09:32 am |  | - |
+| Aclaraciones | CO1.MSG.7783687 | OBSERVACIONES SECRETARÍA GENERAL DE LA ALCALDÍA MAYOR DE BOGOTÁ | 23/Abr/2025 - 07:23 am |  | - |
+| Aclaraciones | CO1.MSG.7782004 | OSERVACIONES EQUIPOS DE COMPUTO | 22/Abr/2025 - 05:14 pm |  | - |
+| Aclaraciones | CO1.MSG.7771709 | observaciones | 21/Abr/2025 - 09:17 am |  | - |

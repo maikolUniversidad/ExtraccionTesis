@@ -1,0 +1,94 @@
+Title: Licitaciones - SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E. (OFICIAL)
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cc1a4f262d1.91652016
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:27:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR LICENCIA VMWARE VSPHERE ENTERPRISE PLUS, SOPORTE Y ACTUALIZACIÓN PARA LOS SERVIDORES DE LA SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233004 - Software de sistema operativo
+
+**Códigos adicionales UNSPSC:**
+
+43233004 - Software de sistema operativo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 66 No 15 - 41 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 09:28 am
+
+**Fecha límite para responder la solicitud de información:**
+
+13/May/2025 - 03:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7882530 | ALCARACIÓN DE COTIZACIÓN | 14/May/2025 - 03:46 pm |  | - |
+| General | CO1.MSG.7867563 | RESÚESTA A OBSERVACIONES | 12/May/2025 - 02:58 pm |  | - |
+| Avisos | CO1.REQ.8228249 | Publicación modificación | 08/May/2025 - 09:36 am |  |  |

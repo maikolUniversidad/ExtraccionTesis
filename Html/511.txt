@@ -1,0 +1,349 @@
+Title: Licitaciones - AEROPUERTO INTERNACIONAL MATECAÑA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680beb49cfb629.45187920
+
+Markdown Content:
+Licitaciones - AEROPUERTO INTERNACIONAL MATECAÑA - Selección abreviada de menor cuantía (Ley 1150 de 2007) A-SAMC-056-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-04 06:38:43
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+RENOVACIÓN DE LICENCIAS DE SOFTWARE Y SERVICIOS TECNOLÓGICOS PARA LA COMUNICACIÓN, SEGURIDAD Y COLABORACIÓN DE INFORMACIÓN, GESTIÓN DE ACTIVOS DE TI Y MESA DE AYUDA Y SERVICIOS POSVENTA ASOCIADOS A LAS PLATAFORMAS CONTRATADAS
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Risaralda : Pereira
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43231512 - Software de manejo de licencias
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+KM 4 VIA CERRITOS PEREIRA Pereira Risaralda COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512, 43233203, 81111809 | RENOVACIÓN DE LAS LICENCIAS DE: 1) HERRAMIENTA COLABORATIVA GOOGLE WORKSPACE BUSINESS STANDARD, 2) HOSTING WEB BUSINESS PARA WORDPRESS, 3) PLUGINS WEB WORDPRESS, 4) FORTICLIENT (ENDPOINT Y VPN/ZTNA), 5) RENOVACIÓN DEL PROTOCOLO IPV6 - LACNIC , 6) BACKUP Y RESTAURACIÓN (ACRONIS) (GOOGLE ws + XDR), 7) SERVICE DESK Y GESTIÓN DE ACTIVOS, 8) LICENCIAS DE EDICIÓN DE CONTENIDO MULTIMEDIA (ENVATO - CAPCUT - ADOBRE CREATIVE), 9) CONSULTA Y ANÁLISIS DE NORMAS LEGALES (LEGIS), 10) SERVICIO POSVENTA DE CADA UNA DE LAS PLATAFORMAS CONTRATADAS. | Selección abreviada menor cuantía | Recursos propios | $117.500.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+25/Abr/2025 - 02:48 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+25/Abr/2025 - 04:00 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 04:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+05/May/2025 - 04:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+12/May/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+13/May/2025 - 06:25 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+13/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+13/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+13/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+15/May/2025 - 07:00 pm
+
+**Realización del sorteo:**
+
+16/May/2025 - 10:00 am
+
+**Publicación de la lista de precalificados:**
+
+16/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+20/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+22/May/2025 - 10:10 am
+
+**Informe de presentación de Ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+03/Jun/2025 - 02:00 pm
+
+**Firma del Contrato:**
+
+03/Jun/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+03/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jun/2025 - 06:00 pm | 03/Ene/2026 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jun/2025 - 06:00 pm | 03/Ene/2026 - 06:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INGENIERIA TELEMATICA S.A.S | Pereira - Risaralda |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 97,635,450
+
+**Informes proceso de selección CO1.AWD.2262964 de 03/Jun/2025 - 01:41 am. Valor $97.635.450**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 04:42 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 12:19 pm |  |
+| Informe de selección | 03/Jun/2025 - 01:41 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262964**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INGENIERIA TELEMATICA S.A.S * **Tipo documento:** NIT * **Documento:** 816007833 | * **Nombre:** ERCIDE LEGNEL VARELA CAMARGO * **Tipo documento:** NIT * **Documento:** 19384090 | Pereira - Risaralda | $97.635.450 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262964****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7918482
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+04/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 97,635,450
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262964 | Informe de selección CO1.AWD.2262964 | 03/Jun/2025 - 01:41 pm |  | - |
+| Objeciones | CO1.MSG.7941121 | [Respondido] RE:SUBSANACIÓN INFORME DE EVALUACIÓN | 03/Jun/2025 - 01:40 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262964 | Informe de evaluación 2 CO1.AWD.2262964 | 03/Jun/2025 - 12:19 pm |  | - |
+| Objeciones | CO1.MSG.7941121 | SUBSANACIÓN INFORME DE EVALUACIÓN | 27/May/2025 - 08:00 am |  | - |
+| Reporte preliminar | CO1.AWD.2262964 | Informe de evaluación 1 CO1.AWD.2262964 | 26/May/2025 - 04:42 pm |  | - |
+| Avisos | CO1.MSG.7921737 | La lista de oferentes del proceso A-SAMC-056-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por AEROPUERTO INTERNACIONAL MATECAÑA | 22/May/2025 - 11:25 am |  | - |
+| General | CO1.MSG.7851666 | RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO DE CONDICIONES A-SAMC-056-2025 | 08/May/2025 - 10:34 am |  | - |
+| Aclaraciones | CO1.MSG.7832716 | Observaciones Aeropuerto Internacional Matecaña | 05/May/2025 - 12:30 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:54 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

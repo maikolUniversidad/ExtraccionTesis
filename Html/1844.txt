@@ -1,0 +1,90 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b9e3a933388.18644329
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:45:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO, CON INCLUSIÓN DE REPUESTOS A TODO COSTO PARA LOS CUARTOS TÉCNICOS DE RED, PARA LAS ESTACIONES DE POLICÍA, GRUPOS OPERATIVOS, ESPECIALIDADES DE LA POLICÍA METROPOLITANA DE BOGOTÁ.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111600 - Programadores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Materiales para redes de comunicación", "licicodigos": "99,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 56 No. 22 - 96 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 09:21 am
+
+**Plazo para solicitar aclaraciones:**
+
+29/Abr/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/Abr/2025 - 10:00 am

@@ -1,0 +1,197 @@
+Title: Licitaciones - SENA REGIONAL GUAJIRA Grupo Mixto de Apoyo Administrativo
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c83684cbaa3.48589393
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-02 07:45:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir a título de compraventa materiales de formación para el Proyecto de Desarrollo Tecnoacademia Itinerante del Programa SENNOVA del CIEA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+La Guajira : Riohacha
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60106214 - Materiales didácticos de robótica
+
+**Códigos adicionales UNSPSC:**
+
+26121607 - Cable de fibra óptica,31251600 - Componentes de robot,26111704 - Cargadores de baterías,26121630 - Accesorios de cable,32121501 - Capacitores fijos,32121502 - Capacitores o varactores variables,32101601 - Memoria de acceso aleatorio (ram),44122012 - Portapapeles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Materiales para obras eléctricas en general, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Insumos agrícolas y pecuarios, -Tanques plásticos, -Electrónica - Robótica, -Básculas, instrumentos de medida, observación y ensayo, -Pilas y baterías desechables y recargables, -Fertilizantes, -Prototipadora, impresora 3D (Equipos e insumos), -Semillas", "licicodigos": "121,122,123,130,142,212,272,299,385,471,622" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 23 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 21 No 15 - 100 Riohacha La Guajira COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Jun/2025 - 05:33 pm
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+27/Jun/2025 - 09:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+27/Jun/2025 - 10:30 am
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 09:40 am
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 09:40 am
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 09:41 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 09:45 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 09:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jul/2025 - 12:00 pm | 04/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 03/Jul/2025 - 12:00 pm | 04/Dic/2025 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8466293 | Publicación modificación | 01/Jul/2025 - 09:40 am |  |  |
+| Avisos | CO1.REQ.8466293 | Publicación modificación | 27/Jun/2025 - 10:37 am |  |  |
+| Avisos | CO1.REQ.8466293 | Publicación modificación | 27/Jun/2025 - 10:31 am |  |  |

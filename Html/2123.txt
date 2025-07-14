@@ -1,0 +1,94 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a71b9ab786.17668576
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 16:40:02
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar servicios profesionales para estructurar y desarrollar la etapa inicial de la Misión de Transformación Digital, en torno a la aceleración de acciones encaminadas al cierre de brechas en educación digital, el fortalecimiento de habilidades y competencias para la empleabilidad y la competitividad, de acuerdo con los proyectos a cargo del Viceministerio de Transformación Digital.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81131500 - Metodología y Análisis
+
+**Códigos adicionales UNSPSC:**
+
+43232300 - Software de consultas y gestión de datos,81111700 - Sistemas de manejo de información MIS,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología", "licicodigos": "117" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Edificio Manuel Murillo Toro; Carrera 8 entre Calles 12A y 12B; Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 06:37 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Jun/2025 - 11:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 11:00 pm

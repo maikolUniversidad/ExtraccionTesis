@@ -1,0 +1,231 @@
+Title: Licitaciones - COMISIÓN DE REGULACIÓN DE COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e6e595f9014.17390275
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 13:35:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Renovar el licenciamiento de los productos Arcserve UDP Premium Edition - Socket y Arcserve UDP Advanced Edition - Server OS Instance, adquirir nuevo licenciamiento Arcserve Software As a Services para backup - SAAS Backup de Microsoft 365, e incluir la prestación de servicios gestionados y soporte técnico especializado, así como elaborar y entregar un documento técnico que consolide y actualice la política de backups de la Entidad
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111901 - Recuperación de información de las bases de datos
+
+**Códigos adicionales UNSPSC:**
+
+81111902 - Servicio de recuperación de información de las bases de datos en línea,43232309 - Software de recuperación o búsqueda de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 59 a Bis # 5 - 53 Piso 9 EDIFICIO LINK SIETE SESENTA Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112302, 43232309, 81111900 | Renovar el licenciamiento del servicio de Backup que permiten garantizar las copias de respaldo de los servidores que alojan los servicios tecnológicos de la CRC. | Selección abreviada menor cuantía | Recursos propios | $227.264.000 | Unidad de Contratación |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+09/May/2025 - 03:48 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+09/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+16/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+26/May/2025 - 01:32 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+26/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+29/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+29/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+03/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+06/Jun/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+06/Jun/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 11:59 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+20/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+24/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+27/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 24/Jun/2025 - 08:00 am | 24/Jun/2027 - 08:00 am |
+| Calidad del servicio | 10,00 | 24/Jun/2026 - 08:00 am | 24/Jun/2027 - 08:00 am |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7988216 | RE: OBSERVACION | 05/Jun/2025 - 02:47 pm |  | - |
+| General | CO1.MSG.7954645 | RE: Manifestar Interes de Limitar a MIPYMES | 28/May/2025 - 05:39 pm |  | - |
+| General | CO1.MSG.7936949 | Publucación resolución de apertura | 26/May/2025 - 01:37 pm |  | - |
+| General | CO1.MSG.7924059 | RE: Observaciones Prepliego | 22/May/2025 - 03:58 pm |  | - |
+| General | CO1.MSG.7924049 | RE: Observaciones PRE Pliegos | 22/May/2025 - 03:57 pm |  | - |

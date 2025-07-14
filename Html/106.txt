@@ -1,0 +1,256 @@
+Title: Licitaciones - COMISIÓN NACIONAL DEL SERVICIO CIVIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ccbd0e1e103.90096400
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:28:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR INFRAESTRUCTURA TECNOLÓGICA PARA EL FORTALECIMIENTO DEL ESQUEMA INTEGRAL DE SEGURIDAD DE LA CNSC CON EQUIPOS BALANCEADOR DE CARGA, WAF, DDOS, DNS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 16 No. 96 -64 PISO 7 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,184,526,341
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222501 | 25031 -Fortalecimiento del esquema de seguridad de la CNSC con equipos de balanceador de carga, WAF, DDOS,DNS | Selección abreviada subasta inversa | Recursos propios | $1.184.526.341 | Secretaría General |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/Jun/2025 - 07:57 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+13/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+26/Jun/2025 - 11:55 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+02/Jul/2025 - 10:41 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/Jul/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jul/2025 - 06:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jul/2025 - 06:59 pm
+
+**Presentación de Ofertas:**
+
+11/Jul/2025 - 09:30 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+11/Jul/2025 - 09:35 am
+
+**Informe de presentación de Ofertas:**
+
+11/Jul/2025 - 09:40 am
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jul/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+24/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+24/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+25/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+28/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/Jul/2025 - 12:00 am | 27/Oct/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 24/Jul/2025 - 12:00 am | 27/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 28/Jul/2025 - 12:00 am | 27/Oct/2027 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 28/Jul/2025 - 12:00 am | 27/Oct/2027 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+22/Jul/2025 - 10:10 am
+
+**Fecha fin:**
+
+22/Jul/2025 - 10:59 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8155235 | Publicación de la lista de ofertas del proceso CNSC-PAMC-008 DE 2025 (Presentación de oferta). | 11/Jul/2025 - 10:33 am |  | - |
+| Avisos | CO1.MSG.8155233 | La lista de oferentes del proceso CNSC-PAMC-008 DE 2025 (Presentación de oferta) publicada por COMISIÓN NACIONAL DEL SERVICIO CIVIL | 11/Jul/2025 - 10:33 am |  | - |
+| General | CO1.MSG.8150309 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS | 10/Jul/2025 - 03:04 pm |  | - |
+| Aclaraciones | CO1.MSG.8147922 | RE: observaciones definitivas al proceso de seleccion | 10/Jul/2025 - 10:17 am |  | - |
+| Aclaraciones | CO1.MSG.8131362 | observaciones definitivas al proceso de seleccion | 07/Jul/2025 - 08:30 pm |  | - |
+| Aclaraciones | CO1.MSG.8068101 | MODIFICACION NIVEL MEMBRESIA SOLICITADA | 20/Jun/2025 - 06:11 pm |  | - |
+| Aclaraciones | CO1.MSG.8068065 | OBSERVACIONES PRELIMINARES GOVERNATIC | 20/Jun/2025 - 06:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8066761 | Observaciones_ | 20/Jun/2025 - 03:59 pm |  | - |
+| Aclaraciones | CO1.MSG.8066548 | Observaciones Técnicas proceso CNSC-PAMC-008 DE 2025 | 20/Jun/2025 - 03:45 pm |  | - |
+| Aclaraciones | CO1.MSG.8065398 | OBSERVACIONES PREPLIEGO PROCESO CNSC-PAMC-008 DE 2025 | 20/Jun/2025 - 01:32 pm |  | - |

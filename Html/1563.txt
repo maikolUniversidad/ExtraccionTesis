@@ -1,0 +1,170 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE JERICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6856d895c091e5.65334284
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-21 11:07:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE ARTICULOS DE DEPORTE, RECREACION, CULTURA Y CONCURSO DE TEATRO, MUSICA Y PINTURA - ESTABLECIMIENTOS DE RECLUSION - FORTALECIMIENTO DE PROGRAMAS DE CULTURA, DEPORTE Y RECREACION - FONDO DE REHABILITACION DEL CPMS JERICÓ- INPEC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Jericó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+11151700 - Hilos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Textiles y productos para confección, -Papelería y elementos de oficina, -Implementos deportivos y/o gimnasio", "licicodigos": "105,125,127,137" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 4 - 29 BARRIO LAS QUEBRADITAS Jericó Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+190 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 11151700, 44111906, 14111507 | CONTRATAR LA ADQUISICIÓN DE MATERIAL DIDÁCTICO E INSUMOS PARA CULTURA RECREACION Y DEPORTE FORMAL DEL CPMS JERICÓ-INPEC. | Mínima cuantía | Recursos propios | $3.780.000 | GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Jun/2025 - 10:51 am
+
+**Publicación de estudios previos:**
+
+21/Jun/2025 - 11:30 am
+
+**Publicación de la invitación:**
+
+21/Jun/2025 - 11:30 am
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 02:51 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 09:45 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 11:45 am
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 11:45 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Jun/2025 - 04:00 pm
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 04:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 04:20 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 04:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 08:20 am
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 09:45 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

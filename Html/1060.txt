@@ -1,0 +1,135 @@
+Title: Licitaciones - COLEGIO MANUEL ZAPATA OLIVELLA INSTITUCIÓN EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835f6f0b90f66.99942523
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:08:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El Colegio Manuel Zapata Olivella requiere adquirir Tóner, Tintas y Masters para las Impresoras de la Institución Educativa; también requiere compra de 2 Impresoras.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Códigos adicionales UNSPSC:**
+
+44101503 - Máquinas multifuncionales,44103105 - Cartuchos de tinta
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 1 BIS 87 84 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 14,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 12:17 pm
+
+**Fecha de Firma del Contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+17/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8325619 | Publicación modificación | 09/Jun/2025 - 02:28 pm |  |  |
+| Avisos | CO1.REQ.8325619 | Publicación modificación | 05/Jun/2025 - 10:50 am |  |  |
+| Avisos | CO1.REQ.8325619 | Publicación modificación | 03/Jun/2025 - 11:56 am |  |  |
+| Avisos | CO1.REQ.8325619 | Publicación modificación | 29/May/2025 - 04:24 pm |  |  |

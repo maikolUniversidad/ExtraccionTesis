@@ -1,0 +1,187 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL PARA EL DEPORTE Y LA RECREACION DE CANDELARIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6853237775b8d8.08911281
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 07:17:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICION DE LICENCIA DE SOFTWARE A PERPETUIDAD CON LOS MODULOS DE ARCHIVO CENTRAL, MÓDULO VENTANILLA ÚNICA, GESTIÓN DOCUMENTAL, RETENCIÓN DOCUMENTAL, ADMINISTRACIÓN DE USUARIOS Y CONFIGURACIÓN DEL SISTEMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Candelaria
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232202 - Software de manejo de documentos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 8 No.7-45 Candelaria Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232202 | ADQUISICION DE LICENCIA DE SOFTWARE A PERPETUIDAD CON LOS MODULOS DE ARCHIVO CENTRAL, MÓDULO VENTANILLA ÚNICA, GESTIÓN DOCUMENTAL, RETENCIÓN DOCUMENTAL, ADMINISTRACIÓN DE USUARIOS Y CONFIGURACIÓN DEL SISTEMA | Mínima cuantía | Recursos propios | $39.858.000 | IMDERCAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 03:26 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 03:30 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 03:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 06:10 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 11:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 11:10 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 10:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 10:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8061850 | AVISO NO LIMITACION | 19/Jun/2025 - 07:16 pm |  | - |
+| Aclaraciones | CO1.MSG.8057870 | Solicitud de Limitacion MyPime | 19/Jun/2025 - 11:38 am |  | - |
+| Aclaraciones | CO1.MSG.8057842 | SOLICITUD DE LIMITACION A MIPYME | 19/Jun/2025 - 11:35 am |  | - |
+| Avisos | CO1.REQ.8435422 | Publicación modificación | 19/Jun/2025 - 11:17 am |  |  |

@@ -1,0 +1,172 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE SANTANDER DE QUILICHAO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680fa7db9cf441.47795856
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-28 11:07:59
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTAR SERVICIOS DE APOYO A LA GESTIÓN EN LA ELABORACIÓN, PRODUCCIÓN Y EN DIFUSIÓN MEDIO DIGITAL DE CUBRIMIENTO LOCAL O REGIONAL, PÁGINA WEB Y REDES SOCIALES DEL MISMO MEDIO DE NOTAS E INFORMACIÓN INSTITUCIONAL.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Santander De Quilichao
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111620 - Servicios temporales de recursos humanos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Televisión - Radio - Prensa, -Producciones audiovisuales (Radio - TV), -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "198,425,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 21 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+125 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 3 # 9- 75 SANTANDER DE QUILICHAO Santander De Quilichao Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+236 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 10:15 am
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 10:15 am
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 10:58 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 10:15 am
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 10:15 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 12:02 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 12:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/May/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 12:00 pm
+
+**Aceptación de ofertas:**
+
+08/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/May/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

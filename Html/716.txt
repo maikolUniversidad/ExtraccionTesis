@@ -1,0 +1,187 @@
+Title: Licitaciones - DIRECCIÓN GENERAL DE SANIDAD MILITAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685460862e4e12.30650143
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-30 09:32:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN / RENOVACIÓN DE FIRMAS DIGITALES PARA ACCESO DE LOS FUNCIONARIOS DEL SUBSISTEMA DE SALUD DE LAS FUERZAS MILITARES AL SISTEMA INTEGRADO DE INFORMACIÓN FINANCIERA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211800 - Accesorios de dispositivos de entrada de datos de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. Calle 26 No 69-76 Centro Empresarial Elemento Torre Tierra Piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+165 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211800 | MAQUINARIA DE OFICINA, CONTABILIDAD E INFORMÁTICA - CERTIFICADOS TOKEN | Mínima cuantía | Recursos propios | $53.000.000 | DIRECCION GENERAL DE SANIDAD MILITAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 02:08 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 08:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 08:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+01/Jul/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+01/Jul/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 10:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8436329 | Publicación modificación | 26/Jun/2025 - 12:00 pm |  |  |
+| General | CO1.MSG.8086052 | RE: Solicitud y aclaración | 26/Jun/2025 - 11:17 am |  | - |
+| General | CO1.MSG.8075450 | FORMULARIO PREGUNTAS Y RESPUESTAS | 24/Jun/2025 - 05:40 pm |  | - |
+| General | CO1.MSG.8073245 | AVISO NO LIMITACION | 24/Jun/2025 - 02:47 pm |  | - |

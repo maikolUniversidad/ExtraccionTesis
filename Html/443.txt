@@ -1,0 +1,282 @@
+Title: Licitaciones - GOBIERNO DEPARTAMENTAL - Contratación mínima cuantía MIN-061-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851d2e95d1cc0.36440169
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:54:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211501 - Servidores de computador
+
+**Códigos adicionales UNSPSC:**
+
+43201803 - Unidades de disco duro,32101601 - Memoria de acceso aleatorio (ram),43201827 - Dispositivo de almacenamiento de disco duro portátil,43211708 - Mouse o bola de seguimiento para computador,43211706 - Teclados,43202216 - Cable de conexión de impresora,43201814 - Equipos electrónicos de duplicación de medios o información,26121635 - Rollos de cable
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Electrónica - Robótica, -Pilas y baterías desechables y recargables, -Materiales para redes de comunicación", "licicodigos": "105,212,299,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 3 calle entre calle 10 y 11 edificio gobernacion del tolima Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+90 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211501, 43201803, 32101601, 43201827, 43211708, 43211706, 43202216, 43201814, 26121635 | SA-TH-0224 "CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA." | Mínima cuantía | Recursos propios | $120.000.000 | SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 02:37 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 09:07 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 12:00 pm | 27/Mar/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 01/Jul/2025 - 12:00 pm | 27/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 12:00 pm | 27/Mar/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 120,000,000
+
+**Informes proceso de selección CO1.AWD.2292061 de 01/Jul/2025 - 01:34 am. Valor $120.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 03:15 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 03:15 pm |  |
+| Informe de selección | 01/Jul/2025 - 01:34 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2292061**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA Y SUMINISTROS JDI SAS * **Tipo documento:** NIT * **Documento:** 901800130 | * **Nombre:** JULIO CESAR BELTRAN GARZON * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 93386132 | Ibagué - Tolima | $120.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2292061****
+
+**Contrato 2541 DEL 02 DE JULIO DE 2025 de COMERCIALIZADORA Y SUMINISTROS JDI SAS:**
+
+**ID del contrato en SECOP:**
+
+2541 DEL 02 DE JULIO DE 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43201814 | CONTRATAR EL SUMINISTRO DE ACCESORIOS ELECTRONICOS Y PERIFERICOS A CARGO DE LA SECRETARIA ADMINISTRATIVA Y DE TALENTO HUMANO DEL DEPARTAMENTO DEL TOLIMA | 1,00 | UN | 120.000.000,00 | 120.000.000,00 | 120.000.000,00 | 120.000.000,00 |
+
+**Fecha de terminación del contrato:**
+
+01/Oct/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+90 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 120,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 26. RUT_JDI_TECN_PAPELERIA.pdf |  |
+|  | ANEXO 3 PROPUESTA ECONOMICA (1).pdf |  |
+|  | CERTIFICACION BANCARIA CTA CORRIENTE JUNIO - JDI - 2025.pdf |  |
+|  | MINUTA 2541.PDF |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292061 | Informe de selección CO1.AWD.2292061 | 01/Jul/2025 - 01:34 pm |  | - |
+| General | CO1.MSG.8087937 | RESOLUCIÓN COMITÉ EVALUADOR MIN-061-2025 | 26/Jun/2025 - 03:20 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292061 | Informe de evaluación 1 CO1.AWD.2292061 | 26/Jun/2025 - 03:15 pm |  | - |
+| Avisos | CO1.MSG.8077571 | La lista de oferentes del proceso MIN-061-2025 publicada por GOBIERNO DEPARTAMENTAL | 25/Jun/2025 - 09:10 am |  | - |
+| Avisos | CO1.MSG.8077578 | Publicación de la lista de ofertas del proceso MIN-061-2025. | 25/Jun/2025 - 09:10 am |  | - |
+| General | CO1.MSG.8060005 | AVISO DE LIMITACIÓN MIPYMES EN EL PROCESO DE MÍNIMA CUANTÍA N° MIN-061-2025 | 19/Jun/2025 - 03:55 pm |  | - |
+| Aclaraciones | CO1.MSG.8059974 | RE: OBSERVACION PROCESO MIN-061-2025 | 19/Jun/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8055071 | OBSERVACION PROCESO MIN-061-2025 | 18/Jun/2025 - 08:03 pm |  | - |

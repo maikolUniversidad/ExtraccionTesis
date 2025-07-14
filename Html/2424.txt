@@ -1,0 +1,94 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683614cad29ba4.49453329
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 11:44:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Se solicita cotización para la realización de un estudio de mercado con el fin de obtener referencias de costos y condiciones del servicio requerido en el marco del proyecto Conecta Caribe. La información recopilada permitirá estructurar el proceso de contratación, asegurando su viabilidad técnica y financiera. Los interesados pueden consultar los términos en el anexo técnico y el formato de cotización adjuntos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas ; Antioquia ; Arauca ; Atlántico ; Bolívar ; Boyacá ; Caldas ; Caquetá ; Casanare ; Cauca ; Cesar ; Chocó ; Córdoba ; Cundinamarca ; Guainía ; Guaviare ; Huila ; La Guajira ; Magdalena ; Meta ; Nariño ; Norte de Santander ; Putumayo ; Quindío ; Risaralda ; San Andrés, Providencia y Santa Catalina ; Santander ; Sucre ; Tolima ; Valle del Cauca ; Vaupés ; Vichada
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101507 - Servicios de asesoramiento sobre tecnologías de la información
+
+**Códigos adicionales UNSPSC:**
+
+80141602 - Servicios de relaciones públicas,80141900 - Exhibiciones y ferias comerciales,80151500 - Facilitación del comercio,81141902 - Servicio de investigación y desarrollo de aplicaciones o tecnología,81111700 - Sistemas de manejo de información MIS,81112000 - Servicios de datos,81161500 - Servicios de administración de acceso,86141501 - Servicios de asesorías educativas,86141700 - Tecnología educacional
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Desarrollo y promoción turística, -Diseño web (Redes sociales, capacitación, asesoría)", "licicodigos": "102,117,433,480" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Colombia: Todo el pais
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 02:22 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+29/May/2025 - 04:00 pm

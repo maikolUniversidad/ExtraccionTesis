@@ -1,0 +1,232 @@
+Title: Licitaciones - FUERZA AEROESPACIAL COLOMBIANA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b877e4adbf9.22137071
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:40:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN A TODO COSTO DE SISTEMAS DE RADIOENLACES PARA LA FUERZA AEROESPACIAL COLOMBIANA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43221707 - Equipo central de microondas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 11 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 08:54 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 04:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+24/Jun/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+27/Jun/2025 - 07:53 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+27/Jun/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/Jun/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+27/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+03/Jul/2025 - 04:30 pm
+
+**Realización del sorteo:**
+
+04/Jul/2025 - 10:00 am
+
+**Publicación de la lista de precalificados:**
+
+04/Jul/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+07/Jul/2025 - 04:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+09/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/Jul/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+14/Jul/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+14/Jul/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jul/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/Jul/2025 - 04:30 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+28/Jul/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+29/Jul/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Ago/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+05/Ago/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 29/Jul/2025 - 12:00 am | 31/Jul/2026 - 12:00 am |
+| Pago de salarios | 5,00 | 29/Jul/2025 - 12:00 am | 31/Jul/2026 - 12:00 am |
+| Calidad del servicio | 20,00 | 12/Dic/2025 - 12:00 am | 12/Dic/2027 - 12:00 am |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 12/Dic/2025 - 12:00 am | 12/Dic/2027 - 12:00 am |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8512905 | Publicación modificación | 10/Jul/2025 - 06:46 pm |  |  |
+| General | CO1.MSG.8148102 | RESPUESTA A OBSERVACION EXTEMPORANEA | 10/Jul/2025 - 10:35 am |  | - |
+| Aclaraciones | CO1.MSG.8083219 | RESPUESTA A OBSERVACIONES PROYECTO PLIEGO CONDICIONES | 25/Jun/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8060308 | OBSERVACION AL BORRADOR DEL PROCESO | 19/Jun/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.8057144 | Observaciones al Pliego de condiciones | 19/Jun/2025 - 10:32 am |  | - |
+| Aclaraciones | CO1.MSG.8055327 | Observaciones al proceso. | 18/Jun/2025 - 09:48 pm |  | - |

@@ -1,0 +1,309 @@
+Title: Licitaciones - SENA REGIONAL CESAR Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fa2ae292e84.85227112
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 16:57:35
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Compra de tóner, tintas y demás consumibles para las impresoras y escáneres del Centro Agroempresarial del SENA Regional Cesar.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Aguachica
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Códigos adicionales UNSPSC:**
+
+44101700 - Accesorios para impresoras, fotocopiadoras y aparatos de fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 40 KILÓMETRO 1 VIA A BUCARAMANGA Aguachica Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 04:40 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+27/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/Jun/2025 - 06:00 pm | 04/Ene/2026 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 05/Jun/2025 - 06:00 pm | 04/Ene/2026 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC PRONTO SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 18,388,300
+
+**Informes proceso de selección CO1.AWD.2267209 de 04/Jun/2025 - 09:12 am. Valor $18.388.300**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 09:49 am |  |
+| Informe de selección | 04/Jun/2025 - 09:12 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267209**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC PRONTO S.A.S. * **Tipo documento:** NIT * **Documento:** 830089925 | * **Nombre:** EINAR RENGIFO OME * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 12197521 | - Distrito Capital de Bogotá | $18.388.300 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267209****
+
+**Contrato CO1.PCCNTR.7945726 de PC PRONTO S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7945726
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+Compra de tóner, tintas y demás consumibles para las impresoras y escáneres del Centro Agroempresarial del SENA Regional Cesar.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 44103100 | Cinta de color YMCKOK para impresoras ZC300 Direct to Card para una calidad de imagen superior. 300 imágenes por rollo. Rodillo de limpieza incluido. Carga automática de configuraciones optimizadas para una fácil implementación. Cartucho de cinta de diseño ergonómico para una experiencia de usuario excepcional y fácil reemplazo, Cinta Original. | 4,00 | UN | 369.805,75 | 273.700,00 | 1.109.417,25 | 1.094.800,00 |
+| 2 | 44103100 | Kit de limpieza para Zebra ZC100 y ZC300 paquete x 5 tarjetas. | 4,00 | UN | 236.549,00 | 232.050,00 | 709.647,00 | 928.200,00 |
+| 3 | 44103100 | Consumible para impresora Epson EcoTank L5290 - T544120-AL Botellas sistema Ecofit Única presentación 65ML Negro, Tinta Original. | 4,00 | UN | 63.050,00 | 41.650,00 | 252.200,00 | 166.600,00 |
+| 4 | 44103100 | Consumible para impresora Epson EcoTank L5290 - T544220-AL Botellas sistema Ecofit Única presentación 65ML Cyan, Tinta Original. | 4,00 | UN | 63.049,50 | 41.650,00 | 189.148,50 | 166.600,00 |
+| 5 | 44103100 | Consumible para impresora Epson EcoTank L5290 - T544320-AL Botellas sistema Ecofit Única presentación 65ML Magenta, Tinta Original. | 4,00 | UN | 63.054,00 | 41.650,00 | 189.162,00 | 166.600,00 |
+| 6 | 44103100 | Consumible para impresora Epson EcoTank L5290 - T544420-AL Botellas sistema Ecofit Única presentación 65ML Amarillo, Tinta Original. | 4,00 | UN | 63.053,50 | 41.650,00 | 189.160,50 | 166.600,00 |
+| 7 | 44103100 | Consumible para impresora HP LaserJet Pro M404dw Tóner Original. | 6,00 | UN | 1.136.350,50 | 656.500,00 | 3.409.051,50 | 3.939.000,00 |
+| 8 | 44103100 | Consumible para impresora KYOCERA Modelo ECOSYS MA6000ifx, Referencia TK-3442 Negro Laser Tóner Original. | 6,00 | UN | 853.950,00 | 737.800,00 | 3.415.800,00 | 4.426.800,00 |
+| 9 | 44103100 | Consumible para impresora LEXMARK Modelo MXG11dhe, Referencia Lexmark MX610/MX611 Negro Laser Tóner Original. | 3,00 | UN | 1.512.056,50 | 773.500,00 | 3.024.113,00 | 2.320.500,00 |
+| 10 | 44101700 | Rodillos de recogida y separación para escáner HP ScanJet Enterprise Flow 5000 S4 | 1,00 | UN | 335.198,75 | 335.100,00 | 335.198,75 | 335.100,00 |
+| 11 | 44101700 | Rodillos de recogida y separación para escáner HP ScanJet Enterprise Flow 7000 S2 | 1,00 | UN | 345.375,00 | 345.300,00 | 345.375,00 | 345.300,00 |
+| 12 | 44101700 | Rodillos de recogida y separación para escáner Avisión Scaner AD345 | 1,00 | UN | 464.761,50 | 464.700,00 | 464.761,50 | 464.700,00 |
+| 13 | 44103100 | Consumible para impresora OKI Modelo: MPOS5502mb - Referencia P/N45460512 Negro, Tóner Original. | 5,00 | UN | 1.592.787,00 | 773.500,00 | 4.778.361,00 | 3.867.500,00 |
+
+**Fecha inicio del contrato:**
+
+05/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+04/Jul/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 18,388,300
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267209 | Informe de selección CO1.AWD.2267209 | 04/Jun/2025 - 09:12 am |  | - |
+| Reporte preliminar | CO1.AWD.2267209 | Informe de evaluación 1 CO1.AWD.2267209 | 30/May/2025 - 09:49 am |  | - |
+| General | CO1.MSG.7958727 | RE: EVALUACIÓN PRELIMINAR | 29/May/2025 - 12:22 pm |  | - |
+| General | CO1.MSG.7954563 | EVALUACIÓN PRELIMINAR | 28/May/2025 - 05:37 pm |  | - |
+| Avisos | CO1.MSG.7947434 | La lista de oferentes del proceso MC-CSR-CAE-093-2025 publicada por SENA REGIONAL CESAR Grupo de Apoyo Administrativo Mixto | 27/May/2025 - 06:08 pm |  | - |
+| Avisos | CO1.MSG.7947436 | Publicación de la lista de ofertas del proceso MC-CSR-CAE-093-2025. | 27/May/2025 - 06:08 pm |  | - |
+| Avisos | CO1.REQ.8304223 | Publicación modificación | 26/May/2025 - 04:21 pm |  |  |
+| General | CO1.MSG.7938250 | AVISO MIPYMES | 26/May/2025 - 04:00 pm |  | - |

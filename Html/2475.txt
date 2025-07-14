@@ -1,0 +1,90 @@
+Title: Licitaciones - ICANH - Solicitud de información a los Proveedores (SECOPII) SP-ICANH-030-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fb520a5fad9.21592842
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:29:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquirir el licenciamiento de la suite Google Workspace y licenciamiento de software especializado para el Instituto Colombiano de Antropología e Historia.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+43232000 - Software de entretenimiento o juegos de computador,43232100 - Software de edición y creación de contenidos,43232200 - Software de gestión de contenidos,43232600 - Software específico para la industria,43232700 - Software de aplicaciones de red,43233500 - Software de intercambio de información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 12 No. 2 -38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 06:31 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 01:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+27/May/2025 - 11:59 pm

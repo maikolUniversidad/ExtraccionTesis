@@ -1,0 +1,132 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA CASD MANUELA BELTRAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683502e400bbf7.15666233
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-04 15:02:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIA PARA EL MANEJO DEL SOFTWARE CONTABLE Y PRESUPUESTAL SISTEMA INTEGRADO DE GESTIÓN ADMINISTRATIVA SIGAA-FOSE 100% WEB Y SERVICIO DE LA PLATAFORMA DE GESTIÓN ADMINISTRATIVA DE LAS PROPIEDADES PLANTAS Y EQUIPOS, (MANEJO DE INVENTARIO), DE LA INSTITUCIÓN EDUCATIVA CASD MANUELA BELTRÁN.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231512 - Software de manejo de licencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 31 No. 57 - 106, Barrio Escallón Villa Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 4,300,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231512 | ADQUISICIÓN DE LICENCIA PARA EL MANEJO DEL SOFTWARE CONTABLE Y PRESUPUESTAL SISTEMA INTEGRADO DE GESTIÓN ADMINISTRATIVA SIGAA-FOSE 100% WEB Y SERVICIO DE LA PLATAFORMA DE GESTIÓN ADMINISTRATIVA DE LAS PROPIEDADES PLANTAS Y EQUIPOS, (MANEJO DE INVENTARIO), DE LA INSTITUCIÓN EDUCATIVA CASD MANUELA BELTRÁN | Contratación régimen especial - Régimen especial | SGP | $4.300.000 | INSTITUCION EDUCATIVA CASD MANUELA BELTRAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:12 pm
+
+**Fecha de Firma del Contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8322786 | Publicación modificación | 04/Jun/2025 - 08:30 am |  |  |

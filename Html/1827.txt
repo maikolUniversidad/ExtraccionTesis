@@ -1,0 +1,76 @@
+Title: Licitaciones - HOSMIL - Solicitud de información a los Proveedores (SECOPII) COT-216-2025-HOMIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c07ffe24e40.66196543
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 11:50:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUSCRIPCIÓN DE LAS LICENCIAS DE ADOBE Y COREL DRAW
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Transversal 3C N° 49-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 04:11 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 05:00 pm

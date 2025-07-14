@@ -1,0 +1,99 @@
+Title: Licitaciones - ESCUELA SUPERIOR DE GUERRA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6851dfd38e1bc1.02327971
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:11:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO, INSTALACIÓN, CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO DE RACKS, SWITCH, UPS Y DEMÁS EQUIPOS PARA EL DATACENTER DEL CENTRO DE SIMULACIÓN Y ANALISIS DE CRISIS - CESAC DE LA ESCUELA SUPERIOR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151600 - Servicios de sistemas especializados de comunicación
+
+**Códigos adicionales UNSPSC:**
+
+26111600 - Generadores de potencia,26121600 - Cables eléctricos y accesorios,39121000 - Equipamiento para distribución y conversión de alimentación,39121400 - Lengüetas de conexión, conectadores y terminales,43222600 - Equipo de servicio de red,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,43232700 - Software de aplicaciones de red,72151500 - Servicios de sistemas eléctricos,72154100 - Servicios de mantenimiento y reparación de equipo de sistemas de distribución y acondicionamiento,80101500 - Servicios de consultoría de negocios y administración corporativa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Materiales para redes de comunicación", "licicodigos": "105,106,109,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 11 # 102-50 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 04:33 pm
+
+**Plazo para solicitar aclaraciones:**
+
+19/Jun/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8070504 | Formulario de preguntas y respuestas No. 1 | 24/Jun/2025 - 09:16 am |  | - |
+| Aclaraciones | CO1.MSG.8059177 | Observaciones | 19/Jun/2025 - 02:50 pm |  | - |
+| Aclaraciones | CO1.MSG.8058842 | Observaciones SETCO SAS | 19/Jun/2025 - 02:41 pm |  | - |
+| Aclaraciones | CO1.MSG.8053358 | Solicitud Ampliación de Plazos | 18/Jun/2025 - 04:40 pm |  | - |

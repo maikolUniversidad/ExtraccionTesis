@@ -1,0 +1,270 @@
+Title: Licitaciones - MINCULTURA - Contratación mínima cuantía MC-SMC-0005-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682689306670b9.20288322
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-30 08:37:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar los servicios de envío de correo masivo (mailing) y envío de mensajes cortos (sms) para el Ministerio de las Culturas las Artes y los Saberes.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161601 - Servicio de administración de mensajería instantánea
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Envíos masivos de mensajes de texto y correos electrónicos", "licicodigos": "488" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 8 # 8 -55 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+195 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81161601 | 10-0-59-98-Contratar los servicios de envío de correo masivo (mailing) y envío de mensajes cortos (sms) para el Ministerio de las Culturas las Artes y los Saberes | Mínima cuantía | Presupuesto de entidad nacional | $15.000.007 | GRUPO DE CONTRATOS Y CONVENIOS |
+| 81161601 | 2-0-247-65-Contratar los servicios de envío de correo masivo (mailing) y envío de mensajes cortos (sms) para el Ministerio de las Culturas las Artes y los Saberes | Mínima cuantía | Presupuesto de entidad nacional | $20.075.472 | GRUPO DE CONTRATOS Y CONVENIOS |
+| 81161601 | 2-0-A-03-03-01-999-65-Contratar los servicios de envío de correo masivo (mailing) y envío de mensajes cortos (sms) para el Ministerio de las Culturas las Artes y los Saberes | Mínima cuantía | Presupuesto de entidad nacional | $20.075.472 | GRUPO DE CONTRATOS Y CONVENIOS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 06:46 pm
+
+**Publicación de estudios previos:**
+
+15/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+15/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+16/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+19/May/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+22/May/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 09:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/May/2025 - 11:59 pm | 30/Jun/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CREAR IMAGEN S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 10,275,300
+
+**Informes proceso de selección CO1.AWD.2260755 de 28/May/2025 - 09:18 am. Valor $10.275.300**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 05:23 pm |  |
+| Informe de evaluación | 23/May/2025 - 05:23 pm |  |
+| Informe de evaluación | 27/May/2025 - 07:00 pm |  |
+| Informe de evaluación | 27/May/2025 - 07:00 pm |  |
+| Informe de selección | 28/May/2025 - 09:18 am |  |
+| Informe de selección | 28/May/2025 - 09:18 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260755**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CREAR IMAGEN DISEÑO WEB Y MULTIMEDIA S.A.S * **Tipo documento:** NIT * **Documento:** 900457310 | * **Nombre:** NEFTALI ARANGO ANGEL * **Tipo documento:** NIT * **Documento:** 80735933 | - Distrito Capital de Bogotá | $10.275.300 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260755****
+
+**ID del contrato en SECOP:**
+
+1604-2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 10,275,300
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260755 | Informe de selección CO1.AWD.2260755 | 28/May/2025 - 09:18 am |  | - |
+| Reporte preliminar | CO1.AWD.2260755 | Informe de evaluación 2 CO1.AWD.2260755 | 27/May/2025 - 07:00 pm |  | - |
+| General | CO1.MSG.7940653 | CARTA DE SUBSANACION Y SOPORTES | 26/May/2025 - 09:35 pm |  | - |
+| Avisos | CO1.MSG.7939338 | Publicación de la lista de ofertas del proceso MC-SMC-0005-2025. | 26/May/2025 - 05:18 pm |  | - |
+| General | CO1.MSG.7937877 | Designación comité Evaluador | 26/May/2025 - 03:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260755 | Informe de evaluación 1 CO1.AWD.2260755 | 23/May/2025 - 05:23 pm |  | - |
+| Avisos | CO1.MSG.7920004 | La lista de oferentes del proceso MC-SMC-0005-2025 publicada por MINCULTURA | 22/May/2025 - 08:29 am |  | - |
+| Avisos | CO1.REQ.8261311 | Publicación modificación | 20/May/2025 - 05:15 pm |  |  |
+| Aclaraciones | CO1.MSG.7905060 | RE: observaciones, EXIGIR CERTIFICADO DE DERECHOS DE AUTOR | 19/May/2025 - 07:31 pm |  | - |
+| Avisos | CO1.REQ.8261311 | Publicación modificación | 19/May/2025 - 06:24 pm |  |  |
+| General | CO1.MSG.7899395 | RESPUESTA A SOLICITUDES LIMITACIÓN MIPYMES - MC-SMC-0005-2025 | 19/May/2025 - 08:56 am |  | - |
+| Aclaraciones | CO1.MSG.7894418 | observaciones | 16/May/2025 - 08:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7892618 | EXIGIR CERTIFICADO DE DERECHOS DE AUTOR | 16/May/2025 - 09:42 am |  | - |

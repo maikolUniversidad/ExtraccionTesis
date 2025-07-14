@@ -1,0 +1,178 @@
+Title: Licitaciones - COMANDO DE RECLUTAMIENTO Y CONTROL RESERVAS DEL EJERCITO NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685445cae002e7.65130482
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 16:07:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO INTEGRAL A TODO COSTO PARA LAS IMPRESORAS FARGO MODELO DTC 4500e, PERTENECIENTES AL COMANDO DE RECLUTAMIENTO Y CONTROL RESERVAS LAS CUALES FUNCIONAN EN LOS DISTRITOS MILITARES Y ZONAS DE RECLUTAMIENTO A NIVEL NACIONAL, A EJECUTAR EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas ; Antioquia ; Arauca ; Atlántico ; Bolívar ; Boyacá ; Caldas ; Caquetá ; Casanare ; Cauca ; Cesar ; Chocó ; Córdoba ; Cundinamarca ; Guainía ; Guaviare ; Huila ; La Guajira ; Magdalena ; Meta ; Nariño ; Norte de Santander ; Putumayo ; Quindío ; Risaralda ; San Andrés, Providencia y Santa Catalina ; Santander ; Sucre ; Tolima ; Valle del Cauca ; Vaupés ; Vichada
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Colombia: Todo el pais
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112306 | MANTENIEMIENTO IMPRESORAS FARGO | Mínima cuantía | Recursos propios | $130.000.000 | Contratación COREC |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 12:06 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 12:06 pm
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 12:06 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+20/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 12:02 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 12:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 12:00 pm | 31/Mar/2026 - 12:00 pm |
+| Calidad del servicio | 20,00 | 27/Jun/2025 - 12:00 pm | 31/Mar/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 27/Jun/2025 - 12:00 pm | 31/Mar/2026 - 12:00 pm |

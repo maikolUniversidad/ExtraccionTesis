@@ -1,0 +1,211 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL DE DEPORTE Y RECREACION DE JAMUNDI IMDERE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685475d3644af9.75098992
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 18:36:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUIRIR A TÍTULO DE COMPRAVENTA UN COMPUTADOR Y LICENCIAS SOFTWARE SEGÚN ESPECIFICACIONES TÉCNICAS PARA EL INSTITUTO MUNICIPAL DE DEPORTE Y RECREACIÓN DE JAMUNDÍ IMDERE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Jamundí
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43231513 - Software para oficinas,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,43211503 - Computadores notebook
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suministro equipos de cómputo", "licicodigos": "103,104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+KM 2 VIA CHIPAYA Jamundí Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211501, 43211502, 43211507, 43211508, 81112500 | ADQUIRIR A TÍTULO DE COMPRAVENTA UN COMPUTADOR Y LICENCIAS SOFTWARE SEGÚN ESPECIFICACIONES TÉCNICAS PARA EL INSTITUTO MUNICIPAL DE DEPORTE Y RECREACIÓN DE JAMUNDÍ IMDERE | Mínima cuantía | Recursos propios | $8.000.000 | INSTITUTO MUNICIPAL DE DEPORTE Y RECREACION DE JAMUNDI "IMDERE" |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 03:33 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 03:35 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 03:35 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 03:35 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 03:35 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+25/Jun/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+25/Jun/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+25/Jun/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 08:00 am | 31/Ene/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 08:00 am | 31/Ene/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Objeciones | CO1.MSG.8089788 | Objetar evaluación | 26/Jun/2025 - 05:49 pm |  | - |
+| Objeciones | CO1.MSG.8088906 | OBSERVACION INFORME DE EVALUACION | 26/Jun/2025 - 04:36 pm |  | - |
+| Objeciones | CO1.MSG.8088265 | objecion informe de evaluacion | 26/Jun/2025 - 03:48 pm |  | - |
+| Avisos | CO1.MSG.8088008 | Publicación de la lista de ofertas del proceso MC-004-2025. | 26/Jun/2025 - 03:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292137 | Informe de evaluación 1 CO1.AWD.2292137 | 26/Jun/2025 - 03:22 pm |  | - |
+| General | CO1.MSG.8086268 | RE: Solicitud de subsanación y requerimiento por precio artificialmente bajo | 26/Jun/2025 - 11:39 am |  | - |
+| General | CO1.MSG.8085557 | RE: Solicitud de subsanación y requerimiento por precio artificialmente bajo | 26/Jun/2025 - 10:33 am |  | - |
+| General | CO1.MSG.8085013 | RE: Solicitud Aclaración | 26/Jun/2025 - 09:47 am |  | - |
+| General | CO1.MSG.8084215 | Solicitud de subsanación y requerimiento por precio artificialmente bajo | 26/Jun/2025 - 08:16 am |  | - |
+| Avisos | CO1.MSG.8080094 | La lista de oferentes del proceso MC-004-2025 publicada por INSTITUTO MUNICIPAL DE DEPORTE Y RECREACION DE JAMUNDI IMDERE | 25/Jun/2025 - 02:13 pm |  | - |
+| General | CO1.MSG.8072956 | AVISO DE LIMITACIÓN A MIPYME NACIONAL | 24/Jun/2025 - 02:20 pm |  | - |
+| General | CO1.MSG.8072942 | RESPUESTA A OBSERVACIONES | 24/Jun/2025 - 02:19 pm |  | - |
+| Aclaraciones | CO1.MSG.8060869 | OBSERVACION PROCESO | 19/Jun/2025 - 05:06 pm |  | - |

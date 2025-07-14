@@ -1,0 +1,195 @@
+Title: Licitaciones - DEPARTAMENTO DEL ATLANTICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682794f5b4c228.29845059
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-21 15:34:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+AUNAR ESFUERZOS TÉCNICOS, FINANCIEROS Y ADMINISTRATIVOS CON EL OBJETIVO DE FOMENTAR EL USO Y LA APROPIACIÓN DE LAS TIC,CONTRIBUYENDO AL FORTALECIMIENTO DE LA POLÍTICA DE GOBIERNO DIGITAL EN EL DEPARTAMENTO DEL ATLÁNTICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Atlántico
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101600 - Gerencia de proyectos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Capacitación en tecnologías de la información y telecomunicaciones, -Seguridad informática, -Asesorías en el sector TIC", "licicodigos": "117,158,297,781" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Atlántico
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/May/2025 - 02:22 pm
+
+**Fecha límite de presentación de ofertas:**
+
+16/May/2025 - 05:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+16/May/2025 - 05:05 pm
+
+**Fecha de Firma del Contrato:**
+
+19/May/2025 - 01:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+21/May/2025 - 01:00 pm
+
+**Plazo de ejecución del contrato:**
+
+22/Sep/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 16/May/2025 - 03:25 pm | * **Nombre:** FUNDACION PARA EL FORTALECIMIENTO SOCIOECONOMICO DE COLOMBIA | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,000,000,000
+
+**Informes proceso de selección CO1.AWD.2254089 de 16/May/2025 - 05:37 am. Valor $1.000.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de selección | 16/May/2025 - 05:37 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2254089**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** FUNDACION PARA EL FORTALECIMIENTO SOCIOECONOMICO DE COLOMBIA * **Tipo documento:** NIT * **Documento:** 9018897896 | * **Nombre:** Consuegra Cassiani Alberto Mario * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 72278038 | Barranquilla - Atlántico | $1.000.000.000 | - |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2254089****
+
+**ID del contrato en SECOP:**
+
+202501759
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+16/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 1,000,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2254089 | Informe de selección CO1.AWD.2254089 | 16/May/2025 - 05:37 pm |  | - |
+| Avisos | CO1.MSG.7896802 | Publicación de la lista de ofertas del proceso RE-0040-2025. | 16/May/2025 - 05:12 pm |  | - |
+| Avisos | CO1.MSG.7896796 | La lista de oferentes del proceso RE-0040-2025 publicada por DEPARTAMENTO DEL ATLANTICO | 16/May/2025 - 05:11 pm |  | - |

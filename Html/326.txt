@@ -1,0 +1,225 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685489eb39d286.83497558
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:51:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN, INSTALACION, IMPLEMENTACIÓN, CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO A TODO COSTO DE UNA ANTENA SATELITAL INFORMACIÓN PÚBLICA RESERVADA PARA LA PATRULLERA OCEÁNICA POC DE LA ARC.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222600 - Equipo de servicio de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Repuestos para lanchas, barcos, motores fuera de borda (suministro)", "licicodigos": "100,605" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+BASE NAVAL No. 6 ARC BOGOTA CRA 65 #14-91 ZONA INDUSTRIAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222600, 72151600 | ADQUISICIÓN, INSTALACIÓN, IMPLEMENTACIÓN, CONFIGURACIÓN Y PUESTA EN FUNCIONAMIENTO A TODO COSTO DE UNA ANTENA SATELITAL ITELLIAN FB500 PARA LA PATRULLERA OCEÁNICA POC DE LA ARMADA NACIONAL DE COLOMBIA | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $200.000.000 | DITIC |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/Jun/2025 - 04:56 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+03/Jul/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/Jul/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+07/Jul/2025 - 08:06 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+07/Jul/2025 - 09:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+07/Jul/2025 - 09:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+07/Jul/2025 - 09:00 pm
+
+**Plazo para manifestación de interés:**
+
+10/Jul/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+18/Jul/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/Jul/2025 - 03:00 pm
+
+**Apertura de Ofertas:**
+
+22/Jul/2025 - 03:02 pm
+
+**Informe de presentación de Ofertas:**
+
+22/Jul/2025 - 03:04 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jul/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Jul/2025 - 07:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+31/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+04/Ago/2025 - 07:01 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Ago/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+06/Ago/2025 - 07:01 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Ago/2025 - 07:01 pm | 15/Ago/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Ago/2025 - 07:01 pm | 15/Dic/2028 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 04/Ago/2025 - 07:01 pm | 15/Dic/2027 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8157949 | AVISO ENTREGA DOCUMENTACION RESERVADA | 11/Jul/2025 - 03:51 pm |  | - |
+| General | CO1.MSG.8135079 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 08/Jul/2025 - 02:39 pm |  | - |

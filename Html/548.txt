@@ -1,0 +1,248 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827548456a057.12151481
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 06:51:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+REQUIERE CONTRATAR LA ADQUISICIÓN DE EQUIPOS COMPUTADORES PORTÁTILES DE ALTA DISPONIBILIDAD, DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS RESERVADAS INCLUIDAS EN EL ANEXO TÉCNICO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211502 - Servidores de computador de gama alta
+
+**Códigos adicionales UNSPSC:**
+
+43201800 - Dispositivos de almacenamiento
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211502 | ADQUISICIÓN EQUIPOS COMPUTADORES PORTATILES DE ALTA DISPONIBILIDAD | Mínima cuantía | Presupuesto de entidad nacional | $85.402.790 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 09:45 am
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+16/May/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+20/May/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+20/May/2025 - 10:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+20/May/2025 - 10:00 am
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jun/2025 - 07:00 am | 31/Jul/2025 - 07:00 pm |
+| Pago de salarios | 5,00 | 04/Jun/2025 - 07:00 am | 31/Jul/2028 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 04/Jun/2025 - 07:00 am | 31/Jul/2027 - 07:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** YANCRED | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 80,000,000
+
+**Informes proceso de selección CO1.AWD.2266166 de 05/Jun/2025 - 06:23 am. Valor $80.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 05:56 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:56 pm |  |
+| Informe de evaluación | 29/May/2025 - 05:56 pm |  |
+| Informe de evaluación | 03/Jun/2025 - 05:40 pm |  |
+| Informe de selección | 05/Jun/2025 - 06:23 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266166**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** YANCRED TECHNOLOGY SAS * **Tipo documento:** NIT * **Documento:** 901415822 | * **Nombre:** WILLIAM ANDRES MARIN GOMEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 15459607 | Bogotá - Distrito Capital de Bogotá | $80.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266166****
+
+**Cuantía a la firma del contrato:**
+
+$ 80,000,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266166 | Informe de selección CO1.AWD.2266166 | 05/Jun/2025 - 06:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266166 | Informe de evaluación 2 CO1.AWD.2266166 | 03/Jun/2025 - 05:40 pm |  | - |
+| General | CO1.MSG.7966252 | RE: SUBSANACIÓN EVALUACIÓN TÉCNICA | 30/May/2025 - 02:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266166 | Informe de evaluación 1 CO1.AWD.2266166 | 29/May/2025 - 05:55 pm |  | - |
+| Avisos | CO1.MSG.7960814 | Publicación de la lista de ofertas del proceso 204 COGFM DIADF 2025. | 29/May/2025 - 04:18 pm |  | - |
+| Avisos | CO1.MSG.7960800 | La lista de oferentes del proceso 204 COGFM DIADF 2025 publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 29/May/2025 - 04:17 pm |  | - |
+| General | CO1.MSG.7910320 | AVISO CONVOCATORIA NO LIMITA A MIPYMES | 20/May/2025 - 04:32 pm |  | - |
+| General | CO1.MSG.7910289 | RE: SOLICITUD MIPYME TERRITORIAL Bogotá D.C. | 20/May/2025 - 04:32 pm |  | - |
+| Aclaraciones | CO1.MSG.7910174 | RE: OBSERVACIONES, FINANCIERAS | 20/May/2025 - 04:21 pm |  | - |
+| General | CO1.MSG.7904795 | RE: Solicitud especificaciones técnicas | 19/May/2025 - 06:33 pm |  | - |
+| General | CO1.MSG.7902281 | AVISO | 19/May/2025 - 03:01 pm |  | - |
+| General | CO1.MSG.7902263 | RE: SOLICITUD DE ESPECIFICACIONES TECNICAS | 19/May/2025 - 02:55 pm |  | - |
+| General | CO1.MSG.7902251 | RE: Anexo Tecnico | 19/May/2025 - 02:53 pm |  | - |
+| General | CO1.MSG.7902211 | RE: ANEXO FALTANTE | 19/May/2025 - 02:53 pm |  | - |
+| General | CO1.MSG.7902192 | RE: OBSERVACION ANEXO TECNICO | 19/May/2025 - 02:49 pm |  | - |
+| General | CO1.MSG.7902166 | RE: SOLICITUD | 19/May/2025 - 02:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7894633 | OBSERVACIONES, FINANCIERAS | 16/May/2025 - 01:57 pm |  | - |

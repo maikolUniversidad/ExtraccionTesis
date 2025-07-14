@@ -1,0 +1,202 @@
+Title: Licitaciones - Rama Judicial – Dirección Seccional de Administración Judicial de Montería
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685329bb063c06.69048222
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 10:12:42
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR EN NOMBRE DE LA NACIÓN - CONSEJO SUPERIOR DE LA JUDICATURA - DIRECCIÓN EJECUTIVA SECCIONAL DE ADMINISTRACIÓN JUDICIAL DE MONTERÍA MANTENIMIENTO PREVENTIVO Y CORRECTIVO, (INCLUYE LA INSTALACIÓN DE SOFTWARE EN SITIO) EN EQUIPOS DE COMPUTO, DESTINADOS AL USO DE LOS JUDICANTES Y PRACTICANTES Y OTROS, QUE SE ENCUENTRAN VINCULADOS A LOS DESPACHOS JUDICIALES Y DEPENDENCIAS ADMINISTRATIVAS DE LA RAMA JUDICIAL EN EL DEPARTAMENTO DE CÓRDOBA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Córdoba : Montería
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 27 No.2-06 PALACIO DE JUSTICIA DE MONTERÍA, CÓRDOBA Montería Córdoba COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 03:46 pm
+
+**Publicación de estudios previos:**
+
+18/Jun/2025 - 03:48 pm
+
+**Publicación de la invitación:**
+
+18/Jun/2025 - 03:48 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/Jun/2025 - 03:46 am
+
+**Plazo para recepción de observaciones:**
+
+19/Jun/2025 - 03:46 am
+
+**Respuesta a las observaciones a la invitación:**
+
+19/Jun/2025 - 03:50 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+19/Jun/2025 - 03:51 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 04:05 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 03:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+01/Jul/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 09:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 09:05 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 08:00 am | 28/Feb/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 01/Jul/2025 - 08:00 am | 01/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 01/Jul/2025 - 08:00 am | 31/Mar/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8067077 | La lista de oferentes del proceso MC031 DE 2025 publicada por Rama Judicial – Dirección Seccional de Administración Judicial de Montería | 20/Jun/2025 - 04:23 pm |  | - |
+| General | CO1.MSG.8060037 | PUBLICACION AVISO LIMITACIÓN PROCESO A MIPYMES TERRITORIAL | 19/Jun/2025 - 03:58 pm |  | - |
+| General | CO1.MSG.8060021 | RE: RESPUESTA A Solicitud limitación a Mipymes | 19/Jun/2025 - 03:56 pm |  | - |
+| General | CO1.MSG.8060014 | RE: RESPUESTA LIMITACION A MI PYME | 19/Jun/2025 - 03:55 pm |  | - |
+| General | CO1.MSG.8060000 | RE: respuesta a solicitud limitación proceso Mi Pyme | 19/Jun/2025 - 03:55 pm |  | - |
+| Avisos | CO1.REQ.8435063 | Publicación modificación | 19/Jun/2025 - 03:53 pm |  |  |
+| Avisos | CO1.REQ.8435063 | Publicación modificación | 19/Jun/2025 - 11:33 am |  |  |

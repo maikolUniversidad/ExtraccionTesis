@@ -1,0 +1,219 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA CESAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680c08b5aee080.65247878
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:45:28
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE ACCESORIOS PARA LOS RADIOS PORTÁTILES DE LA POLICÍA METROPOLITANA DE VALLEDUPAR COMPUESTOS POR SESENTA (60) BATERÍAS PARA EL MODELO APX 8000, VEINTIDÓS (22) BATERÍAS PARA EL MODELO XTS 2250, VEINTICINCO (25) ANTENAS PARA EL MODELO XTS 2250 Y CUATRO (04) CARGADORES INDIVIDUALES PARA EL MODELO APX 8000
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Valledupar
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26111700 - Baterías, pilas y accesorios
+
+**Códigos adicionales UNSPSC:**
+
+43221700 - Equipo fijo de red y componentes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+carrera 7 No. 23-96 Valledupar Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43221706 | Adquisición de antenas de radio XTS 2250 para la policía metropolitana de Valledupar | Mínima cuantía | Recursos propios | $4.290.000 | DEPARTAMENTO DE POLICIA CESAR |
+| 26111700 | Adquisición de baterías para radios de litio xts 2250, para el servicio MEVAP | Mínima cuantía | Recursos propios | $16.000.000 | DEPARTAMENTO DE POLICIA CESAR |
+| 26111700 | Adquisición de baterías para radios portátiles apx 5000 y apx 8000, para el servicio de MEVAP | Mínima cuantía | Recursos propios | $60.000.000 | DEPARTAMENTO DE POLICIA CESAR |
+| 26111704 | Adquisición de cargadores de baterías para los radios APX 8000 MEVAP | Mínima cuantía | Recursos propios | $4.381.268 | DEPARTAMENTO DE POLICIA CESAR |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 04:48 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+05/May/2025 - 04:02 pm
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 04:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/May/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 14/May/2025 - 07:00 pm | 14/Dic/2025 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 14/May/2025 - 07:00 pm | 14/Ene/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7934665 | ACTO ADMINISTRATIVO DE DECLARATORIA DESIERTO | 26/May/2025 - 09:13 am |  | - |
+| Reporte preliminar | CO1.AWD.2246391 | Informe de evaluación 2 CO1.AWD.2246391 | 23/May/2025 - 06:28 pm |  | - |
+| General | CO1.MSG.7904851 | RE: observacion | 19/May/2025 - 06:40 pm |  | - |
+| Objeciones | CO1.MSG.7862478 | observaciones al informe inicial de evaluación del proceso PN DECES MIC 011 2025 | 09/May/2025 - 05:53 pm |  | - |
+| General | CO1.MSG.7856817 | RE: Publicacion documentos oferta - principio de publicidad | 08/May/2025 - 08:09 pm |  | - |
+| General | CO1.MSG.7856812 | RE: Solicitud publicar ofertas | 08/May/2025 - 08:08 pm |  | - |
+| Avisos | CO1.MSG.7856809 | Notification of Bids list publication of request PN DECES MIC 011 2025. | 08/May/2025 - 08:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2246391 | Informe de evaluación 1 CO1.AWD.2246391 | 08/May/2025 - 05:43 pm |  | - |
+| Avisos | CO1.MSG.7835557 | Bidders List was made available by DEPARTAMENTO DE POLICIA CESAR for request PN DECES MIC 011 2025. | 05/May/2025 - 05:29 pm |  | - |
+| Avisos | CO1.REQ.8167489 | A new request amendment was published | 02/May/2025 - 10:25 am |  |  |
+| General | CO1.MSG.7823990 | ADENDA No. 1 | 02/May/2025 - 09:03 am |  | - |
+| General | CO1.MSG.7823969 | RESPUESTA A OBSERVACIONES | 02/May/2025 - 09:00 am |  | - |
+| General | CO1.MSG.7823216 | RE: Observaciones No2 - INTELCO COLOMBIA SAS | 01/May/2025 - 04:14 pm |  | - |
+| General | CO1.MSG.7822932 | RE: OBSERVACION ESTAMPILLAS | 01/May/2025 - 08:44 am |  | - |
+| General | CO1.MSG.7817493 | Respuesta limitación a MIPYMES | 30/Abr/2025 - 09:51 am |  | - |
+| General | CO1.MSG.7807677 | INVITACION EDITABLE | 28/Abr/2025 - 04:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7804801 | Certificación Mipyme y solicitud de limitar convocatoria a Mipymes del orden nacional | 28/Abr/2025 - 09:43 am |  | - |
+| General | CO1.MSG.7803486 | RE: SOLICITUD LIMITACION MIPYME Y DOCUMENTOS ANEXOS EDITABLES | 27/Abr/2025 - 08:53 am |  | - |

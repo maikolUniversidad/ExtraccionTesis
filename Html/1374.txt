@@ -1,0 +1,77 @@
+Title: Licitaciones - ESTABLECIMIENTO PENITENCIARIO DE MEDIANA SEGURIDAD Y CARCELARIO DE SAN VICENTE DE CHUCURI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a69000ca321.54022978
+
+Markdown Content:
+**Objeto de la firma del contrato:**
+
+CONTRATAR LA ADQUISICIÓN DE PRODUCTOS DE PAPELERÍA Y ÚTILES DE ESCRITORIO Y OFICINA E INSUMOS DE ASEO Y EMBELLECIMIENTO PARA EL ÁREA ADMINISTRATIVA DE LA CÁRCEL Y PENITENCIARIA DE MEDIA SEGURIDAD SAN VICENTE DE CHUCURI INPEC
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 14111506 | resma de papel tamaño carta 21,6 x27,9 cm x 500 hojas | 1,00 | UN | 17.360,00 | 17.300,00 | 17.360,00 | 17.300,00 |
+| 2 | 14111506 | resma de papel tamaño oficio 21,6 x 33 cm x 500 hojas | 40,00 | UN | 22.160,00 | 22.000,00 | 22.160,00 | 880.000,00 |
+| 3 | 44122003 | carpeta archivo 2 tapas tamaño oficio color café | 30,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 72.000,00 |
+| 4 | 44121503 | sobre manila tamaño oficio | 100,00 | UN | 240,00 | 240,00 | 240,00 | 24.000,00 |
+| 5 | 44121503 | sobre manila tamaño extra oficio | 100,00 | UN | 272,00 | 270,00 | 272,00 | 27.000,00 |
+| 6 | 14111530 | banderitas adhesivas x 100 colores surtidos | 10,00 | UN | 2.880,00 | 2.800,00 | 2.880,00 | 28.000,00 |
+| 7 | 14111530 | post-it 75 x 75 cubo x 5 colores 500 hojas | 10,00 | UN | 10.880,00 | 9.000,00 | 10.880,00 | 90.000,00 |
+| 8 | 14111531 | papel Kimberly blanco granito x 25 hojas | 1,00 | UN | 20.000,00 | 12.000,00 | 20.000,00 | 12.000,00 |
+| 9 | 14111514 | agenda ejecutiva clásica permanente | 5,00 | UN | 23.200,00 | 18.000,00 | 23.200,00 | 90.000,00 |
+| 10 | 14121503 | cartón paja 1/8 x unidad | 10,00 | UN | 640,00 | 640,00 | 640,00 | 6.400,00 |
+| 11 | 30266403 | foamy 1/8 liso paquete 10 unidades | 5,00 | UN | 6.080,00 | 5.800,00 | 6.080,00 | 29.000,00 |
+| 12 | 14111519 | papel opalina blanco oficio x 100 unidades | 1,00 | UN | 32.000,00 | 22.000,00 | 32.000,00 | 22.000,00 |
+| 13 | 60121104 | papel bond pliego color blanco | 12,00 | UN | 560,00 | 560,00 | 560,00 | 6.720,00 |
+| 14 | 60121120 | papel adhsesivo tamaño oficio | 11,00 | UN | 400,00 | 400,00 | 400,00 | 4.400,00 |
+| 15 | 14111519 | cartulina escolar colores surtidos pliego | 20,00 | UN | 800,00 | 800,00 | 800,00 | 16.000,00 |
+| 16 | 14111519 | cartulina color blanco en tamaño 20x20 | 20,00 | UN | 400,00 | 400,00 | 400,00 | 8.000,00 |
+| 17 | 60121116 | papel crepé plegable de colores | 20,00 | UN | 640,00 | 640,00 | 640,00 | 12.800,00 |
+| 18 | 14111525 | minutas (libro de actas 100 hojas rayado 200 folios pasta dura | 2,00 | UN | 12.480,00 | 12.400,00 | 12.480,00 | 24.800,00 |
+| 19 | 60105704 | Colbon liquido X 125 grs | 9,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 21.600,00 |
+| 20 | 60105704 | Pegante en barra 20 gr | 8,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 19.200,00 |
+| 21 | 60105704 | Silicona liquida x 100 ml | 6,00 | UN | 4.800,00 | 4.800,00 | 4.800,00 | 28.800,00 |
+| 22 | 46181504 | Guantes domésticos de aseo TALLA, M,L XL par | 8,00 | UN | 10.560,00 | 9.000,00 | 10.560,00 | 72.000,00 |
+| 23 | 47131618 | Trapero microfibra | 4,00 | UN | 35.200,00 | 18.000,00 | 35.200,00 | 72.000,00 |
+| 24 | 10316603 | Escoba estándar cerdas de PET extra suaves, x unidad | 4,00 | UN | 27.200,00 | 14.000,00 | 27.200,00 | 56.000,00 |
+| 25 | 47131803 | Limpiador desinfectante - Hipoclorito x galón | 20,00 | UN | 35.200,00 | 25.000,00 | 35.200,00 | 500.000,00 |
+| 26 | 47131803 | Aromatizante x galón | 15,00 | UN | 28.800,00 | 26.000,00 | 28.800,00 | 390.000,00 |
+| 27 | 53131608 | Jabón líquido para manos Antibacterial con glicerina dispensador x 500 ml | 14,00 | UN | 10.880,00 | 9.000,00 | 10.880,00 | 126.000,00 |
+| 28 | 12161902 | Detergente polvo Multiusos 3D 3000 gr | 20,00 | UN | 29.600,00 | 29.500,00 | 29.600,00 | 590.000,00 |
+| 29 | 47131706 | Repuesto para Ambientador Eléctrico glade hawaiian breeze x 3 unidades 21 ml | 16,00 | UN | 40.000,00 | 30.000,00 | 40.000,00 | 480.000,00 |
+| 30 | 47131706 | Ambientador Eléctrico Glade Aceite + Repuesto | 18,00 | UN | 48.000,00 | 34.000,00 | 48.000,00 | 612.000,00 |
+| 31 | 47131706 | Ambientador spray 400 ml surtido x 3 unidades bonaire | 9,00 | UN | 44.800,00 | 38.000,00 | 44.800,00 | 342.000,00 |
+| 32 | 47131611 | Recogedor de basura con mango; en pvc | 5,00 | UN | 14.400,00 | 8.000,00 | 14.400,00 | 40.000,00 |
+| 33 | 14111704 | Papel Higiénico Elite DUO triple hoja x unidad | 34,00 | UN | 2.880,00 | 2.800,00 | 2.880,00 | 95.200,00 |
+| 34 | 47131807 | Ácido Muriático 400 ML | 3,00 | UN | 7.200,00 | 7.000,00 | 7.200,00 | 21.000,00 |
+| 35 | 47121701 | Bolsas de basura negra 50x70x10 unid | 30,00 | UN | 7.200,00 | 7.000,00 | 7.200,00 | 210.000,00 |
+| 36 | 42281604 | pastilla de cloro x 20 gr bolsa de 1 kg | 1,00 | UN | 55.840,00 | 28.000,00 | 55.840,00 | 28.000,00 |
+| 37 | 47131824 | Limpia vidrios máxima X 1000 ml | 5,00 | UN | 10.880,00 | 10.500,00 | 10.880,00 | 52.500,00 |
+| 38 | 48101903 | Vaso Plástico 7 Onzas X 50 unidades | 9,00 | UN | 3.920,00 | 3.920,00 | 3.920,00 | 35.280,00 |
+| 39 | 52152004 | Platos de Icopor Pequeños para Postre O torta X 20 und | 6,00 | UN | 6.080,00 | 6.080,00 | 6.080,00 | 36.480,00 |
+| 40 | 47131803 | Creolina x 850 ml | 4,00 | UN | 24.000,00 | 22.000,00 | 24.000,00 | 88.000,00 |
+| 41 | 47131803 | varsol biovarsol 850 ml | 4,00 | UN | 16.000,00 | 16.000,00 | 16.000,00 | 64.000,00 |
+| 42 | 12181502 | Cera para pisos brillo instantáneo / autobrillante x 1 litro | 8,00 | UN | 30.400,00 | 24.000,00 | 30.400,00 | 192.000,00 |
+| 43 | 31201512 | Cinta transparente de 48 X 100 mts | 8,00 | UN | 9.520,00 | 9.500,00 | 9.520,00 | 76.000,00 |
+| 44 | 31201512 | Cinta para toma de improntas 24X40 | 8,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 19.200,00 |
+| 45 | 31201512 | Cinta de Enmascarar ¾ pulgadas | 11,00 | UN | 6.080,00 | 6.000,00 | 6.080,00 | 66.000,00 |
+| 46 | 60121535 | Borrador miga pan caja X 20 | 1,00 | UN | 22.400,00 | 15.000,00 | 22.400,00 | 15.000,00 |
+| 47 | 44103120 | Tonner original impresora HP laserjet 1020 | 4,00 | UN | 368.000,00 | 220.000,00 | 368.000,00 | 880.000,00 |
+| 48 | 44103120 | Tonner original para impresora hp jaser jet pro mfp m127fn 83A | 8,00 | UN | 296.000,00 | 180.000,00 | 296.000,00 | 1.440.000,00 |
+| 49 | 27112309 | Marcador permanente fino x 12 unds colores surtidos | 24,00 | UN | 1.760,00 | 1.760,00 | 1.760,00 | 42.240,00 |
+| 50 | 27112309 | Marcador borrable. Tipo de punta. Biselada color negro | 28,00 | UN | 1.760,00 | 1.760,00 | 1.760,00 | 49.280,00 |
+| 51 | 44121805 | Corrector liquido por 9 ml punta extrafina x unidad | 24,00 | UN | 1.760,00 | 1.760,00 | 1.760,00 | 42.240,00 |
+| 52 | 44121717 | Resaltadores redondo surtidos punta bisel 3 tipos de trazo colores surtidos por unidad | 24,00 | UN | 1.600,00 | 1.600,00 | 1.600,00 | 38.400,00 |
+| 53 | 41111947 | Micropunta por 12 unidades minas 0.4 mm x caja | 3,00 | UN | 12.960,00 | 12.900,00 | 12.960,00 | 38.700,00 |
+| 54 | 41111947 | Caja x 12 bolígrafos semi gel tinta negra, cuerpo triangular punta en carburo de tungsteno, textura acanalada para mayor precisión. | 10,00 | UN | 7.680,00 | 7.680,00 | 7.680,00 | 76.800,00 |
+| 55 | 44122104 | Gancho presión doble clip metálico oficina 1 pulg. 24 mm x 12 und. | 4,00 | UN | 3.040,00 | 3.040,00 | 3.040,00 | 12.160,00 |
+| 56 | 23101505 | Perforadora 4505 2 huecos metálica grande capacidad 20 hojas | 3,00 | UN | 17.600,00 | 17.600,00 | 17.600,00 | 52.800,00 |
+| 57 | 44122104 | Gancho tipo clip pequeño * 100 unidades | 11,00 | UN | 960,00 | 960,00 | 960,00 | 10.560,00 |
+| 58 | 44121618 | Tijera oficina 7.5 pulgadas | 2,00 | UN | 4.800,00 | 4.800,00 | 4.800,00 | 9.600,00 |
+| 59 | 44121612 | Bisturí elaborado en plástico encauchetado grande, cuchilla 18mm | 2,00 | UN | 4.000,00 | 4.000,00 | 4.000,00 | 8.000,00 |
+| 60 | 31163211 | Gancho grapa galvanizado para grapadora estándar caja x 5000 unidades | 4,00 | UN | 4.160,00 | 4.160,00 | 4.160,00 | 16.640,00 |
+| 61 | 44121615 | Grapadora con estructura metálica para grapas 26/6, grapado abierto y cerrado, capacidad 30 hojas | 1,00 | UN | 14.720,00 | 14.000,00 | 14.720,00 | 14.000,00 |
+| 62 | 44121613 | Sacaganchos | 4,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 9.600,00 |
+| 63 | 32101601 | Memoria USB 4 GB | 3,00 | UN | 19.200,00 | 19.200,00 | 19.200,00 | 57.600,00 |
+| 64 | 44101809 | Calculadora 12 dígitos mx - 12b - bk x unidad | 2,00 | UN | 40.000,00 | 25.000,00 | 40.000,00 | 50.000,00 |
+| 65 | 43202205 | Teclado para computador, conector usb medidas modelo kb- 90 | 1,00 | UN | 56.000,00 | 40.000,00 | 56.000,00 | 40.000,00 |
+| 66 | 43201808 | CD¨S, DVD | 42,00 | UN | 2.400,00 | 2.400,00 | 2.400,00 | 100.800,00 |

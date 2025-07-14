@@ -1,0 +1,282 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683211acf09656.49809359
+
+Markdown Content:
+Licitaciones - INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON - Régimen Especial 4143.035.26.20-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-30 07:09:09
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Régimen Especial
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+COMPRA DE DOS COMPUTADORES PARA EL ADMINISTRATIVA DE LA I.E. T.C. HERNANDO NAVIA VARON
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Valle del Cauca: Santiago de Cali
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+25173303 - Sistemas de computador
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+Cra 26P 50-39 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+6 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 25173303 | COMPUTADORES | Contratación régimen especial (con ofertas) - Régimen especial | SGP | $5.000.000 | UNIDAD DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+24/May/2025 - 01:30 pm
+
+**Fecha límite de presentación de ofertas:**
+
+27/May/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+27/May/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CENTRO-NET SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 3,771,138
+
+**Informes proceso de selección CO1.AWD.2265716 de 29/May/2025 - 02:38 am. Valor $3.771.138**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 08:56 pm |  |
+| Informe de evaluación | 28/May/2025 - 08:56 pm |  |
+| Informe de selección | 29/May/2025 - 02:38 pm |  |
+| Informe de selección | 29/May/2025 - 02:38 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265716**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CENTRO-NET SAS * **Tipo documento:** NIT * **Documento:** 805020457 | * **Nombre:** DANIEL ANDRES BUENO SALAZAR * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 6105550 | Cali - Valle del Cauca | $3.771.138 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265716****
+
+**Contrato CO1.PCCNTR.7928383 de CENTRO-NET SAS:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7928383
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+COMPRA DE DOS COMPUTADORES PARA EL ADMINISTRATIVA DE LA I.E. T.C. HERNANDO NAVIA VARON
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 25173303 | COMPRA DE COMPUTADORES | 1,00 | UN | 5.000.000,00 | 3.771.138,00 | 5.000.000,00 | 3.771.138,00 |
+
+**Fecha inicio del contrato:**
+
+29/May/2025 - 05:02 pm
+
+**Fecha de terminación del contrato:**
+
+04/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución:**
+
+6 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 3,771,138
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ANEXO contrato regimen especial 4143.035.26.20-2025.pdf |  |
+|  | OC 28 COMPRA COMPUTADORES GRATUIDAD MAYO.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | acta de inicio 4143.035.26.20-2025 FIRMADA.pdf |  |
+|  | ANEXO contrato regimen especial 4143.035.26.20-2025.pdf |  |
+|  | OC 28 COMPRA COMPUTADORES GRATUIDAD MAYO.pdf |  |
+|  | SUPERVISOR 4143.035.26.20-2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265716 | Informe de selección CO1.AWD.2265716 | 29/May/2025 - 02:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265716 | Informe de evaluación 1 CO1.AWD.2265716 | 28/May/2025 - 08:56 pm |  | - |
+| Avisos | CO1.MSG.7945653 | La lista de oferentes del proceso 4143.035.26.20-2025 publicada por INSTITUCION EDUCATIVA TECNICO COMERCIAL HERNANDO NAVIA VARON | 27/May/2025 - 03:55 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 11:52 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

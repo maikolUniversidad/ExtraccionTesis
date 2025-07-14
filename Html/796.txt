@@ -1,0 +1,318 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE MANZANARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682f53c59521e3.42170256
+
+Markdown Content:
+Licitaciones - ALCALDIA MUNICIPIO DE MANZANARES - Contratación mínima cuantía IPMC-063-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-05 08:39:47
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+CONTRATAR EL SUMINISTRO DE EQUIPOS DE TECNOLOGÍA Y ELEMENTOS DE OFICINA PARA EL FUNCIONAMIENTO Y FORTALECIMIENTO DE LA DIRECCIÒN LOCAL DE SALUD PERMITIENDO MEJORAR LA CAPACIDAD DE RESPUESTA ADMINISTRATIVA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Caldas : Manzanares
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43211507 - Computadores de escritorio
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Papelería y elementos de oficina, -Mobiliario", "licicodigos": "104,127,128" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+carrera 4 calle 6 esquina Manzanares Caldas COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/May/2025 - 11:27 am
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 11:30 am
+
+**Publicación de la invitación:**
+
+22/May/2025 - 11:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 02:30 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 02:30 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 06:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 06:30 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 06:30 pm
+
+**Apertura de sobres:**
+
+26/May/2025 - 06:31 pm
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 06:32 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 02:30 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 02:30 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 06:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** JUAN CAMILO ARROYAVE GIRALDO | Salamina - Caldas |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 29,953,597
+
+**Informes proceso de selección CO1.AWD.2264140 de 28/May/2025 - 06:11 am. Valor $29.953.597**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 02:03 pm |  |
+| Informe de evaluación | 28/May/2025 - 04:16 pm |  |
+| Informe de selección | 28/May/2025 - 06:11 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264140**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** JUAN CAMILO ARROYAVE GIRALDO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 71311832 | * **Nombre:** JUAN CAMILO ARROYAVE GIRALDO * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 71311832 | Salamina - Caldas | $29.953.597 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264140****
+
+**Contrato IPMC-063-2025 de JUAN CAMILO ARROYAVE GIRALDO:**
+
+**ID del contrato en SECOP:**
+
+IPMC-063-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+CONTRATAR EL SUMINISTRO DE EQUIPOS DE TECNOLOGÍA Y ELEMENTOS DE OFICINA PARA EL FUNCIONAMIENTO Y FORTALECIMIENTO DE LA DIRECCIÒN LOCAL DE SALUD PERMITIENDO MEJORAR LA CAPACIDAD DE RESPUESTA ADMINISTRATIVA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43211500 | VALOR TOTAL OFERTA | 1,00 | VG | 39.758.572,00 | 29.953.597,00 | 39.758.572,00 | 29.953.597,00 |
+
+**Fecha inicio del contrato:**
+
+29/May/2025 - 08:00 am
+
+**Fecha de terminación del contrato:**
+
+07/Jun/2025 - 06:00 pm
+
+**Plazo de ejecución:**
+
+10 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 29,953,597
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | comunicaciones de aceptación IPMC -o63-2025-.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACTA DE INICIO IPMC 063-2025 (1).pdf |  |
+|  | RP ipmc 063-2025.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264140 | Informe de selección CO1.AWD.2264140 | 28/May/2025 - 06:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264140 | Informe de evaluación 2 CO1.AWD.2264140 | 28/May/2025 - 04:16 pm |  | - |
+| Objeciones | CO1.MSG.7951860 | [Respondido] RE:Objeta 2 | 28/May/2025 - 04:15 pm |  | - |
+| Objeciones | CO1.MSG.7951860 | Objeta 2 | 28/May/2025 - 02:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264140 | Informe de evaluación 1 CO1.AWD.2264140 | 27/May/2025 - 02:03 pm |  | - |
+| Avisos | CO1.MSG.7940094 | Publicación de la lista de ofertas del proceso IPMC-063-2025. | 26/May/2025 - 06:35 pm |  | - |
+| Avisos | CO1.MSG.7940068 | La lista de oferentes del proceso IPMC-063-2025 publicada por ALCALDIA MUNICIPIO DE MANZANARES | 26/May/2025 - 06:33 pm |  | - |
+| Avisos | CO1.REQ.8303931 | Publicación modificación | 23/May/2025 - 04:49 pm |  |  |
+| General | CO1.MSG.7931544 | AVISO LIMITACION MIPYMES DEPARTAMENTO DE CALDAS | 23/May/2025 - 04:48 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:29 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

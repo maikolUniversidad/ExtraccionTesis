@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL BOLIVAR Grupo de Apoyo Administrativo Mixto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c92b3a7cd78.87911672
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 07:58:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar la adquisición de materiales de formación para los aprendices de los programas pertenecientes a la red de tecnologías de la información: mantenimiento de equipo de cómputo y diseño e instalación de redes, gestión de redes de datos, análisis y desarrollo de sistemas de información, sistemas, programación de software, entre otros del Centro de Comercio y Servicios del Sena regional bolívar.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43201404 - Tarjetas de interface de red
+
+**Códigos adicionales UNSPSC:**
+
+43222609 - Enrutadores (routers) de red
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Dotación para seguridad industrial, -Inventarios (Suministro de insumos y/o servicio), -Acceso a internet, -Materiales para redes de comunicación, -Equipos de lectura de código de barras - inventarios, -Escaleras y andamios", "licicodigos": "104,126,271,285,438,444,469" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TERNERA KM 1 VIA A TURBACO CENTRO MULTISECTORIAL Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+180 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 03:59 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+18/Jun/2025 - 06:00 pm

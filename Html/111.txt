@@ -1,0 +1,260 @@
+Title: Licitaciones - SERVICIO GEOLOGICO COLOMBIANO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680981c77fc068.54088809
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 08:36:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUIRIR EQUIPOS Y SERVICIO DE INTERNET BANDA ANCHA SATELITAL DE ÓRBITA BAJA PARA LA DIRECCIÓN DE GEOAMENAZAS DEL SERVICIO GEOLÓGICO COLOMBIANO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112100 - Servicios de internet
+
+**Códigos adicionales UNSPSC:**
+
+43221700 - Equipo fijo de red y componentes,43222600 - Equipo de servicio de red,39121000 - Equipamiento para distribución y conversión de alimentación,83121700 - Servicios de comunicación masiva
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Acceso a internet, -Materiales para redes de comunicación", "licicodigos": "285,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+DIAGONAL 53 NO. 34-53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,000,526,614
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112100 | ADQUIRIR EQUIPOS Y SERVICIO DE INTERNET BANDA ANCHA SATELITAL DE ÓRBITA BAJA PARA LA DIRECCIÓN DE GEOAMENAZAS DEL SERVICIO GEOLÓGICO COLOMBIANO | Selección abreviada subasta inversa | Royalties | $422.307.469 | CONTRATOS Y CONVENIOS |
+| 81112100 | ADQUIRIR EQUIPOS Y SERVICIO DE INTERNET BANDA ANCHA SATELITAL DE ÓRBITA BAJA PARA LA DIRECCIÓN DE GEOAMENAZAS DEL SERVICIO GEOLÓGICO COLOMBIANO | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $578.219.145 | CONTRATOS Y CONVENIOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 06:57 pm
+
+**Publicación Estudios Previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/Abr/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:50 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+02/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+06/May/2025 - 10:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+13/May/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/May/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+20/May/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+20/May/2025 - 09:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+23/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+30/May/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+02/Jun/2025 - 12:59 pm
+
+**Firma del Contrato:**
+
+03/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 12:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+04/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/Jun/2025 - 11:59 pm | 02/Mar/2027 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jun/2025 - 11:59 pm | 02/Nov/2029 - 12:00 pm |
+| Calidad del servicio | 30,00 | 02/Jun/2025 - 11:59 pm | 02/Mar/2027 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 02/Jun/2025 - 11:59 pm | 02/Nov/2026 - 12:00 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+30/May/2025 - 12:00 pm
+
+**Fecha de inicio:**
+
+30/May/2025 - 03:00 pm
+
+**Fecha fin:**
+
+30/May/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8218946 | Publicación modificación | 13/May/2025 - 06:52 pm |  |  |
+| General | CO1.MSG.7877290 | RESPUESTA OBSERVACIONES PLIEGOS DEFINITIVOS | 13/May/2025 - 06:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7876940 | RE: Observaciones al Pliego de condiciones, Observaciones al Pliego de condiciones, OBSERVACIONES_SGC-SASI-003-2025 - UNE EPM TELECOMUNICACIONES S.A. | 13/May/2025 - 06:04 pm |  | - |
+| Avisos | CO1.REQ.8218946 | Publicación modificación | 12/May/2025 - 05:30 pm |  |  |
+| Aclaraciones | CO1.MSG.7856351 | Observaciones al Pliego de condiciones | 08/May/2025 - 06:15 pm |  | - |
+| Aclaraciones | CO1.MSG.7856178 | Observaciones al Pliego de condiciones | 08/May/2025 - 05:54 pm |  | - |
+| Aclaraciones | CO1.MSG.7850361 | OBSERVACIONES_SGC-SASI-003-2025 - UNE EPM TELECOMUNICACIONES S.A. | 08/May/2025 - 08:20 am |  | - |
+| Aclaraciones | CO1.MSG.7806822 | Observaciones al pliego de condiciones | 28/Abr/2025 - 02:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7791089 | Observaciones proyecto de pliego de condiciones | 24/Abr/2025 - 09:15 am |  | - |

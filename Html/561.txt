@@ -1,0 +1,356 @@
+Title: Licitaciones - DIRECCION NACIONAL DE INTELIGENCIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827ccf75a1a63.90867675
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:37:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro de elementos de papelería, útiles de escritorio e insumos para impresión y fotocopiado de acuerdo con lo contemplado en las Especificaciones Técnicas Mínimas de Obligatorio Cumplimiento y Ficha Técnica, de conformidad con los siguientes lotes: Lote No. 1 Suministro de elementos de papelería útiles de escritorio - Lote No. 2 Suministro de insumos para impresión y fotocopiado
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111507 - Papel para impresora o fotocopiadora
+
+**Códigos adicionales UNSPSC:**
+
+44121619 - Tajalápices manuales,44122003 - Carpetas,44121700 - Instrumentos de escritura,44103103 - Tóner para impresoras o fax,44103105 - Cartuchos de tinta,44103116 - Kit para impresora
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 26ª numero 13 – 97 oficina 2503 – Edificio Bulevar Tequendama Bogotá, D.C Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 06:34 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/May/2025 - 04:02 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 04:45 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/May/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+03/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+03/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 02:50 pm
+
+**Plazo máximo para expedir adendas:**
+
+05/Jun/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+06/Jun/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+06/Jun/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+09/Jun/2025 - 05:00 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+13/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+20/Jun/2025 - 07:30 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+02/Jul/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+04/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 07:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 03/Jul/2025 - 12:00 pm | 01/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 03/Jul/2025 - 12:00 pm | 01/Dic/2028 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 03/Jul/2025 - 12:00 pm | 01/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GESCOM SAS | Distrito Capital de Bogotá |
+| 2 | - | * **Nombre:** STATE SOLUTIONS SAS | Tenjo - Cundinamarca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 80,000,000
+
+**Informes proceso de selección CO1.AWD.2280113 de 02/Jul/2025 - 05:57 am. Valor $80.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/Jun/2025 - 09:39 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:39 am |  |
+| Informe de evaluación | 13/Jun/2025 - 09:39 am |  |
+| Informe de evaluación | 20/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:34 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:34 pm |  |
+| Informe de selección | 02/Jul/2025 - 05:57 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2280113**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GESCOM SAS * **Tipo documento:** NIT * **Documento:** 830145023 | * **Nombre:** JUAN MANUEL ARENAS PEREZ * **Tipo documento:** NIT * **Documento:** 80842621 | - Distrito Capital de Bogotá | $51.200.000 | - |  | Ver |
+| * **Nombre:** STATE SOLUTIONS SAS * **Tipo documento:** NIT * **Documento:** 900464395 | * **Nombre:** FIDIAS GIOVANNI TORRES MARTINEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 80091507 | Tenjo - Cundinamarca | $28.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2280113****
+
+**Contrato CO1.PCCNTR.8042005 de GESCOM SAS:**
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8042005
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Suministro de elementos de papelería y útiles de escritorio
+
+**Precios unitarios:**
+
+**Lote No. 1**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 14111500 | OFERTA ECONÓMICA LOTE 1 - Suministro de elementos de papelería y útiles de escritorio | 1,00 | UN | - | 51.200.000,00 | 0,00 | 51.200.000,00 |
+
+**Fecha de terminación del contrato:**
+
+01/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+145 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 51,200,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ANEXO CONTRATO No. CO1.PCCNTR.8042005.pdf |  |
+|  | CERTIFICADO DISPONIBILIDAD PRESUPUESTAL.pdf |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jun/2025 - 02:00 pm
+
+**Fecha de inicio:**
+
+24/Jun/2025 - 02:30 pm
+
+**Fecha fin:**
+
+24/Jun/2025 - 04:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8132667 | RE: Solicitud ajuste póliza de cumplimiento No. 14-44-101239399 - Contrato No. 8041823-2025 | 08/Jul/2025 - 09:08 am |  | - |
+| General | CO1.MSG.8109977 | Notificación personal Resolución No.- 592 del 02 de julio de 2025 - Adjudicación proceso DNI-SASIE-002-2025 | 02/Jul/2025 - 06:04 pm |  | - |
+| General | CO1.MSG.8109951 | Notificación personal Resolución No.- 592 del 02 de julio de 2025 - Adjudicación proceso DNI-SASIE-002-2025 | 02/Jul/2025 - 06:03 pm |  | - |
+| Reporte final | CO1.AWD.2280113 | Informe de selección CO1.AWD.2280113 | 02/Jul/2025 - 05:57 pm |  | - |
+| General | CO1.MSG.8109789 | Informes de la Subasta Inversa Electrónica No. DNI-SASIE-002-2025 generado por la plataforma del SECOP II | 02/Jul/2025 - 05:46 pm |  | - |
+| General | CO1.MSG.8109721 | Evaluaciones económicas | 02/Jul/2025 - 05:40 pm |  | - |
+| Avisos | CO1.MSG.8109685 | Publicación de la lista de ofertas del proceso DNI-SASIE-002-2025 (Presentación de oferta). | 02/Jul/2025 - 05:35 pm |  | - |
+| Avisos | CO1.MSG.8109671 | La lista de oferentes del proceso DNI-SASIE-002-2025 (Presentación de oferta) publicada por DIRECCION NACIONAL DE INTELIGENCIA | 02/Jul/2025 - 05:34 pm |  | - |
+| General | CO1.MSG.8109153 | Formulario de preguntas y respuestas No .04 | 02/Jul/2025 - 05:24 pm |  | - |
+| Avisos | CO1.REQ.8327973 | Publicación modificación | 27/Jun/2025 - 04:40 pm |  |  |
+| General | CO1.MSG.8094923 | ADENDA No. 002 | 27/Jun/2025 - 04:40 pm |  | - |
+| General | CO1.MSG.8091869 | RE: Observ LOTE 1 Ajuste de Propuesta Según SU OFERTA DE PRECIOS INICIALES a Descuento en Subasta | 27/Jun/2025 - 10:31 am |  | - |
+| General | CO1.MSG.8083583 | sustentación de precios GESCOM SAS | 25/Jun/2025 - 08:49 pm |  | - |
+| General | CO1.MSG.8079369 | RE: Solicitud ajuste oferta económica conforme el descuento ofrecido en la Subasta Inversa | 25/Jun/2025 - 12:09 pm |  | - |
+| General | CO1.MSG.8078839 | Solicitud ajuste oferta económica conforme el descuento ofrecido en la Subasta Inversa | 25/Jun/2025 - 11:19 am |  | - |
+| General | CO1.MSG.8078423 | Corrección número de lote que se solicita la aclaración de la oferta | 25/Jun/2025 - 10:33 am |  | - |
+| General | CO1.MSG.8078336 | Solicitud aclaración valor oferta en la subasta inversa electrónica DNI-SASIE-002-2025 | 25/Jun/2025 - 10:28 am |  | - |
+| General | CO1.MSG.8072286 | AVISO OFERENTES HABILITADOS PARA PARTICIPAR EN LA SUBASTA INVERSA ELECTRÓNICA | 24/Jun/2025 - 12:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2280113 | Informe de evaluación 2 CO1.AWD.2280113 | 20/Jun/2025 - 02:34 pm |  | - |
+| Objeciones | CO1.MSG.8034549 | [Respondido] RE:Subsanación State Solutions | 20/Jun/2025 - 02:33 pm |  | - |
+| General | CO1.MSG.8062241 | Subsanación EXPERIENCIA y REDAM | 19/Jun/2025 - 08:52 pm |  | - |
+| General | CO1.MSG.8061305 | RE: CONFIRMAR FECHA Y HORA DE SUBASTA | 19/Jun/2025 - 05:35 pm |  | - |
+| General | CO1.MSG.8061246 | RE: OBSERVACION COMERCIALIZADORA SERLE.COM SAS | 19/Jun/2025 - 05:32 pm |  | - |
+| General | CO1.MSG.8060903 | SUBSANACION DE DOCUMENTOS | 19/Jun/2025 - 05:01 pm |  | - |
+| General | CO1.MSG.8056532 | SUBSANACION FORMATO 2 | 19/Jun/2025 - 09:34 am |  | - |
+| General | CO1.MSG.8055059 | SUBSANACIÓN | 18/Jun/2025 - 08:10 pm |  | - |
+| General | CO1.MSG.8054300 | REENVIO FORMSATO No 2 | 18/Jun/2025 - 05:48 pm |  | - |
+| General | CO1.MSG.8053679 | Subsanación | 18/Jun/2025 - 05:00 pm |  | - |
+| General | CO1.MSG.8053534 | SUBSANACIÓN - COMERCIALIZADORA SERLE.COM S.A.S. | 18/Jun/2025 - 04:53 pm |  | - |
+| General | CO1.MSG.8052770 | subsanacion | 18/Jun/2025 - 04:01 pm |  | - |

@@ -1,0 +1,293 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DE LAS CUENCAS DE LOS RIOS NEGRO - NARE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6823b4e83b1582.13328595
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 16:56:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LICENCIAS DE PRODUCTOS MICROSOFT PARA LA CORPORACIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : El Santuario
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232200 - Software de gestión de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+12 Meses
+
+**Dirección de ejecución del contrato:**
+
+KM 54 AUTOPISTA MEDELLIN BOGOTA El Santuario Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 111,648,140
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232200 | ADQUIRIR LICENCIAS DE PRODUCTOS MICROSOFT PARA LA CORPORACIÓN | Selección abreviada subasta inversa | Recursos propios | $111.648.140 | SISTEMAS |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+13/May/2025 - 04:03 pm
+
+**Publicación Estudios Previos:**
+
+13/May/2025 - 04:03 pm
+
+**Publicación de estudios previos:**
+
+13/May/2025 - 04:03 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+13/May/2025 - 04:03 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+20/May/2025 - 04:03 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+20/May/2025 - 04:03 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+22/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+26/May/2025 - 02:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 02:20 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 02:20 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 02:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 02:20 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+30/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+03/Jun/2025 - 11:00 am
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+04/Jun/2025 - 11:01 am
+
+**Informe de presentación de Ofertas:**
+
+04/Jun/2025 - 11:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+11/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+11/Jul/2025 - 02:00 pm
+
+**Firma del Contrato:**
+
+11/Jul/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+11/Jul/2025 - 03:30 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 19/Jun/2025 - 02:00 pm | 19/Oct/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 19/Jun/2025 - 02:00 pm | 19/Jun/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 19/Jun/2025 - 02:00 pm | 19/Oct/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 111,648,100
+
+**Informes proceso de selección CO1.AWD.2285312 de 11/Jul/2025 - 02:52 am. Valor $111.648.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 18/Jun/2025 - 05:33 pm |  |
+| Informe de evaluación | 10/Jul/2025 - 10:09 am |  |
+| Informe de selección | 11/Jul/2025 - 02:52 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+11/Jul/2025 - 11:00 am
+
+**Fecha de inicio:**
+
+11/Jul/2025 - 12:00 pm
+
+**Fecha fin:**
+
+11/Jul/2025 - 12:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285312 | Informe de selección CO1.AWD.2285312 | 11/Jul/2025 - 02:52 pm |  | - |
+| Objeciones | CO1.MSG.8065707 | [Respondido] RE:OBSERVACIÓN | 11/Jul/2025 - 02:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285312 | Informe de evaluación 2 CO1.AWD.2285312 | 10/Jul/2025 - 10:09 am |  | - |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 09/Jul/2025 - 03:23 pm |  |  |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 07/Jul/2025 - 09:26 am |  |  |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 02/Jul/2025 - 05:56 pm |  |  |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 25/Jun/2025 - 05:34 pm |  |  |
+| Objeciones | CO1.MSG.8065707 | OBSERVACIÓN | 20/Jun/2025 - 02:21 pm |  | - |
+| General | CO1.MSG.8056611 | Subsanar ELECTROCOM SAS | 19/Jun/2025 - 09:57 am |  | - |
+| General | CO1.MSG.8056611 | Subsanar ELECTROCOM SAS | 19/Jun/2025 - 09:57 am |  | - |
+| Reporte preliminar | CO1.AWD.2285312 | Informe de evaluación 1 CO1.AWD.2285312 | 18/Jun/2025 - 05:33 pm |  | - |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 17/Jun/2025 - 05:14 pm |  |  |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 16/Jun/2025 - 05:17 pm |  |  |
+| General | CO1.MSG.8037188 | Subsanacion E-global S.A. | 16/Jun/2025 - 02:18 pm |  | - |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 12/Jun/2025 - 05:18 pm |  |  |
+| Avisos | CO1.REQ.8321209 | Publicación modificación | 10/Jun/2025 - 04:10 pm |  |  |
+| Avisos | CO1.MSG.7979616 | Publicación de la lista de ofertas del proceso S-PSI-002-2025 (Presentación de oferta). | 04/Jun/2025 - 11:57 am |  | - |
+| Avisos | CO1.MSG.7979426 | La lista de oferentes del proceso S-PSI-002-2025 (Presentación de oferta) publicada por CORPORACION AUTONOMA REGIONAL DE LAS CUENCAS DE LOS RIOS NEGRO - NARE | 04/Jun/2025 - 11:36 am |  | - |
+| Aclaraciones | CO1.MSG.7924983 | RE: Observacions a proceso | 22/May/2025 - 05:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7924976 | RE: Observaciones proceso No. S-PSI-002-2025 | 22/May/2025 - 05:03 pm |  | - |
+| General | CO1.MSG.7924966 | RE: OBSERVACIONES AL PREPLIEGO DE CONDICIONES | 22/May/2025 - 05:02 pm |  | - |
+| General | CO1.MSG.7924680 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 22/May/2025 - 05:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7908870 | Observacions a proceso | 20/May/2025 - 02:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7900686 | Observaciones proceso No. S-PSI-002-2025 | 20/May/2025 - 12:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7903299 | Solicitud para limitar el proceso a Mipyme | 19/May/2025 - 04:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7900716 | Solicitud para limitar el proceso a Mipyme | 19/May/2025 - 11:18 am |  | - |

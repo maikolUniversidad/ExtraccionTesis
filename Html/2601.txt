@@ -1,0 +1,109 @@
+Title: Licitaciones - FIDUCIARIA LA PREVISORA S.A.- FIDUPREVISORA S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682656e0e6f392.98706610
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:51:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Fiduprevisora S.A. a través de la Gerencia de Riesgos está interesada en recibir cotizaciones para contratar una solución para prestar el servicio de SOC (Security Operation Center) con correlacionador de eventos de seguridad, realizar análisis de vulnerabilidades y pruebas de Ethical Hacking interno y externo, así como análisis de código estático y dinámico donde haya lugar con personal experto y herramientas certificadas, en horario 7*24, esto con el fin de monitorear y dar respuesta a los inc
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43231500 - Software funcional específico de la empresa,43232200 - Software de gestión de contenidos,43232300 - Software de consultas y gestión de datos,43232600 - Software específico para la industria,43232700 - Software de aplicaciones de red,43232800 - Software de administración de redes,43232900 - Software para trabajo en redes,43233000 - Software de entorno operativo,43233200 - Software de seguridad y protección,43233400 - Software de controladores de dispositivos y utilidades,43233500 - Software de intercambio de información,43233700 - Software de administración de sistemas,81111500 - Ingeniería de software o hardware,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111900 - Sistemas de recuperación de información,81112000 - Servicios de datos,81112100 - Servicios de internet,81112200 - Mantenimiento y soporte de software,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Seguridad informática", "licicodigos": "297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 72 N° 10 - 03 OF 202 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+36 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:56 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+05/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8268677 | Publicación modificación | 29/May/2025 - 06:52 pm |  |  |
+| Aclaraciones | CO1.MSG.7911291 | Observaciones a solicitud de información | 20/May/2025 - 05:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7911075 | Observaciones a la Invitación a cotizar No. 011 de 2025 | 20/May/2025 - 05:31 pm |  | - |
+| Aclaraciones | CO1.MSG.7910784 | Observaciones | 20/May/2025 - 05:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7910775 | Observaciones_Iseguras | 20/May/2025 - 05:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7910764 | OBSERVACIONES FIDUPREVISORA SOC - NEWNET | 20/May/2025 - 05:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7910032 | OBSERVACIONES FIDUPREVISORA SA | 20/May/2025 - 04:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7909706 | Observaciones_FIDUPREVISORA | 20/May/2025 - 03:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7909068 | Observaciones Proceso SOC | 20/May/2025 - 03:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7907938 | Observaciones INV 011 2025-SOC | 20/May/2025 - 12:03 pm |  | - |

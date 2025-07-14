@@ -1,0 +1,323 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682cf52abaafa3.39952234
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:38:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Prestar el servicio de mantenimiento preventivo y correctivo a los bienes informáticos que integran la plataforma tecnológica del DASCD, incluido la UPS y el aire acondicionado.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151207 - Servicio de instalación y mantenimiento acondicionamiento del aire, enfriamiento y calefacción hvac
+
+**Códigos adicionales UNSPSC:**
+
+73152108 - Servicio de mantenimiento y reparación de equipos eléctricos,81112305 - Mantenimiento de servidores x86,81112306 - Mantenimiento de impresoras,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,81112501 - Servicio de licencias del software del computador,81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet,81111706 - Servicios de planificación de redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Mantenimiento e instalación de equipos de cómputo, -UPS y baterías de gran capacidad, -Equipos audiovisuales, -Electrodomésticos, -Aire acondicionado, -Servidores (Suministro y alquiler)", "licicodigos": "99,106,109,115,139,263,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+Cra 30 No 25-90 piso 9 costado oriental Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72151207, 81112307, 81112305, 73152108, 81111509, 81111706, 81112306, 81112501 | Prestar el servicio de mantenimiento preventivo y correctivo a los bienes informáticos que integran la plataforma tecnológica del DASCD, incluido la UPS y el aire acondicionado. | Selección abreviada menor cuantía | Recursos propios | $151.246.000 | SUBDIRECCION JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 04:13 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+29/May/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+30/May/2025 - 04:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+04/Jun/2025 - 07:26 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+04/Jun/2025 - 09:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jun/2025 - 09:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+04/Jun/2025 - 09:00 pm
+
+**Plazo para manifestación de interés:**
+
+05/Jun/2025 - 10:00 pm
+
+**Realización del sorteo:**
+
+06/Jun/2025 - 11:00 am
+
+**Publicación de la lista de precalificados:**
+
+06/Jun/2025 - 06:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+11/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+16/Jun/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+01/Jul/2025 - 08:00 pm
+
+**Firma del Contrato:**
+
+02/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+03/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 02/Jul/2025 - 07:00 am | 03/Ene/2027 - 11:59 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 07:00 am | 03/Jul/2029 - 11:59 pm |
+| Calidad del servicio | 15,00 | 02/Jul/2025 - 07:00 am | 03/Ene/2027 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 02/Jul/2025 - 07:00 am | 03/Ene/2027 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 147,008,561
+
+**Informes proceso de selección CO1.AWD.2285823 de 01/Jul/2025 - 07:55 am. Valor $147.008.561**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/Jun/2025 - 06:09 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 06:09 pm |  |
+| Informe de evaluación | 19/Jun/2025 - 06:09 pm |  |
+| Informe de selección | 01/Jul/2025 - 07:55 pm |  |
+| Informe de selección | 01/Jul/2025 - 07:55 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2285823**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** E&C INGENIEROS SAS * **Tipo documento:** NIT * **Documento:** 900024202 | * **Nombre:** ELQUIN LEONARDO PEREZ CRUZ * **Tipo documento:** NIT * **Documento:** 80059204 | - Distrito Capital de Bogotá | $147.008.561 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2285823****
+
+**Contrato CPS-100-2025 de E&C INGENIEROS SAS:**
+
+**ID del contrato en SECOP:**
+
+CPS-100-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+Prestar el servicio de mantenimiento preventivo y correctivo a los bienes informáticos que integran la plataforma tecnológica del DASCD, incluido la UPS y el aire acondicionado.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 73152108 | valor total del contrato | 1,00 | VG | 150.792.443,00 | 147.008.561,00 | 150.792.443,00 | 147.008.561,00 |
+
+**Fecha de terminación del contrato:**
+
+03/Jul/2026 - 11:59 pm
+
+**Plazo de ejecución:**
+
+12 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 147,008,561
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | REV_RESOLADJUDDASCDSAMC0062025_MTO_EQUIPOS signed.pdf |  |
+|  | CLAUSULADO ADICIONAL AL CONTRATO ELECTRONICO.docx |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2285823 | Informe de selección CO1.AWD.2285823 | 01/Jul/2025 - 07:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2285823 | Informe de evaluación 1 CO1.AWD.2285823 | 19/Jun/2025 - 06:09 pm |  | - |
+| Avisos | CO1.MSG.8056002 | Publicación de la lista de ofertas del proceso DASCD-SAMC-006-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 19/Jun/2025 - 08:37 am |  | - |
+| Avisos | CO1.MSG.8036070 | La lista de oferentes del proceso DASCD-SAMC-006-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DEPARTAMENTO ADMINISTRATIVO DEL SERVICIO CIVIL DISTRITAL | 16/Jun/2025 - 11:21 am |  | - |
+| General | CO1.MSG.8030553 | RE: OBSERVACION URGENTE REQUERIMIENTO TECNICO | 13/Jun/2025 - 02:56 pm |  | - |
+| General | CO1.MSG.7984066 | Aviso MiPYMES | 04/Jun/2025 - 07:44 pm |  | - |
+| General | CO1.MSG.7967639 | RE: Observaciones al PLiego de Condiciones | 30/May/2025 - 04:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7967521 | RE: Observaciones al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) DASCD-SAMC-006-2025 | 30/May/2025 - 04:20 pm |  | - |
+| Aclaraciones | CO1.MSG.7962078 | RE: Observaciones | 29/May/2025 - 06:05 pm |  | - |
+| General | CO1.MSG.7961967 | RE: Observación | 29/May/2025 - 06:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7946339 | Observaciones | 27/May/2025 - 04:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7946349 | Observaciones al proceso de Selección abreviada de menor cuantía (Ley 1150 de 2007) DASCD-SAMC-006-2025 | 27/May/2025 - 04:44 pm |  | - |

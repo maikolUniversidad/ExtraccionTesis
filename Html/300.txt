@@ -1,0 +1,343 @@
+Title: Licitaciones - PNNC-NC - Subasta Inversa SEL-ABREV-SI-002-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682fc399e84310.24237283
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:34:37
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+NC03-3202008-15-029 Contratar la renovación tecnológica de los equipos de Networking para el Nivel Central de Parques Nacionales Naturales de Colombia, en el marco de la Conservación de la diversidad biológica de las áreas protegidas del SINAP Nacional y el producto de servicios de administración y manejo de áreas protegidas
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,43222600 - Equipo de servicio de red,43222500 - Equipo de seguridad de red,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 28 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 74 N.11-81 Bogota Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 250,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43233200, 81111800 | NC03-3202008-15-029Contratar la renovacion tecnológica de los equipos de networking para el Nivel Central de Parques Nacionales Naturales de Colombia, en el marco de la Conservación de la diversidad biológica de las áreas protegidas del SINAP Nacional y el producto de servicios de administración y manejo de áreas protegidas.. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $250.000.000 | GRUPO DE CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/May/2025 - 07:21 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+22/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/May/2025 - 05:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+29/May/2025 - 05:30 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 05:26 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+05/Jun/2025 - 05:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 05:30 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+10/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/Jun/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/Jun/2025 - 10:02 am
+
+**Informe de presentación de Ofertas:**
+
+12/Jun/2025 - 10:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 05:30 pm
+
+**Apertura del sobre económico:**
+
+24/Jun/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 11:50 pm
+
+**Firma del Contrato:**
+
+26/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 11:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+27/Jun/2025 - 11:50 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/Jun/2025 - 12:00 am | 26/Sep/2028 - 11:59 pm |
+| Pago de salarios | 5,00 | 27/Jun/2025 - 12:00 am | 26/Sep/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 27/Jun/2025 - 12:00 am | 26/Sep/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ECOMIL SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 240,082,500
+
+**Informes proceso de selección CO1.AWD.2282842 de 25/Jun/2025 - 07:42 am. Valor $240.082.500**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 16/Jun/2025 - 09:41 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 09:41 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 09:41 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 09:41 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 06:26 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 10:22 pm |  |
+| Informe de selección | 25/Jun/2025 - 07:42 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2282842**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ECOMIL SAS * **Tipo documento:** NIT * **Documento:** 830133271 | * **Nombre:** ALEXANDER SANCHEZ * **Tipo documento:** NIT * **Documento:** 79654719 | - Distrito Capital de Bogotá | $240.082.500 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2282842****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8017852
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+25/Sep/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 240,082,500
+
+**Tiempo adicional:**
+
+0 Días
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+24/Jun/2025 - 11:00 am
+
+**Fecha de inicio:**
+
+24/Jun/2025 - 11:30 am
+
+**Fecha fin:**
+
+24/Jun/2025 - 11:40 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2282842 | Informe de selección CO1.AWD.2282842 | 25/Jun/2025 - 07:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2282842 | Informe de evaluación 3 CO1.AWD.2282842 | 24/Jun/2025 - 10:22 pm |  | - |
+| Avisos | CO1.MSG.8076583 | La lista de oferentes del proceso SEL-ABREV-SI-002-2025 (Presentación de oferta) publicada por PNNC-NC | 24/Jun/2025 - 10:12 pm |  | - |
+| Avisos | CO1.MSG.8076586 | Publicación de la lista de ofertas del proceso SEL-ABREV-SI-002-2025 (Presentación de oferta). | 24/Jun/2025 - 10:12 pm |  | - |
+| General | CO1.MSG.8072219 | AVISO INFORMATIVO - NO REALIZACION SUBASTA | 24/Jun/2025 - 12:06 pm |  | - |
+| Reporte preliminar | CO1.AWD.2282842 | Informe de evaluación 2 CO1.AWD.2282842 | 20/Jun/2025 - 06:26 pm |  | - |
+| Objeciones | CO1.MSG.8059168 | [Respondido] RE:OBSERVACIONES AL INFORME DE EVALUACION | 20/Jun/2025 - 06:24 pm |  | - |
+| Objeciones | CO1.MSG.8060662 | [Respondido] RE:Observacion informe de Evaluacion | 20/Jun/2025 - 06:24 pm |  | - |
+| Objeciones | CO1.MSG.8042788 | [Respondido] RE:SUBSANACION JURIDICA - ECOMIL SAS | 20/Jun/2025 - 06:23 pm |  | - |
+| General | CO1.MSG.8062271 | Subsanación UT SWITCHES NC03-2025 | 19/Jun/2025 - 09:12 pm |  | - |
+| Objeciones | CO1.MSG.8060662 | Observacion informe de Evaluacion | 19/Jun/2025 - 05:05 pm |  | - |
+| Objeciones | CO1.MSG.8059168 | OBSERVACIONES AL INFORME DE EVALUACION | 19/Jun/2025 - 02:50 pm |  | - |
+| General | CO1.MSG.8058067 | SUBSANACION - SUMIMAS S.A.S | 19/Jun/2025 - 11:57 am |  | - |
+| Objeciones | CO1.MSG.8042788 | SUBSANACION JURIDICA - ECOMIL SAS | 17/Jun/2025 - 11:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2282842 | Informe de evaluación 1 CO1.AWD.2282842 | 16/Jun/2025 - 09:41 pm |  | - |
+| General | CO1.MSG.8026742 | Respuesta a Solicitud publicación ofertas | 12/Jun/2025 - 09:03 pm |  | - |
+| Avisos | CO1.MSG.8022028 | Publicación de la lista de ofertas del proceso SEL-ABREV-SI-002-2025 (Presentación de oferta). | 12/Jun/2025 - 11:40 am |  | - |
+| Avisos | CO1.MSG.8020953 | La lista de oferentes del proceso SEL-ABREV-SI-002-2025 (Presentación de oferta) publicada por PNNC-NC | 12/Jun/2025 - 10:10 am |  | - |
+| General | CO1.MSG.8012387 | RESPUESTA A OBSERVACIONES EXTEMPORANEAS PLIEGO | 11/Jun/2025 - 07:25 am |  | - |
+| Aclaraciones | CO1.MSG.8000775 | RESPUESTA A LAS OBSERVACIONES AL PLIEGO DE CONDICIONES | 09/Jun/2025 - 11:56 am |  | - |
+| Aclaraciones | CO1.MSG.7996047 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 06/Jun/2025 - 05:18 pm |  | - |
+| General | CO1.MSG.7979285 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 04/Jun/2025 - 11:31 am |  | - |
+| Aclaraciones | CO1.MSG.7976773 | RESPUESTA OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 04/Jun/2025 - 11:15 am |  | - |
+| Aclaraciones | CO1.MSG.7961080 | Observaciones Técnicas | 29/May/2025 - 04:56 pm |  | - |
+| Aclaraciones | CO1.MSG.7960733 | Observaciones al pliego borrador | 29/May/2025 - 04:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7958483 | OBSERVACIONES AL PROYECTO DE PLIEGO DE CONDICIONES | 29/May/2025 - 11:57 am |  | - |

@@ -1,0 +1,197 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA GUAINIA - DEGUN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685329ab268396.60925426
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 13:58:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE MANTENIMIENTO CORRECTIVO A TODO COSTO DE EQUIPOS TECNOLÓGICOS (INCLUYENDO CAMBIO DE ACCESORIOS, REPUESTOS Y/O PARTES DE SER NECESARIOS) DEL DEPARTAMENTO DE POLICÍA GUAINÍA Y ESTACIÓN DE POLICÍA INÍRIDA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Guainía : Inírida
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 N° 14 75 Inírida Guainía COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300 | Mantenimiento y soporte de hardware de computador | Mínima cuantía | Presupuesto de entidad nacional | $20.000.000 | DEGUN COMAN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Jun/2025 - 03:57 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 05:55 pm
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 06:00 pm
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 06:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+01/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 06:00 pm | 28/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jul/2025 - 06:00 pm | 30/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 50,00 | 04/Jul/2025 - 06:00 pm | 28/Feb/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 04/Jul/2025 - 06:00 pm | 30/Abr/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8073821 | CONVOCATORIA MIPYMES | 24/Jun/2025 - 03:37 pm |  | - |

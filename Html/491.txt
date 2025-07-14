@@ -1,0 +1,270 @@
+Title: Licitaciones - FONDO FINANCIERO DISTRITAL DE SALUD..
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e6881d5ef08.59813850
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+761-012000_0242_8141 Prestación de servicios para fortalecimiento de publicaciones de Epidemiología y Salud Pública, incluyendo la colocación en plataformas indexadas
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas
+
+**Códigos adicionales UNSPSC:**
+
+81112000 - Servicios de datos,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador,81161700 - Servicios de telecomunicaciones,81161800 - Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia,82111503 - Redacción de artículos académicos o científicos,82111801 - Servicios de edición,82141504 - Servicios de diseño de gráficos o gráficas,55111506 - Revistas electrónicas,43223100 - Componentes y equipo de infraestructura de redes móviles y digitales
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 32 N 12-81 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111800, 81112000, 81112500, 81161700, 81161800, 82111503, 82111801, 82141504, 55111506, 43223100 | 761-012000_0242_8141 Prestación de servicios para fortalecimiento de publicaciones de Epidemiología y Salud Pública, incluyendo la colocación en plataformas indexadas | Mínima cuantía | Recursos propios | $130.000.000 | SUBDIRECCION DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 03:20 pm
+
+**Publicación de estudios previos:**
+
+09/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+09/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+16/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+21/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+21/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+03/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 03/Jun/2025 - 11:59 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 03/Jun/2025 - 11:59 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 15,00 | 03/Jun/2025 - 11:59 pm | 30/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** BITECA S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 102,362,610
+
+**Informes proceso de selección CO1.AWD.2262659 de 03/Jun/2025 - 07:44 am. Valor $102.362.610**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:21 pm |  |
+| Informe de evaluación | 29/May/2025 - 11:40 am |  |
+| Informe de evaluación | 29/May/2025 - 11:40 am |  |
+| Informe de evaluación | 29/May/2025 - 11:40 am |  |
+| Informe de selección | 03/Jun/2025 - 07:44 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262659**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** BITECA S.A.S * **Tipo documento:** NIT * **Documento:** 900070902 | * **Nombre:** Carlos Andrés Bermúdez Rodríguez * **Tipo documento:** NIT * **Documento:** 79687291 | - Distrito Capital de Bogotá | $102.362.610 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262659****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7941190
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 102,362,610
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262659 | Informe de selección CO1.AWD.2262659 | 03/Jun/2025 - 07:44 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262659 | Informe de evaluación 2 CO1.AWD.2262659 | 29/May/2025 - 11:40 am |  | - |
+| Reporte preliminar | CO1.AWD.2262659 | Informe de evaluación 1 CO1.AWD.2262659 | 26/May/2025 - 06:21 pm |  | - |
+| Avisos | CO1.MSG.7914141 | Publicación de la lista de ofertas del proceso FFDS-MC-015-2025. | 21/May/2025 - 10:30 am |  | - |
+| Avisos | CO1.MSG.7914138 | La lista de oferentes del proceso FFDS-MC-015-2025 publicada por FONDO FINANCIERO DISTRITAL DE SALUD.. | 21/May/2025 - 10:29 am |  | - |
+| General | CO1.MSG.7892115 | AVISO DE NO LIMITACION A MIPYMES | 16/May/2025 - 08:31 am |  | - |

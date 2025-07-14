@@ -1,0 +1,100 @@
+Title: Licitaciones - BENEFICENCIA DE CUNDINAMARCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681e91751e3514.54557944
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:23:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+contratar la compra de la actualización de la licencia corporativa del software de antivirus que atiendan los requerimientos técnicos de los equipos de cómputo de la entidad
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 # 51-52 Torre Beneficencia Piso 6 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 15,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205 | CONTRATAR LA COMPRA DE LA ACTUALIZACIÓN DE LA LICENCIA CORPORATIVA DEL SOFTWARE DE ANTIVIRUS QUE ATIENDAN LOS REQUERIMIENTOS TÉCNICOS DE LOS EQUIPOS DE COMPUTO DE LA ENTIDAD. | Mínima cuantía | Recursos propios | $15.000.000 | Secretaría General |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+09/May/2025 - 06:31 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+14/May/2025 - 12:00 pm

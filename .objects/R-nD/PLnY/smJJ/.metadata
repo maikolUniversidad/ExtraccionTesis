@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open the web page using the link",
+  "Type": "Screen",
+  "Id": "smJJNmvEHke9ROOxS-jW0g",
+  "Reference": "qCejIrBFe0qRQF-PnoPYfQ/smJJNmvEHke9ROOxS-jW0g",
+  "ParentRef": "qCejIrBFe0qRQF-PnoPYfQ/PLnYspPad0WiEWLgod1bSg",
+  "Created": "2025-07-12T20:11:52.2449259Z",
+  "Updated": "2025-07-12T20:11:52.2449259Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

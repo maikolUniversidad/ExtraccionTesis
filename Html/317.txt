@@ -1,0 +1,343 @@
+Title: Licitaciones - GOBERNACION DE NARIÑO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810266fc6cca8.74683530
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-17 11:14:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN Y SUMINISTRO DE ELEMENTOS DESTINADOS A SATISFACER LAS NECESIDADES OPERATIVAS, ADMINISTRATIVAS Y DE SEGURIDAD DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO (INPEC), EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 65 DE 1993.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44111900 - Tableros
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales, -Ferretería y materiales para la construcción de obras civiles, -Herramientas manuales, -Mobiliario, -Pintura, -Electrodomésticos, -Aire acondicionado", "licicodigos": "104,115,122,123,128,135,139,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+120 Días
+
+**Dirección de ejecución del contrato:**
+
+PASTO Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 209,999,380
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44111900, 53131600 | ADQUISICION Y SUMINISTRO DE ELEMENTOS DESTINADOS A SATISFACER LAS NECESIDADES OPERATIVAS, ADMINISTRATIVAS Y DE SEGURIDAD DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO (INPEC), EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 65 DE 1993. | Selección abreviada subasta inversa | Recursos propios | $209.999.380 | DEPARTAMENTO ADMINISTRATIVO DE CONTRATACIÓN |
+
+Cronograma:
+
+**Publicación del aviso de convocatoria pública:**
+
+28/Abr/2025 - 07:30 pm
+
+**Publicación Estudios Previos:**
+
+28/Abr/2025 - 07:30 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 07:30 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+28/Abr/2025 - 07:41 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+06/May/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+08/May/2025 - 03:14 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+08/May/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+08/May/2025 - 06:01 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+08/May/2025 - 06:01 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/May/2025 - 03:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+14/May/2025 - 11:01 am
+
+**Informe de presentación de Ofertas:**
+
+14/May/2025 - 11:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+19/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/May/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+27/May/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+27/May/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+28/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 12/Jul/2025 - 04:30 pm | 12/Jul/2025 - 04:30 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MARINA DEL ROSARIO TOBAR TELLO | Pasto - Nariño |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 88,900,000
+
+**Informes proceso de selección CO1.AWD.2262585 de 30/May/2025 - 10:56 am. Valor $88.900.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 05:02 pm |  |
+| Informe de evaluación | 26/May/2025 - 05:02 pm |  |
+| Informe de evaluación | 26/May/2025 - 05:02 pm |  |
+| Informe de selección | 30/May/2025 - 10:56 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262585**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PROVECOL * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 27094552 | * **Nombre:** MARINA DEL ROSARIO TOBAR TELLO * **Tipo documento:** NIT * **Documento:** 27094552 | Pasto - Nariño | $88.900.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262585****
+
+**Contrato GN3005-2025 de PROVECOL:**
+
+**ID del contrato en SECOP:**
+
+GN3005-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+(LOTE 1: ELEMNETOS DE FERRETERIA) ADQUISICIÓN Y SUMINISTRO DE ELEMENTOS DESTINADOS A SATISFACER LAS NECESIDADES OPERATIVAS, ADMINISTRATIVAS Y DE SEGURIDAD DEL INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO (INPEC), EN CUMPLIMIENTO DE LO ESTABLECIDO EN LA LEY 65 DE 1993 conforme a las especificaciones técnicas descritas en el proceso y la propuesta económica presentada.
+
+**Precios unitarios:**
+
+**Lote No. 1**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 31162800 | ELEMENTOS DE FERRRETERIA | 1,00 | UN | 90.808.717,00 | 88.900.000,00 | 90.808.717,00 | 88.900.000,00 |
+
+**Fecha de terminación del contrato:**
+
+04/Jul/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+1 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 88,900,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | CONTRATO LOTE 1 SASI001-2025 CTO GN3005-2025.pdf |  |
+|  | SEGURIDAD SOCIAL.pdf |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+27/May/2025 - 09:30 am
+
+**Fecha de inicio:**
+
+27/May/2025 - 10:00 am
+
+**Fecha fin:**
+
+27/May/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7964800 | RESOLUCION QUE DECLARA DESIERTO LOTES 2 - 3 - 4 - 5 - 6 | 30/May/2025 - 11:00 am |  | - |
+| General | CO1.MSG.7964779 | RESOLUCION ADJUDICACION LOTE 1 | 30/May/2025 - 10:58 am |  | - |
+| Reporte final | CO1.AWD.2262585 | Informe de selección CO1.AWD.2262585 | 30/May/2025 - 10:56 am |  | - |
+| General | CO1.MSG.7950206 | ACTA DE DILIGENCIA PREVIA- SUBASTA ELECTRONICA - INFORME SUBASTA SECOP II | 28/May/2025 - 10:55 am |  | - |
+| Avisos | CO1.MSG.7942156 | Publicación de la lista de ofertas del proceso SASI001-2025 (Presentación de oferta). | 27/May/2025 - 09:51 am |  | - |
+| Avisos | CO1.MSG.7942151 | La lista de oferentes del proceso SASI001-2025 (Presentación de oferta) publicada por GOBERNACION DE NARIÑO | 27/May/2025 - 09:50 am |  | - |
+| General | CO1.MSG.7941356 | LINK AUDIENCIA SUBASTA | 27/May/2025 - 08:47 am |  | - |
+| Reporte preliminar | CO1.AWD.2262585 | Informe de evaluación 1 CO1.AWD.2262585 | 26/May/2025 - 05:02 pm |  | - |
+| General | CO1.MSG.7904084 | EVALUACIONES JURIDICA, FINANCIERA Y TECNICA PRELIMINAR | 19/May/2025 - 05:16 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256190 | Informe de evaluación 1 CO1.AWD.2256190 | 19/May/2025 - 05:13 pm |  | - |
+| Avisos | CO1.MSG.7880151 | La lista de oferentes del proceso SASI001-2025 (Presentación de oferta) publicada por GOBERNACION DE NARIÑO | 14/May/2025 - 11:16 am |  | - |
+| General | CO1.MSG.7854189 | RESPUESTAS A OBSERVACIONES Y RESPUESTA A LIMITACION MIPYMES | 08/May/2025 - 03:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7832292 | SOLICITUD LIMITACION MIPYMES | 05/May/2025 - 02:11 pm |  | - |
+| Aclaraciones | CO1.MSG.7832364 | LIMITACION A MIPYME | 05/May/2025 - 11:52 am |  | - |

@@ -1,0 +1,274 @@
+Title: Licitaciones - DIRECCION DE TRANSITO Y TRANSPORTE DE FLORIDABLANCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680b0a80bd5af9.02191803
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-18 01:20:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN Y RENOVACION DE LICENCIAS DE HERRAMIENTAS TECNOLOGICAS PARA LA REALIZACIÓN DE LAS ACTIVIDADES PROPIAS DE LA DIRECCIÓN DE TRANSITO Y TRANSPORTE DE FLORIDABLANCA -DTTF
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232100 - Software de edición y creación de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,81112000 - Servicios de datos,43231500 - Software funcional específico de la empresa,43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 9 # 8-14 Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+24/Abr/2025 - 10:25 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+03/May/2025 - 11:28 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+03/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+03/May/2025 - 11:59 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+03/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+03/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+06/May/2025 - 07:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+07/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+07/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+09/May/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+09/May/2025 - 02:01 pm
+
+**Informe de presentación de Ofertas:**
+
+09/May/2025 - 02:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+10/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 08:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+15/May/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+16/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+19/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 19/May/2025 - 12:00 pm | 19/Oct/2025 - 12:00 pm |
+| Pago de salarios | 10,00 | 19/May/2025 - 12:00 pm | 19/Jun/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 19/May/2025 - 12:00 pm | 19/Oct/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 19/May/2025 - 12:00 pm | 19/Oct/2025 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 09/May/2025 - 11:46 am | * **Nombre:** DECONTEC S.A.S | Bucaramanga - Santander |
+| 2 | 09/May/2025 - 01:39 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 158,270,000
+
+**Informes proceso de selección CO1.AWD.2248712 de 17/May/2025 - 01:15 am. Valor $158.270.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 10/May/2025 - 01:13 pm |  |
+| Informe de evaluación | 10/May/2025 - 01:13 pm |  |
+| Informe de evaluación | 17/May/2025 - 12:43 pm |  |
+| Informe de selección | 17/May/2025 - 01:15 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2248712**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Desarrollo & Consultoría en Tecnología S.A.S * **Tipo documento:** NIT * **Documento:** 900947493 | * **Nombre:** Fredy Julian Idarraga Bohorquez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 13544660 | Bucaramanga - Santander | $158.270.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2248712****
+
+**Cuantía a la firma del contrato:**
+
+$ 158,270,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2248712 | Informe de selección CO1.AWD.2248712 | 17/May/2025 - 01:15 pm |  | - |
+| Reporte preliminar | CO1.AWD.2248712 | Informe de evaluación 2 CO1.AWD.2248712 | 17/May/2025 - 12:43 pm |  | - |
+| Objeciones | CO1.MSG.7863706 | [Respondido] RE:SOLICITUD RECHAZO OFERTA DECONTE POR INCUMPLIMIENTO SIGUIENTES REQUISITOS | 17/May/2025 - 12:41 pm |  | - |
+| Objeciones | CO1.MSG.7884952 | [Respondido] RE:SOLICITUD RECHAZO OFERTA POR FALSEDAD EN DOCUMENTO PRIVADO | 17/May/2025 - 12:41 pm |  | - |
+| General | CO1.MSG.7898279 | RESPUESTA OBSERVACIONES PRESENTADAS AL INFORME DE EVALUACION PRELIMINAR | 17/May/2025 - 12:40 pm |  | - |
+| Objeciones | CO1.MSG.7884952 | SOLICITUD RECHAZO OFERTA POR FALSEDAD EN DOCUMENTO PRIVADO | 14/May/2025 - 09:40 pm |  | - |
+| Objeciones | CO1.MSG.7863706 | SOLICITUD RECHAZO OFERTA DECONTE POR INCUMPLIMIENTO SIGUIENTES REQUISITOS | 10/May/2025 - 07:26 pm |  | - |
+| Reporte preliminar | CO1.AWD.2248712 | Informe de evaluación 1 CO1.AWD.2248712 | 10/May/2025 - 01:13 pm |  | - |
+| Avisos | CO1.MSG.7863574 | Publicación de la lista de ofertas del proceso DTTF-SAMC-003-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 10/May/2025 - 01:13 pm |  | - |
+| Avisos | CO1.MSG.7860169 | La lista de oferentes del proceso DTTF-SAMC-003-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por DIRECCION DE TRANSITO Y TRANSPORTE DE FLORIDABLANCA | 09/May/2025 - 02:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7825043 | Observaciones a los Pre Pliegos de Condiciones | 02/May/2025 - 11:10 am |  | - |
+| Aclaraciones | CO1.MSG.7806454 | OBSERVACIONES REDCOMPUTO LTDA | 28/Abr/2025 - 01:19 pm |  | - |

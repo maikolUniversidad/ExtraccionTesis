@@ -1,0 +1,371 @@
+Title: Licitaciones - CENAC YOPAL - Selección abreviada de menor cuantía (Ley 1150 de 2007) 199-SAMC-CENACYOPAL-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827e1134fae72.20105606
+
+Markdown Content:
+Licitaciones - CENAC YOPAL - Selección abreviada de menor cuantía (Ley 1150 de 2007) 199-SAMC-CENACYOPAL-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-27 06:33:58
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+MANTENIMIENTO Y SUMINISTRO DE REPUESTOS PARA EL EQUIPO DE CÓMPUTO, AIRES ACONDICIONADOS, IMPRESORAS Y CIRCUITO CERRADO DE TELEVISIÓN DE LAS UNIDADES CENTRALIZADAS ADMINISTRATIVAMENTE POR LA CENAC YOPAL, PARA EJECUCIÓN EN LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Casanare : Yopal
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+24112111 - Estabilizador
+
+**Códigos adicionales UNSPSC:**
+26111700 - Baterías, pilas y accesorios,26111704 - Cargadores de baterías,26111722 - Adaptador de batería o accesorios,26121600 - Cables eléctricos y accesorios,32101600 - Circuitos integrados,32101603 - Memoria ram estática (sram),32111600 - Transistores,39121000 - Equipamiento para distribución y conversión de alimentación,39121009 - Reguladores eléctricos o de potencia,39121405 - Terminales de cable o alambre,40101604 - Ventiladores,41113600 - Equipo de medición y comprobación eléctrica,43201401 - Tarjetas aceleradoras de gráficas o video,43201404 - Tarjetas de interface de red,43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43201503 - Procesadores de unidad de procesamiento central cpu,43201600 - Componentes del chasis,43201800 - Dispositivos de almacenamiento,43201803 - Unidades de disco duro,43201818 - Unidades de discos digitales de video dvd,43201827 - Dispositivo de almacenamiento de disco duro portátil,43202200 - Subconjuntos para dispositivos electrónicos,43202205 - Teclas o teclados,43202215 - Cable de teclado o mouse,43202222 - Cables de computador,43211614 - Adaptador de bus serial universal usb bluetooth,43211706 - Teclados,43211708 - Mouse o bola de seguimiento para computador,43211900 - Monitores y pantallas de computador,43223303 - Cable de conexión de comunicación de datos,43233404 - Software discos compactos cd o dvd o tarjetas de sonido,44102906 - Kits de limpieza de computadores o equipos de oficina,72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados,81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112304 - Mantenimiento de servidores unix,81112306 - Mantenimiento de impresoras,43233400 - Software de controladores de dispositivos y utilidades,81111800 - Servicios de sistemas y administración de componentes de sistemas,92121700 - Servicios de sistemas de seguridad
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Circuito cerrado de televisión, -Aire acondicionado", "licicodigos": "106,114,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+Km 7 av Marginal de la selva BR16 Yopal Casanare COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Acuerdos comerciales (Lista de países):**
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+135 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72102905, 72102900, 72151100, 72141510, 72152601, 72152602, 72151502, 73152108, 72101511, 72151500, 72152605, 73151801, 72152509, 72101508, 72152400, 72151306, 72152005, 72153002, 72151301, 72152102 | MANTENIMIENTO DE INSTALACIONES PARA LAS UNIDADES CENTRALIZADAS POR LA CENTRAL ADMINISTRATIVA Y CONTABLE CENAC YOPAL PARA LA VIGENCIA 2025 | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $870.100.448 | CENTRAL ADMINISTRATIVA Y CONTABLE REGIONAL YOPAL |
+| 24112111, 26111700, 26111704, 26111722, 26121600, 32101600, 32101603, 32111600, 32111603, 39121000, 39121009, 39121405, 40101604, 41113600, 43201401, 43201404, 43201500, 43201503, 43201600, 43201800, 43201803, 43201818, 43201827, 43202200, 43202205, 43202215, 43202222, 43211614, 43211706, 43211708, 43211900, 43223303, 43233400, 43233404, 44102906, 72101511, 81111800, 81111811, 81112304, 81112306, 92121700 | SUMINISTRO DE REPUESTOS, MANTENIMIENTO DE AIRES ACONDICIONADOS Y EQUIPO DE CÓMPUTO PARA LAS UNIDADES CENTRALIZADAS ADMINISTRATIVAMENTE O ASIGNADAS A LA CENTRAL ADMINISTRATIVA Y CONTABLE REGIONAL YOPAL PARA LA VIGENCIA 2025 | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $211.583.896 | CENTRAL ADMINISTRATIVA Y CONTABLE REGIONAL YOPAL |
+
+Cronograma:
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 06:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 06:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 07:51 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+23/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/May/2025 - 04:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+26/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+26/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+26/May/2025 - 06:08 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+28/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés:**
+
+29/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+30/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 06:50 pm
+
+**Presentación de Ofertas:**
+
+04/Jun/2025 - 03:00 pm
+
+**Apertura de Ofertas:**
+
+04/Jun/2025 - 03:05 pm
+
+**Informe de presentación de Ofertas:**
+
+04/Jun/2025 - 03:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+16/Jun/2025 - 12:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+25/Jun/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+26/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 18/Jun/2025 - 03:00 pm | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 18/Jun/2025 - 03:00 pm | 15/Oct/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 18/Jun/2025 - 03:00 pm | 15/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 18/Jun/2025 - 03:00 pm | 15/Oct/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** INTELCON TECNOLOGIA S.A.S | Yopal - Casanare |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 211,583,896
+
+**Informes proceso de selección CO1.AWD.2277241 de 25/Jun/2025 - 11:14 am. Valor $211.583.896**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 10/Jun/2025 - 04:04 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:04 pm |  |
+| Informe de evaluación | 10/Jun/2025 - 04:04 pm |  |
+| Informe de evaluación | 16/Jun/2025 - 12:04 pm |  |
+| Informe de evaluación | 25/Jun/2025 - 08:51 am |  |
+| Informe de evaluación | 25/Jun/2025 - 08:51 am |  |
+| Informe de evaluación | 25/Jun/2025 - 08:51 am |  |
+| Informe de selección | 25/Jun/2025 - 11:14 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2277241**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** INTELCON TECNOLÓGICA S.A.S * **Tipo documento:** NIT * **Documento:** 901112822 | * **Nombre:** FABIAN ALEXANDER QUIÑONES BONILLA * **Tipo documento:** * **Documento:** 4148955 | Yopal - Casanare | $211.583.896 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2277241****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.8016129
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+30/Oct/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 211,583,896
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2277241 | Informe de selección CO1.AWD.2277241 | 25/Jun/2025 - 11:14 am |  | - |
+| Objeciones | CO1.MSG.8049904 | [Respondido] RE:SUBSANACION | 25/Jun/2025 - 08:52 am |  | - |
+| Reporte preliminar | CO1.AWD.2277241 | Informe de evaluación 3 CO1.AWD.2277241 | 25/Jun/2025 - 08:51 am |  | - |
+| Objeciones | CO1.MSG.8015057 | [Respondido] RE:SUBSANACION AL INFORME DE EVALUCION PRELIMINAR | 25/Jun/2025 - 08:51 am |  | - |
+| Objeciones | CO1.MSG.8030773 | [Respondido] RE:SUBSANACION U.T MANTENIMIENTOS CENAC 2025 | 25/Jun/2025 - 08:51 am |  | - |
+| General | CO1.MSG.8077159 | CUESTIONARIO DE PREGUNTAS Y RESPUESTAS | 25/Jun/2025 - 08:17 am |  | - |
+| Avisos | CO1.REQ.8345947 | Publicación modificación | 19/Jun/2025 - 03:36 pm |  |  |
+| General | CO1.MSG.8059696 | anexos adenda N° 03 | 19/Jun/2025 - 03:32 pm |  | - |
+| General | CO1.MSG.8059668 | ADENDA N°03 | 19/Jun/2025 - 03:31 pm |  | - |
+| General | CO1.MSG.8050811 | Publicidad de documentación de subsanación | 18/Jun/2025 - 12:47 pm |  | - |
+| Objeciones | CO1.MSG.8049904 | SUBSANACION | 18/Jun/2025 - 10:50 am |  | - |
+| General | CO1.MSG.8037288 | SUBSANACION U.T MANTENIMIENTOS CENAC 2025 | 16/Jun/2025 - 02:30 pm |  | - |
+| Reporte preliminar | CO1.AWD.2277241 | Informe de evaluación 2 CO1.AWD.2277241 | 16/Jun/2025 - 12:04 pm |  | - |
+| Avisos | CO1.REQ.8345947 | Publicación modificación | 16/Jun/2025 - 10:48 am |  |  |
+| General | CO1.MSG.8035342 | RESOLUCIÓN DE SANEAMIENTO DEL PROCESO | 16/Jun/2025 - 10:14 am |  | - |
+| General | CO1.MSG.8034740 | RESPUESTA A OBSERVACIÓN FRENTE A INFORME PRELIMINAR DE CARÁCTER JURÍDICO | 16/Jun/2025 - 09:01 am |  | - |
+| Objeciones | CO1.MSG.8030773 | SUBSANACION U.T MANTENIMIENTOS CENAC 2025 | 13/Jun/2025 - 03:23 pm |  | - |
+| Objeciones | CO1.MSG.8015057 | SUBSANACION AL INFORME DE EVALUCION PRELIMINAR | 13/Jun/2025 - 02:59 pm |  | - |
+| General | CO1.MSG.8030358 | Subsanación | 13/Jun/2025 - 02:41 pm |  | - |
+| General | CO1.MSG.8028486 | RE: OBSERVACÓN - DESCONOCIMIENTO DEL PRINCIPIO DE PUBLICIDAD - TRANSPARENCIA - OMISIÓN DE PUBLICIDAD DE LAS OFERTAS | 13/Jun/2025 - 10:36 am |  | - |
+| Avisos | CO1.MSG.8028159 | Publicación de la lista de ofertas del proceso 199-SAMC-CENACYOPAL-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 13/Jun/2025 - 10:04 am |  | - |
+| Avisos | CO1.MSG.8028163 | Publicación de la lista de ofertas del proceso 199-SAMC-CENACYOPAL-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 13/Jun/2025 - 10:04 am |  | - |
+| Avisos | CO1.MSG.8028153 | Publicación de la lista de ofertas del proceso 199-SAMC-CENACYOPAL-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 13/Jun/2025 - 10:03 am |  | - |
+| Reporte preliminar | CO1.AWD.2277241 | Informe de evaluación 1 CO1.AWD.2277241 | 10/Jun/2025 - 04:04 pm |  | - |
+| Avisos | CO1.REQ.8345947 | Publicación modificación | 09/Jun/2025 - 05:59 pm |  |  |
+| General | CO1.MSG.7981591 | INFORME DE PRESENTACIÓN DE OFERTAS. | 04/Jun/2025 - 03:51 pm |  | - |
+| Avisos | CO1.MSG.7981273 | La lista de oferentes del proceso 199-SAMC-CENACYOPAL-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por CENAC YOPAL | 04/Jun/2025 - 03:09 pm |  | - |
+| Avisos | CO1.REQ.8345947 | Publicación modificación | 30/May/2025 - 04:21 pm |  |  |
+| General | CO1.MSG.7966366 | FORMULARIO DE PREGUNTAS Y RESPUESTAS A OBSERVACIONES AL PLIEGO DEFINITIVO | 30/May/2025 - 02:39 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:30 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

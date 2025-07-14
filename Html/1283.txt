@@ -1,0 +1,184 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE LETICIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a2141d0a4c8.05347022
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 07:26:21
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS ERGONÓMICOS PARA LOS FUNCIONARIOS DE LA ALCALDÍA DEL MUNICIPIO DE LETICIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Amazonas : Leticia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46182200 - Equipo de apoyo ergonómico
+
+**Códigos adicionales UNSPSC:**
+
+56101700 - Muebles de oficina
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 10 # 10- 47 Leticia Amazonas COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 46182200, 56101700 | LINEA 68 - COMPRA DE ELEMENTOS ERGONOMICOS Y ACCESORIOS PARA EL MEJORAMIENTO DE LAS CONDICIONES EN EL SITIO DE TRABAJO DE FUNCIONARIOS DE LA ALCALDÍA DE LETICIA PARA IMPLEMENTACIÓN DE ACCIONES EN SGSST. | Mínima cuantía | Recursos propios | $16.000.000 | Oficina Asesora Juridica Alcaldia de Leticia |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 07:00 pm
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 07:15 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+17/Jun/2025 - 08:35 am
+
+**Informe de presentación de ofertas:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+18/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+20/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8400307 | Publicación modificación | 13/Jun/2025 - 08:45 am |  |  |
+| General | CO1.MSG.8027232 | AVISO LIMITACIÓN A MIPYME PROCESO DE SELECCIÓN DE MÍNIMA CUANTÍA No. MC-035-2025 | 13/Jun/2025 - 08:22 am |  | - |
+| Aclaraciones | CO1.MSG.8022001 | SOLICITUD LIMITACION A MIPYMES - PROCESO MC-35-2025 | 12/Jun/2025 - 11:44 am |  | - |
+| Aclaraciones | CO1.MSG.8020518 | SOLICITUD LIMITACIÓN A MIPYME PROCESO MC-035-2025 | 12/Jun/2025 - 09:31 am |  | - |
+| Aclaraciones | CO1.MSG.8018997 | SOLICITUD LIMITACIÓN A MIPYME PROCESO MC-35-2025 | 11/Jun/2025 - 07:44 pm |  | - |

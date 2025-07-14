@@ -1,0 +1,129 @@
+Title: Licitaciones - UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826f33c76f2b5.34471763
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:47:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir gafas de realidad aumentada y virtual para el Grupo de Investigación en Tecnologías de información (ITI) a cargo del docente Héctor Arturo Flórez Fernández con el fin de seguir desarrollando proyectos de investigación en áreas como realidad virtual, realidad aumentada, robótica, biometría, procesamiento de imágenes; lo anterior de acuerdo con las condiciones técnicas determinadas en el siguiente estudio; el cual se encuentra aprobado mediante la convocatoria A2 de 2025 Apoyo financi
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161559 - Gafas tridimensionales 3d para uso con televisores en 3d y computadoras equipadas con gráficos en 3d
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 N. 40 B - 53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:10 pm
+
+**Fecha de Firma del Contrato:**
+
+26/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+26/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+25/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 26/May/2025 - 12:00 pm | 25/Oct/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 26/May/2025 - 12:00 pm | 25/Jun/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8268452 | Publicación modificación | 30/May/2025 - 11:40 am |  |  |
+| Avisos | CO1.REQ.8268452 | Publicación modificación | 29/May/2025 - 01:33 pm |  |  |
+| Avisos | CO1.REQ.8268452 | Publicación modificación | 29/May/2025 - 01:29 pm |  |  |
+| Avisos | CO1.REQ.8268452 | Publicación modificación | 28/May/2025 - 12:39 pm |  |  |
+| Avisos | CO1.REQ.8268452 | Publicación modificación | 23/May/2025 - 10:09 am |  |  |

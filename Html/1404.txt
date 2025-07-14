@@ -1,0 +1,160 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE BRICEÑO BOYACA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68082120240061.83523368
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 09:03:40
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS DE INTERNET A TRAVÉS DE FIBRA ÓPTICA PARA EL FUNCIONAMIENTO ADECUADO DE CADA UNA DE LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPAL DE BRICEÑO - BOYACÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Briceño
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 4 Nº 4-53 Briceño Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 05:58 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 05:59 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 05:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 05:30 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 05:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+24/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+24/Abr/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+24/Abr/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Abr/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/Abr/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+28/Abr/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7806178 | Publicación de la lista de ofertas del proceso MB-INV-022-2025. | 28/Abr/2025 - 12:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2236829 | Informe de evaluación 1 CO1.AWD.2236829 | 28/Abr/2025 - 12:15 pm |  | - |
+| Avisos | CO1.MSG.7795511 | La lista de oferentes del proceso MB-INV-022-2025 publicada por ALCALDIA MUNICIPAL DE BRICEÑO BOYACA | 24/Abr/2025 - 05:15 pm |  | - |

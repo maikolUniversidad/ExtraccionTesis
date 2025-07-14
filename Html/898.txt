@@ -1,0 +1,230 @@
+Title: Licitaciones - UNIDAD ADMINISTRATIVA ESPECIAL CUERPO OFICIAL DE BOMBEROS DE BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e7fd49b9211.75886528
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 07:08:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el alquiler de equipos tecnológicos, periféricos y servicios complementarios para la U.A.E. Cuerpo Oficial de Bomberos de Bogotá. - TIC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112401 - Alquiler de hardware de computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software", "licicodigos": "107" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 20 # 68A-06 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 08:22 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+27/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+27/May/2025 - 10:05 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/May/2025 - 11:59 pm | 29/Jul/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 11:59 pm | 29/Ene/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/May/2025 - 11:59 pm | 29/Jul/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 26,656,000
+
+**Informes proceso de selección CO1.AWD.2265237 de 30/May/2025 - 10:22 am. Valor $26.656.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 28/May/2025 - 12:20 pm |  |
+| Informe de evaluación | 28/May/2025 - 12:20 pm |  |
+| Informe de evaluación | 28/May/2025 - 12:20 pm |  |
+| Informe de evaluación | 28/May/2025 - 12:20 pm |  |
+| Informe de evaluación | 30/May/2025 - 06:17 pm |  |
+| Informe de selección | 30/May/2025 - 10:22 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2265237**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRAN IMAGEN S.A.S. * **Tipo documento:** NIT * **Documento:** 830023178 | * **Nombre:** DIEGO MAURICIO LOPEZ ORTIZ * **Tipo documento:** NIT * **Documento:** 80418659 | Bogotá - Distrito Capital de Bogotá | $26.656.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2265237****
+
+**Cuantía a la firma del contrato:**
+
+$ 26,656,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2265237 | Informe de selección CO1.AWD.2265237 | 30/May/2025 - 10:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265237 | Informe de evaluación 2 CO1.AWD.2265237 | 30/May/2025 - 06:17 pm |  | - |
+| General | CO1.MSG.7961677 | DOCUMENTOS SUBSANACION GI | 29/May/2025 - 05:27 pm |  | - |
+| General | CO1.MSG.7960195 | RE: SOLICITUD FORMAL | 29/May/2025 - 03:29 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265237 | Informe de evaluación 1 CO1.AWD.2265237 | 28/May/2025 - 12:20 pm |  | - |
+| General | CO1.MSG.7942144 | AVISO DE NO LIMITACION A MIPYMES | 27/May/2025 - 09:50 am |  | - |

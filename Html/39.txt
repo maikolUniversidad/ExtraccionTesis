@@ -1,0 +1,247 @@
+Title: Licitaciones - GOBERNACION DEL MAGDALENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682b4fce056325.49064844
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:34:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS OPERATIVOS ESPECIALIZADOS PARA EL FORTALECIMIENTO INSTITUCIONAL DE LOS PROCESOS DE GESTION DOCUMENTAL PARA GARANTIZAR LA ORGANIZACIÓN, CONSERVACION Y ACCESO A LA INFORMACION DEL DEPARTAMENTO DEL MAGDALENA FASE 2, ATENDIENDO LO DISPUESTO EN EL ANEXO TECNICO DE ESPECIFICACIONES MINIMAS DE LA ENTIDAD Y LOS PARÁMETROS Y NORMAS DEFINIDAS POR EL AGN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Magdalena : Santa Marta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231601 - Software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Gestión documental, organización y/o transporte y/o custodia de archivos", "licicodigos": "102,323" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 1C No 16-15 Palacio Tayrona Santa Marta Magdalena COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 615,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231601, 43233501, 81112501, 81161501 | PRESTACIÓN DE SERVICIO DE ALMACENAMIENTO Y SOPORTE PARA EL SISTEMA DE INFORMACIÓN DE GESTIÓN Y SEGUIMIENTO AL PLAN DE DESARROLLO Y SISTEMA DE ATENCIÓN AL CIUDADANO PARA LA GOBERNACIÓN DEL MAGDALENA EN LA MODALIDAD DE SOFTWARE COMO SERVICIO (SAAS) | Contratación directa | Recursos propios | $615.000.000 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+16/May/2025 - 11:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 11:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+19/May/2025 - 10:12 am
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+30/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jun/2025 - 06:00 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+09/Jun/2025 - 09:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+09/Jun/2025 - 09:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+10/Jun/2025 - 06:54 am
+
+**Audiencia de asignación de Riesgos:**
+
+12/Jun/2025 - 04:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+13/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+16/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+20/Jun/2025 - 10:01 am
+
+**Informe de presentación de Ofertas:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 06:00 pm
+
+**Audiencia de Adjudicación:**
+
+08/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 09/Jul/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 09/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,695,950,250
+
+**Informes proceso de selección CO1.AWD.2292154 de 10/Jul/2025 - 03:01 am. Valor $2.695.950.250**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/Jun/2025 - 05:21 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:21 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:21 pm |  |
+| Informe de evaluación | 26/Jun/2025 - 05:21 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 08:07 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 08:07 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 08:07 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 08:07 pm |  |
+| Informe de selección | 10/Jul/2025 - 03:01 pm |  |
+| Informe de selección | 10/Jul/2025 - 03:01 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2292154 | Informe de selección CO1.AWD.2292154 | 10/Jul/2025 - 03:01 pm |  | - |
+| General | CO1.MSG.8131515 | Link Audiencia de Adjudicación - LP-007-2025 | 07/Jul/2025 - 08:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2292154 | Informe de evaluación 2 CO1.AWD.2292154 | 07/Jul/2025 - 08:07 pm |  | - |
+| Objeciones | CO1.MSG.8091866 | [Respondido] RE:SUBSANACION VALIDEZ DE OFERTA PROCESO DE LICITACION PUBLICA N° LP-007-2025 | 07/Jul/2025 - 08:01 pm |  | - |
+| Objeciones | CO1.MSG.8091866 | SUBSANACION VALIDEZ DE OFERTA PROCESO DE LICITACION PUBLICA N° LP-007-2025 | 27/Jun/2025 - 09:53 am |  | - |
+| Reporte preliminar | CO1.AWD.2292154 | Informe de evaluación 1 CO1.AWD.2292154 | 26/Jun/2025 - 05:21 pm |  | - |
+| Avisos | CO1.MSG.8089274 | Publicación de la lista de ofertas del proceso LP-007-2025 (Presentación de oferta). | 26/Jun/2025 - 05:00 pm |  | - |
+| Avisos | CO1.MSG.8065291 | La lista de oferentes del proceso LP-007-2025 (Presentación de oferta) publicada por GOBERNACION DEL MAGDALENA | 20/Jun/2025 - 01:08 pm |  | - |
+| General | CO1.MSG.8018975 | Link Audiencia de Riesgos LP-007-2025 | 12/Jun/2025 - 07:18 am |  | - |
+| Avisos | CO1.REQ.8389278 | Publicación modificación | 12/Jun/2025 - 07:17 am |  |  |
+| Avisos | CO1.REQ.8389278 | Publicación modificación | 10/Jun/2025 - 09:35 am |  |  |

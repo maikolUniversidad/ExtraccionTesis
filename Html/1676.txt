@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO MARIA CANO INSTITUCION EDUCATIVA DISTRITAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680aeb34ab1cc9.14237652
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-25 16:34:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ACTUALIZACIÓN PROGRAMA PRESUPUESTAL Y TESORERÍA, COMPLEMENTADOS CON LOS DEL PROCESO CONTRACTUAL AS FINANCIERO VERSIÓN XYZ Y SOFTWARE DE INVENTARIOS AS INTEGRAL VERSIÓN XYZ, ACORDES A LA NORMATIVIDAD VIGENTE PARA LOS FONDOS DE SERVICIOS EDUCATIVOS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231601 - Software de contabilidad
+
+**Códigos adicionales UNSPSC:**
+
+81112202 - Actualizaciones o parches de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TV 5U No.48J-30 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+10 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,300,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 02:42 pm
+
+**Fecha de Firma del Contrato:**
+
+30/Abr/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/May/2025 - 12:01 am
+
+**Plazo de ejecución del contrato:**
+
+10/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

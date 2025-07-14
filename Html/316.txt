@@ -1,0 +1,287 @@
+Title: Licitaciones - UNIAJC - Subasta Inversa DJC-SA-08.04-034-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68351847201539.27676847
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:37:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+COMPRA DE ELEMENTOS E INSUMOS PARA EL MANTENIMIENTO PREVENTIVO U/O CORRECTIVO Y POTENCIALIZACION DE LOS DIFERENTES EQUIPOS TECNOLOGICOS, EQUIPOS DE COMPUTO FIJO Y MOVIL DE LAS DIFERENTES AREAS ADMINISTRATICAS, ACADEMICAS, LABORATORIOS Y SALAS DE SISTEMAS DE LA INSTITUCIÓN UNIVERSITARIA ANTONIO JOSE CAMACHO - UNIAJC
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121700 - Ferretería eléctrica y suministros
+
+**Códigos adicionales UNSPSC:**
+
+39121500 - Conmutadores, controles y relés y accesorios,43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Materiales para redes de comunicación", "licicodigos": "105,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AV 6 Nte # 28N - 102 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 300,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 08:00 pm
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 08:23 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+04/Jun/2025 - 08:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+06/Jun/2025 - 04:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/Jun/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+06/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+06/Jun/2025 - 06:23 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+09/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 05:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+13/Jun/2025 - 05:01 pm
+
+**Informe de presentación de Ofertas:**
+
+13/Jun/2025 - 05:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+**Apertura del sobre económico:**
+
+08/Jul/2025 - 03:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jul/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+11/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 211,267,364
+
+**Informes proceso de selección CO1.AWD.2287136 de 10/Jul/2025 - 08:59 am. Valor $211.267.364**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 20/Jun/2025 - 02:56 pm |  |
+| Informe de evaluación | 04/Jul/2025 - 08:39 am |  |
+| Informe de selección | 10/Jul/2025 - 08:59 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+08/Jul/2025 - 03:15 pm
+
+**Fecha de inicio:**
+
+08/Jul/2025 - 03:30 pm
+
+**Fecha fin:**
+
+08/Jul/2025 - 03:45 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8147674 | RESOLUCIÓN 393 | 10/Jul/2025 - 09:55 am |  | - |
+| Reporte final | CO1.AWD.2287136 | Informe de selección CO1.AWD.2287136 | 10/Jul/2025 - 08:59 am |  | - |
+| Avisos | CO1.MSG.8135751 | Publicación de la lista de ofertas del proceso DJC-SA-08.04-034-2025 (Presentación de oferta). | 08/Jul/2025 - 03:11 pm |  | - |
+| Avisos | CO1.MSG.8135715 | La lista de oferentes del proceso DJC-SA-08.04-034-2025 (Presentación de oferta) publicada por UNIAJC | 08/Jul/2025 - 03:09 pm |  | - |
+| General | CO1.MSG.8134964 | RESPUESTA A OBSERVACIONES | 08/Jul/2025 - 02:02 pm |  | - |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 07/Jul/2025 - 11:48 am |  |  |
+| Reporte preliminar | CO1.AWD.2287136 | Informe de evaluación 2 CO1.AWD.2287136 | 04/Jul/2025 - 08:39 am |  | - |
+| General | CO1.MSG.8118250 | RESPUESTA A LAS OBSERVACIONES | 04/Jul/2025 - 08:38 am |  | - |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 02/Jul/2025 - 04:45 pm |  |  |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 01/Jul/2025 - 02:07 pm |  |  |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 27/Jun/2025 - 02:07 pm |  |  |
+| General | CO1.MSG.8087547 | SUBSANACION DE DOCUMENTOS | 26/Jun/2025 - 02:45 pm |  | - |
+| General | CO1.MSG.8087052 | SUBSANACION DE DOCUMENTOS | 26/Jun/2025 - 01:45 pm |  | - |
+| General | CO1.MSG.8085879 | SUBSANACION INFORME DE EVALUACION | 26/Jun/2025 - 11:03 am |  | - |
+| General | CO1.MSG.8075480 | DOCUMENTOS PARA ACLARAR Y CONFIRMAR EXPERIENCIA Y PERSONAL | 24/Jun/2025 - 06:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2287136 | Informe de evaluación 1 CO1.AWD.2287136 | 20/Jun/2025 - 02:56 pm |  | - |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 18/Jun/2025 - 04:02 pm |  |  |
+| Avisos | CO1.REQ.8378007 | Publicación modificación | 17/Jun/2025 - 03:12 pm |  |  |
+| Avisos | CO1.MSG.8032451 | Publicación de la lista de ofertas del proceso DJC-SA-08.04-034-2025 (Presentación de oferta). | 13/Jun/2025 - 05:49 pm |  | - |
+| Avisos | CO1.MSG.8032437 | Publicación de la lista de ofertas del proceso DJC-SA-08.04-034-2025 (Presentación de oferta). | 13/Jun/2025 - 05:47 pm |  | - |
+| Avisos | CO1.MSG.8032433 | La lista de oferentes del proceso DJC-SA-08.04-034-2025 (Presentación de oferta) publicada por UNIAJC | 13/Jun/2025 - 05:46 pm |  | - |
+| General | CO1.MSG.8019788 | respuesta a observaciones | 12/Jun/2025 - 08:07 am |  | - |
+| Avisos | CO1.REQ.8322683 | Publicación modificación | 04/Jun/2025 - 04:54 pm |  |  |
+| Aclaraciones | CO1.MSG.7971372 | OBSERVACION AL PROYECTO PLIEGO DE CONDICIONES | 03/Jun/2025 - 09:30 am |  | - |
+| Aclaraciones | CO1.MSG.7965144 | MIPYMES NACIONALES | 30/May/2025 - 11:34 am |  | - |
+| Aclaraciones | CO1.MSG.7965133 | OBSERVACIONES, FINANCIERAS | 30/May/2025 - 11:33 am |  | - |
+| Aclaraciones | CO1.MSG.7959048 | OBSERVACIONES REDCOMPUTO LTDA | 29/May/2025 - 01:11 pm |  | - |

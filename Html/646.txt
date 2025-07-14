@@ -1,0 +1,269 @@
+Title: Licitaciones - INSTITUTO UNIVERSITARIO DE LA PAZ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b4918559163.30287878
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:42:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MEJORAMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA GARANTIZANDO EL ALOJAMIENTO WEB EN SERVIDOR DEDICADO INCLUYENDO INSTALACIÓN, CONFIGURACIÓN Y SOPORTE A LAS PLATAFORMAS VIRTUALES, SISTEMAS DE INFORMACIÓN, HERRAMIENTAS TECNOLOGICAS QUE APOYAN LOS PROCESOS MISIONALES DE LA INSTITUCIÓN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Barrancabermeja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212201 - Sistema de almacenamiento virtual
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Hosting, -Servidores (Suministro y alquiler)", "licicodigos": "102,111,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Kilómetro 14 Vía Bucaramanga, Vereda el Zarzal Barrancabermeja Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 58,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212201 | MEJORAMIENTO DE LA INFRAESTRUCTURA TECNOLÓGICA GARANTIZANDO EL ALOJAMIENTO WEB EN SERVIDOR DEDICADO INCLUYENDO INSTALACIÓN, CONFIGURACIÓN Y SOPORTE A LAS PLATAFORMAS VIRTUALES, SISTEMAS DE INFORMACIÓN, HERRAMIENTAS TECNOLÓGICAS QUE APOYAN LOS PROCESOS MISIONALES DE LA INSTITUCIÓN. | Selección abreviada subasta inversa | Recursos propios | $58.000.000 | SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 04:38 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+19/Jun/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+20/Jun/2025 - 12:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+24/Jun/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+25/Jun/2025 - 04:27 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+25/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+26/Jun/2025 - 11:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/Jun/2025 - 08:00 am
+
+**Plazo máximo para expedir adendas:**
+
+27/Jun/2025 - 08:00 am
+
+**Presentación de Ofertas:**
+
+01/Jul/2025 - 08:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+01/Jul/2025 - 08:05 am
+
+**Informe de presentación de Ofertas:**
+
+01/Jul/2025 - 08:08 am
+
+**Publicación del informe de verificación o evaluación:**
+
+02/Jul/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/Jul/2025 - 08:00 am
+
+**Apertura del sobre económico:**
+
+07/Jul/2025 - 03:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+08/Jul/2025 - 12:00 pm
+
+**Firma del Contrato:**
+
+09/Jul/2025 - 04:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jul/2025 - 12:00 pm | 04/Ene/2027 - 12:00 pm |
+| Calidad del servicio | 20,00 | 04/Jul/2025 - 12:00 pm | 04/Ene/2027 - 12:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 58,000,000
+
+**Informes proceso de selección CO1.AWD.2296005 de 09/Jul/2025 - 10:28 am. Valor $58.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 02/Jul/2025 - 07:58 am |  |
+| Informe de evaluación | 07/Jul/2025 - 02:23 pm |  |
+| Informe de selección | 09/Jul/2025 - 10:28 am |  |
+| Informe de selección | 09/Jul/2025 - 10:28 am |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+07/Jul/2025 - 03:00 pm
+
+**Fecha de inicio:**
+
+07/Jul/2025 - 03:00 pm
+
+**Fecha fin:**
+
+07/Jul/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2296005 | Informe de selección CO1.AWD.2296005 | 09/Jul/2025 - 10:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2296005 | Informe de evaluación 2 CO1.AWD.2296005 | 07/Jul/2025 - 02:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296005 | Informe de evaluación 1 CO1.AWD.2296005 | 02/Jul/2025 - 07:58 am |  | - |
+| Avisos | CO1.MSG.8104425 | Publicación de la lista de ofertas del proceso SUBASTA INVERSA 004-2025 (Presentación de oferta). | 02/Jul/2025 - 07:56 am |  | - |
+| Avisos | CO1.MSG.8098261 | La lista de oferentes del proceso SUBASTA INVERSA 004-2025 (Presentación de oferta) publicada por INSTITUTO UNIVERSITARIO DE LA PAZ | 01/Jul/2025 - 08:58 am |  | - |
+| Aclaraciones | CO1.MSG.8032768 | Observaciones INSTITUTO UNIVERSITARIO DE LA PAZ | 13/Jun/2025 - 07:01 pm |  | - |

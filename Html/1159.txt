@@ -1,0 +1,237 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA CAQUETA - POLICIA NACIONAL DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827d44ad9b410.73785124
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 06:59:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO (A TODO COSTO) PREVENTIVO, CORRECTIVO, ELÉCTRICO, BOLSA DE REPUESTOS Y MANO DE OBRA INCLUIDA, PARA EL SISTEMA DE SEGURIDAD. (SISTEMA DE SEGURIDAD (CCTV, CONTROL DE ACCESOS BIOMÉTRICOS, BLOQUEO DE PUERTAS, CÁMARAS FOTOGRÁFICAS Y DE VIDEO PARA EL LABORATORIO DE FOTOGRAFÍA E IMAGEN FORENSE) INSTALADOS EN EL DEPARTAMENTO DE POLICÍA CAQUETÁ Y EN LA SECCIONAL DE INVESTIGACIÓN CRIMINAL CAQUETÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá : Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151704 - Servicio de instalación y mantenimiento de sistemas instrumentados de seguridad
+
+**Códigos adicionales UNSPSC:**
+
+73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Automatización, -Circuito cerrado de televisión, -Equipos audiovisuales, -Control de acceso, -Buzones, relojes de correspondencia y entrada, -Biometría", "licicodigos": "97,114,115,315,467,627" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 10ª No. 11-40 BARRIO JUAN XXIII Florencia Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+182 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 06:53 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+19/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+19/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 07:00 am
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 06:00 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 06:05 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 06:15 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 07:00 am
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 07:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2025 - 11:59 pm | 30/Ene/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 11:59 pm | 30/Ene/2026 - 11:59 am |
+| Calidad del servicio | 50,00 | 30/May/2025 - 11:59 pm | 16/May/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** ASEMP GRUPO EMPRESARIAL ZOMAC SAS | Florencia - Caquetá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 17,000,000
+
+**Informes proceso de selección CO1.AWD.2263012 de 29/May/2025 - 08:03 am. Valor $17.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 06:08 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:08 pm |  |
+| Informe de evaluación | 26/May/2025 - 06:08 pm |  |
+| Informe de selección | 29/May/2025 - 08:03 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2263012**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** ASEMP GRUPO EMPRESARIAL ZOMAC SAS * **Tipo documento:** NIT * **Documento:** 901211874 | * **Nombre:** LUISA FERNANDA BAENA POLANCO * **Tipo documento:** NIT * **Documento:** 40614889 | Florencia - Caquetá | $17.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2263012****
+
+**Cuantía a la firma del contrato:**
+
+$ 17,000,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2263012 | Informe de selección CO1.AWD.2263012 | 29/May/2025 - 08:03 am |  | - |
+| Reporte preliminar | CO1.AWD.2263012 | Informe de evaluación 1 CO1.AWD.2263012 | 26/May/2025 - 06:08 pm |  | - |
+| Avisos | CO1.MSG.7939731 | Publicación de la lista de ofertas del proceso PN DECAQ MIC 024 2025. | 26/May/2025 - 05:55 pm |  | - |
+| Avisos | CO1.MSG.7927441 | La lista de oferentes del proceso PN DECAQ MIC 024 2025 publicada por DEPARTAMENTO DE POLICIA CAQUETA - POLICIA NACIONAL DE COLOMBIA | 23/May/2025 - 09:24 am |  | - |
+| General | CO1.MSG.7918854 | limitación proceso MiPymes municipal | 21/May/2025 - 06:23 pm |  | - |

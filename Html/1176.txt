@@ -1,0 +1,139 @@
+Title: Licitaciones - Colegio Instituto Técnico Industrial Piloto
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a279f66ae53.34746013
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:48:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquisicion de materiales para las sistemas, dibujo tecnico, steam y otras areas del Instituto Técnico Industrial Piloto IED
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+49161703 - Discos
+
+**Códigos adicionales UNSPSC:**
+
+60141102 - Juegos de mesa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Papelería y elementos de oficina, -Material didáctico y libros, -Electrónica - Robótica, -Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Prototipadora, impresora 3D (Equipos e insumos)", "licicodigos": "105,127,134,212,269,471" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 35 NO. 51B 87 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,960,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 60141102 | Adquisicion elementos STEM | Contratación régimen especial - Régimen especial | Presupuesto de entidad nacional | $3.960.000 | EQUIPO PAA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 07:38 pm
+
+**Fecha de Firma del Contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+19/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+19/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8402439 | Publicación modificación | 25/Jun/2025 - 10:58 am |  |  |
+| Avisos | CO1.REQ.8402439 | Publicación modificación | 18/Jun/2025 - 12:52 pm |  |  |
+| Avisos | CO1.REQ.8402439 | Publicación modificación | 16/Jun/2025 - 02:50 pm |  |  |
+| Avisos | CO1.REQ.8402439 | Publicación modificación | 13/Jun/2025 - 10:23 am |  |  |

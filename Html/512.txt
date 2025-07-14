@@ -1,0 +1,341 @@
+Title: Licitaciones - AGENCIA NACIONAL DEL ESPECTRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681aa8d44ac543.03543852
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-15 06:29:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir el licenciamiento, incluyendo soporte, garantía y mantenimiento de una herramienta de monitoreo, visibilidad y detección de eventos de seguridad en modo SaaS, para la protección de la infraestructura tecnológica de la Agencia Nacional del Espectro - ANE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232800 - Software de administración de redes
+
+**Códigos adicionales UNSPSC:**
+
+43232900 - Software para trabajo en redes
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 93 # 17 - 45 piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Comunidad Andina
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 98,263,853
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232800, 43232801, 43232900 | Gestión TIC- Herramienta de seguridad para el monitoreo de la infraestructura tecnológica | Selección abreviada subasta inversa | Recursos propios | $98.263.853 | ANE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+06/May/2025 - 06:53 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+06/May/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+13/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+16/May/2025 - 06:04 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+16/May/2025 - 11:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+16/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+16/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+22/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+22/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+27/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+29/May/2025 - 11:06 am
+
+**Informe de presentación de Ofertas:**
+
+29/May/2025 - 11:10 am
+
+**Publicación del informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+12/Jun/2025 - 02:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/Jun/2025 - 02:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+16/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 16/Jun/2025 - 02:00 pm | 02/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 16/Jun/2025 - 02:00 pm | 30/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/Ago/2025 - 11:59 pm | 28/Feb/2026 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/Ago/2025 - 11:59 pm | 30/Ago/2027 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMPAÑIA DE INGENIEROS DE SISTEMAS ASOCIADOS COINSA LTDA | Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 98,236,369
+
+**Informes proceso de selección CO1.AWD.2271739 de 12/Jun/2025 - 09:12 am. Valor $98.236.369**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 04/Jun/2025 - 11:05 am |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 12:06 pm |  |
+| Informe de evaluación | 12/Jun/2025 - 06:22 pm |  |
+| Informe de selección | 12/Jun/2025 - 09:12 pm |  |
+| Informe de selección | 12/Jun/2025 - 09:12 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271739**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMPAÑIA DE INGENIEROS DE SISTEMAS ASOCIADOS COINSA LTDA * **Tipo documento:** Nit de Persona Jurídica * **Documento:** 800143512 | * **Nombre:** ALEJANDRO FORERO RANGEL * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79473394 | - Santander | $98.236.369 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271739****
+
+**ID del contrato en SECOP:**
+
+186 DE 2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+30/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 98,236,369
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+12/Jun/2025 - 02:10 pm
+
+**Fecha de inicio:**
+
+12/Jun/2025 - 02:20 pm
+
+**Fecha fin:**
+
+12/Jun/2025 - 02:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2271739 | Informe de selección CO1.AWD.2271739 | 12/Jun/2025 - 09:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271739 | Informe de evaluación 3 CO1.AWD.2271739 | 12/Jun/2025 - 06:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271739 | Informe de evaluación 2 CO1.AWD.2271739 | 12/Jun/2025 - 12:06 pm |  | - |
+| General | CO1.MSG.8007197 | RE: PUBLICACIÓN OFERTAS | 10/Jun/2025 - 11:17 am |  | - |
+| Avisos | CO1.MSG.8007191 | Publicación de la lista de ofertas del proceso SASI-147-2025 (Presentación de oferta). | 10/Jun/2025 - 11:15 am |  | - |
+| Reporte preliminar | CO1.AWD.2271739 | Informe de evaluación 1 CO1.AWD.2271739 | 04/Jun/2025 - 11:04 am |  | - |
+| Avisos | CO1.MSG.7958069 | La lista de oferentes del proceso SASI-147-2025 (Presentación de oferta) publicada por AGENCIA NACIONAL DEL ESPECTRO | 29/May/2025 - 11:08 am |  | - |
+| Avisos | CO1.REQ.8276300 | Publicación modificación | 27/May/2025 - 02:14 pm |  |  |
+| Aclaraciones | CO1.MSG.7942983 | RE: OBSERVACIONES AL PROCESO | 27/May/2025 - 11:06 am |  | - |
+| General | CO1.MSG.7942974 | RE: OBSERVACIONES AL PROCESO | 27/May/2025 - 11:05 am |  | - |
+| General | CO1.MSG.7942966 | RE: Observaciones Pliego | 27/May/2025 - 11:05 am |  | - |
+| Aclaraciones | CO1.MSG.7918040 | OBSERVACIONES AL PROCESO | 21/May/2025 - 05:10 pm |  | - |
+| Aclaraciones | CO1.MSG.7849703 | observaciones | 07/May/2025 - 08:57 pm |  | - |

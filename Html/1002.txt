@@ -1,0 +1,248 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827c59b517f48.71693718
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-08 06:43:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE SOFTWARE POR SUSCRIPCIÓN DE LA HERRAMIENTA NESSUS PROFESSIONAL PARA LA ARMADA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+BASE NAVAL No. 6 ARC BOGOTA CRA 65 #14-91 ZONA INDUSTRIAL Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 05:45 pm
+
+**Publicación de la invitación:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 03:01 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 03:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+06/Jun/2025 - 07:01 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 28/May/2025 - 07:00 pm | 28/Mar/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 28/May/2025 - 07:00 pm | 28/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CCD - Compañía de Ciberseguridad y Defensa | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 21,000,000
+
+**Informes proceso de selección CO1.AWD.2262859 de 04/Jun/2025 - 06:48 am. Valor $21.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 26/May/2025 - 04:18 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:18 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:37 pm |  |
+| Informe de selección | 04/Jun/2025 - 06:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2262859**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CCD COMPAÑIA DE CIBERSEGURIDAD Y DEFENSA SAS * **Tipo documento:** NIT * **Documento:** 900096184 | * **Nombre:** Mauricio Donado Amaya * **Tipo documento:** NIT * **Documento:** 80061688 | - | $21.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2262859****
+
+**ID del contrato en SECOP:**
+
+0123-ARC-CBNL06-2025
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+08/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 21,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2262859 | Informe de selección CO1.AWD.2262859 | 04/Jun/2025 - 06:48 pm |  | - |
+| Avisos | CO1.REQ.8276435 | Publicación modificación | 04/Jun/2025 - 09:26 am |  |  |
+| Reporte preliminar | CO1.AWD.2262859 | Informe de evaluación 2 CO1.AWD.2262859 | 27/May/2025 - 05:37 pm |  | - |
+| General | CO1.MSG.7943907 | Subsanación | 27/May/2025 - 12:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2262859 | Informe de evaluación 1 CO1.AWD.2262859 | 26/May/2025 - 04:18 pm |  | - |
+| Avisos | CO1.MSG.7932850 | La lista de oferentes del proceso 0142-ARC-CBNL06-2025 publicada por ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA | 23/May/2025 - 09:18 pm |  | - |
+| General | CO1.MSG.7919002 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 21/May/2025 - 06:44 pm |  | - |
+| Avisos | CO1.REQ.8276435 | Publicación modificación | 21/May/2025 - 06:27 pm |  |  |
+| General | CO1.MSG.7904514 | FORMULARIO DE PREGUNTAS Y RESPUESTAS | 19/May/2025 - 05:54 pm |  | - |

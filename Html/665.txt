@@ -1,0 +1,251 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6854a07d803125.08975566
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-08 17:52:24
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO DE TÓNER, CINTAS Y DEMÁS ELEMENTOS REQUERIDOS PARA EQUIPOS DE IMPRESIÓN DE LA OFICINA PRINCIPAL DE LA AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103103 - Tóner para impresoras o fax
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 95 No. 13-08 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103 | SUMINISTRO DE TONER CINTAS Y DEMAS ELEMENTOS REQUERIDOS PARA EQUIPOS DE IMPRESIÓN DE LA OFICINA PRINCIPAL DE LA AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | Mínima cuantía | Recursos propios | $75.000.000 | SUBDIRECCION GENERAL DE CONTRATACION ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 06:26 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+02/Jul/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 02/Jul/2025 - 07:00 pm | 28/May/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 02/Jul/2025 - 07:00 pm | 02/Jul/2028 - 07:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 02/Jul/2025 - 07:00 pm | 02/Jul/2026 - 07:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC PRONTO SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 52,800,000
+
+**Informes proceso de selección CO1.AWD.2293091 de 07/Jul/2025 - 10:33 am. Valor $52.800.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 06:15 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:15 pm |  |
+| Informe de evaluación | 27/Jun/2025 - 06:15 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 07:45 am |  |
+| Informe de evaluación | 03/Jul/2025 - 07:45 am |  |
+| Informe de evaluación | 03/Jul/2025 - 07:45 am |  |
+| Informe de selección | 07/Jul/2025 - 10:33 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2293091**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC PRONTO S.A.S. * **Tipo documento:** NIT * **Documento:** 830089925 | * **Nombre:** EINAR RENGIFO OME * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 12197521 | - Distrito Capital de Bogotá | $52.800.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2293091****
+
+**Cuantía a la firma del contrato:**
+
+$ 52,800,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293091 | Informe de selección CO1.AWD.2293091 | 07/Jul/2025 - 10:33 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293091 | Informe de evaluación 2 CO1.AWD.2293091 | 03/Jul/2025 - 07:44 am |  | - |
+| Reporte preliminar | CO1.AWD.2293091 | Informe de evaluación 1 CO1.AWD.2293091 | 27/Jun/2025 - 06:15 pm |  | - |
+| Avisos | CO1.MSG.8085471 | Publicación de la lista de ofertas del proceso MC 002-145-2025. | 26/Jun/2025 - 10:24 am |  | - |
+| Avisos | CO1.MSG.8085464 | La lista de oferentes del proceso MC 002-145-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 26/Jun/2025 - 10:24 am |  | - |
+| General | CO1.MSG.8083647 | AVISO LIMITACION MIPYMES | 25/Jun/2025 - 09:12 pm |  | - |
+| General | CO1.MSG.8083027 | Formurios | 25/Jun/2025 - 06:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8079344 | RE: Observación CERTIFICACIÓN DE DISTRIBUIDOR AUTORIZADO | 25/Jun/2025 - 12:03 pm |  | - |
+| General | CO1.MSG.8077597 | ENCUESTA ANTICORRUPCION | 25/Jun/2025 - 09:14 am |  | - |
+| Aclaraciones | CO1.MSG.8063746 | Observación CERTIFICACIÓN DE DISTRIBUIDOR AUTORIZADO | 20/Jun/2025 - 10:09 am |  | - |

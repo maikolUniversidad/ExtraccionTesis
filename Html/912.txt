@@ -1,0 +1,270 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DEL CAUCA 12
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d2760939c80.30720635
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:38:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE RECARGA Y RE MANUFACTURA DE CARTUCHOS Y TÓNERES, MANTENIMIENTO PREVENTIVO Y CORRECTIVO, ASÍ COMO EL SUMINISTRO DE REPUESTOS PARA LAS IMPRESORAS, ESCÁNERES, PERTENECIENTES A LAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72154066 - Mantenimiento general de equipos de oficina
+
+**Códigos adicionales UNSPSC:**
+
+81112306 - Mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Mantenimiento e instalación de equipos de cómputo, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "105,106,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 1N - 28 Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72154066, 81112306 | prestar el servicio de recarga y re manufactura de cartuchos y tóneres, mantenimiento preventivo y correctivo, así como el suministro de repuestos para las impresoras, escáneres, pertenecientes a las diferentes oficinas de la Corporación Autónoma Regional Del Cauca – C.R.C. y sus Direcciones Territoriales | Mínima cuantía | Recursos propios | $32.142.768 | GRUPO CONTRATACION JURIDICA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+20/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+20/May/2025 - 08:06 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 03:05 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+23/May/2025 - 06:01 pm
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 06:03 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 08:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 08:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 03:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/May/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 27/May/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 27/May/2025 - 12:00 pm | 30/Jun/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 27/May/2025 - 12:00 pm | 31/Dic/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** martin alberto collazos ramirez | Popayán - Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 32,142,768
+
+**Informes proceso de selección CO1.AWD.2264703 de 30/May/2025 - 08:22 am. Valor $32.142.768**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 04:34 pm |  |
+| Informe de selección | 30/May/2025 - 08:22 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264703**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** martin alberto collazos ramirez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 76304046 | * **Nombre:** martin alberto collazos ramirez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 76304046 | Popayán - Cauca | $32.142.768 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264703****
+
+**ID del contrato en SECOP:**
+
+0312-2025
+
+**Estado del contrato:**
+
+En ejecución
+
+**Fecha inicio del contrato:**
+
+11/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+10/Ene/2026 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 32,142,768
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264703 | Informe de selección CO1.AWD.2264703 | 30/May/2025 - 08:22 am |  | - |
+| Reporte preliminar | CO1.AWD.2264703 | Informe de evaluación 1 CO1.AWD.2264703 | 27/May/2025 - 04:34 pm |  | - |
+| Avisos | CO1.REQ.8281371 | Publicación modificación | 27/May/2025 - 10:36 am |  |  |
+| General | CO1.MSG.7934341 | RE: OBSERVACION A PUBLICACION LISTA DE OFERENTES | 26/May/2025 - 08:29 am |  | - |
+| Avisos | CO1.MSG.7932315 | Publicación de la lista de ofertas del proceso CRC-MC-0011-2025. | 23/May/2025 - 06:08 pm |  | - |
+| Avisos | CO1.MSG.7932303 | La lista de oferentes del proceso CRC-MC-0011-2025 publicada por CORPORACION AUTONOMA REGIONAL DEL CAUCA 12 | 23/May/2025 - 06:06 pm |  | - |
+| Avisos | CO1.REQ.8281371 | Publicación modificación | 22/May/2025 - 06:22 pm |  |  |
+| General | CO1.MSG.7923941 | aviso limitacion a mipymes | 22/May/2025 - 03:53 pm |  | - |

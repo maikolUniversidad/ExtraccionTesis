@@ -1,0 +1,296 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE - CENAC - ARMENIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834ee5ac7b5e4.31832949
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 20:03:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION DE DRONES PARA EL BATALLON DE INFANTERIA N° 22 BATALLA DE AYACUCHO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Quindío : Armenia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+25131802 - Aeromodelo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+ARMENIA Armenia Quindío COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+30 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 25131802 | ADQUISICION DE DRONES PARA EL BIAYA | Mínima cuantía | Presupuesto de entidad nacional | $35.100.000 | EQUIPO CONTRATACION 2024 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 05:28 pm
+
+**Publicación de la invitación:**
+
+26/May/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+30/May/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jun/2025 - 06:00 pm
+
+**Apertura de sobres:**
+
+03/Jun/2025 - 06:05 pm
+
+**Informe de presentación de ofertas:**
+
+03/Jun/2025 - 06:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+10/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+11/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+13/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 11/Jun/2025 - 12:00 pm | 06/Nov/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 11/Jun/2025 - 12:00 pm | 06/Ene/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IMPORTAREX SAS | Cali - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 24,276,000
+
+**Informes proceso de selección CO1.AWD.2271378 de 11/Jun/2025 - 05:33 am. Valor $24.276.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 04/Jun/2025 - 05:46 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 05:46 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 05:46 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:47 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:47 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 05:47 pm |  |
+| Informe de selección | 11/Jun/2025 - 05:33 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2271378**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IMPORTAREX SAS * **Tipo documento:** NIT * **Documento:** 805031667 | * **Nombre:** JOSE ILMIDO MENDEZ * **Tipo documento:** NIT * **Documento:** 94449457 | Cali - Valle del Cauca | $24.276.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2271378****
+
+**Contrato 033-CENACARMENIA-2025 de IMPORTAREX SAS:**
+
+**ID del contrato en SECOP:**
+
+033-CENACARMENIA-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICION DE DRONES PARA EL BATALLON DE INFANTERIA N° 22 BATALLA DE AYACUCHO
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 25131802 | DRONES con las siguientes especificaciones Camara de luz visible Sensor CMOS de 1/1.3 pulgada 20 millones de píxeles con Apertura ajustable de F2 8 a F11 Zoom digital de 16x, Compatibilidad con ISO de hasta 48.000 (modo nocturno)Resoluciones fotográficas de 5472 * 3076 / 3840 * 2160 Resolución máxima de vídeo de 4K 30P, Resúmenes Ligero y portátil Control sencillo Reconocimiento y posicionamiento de todos los objetivos Alcance de transmisión de video de 12 km, Resolución 6K Visión binocular de tres vías para evitar obstáculos Resistencia de vuelo de 40 minutos | 3,00 | UN | 11.699.999,00 | 8.092.000,00 | 35.099.997,00 | 24.276.000,00 |
+
+**Fecha inicio del contrato:**
+
+16/Jun/2025 - 12:00 am
+
+**Fecha de terminación del contrato:**
+
+06/Jul/2025 - 12:00 am
+
+**Plazo de ejecución:**
+
+30 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 24,276,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8024876 | RE: Solicitud de publicación de respuesta del oferente por PRECIOOS BAJOS IMPORTAREX S.A.S. | 12/Jun/2025 - 04:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2278392 | Informe de evaluación 1 CO1.AWD.2278392 | 11/Jun/2025 - 07:06 pm |  | - |
+| Reporte final | CO1.AWD.2271378 | Informe de selección CO1.AWD.2271378 | 11/Jun/2025 - 05:33 pm |  | - |
+| Reporte final | CO1.AWD.2271378 | Informe de selección CO1.AWD.2271378 | 11/Jun/2025 - 05:29 pm |  | - |
+| Reporte final | CO1.AWD.2271378 | Informe de selección CO1.AWD.2271378 | 11/Jun/2025 - 05:28 pm |  | - |
+| Reporte preliminar | CO1.AWD.2271378 | Informe de evaluación 2 CO1.AWD.2271378 | 09/Jun/2025 - 05:47 pm |  | - |
+| Avisos | CO1.REQ.8322123 | Publicación modificación | 06/Jun/2025 - 04:44 pm |  |  |
+| Reporte preliminar | CO1.AWD.2271378 | Informe de evaluación 1 CO1.AWD.2271378 | 04/Jun/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.7976241 | Publicación de la lista de ofertas del proceso 036-MC-CENACARMENIA-2025. | 03/Jun/2025 - 06:38 pm |  | - |
+| Avisos | CO1.MSG.7976233 | La lista de oferentes del proceso 036-MC-CENACARMENIA-2025 publicada por CENTRAL ADMINISTRATIVA Y CONTABLE - CENAC - ARMENIA | 03/Jun/2025 - 06:37 pm |  | - |
+| Avisos | CO1.REQ.8322123 | Publicación modificación | 30/May/2025 - 09:47 am |  |  |
+| General | CO1.MSG.7955951 | ADENDA NO. 1 | 30/May/2025 - 08:39 am |  | - |
+| Aclaraciones | CO1.MSG.7955948 | RE: OBSERVACIONES | 28/May/2025 - 11:19 pm |  | - |
+| Avisos | CO1.REQ.8322123 | Publicación modificación | 28/May/2025 - 04:37 pm |  |  |
+| General | CO1.MSG.7952459 | AVISO LIMITACION A MIPYME | 28/May/2025 - 03:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7946220 | OBSERVACIONES | 27/May/2025 - 04:36 pm |  | - |

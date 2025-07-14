@@ -1,0 +1,126 @@
+Title: Licitaciones - IE GUILLERMO LEON VALENCIA AGUACHICA, CESAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808238ed40177.64449718
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-23 15:28:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+suscripción anual Software Contable con los módulos de: Contabilidad, Tesorería, Presupuesto, Almacén y Activos Fijos, para el buen funcionamiento de las actividades administrativas para la institución Educativa Guillermo Leon Valencia de Aguachica, Cesar
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cesar : Aguachica
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231601 - Software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CR 15 3 54 BRR PARQUE SAN ANTONIO Aguachica Cesar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231601, 43231602, 43231603, 43231604, 43231605 | SERVICIO SOFTWARE CONTABLE EN LA NUBE | Contratación régimen especial - Régimen especial | SGP | $3.000.000 | CENTRAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 05:05 pm
+
+**Fecha de Firma del Contrato:**
+
+28/Abr/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/Abr/2025 - 10:00 am
+
+**Plazo de ejecución del contrato:**
+
+28/Oct/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

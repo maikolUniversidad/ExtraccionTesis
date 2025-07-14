@@ -1,0 +1,122 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA LEONIDAS RUBIO VILLEGAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681cab693458c3.80444662
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-08 08:02:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de soporte Mantenimiento, y actualización del software integrado de gestión Empresarial SYSCAFE, en la institución educativa de la institución educativa Leónidas Rubio Villegas
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 30 N° 2 A – 31 BARRIO CLARET Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+230 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 9,400,856
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+08/May/2025 - 07:56 am
+
+**Fecha de Firma del Contrato:**
+
+12/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+30/Dic/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

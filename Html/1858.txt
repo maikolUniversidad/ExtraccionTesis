@@ -1,0 +1,94 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL COTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809a3b99a0d14.99726755
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIO DE TELEFONÍA CANAL IP - E1, CON 30 TRONCALES SIP QUE INCLUYA LOS EQUIPOS ACTIVOS REQUERIDOS PARA LA CONEXIÓN E INSTALACIÓN, PUESTA EN MARCHA Y FUNCIONAMIENTO DE ACUERDO CON LAS ESPECIFICACIONES TÉCNICAS REQUERIDAS POR LA ENTIDAD PARA EL MUNICIPIO DE COTA CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Cota
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81161712 - Servicio de voz en la red
+
+**Códigos adicionales UNSPSC:**
+
+81161708 - Servicio de soporte telefónico,83111501 - Servicio de telefonía local,83111502 - Servicios telefónicos de larga distancia,83112304 - Servicios de transmisión óptica (ocx)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Plantas telefónicas - PBX - Teléfonos IP - Teléfonos", "licicodigos": "210" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 4 No. 12 - 63 Cota Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 09:31 pm
+
+**Plazo para solicitar aclaraciones:**
+
+28/Abr/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/Abr/2025 - 05:00 pm

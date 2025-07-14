@@ -1,0 +1,251 @@
+Title: Licitaciones - GOBERNACIÓN DE BOYACÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ca91387bc26.42456880
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-03 06:37:52
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE ELEMENTOS PARA PREVENIR EL RIESGO OSTEOMUSCULAR EN LOS FUNCIONARIOS DE LA GOBERNACIÓN DE BOYACÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Tunja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+42211700 - Ayudas de comunicación para personas físicamente discapacitadas
+
+**Códigos adicionales UNSPSC:**
+
+43211600 - Accesorios de computador,43211700 - Dispositivos informáticos de entrada de datos,43202200 - Subconjuntos para dispositivos electrónicos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 20 # 9 - 90 Tunja Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 42211700, 43211700, 43202200, 43211600 | Adquisición de elementos para prevenir el riesgo osteomuscular en los funcionarios de la gobernación de Boyacá | Mínima cuantía | Recursos propios | $31.000.000 | SECRETARIA CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 10:57 am
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 08:31 am
+
+**Informe de presentación de ofertas:**
+
+27/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+28/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 12:10 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 12:00 am | 02/Mar/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 27/May/2025 - 12:00 am | 02/Oct/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,280,800
+
+**Informes proceso de selección CO1.AWD.2264216 de 29/May/2025 - 05:30 am. Valor $12.280.800**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/May/2025 - 05:17 pm |  |
+| Informe de evaluación | 27/May/2025 - 05:17 pm |  |
+| Informe de selección | 29/May/2025 - 05:30 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2264216**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SUMINISTRO INGENIERÍA MANTENIMIENTO Y CONSTRUCCIÓN SAS * **Tipo documento:** NIT * **Documento:** 901094964 | * **Nombre:** CESAR AUGUSTO CAMARGO RODRIGUEZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1235243949 | Tunja - Boyacá | $12.280.800 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2264216****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7932632
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Ago/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 12,280,800
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2264216 | Informe de selección CO1.AWD.2264216 | 29/May/2025 - 05:30 pm |  | - |
+| Avisos | CO1.MSG.7947013 | Publicación de la lista de ofertas del proceso SMC-GB-023-2025. | 27/May/2025 - 05:27 pm |  | - |
+| Avisos | CO1.MSG.7947007 | La lista de oferentes del proceso SMC-GB-023-2025 publicada por GOBERNACIÓN DE BOYACÁ | 27/May/2025 - 05:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2264216 | Informe de evaluación 1 CO1.AWD.2264216 | 27/May/2025 - 05:17 pm |  | - |
+| Avisos | CO1.REQ.8264246 | Publicación modificación | 22/May/2025 - 06:33 pm |  |  |
+| General | CO1.MSG.7925665 | AVISO LIMITACION A MIPYME CON DOMICILIO EN EL DEPARTAMENTO DE BOYACÁ | 22/May/2025 - 06:05 pm |  | - |
+| General | CO1.MSG.7925636 | RESPUESTA A OBSERVACIONES | 22/May/2025 - 06:04 pm |  | - |

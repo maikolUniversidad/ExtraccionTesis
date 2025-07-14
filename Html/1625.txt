@@ -1,0 +1,133 @@
+Title: Licitaciones - COLEGIO METROPOLITANO DEL SUR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68097f0d979f11.67178480
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 15:02:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE ACTUALIZACION DEL SOFTWARE CONTABLE PARA EL AREA DE PAGADURÍA DEL COLEGIO METROPOLITANO DEL SUR.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43231601 - Software de contabilidad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AV 33-117-100 Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231601 | Actualización software contable | Contratación régimen especial - Régimen especial | SGP | $2.500.000 | PLAN ANUAL DE ADQUISICIONES |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 01:56 pm
+
+**Fecha de Firma del Contrato:**
+
+29/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+28/Nov/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8154038 | Publicación modificación | 29/Abr/2025 - 09:22 am |  |  |
+| Avisos | CO1.REQ.8154038 | Publicación modificación | 28/Abr/2025 - 10:42 am |  |  |

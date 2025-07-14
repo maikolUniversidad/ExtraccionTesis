@@ -1,0 +1,107 @@
+Title: Licitaciones - CAJA DE SUELDOS DE RETIRO DE LA POLICIA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682351f10d6ed4.47385253
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:13:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+AUNAR ESFUERZOS PARA LA CELEBRACIÓN DE UN CONVENIO ESPECIAL DE COOPERACIÓN PARA LA FORMULACIÓN, EJECUCIÓN Y PUESTA EN MARCHA DEL PROYECTO DE TECNOLOGÍA PARA EL DESARROLLO Y FUNCIONAMIENTO DE UNA PLATAFORMA DE SERVICIOS DIGITALES PARA LA GESTIÓN Y TRÁMITE DE CRÉDITOS POR LIBRANZA, ASÍ COMO EL APOYO A OTROS SERVICIOS SOCIALES PARA LOS AFILIADOS, BENEFICIARIOS, FUNCIONARIOS Y PENSIONADOS DE LA ENTIDAD, CONFORME A LO ESTABLECIDO EN LA LEY 1527 DE 2012 Y 1902 DE 2018.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80161500 - Servicios de apoyo gerencial
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Capacitación en tecnologías de la información y telecomunicaciones, -Asesorías en el sector TIC", "licicodigos": "102,117,158,781" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 No 12B-58 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/May/2025 - 08:52 am
+
+**Plazo para solicitar aclaraciones:**
+
+15/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+19/May/2025 - 11:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7981724 | PUBLICACION DE INFORME | 04/Jun/2025 - 03:47 pm |  | - |
+| General | CO1.MSG.7929668 | AMPLIACIÓN PLAZO | 23/May/2025 - 02:11 pm |  | - |
+| General | CO1.MSG.7929598 | RE: Solicitud ampliación plazo entrega información requerimiento 22 de mayo | 23/May/2025 - 02:03 pm |  | - |
+| General | CO1.MSG.7924290 | REQUERIMIENTO INFORMACIÓN | 22/May/2025 - 04:18 pm |  | - |
+| General | CO1.MSG.7914811 | REMISIÓN DOCUMENTOS DEBIDAMENTE FIRMADOS | 21/May/2025 - 11:49 am |  | - |
+| General | CO1.MSG.7907208 | CRONOGRAMA | 20/May/2025 - 10:56 am |  | - |
+| General | CO1.MSG.7901934 | RE: Solicitud aclaración y logística | 19/May/2025 - 02:23 pm |  | - |
+| General | CO1.MSG.7901921 | RE: Observaciones a la invitación pública para suscribir Convenio Especial de Cooperación Tecnológica | 19/May/2025 - 02:22 pm |  | - |
+| General | CO1.MSG.7899250 | ACLARATORIA | 19/May/2025 - 08:41 am |  | - |
+| Aclaraciones | CO1.MSG.7896821 | RE: OBSERVACIONES A LA INVITACIÓN PLATAFORMA TECNÓLOGICA | 16/May/2025 - 05:14 pm |  | - |
+| General | CO1.MSG.7896795 | RE: Preguntas y observaciones invitación plataforma tecnológica CASUR | 16/May/2025 - 05:12 pm |  | - |
+| Aclaraciones | CO1.MSG.7888585 | OBSERVACIONES A LA INVITACIÓN PLATAFORMA TECNÓLOGICA | 15/May/2025 - 02:48 pm |  | - |

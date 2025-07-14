@@ -1,0 +1,130 @@
+Title: Licitaciones - ENTerritorio S.A - Régimen Especial CEE-003-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68276f99bfbe39.37763474
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 12:02:50
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIOS DE FACTURACIÓN ELECTRONICA QUE INCLUYA ACTUALIZACIONES NORMATIVAS AJUSTES, SOPORTE TRANSFERENCIA DE CONOCIMIENTO Y APROVISIONOAMIENTO DE UNA BOLSA DE TRANSACCIONES PARA ENTERRITORIO S.A.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+84111500 - Servicios contables
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,43231600 - Software de planificación de recursos empresariales (ERP) y contabilidad financiera
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 18 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No. 13-19 Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+16/May/2025 - 11:55 am
+
+**Fecha límite de presentación de ofertas:**
+
+22/May/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+22/May/2025 - 11:05 am
+
+**Fecha de Firma del Contrato:**
+
+06/Jun/2025 - 10:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/Jun/2025 - 08:00 am
+
+**Plazo de ejecución del contrato:**
+
+09/Jun/2026 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/Jun/2025 - 08:00 am | 09/Feb/2027 - 11:59 pm |

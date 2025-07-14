@@ -1,0 +1,100 @@
+Title: Licitaciones - Rama Judicial – Dirección Ejecutiva de Administración Judicial
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681290e54afe89.62664093
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:39:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestar servicios bajo el esquema de Software as a Service (SaaS) para la gestión académica, garantizando su operación, soporte y fortalecimiento del ecosistema tecnológico de la Escuela Judicial Rodrigo Lara Bonilla (EJRLB). El servicio abarcará la atención de discentes, formadores, gestores y demás usuarios e incluirá soporte técnico pedagógico, así como mejora en la calidad de los datos, alineados con el Plan Estratégico de Transformación Digital de la Rama Judicial
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+86141700 - Tecnología educacional
+
+**Códigos adicionales UNSPSC:**
+
+86111500 - Servicios de aprendizaje a distancia,81111500 - Ingeniería de software o hardware,43232200 - Software de gestión de contenidos,43232500 - Software educativo o de referencia,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,60121600 - Materiales de estudio
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 No. 27 - 18 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 03:41 pm
+
+**Plazo para solicitar aclaraciones:**
+
+07/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+09/May/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7843607 | OBSERVACIONES | 07/May/2025 - 08:22 am |  | - |

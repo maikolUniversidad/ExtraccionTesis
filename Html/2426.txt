@@ -1,0 +1,100 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6835e682e83116.51904806
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:09:32
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ADQUISICIÓN DE UN SISTEMA DE VISUALIZACIÓN Y SUS COMPONENTES, COMO PARTE DE LOS SERVICIOS TECNOLÓGICOS GESTIONADOS POR LA OFICINA DE TI DEL FONDO ÚNICO DE TECNOLOGÍAS DE LA NFORMACIÓN Y LAS COMUNICACIONES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211900 - Monitores y pantallas de computador
+
+**Códigos adicionales UNSPSC:**
+
+45111600 - Proyectores y suministros,45111900 - Equipos, hardware y controladores para sistemas de teleconferencia y videoconferencia
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Edificio Manuel Murillo Toro; Carrera 8 entre Calles 12A y 12B; Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 09:50 am
+
+**Plazo para solicitar aclaraciones:**
+
+03/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+05/Jun/2025 - 05:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8325733 | Publicación modificación | 03/Jun/2025 - 08:53 am |  |  |

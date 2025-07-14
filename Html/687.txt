@@ -1,0 +1,243 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE POPAYAN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684df2d8e20329.83948854
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:51:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DEL SERVIDOR DHCP CON SU WINDOWS SERVER Y LICENCIA PARA EL DEPARTAMENTO DE POLICÍA CAUCA, Y DEMÁS UNIDADES QUE DEPENDEN ADMINISTRATIVAMENTE DE LA POLICÍA METROPOLITANA DE POPAYÁN
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cauca : Popayán
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servidores (Suministro y alquiler)", "licicodigos": "495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+avenida panamericana1n-75 Popayán Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500 | SERVIDOR DHCP CON SU WINDOWS SERVER Y LICENCIA | Mínima cuantía | Presupuesto de entidad nacional | $50.000.000 | Departamento de Policía Cauca |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+14/Jun/2025 - 04:40 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 08:00 am
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 08:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 08:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+20/Jun/2025 - 07:10 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 07:15 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 03:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+24/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+25/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 27/Jun/2025 - 07:00 pm | 28/Ago/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 27/Jun/2025 - 07:00 pm | 25/Ago/2030 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** DISSOF SAS | Popayán - Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 41,100,000
+
+**Informes proceso de selección CO1.AWD.2289785 de 04/Jul/2025 - 05:44 am. Valor $41.100.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 05:39 pm |  |
+| Informe de selección | 04/Jul/2025 - 05:44 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2289785**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** DISSOF SAS * **Tipo documento:** NIT * **Documento:** 901799498 | * **Nombre:** DIEGO SALOMON ROA ROA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79567569 | Popayán - Cauca | $41.100.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2289785****
+
+**Cuantía a la firma del contrato:**
+
+$ 41,100,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2289785 | Informe de selección CO1.AWD.2289785 | 04/Jul/2025 - 05:44 pm |  | - |
+| Avisos | CO1.MSG.8075460 | Publicación de la lista de ofertas del proceso PN MEPOY MIC 085 DE 2025. | 24/Jun/2025 - 05:41 pm |  | - |
+| Reporte preliminar | CO1.AWD.2289785 | Informe de evaluación 1 CO1.AWD.2289785 | 24/Jun/2025 - 05:39 pm |  | - |
+| Avisos | CO1.MSG.8068399 | La lista de oferentes del proceso PN MEPOY MIC 085 DE 2025 publicada por POLICIA METROPOLITANA DE POPAYAN | 20/Jun/2025 - 07:19 pm |  | - |
+| General | CO1.MSG.8060757 | FORMATOS EDITABLES PN MEPOY MIC 085 DE 2025 | 19/Jun/2025 - 04:51 pm |  | - |
+| Avisos | CO1.REQ.8415618 | Publicación modificación | 19/Jun/2025 - 04:29 pm |  |  |
+| General | CO1.MSG.8054028 | AVISO DE LIMITACION A MIPYMES PN-MEPOY MIC 085 DE 2025 | 18/Jun/2025 - 05:27 pm |  | - |

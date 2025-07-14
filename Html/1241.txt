@@ -1,0 +1,260 @@
+Title: Licitaciones - ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806de58d14261.94479334
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 01:39:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS EN LÍNEA DE DISEÑO, PLATAFORMAS DE VIDEO Y ANIMACION EN ENTORNO DIGITAL PARA LA ARMADA DE COLOMBIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232605 - Software analítico o científico
+
+**Códigos adicionales UNSPSC:**
+
+43232102 - Software de imágenes gráficas o de fotografía,43232103 - Software de creación y edición de video,43232101 - Software de diseño de patrones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 65 No. 14-91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232605 | RENOVACION Y COMPRA LICENCIAS ADOBE | Mínima cuantía | Presupuesto de entidad nacional | $90.945.600 | DIRECCIÓN DE COMUNICACIÓNES ESTRATEGICAS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 06:41 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 05:05 pm
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 05:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+15/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/May/2025 - 05:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/May/2025 - 07:00 pm | 09/Abr/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 15/Ago/2025 - 07:00 pm | 15/Ene/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 12:19 am | * **Nombre:** CREAR IMAGEN S.A.S | Distrito Capital de Bogotá |
+| 2 | 29/Abr/2025 - 03:48 pm | * **Nombre:** SUPPLY | Bogotá - Distrito Capital de Bogotá |
+| 3 | 29/Abr/2025 - 03:58 pm | * **Nombre:** CLOUD CITY | Bogotá - Distrito Capital de Bogotá |
+| 4 | 29/Abr/2025 - 04:10 pm | * **Nombre:** Software IT | Bogotá - Distrito Capital de Bogotá |
+| 5 | 29/Abr/2025 - 04:55 pm | * **Nombre:** GOLD SYS LTDA | - |
+| 6 | 29/Abr/2025 - 04:58 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 12,496,000
+
+**Informes proceso de selección CO1.AWD.2239456 de 15/May/2025 - 05:29 am. Valor $12.496.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 04:38 pm |  |
+| Informe de evaluación | 05/May/2025 - 05:02 pm |  |
+| Informe de evaluación | 05/May/2025 - 05:02 pm |  |
+| Informe de evaluación | 05/May/2025 - 05:02 pm |  |
+| Informe de selección | 15/May/2025 - 05:29 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2239456**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GOLD SYS LTDA * **Tipo documento:** NIT * **Documento:** 830038304 | * **Nombre:** YAQUELINE BAYONA PEÑALOSA * **Tipo documento:** NIT * **Documento:** 52620137 | - | $12.496.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2239456****
+
+**Cuantía a la firma del contrato:**
+
+$ 12,496,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2239456 | Informe de selección CO1.AWD.2239456 | 15/May/2025 - 05:29 pm |  | - |
+| Avisos | CO1.REQ.8145958 | Publicación modificación | 14/May/2025 - 06:40 pm |  |  |
+| Avisos | CO1.REQ.8145958 | Publicación modificación | 06/May/2025 - 06:50 pm |  |  |
+| Reporte preliminar | CO1.AWD.2239456 | Informe de evaluación 2 CO1.AWD.2239456 | 05/May/2025 - 05:02 pm |  | - |
+| General | CO1.MSG.7835236 | RESPUESTA OBSERVACIONES | 05/May/2025 - 05:00 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239456 | Informe de evaluación 1 CO1.AWD.2239456 | 30/Abr/2025 - 04:38 pm |  | - |
+| Avisos | CO1.MSG.7815455 | Publicación de la lista de ofertas del proceso 0117-ARC-CBNL06-2025. | 29/Abr/2025 - 05:40 pm |  | - |
+| Avisos | CO1.MSG.7815426 | La lista de oferentes del proceso 0117-ARC-CBNL06-2025 publicada por ARMADA NACIONAL BASE NAVAL No. 6 ARC BOGOTA | 29/Abr/2025 - 05:37 pm |  | - |
+| General | CO1.MSG.7813188 | RESPUESTA OBSERVACIONES DE EMPRESA GOLD SYS LTDA | 29/Abr/2025 - 02:35 pm |  | - |
+| General | CO1.MSG.7795938 | FORMULARIO DE PREGUNTAS Y RESPUESTAS A LA INVITACIÓN | 24/Abr/2025 - 05:56 pm |  | - |
+| General | CO1.MSG.7795817 | AVISO DE LIMITAR A MI PYMES | 24/Abr/2025 - 05:44 pm |  | - |

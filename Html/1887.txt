@@ -1,0 +1,100 @@
+Title: Licitaciones - ALCALDIA LOCAL DE KENNEDY
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807fe4238e446.38860162
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 09:47:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SOLICITUD COTIZACION EQUIPOS TECNOLOGICOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Suministro partes de computador y/o Periféricos", "licicodigos": "102,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+TRANSVERSAL 78K No. 41 A 04 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+10 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 03:26 pm
+
+**Plazo para solicitar aclaraciones:**
+
+23/Abr/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+02/May/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8149594 | Publicación modificación | 28/Abr/2025 - 08:51 am |  |  |

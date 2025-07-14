@@ -1,0 +1,306 @@
+Title: Licitaciones - DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680832f207a0e3.88432320
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-23 05:10:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquirir dispositivos Firewall, licencias, soporte y actualización para las soluciones de dispositivos de seguridad perimetral de nueva generación con IPS en alta disponibilidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43233200 - Software de seguridad y protección,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "102,103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 44 # 52 165 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - Guatemala, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - Perú, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+360 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,499,139,211
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112500, 81112200, 81111800, 43233200, 43222500 | Adquirir dispositivos Firewall, licencias, soporte y actualización para las soluciones de dispositivos de seguridad perimetral de nueva generación con IPS en alta disponibilidad. | Selección abreviada subasta inversa | Recursos propios | $2.499.139.211 | SECRETARÍA SUMINISTROS Y SERVICIOS |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 06:51 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+22/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/May/2025 - 05:27 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+05/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+07/May/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 10:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/May/2025 - 10:02 am
+
+**Informe de presentación de Ofertas:**
+
+13/May/2025 - 10:00 am
+
+**Publicación del informe de verificación o evaluación:**
+
+14/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+20/May/2025 - 04:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+21/May/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+22/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+23/May/2025 - 10:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+26/May/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+28/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/May/2025 - 12:00 am | 29/Nov/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 am | 29/May/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/May/2025 - 12:00 am | 29/Nov/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 12/May/2025 - 09:52 am | * **Nombre:** CCD - Compañía de Ciberseguridad y Defensa | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 2,499,139,211
+
+**Informes proceso de selección CO1.AWD.2251813 de 21/May/2025 - 04:02 am. Valor $2.499.139.211**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 10:57 am |  |
+| Informe de selección | 21/May/2025 - 04:02 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2251813**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CCD COMPAÑIA DE CIBERSEGURIDAD Y DEFENSA SAS * **Tipo documento:** NIT * **Documento:** 900096184 | * **Nombre:** Mauricio Donado Amaya * **Tipo documento:** NIT * **Documento:** 80061688 | - | $2.499.139.211 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2251813****
+
+**Cuantía a la firma del contrato:**
+
+$ 2,499,139,211
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+20/May/2025 - 04:05 pm
+
+**Fecha de inicio:**
+
+20/May/2025 - 04:10 pm
+
+**Fecha fin:**
+
+20/May/2025 - 04:20 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7920367 | Solicitud RUT CCD S.A.S. | 22/May/2025 - 09:14 am |  | - |
+| Reporte final | CO1.AWD.2251813 | Informe de selección CO1.AWD.2251813 | 21/May/2025 - 04:02 pm |  | - |
+| Avisos | CO1.MSG.7913585 | La lista de oferentes del proceso 9015651 (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 21/May/2025 - 09:42 am |  | - |
+| Avisos | CO1.MSG.7913588 | Publicación de la lista de ofertas del proceso 9015651 (Presentación de oferta). | 21/May/2025 - 09:42 am |  | - |
+| General | CO1.MSG.7909308 | Adenda 2 | 20/May/2025 - 03:15 pm |  | - |
+| Avisos | CO1.REQ.8208666 | Publicación modificación | 20/May/2025 - 03:07 pm |  |  |
+| Reporte preliminar | CO1.AWD.2251813 | Informe de evaluación 1 CO1.AWD.2251813 | 14/May/2025 - 10:57 am |  | - |
+| Avisos | CO1.MSG.7871233 | Publicación de la lista de ofertas del proceso 9015651 (Presentación de oferta). | 13/May/2025 - 08:21 am |  | - |
+| General | CO1.MSG.7869100 | Simulacro de Subasta | 12/May/2025 - 05:02 pm |  | - |
+| Avisos | CO1.MSG.7866067 | La lista de oferentes del proceso 9015651 (Presentación de oferta) publicada por DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN | 12/May/2025 - 11:22 am |  | - |
+| General | CO1.MSG.7854950 | Adenda 1 9015651 | 08/May/2025 - 04:12 pm |  | - |
+| Avisos | CO1.REQ.8208666 | Publicación modificación | 08/May/2025 - 04:09 pm |  |  |
+| Aclaraciones | CO1.MSG.7849581 | Respuesta a Observaciones al Pliego definitivo del proceso N° 9015651 / NETMASK S.A.S. | 07/May/2025 - 08:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7843016 | Observaciones al Pliego definitivo del proceso N° 9015651 / NETMASK S.A.S. | 06/May/2025 - 09:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7827653 | RE: OBSERVACIONES DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN;, OBSERVACION 2, OBSERVACION | 02/May/2025 - 04:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7813117 | OBSERVACIONES DISTRITO ESPECIAL DE CIENCIA TECNOLOGIA E INNOVACION DE MEDELLIN; | 29/Abr/2025 - 02:28 pm |  | - |
+| Aclaraciones | CO1.MSG.7811415 | OBSERVACION 2 | 29/Abr/2025 - 10:35 am |  | - |
+| Aclaraciones | CO1.MSG.7807842 | OBSERVACION | 28/Abr/2025 - 04:39 pm |  | - |

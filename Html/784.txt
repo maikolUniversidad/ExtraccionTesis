@@ -1,0 +1,244 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE CRAVO NORTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68094927ac2be7.37638745
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 06:34:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA EL MEJORAMIENTO Y FORTALECIMIENTO INSTITUCIONAL DE LA ADMINISTRACIÓN DEL MUNICIPIO DE CRAVO NORTE, ARAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Arauca : Cravo Norte
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43201818 - Unidades de discos digitales de video dvd
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+CRA 4 # 2 - 62 Cravo Norte Arauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201818, 43211507 | adquisición de equipos tecnológicos para el mejoramiento y fortalecimiento institucional de la administración del municipio de Cravo norte, Arauca | Mínima cuantía | SGP | $39.840.000 | SECRETARIA DE PLANEACION Y OBRAS PUBLICAS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 02:47 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 07:30 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 07:35 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+07/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 03:00 pm | 04/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/May/2025 - 03:00 pm | 04/Sep/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** Said Orlando gelvis contreras | Convención - Norte de Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,840,000
+
+**Informes proceso de selección CO1.AWD.2238805 de 06/May/2025 - 06:53 am. Valor $39.840.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/Abr/2025 - 08:12 pm |  |
+| Informe de selección | 06/May/2025 - 06:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2238805**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Said Orlando gelvis contreras * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 13169824 | * **Nombre:** Said Orlando gelvis contreras * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 13169824 | Convención - Norte de Santander | $39.840.000 | - |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2238805****
+
+**Cuantía a la firma del contrato:**
+
+$ 39,840,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2238805 | Informe de selección CO1.AWD.2238805 | 06/May/2025 - 06:53 pm |  | - |
+| Objeciones | CO1.MSG.7822639 | [Respondido] RE:Entrega de Documentos para acreditar Requisitos Habilitantes | 06/May/2025 - 06:52 pm |  | - |
+| General | CO1.MSG.7842599 | RESPUESTA OBSERVACIONES | 06/May/2025 - 06:49 pm |  | - |
+| General | CO1.MSG.7835613 | ADENDA No. 2 | 05/May/2025 - 05:36 pm |  | - |
+| Avisos | CO1.REQ.8156027 | Publicación modificación | 05/May/2025 - 05:35 pm |  |  |
+| General | CO1.MSG.7824237 | ADENDA No. 01 | 02/May/2025 - 09:29 am |  | - |
+| Avisos | CO1.REQ.8156027 | Publicación modificación | 02/May/2025 - 09:15 am |  |  |
+| Objeciones | CO1.MSG.7822639 | Entrega de Documentos para acreditar Requisitos Habilitantes | 30/Abr/2025 - 08:11 pm |  | - |
+| Avisos | CO1.MSG.7816165 | Publicación de la lista de ofertas del proceso MC-CN-026-2025. | 29/Abr/2025 - 08:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238805 | Informe de evaluación 1 CO1.AWD.2238805 | 29/Abr/2025 - 08:12 pm |  | - |
+| Avisos | CO1.MSG.7810256 | La lista de oferentes del proceso MC-CN-026-2025 publicada por ALCALDIA MUNICIPIO DE CRAVO NORTE | 29/Abr/2025 - 08:30 am |  | - |
+| General | CO1.MSG.7800266 | ACTA DE RECEPCIÒN DE MANIFESTACIONES DE MIPYMES PARA LA LIMITACIÒN DEL PROCESO DE SELECCIÓN DE MINIMA CUANTIA CUANTÍA No MC-CN-026-2025 | 25/Abr/2025 - 02:48 pm |  | - |
+| Avisos | CO1.REQ.8156027 | Publicación modificación | 25/Abr/2025 - 02:45 pm |  |  |

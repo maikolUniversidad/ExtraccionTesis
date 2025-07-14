@@ -1,0 +1,148 @@
+Title: Licitaciones - INSTITUCION EDUCATIVA NORMAL SUPERIOR DE ENVIGADO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827371645cad2.57598366
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:47:18
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+COMPRA DE IMPRESORAS PARA LA INSTITUCIÓN EDUCATIVA NORMAL SUPERIOR DE ENVIGADO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Envigado
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212105 - Impresoras láser
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 48 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 38 Sur # 45 A 87 Envigado Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 13,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212105 | Compra de impresora | Contratación régimen especial - Régimen especial | SGP | $13.000.000 | Contratación |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 07:58 am
+
+**Fecha de Firma del Contrato:**
+
+22/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+28/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+28/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/May/2025 - 12:00 pm | 30/Dic/2025 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 30/May/2025 - 12:00 pm | 30/Dic/2025 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 08/Jul/2025 - 01:34 pm |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 24/Jun/2025 - 11:19 am |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 03/Jun/2025 - 01:47 pm |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 30/May/2025 - 01:18 pm |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 28/May/2025 - 11:52 am |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 26/May/2025 - 01:26 pm |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 23/May/2025 - 09:50 am |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 23/May/2025 - 07:31 am |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 21/May/2025 - 02:54 pm |  |  |
+| Avisos | CO1.REQ.8271724 | Publicación modificación | 21/May/2025 - 10:37 am |  |  |

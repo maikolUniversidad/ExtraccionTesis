@@ -1,0 +1,279 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ce83bef8573.06673332
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 16:34:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Adquisición de la suscripción del derecho al uso de la licencia iText para PDF, incluido soporte técnico.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232110 - Software de hoja de cálculo
+
+**Códigos adicionales UNSPSC:**
+
+43232400 - Programas de desarrollo,43231500 - Software funcional específico de la empresa,43232100 - Software de edición y creación de contenidos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+15 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 156,394,200
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232110 | Componente de desarrollo PDF - IText | Selección abreviada subasta inversa | Recursos propios | $156.394.200 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/May/2025 - 03:19 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/May/2025 - 11:00 pm
+
+**Publicación Estudios Previos:**
+
+20/May/2025 - 11:00 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+28/May/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jun/2025 - 10:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jun/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 08:32 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 11:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+06/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+10/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 10:00 am
+
+**Plazo máximo para expedir adendas:**
+
+13/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+17/Jun/2025 - 02:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+17/Jun/2025 - 02:01 pm
+
+**Informe de presentación de Ofertas:**
+
+17/Jun/2025 - 02:02 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+25/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+07/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+09/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+10/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+15/Jul/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 15/Jul/2025 - 12:00 pm | 31/Jul/2027 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 15/Jul/2025 - 12:00 pm | 31/Jul/2027 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 152,072,480
+
+**Informes proceso de selección CO1.AWD.2302450 de 10/Jul/2025 - 08:18 am. Valor $152.072.480**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 07/Jul/2025 - 11:19 am |  |
+| Informe de evaluación | 07/Jul/2025 - 11:19 am |  |
+| Informe de selección | 10/Jul/2025 - 08:18 pm |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+07/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+
+07/Jul/2025 - 10:15 am
+
+**Fecha fin:**
+
+07/Jul/2025 - 10:35 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2302450 | Informe de selección CO1.AWD.2302450 | 10/Jul/2025 - 08:18 pm |  | - |
+| General | CO1.MSG.8132604 | Reanudación de la Audiencia de Subasta | 08/Jul/2025 - 09:11 am |  | - |
+| Reporte preliminar | CO1.AWD.2300123 | Informe de evaluación 1 CO1.AWD.2300123 | 07/Jul/2025 - 11:19 am |  | - |
+| General | CO1.MSG.8126676 | Audiencia de Subasta SF.PSA-004-2025. | 07/Jul/2025 - 10:45 am |  | - |
+| General | CO1.MSG.8112322 | Respuesta a las observaciones allegadas al informe de evalaución. | 03/Jul/2025 - 09:59 am |  | - |
+| Avisos | CO1.MSG.8083729 | Publicación de la lista de ofertas del proceso SF.PSA-004-2025 (Presentación de oferta). | 25/Jun/2025 - 09:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291372 | Informe de evaluación 1 CO1.AWD.2291372 | 25/Jun/2025 - 09:46 pm |  | - |
+| Avisos | CO1.MSG.8044244 | La lista de oferentes del proceso SF.PSA-004-2025 (Presentación de oferta) publicada por SUPERINTENDENCIA FINANCIERA DE COLOMBIA | 17/Jun/2025 - 02:06 pm |  | - |
+| General | CO1.MSG.7982898 | Respuesta a las observaciones allegadas dentro del proceso de selección itext. | 04/Jun/2025 - 05:26 pm |  | - |

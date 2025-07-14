@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA DISTRITO CAPITAL GRUPO DE APOYO ADMINISTRATIVO - CGI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68548a513d5449.04942067
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:51:29
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+CONTRATAR LA ADQUISICION DE EQUIPOS DE COMPUTO Y OTRAS COMPRAS DE EQUIPO PARA LOS PROYECTOS SENNOVA DEL CENTRO PARA LA INDUSTRIA DE LA COMUNICACION GRAFICA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+26111600 - Generadores de potencia,43211902 - Paneles o monitores de pantalla de cristal líquido lcd
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad", "licicodigos": "104,105,109" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 15#31-42 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 04:46 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 05:00 pm

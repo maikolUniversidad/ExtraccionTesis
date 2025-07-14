@@ -1,0 +1,90 @@
+Title: Licitaciones - EMAVI - Solicitud de información a los Proveedores (SECOPII) EC-014-JEAES-DICTI-CITAE-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684c3f1a11ab79.29837788
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:39:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de un servidor y un disco duro externo para actividades de Ciencia, Tecnología e Innovación del CITAE.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211502 - Servidores de computador de gama alta
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos, -Servidores (Suministro y alquiler)", "licicodigos": "105,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 8 No. 58-67 EMAVI ENTIDAD CONTRATANTE Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 09:56 am
+
+**Plazo para solicitar aclaraciones:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 11:59 pm

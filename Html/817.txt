@@ -1,0 +1,209 @@
+Title: Licitaciones - MUNICIPIO DE CAREPA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809018d6e2227.53144403
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-30 17:22:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SUMINISTRO DE MATERIALES, PAPELERÍA Y DEMÁS ELEMENTOS DE CONSUMOS REQUERIDOS EN LAS DISTINTAS DEPENDENCIAS DE LA ADMINISTRACIÓN MUNICIPA DE CAREPA..
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Carepa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44121905 - Almohadillas de tinta o estampillas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CL 77 # 76 - 63 Carepa Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44121905 | SUMINISTRO DE ELEMENTOS DE OFICINA Y PAPALERIA PARA LA ADMINISTRACION MUNIICIPAL DE CAREPA | Contratación directa | Recursos propios | $250.000.000 | Alcaldía Municipal de Carepa 2024-2027 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 10:01 am
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 08:10 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 08:12 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 08:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 05:05 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 30/Abr/2025 - 12:00 pm | 06/Sep/2025 - 11:59 pm |
+| Calidad del servicio | 10,00 | 30/Abr/2025 - 12:00 pm | 06/Sep/2025 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(29/Abr/2025 - 09:47 am:54 AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE CAREPA en 1 día de tiempo transcurrido (29/Abr/2025 - 09:47 am:54 AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: SE DECLARA DESIERTO EL PROCESO - NO SE PRESENTÓ NINGÚN OFERENTE
+
+**Fecha de la cancelación:**
+
+29/Abr/2025 - 09:47 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7810955 | DECLARATORIA DESIERTA | 29/Abr/2025 - 09:45 am |  | - |
+| Avisos | CO1.REQ.8153987 | Publicación modificación | 24/Abr/2025 - 04:52 pm |  |  |
+| Aclaraciones | CO1.MSG.7795191 | RESPUESTA A LAS OBSERVACIONES | 24/Abr/2025 - 04:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7790440 | SOLICITUD A MIPYMES MUNICIPAL | 23/Abr/2025 - 11:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7790177 | LIMITACIÓN A PYME | 23/Abr/2025 - 08:30 pm |  | - |

@@ -1,0 +1,201 @@
+Title: Licitaciones - SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684ca870b32bf2.29178194
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:33:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de reposapiés y bases para portátiles para los funcionarios de la Superintendencia Financiera de Colombia.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46182205 - Descansos para los pies
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro partes de computador y/o Periféricos", "licicodigos": "105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+Calle 7 No. 4 - 49 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 56112000 | Adquisición de reposapiés y bases para equipos de cómputo | Mínima cuantía | Recursos propios | $15.000.000 | Grupo de Contratos |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 05:34 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 04:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 03:01 pm
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 03:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+11/Jul/2025 - 11:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 04:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+15/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 15/Jul/2025 - 12:00 pm | 28/Ago/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 15/Jul/2025 - 12:00 pm | 28/Ago/2026 - 11:59 am |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8130342 | Publicación de la lista de ofertas del proceso SF.MC-018-2025. | 07/Jul/2025 - 05:22 pm |  | - |
+| Reporte preliminar | CO1.AWD.2299961 | Informe de evaluación 1 CO1.AWD.2299961 | 07/Jul/2025 - 05:20 pm |  | - |
+| General | CO1.MSG.8114120 | RE: Solicitud de Informacion | 03/Jul/2025 - 05:03 pm |  | - |
+| General | CO1.MSG.8113398 | RE: Requerimiento de aclaración GROUP SERVICES SAS | 03/Jul/2025 - 11:52 am |  | - |
+| General | CO1.MSG.8100377 | RE: Requerimiento contractual GROUP SERVICES SAS | 01/Jul/2025 - 01:26 pm |  | - |
+| Avisos | CO1.MSG.8073521 | La lista de oferentes del proceso SF.MC-018-2025 publicada por SUPERINTENDENCIA FINANCIERA DE COLOMBIA | 24/Jun/2025 - 03:11 pm |  | - |
+| General | CO1.MSG.8053605 | Aviso de no limitación a Mipymes. | 18/Jun/2025 - 07:01 pm |  | - |

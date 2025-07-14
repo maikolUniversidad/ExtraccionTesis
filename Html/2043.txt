@@ -1,0 +1,118 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68519257a43d38.73364302
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 15:50:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO PARA LOS EQUIPOS TECNOLÓGICOS, PLANTAS ELÉCTRICAS, TORRES DE COMUNICACIÓN Y MANTENIMIENTO A EQUIPOS DE LA EMISORA 101.8 FM PARA LA POLICÍA METROPOLITANA DE VILLAVICENCIO Y UNIDADES ADSCRITAS ADMINISTRATIVAMENTE POR LOTES.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112204 - Mantenimiento de software de sistemas operativos
+
+**Códigos adicionales UNSPSC:**
+
+81112303 - Mantenimiento de computadores “mainframe”,81112300 - Mantenimiento y soporte de hardware de computador,81112306 - Mantenimiento de impresoras,72154300 - Servicios de mantenimiento y reparación de equipo motivo y generación de energía eléctrica,73152108 - Servicio de mantenimiento y reparación de equipos eléctricos,72151500 - Servicios de sistemas eléctricos,30141500 - Aislamiento térmico,72154000 - Servicios de edificios especializados y comercios,72151600 - Servicios de sistemas especializados de comunicación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Plantas eléctricas, generadores eléctricas, -Equipos para radiodifusión y televisión", "licicodigos": "106,227,321" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 21 sur via kirpas - Camino Ganadero Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+Si
+
+**Información adicional de la visita:**
+
+Coordinar con el Grupo de tecnologías de la información y las comunicaciones. Tel 3144014545
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 533,450,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 72101511, 72151514, 72154300, 81112307 | SERVICIO DE MANTENIMIENTO PLANTAS ELECTRICAS, AIRES Y EQUIPOS DE COMPUTO | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $533.450.000 | GRUPO DE CONTRATOS |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 11:04 am
+
+**Plazo para solicitar aclaraciones:**
+
+19/Jun/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8426748 | Publicación modificación | 17/Jun/2025 - 11:06 am |  |  |

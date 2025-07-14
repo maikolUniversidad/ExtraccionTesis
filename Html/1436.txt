@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO ECOLOGICO DE FLORIDABLANCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bb269472839.78639901
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 14:20:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Servicio de la plataforma académica integral del colegio ecológico de Floridablanca para la vigencia 2025, Con el fin de cumplir con el plan anual de adquisiciones y brindar un adecuado desempeño para el funcionamiento de la institución educativa.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Santander : Floridablanca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRO 4.2 RUITOQUE BAJO, SECTOR LA HORMIGA Floridablanca Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 6,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112200 | Servicio de la plataforma académica integral del colegio ecológico de Floridablanca | Contratación régimen especial - Régimen especial | SGP | $6.500.000 | CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+07/May/2025 - 01:37 pm
+
+**Fecha de Firma del Contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+09/May/2026 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

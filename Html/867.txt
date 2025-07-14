@@ -1,0 +1,234 @@
+Title: Licitaciones - ALCALDIA LOCAL DE PUENTE ARANDA-FONDO DE DESARROLLO LOCAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68514c22705511.12394314
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTAR EL SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO, INCLUIDO EL SUMINISTRO DE REPUESTOS, DE LOS EQUIPO TECNOLOGICOS DE PROPIEDAD DEL FONDO DE DESARROLLO LOCAL DE PUENTE ARANDA, PUNTOS VIVE DIGITAL Y JUNTA ADMINISTRADORA LOCAL, DE ACUERDO CON LOS ESTUDIOS PREVIOS, ANEXO TECNICO Y PROPUESTA PRESENTADA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112303 - Mantenimiento de computadores “mainframe”
+
+**Códigos adicionales UNSPSC:**
+
+81112306 - Mantenimiento de impresoras,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,44103125 - Kit de mantenimiento de impresoras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 31D 4 05 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103125, 81112303, 81112306, 81112307 | Prestar el servicio de mantenimiento preventivo y correctivo, incluido el suministro de repuestos, de los Equipo Tecnológicos de propiedad del Fondo de Desarrollo Local de Puente Aranda, Puntos Vive Digital y Junta administradora Local, de acuerdo con los estudios previos, anexo técnico y propuesta presentada. ID416 | Mínima cuantía | NotApplied | $36.203.370 | CONTRATACIÓN FONDO DE DESARROLLO PUENTE ARANDA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/Jun/2025 - 11:50 pm
+
+**Publicación de estudios previos:**
+
+16/Jun/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+16/Jun/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+17/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+17/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+24/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+24/Jun/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+24/Jun/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+25/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+27/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 12:00 pm | 16/Sep/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 pm | 16/Jul/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 01/Jul/2025 - 12:00 pm | 16/Sep/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 12:00 pm | 16/Sep/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** COMINFOR SAS | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 36,203,370
+
+**Informes proceso de selección CO1.AWD.2291203 de 27/Jun/2025 - 06:54 am. Valor $36.203.370**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 25/Jun/2025 - 09:15 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:15 am |  |
+| Informe de evaluación | 25/Jun/2025 - 09:15 am |  |
+| Informe de evaluación | 27/Jun/2025 - 09:29 am |  |
+| Informe de selección | 27/Jun/2025 - 06:54 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2291203 | Informe de selección CO1.AWD.2291203 | 27/Jun/2025 - 06:54 pm |  | - |
+| Objeciones | CO1.MSG.8082963 | [Respondido] RE:SUBSANACION | 27/Jun/2025 - 02:46 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291203 | Informe de evaluación 2 CO1.AWD.2291203 | 27/Jun/2025 - 09:29 am |  | - |
+| Objeciones | CO1.MSG.8082963 | SUBSANACION | 25/Jun/2025 - 06:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2291203 | Informe de evaluación 1 CO1.AWD.2291203 | 25/Jun/2025 - 09:15 am |  | - |
+| Avisos | CO1.MSG.8070220 | Publicación de la lista de ofertas del proceso FDLPA-IPMC-008-2025. | 24/Jun/2025 - 08:38 am |  | - |
+| Avisos | CO1.MSG.8070192 | La lista de oferentes del proceso FDLPA-IPMC-008-2025 publicada por ALCALDIA LOCAL DE PUENTE ARANDA-FONDO DE DESARROLLO LOCAL | 24/Jun/2025 - 08:35 am |  | - |
+| General | CO1.MSG.8065593 | Respuesta a las observaciones | 20/Jun/2025 - 02:19 pm |  | - |
+| General | CO1.MSG.8061590 | Respuesta a las observaciones | 19/Jun/2025 - 06:09 pm |  | - |
+| General | CO1.MSG.8055598 | Respuesta a las observaciones | 19/Jun/2025 - 06:38 am |  | - |
+| Aclaraciones | CO1.MSG.8051571 | RE: Limitación a MIPYME - Proceso N.° FDLPA-IPMC-008-2025 | 18/Jun/2025 - 02:16 pm |  | - |
+| General | CO1.MSG.8051550 | Aviso no limitacion a Mipymes FDLPA-IPMC-008-2025 | 18/Jun/2025 - 02:14 pm |  | - |
+| General | CO1.MSG.8051464 | Respuesta a las observaciones | 18/Jun/2025 - 02:11 pm |  | - |
+| Aclaraciones | CO1.MSG.8043874 | Limitación a MIPYME - Proceso N.° FDLPA-IPMC-008-2025 | 17/Jun/2025 - 12:58 pm |  | - |

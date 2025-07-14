@@ -1,0 +1,166 @@
+Title: Licitaciones - TRANSITO DE LOS PATIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684a0c56515578.93089219
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-11 22:19:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SERVICIO DE RECARGAS DE TONER, CAMBIO DE CILINDRO Y CUCHILLAS PARA EL BUEN FUNCIONAMIENTO DE LAS IMPRESORAS DE LAS DIFERENTES DEPENDENCIAS DEL INSTITUTO DE TRANSITO Y TRANSPORTE DEL MUNICIPIO DE LOS PATIOS.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Los Patios
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111623 - Servicios temporales de compras y logística
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Av. 10 #28-46 Los Patios Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 44103103, 80111623 | LINEA 007: SERVICIO DE RECARGA DE TONER Y CAMBIO DE CILINDROS Y CUCHILLAS PARA EL BUEN FUNCIONAMIENTO DE LAS IMPRESORAS INSTALADAS EN LAS DIFERENTES DEPENDENCIAS DEL INSTITUTO. | Mínima cuantía | Recursos propios | $39.858.000 | INSTITUTO DE TRANSITO Y TRANSPORTE DEL MUNICIPIO DE LOS PATIOS |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+11/Jun/2025 - 05:02 pm
+
+**Publicación de estudios previos:**
+
+11/Jun/2025 - 05:02 pm
+
+**Fecha de publicación:**
+
+11/Jun/2025 - 05:48 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+12/Jun/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+12/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+12/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+12/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+13/Jun/2025 - 05:10 pm
+
+**Apertura de sobres:**
+
+13/Jun/2025 - 05:11 pm
+
+**Informe de presentación de ofertas:**
+
+17/Jun/2025 - 08:00 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+17/Jun/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+17/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+18/Jun/2025 - 08:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

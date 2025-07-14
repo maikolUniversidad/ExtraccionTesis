@@ -1,0 +1,285 @@
+Title: Licitaciones - INSTITUTO DE DEPORTES Y RECREACION DE MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a9673897947.83346166
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-22 06:41:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LICENCIAMIENTO DE SOFTWARE ESPECIALIZADO PARA ARQUITECTURA, INGENIERÍA Y ESTRUCTURAS QUE PERMITA IMPLEMENTAR LA METODOLOGÍA BIM (BUILDING INFORMATION MODELING) - FORTALECIMIENTO DE LA INFRAESTRUCTURA DE ESCENARIOS DEPORTIVOS Y TECNOLÓGICA INDER MEDELLÍN.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software,43233700 - Software de administración de sistemas,43233500 - Software de intercambio de información,43233200 - Software de seguridad y protección
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+calle 47d 75 276 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Seguros
+
+**Plazo del contrato:**
+
+3 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 05:38 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 11:59 pm
+
+**Publicación de la invitación:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+09/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+09/May/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+12/May/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+12/May/2025 - 05:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+13/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/May/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+19/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 20/May/2025 - 12:00 am | 20/Nov/2025 - 11:59 pm |
+| Pago de salarios | 10,00 | 20/May/2025 - 12:00 am | 20/May/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 20/May/2025 - 12:00 am | 20/May/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 12/May/2025 - 12:12 pm | * **Nombre:** BUYSOFT DE COLOMBIA SAS | Bogotá - Distrito Capital de Bogotá |
+| 2 | 12/May/2025 - 01:38 pm | * **Nombre:** GOLD SYS LTDA | - |
+| 3 | 12/May/2025 - 04:11 pm | * **Nombre:** MCAD TRAINING & CONSULTING S.A.S. | Medellín - Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 40,400,000
+
+**Informes proceso de selección CO1.AWD.2250578 de 20/May/2025 - 12:39 pm. Valor $40.400.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 13/May/2025 - 06:28 pm |  |
+| Informe de evaluación | 14/May/2025 - 05:42 pm |  |
+| Informe de selección | 20/May/2025 - 12:39 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2250578**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MCAD TRAINING & CONSULTING S.A.S. * **Tipo documento:** NIT * **Documento:** 901510263 | * **Nombre:** AGUSTIN FERNANDEZ URIBE * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 70551399 | Medellín - Antioquia | $40.400.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2250578****
+
+**Contrato 6700042064 de MCAD TRAINING & CONSULTING S.A.S.:**
+
+**ID del contrato en SECOP:**
+
+6700042064
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADQUIRIR LICENCIAMIENTO DE SOFTWARE ESPECIALIZADO PARA ARQUITECTURA, INGENIERÍA Y ESTRUCTURAS QUE PERMITA IMPLEMENTAR LA METODOLOGÍA BIM (BUILDING INFORMATION MODELING) FORTALECIMIENTO DE INFRAESTRUCTURA DE ESCENARIOS DEPORTIVOS Y TECNOLÓGICA INDER MEDELLÍN
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112500 | ADQUIRIR LICENCIAMIENTO DE SOFTWARE ESPECIALIZADO PARA ARQUITECTURA, INGENIERIA Y ESTRUCTURAS QUE PERMITA IMPLEMENTAR LA METODOLOGIA BIM (BUILDING INFORMATION MODELING) FORTALECIMIENTO DE LA INFRAESTRUCTURA DE ESCENARIOS DEPORTIVOS Y TECNOLOGICA INDER MEDELLIN | 1,00 | VG | 49.450.000,00 | 40.400.000,00 | 49.450.000,00 | 40.400.000,00 |
+
+**Fecha de terminación del contrato:**
+
+30/May/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+3 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 40,400,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Aceptación Oferta.pdf |  |
+|  | RP 7000001260.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2250578 | Informe de selección CO1.AWD.2250578 | 20/May/2025 - 12:39 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250578 | Informe de evaluación 2 CO1.AWD.2250578 | 14/May/2025 - 05:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2250578 | Informe de evaluación 1 CO1.AWD.2250578 | 13/May/2025 - 06:28 pm |  | - |
+| Avisos | CO1.MSG.7869465 | La lista de oferentes del proceso SM-006-2025 publicada por INSTITUTO DE DEPORTES Y RECREACION DE MEDELLIN | 12/May/2025 - 05:28 pm |  | - |
+| General | CO1.MSG.7863086 | AVISO DE LIMITACIÓN A MIPYMES SM-006-2025 | 09/May/2025 - 08:47 pm |  | - |
+| General | CO1.MSG.7863084 | RESPUESTA OBSERVACIONES | 09/May/2025 - 08:45 pm |  | - |
+| Aclaraciones | CO1.MSG.7863073 | RESPUESTA OBSERVACIONES | 09/May/2025 - 08:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7855461 | OBSERVACIÓN | 08/May/2025 - 04:51 pm |  | - |
+| Aclaraciones | CO1.MSG.7850271 | OBSERVACION TECNICA | 08/May/2025 - 08:08 am |  | - |

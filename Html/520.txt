@@ -1,0 +1,189 @@
+Title: Licitaciones - GOBERNACION DEL CHOCÓ.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d62edce6658.47548779
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-07 17:44:30
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE EQUIPOS DE CÓMPUTO, ELEMENTOS Y MATERIALES TECNOLÓGICOS PARA FORTALECER LA GESTIÓN ADMINISTRATIVA Y OPERACIONAL DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO ÉTNICO TERRITORIAL DE LA GOBERNACIÓN DEL CHOCÓ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Chocó : Quibdó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111601 - Asistencia de oficina o administrativa temporal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Cintas de audio, video, magnéticas y almacenamiento de datos, USB, -Materiales para redes de comunicación", "licicodigos": "104,105,269,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CLL 31 No. 1- 101 Edificio la Confianza Quibdó Chocó COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+25/Jun/2025 - 05:40 pm
+
+**Publicación de estudios previos:**
+
+25/Jun/2025 - 05:40 pm
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 10:04 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+26/Jun/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+26/Jun/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+27/Jun/2025 - 05:01 pm
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jul/2025 - 05:05 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+04/Jul/2025 - 10:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/Jul/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 04/Jul/2025 - 02:00 pm | 04/Ene/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 04/Jul/2025 - 11:59 pm | 04/Ene/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2296282 | Informe de evaluación 2 CO1.AWD.2296282 | 04/Jul/2025 - 12:09 pm |  | - |
+| General | CO1.MSG.8113797 | RESPUESTA OBSERVACIÓN FORMAL AL INFORME DE EVALUACIÓN | 03/Jul/2025 - 12:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2296282 | Informe de evaluación 1 CO1.AWD.2296282 | 02/Jul/2025 - 05:46 pm |  | - |
+| Avisos | CO1.MSG.8109376 | Publicación de la lista de ofertas del proceso MC-GDCH 007-2025 . | 02/Jul/2025 - 05:05 pm |  | - |
+| Avisos | CO1.REQ.8444226 | Publicación modificación | 01/Jul/2025 - 05:43 pm |  |  |
+| General | CO1.MSG.8100114 | Solicitud de aclaración a documentos subsanados. | 01/Jul/2025 - 12:28 pm |  | - |
+| General | CO1.MSG.8097970 | Subsanación | 01/Jul/2025 - 08:06 am |  | - |
+| Avisos | CO1.MSG.8095487 | La lista de oferentes del proceso MC-GDCH 007-2025 publicada por GOBERNACION DEL CHOCÓ. | 27/Jun/2025 - 05:07 pm |  | - |
+| General | CO1.MSG.8089485 | AVISO PRECISANDO QUE EL PROCESO EFECTIVAMENTE SE LIMITA A MIPYMES | 26/Jun/2025 - 05:16 pm |  | - |

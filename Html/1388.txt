@@ -1,0 +1,254 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bdcedc8c5e6.02615557
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-13 02:56:34
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIO DE MANTENIMIENTO INTEGRAL A TODO COSTO PARA LOS EQUIPOS DE CÓMPUTO, IMPRESORAS E INFRAESTRUCTURA TECNOLÓGICA DE LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES REGIONAL AMAZONIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Caquetá: Florencia
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111820 - Servicios de funcionalidad del sistema
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112300 - Mantenimiento y soporte de hardware de computador,81112306 - Mantenimiento de impresoras,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles,39121011 - Fuentes ininterrumpibles de potencia,43211600 - Accesorios de computador,56112005 - Partes o accesorios de soporte para computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+7 Meses
+
+**Dirección de ejecución del contrato:**
+
+calle 14 sur N° 11-295 URB. EL PROGRESO VIA BRUSELAS Caquetá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112307, 81111820, 39121011, 81112306, 43211600, 56112005, 81111812, 81112300 | PRESTACIÓN DE SERVICIO DE MANTENIMIENTO INTEGRAL A TODO COSTO PARA LOS EQUIPOS DE CÓMPUTO, IMPRESORAS E INFRAESTRUCTURA TECNOLÓGICA DE LA AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES REGIONAL AMAZONIA. | Mínima cuantía | Recursos propios | $8.380.000 | REGIONAL AMAZONIA ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 02:04 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+30/Abr/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+30/Abr/2025 - 12:01 pm
+
+**Informe de presentación de ofertas:**
+
+30/Abr/2025 - 12:02 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+06/May/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 08:00 am | 21/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 08:00 am | 21/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 09/May/2025 - 08:00 am | 21/Mar/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 25/Abr/2025 - 09:56 pm | * **Nombre:** AISEING SAS. | Cali - Valle del Cauca |
+| 2 | 30/Abr/2025 - 08:02 am | * **Nombre:** JESUS AUGUSTO TRUJILLO RAMIREZ | Bogotá - Distrito Capital de Bogotá |
+| 3 | 30/Abr/2025 - 11:17 am | * **Nombre:** JIMMY ALEXANDER PIMENTEL SANCHEZ Y/O JP COMPUTADORES | Florencia - Caquetá |
+| 4 | 30/Abr/2025 - 11:25 am | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+| 5 | 30/Abr/2025 - 11:32 am | * **Nombre:** Grupo Conexión Colombia SAS | Bogotá - Distrito Capital de Bogotá |
+| 6 | 30/Abr/2025 - 11:46 am | * **Nombre:** INFINIT& SAS BIC | Florencia - Caquetá |
+| 7 | 30/Abr/2025 - 11:54 am | * **Nombre:** ELECTRONICA UNIVERSAL FLORENCIA | Florencia - Caquetá |
+| 8 | 30/Abr/2025 - 11:56 am | * **Nombre:** SODICOL | Florencia - Caquetá |
+| 9 | 30/Abr/2025 - 11:58 am | * **Nombre:** LIES INGENIERÍA S.A.S | Villavicencio - Meta |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 8,380,000
+
+**Informes proceso de selección CO1.AWD.2246535 de 12/May/2025 - 10:28 am. Valor $8.380.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 08/May/2025 - 02:05 pm |  |
+| Informe de selección | 12/May/2025 - 10:28 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2246535**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** Grupo Conexión Colombia SAS * **Tipo documento:** NIT * **Documento:** 900931298 | * **Nombre:** Carmenza Orjuela Martínez * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 40271479 | Bogotá - Distrito Capital de Bogotá | $8.380.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2246535****
+
+**Cuantía a la firma del contrato:**
+
+$ 8,380,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2246535 | Informe de selección CO1.AWD.2246535 | 12/May/2025 - 10:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2246535 | Informe de evaluación 1 CO1.AWD.2246535 | 08/May/2025 - 02:05 pm |  | - |
+| General | CO1.MSG.7843968 | SUBSANACION GCCSAS | 07/May/2025 - 09:46 am |  | - |
+| Reporte preliminar | CO1.AWD.2243262 | Informe de evaluación 1 CO1.AWD.2243262 | 05/May/2025 - 04:38 pm |  | - |
+| Avisos | CO1.REQ.8166916 | Publicación modificación | 02/May/2025 - 03:50 pm |  |  |
+| General | CO1.MSG.7827174 | ADENDA No 01 | 02/May/2025 - 03:41 pm |  | - |
+| General | CO1.MSG.7822572 | Requerimiento por precios presuntamente artificialmente bajos | 30/Abr/2025 - 07:34 pm |  | - |
+| Avisos | CO1.MSG.7820862 | La lista de oferentes del proceso MC 006-034-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 30/Abr/2025 - 04:16 pm |  | - |
+| General | CO1.MSG.7817908 | urgente -aclaración oferta económica | 30/Abr/2025 - 10:39 am |  | - |
+| General | CO1.MSG.7814189 | AVISO NO LIMITACION A MIPYMES | 29/Abr/2025 - 03:59 pm |  | - |
+| General | CO1.MSG.7814176 | RE: Solicitud de limitacion del proceso a Mipyme Municipal | 29/Abr/2025 - 03:59 pm |  | - |
+| General | CO1.MSG.7814147 | RE: Solicitud de limitacion del proceso a Mipyme Municipal | 29/Abr/2025 - 03:58 pm |  | - |

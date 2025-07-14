@@ -1,0 +1,94 @@
+Title: Licitaciones - IDARTES - Solicitud de información a los Proveedores (SECOPII) IDARTES-COT. 068-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fee64bd8df66.70823208
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:54:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación y puesta en funcionamiento de una consola de mezcla, micrófonos vocales e instrumentales y sus accesorios; y de un sistema de intercomunicación inalámbrico con sus componentes y accesorios para el Teatro Municipal Jorge Eliécer Gaitán, propiedad del Instituto Distrital de las Artes-IDARTES, según especificaciones técnicas definidas por la Entidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161500 - Equipos audiovisuales
+
+**Códigos adicionales UNSPSC:**
+
+45111700 - Equipo de composición y presentación de sonido, hardware y controladores,32101600 - Circuitos integrados,26111700 - Baterías, pilas y accesorios,52161600 - Accesorios de equipo audiovisual,24112400 - Cofres, armarios y baúles de almacenaje,43221500 - Sistemas de gestión de llamadas o accesorios,43191600 - Partes o accesorios de dispositivos de comunicación personal,43211500 - Computadores,43201600 - Componentes del chasis
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Instrumentos musicales, -Equipos para radiodifusión y televisión", "licicodigos": "115,138,321" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 15-46 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+90 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/Abr/2025 - 05:52 pm
+
+**Plazo para solicitar aclaraciones:**
+
+24/Abr/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/Abr/2025 - 06:00 pm

@@ -1,0 +1,263 @@
+Title: Licitaciones - MUNICIPIO DE SUCRE - Contratación mínima cuantía 019
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6828d72b41b715.06324554
+
+Markdown Content:
+Licitaciones - MUNICIPIO DE SUCRE - Contratación mínima cuantía 019 - CMNC -2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-06-03 08:19:57
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Terminado anormalmente o descartado
+
+**Objeto:**
+SUMINISTRO DE ELEMENTOS DE PAPELERÍA, ÚTILES DE OFICINA E INSUMOS DE IMPRESORAS PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE SUCRE CAUCA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cauca : Sucre
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+14111530 - Papel de notas autoadhesivas
+
+**Códigos adicionales UNSPSC:**
+42312002 - Clips para cierre de piel,14111813 - Formatos o libros de correspondencia,44122003 - Carpetas,44121701 - Bolígrafos,60121503 - Marcadores lavables,44121804 - Borradores
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Alcaldia Municipal Sucre Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 14111530, 42312002, 14111813, 44122003, 44121701, 60121503, 44121804, 44121618, 31201512, 30262505, 44121905, 44103105, 14111507, 44111515, 44121706, 31201503, 60121201, 12171703 | SUMINISTRO DE ELEMENTOS DE PAPELERÍA, ÚTILES DE OFICINA E INSUMOS DE IMPRESORAS PARA LAS DIFERENTES DEPENDENCIAS DE LA ALCALDÍA MUNICIPAL DE SUCRE CAUCA | Mínima cuantía | SGP | $34.000.000 | CONTRATACIÓN 2024 B |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+17/May/2025 - 01:12 pm
+
+**Publicación de estudios previos:**
+
+17/May/2025 - 02:00 pm
+
+**Publicación de la invitación:**
+
+17/May/2025 - 02:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/May/2025 - 08:00 am
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 11:00 am
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+22/May/2025 - 03:05 pm
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 04:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 08:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 08:00 am
+
+**Aceptación de ofertas:**
+
+29/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 27/May/2025 - 02:00 pm | 27/Abr/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 27/May/2025 - 02:00 pm | 27/Abr/2026 - 12:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+(30/May/2025 - 04:32 am:25 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal MUNICIPIO DE SUCRE en 3 días de tiempo transcurrido (30/May/2025 - 04:32 am:25 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: El proceso mediante Acto Administrativo No. 219 de fecha 29 de mayo el proceso fue declarado desierto
+
+**Fecha de la cancelación:**
+30/May/2025 - 04:32 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7967753 | RESOLUCIÓN DECLARATORIA DE DESIERTO | 30/May/2025 - 04:30 pm |  | - |
+| Objeciones | CO1.MSG.7955979 | SUBSANACION PROCESO 019 CMNC 2025 | 28/May/2025 - 11:44 pm |  | - |
+| Avisos | CO1.REQ.8278164 | Publicación modificación | 28/May/2025 - 09:18 am |  |  |
+| General | CO1.MSG.7948392 | ADENDA No.1 | 28/May/2025 - 04:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2264543 | Informe de evaluación 1 CO1.AWD.2264543 | 27/May/2025 - 07:46 pm |  | - |
+| General | CO1.MSG.7925429 | INFORME DE PRESENTACIÓN DE OFERTAS | 22/May/2025 - 05:42 pm |  | - |
+| Avisos | CO1.MSG.7923889 | La lista de oferentes del proceso 019 - CMNC -2025 publicada por MUNICIPIO DE SUCRE | 22/May/2025 - 03:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7919167 | RE: SOLICITUD ACLARACION | 21/May/2025 - 07:24 pm |  | - |
+| General | CO1.MSG.7919130 | AVISO DE LIMITACIÓN A MIPYMES | 21/May/2025 - 07:12 pm |  | - |
+| General | CO1.MSG.7919070 | ACTA DE VERIFICACIÓN DE SOLICITUDES A MIPYMES | 21/May/2025 - 06:54 pm |  | - |
+| General | CO1.MSG.7918758 | RE: Observacion Proceso | 21/May/2025 - 06:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7899920 | SOLICITUD ACLARACION | 19/May/2025 - 10:04 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:41 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

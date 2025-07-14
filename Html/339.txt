@@ -1,0 +1,195 @@
+Title: Licitaciones - ALCALDÍA MUNICIPAL DE MADRID CUNDINAMARCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fee51fcee642.77166736
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-21 21:16:05
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONVENIO DE ASOCIACIÓN CON EL FIN DE DESARROLLAR EL PROGRAMA DE ROBOTICA EN LAS INSTITUCIONES EDUCATIVAS DEL MUNICIPIO DE MADRID CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Madrid
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111600 - Servicios de personal temporal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Capacitación y educación no formal", "licicodigos": "117,165" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 5 No 4-74 Madrid Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+4 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80111600 | 582.Convenio de asociación con el fin de desarrollar el programa de Robotica en las Instituciones Educativas del Municipio de Madrid Cundinamarca | Contratación directa | Recursos propios | $600.000.000 | SECRETARIA JURIDICA ALCALDÍA MUNICIPAL DE MADRID |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+15/Abr/2025 - 05:49 pm
+
+**Fecha límite de presentación de ofertas:**
+
+15/Abr/2025 - 06:10 pm
+
+**Fecha límite para la apertura de sobres:**
+
+15/Abr/2025 - 06:11 pm
+
+**Fecha de Firma del Contrato:**
+
+16/Abr/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+21/Abr/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+21/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 21/Abr/2025 - 12:00 pm | 21/Feb/2026 - 12:00 pm |
+| Pago de salarios | 10,00 | 21/Abr/2025 - 12:00 pm | 21/Ago/2028 - 12:00 pm |
+
+**Responsabilidad civil extracontractual:**
+
+100% del valor de la oferta
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CORPAEZCOL | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 192,857,143
+
+**Informes proceso de selección CO1.AWD.2230766 de 21/Abr/2025 - 04:26 am. Valor $192.857.143**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de selección | 21/Abr/2025 - 04:26 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2230766**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CORPORACION PAEZ COLOMBIANA * **Tipo documento:** NIT * **Documento:** 900230935 | * **Nombre:** Leonardo Andrey Robayo Garzon * **Tipo documento:** * **Documento:** 79170988 | - Distrito Capital de Bogotá | $192.857.143 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2230766****
+
+**Cuantía a la firma del contrato:**
+
+$ 192,857,143
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2230766 | Informe de selección CO1.AWD.2230766 | 21/Abr/2025 - 04:26 pm |  | - |
+| Avisos | CO1.REQ.8132142 | Publicación modificación | 15/Abr/2025 - 06:06 pm |  |  |

@@ -1,0 +1,110 @@
+Title: Licitaciones - HOSPITAL DEPARTAMENTAL PSIQUIATRICO UNIVERSITARIO DEL VALLE E.S.E
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682769a03f5e13.25356421
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:46:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición, instalación y puesta a punto de 3 servidores de sala de monitoreo a través de CCTV principal
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca: Santiago de Cali
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43223301 - Sistema y accesorios de conexión cruzada de comunicación de datos
+
+**Códigos adicionales UNSPSC:**
+
+43211501 - Servidores de computador
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 5 # 80-00 Cali Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 500,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43223301 | 143 REEMPLAZO POR OBSOLESCENCIA EQUIPOS DEL CCTV | Contratación régimen especial - Régimen especial | Recursos propios | $500.000.000 | OFICINA ASESORA JURIDICA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 11:24 am
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8038773 | EVALUACION PROCESO SELECCION | 16/Jun/2025 - 04:36 pm |  | - |

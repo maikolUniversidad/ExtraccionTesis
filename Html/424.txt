@@ -1,0 +1,348 @@
+Title: Licitaciones - DEPARTAMENTO DE CUNDINAMARCA-SECRETARIA DE CIENCIA,TECNOLOGÍA E INNOVACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680a99e81d7876.13789787
+
+Markdown Content:
+Licitaciones - DEPARTAMENTO DE CUNDINAMARCA-SECRETARIA DE CIENCIA,TECNOLOGÍA E INNOVACIÓN - Contratación mínima cuantía SCTEI-MC-CV-046-2025. 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-30 13:00:22
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Adjudicado
+
+**Objeto:**
+ADQUISICIÓN DE EQUIPOS TECNOLOGICOS FASE IV PARA EL FUNCIONAMIENTO DE LA RED DE CENTROS PROVINCIALES DE EMPRENDIMIENTO E INNOVACIÓN LIDERADOS POR LA DIRECCIÓN DE GESTIÓN ESTRATÉGICA DE LA SCTEI DEL DEPARTAMENTO DE CUNDINAMARCA
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+60106200 - Materiales de enseñanza de tecnología
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Equipos audiovisuales, -Prototipadora, impresora 3D (Equipos e insumos), -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "104,115,471,489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+30 Días
+
+**Dirección de ejecución del contrato:**
+Calle 26 51 53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Compraventa
+
+**Plazo del contrato:**
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211600, 43211700, 43211800, 43211900, 43212000, 43212100, 43212200 | ADQUISICIÓN DE EQUIPOS TECNOLOGICOS FASE IV PARA EL FUNCIONAMIENTO DE LA REDDE CENTROS PROVINCIALES DE EMPRENDIMIENTO E INNOVACIÓN LIDERADOS POR LADIRECCIÓN DE GESTIÓN ESTRATÉGICA DE LA SCTEI DEL DEPARTAMENTO DECUNDINAMARCA | Mínima cuantía | Recursos propios | $130.000.000 | SECRETARIA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+24/Abr/2025 - 03:00 pm
+
+**Publicación de la invitación:**
+
+24/Abr/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Abr/2025 - 12:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Abr/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/Abr/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+06/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+06/May/2025 - 05:10 pm
+
+**Informe de presentación de ofertas:**
+
+06/May/2025 - 06:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/May/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+12/May/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+12/May/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/May/2025 - 08:00 am | 30/Sep/2025 - 11:00 pm |
+| Pago de salarios | 5,00 | 01/May/2025 - 08:00 am | 31/May/2028 - 11:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/May/2025 - 08:00 am | 30/Sep/2025 - 11:00 pm |
+
+Listado de oferentes y ofertas:
+
+**Listado de respuesta de los proveedores:**
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** SEMCAR SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 121,341,920
+
+**Informes proceso de selección CO1.AWD.2249212 de 13/May/2025 - 08:10 am. Valor $121.341.920**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 12/May/2025 - 09:40 am |  |
+| Informe de selección | 13/May/2025 - 08:10 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2249212**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** COMERCIALIZADORA SEMCAR SAS * **Tipo documento:** NIT * **Documento:** 900502917 | * **Nombre:** Juana Maria Zuleta Sandoval * **Tipo documento:** NIT * **Documento:** 40334052 | - Distrito Capital de Bogotá | $121.341.920 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2249212****
+
+**Contrato SCTEI-MC-CV-046-2025. de COMERCIALIZADORA SEMCAR SAS:**
+
+**ID del contrato en SECOP:**
+
+SCTEI-MC-CV-046-2025.
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+En ejecución
+
+**Objeto de la firma del contrato:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLOGICOS FASE IV PARA EL FUNCIONAMIENTO DE LA RED DE CENTROS PROVINCIALES DE EMPRENDIMIENTO E INNOVACIÓN LIDERADOS POR LA DIRECCIÓN DE GESTIÓN ESTRATÉGICA DE LA SCTEI DEL DEPARTAMENTO DE CUNDINAMARCA.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 60106200 | materiales de enseñanzas tecnológicas | 1,00 | UN | 130.000.000,00 | 121.341.920,00 | 130.000.000,00 | 121.341.920,00 |
+
+**Fecha inicio del contrato:**
+
+23/May/2025 - 08:00 am
+
+**Fecha de terminación del contrato:**
+
+15/Jun/2025 - 11:00 pm
+
+**Plazo de ejecución:**
+
+1 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 121,341,920
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACION DE OFERTA SCTEI-MC-CV-046-2025.R.pdf |  |
+
+**Documentos de ejecución del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | DelegacionsupervisorV8 EQUIPOS TECNOLOGICOS.pdf |  |
+|  | RPC SEMCAR.pdf |  |
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2249212 | Informe de selección CO1.AWD.2249212 | 13/May/2025 - 08:10 am |  | - |
+| Reporte preliminar | CO1.AWD.2249212 | Informe de evaluación 1 CO1.AWD.2249212 | 12/May/2025 - 09:40 am |  | - |
+| General | CO1.MSG.7849397 | INFORME DE EVALUACIÒN | 07/May/2025 - 07:06 pm |  | - |
+| General | CO1.MSG.7849388 | DESIGNACIÒN DE COMITE EVALUADOR | 07/May/2025 - 07:03 pm |  | - |
+| Avisos | CO1.MSG.7841842 | La lista de oferentes del proceso SCTEI-MC-CV-046-2025. publicada por DEPARTAMENTO DE CUNDINAMARCA-SECRETARIA DE CIENCIA,TECNOLOGÍA E INNOVACIÓN | 06/May/2025 - 05:19 pm |  | - |
+| Avisos | CO1.REQ.8163034 | Publicación modificación | 05/May/2025 - 08:17 am |  |  |
+| General | CO1.MSG.7829388 | AVISO CONDICIONES TECNICAS | 03/May/2025 - 10:34 am |  | - |
+| Aclaraciones | CO1.MSG.7829390 | AVISO CONDICIONES TECNICAS | 03/May/2025 - 10:34 am |  | - |
+| General | CO1.MSG.7828903 | AVISO | 02/May/2025 - 07:16 pm |  | - |
+| Avisos | CO1.REQ.8163034 | Publicación modificación | 30/Abr/2025 - 11:03 am |  |  |
+| Avisos | CO1.REQ.8163034 | Publicación modificación | 29/Abr/2025 - 08:15 am |  |  |
+| Aclaraciones | CO1.MSG.7810069 | ANDENA 1 AJUSTADA EQUIPOS TECNOLOGICOS | 29/Abr/2025 - 08:06 am |  | - |
+| General | CO1.MSG.7810014 | ADENDA 1 EQUIPOS TECNOLOGICOS | 29/Abr/2025 - 07:53 am |  | - |
+| Aclaraciones | CO1.MSG.7809369 | RE: Observaciones Precio item 5 | 28/Abr/2025 - 07:17 pm |  | - |
+| Aclaraciones | CO1.MSG.7809133 | RE: Solicitud de limitar Mipymes Nacionales | 28/Abr/2025 - 06:30 pm |  | - |
+| Aclaraciones | CO1.MSG.7799122 | Observaciones Precio item 5 | 25/Abr/2025 - 11:47 am |  | - |
+| Aclaraciones | CO1.MSG.7798422 | Solicitud de limitar Mipymes Nacionales | 25/Abr/2025 - 10:51 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:43 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

@@ -1,0 +1,214 @@
+Title: Licitaciones - DIRECCION GENERAL MARITIMA - SUBDIRECCION ADMINISTRATIVA Y FINANCIERA - SUBAFIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6806742a5b43e8.99740672
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 09:30:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DEL SISTEMA DE SEGURIDAD PERIMETRAL DE CONTROL ACCESO Y SU CORRESPONDIENTE SOFTWARE EN SITIO, CON DESTINO A LA DIRECCIÓN GENERAL MARÍTIMA CONFORME ANEXO TÉCNICO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+92121700 - Servicios de sistemas de seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 54 NO 26-50 CAN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/Abr/2025 - 11:11 am
+
+**Publicación de estudios previos:**
+
+21/Abr/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+21/Abr/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/Abr/2025 - 07:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/Abr/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 02:02 pm
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 02:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+30/Abr/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+02/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 02/May/2025 - 07:00 pm | 28/Mar/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 02/May/2025 - 07:00 pm | 28/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 02/May/2025 - 07:00 pm | 28/Nov/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(14/May/2025 - 07:49 am:40 AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal DIRECCION GENERAL MARITIMA - SUBDIRECCION ADMINISTRATIVA Y FINANCIERA - SUBAFIN en 1 hora de tiempo transcurrido (14/May/2025 - 07:49 am:40 AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: acuerdo RESOLUCIÓN NÚMERO ( 0547-2025) MD-DIMAR-SUBAFIN-GINREDCE 8 DE MAYO DE 2025 se declara desierto el proceso 223-GINREDCE-2025
+
+**Fecha de la cancelación:**
+
+14/May/2025 - 07:49 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7854869 | RESOLUCION DECLARATORIA DESIERTO PROCESO 223-GINREDCE-2025 | 08/May/2025 - 04:09 pm |  | - |
+| General | CO1.MSG.7839324 | RE: Observación | 06/May/2025 - 01:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238524 | Informe de evaluación 3 CO1.AWD.2238524 | 05/May/2025 - 04:03 pm |  | - |
+| General | CO1.MSG.7828271 | Adjuto documento para subsanar | 02/May/2025 - 05:46 pm |  | - |
+| General | CO1.MSG.7826402 | RE: solicitud de aclaración de tiempo para subsanar | 02/May/2025 - 02:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238524 | Informe de evaluación 2 CO1.AWD.2238524 | 30/Abr/2025 - 04:50 pm |  | - |
+| Avisos | CO1.MSG.7816594 | Publicación de la lista de ofertas del proceso 223-GINREDCE-2025. | 30/Abr/2025 - 07:27 am |  | - |
+| Reporte preliminar | CO1.AWD.2238524 | Informe de evaluación 1 CO1.AWD.2238524 | 29/Abr/2025 - 03:04 pm |  | - |
+| General | CO1.MSG.7812728 | Subasanación Informe de Evaluación | 29/Abr/2025 - 01:21 pm |  | - |
+| Avisos | CO1.REQ.8133932 | Publicación modificación | 29/Abr/2025 - 10:26 am |  |  |
+| Reporte preliminar | CO1.AWD.2238306 | Informe de evaluación 1 CO1.AWD.2238306 | 29/Abr/2025 - 08:54 am |  | - |
+| Avisos | CO1.MSG.7799902 | La lista de oferentes del proceso 223-GINREDCE-2025 publicada por DIRECCION GENERAL MARITIMA - SUBDIRECCION ADMINISTRATIVA Y FINANCIERA - SUBAFIN | 25/Abr/2025 - 02:05 pm |  | - |
+| General | CO1.MSG.7792553 | AVISO NO LIMITACION A MIPYME | 24/Abr/2025 - 11:43 am |  | - |

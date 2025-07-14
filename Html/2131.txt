@@ -1,0 +1,94 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA ENTIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6855bf3143c334.06261640
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 09:46:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Provisionar servicios de Infraestructura como Servicio (IaaS) bajo esquema de nube privada, con el propósito de garantizar la operación continua y el desempeño óptimo de los Sistemas de Información, aplicaciones y servicios tecnológicos que integran la arquitectura de soluciones digitales misionales del Departamento Administrativo de la Función Pública (DAFP).
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Códigos adicionales UNSPSC:**
+
+81111600 - Programadores de computador,81111700 - Sistemas de manejo de información MIS,81111800 - Servicios de sistemas y administración de componentes de sistemas,81112000 - Servicios de datos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Servicios en la nube (Cloud)", "licicodigos": "103,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 # 12 - 62 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/Jun/2025 - 02:51 pm
+
+**Plazo para solicitar aclaraciones:**
+
+25/Jun/2025 - 03:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/Jun/2025 - 03:00 pm

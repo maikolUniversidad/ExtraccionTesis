@@ -1,0 +1,97 @@
+Title: Licitaciones - ARCHIVO GENERAL DE LA NACION
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6818e92276adc8.48061484
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 14:31:19
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el desarrollo, configuración, puesta en operación y soporte técnico de un sistema de información, usando las herramientas disponibles de Microsoft Power Platform, para su puesta en producción en la Subdirección de Inspección, Vigilancia y Control del Archivo General de la Nación, el cual garantizará la automatización del proceso de inspección vigilancia y control
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111503 - Diseño de integración de sistemas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 6 No. 6- 91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+3 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 11:05 am
+
+**Plazo para solicitar aclaraciones:**
+
+12/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7865464 | Solicitud Ampliación Tiempo | 12/May/2025 - 10:24 am |  | - |
+| General | CO1.MSG.7854456 | RE: SOLICITUD PRORROGA | 08/May/2025 - 03:36 pm |  | - |

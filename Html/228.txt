@@ -1,0 +1,290 @@
+Title: Licitaciones - SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68226224a53f57.93007394
+
+Markdown Content:
+Licitaciones - SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR - Selección abreviada de menor cuantía (Ley 1150 de 2007) SSF SAMC 004 DE 2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-04 18:49:03
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Terminado anormalmente o descartado
+
+**Objeto:**
+IMPLEMENTAR UNA SOLUCIÓN DE GOBIERNO DE DATOS PARA LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR UTILIZANDO LOS SERVICIOS DE MICROSOFT PURVIEW QUE PROPORCIONE UN MARCO INTEGRAL PARA LA GESTIÓN Y ADMINISTRACIÓN DE LOS DATOS. ID: OTIC-232
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Cundinamarca : Bogotá D.C.
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+80101500 - Servicios de consultoría de negocios y administración corporativa
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 17 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+carrera 69 # 25 B - 44 Pisos 3, 4 y 7 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Prestación de servicios
+
+**Plazo del contrato:**
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+$ 398,580,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101500, 80101600, 86111600, 90111600 | (ID: OTIC-232) PI: IMPLEMENTACIÓN DEL MODELO DE PLANEACIÓN Y GESTIÓN EN EL MARCO DE LA ARQUITECTURA EMPRESARIAL DE LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR NACIONAL. ACTIVIDAD: REALIZAR LA IMPLEMENTACIÓN DE MAPA DE RUTA DE ARQUITECTURA DE LA SSF. OBJETO: IMPLEMENTAR UNA SOLUCIÓN DE GOBIERNO DE DATOS PARA LA SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR UTILIZANDO LOS SERVICIOS DE MICROSOFT PURVIEW QUE PROPORCIONE UN MARCO INTEGRAL PARA LA GESTIÓN Y ADMINISTRACIÓN DE LOS DATOS. | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $370.000.000 | GESTIÓN CONTRACTUAL 2024-NO |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/May/2025 - 03:51 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 09:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/May/2025 - 09:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/May/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+22/May/2025 - 01:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+23/May/2025 - 11:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+19/Jun/2025 - 05:54 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+19/Jun/2025 - 11:30 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+19/Jun/2025 - 11:30 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+19/Jun/2025 - 11:30 pm
+
+**Plazo para manifestación de interés:**
+
+20/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+20/Jun/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+25/Jun/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+27/Jun/2025 - 09:00 am
+
+**Apertura de Ofertas:**
+
+27/Jun/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+27/Jun/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+16/Jul/2025 - 11:00 pm
+
+**Firma del Contrato:**
+
+18/Jul/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+22/Jul/2025 - 12:30 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+22/Jul/2025 - 11:30 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 18/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 18/Jul/2025 - 12:00 am | 31/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 18/Jul/2025 - 12:00 am | 30/Jun/2026 - 11:59 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+(4/07/2025 2:27:48 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal SUPERINTENDENCIA DEL SUBSIDIO FAMILIAR en 4 horas de tiempo transcurrido (4/07/2025 2:27:48 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: SE CANCELA EL PROCESO, EN VIRTUD DE LA DECLARATORIA DE DESIERTA DEL MISMO, Y DEL ACTO DE ADMINISTRATIVO PUBLICADO
+
+**Fecha de la cancelación:**
+04/Jul/2025 - 02:27 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8121045 | DECLARATORIA DE DESIERTA DEL PROCESO | 04/Jul/2025 - 02:26 pm |  | - |
+| General | CO1.MSG.8092461 | RE: Habilitación del proceso para subir documentación | 27/Jun/2025 - 10:49 am |  | - |
+| General | CO1.MSG.8089739 | RE: PRORROGA | 26/Jun/2025 - 05:44 pm |  | - |
+| General | CO1.MSG.8029844 | RESPUESTAS OBSERVACIONES PROYECTO DE PLIEGO | 13/Jun/2025 - 01:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8029843 | RESPUESTAS OBSERVACIONES PROYECTO DE PLIEGO | 13/Jun/2025 - 01:12 pm |  | - |
+| General | CO1.MSG.8011717 | RE: Incidencia - 1 - S II - Presentación de ofertas - Proveedor | 10/Jun/2025 - 07:50 pm |  | - |
+| Aclaraciones | CO1.MSG.7903742 | Observaciones Grow Data S.A.S | 19/May/2025 - 04:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7903471 | Observación ciudadana | 19/May/2025 - 04:44 pm |  | - |
+| Aclaraciones | CO1.MSG.7903420 | Preguntas al pliego | 19/May/2025 - 04:29 pm |  | - |
+| Aclaraciones | CO1.MSG.7903322 | Observaciones Proceso selección abreviada de menor cuantía No. SSF SAMC 004 de 2025 | 19/May/2025 - 04:25 pm |  | - |
+| Aclaraciones | CO1.MSG.7903335 | Presentación de De Observaciones 1 x Dataknow SAS | 19/May/2025 - 04:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7903084 | OBSERVACION PRELIMINAR | 19/May/2025 - 04:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7902962 | OBSER BORRADOR DEL PLIEGO | 19/May/2025 - 03:55 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:18 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

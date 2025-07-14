@@ -1,0 +1,302 @@
+Title: Licitaciones - SECRETARÍA DISTRITAL DE MOVILIDAD
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6819526575b854.32061421
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:29:04
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATAR EL SERVICIO DE RECEPCIÓN PROCESAMIENTO Y ADMINISTRACIÓN DE DATOS CON EL FIN DE REPORTAR LOS DATOS REFERIDOS AL COMPORTAMIENTO Y HÁBITOS DE PAGO NIVEL DE ENDEUDAMIENTO Y ESCALA DE RIESGO QUE REPRESENTAN LOS DEUDORES DE LA SECRETARÍA DISTRITAL DE MOVILIDAD ASÍ COMO LA CONSULTA DE SU INFORMACIÓN COMERCIAL Y DE UBICABILIDAD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Códigos adicionales UNSPSC:**
+
+84141600 - Agencias de crédito personal,84141700 - Agencias de crédito comercial
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 19 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 13 #37 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43232300, 84141600, 84141700 | SGJ-298 CONTRATAR EL SERVICIO DE RECEPCION PROCESAMIENTO Y ADMINISTRACION DE DATOS CON EL FIN DE REPORTAR LOS DATOS REFERIDOS AL COMPORTAMIENTO Y HABITOS DE PAGO NIVEL DE ENDEUDAMIENTO Y ESCALA DE RIESGO QUE REPRESENTAN LOS DEUDORES DE LA SECRETARIA DISTRITAL DE MOVILIDAD ASI COMO LA CONSULTA DE SU INFORMACION COMERCIAL Y DE UBICABILIDAD(5) | Selección abreviada menor cuantía | Recursos propios | $290.000.000 | DIRECCION DE CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+05/May/2025 - 06:41 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+05/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+05/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+15/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+16/May/2025 - 06:33 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+16/May/2025 - 11:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+16/May/2025 - 11:59 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+16/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+16/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+21/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+21/May/2025 - 11:59 pm
+
+**Realización del sorteo:**
+
+22/May/2025 - 10:00 am
+
+**Publicación de la lista de precalificados:**
+
+22/May/2025 - 03:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+26/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+28/May/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+28/May/2025 - 10:15 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+13/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+19/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+24/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 13/Jun/2025 - 12:01 pm | 12/Dic/2026 - 11:59 am |
+| Pago de salarios | 5,00 | 13/Jun/2025 - 12:01 pm | 12/Jun/2029 - 11:59 am |
+| Calidad del servicio | 20,00 | 12/Jun/2026 - 12:01 pm | 11/Dic/2026 - 11:59 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** EXPERIAN COLOMBIA S.A | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 289,347,805
+
+**Informes proceso de selección CO1.AWD.2267655 de 12/Jun/2025 - 03:24 am. Valor $289.347.805**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 03:58 pm |  |
+| Informe de evaluación | 30/May/2025 - 03:58 pm |  |
+| Informe de evaluación | 30/May/2025 - 03:58 pm |  |
+| Informe de evaluación | 30/May/2025 - 03:58 pm |  |
+| Informe de evaluación | 30/May/2025 - 03:58 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de evaluación | 11/Jun/2025 - 05:40 pm |  |
+| Informe de selección | 12/Jun/2025 - 03:24 pm |  |
+| Informe de selección | 12/Jun/2025 - 03:24 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267655**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** EXPERIAN COLOMBIA S.A * **Tipo documento:** NIT * **Documento:** 900422614 | * **Nombre:** CLARIANA CARREÑO MALLARINO * **Tipo documento:** NIT * **Documento:** 45481509 | - Distrito Capital de Bogotá | $289.347.805 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267655****
+
+**Cuantía a la firma del contrato:**
+
+$ 289,347,805
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267655 | Informe de selección CO1.AWD.2267655 | 12/Jun/2025 - 03:24 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267655 | Informe de evaluación 2 CO1.AWD.2267655 | 11/Jun/2025 - 05:40 pm |  | - |
+| Objeciones | CO1.MSG.7989984 | [Respondido] RE:SUBSANACION PROCESO SDM-PSA-MC-63-2025 | 05/Jun/2025 - 09:17 pm |  | - |
+| Objeciones | CO1.MSG.7989984 | SUBSANACION PROCESO SDM-PSA-MC-63-2025 | 05/Jun/2025 - 05:20 pm |  | - |
+| Objeciones | CO1.MSG.7976034 | [Respondido] RE:Confirmación Fecha de Subsanación | 04/Jun/2025 - 09:21 am |  | - |
+| Objeciones | CO1.MSG.7976034 | Confirmación Fecha de Subsanación | 03/Jun/2025 - 06:38 pm |  | - |
+| Objeciones | CO1.MSG.7969055 | [Respondido] RE:SUBSANACION A LA OFERTA PRESENTADA | 03/Jun/2025 - 09:09 am |  | - |
+| Objeciones | CO1.MSG.7969055 | SUBSANACION A LA OFERTA PRESENTADA | 30/May/2025 - 07:38 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267655 | Informe de evaluación 1 CO1.AWD.2267655 | 30/May/2025 - 03:58 pm |  | - |
+| Avisos | CO1.MSG.7950021 | Publicación de la lista de ofertas del proceso SDM-PSA-MC-63-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 28/May/2025 - 10:34 am |  | - |
+| Avisos | CO1.MSG.7950014 | La lista de oferentes del proceso SDM-PSA-MC-63-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por SECRETARÍA DISTRITAL DE MOVILIDAD | 28/May/2025 - 10:33 am |  | - |
+| Avisos | CO1.REQ.8302259 | Publicación modificación | 26/May/2025 - 04:42 pm |  |  |
+| General | CO1.MSG.7934280 | RESPUESTA OBSERVACIONES - PLIEGO DE CONDICIONES DEFINITIVO | 26/May/2025 - 08:20 am |  | - |
+| General | CO1.MSG.7913110 | RE: observaciones al pliego de condiciones | 21/May/2025 - 08:50 am |  | - |
+| Aclaraciones | CO1.MSG.7870811 | OBSERVACIONES A LA INVITACION _ CIFIN S.A.S | 12/May/2025 - 10:42 pm |  | - |
+| General | CO1.MSG.7870295 | RE: SOLICITUD DE LIMITACIÓN MIPYME | 12/May/2025 - 07:18 pm |  | - |
+| Aclaraciones | CO1.MSG.7869187 | Observaciones Pre-Pliegos | 12/May/2025 - 05:07 pm |  | - |

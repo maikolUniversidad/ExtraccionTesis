@@ -1,0 +1,356 @@
+Title: Licitaciones - MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=67fef5f43f5c05.35329544
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 11:17:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUIRIR LOS SERVICIOS DE IMPRESIÓN, DIGITALIZACIÓN Y FOTOCOPIADO, INCLUYENDO LA ADMINISTRACIÓN, OPERACIÓN, PROVISIÓN Y SOPORTE DEL SERVICIO EN SITIO, PARA EL MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL - MADR
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80111600 - Servicios de personal temporal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Digitalización y microfilmación, -Impresiones, fotocopiado y alquiler de fotocopiadoras, -Helpdesk o mesa de ayuda", "licicodigos": "152,334,374" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 15 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 # 32-42 piso 7 al 12 San martin Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Chile, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, Comunidad Andina, Alianza Pacífico - Perú
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 350,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80111600 | OTIC_053ADQUIRIR LOS SERVICIOS DE IMPRESIÓN, DIGITALIZACIÓN Y FOTOCOPIADO, INCLUYENDO LA ADMINISTRACIÓN, OPERACIÓN, PROVISIÓN Y SOPORTE DEL SERVICIO EN SITIO, PARA EL MINISTERIO DE AGRICULTURA Y DESARROLLO RURA - MADR. | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $350.000.000 | MINAGRICULTURA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+15/Abr/2025 - 07:04 pm
+
+**Publicación Estudios Previos:**
+
+15/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+15/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+15/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+24/Abr/2025 - 05:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+25/Abr/2025 - 05:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+28/Abr/2025 - 08:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+29/Abr/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+02/May/2025 - 07:48 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+02/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+05/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+08/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+12/May/2025 - 09:05 am
+
+**Informe de presentación de Ofertas:**
+
+12/May/2025 - 09:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+14/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+19/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/May/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+22/May/2025 - 12:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/May/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+23/May/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+26/May/2025 - 02:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+26/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 25,00 | 21/May/2025 - 12:00 pm | 26/Jun/2026 - 11:59 pm |
+| Pago de salarios | 6,00 | 21/May/2025 - 12:00 pm | 26/Dic/2028 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 09/May/2025 - 03:56 pm | * **Nombre:** PC PRONTO SAS | Distrito Capital de Bogotá |
+| 2 | 12/May/2025 - 07:53 am | * **Nombre:** SOLUTION COPY LTDA | Distrito Capital de Bogotá |
+| 3 | 12/May/2025 - 08:04 am | * **Nombre:** IMPORTADORA MEGACOPIERS LTDA | Bogotá - Distrito Capital de Bogotá |
+| 4 | 12/May/2025 - 08:47 am | * **Nombre:** SERVIEQUIPOS Y SUMINISTROS S.A.S. | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 263,728,320
+
+**Informes proceso de selección CO1.AWD.2251762 de 23/May/2025 - 11:37 am. Valor $263.728.320**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 14/May/2025 - 05:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 05:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 05:19 pm |  |
+| Informe de evaluación | 14/May/2025 - 05:19 pm |  |
+| Informe de evaluación | 20/May/2025 - 10:13 am |  |
+| Informe de evaluación | 20/May/2025 - 10:13 am |  |
+| Informe de evaluación | 22/May/2025 - 01:14 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de evaluación | 22/May/2025 - 05:58 pm |  |
+| Informe de selección | 23/May/2025 - 11:37 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2251762**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** SOLUTION COPY LTDA * **Tipo documento:** NIT * **Documento:** 830053669 | * **Nombre:** NELSON ENRIQUE FLECHAS OTALORA * **Tipo documento:** NIT * **Documento:** 79819990 | - Distrito Capital de Bogotá | $263.728.320 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2251762****
+
+**ID del contrato en SECOP:**
+
+20250583
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+26/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 263,728,320
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+22/May/2025 - 02:30 pm
+
+**Fecha de inicio:**
+
+22/May/2025 - 03:00 pm
+
+**Fecha fin:**
+
+22/May/2025 - 03:32 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2251762 | Informe de selección CO1.AWD.2251762 | 23/May/2025 - 11:37 am |  | - |
+| Reporte preliminar | CO1.AWD.2251762 | Informe de evaluación 4 CO1.AWD.2251762 | 22/May/2025 - 05:58 pm |  | - |
+| General | CO1.MSG.7925495 | RE: OBSERVACIÓN | 22/May/2025 - 05:50 pm |  | - |
+| General | CO1.MSG.7923342 | RE: Respuesta 3 parte 2 | 22/May/2025 - 02:59 pm |  | - |
+| Objeciones | CO1.MSG.7922720 | [Respondido] RE:RESPUESTA EVALUACION 3 - JURÍDICA | 22/May/2025 - 02:58 pm |  | - |
+| Objeciones | CO1.MSG.7922720 | RESPUESTA EVALUACION 3 - JURÍDICA | 22/May/2025 - 01:55 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251762 | Informe de evaluación 3 CO1.AWD.2251762 | 22/May/2025 - 01:14 pm |  | - |
+| General | CO1.MSG.7922266 | AVISO INFORMATIVO 2 | 22/May/2025 - 12:26 pm |  | - |
+| Avisos | CO1.REQ.8199321 | Publicación modificación | 20/May/2025 - 06:42 pm |  |  |
+| General | CO1.MSG.7909100 | AVISO INFORMATIVO ADENDA No. 2 | 20/May/2025 - 03:06 pm |  | - |
+| General | CO1.MSG.7908201 | OBSERVACION A OFERENTE MEGACOPIERS | 20/May/2025 - 12:39 pm |  | - |
+| General | CO1.MSG.7908116 | ACLARACION IMPRESORA IM550 | 20/May/2025 - 12:29 pm |  | - |
+| General | CO1.MSG.7907664 | SUBSANACION A INFORME DE EVALUACION No. 2 | 20/May/2025 - 11:50 am |  | - |
+| Objeciones | CO1.MSG.7902714 | [Respondido] RE:Observaciones al Informe 1 y Ofertas | 20/May/2025 - 11:47 am |  | - |
+| Objeciones | CO1.MSG.7902661 | [Respondido] RE:Subsanación Importadora Megacopiers Ltda - MADR-SASI-002-2025 | 20/May/2025 - 11:45 am |  | - |
+| General | CO1.MSG.7907713 | RESPUESTAS A LAS OBSERVACIONES PROCESO MADR-SAMC-002-2025 | 20/May/2025 - 11:43 am |  | - |
+| General | CO1.MSG.7907009 | PUBLICACIÓN OBSERVACIONES AL INFORME DE EVALUACIÓN PRELIMINAR | 20/May/2025 - 10:56 am |  | - |
+| Avisos | CO1.REQ.8199321 | Publicación modificación | 20/May/2025 - 10:52 am |  |  |
+| Reporte preliminar | CO1.AWD.2251762 | Informe de evaluación 2 CO1.AWD.2251762 | 20/May/2025 - 10:13 am |  | - |
+| General | CO1.MSG.7903683 | OBSERVACIÓN | 19/May/2025 - 06:22 pm |  | - |
+| General | CO1.MSG.7903619 | DOCUMENTACIÓN SUBSANABLE | 19/May/2025 - 04:47 pm |  | - |
+| Objeciones | CO1.MSG.7902714 | Observaciones al Informe 1 y Ofertas | 19/May/2025 - 03:35 pm |  | - |
+| Objeciones | CO1.MSG.7902661 | Subsanación Importadora Megacopiers Ltda - MADR-SASI-002-2025 | 19/May/2025 - 03:33 pm |  | - |
+| Avisos | CO1.MSG.7897397 | Publicación de la lista de ofertas del proceso MADR-SASI-002-2025 (Presentación de oferta). | 16/May/2025 - 06:23 pm |  | - |
+| Reporte preliminar | CO1.AWD.2251762 | Informe de evaluación 1 CO1.AWD.2251762 | 14/May/2025 - 05:19 pm |  | - |
+| Avisos | CO1.MSG.7864789 | La lista de oferentes del proceso MADR-SASI-002-2025 (Presentación de oferta) publicada por MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL | 12/May/2025 - 09:15 am |  | - |
+| General | CO1.MSG.7854529 | RESPUESTA A LA OBSERVACIÓN AL PLIEGO DEFINITIVO PROCESO MADR-SAMC-002-2025 | 08/May/2025 - 03:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7852876 | RE: OBSERVACIÓN | 08/May/2025 - 03:41 pm |  | - |
+| Aclaraciones | CO1.MSG.7841459 | OBSERVACIÓN | 06/May/2025 - 04:52 pm |  | - |
+| General | CO1.MSG.7824133 | RE: OBSERVACIÓN | 02/May/2025 - 09:17 am |  | - |

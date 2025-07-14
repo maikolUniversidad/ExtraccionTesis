@@ -1,0 +1,222 @@
+Title: Licitaciones - CORPORACION AUTONOMA REGIONAL DEL MAGDALENA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d6965adaca5.48099395
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:48:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministro e instalación de puntos de datos cat.6a certificados y puntos eléctricos no regulados, periféricos, repuestos de computadores y soporte electrónico
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Magdalena : Santa Marta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+26121703 - Cableado preformado de comunicación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -UPS y baterías de gran capacidad, -Instalaciones eléctricas, -Materiales para redes de comunicación", "licicodigos": "99,109,241,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Av Libertador No. 32-201 Santa Marta Magdalena COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+11 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 26121703 | LINEA 11 SUMINISTRO E INSTALACION DE PUNTOS DE DATOS CAT.6A CERTIFICADOS Y PUNTOS ELECTRICOS NO REGULADOS; PERIFERICOS; REPUESTOS DE COMPUTADORES Y SOPORTE ELECTRONICO EN LAS INSTALACIONES DE LA CORPORACION AUTONOMA REGIONAL DEL MAGDALENA | Mínima cuantía | Recursos propios | $39.858.000 | GRUPO CONTRATOS CORPAMAG |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 10:15 am
+
+**Publicación de estudios previos:**
+
+26/Jun/2025 - 11:00 am
+
+**Publicación de la invitación:**
+
+26/Jun/2025 - 11:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+27/Jun/2025 - 03:00 pm
+
+**Plazo para recepción de observaciones:**
+
+27/Jun/2025 - 03:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+01/Jul/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+01/Jul/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+01/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+02/Jul/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+02/Jul/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+02/Jul/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jul/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+07/Jul/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 04:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 07/Jul/2026 - 08:00 am | 07/Dic/2026 - 11:59 pm |
+| Calidad del servicio | 10,00 | 07/Jun/2026 - 08:00 am | 07/Dic/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 39,858,000
+
+**Informes proceso de selección CO1.AWD.2297226 de 08/Jul/2025 - 07:51 am. Valor $39.858.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 03/Jul/2025 - 01:13 pm |  |
+| Informe de evaluación | 07/Jul/2025 - 10:23 am |  |
+| Informe de selección | 08/Jul/2025 - 07:51 am |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2297226 | Informe de selección CO1.AWD.2297226 | 08/Jul/2025 - 07:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2297226 | Informe de evaluación 2 CO1.AWD.2297226 | 07/Jul/2025 - 10:23 am |  | - |
+| General | CO1.MSG.8117034 | Certificado de Existencia y representacion Legal (Documento Subsanado) | 03/Jul/2025 - 06:41 pm |  | - |
+| Avisos | CO1.MSG.8113892 | Publicación de la lista de ofertas del proceso MC 022 DE 2025. | 03/Jul/2025 - 01:14 pm |  | - |
+| Reporte preliminar | CO1.AWD.2297226 | Informe de evaluación 1 CO1.AWD.2297226 | 03/Jul/2025 - 01:13 pm |  | - |
+| Avisos | CO1.MSG.8105801 | La lista de oferentes del proceso MC 022 DE 2025 publicada por CORPORACION AUTONOMA REGIONAL DEL MAGDALENA | 02/Jul/2025 - 10:32 am |  | - |
+| Avisos | CO1.REQ.8470052 | Publicación modificación | 01/Jul/2025 - 03:10 pm |  |  |
+| General | CO1.MSG.8101130 | AVISO DE LIMITACION A MIPYME TERRITORIALES | 01/Jul/2025 - 03:09 pm |  | - |
+| General | CO1.MSG.8101116 | RTAS A LAS OBSERVACIONES | 01/Jul/2025 - 03:08 pm |  | - |
+| Aclaraciones | CO1.MSG.8101124 | RTAS A LAS OBSERVACIONES | 01/Jul/2025 - 03:08 pm |  | - |
+| General | CO1.MSG.8091032 | RE: solicitud mipyme santa marta | 27/Jun/2025 - 07:16 am |  | - |
+| General | CO1.MSG.8091029 | RE: solicitud mipyme santa marta | 27/Jun/2025 - 07:15 am |  | - |
+| General | CO1.MSG.8091018 | RE: LIMITAR A MIPYME DOMICILIADAS EN LA CIUDAD DE SANTA MARTA | 27/Jun/2025 - 07:12 am |  | - |
+| Aclaraciones | CO1.MSG.8089093 | observacion | 26/Jun/2025 - 04:48 pm |  | - |

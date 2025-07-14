@@ -1,0 +1,194 @@
+Title: Licitaciones - DISPENSARIO MEDICO NEIVA - DIRECCION DE SANIDAD EJERCITO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684cbf06e72415.15084247
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-18 16:48:36
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SERVICIOS DE MANTENIMIENTO DE ACTIVOS INFORMÁTICOS PARA LA REGIONAL DE SANIDAD MILITAR No. 12 Y SUS SATÉLITES CENTRALIZADOS ESM BASPC09, UBAM BIPIG, UBAM BIMAG27 Y ENFERMERÍA BITER 9 PARA LA VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Neiva
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+6 Meses
+
+**Dirección de ejecución del contrato:**
+
+CIUDAD DE NEIVA- HUILA Neiva Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111500 | SERVICIO MANTENIMIENTO DE EQUIPO DE COMPUTO | Mínima cuantía | Presupuesto de entidad nacional | $44.500.000 | OFICINA CONTRATO |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+13/Jun/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+13/Jun/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+13/Jun/2025 - 06:57 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+16/Jun/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+16/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+17/Jun/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+17/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+17/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+18/Jun/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+18/Jun/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+02/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 12:00 am | 31/Mar/2028 - 11:59 am |
+| Pago de salarios | 5,00 | 25/Jun/2025 - 12:00 am | 31/Mar/2028 - 11:59 am |
+| Calidad del servicio | 20,00 | 25/Jun/2025 - 12:00 am | 31/Mar/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 25/Jun/2025 - 12:00 am | 31/Mar/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8049579 | Publicación de la lista de ofertas del proceso 132-DISAN-EJC/CENAC REGIONALNEIVA-2025. | 18/Jun/2025 - 10:15 am |  | - |
+| Avisos | CO1.MSG.8049562 | La lista de oferentes del proceso 132-DISAN-EJC/CENAC REGIONALNEIVA-2025 publicada por DISPENSARIO MEDICO NEIVA - DIRECCION DE SANIDAD EJERCITO | 18/Jun/2025 - 10:14 am |  | - |

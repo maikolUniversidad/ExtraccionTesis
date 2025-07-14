@@ -1,0 +1,232 @@
+Title: Licitaciones - INPEC-CÁRCEL Y PENITENCIARIA DE MEDIA SEGURIDAD PARA MUJERES DE BUCARAMANGA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681bc5e19e2536.21040605
+
+Markdown Content:
+Licitaciones - INPEC-CÁRCEL Y PENITENCIARIA DE MEDIA SEGURIDAD PARA MUJERES DE BUCARAMANGA - Contratación mínima cuantía 420-CPMSMBUC-010-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-05-13 15:00:45
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Contratación mínima cuantía
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+En Evaluacion
+
+**Objeto:**
+CONTRATAR EL MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE MAQUINARIA Y ADQUISICIÓN DE EQUIPO Y HERRAMIENTAS PARA ACTIVIDADES PRODUCTIVAS OCUPACIONALES DEL ÁREA DE TALLERES, DE LA CÁRCEL Y PENITENCIARÍA DE MEDIA SEGURIDAD PARA MUJERES DE BUCARAMANGA DEL INPEC 2025
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Santander : Bucaramanga
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+53131604 - Cepillos o peinillas para el cabello
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Mobiliario, -Plantas eléctricas, generadores eléctricas, -Maquinaria industrial, -Maquinaria para confección textil", "licicodigos": "106,128,227,228,353" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+5 Meses
+
+**Dirección de ejecución del contrato:**
+PROLONGACIÓN CALLE 45 VIA CHIMITA Bucaramanga Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+No
+
+**Tipo de contrato:**
+Suministros
+
+**Plazo del contrato:**
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 73152101, 81112306, 27111701, 23121612, 27112728, 31161511, 56101519, 43212110, 40101827, 52141703, 53131618, 53131643, 53131604, 53131619 | CONTRATAR EL MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE MAQUINARIA Y ADQUISICIÓN DE EQUIPO Y HERRAMIENTAS PARA ACTIVIDADES PRODUCTIVAS OCUPACIONALES DEL ÁREA DE TALLERES, DE LA CÁRCEL Y PENITENCIARÍA DE MEDIA SEGURIDAD PARA MUJERES DE BUCARAMANGA DEL INPEC 2025 | Mínima cuantía | NotApplied | $26.492.620 | GESTIÓN CONTRACTUAL |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+07/May/2025 - 03:14 pm
+
+**Publicación de estudios previos:**
+
+07/May/2025 - 03:14 pm
+
+**Fecha de publicación:**
+
+07/May/2025 - 03:14 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+08/May/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+08/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+09/May/2025 - 08:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+09/May/2025 - 09:00 am
+
+**Plazo máximo para expedir adendas:**
+
+09/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+12/May/2025 - 08:10 am
+
+**Informe de presentación de ofertas:**
+
+12/May/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+12/May/2025 - 06:14 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+14/May/2025 - 07:00 am
+
+**Aceptación de ofertas:**
+
+15/May/2025 - 08:00 am
+
+**Entrega de las garantías de ejecución del contrato:**
+
+20/May/2025 - 08:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+20/May/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+No
+
+**¿Plan de pagos?:**
+No
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte preliminar | CO1.AWD.2249235 | Informe de evaluación 1 CO1.AWD.2249235 | 12/May/2025 - 02:47 pm |  | - |
+| General | CO1.MSG.7854172 | NO SE PROCEDE A REALIZAR LA LIMITACIÓN DEL PROCESO DE CONTRATACIÓN | 08/May/2025 - 03:20 pm |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 10:50 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

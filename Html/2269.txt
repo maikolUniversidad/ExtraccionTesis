@@ -1,0 +1,103 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) PN DILOF OFTIC GRUMA 004 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6818f700691a89.44299012
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-09 11:07:54
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+En a la atención de la programación contractual de las necesidades de la Policía Nacional para el año 2025, de manera respetuosa me permito solicitar información de la PLATAFORMA DE INTELIGENCIA EMPRESARIAL PARA ANÁLISIS Y VISUALIZACIÓN DE DATOS DE LA POLICÍA NACIONAL, es de anotar que este producto es exento de IVA, se requiriere diligenciar los anexos ESPECIFICACIONES TECNICAS MINIMAS REQUERIDAS como CUMPLE o NO CUMPLE en su totalidad, sin dejar un artículo en blanco.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Códigos adicionales UNSPSC:**
+
+81112106 - Proveedores de servicios de aplicación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 59 No. 26-21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+05/May/2025 - 12:06 pm
+
+**Plazo para solicitar aclaraciones:**
+
+09/May/2025 - 10:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+12/May/2025 - 10:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8208777 | Publicación modificación | 09/May/2025 - 09:00 am |  |  |
+| Aclaraciones | CO1.MSG.7857644 | RE: Observaciones DILOF | 09/May/2025 - 08:58 am |  | - |
+| Aclaraciones | CO1.MSG.7856633 | Solicitud Aclaraciones | 08/May/2025 - 07:02 pm |  | - |
+| Aclaraciones | CO1.MSG.7854919 | Observaciones DILOF | 08/May/2025 - 04:10 pm |  | - |

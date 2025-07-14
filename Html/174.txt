@@ -1,0 +1,318 @@
+Title: Licitaciones - GOBERNACIÓN DE BOYACÁ
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6827ccf5322041.72768915
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:38:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS TECNOLÓGICOS PARA FORTALECER LAS AULAS EDUCATIVAS DE ALGUNAS IE OFICIALES DEL DEPARTAMENTO DE BOYACA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Boyacá : Tunja
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo", "licicodigos": "104" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 25 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 20 # 9 - 90 Tunja Boyacá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 554,424,360
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 43211503 | ADQUISICION DE EQUIPOS TECNOLOGICOS PARA FORTALECER LAS AULAS EDUCATIVAS DE ALGUNAS IE OFICIALES DEL DEPARTAMENTO DE BOYACÁ | Selección abreviada subasta inversa | Royalties | $554.424.360 | SECRETARIA CONTRATACION |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+16/May/2025 - 06:31 pm
+
+**Publicación Estudios Previos:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+16/May/2025 - 07:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+16/May/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+27/May/2025 - 05:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+27/May/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+28/May/2025 - 06:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+05/Jun/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+05/Jun/2025 - 07:52 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+06/Jun/2025 - 06:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+09/Jun/2025 - 06:00 pm
+
+**Presentación de Ofertas:**
+
+18/Jun/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+18/Jun/2025 - 09:01 am
+
+**Informe de presentación de Ofertas:**
+
+18/Jun/2025 - 09:05 am
+
+**Publicación del informe de verificación o evaluación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/Jun/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/Jun/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+04/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+04/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+08/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jul/2025 - 09:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 18/Jun/2025 - 09:00 am | 30/Abr/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 18/Jun/2025 - 09:00 am | 18/Nov/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** HECTOR LEONARDO GONZALEZ GARCIA | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 322,122,199
+
+**Informes proceso de selección CO1.AWD.2287165 de 07/Jul/2025 - 10:44 am. Valor $322.122.199**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 24/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 24/Jun/2025 - 05:58 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 06:17 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 06:17 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 06:17 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 06:17 pm |  |
+| Informe de evaluación | 03/Jul/2025 - 06:17 pm |  |
+| Informe de selección | 07/Jul/2025 - 10:44 am |  |
+| Informe de selección | 07/Jul/2025 - 10:44 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2287165**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** HECTOR LEONARDO GONZALEZ GARCIA * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 79688228 | * **Nombre:** HECTOR LEONARDO GONZALEZ GARCIA * **Tipo documento:** * **Documento:** 79688228 | - Distrito Capital de Bogotá | $322.122.199 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2287165****
+
+**Cuantía a la firma del contrato:**
+
+$ 322,122,199
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+03/Jul/2025 - 06:00 pm
+
+**Fecha de inicio:**
+
+04/Jul/2025 - 10:30 am
+
+**Fecha fin:**
+
+04/Jul/2025 - 11:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2287165 | Informe de selección CO1.AWD.2287165 | 07/Jul/2025 - 10:44 am |  | - |
+| Objeciones | CO1.MSG.8077154 | [Respondido] RE:SUBSANACION INFORME DE EVALUACION PRELIMINAR | 07/Jul/2025 - 10:43 am |  | - |
+| Objeciones | CO1.MSG.8082243 | [Respondido] RE:Subsanación | 07/Jul/2025 - 10:43 am |  | - |
+| Objeciones | CO1.MSG.8095856 | [Respondido] RE:Aclaración Técnica | 07/Jul/2025 - 10:43 am |  | - |
+| Objeciones | CO1.MSG.8091343 | [Respondido] RE:SUBSANACION GN GENERACION DE NEGOCIOS SAS | 07/Jul/2025 - 10:43 am |  | - |
+| Objeciones | CO1.MSG.8095505 | [Respondido] RE:SUBSANACION TALENTO COMERCIALIZADORA | 07/Jul/2025 - 10:43 am |  | - |
+| Objeciones | CO1.MSG.8118337 | [Respondido] RE:INFORMACION SUBASTA INVERSA | 07/Jul/2025 - 10:42 am |  | - |
+| General | CO1.MSG.8119392 | REGLAS DE LA SUBASTA | 04/Jul/2025 - 10:38 am |  | - |
+| Avisos | CO1.MSG.8119346 | La lista de oferentes del proceso SA-SI-GB-005-2025 (Presentación de oferta) publicada por GOBERNACIÓN DE BOYACÁ | 04/Jul/2025 - 10:34 am |  | - |
+| General | CO1.MSG.8118928 | RESPUESTA A OBSERVACIONES | 04/Jul/2025 - 09:59 am |  | - |
+| Objeciones | CO1.MSG.8118337 | INFORMACION SUBASTA INVERSA | 04/Jul/2025 - 08:51 am |  | - |
+| Reporte preliminar | CO1.AWD.2287165 | Informe de evaluación 2 CO1.AWD.2287165 | 03/Jul/2025 - 06:17 pm |  | - |
+| General | CO1.MSG.8111579 | RE: ALCANCE DE SUBSANACION | 03/Jul/2025 - 08:38 am |  | - |
+| General | CO1.MSG.8106920 | RE: ACLARACION | 02/Jul/2025 - 12:37 pm |  | - |
+| General | CO1.MSG.8106921 | RE: QUANTYC SAS PROCESO SA-SI-GB-005-2025 | 02/Jul/2025 - 12:37 pm |  | - |
+| General | CO1.MSG.8104989 | RE: ALCANCE SUBSANACION FICHA TECNICA-TALENTO COMERCIALIZADORA SA | 02/Jul/2025 - 09:12 am |  | - |
+| General | CO1.MSG.8102843 | RE: Observaciones | 01/Jul/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.8102844 | RE: Observaciones | 01/Jul/2025 - 05:26 pm |  | - |
+| General | CO1.MSG.8102834 | RE: ALCANCE DE SUBSANACION- TALENTO COMERCIALIZADORA | 01/Jul/2025 - 05:25 pm |  | - |
+| Avisos | CO1.REQ.8373307 | Publicación modificación | 01/Jul/2025 - 03:00 pm |  |  |
+| General | CO1.MSG.8100981 | ADENDA 03 | 01/Jul/2025 - 02:54 pm |  | - |
+| General | CO1.MSG.8100761 | RE: OBSERVACIONES A SUBSANACIONES SA-SI-GB-005-2025 | 01/Jul/2025 - 02:27 pm |  | - |
+| General | CO1.MSG.8099930 | RE: Solicitud de exclusión de documento de especificaciones técnicas anteriormente cargado y anexión de ficha técnica ajustada conforme a Adenda No. 2 | 01/Jul/2025 - 12:00 pm |  | - |
+| General | CO1.MSG.8098997 | RE: OBSERVACIONES INFORME DE EVALUACION | 01/Jul/2025 - 10:20 am |  | - |
+| General | CO1.MSG.8098989 | RE: subsanacion serlecom | 01/Jul/2025 - 10:19 am |  | - |
+| General | CO1.MSG.8098969 | RE: subsanación de documentos | 01/Jul/2025 - 10:18 am |  | - |
+| General | CO1.MSG.8098980 | RE: OBSERVACION AL INFORME DE EVALUACION PRELIMINAR | 01/Jul/2025 - 10:18 am |  | - |
+| General | CO1.MSG.8098967 | RE: Observaciones al informe de evaluación | 01/Jul/2025 - 10:17 am |  | - |
+| General | CO1.MSG.8098964 | RE: SUBSANACION ITPC | 01/Jul/2025 - 10:17 am |  | - |
+| General | CO1.MSG.8098949 | RE: SUBNACION JURIDICA DE GRUPO MPJ | 01/Jul/2025 - 10:16 am |  | - |

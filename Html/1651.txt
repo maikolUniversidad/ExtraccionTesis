@@ -1,0 +1,126 @@
+Title: Licitaciones - COLEGIO REPUBLICA DE CHINA I.E.D
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68097f17660618.36683586
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-24 09:02:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA ACTUALIZACIÓN DEL APLICATIVO PRESUPUESTAL Y DE ALMACÉN (INVENTARIOS), PARA LA VIGENCIA 2025 DEL COLEGIO REPÚBLICA DE CHINA IED.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111502 - Diseños de aplicaciones para computadores personales (pc)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 92 # 82-20 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+8 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 2,300,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81111502 | ACTUALIZACIÓN PROGRAMA PRESUPUESTAL Y DE INVENTARIOS | Contratación régimen especial - Régimen especial | SGP | $2.300.000 | COLEGIO REPÚBLICA DE CHINA I.E.D. |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 01:56 pm
+
+**Fecha de Firma del Contrato:**
+
+02/May/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+02/May/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+15/May/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

@@ -1,0 +1,94 @@
+Title: Licitaciones - DEPARTAMENTO NACIONAL DE PLANEACIÓN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685d4505122ab0.27093092
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-26 08:03:16
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ADQUISICIÓN DE IMPRESORA DE CARNET LAMINADO QUE PERMITA LA IMPRESIÓN A DOBLE CARA Y LOS INSUMOS NECESARIOS PARA SU FUNCIONAMIENTO, INCLUYENDO CINTAS DE IMPRESIÓN A COLOR, CON EL FIN DE OPTIMIZAR LA ELABORACIÓN DE CARNETS INSTITUCIONALES CON ALTA CALIDAD Y DURABILIDAD
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45101500 - Maquinaria y equipo de imprenta
+
+**Códigos adicionales UNSPSC:**
+
+43212114 - Impresoras de imágenes digitales,44103103 - Tóner para impresoras o fax,45101501 - Impresoras heliográficas
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos e insumos para carnetización, tarjetas inteligentes", "licicodigos": "468" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 26 No.13 -19 Edificio de Fonade, Grupo de Correspondencia, 1 piso Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+45 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/Jun/2025 - 08:02 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/Jun/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+02/Jul/2025 - 05:00 pm

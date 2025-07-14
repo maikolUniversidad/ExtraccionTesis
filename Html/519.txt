@@ -1,0 +1,269 @@
+Title: Licitaciones - ESCUELA DE POLICIA SIMON BOLIVAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68222449247a13.68530777
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-26 08:54:12
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+CONTRATACIÓN DEL SERVICIO DE MANTENIMIENTO, REPARACIÓN Y REPUESTOS A TODO COSTO DE LOS EQUIPOS TECNOLÓGICOS DE LA ESCUELA DE POLICÍA SIMÓN BOLÍVAR (ESBOL) Y LA ESCUELA DE CARABINEROS ALEJANDRO GUTIÉRREZ (ESAGU)
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Tuluá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones
+
+**Códigos adicionales UNSPSC:**
+
+81111812 - Servicio de mantenimiento o soporte del hardware del computador,80161507 - Servicios audiovisuales,73152108 - Servicio de mantenimiento y reparación de equipos eléctricos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Mantenimiento e instalación de equipos de cómputo", "licicodigos": "99,106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+KILOMETRIO 1 VIA LA RIVERA Tuluá Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+60 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 132,000,000
+
+**Adquisiciones planeadas:**
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 11:09 am
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 11:30 am
+
+**Publicación de la invitación:**
+
+12/May/2025 - 11:30 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+14/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+14/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+15/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+15/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+15/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+16/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+16/May/2025 - 02:10 pm
+
+**Informe de presentación de ofertas:**
+
+16/May/2025 - 02:20 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+19/May/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/May/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+23/May/2025 - 02:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 29/May/2025 - 02:00 pm | 30/Sep/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 29/May/2025 - 02:00 pm | 31/Jul/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** GRUPOTNK | Palmira - Valle del Cauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 60,381,100
+
+**Informes proceso de selección CO1.AWD.2256299 de 23/May/2025 - 07:11 am. Valor $60.381.100**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 19/May/2025 - 07:36 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:36 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:36 pm |  |
+| Informe de evaluación | 19/May/2025 - 07:36 pm |  |
+| Informe de evaluación | 23/May/2025 - 08:52 am |  |
+| Informe de evaluación | 23/May/2025 - 08:52 am |  |
+| Informe de evaluación | 23/May/2025 - 08:52 am |  |
+| Informe de evaluación | 23/May/2025 - 08:52 am |  |
+| Informe de selección | 23/May/2025 - 07:11 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2256299**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GRUPO TNK SAS * **Tipo documento:** NIT * **Documento:** 900617570 | * **Nombre:** MAURICIO TANAKA * **Tipo documento:** NIT * **Documento:** 78701510 | Palmira - Valle del Cauca | $60.381.100 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2256299****
+
+**ID del contrato en SECOP:**
+
+48-7-10023-25
+
+**Estado del contrato:**
+
+enviado Proveedor
+
+**Fecha de terminación del contrato:**
+
+23/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 60,381,100
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2256299 | Informe de selección CO1.AWD.2256299 | 23/May/2025 - 07:11 pm |  | - |
+| Objeciones | CO1.MSG.7906719 | [Respondido] RE:OBSERVACION ala evaluacion | 23/May/2025 - 07:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2256299 | Informe de evaluación 2 CO1.AWD.2256299 | 23/May/2025 - 08:52 am |  | - |
+| Reporte preliminar | CO1.AWD.2259419 | Informe de evaluación 1 CO1.AWD.2259419 | 22/May/2025 - 10:32 am |  | - |
+| Objeciones | CO1.MSG.7906719 | OBSERVACION ala evaluacion | 20/May/2025 - 10:22 am |  | - |
+| Reporte preliminar | CO1.AWD.2256299 | Informe de evaluación 1 CO1.AWD.2256299 | 19/May/2025 - 07:36 pm |  | - |
+| Avisos | CO1.MSG.7896498 | Publicación de la lista de ofertas del proceso PN ESBOL MIC 011 2025. | 16/May/2025 - 04:48 pm |  | - |
+| Avisos | CO1.MSG.7896492 | La lista de oferentes del proceso PN ESBOL MIC 011 2025 publicada por ESCUELA DE POLICIA SIMON BOLIVAR | 16/May/2025 - 04:47 pm |  | - |
+| General | CO1.MSG.7888374 | AVISO LIMITACION MIPYMES DE ORDEN TERRITORIAL | 15/May/2025 - 02:24 pm |  | - |
+| Aclaraciones | CO1.MSG.7880567 | Limitación Mipymes departamental | 14/May/2025 - 11:57 am |  | - |

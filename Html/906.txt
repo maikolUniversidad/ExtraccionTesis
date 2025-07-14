@@ -1,0 +1,188 @@
+Title: Licitaciones - INSTITUTO MUNICIPAL PARA LA RECREACION Y EL DEPORTE DE CUCUTA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68362e7c1c9ab6.30651100
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 10:59:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACION DE SERVICIO Y SUMINISTRO DE INTERNET EN CANALES DEDICADOS POR FIBRA ÓPTICA Y ADECUACIÓN DE REDES DE DATOS EN EL INSTITUTO MUNICIPAL PARA LA RECREACION Y DEPORTE Y SUS DIFERENTES DEPENDENCIAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112101 - Proveedores de servicio de internet (psi)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de fibra óptica, -Acceso a internet", "licicodigos": "98,285" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA DEL RIO PATINADERO TEODULO GELVEZ ALBARRACIN Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112101 | LINEA 35: PRESTACION DE SERVICIOS Y SUMINISTROS DE INTERNET EN CANALES DEDICADOS POR FIBRA OPTICA Y ADECUACION DE REDES DE DATOS EN EL INSTITUTO MUNICIPAL PARA LA RECREACION Y EL DEPORTE Y SUS DIFERENTES DEPENDENCIAS | Mínima cuantía | Recursos propios | $32.847.500 | IMRD-2025 |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 03:24 pm
+
+**Publicación de estudios previos:**
+
+27/May/2025 - 04:00 pm
+
+**Publicación de la invitación:**
+
+27/May/2025 - 04:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/May/2025 - 04:00 pm
+
+**Plazo para recepción de observaciones:**
+
+28/May/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+28/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+28/May/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/May/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+30/May/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+30/May/2025 - 08:04 am
+
+**Informe de presentación de ofertas:**
+
+30/May/2025 - 08:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 09:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 09:00 am
+
+**Aceptación de ofertas:**
+
+04/Jun/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7963658 | Publicación de la lista de ofertas del proceso IMRD-MC-003-2025. | 30/May/2025 - 08:53 am |  | - |
+| Avisos | CO1.MSG.7963652 | La lista de oferentes del proceso IMRD-MC-003-2025 publicada por INSTITUTO MUNICIPAL PARA LA RECREACION Y EL DEPORTE DE CUCUTA | 30/May/2025 - 08:52 am |  | - |
+| General | CO1.MSG.7953952 | LIMITACION MIPYMES | 28/May/2025 - 04:49 pm |  | - |
+| Avisos | CO1.REQ.8328301 | Publicación modificación | 28/May/2025 - 04:44 pm |  |  |
+| General | CO1.MSG.7953575 | RE: OBSERVACIONES AL PLIEGO | 28/May/2025 - 04:23 pm |  | - |

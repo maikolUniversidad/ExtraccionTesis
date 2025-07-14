@@ -1,0 +1,196 @@
+Title: Licitaciones - RUTA N MEDELLIN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e8042eb3cd4.37564460
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:35:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA EL ACOMPAÑAMIENTO OPERATIVO A LAS STARTUPS DE MEDELLÍN EN TEMAS JURÍDICO, FINANCIEROS, GESTIÓN HUMANA, MARKETING Y TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES, EN EL MARCO DEL PROGRAMA DE CENTROS DE SERVICIOS COMPARTIDOS DE LA CORPORACIÓN RUTA N MEDELLÍN.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101504 - Servicios de asesoramiento sobre planificación estratégica
+
+**Códigos adicionales UNSPSC:**
+
+77102001 - Servicio de certificación de cumplimiento de requisitos legales,80101505 - Desarrollo de políticas u objetivos empresariales,80101506 - Asesoramiento en estructuras organizacionales,80101507 - Servicios de asesoramiento sobre tecnologías de la información,80101511 - Servicio de asesoramiento en recursos humanos,84111502 - Servicio de contabilidad financiera,84111503 - Servicio de contabilidad fiscal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Mercadeo, ventas y publicidad, -Asesoría, interventoría y/o consultoría en formulación y gestión de proyectos", "licicodigos": "117,160,734" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+MEDELLIN Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+74 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101504, 80101505, 80101506, 80101507, 80101511, 84111502, 84111503, 84111703, 77102001 | Prestación de servicios para el acompañamiento operativo a las Startups de Medellín en temas jurídico, financieros y técnicos, en el marco del programa de Centros de Servicios Compartidos de la Corporación Ruta N Medellín. CP178 | Contratación régimen especial - Régimen especial | Recursos propios | $580.000.000 | RUTA N MEDELLIN SECRETARIA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+21/May/2025 - 08:14 pm
+
+**Fecha límite de presentación de ofertas:**
+
+04/Jun/2025 - 05:00 pm
+
+**Fecha límite para la apertura de sobres:**
+
+04/Jun/2025 - 05:01 pm
+
+**Fecha de Firma del Contrato:**
+
+10/Jul/2025 - 11:59 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+11/Jul/2025 - 08:00 am
+
+**Plazo de ejecución del contrato:**
+
+30/Ago/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 20/Jun/2025 - 08:00 am | 21/Feb/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 20/Jun/2025 - 08:00 am | 30/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 20/Jun/2025 - 08:00 am | 21/Feb/2026 - 11:59 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 580,000,000
+
+**Informes proceso de selección CO1.AWD.2273760 de 09/Jul/2025 - 05:09 am. Valor $580.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 06/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 06/Jun/2025 - 03:35 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 05:44 pm |  |
+| Informe de evaluación | 17/Jun/2025 - 05:44 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 06:52 pm |  |
+| Informe de evaluación | 08/Jul/2025 - 06:52 pm |  |
+| Informe de selección | 09/Jul/2025 - 05:09 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2273760 | Informe de selección CO1.AWD.2273760 | 09/Jul/2025 - 05:09 pm |  | - |
+| Objeciones | CO1.MSG.8003139 | [Respondido] RE:Respuesta a informe preliminar de verificación de requisitos habilitantes | 09/Jul/2025 - 05:09 pm |  | - |
+| Objeciones | CO1.MSG.8001730 | [Respondido] RE:Subsanación 9Alliance | 09/Jul/2025 - 05:08 pm |  | - |
+| Objeciones | CO1.MSG.8053166 | [Respondido] RE:Observaciones al Informe Final de Evaluación | 09/Jul/2025 - 05:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273760 | Informe de evaluación 3 CO1.AWD.2273760 | 08/Jul/2025 - 06:52 pm |  | - |
+| General | CO1.MSG.8082142 | Adenda N° 4 | 25/Jun/2025 - 05:07 pm |  | - |
+| Avisos | CO1.REQ.8300170 | Publicación modificación | 25/Jun/2025 - 05:07 pm |  |  |
+| General | CO1.MSG.8067192 | Adenda N° 3 | 20/Jun/2025 - 04:34 pm |  | - |
+| Avisos | CO1.REQ.8300170 | Publicación modificación | 20/Jun/2025 - 04:32 pm |  |  |
+| Objeciones | CO1.MSG.8053166 | Observaciones al Informe Final de Evaluación | 18/Jun/2025 - 04:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2273760 | Informe de evaluación 2 CO1.AWD.2273760 | 17/Jun/2025 - 05:44 pm |  | - |
+| General | CO1.MSG.8021271 | SUBSANACIÓN REQUERIMIENTO JCC | 12/Jun/2025 - 10:37 am |  | - |
+| General | CO1.MSG.8017326 | Adenda N° 2 Modificación del cronograma | 11/Jun/2025 - 04:34 pm |  | - |
+| Avisos | CO1.REQ.8300170 | Publicación modificación | 11/Jun/2025 - 04:33 pm |  |  |
+| General | CO1.MSG.8017188 | REQUERIMIENTO PARA SUBSANACIÓN DE REQUISITOS HABILITANTES | 11/Jun/2025 - 04:29 pm |  | - |
+| Objeciones | CO1.MSG.8003139 | Respuesta a informe preliminar de verificación de requisitos habilitantes | 09/Jun/2025 - 04:46 pm |  | - |
+| General | CO1.MSG.8001881 | Subsanación | 09/Jun/2025 - 04:40 pm |  | - |
+| General | CO1.MSG.8001473 | RESPUESTA A SUBSANACION PROCESO CP-003-2025 | 09/Jun/2025 - 02:47 pm |  | - |
+| Objeciones | CO1.MSG.8001730 | Subsanación 9Alliance | 09/Jun/2025 - 02:43 pm |  | - |
+| General | CO1.MSG.7999992 | ALCANCE A LA SUBSANACIÓN BOOST | 09/Jun/2025 - 10:42 am |  | - |
+| General | CO1.MSG.7999533 | SUBSANACIÓN | 09/Jun/2025 - 09:51 am |  | - |
+| General | CO1.MSG.7999146 | Subsanación requisitos habilitantes - Propuesta Pantera Makers S.A.S. - CP-003-2025 | 09/Jun/2025 - 09:24 am |  | - |
+| Reporte preliminar | CO1.AWD.2273760 | Informe de evaluación 1 CO1.AWD.2273760 | 06/Jun/2025 - 03:35 pm |  | - |
+| Avisos | CO1.MSG.7995023 | Publicación de la lista de ofertas del proceso CP-003-2025.. | 06/Jun/2025 - 02:47 pm |  | - |
+| Avisos | CO1.MSG.7983492 | La lista de oferentes del proceso CP-003-2025. publicada por RUTA N MEDELLIN | 04/Jun/2025 - 06:01 pm |  | - |
+| Aclaraciones | CO1.MSG.7975995 | RE: Observaciones | 03/Jun/2025 - 06:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7973075 | Observaciones | 03/Jun/2025 - 12:29 pm |  | - |
+| General | CO1.MSG.7968048 | RE: Solicitud de aclaración sobre presentación de propuesta técnica y aplicación de experiencia habilitante | 30/May/2025 - 04:54 pm |  | - |
+| General | CO1.MSG.7961565 | Adenda N° 1 | 29/May/2025 - 05:17 pm |  | - |
+| Avisos | CO1.REQ.8300170 | Publicación modificación | 29/May/2025 - 05:16 pm |  |  |

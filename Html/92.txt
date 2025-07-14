@@ -1,0 +1,343 @@
+Title: Licitaciones - MINISTERIO DE HACIENDA Y CREDITO PUBLICO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6815503e982550.83246793
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-27 06:33:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Renovar el soporte de infraestructura hiperconvergencia de marca DELL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Códigos adicionales UNSPSC:**
+
+43201800 - Dispositivos de almacenamiento,43211500 - Computadores,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 12 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 8 6 C 38 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+50 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 1,350,000,002
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43201800, 43211500, 43212200, 43222600, 81111800, 81112300 | Renovar el soporte de infraestructura hiperconvergencia de marca DELL - DGT-388 | Selección abreviada subasta inversa | Presupuesto de entidad nacional | $1.350.000.002 | DIRECCIÓN ADMINISTRATIVA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+02/May/2025 - 05:51 pm
+
+**Publicación Estudios Previos:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+02/May/2025 - 11:59 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+02/May/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+09/May/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+14/May/2025 - 11:58 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+14/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 07:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+15/May/2025 - 07:29 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+15/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+16/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+19/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+19/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+21/May/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+21/May/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+21/May/2025 - 03:05 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+30/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+05/Jun/2025 - 07:00 pm
+
+**Apertura del sobre económico:**
+
+10/Jun/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+11/Jun/2025 - 11:58 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+12/Jun/2025 - 11:58 pm
+
+**Firma del Contrato:**
+
+12/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+17/Jun/2025 - 05:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+17/Jun/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 11/Jun/2025 - 11:58 pm | 31/Ene/2026 - 11:58 pm |
+| Pago de salarios | 5,00 | 11/Jun/2025 - 11:58 pm | 31/Jul/2028 - 11:58 pm |
+| Calidad del servicio | 20,00 | 31/Jul/2025 - 11:59 pm | 13/Dic/2026 - 11:59 pm |
+| Amparo de provisión de repuestos y accesorios | 10,00 | 11/Jun/2025 - 11:58 pm | 13/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** M.S.L. DISTRIBUCIONES Y CIA S.A.S | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,010,294,184
+
+**Informes proceso de selección CO1.AWD.2276858 de 25/Jun/2025 - 10:00 am. Valor $1.010.294.184**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/Jun/2025 - 08:03 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 08:03 pm |  |
+| Informe de evaluación | 09/Jun/2025 - 08:03 pm |  |
+| Informe de selección | 25/Jun/2025 - 10:00 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2276858**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** M.S.L. DISTRIBUCIONES Y CIA S.A.S * **Tipo documento:** NIT * **Documento:** 830031855 | * **Nombre:** Camilo Montenegro Cajigas * **Tipo documento:** NIT * **Documento:** 80415541 | - Distrito Capital de Bogotá | $1.010.294.184 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2276858****
+
+**ID del contrato en SECOP:**
+
+2.008-2025
+
+**Estado del contrato:**
+
+En aprobación
+
+**Fecha de terminación del contrato:**
+
+31/Jul/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 1,010,294,184
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+10/Jun/2025 - 02:30 pm
+
+**Fecha de inicio:**
+
+10/Jun/2025 - 03:00 pm
+
+**Fecha fin:**
+
+10/Jun/2025 - 03:30 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2276858 | Informe de selección CO1.AWD.2276858 | 25/Jun/2025 - 10:00 am |  | - |
+| General | CO1.MSG.8066444 | RE: RE: RE: Reitaracion solicitud de documentos adjudicatario MHCP-SIE-03-2025 | 20/Jun/2025 - 03:30 pm |  | - |
+| General | CO1.MSG.8041427 | RE: Reitaracion solicitud de documentos adjudicatario MHCP-SIE-03-2025 | 17/Jun/2025 - 08:58 am |  | - |
+| General | CO1.MSG.8009377 | Reporte subasta MHCP-SIE-03-2025 | 10/Jun/2025 - 03:39 pm |  | - |
+| Avisos | CO1.MSG.8008532 | La lista de oferentes del proceso MHCP-SIE-03-2025 (Presentación de oferta) publicada por MINISTERIO DE HACIENDA Y CREDITO PUBLICO | 10/Jun/2025 - 02:27 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260589 | Informe de evaluación 3 CO1.AWD.2260589 | 09/Jun/2025 - 08:03 pm |  | - |
+| Objeciones | CO1.MSG.7976259 | [Respondido] RE:Subsanación y/o aclaración REDCOMPUTO LTDA Evaluación Mayo 30-25 | 09/Jun/2025 - 08:00 pm |  | - |
+| Objeciones | CO1.MSG.7990165 | [Respondido] RE:Subsanación informe de evaluación | 09/Jun/2025 - 08:00 pm |  | - |
+| Avisos | CO1.REQ.8270282 | Publicación modificación | 06/Jun/2025 - 06:18 pm |  |  |
+| Objeciones | CO1.MSG.7990165 | Subsanación informe de evaluación | 05/Jun/2025 - 05:31 pm |  | - |
+| General | CO1.MSG.7989752 | Observaciones a ofertas 2 | 05/Jun/2025 - 04:46 pm |  | - |
+| Objeciones | CO1.MSG.7976259 | Subsanación y/o aclaración REDCOMPUTO LTDA Evaluación Mayo 30-25 | 03/Jun/2025 - 06:42 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260589 | Informe de evaluación 2 CO1.AWD.2260589 | 30/May/2025 - 05:53 pm |  | - |
+| General | CO1.MSG.7968511 | RESPUESTAS A OBSERVACIONES A INFORME PRELIMINAR DE EVALUACION DEL PROCESO MHCP-SIE-03-2025 | 30/May/2025 - 05:45 pm |  | - |
+| Avisos | CO1.REQ.8270282 | Publicación modificación | 29/May/2025 - 06:15 pm |  |  |
+| General | CO1.MSG.7940245 | Subsanación y/o aclaración REDCOMPUTO LTDA | 28/May/2025 - 12:13 pm |  | - |
+| General | CO1.MSG.7940245 | Subsanación y/o aclaración REDCOMPUTO LTDA | 28/May/2025 - 12:13 pm |  | - |
+| General | CO1.MSG.7947642 | Subsanacion MSL Proceso MHCP-SIE-03-2025 | 27/May/2025 - 06:46 pm |  | - |
+| General | CO1.MSG.7934956 | Subsanación | 26/May/2025 - 09:45 am |  | - |
+| Reporte preliminar | CO1.AWD.2260589 | Informe de evaluación 1 CO1.AWD.2260589 | 23/May/2025 - 06:31 pm |  | - |
+| Avisos | CO1.MSG.7932479 | Publicación de la lista de ofertas del proceso MHCP-SIE-03-2025 (Presentación de oferta). | 23/May/2025 - 06:31 pm |  | - |
+| Avisos | CO1.MSG.7916733 | La lista de oferentes del proceso MHCP-SIE-03-2025 (Presentación de oferta) publicada por MINISTERIO DE HACIENDA Y CREDITO PUBLICO | 21/May/2025 - 03:27 pm |  | - |
+| Avisos | CO1.REQ.8270282 | Publicación modificación | 19/May/2025 - 06:21 pm |  |  |
+| Aclaraciones | CO1.MSG.7903929 | Respuesta a observaciones realizadas al pliego definitivo del proceso MHCP-SIE-03-2025 | 19/May/2025 - 05:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7897417 | Observaciones VMWARE | 16/May/2025 - 06:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7897382 | Observaciones MSL al pliego de condiciones | 16/May/2025 - 06:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7862425 | Observaciones al pre-pliego de condiciones | 09/May/2025 - 05:46 pm |  | - |
+| Aclaraciones | CO1.MSG.7861272 | OBSERVACION AL PLIEGO DE CONDICONES | 09/May/2025 - 04:00 pm |  | - |
+| Aclaraciones | CO1.MSG.7861143 | Observacion al proyecto pliego de condiciones | 09/May/2025 - 03:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7856828 | SOLICITUD ACLARACION | 08/May/2025 - 08:14 pm |  | - |

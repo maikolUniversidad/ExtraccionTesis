@@ -1,0 +1,264 @@
+Title: Licitaciones - DEPARTAMENTO DE ANTIOQUIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=684b733062aac5.67030836
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 10:41:08
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Prestación del servicio del sistema de pago electrónico de peajes para el departamento de Antioquia
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Medellín
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+95111600 - Vías de tráfico abierto
+
+**Códigos adicionales UNSPSC:**
+
+78111800 - Transporte de pasajeros por carretera
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Suscripción a medios de comunicación impresos y virtuales", "licicodigos": "103,407" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 42 B No. 52-106, PISO 6 Medellín Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+180 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 225,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 78111800 | PRESTACION DEL SERVICIO DE PAGO ELECTRONICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $15.000.000 | 122C SECRETARÍA DE SEGURIDAD Y JUSTICIA |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES | Contratación directa | Recursos propios | $50.000.000 | 161G SECRETARÍA DE DESARROLLO ECONÓMICO, INNOVACIÓN Y NUEVAS ECONOMÍAS |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES | Contratación directa | Recursos propios | $24.000.000 | 124C DEPARTAMENTO ADMINISTRATIVO DE GESTIÓN DEL RIESGO DE DESASTRES |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRONICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | NotApplied | $2.000.000 | 144D SECRETARIA DE LA JUVENTUD |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $16.000.000 | 176H DEPARTAMENTO ADMINISTRATIVO DE PLANEACION |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $15.000.000 | 121C SECRETARÍA DE GOBIERNO, PAZ Y NO VIOLENCIA |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $6.000.000 | 132D SECRETARÍA DE LAS MUJERES |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | NotApplied | $10.000.000 | 173H SECRETARÍA DE TALENTO HUMANO Y DESARROLLO ORGANIZACIONAL |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $25.000.000 | 111B SECRETARIA DE INFRAESTRUCTURA FÍSICA |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJES PARA EL DEPARTAMENTO DE ANTIOQUIA. | Contratación directa | Recursos propios | $24.000.000 | 131D SECRETARIA SECCIONAL DE SALUD Y PROTECCIÓN SOCIAL DE ANTIOQUIA |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJESPARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $8.000.000 | 171H SECRETARÍA GENERAL |
+| 78111800 | PRESTACIÓN DEL SERVICIO DEL SISTEMA DE PAGO ELECTRÓNICO DE PEAJESPARA EL DEPARTAMENTO DE ANTIOQUIA | Contratación directa | Recursos propios | $30.000.000 | 112B SECRETARÍA DE AMBIENTE Y SOSTENIBILIDAD |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+12/Jun/2025 - 07:32 pm
+
+**Publicación Estudios Previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+12/Jun/2025 - 08:00 pm
+
+**Publicación de estudios previos:**
+
+12/Jun/2025 - 08:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+19/Jun/2025 - 07:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+25/Jun/2025 - 04:30 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+25/Jun/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+27/Jun/2025 - 03:56 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+27/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+27/Jun/2025 - 05:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+01/Jul/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+02/Jul/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/Jul/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 03:00 pm
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+03/Jul/2025 - 03:01 pm
+
+**Informe de presentación de Ofertas:**
+
+03/Jul/2025 - 03:30 pm
+
+**Publicación del informe de verificación o evaluación:**
+
+08/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+11/Jul/2025 - 05:00 pm
+
+**Apertura del sobre económico:**
+
+17/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+18/Jul/2025 - 05:00 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/Jul/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+31/Jul/2025 - 12:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+31/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/Jul/2025 - 12:00 am | 30/Jul/2025 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+17/Jul/2025 - 11:00 am
+
+**Fecha de inicio:**
+
+17/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+
+17/Jul/2025 - 02:10 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8134917 | INFORME DE EVALUACIÓN | 08/Jul/2025 - 01:34 pm |  | - |
+| Reporte preliminar | CO1.AWD.2301018 | Informe de evaluación 1 CO1.AWD.2301018 | 08/Jul/2025 - 01:33 pm |  | - |
+| Avisos | CO1.MSG.8114989 | La lista de oferentes del proceso 16608 (Presentación de oferta) publicada por DEPARTAMENTO DE ANTIOQUIA | 03/Jul/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.8081016 | RESPUESTA A OBSERVACIONES PROYECTO DE PLIEGO | 25/Jun/2025 - 03:39 pm |  | - |
+| Aclaraciones | CO1.MSG.8058886 | RE: OBSERVACIONES FLYPASS | 25/Jun/2025 - 03:38 pm |  | - |
+| Aclaraciones | CO1.MSG.8035937 | OBSERVACIONES FLYPASS | 16/Jun/2025 - 11:19 am |  | - |

@@ -1,0 +1,199 @@
+Title: Licitaciones - SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680bf304f369b3.43278169
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 08:37:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Prestar el servicio de monitoreo satelital mediante plataforma compatible con el Sistema de Posicionamiento Global GPS (FMC130 y llaves Bluetooth), dispositivos instalados en 15 vehículos que integran el parque automotor de la Superintendencia de Servicios Públicos Domiciliarios -Superservicios, a nivel nacional.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+25173107 - Sistemas de posicionamiento global de vehículos
+
+**Códigos adicionales UNSPSC:**
+
+32101656 - Circuito integrado de sistema de posicionamiento geográfico gps,52161518 - Receptores de sistemas de posicionamiento global
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "GPS y servicio de monitoreo", "licicodigos": "377" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+CRA 18 NRO 84 - 35 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+250 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 64,057,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 32131000 | 52003425- Prestar el servicio de monitoreo satelital mediante plataforma compatible con el sistema de posicionamiento global - GPS (FMC130 y llaves bluetooth), dispositivos instalados en 15 vehiculos que integran el parque autormotor de la superintendencia de servicios publcios domiciliarios a nivel nacional- | Mínima cuantía | Recursos propios | $15.900.000 | DIRECCION ADMINISTRATIVA |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+25/Abr/2025 - 02:00 pm
+
+**Publicación de estudios previos:**
+
+25/Abr/2025 - 02:00 pm
+
+**Fecha de publicación:**
+
+25/Abr/2025 - 03:25 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+28/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+28/Abr/2025 - 11:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+29/Abr/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+29/Abr/2025 - 11:59 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+29/Abr/2025 - 11:59 pm
+
+**Presentación de Ofertas:**
+
+02/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+02/May/2025 - 10:03 am
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 07:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+06/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+07/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+09/May/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/May/2025 - 11:50 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+25/May/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 09/May/2025 - 06:00 pm | 30/Jun/2026 - 12:00 pm |
+| Calidad del servicio | 10,00 | 09/May/2025 - 07:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7807237 | Observaciones al pliego de condiciones del proceso N° SSPD MC 004-2025 | 28/Abr/2025 - 03:13 pm |  | - |

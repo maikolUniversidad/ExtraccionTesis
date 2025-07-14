@@ -1,0 +1,207 @@
+Title: Licitaciones - AGENCIA LOGISTICA DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681a81bd1206f8.51979856
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-16 11:55:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO A TODO COSTO DE AIRES ACONDICIONADOS Y MANTENIMIENTO EQUIPOS CÓMPUTO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Cota
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46171610 - Cámaras de seguridad
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador,81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112306 - Mantenimiento de impresoras,81112200 - Mantenimiento y soporte de software,39121011 - Fuentes ininterrumpibles de potencia,72101511 - Servicio de instalación o mantenimiento o reparación de aires acondicionados,43211706 - Teclados,43201803 - Unidades de disco duro,32101601 - Memoria de acceso aleatorio (ram),26121609 - Cable de redes,46171610 - Cámaras de seguridad
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Aire acondicionado", "licicodigos": "106,263" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+Parque Industrial Portos Sabana 80 Kilometro 2.5 Autopista Medellín Bodega 1 Cota-Cundinamarca Cota Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+6 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 92,527,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300, 81111812, 81112200, 72101511, 39121011, 43211711, 43211706, 43201803, 32101601, 26121609, 46171610 | MANTENIMIENTO A TODO COSTO DE AIRES ACONDICIONADOS Y MANTENIMIENTO EQUIPOS COMPUTO | Mínima cuantía | Recursos propios | $20.700.000 | REGIONAL CENTRO ALFM |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+06/May/2025 - 04:23 pm
+
+**Publicación de estudios previos:**
+
+06/May/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+06/May/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+07/May/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+07/May/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+08/May/2025 - 02:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+08/May/2025 - 02:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+08/May/2025 - 02:00 pm
+
+**Presentación de Ofertas:**
+
+12/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+12/May/2025 - 02:02 pm
+
+**Informe de presentación de ofertas:**
+
+12/May/2025 - 02:05 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+14/May/2025 - 04:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/May/2025 - 04:00 pm
+
+**Aceptación de ofertas:**
+
+19/May/2025 - 12:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+21/May/2025 - 10:00 am
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+21/May/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 20/May/2025 - 12:00 pm | 20/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 20/May/2025 - 12:00 pm | 30/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 40,00 | 20/May/2025 - 12:00 pm | 20/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 40,00 | 20/May/2025 - 12:00 pm | 30/Nov/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7891825 | Solicitud aclaración precios artificialmente bajos | 16/May/2025 - 07:14 am |  | - |
+| Objeciones | CO1.MSG.7888740 | Subsanacion | 15/May/2025 - 03:01 pm |  | - |
+| Objeciones | CO1.MSG.7888168 | SUBSANACION GRUPO CONEXION COLOMBIA SAS | 15/May/2025 - 01:51 pm |  | - |
+| Objeciones | CO1.MSG.7886403 | Observaciones | 15/May/2025 - 10:17 am |  | - |
+| Reporte preliminar | CO1.AWD.2251966 | Informe de evaluación 1 CO1.AWD.2251966 | 14/May/2025 - 04:31 pm |  | - |
+| Avisos | CO1.MSG.7867291 | Publicación de la lista de ofertas del proceso MC 008-032-2025. | 12/May/2025 - 02:28 pm |  | - |
+| Avisos | CO1.MSG.7867282 | La lista de oferentes del proceso MC 008-032-2025 publicada por AGENCIA LOGISTICA DE LAS FUERZAS MILITARES | 12/May/2025 - 02:27 pm |  | - |

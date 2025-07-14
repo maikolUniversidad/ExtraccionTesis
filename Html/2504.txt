@@ -1,0 +1,109 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE TELEMATICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682df36a5b28d1.32844526
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:33:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+ESTUDIO DE MERCADO - PROCESO No.086 MANTENIMIENTO Y ADQUISICIÓN DE REPUESTOS PARA LAS ESTACIONES SATELITALES DEL EJÉRCITO NACIONAL, A EJECUTAR EN LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Facatativá
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72151608 - Servicio de mantenimiento o reparación de sistemas satelitales
+
+**Códigos adicionales UNSPSC:**
+
+43222626 - Módems de cable,26111800 - Componentes de la transmisión,26111701 - Baterías recargables,43221700 - Equipo fijo de red y componentes,39121600 - Dispositivos y accesorios para la protección de circuitos,39121000 - Equipamiento para distribución y conversión de alimentación,43221712 - Antenas de satélite
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición", "licicodigos": "100" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 15 CALLE 5 # 15-00 Facatativá Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 10:20 am
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 08:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+15/Jul/2025 - 08:00 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 11/Jul/2025 - 03:16 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 08/Jul/2025 - 01:47 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 27/Jun/2025 - 05:45 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 24/Jun/2025 - 01:50 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 13/Jun/2025 - 06:12 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 10/Jun/2025 - 04:32 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 06/Jun/2025 - 04:55 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 03/Jun/2025 - 06:03 pm |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 30/May/2025 - 10:18 am |  |  |
+| Avisos | CO1.REQ.8295694 | Publicación modificación | 29/May/2025 - 12:04 pm |  |  |

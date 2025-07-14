@@ -1,0 +1,94 @@
+Title: Licitaciones - DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPÚBLICA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6826500520eba9.91674649
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:51:45
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Contratar la adquisición de radios de comunicación y monófonos para el personal de la Jefatura para la Proteccion Presidencial en cumplimiento de sus funciones, de acuerdo a las especificaciones técnicas definidas por la entidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191510 - Radios de dos vías
+
+**Códigos adicionales UNSPSC:**
+
+43191600 - Partes o accesorios de dispositivos de comunicación personal
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento)", "licicodigos": "110" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Bogotá Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+120 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+15/May/2025 - 03:10 pm
+
+**Plazo para solicitar aclaraciones:**
+
+16/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+22/May/2025 - 05:00 pm

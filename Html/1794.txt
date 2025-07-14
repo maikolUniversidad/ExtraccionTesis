@@ -1,0 +1,94 @@
+Title: Licitaciones - HOSMIL - Solicitud de información a los Proveedores (SECOPII) COT-222-2025-HOMIL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68110e70430da1.69816645
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-12 11:51:55
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+SUMINISTRO ÚTILES DE ESCRITORIO, PAPELERÍA, MATERIAL DE IMPRENTA, PARA LAS ÁREAS Y/O SERVICIOS DEL HOSPITAL MILITAR CENTRAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+14111500 - Papel de imprenta y papel de escribir
+
+**Códigos adicionales UNSPSC:**
+
+12142100 - Gases naturales y gases mixtos,12171700 - Compuestos de colores y dispersiones,12181600 - Aceites,14111600 - Papel fantasía,14111800 - Papeles de uso comercial,15121800 - Anticorrosivos,26111700 - Baterías, pilas y accesorios,27112300 - Herramientas de marcar,31162400 - Fijadores varios,31201500 - Cinta adhesiva,41111600 - Instrumentos de medida de longitud, espesor o distancia,43201800 - Dispositivos de almacenamiento,44102400 - Etiquetadoras,44121500 - Suministros de correo,44121600 - Suministros de escritorio,44121700 - Instrumentos de escritura,44122000 - Carpetas de archivo, carpetas y separadores,45101500 - Maquinaria y equipo de imprenta,46151700 - Equipo forense y accesorios y suministros,60105700 - Álbumes de recuerdos y suministros,60121100 - Lienzos, películas, tableros y papeles de artista
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Papelería y elementos de oficina, -Tóner, cartuchos e insumos para impresión y fotocopiado", "licicodigos": "127,312" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Transversal 3C N° 49-00 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 12:16 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/Abr/2025 - 11:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+06/May/2025 - 02:00 pm

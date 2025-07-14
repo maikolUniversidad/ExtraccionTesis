@@ -1,0 +1,119 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68363bbfe75f36.36906077
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:04:49
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición de la dotación tecnológica, así como el suministro, instalación, migración y operación de un centro de datos (Data Center) en contenedor (tipo container) para el Centro de Inteligencia Artificial del municipio de Zipaquirá
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211700 - Dispositivos informáticos de entrada de datos
+
+**Códigos adicionales UNSPSC:**
+
+81161700 - Servicios de telecomunicaciones,43211730 - Sistema de adquisición de datos,81112000 - Servicios de datos,81112003 - Servicios de centros de datos,81111500 - Ingeniería de software o hardware,81112006 - servicios de almacenamiento de datos,80101507 - Servicios de asesoramiento sobre tecnologías de la información
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Vivienda prefabricada - contenedores, -Servidores (Suministro y alquiler)", "licicodigos": "104,391,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Edificio Manuel Murillo Toro; Carrera 8 entre Calles 12A y 12B; Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 04:58 pm
+
+**Plazo para solicitar aclaraciones:**
+
+12/Jun/2025 - 11:59 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+18/Jun/2025 - 11:59 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8044941 | RE: Observaciones al estudio de mercado | 17/Jun/2025 - 03:09 pm |  | - |
+| Aclaraciones | CO1.MSG.8032944 | RE: Preguntas y Observaciones FUNTIC 053-2025 | 13/Jun/2025 - 07:49 pm |  | - |
+| Aclaraciones | CO1.MSG.8031134 | RE: OBSERVACIONES GREEN | 13/Jun/2025 - 03:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8029911 | RE: OBSERVACIONES AL PROCESO | 13/Jun/2025 - 01:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8028678 | RE: Observaciones | 13/Jun/2025 - 10:50 am |  | - |
+| Aclaraciones | CO1.MSG.8028302 | RE: Observaciones | 13/Jun/2025 - 10:17 am |  | - |
+| Aclaraciones | CO1.MSG.8028223 | RE: OBSERVACIONES | 13/Jun/2025 - 10:13 am |  | - |
+| Aclaraciones | CO1.MSG.8026759 | Observaciones al estudio de mercado | 12/Jun/2025 - 09:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8022854 | OBSERVACIONES AL PROCESO | 12/Jun/2025 - 01:47 pm |  | - |
+| Aclaraciones | CO1.MSG.8018712 | OBSERVACIONES | 11/Jun/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8018455 | OBSERVACIONES GREEN | 11/Jun/2025 - 06:06 pm |  | - |
+| Aclaraciones | CO1.MSG.8018389 | Observaciones | 11/Jun/2025 - 05:59 pm |  | - |
+| Avisos | CO1.REQ.8329130 | Publicación modificación | 11/Jun/2025 - 03:53 pm |  |  |
+| Aclaraciones | CO1.MSG.8015370 | RE: Solicitud Visita Tecnica | 11/Jun/2025 - 02:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8011638 | RE: Observaciones al proceso | 10/Jun/2025 - 07:24 pm |  | - |
+| Aclaraciones | CO1.MSG.8004598 | Observaciones | 09/Jun/2025 - 08:11 pm |  | - |
+| Avisos | CO1.REQ.8329130 | Publicación modificación | 09/Jun/2025 - 06:55 pm |  |  |
+| Aclaraciones | CO1.MSG.7997481 | Preguntas y Observaciones FUNTIC 053-2025 | 06/Jun/2025 - 09:52 pm |  | - |
+| Aclaraciones | CO1.MSG.7973967 | Solicitud Visita Tecnica | 03/Jun/2025 - 02:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7968494 | Observaciones al proceso | 30/May/2025 - 05:42 pm |  | - |

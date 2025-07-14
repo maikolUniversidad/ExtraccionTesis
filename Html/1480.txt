@@ -1,0 +1,112 @@
+Title: Licitaciones - INSTITUCIÓN EDUCATIVA FEDERICO GARCIA LORCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834ae9b3ece17.28039486
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 10:52:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+mantenimeinto de fotocopiadoras
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111500 - Ingeniería de software o hardware
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 5 nº 83-03 sur Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+10 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 12:41 pm
+
+**Fecha de Firma del Contrato:**
+
+06/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+06/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

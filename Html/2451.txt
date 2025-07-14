@@ -1,0 +1,103 @@
+Title: Licitaciones - CENTRAL ADMINISTRATIVA Y CONTABLE ESPECIALIZADA CENAC EDUCACIÓN//
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834a6daeac1b8.83279140
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:18:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO EQUIPOS CCTV (EQUIPOS BIOMETRICOS) Y LA ADQUISICIÓN SUMINISTRO DE DRONES Y PARA EJECUTAR EN LA VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+46171507 - Barras de seguridad
+
+**Códigos adicionales UNSPSC:**
+
+43212201 - Sistema de almacenamiento virtual,45121504 - Cámaras digitales,43201827 - Dispositivo de almacenamiento de disco duro portátil,72151702 - Servicio de instalación de sistemas de televisión de circuito cerrado,72151704 - Servicio de instalación y mantenimiento de sistemas instrumentados de seguridad,49161700 - Equipos para deportes de pista
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Control de acceso, -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "315,489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CALLE 102 N. 7-80 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+26/May/2025 - 12:00 pm
+
+**Plazo para solicitar aclaraciones:**
+
+18/Jun/2025 - 02:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+20/Jun/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8319454 | Publicación modificación | 20/Jun/2025 - 04:03 pm |  |  |
+| Avisos | CO1.REQ.8319454 | Publicación modificación | 16/Jun/2025 - 09:30 am |  |  |
+| General | CO1.MSG.7997222 | RTA A OBSERVACIONES | 06/Jun/2025 - 07:11 pm |  | - |
+| Avisos | CO1.REQ.8319454 | Publicación modificación | 30/May/2025 - 05:21 pm |  |  |

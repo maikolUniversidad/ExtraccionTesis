@@ -1,0 +1,214 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE VILLAVICENCIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e0175ba09c1.46838879
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:53
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA MAQUINARIA Y EQUIPO DE LA TORRE DE TRANSMISION, CERRO EL PULPITO VEREDA SERVITA MUNICIPIO DE VILLAVICENCIO
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Meta : Villavicencio
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+72103302 - Mantenimiento o soporte de equipo de telecomunicaciones
+
+**Códigos adicionales UNSPSC:**
+
+72151500 - Servicios de sistemas eléctricos,46161700 - Equipo y accesorios de rescate
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Antenas y equipos de repetición, -Plantas eléctricas, generadores eléctricas, -Transformadores, -Instalaciones eléctricas, -Protecciones Eléctricas", "licicodigos": "100,227,234,241,243" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 40 Nº 33 - 64 Centro PISO 2 Villavicencio Meta COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 120,997,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 40101502, 46161700, 72103302, 72151500, 72151514, 78111800 | META (260) (ACTUALIZACIÓN E IMPLEMENTACIÓN DEL PLAN ESTRATÉGICO DE COMUNICACIONES DE LA ADMINISTRACIÓN MUNICIPAL DE VILLAVICENCIO, META) MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LA TORRE DE TRANSMISIÓN CERRO PULPITO VEREDA SERVITA MUNICIPIO DE VILLAVICENCIO | Mínima cuantía | SGP | $150.000.000 | SECRETARIA DE LAS TIC |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 11:18 am
+
+**Publicación de estudios previos:**
+
+22/May/2025 - 07:00 am
+
+**Publicación de la invitación:**
+
+22/May/2025 - 07:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/May/2025 - 07:00 am
+
+**Plazo para recepción de observaciones:**
+
+23/May/2025 - 07:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+26/May/2025 - 10:01 am
+
+**Informe de presentación de ofertas:**
+
+26/May/2025 - 10:02 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/May/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+30/May/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+03/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+15 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/May/2025 - 12:00 pm | 30/Oct/2025 - 12:00 pm |
+| Pago de salarios | 5,00 | 30/May/2025 - 12:00 pm | 30/Jun/2028 - 12:00 pm |
+| Estabilidad y calidad de la obra | 20,00 | 30/May/2025 - 12:00 pm | 30/Jun/2030 - 12:00 pm |
+
+**Estabilidad y calidad de la obra:**
+
+20,00% del valor del contrato, desde 30/May/2025 - 12:00 pm hasta 30/Jun/2030 - 12:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8030961 | RESOLUCION DE COMITE EVALUADOR | 13/Jun/2025 - 03:35 pm |  | - |
+| General | CO1.MSG.7976303 | DECLARATIRIA DESIERTA PROCESO | 03/Jun/2025 - 06:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265494 | Informe de evaluación 2 CO1.AWD.2265494 | 30/May/2025 - 06:34 pm |  | - |
+| General | CO1.MSG.7961888 | SUBSANACION DE DOCUMENTOS | 29/May/2025 - 05:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2265494 | Informe de evaluación 1 CO1.AWD.2265494 | 28/May/2025 - 07:22 pm |  | - |
+| Aclaraciones | CO1.MSG.7949358 | RE: Solicitud de Formatos | 28/May/2025 - 09:32 am |  | - |
+| Avisos | CO1.MSG.7936135 | La lista de oferentes del proceso SMC-067-2025 publicada por ALCALDIA MUNICIPIO DE VILLAVICENCIO | 26/May/2025 - 11:37 am |  | - |
+| Avisos | CO1.MSG.7936138 | Publicación de la lista de ofertas del proceso SMC-067-2025. | 26/May/2025 - 11:37 am |  | - |
+| General | CO1.MSG.7930934 | LIMITACION A MIPYME | 23/May/2025 - 04:02 pm |  | - |
+| Avisos | CO1.REQ.8296387 | Publicación modificación | 23/May/2025 - 03:45 pm |  |  |
+| Aclaraciones | CO1.MSG.7920046 | Solicitud de Formatos | 22/May/2025 - 08:35 am |  | - |

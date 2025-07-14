@@ -1,0 +1,94 @@
+Title: Licitaciones - DIRECCION DE ANTINARCOTICOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68278d469f9028.24807934
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:46:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+SUMINISTRO DE REPUESTOS Y CONSUMIBLES DEL GRUPO TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES DE LA DIRECCIÓN DE ANTINARCÓTICOS DE LA POLICÍA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43191610 - Soportes o sujetadores o puestos de comunicación personal
+
+**Códigos adicionales UNSPSC:**
+
+39131711 - Dispositivos y accesorios de cableado eléctrico,32141104 - Elementos deflectores,32131005 - Paquetes de circuitos integrados,26121616 - Cable de telecomunicaciones,47132102 - Kits de limpieza para uso general,32101513 - Conjuntos de circuitos de aplicaciones específicas,31261501 - Cubiertas y carcasas de plástico,43221706 - Antenas de radio,32111612 - Transistor de efecto de campo de potencia,26111700 - Baterías, pilas y accesorios,43222814 - Kits de instalación o modificación de equipos de telecomunicaciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Radios y telecomunicaciones (Suministro, instalación, repuestos y/o mantenimiento), -Materiales para redes de comunicación", "licicodigos": "110,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 1 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AEROPUERTO EL DORADO ENTRADA SEIS VIA CATAM Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+16/May/2025 - 02:00 pm
+
+**Plazo para solicitar aclaraciones:**
+
+20/May/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+23/May/2025 - 06:00 pm

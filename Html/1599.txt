@@ -1,0 +1,190 @@
+Title: Licitaciones - INSTITUTO NACIONAL DE METROLOGIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e64ab90de25.22563116
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-28 10:23:20
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+CONTRATAR LA ASIGNACIÓN DE DIGITAL OBJECT IDENTIFIER (DOI) PARA LOS PRODUCTOS DE IDI DEL INM
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+55121731 - Marcadores de identificación
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Seguridad informática", "licicodigos": "102,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 10 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA CRA. 50 No. 26-55 Int. 2 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 55121731 | 216 - CONTRATAR LA ASIGNACIÓN DE "DIGITAL OBJECT IDENTIFIER" (DOI) PARA LOS PRODUCTOS DE I+D+I DEL INM. | Mínima cuantía | Presupuesto de entidad nacional | $3.000.000 | GESTION CONTRACTUAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 06:30 pm
+
+**Publicación de estudios previos:**
+
+21/May/2025 - 07:00 pm
+
+**Publicación de la invitación:**
+
+21/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/May/2025 - 11:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 11:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+29/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+29/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+03/Jun/2025 - 11:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+06/Jun/2025 - 11:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 08:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 06/Jun/2025 - 12:00 pm | 31/Ene/2026 - 11:00 pm |
+| Pago de salarios | 5,00 | 06/Jun/2025 - 12:00 pm | 31/Jul/2028 - 11:00 pm |
+| Calidad del servicio | 10,00 | 19/Jun/2025 - 12:00 pm | 31/Ene/2026 - 11:00 am |

@@ -1,0 +1,297 @@
+Title: Licitaciones - ALCALDIA DE SALGAR
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68558ead13cb49.82088405
+
+Markdown Content:
+Licitaciones - ALCALDIA DE SALGAR - Subasta Inversa SG-SA-SI-008-2025 
+
+===============
+
+[](https://www.licitaciones.info/colombia)
+
+*     
+*   [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis)
+*   [Iniciar sesión](https://col.licitaciones.info/login)
+
+*   [Mis perfiles](https://col.licitaciones.info/login)
+*   [Mis seguimientos](https://col.licitaciones.info/login)
+*   [Carpetas](https://col.licitaciones.info/login)
+*   [Todos los contratos](https://col.licitaciones.info/login)
+*    Ajustes Ajustes  [Configurar subcuentas](https://col.licitaciones.info/login)[Configurar notificaciones](https://col.licitaciones.info/login)    
+*   [Mi publicidad](https://col.licitaciones.info/login)
+*    Publicar contrato Publicar contrato  [Solicitud de publicación](https://col.licitaciones.info/login)[Contratos](https://col.licitaciones.info/login)    
+
+Tienes acceso limitado, para acceder al total de la información de los procesos de contratación, funcionalidades y bondades [Regístrate 30 días gratis](https://col.licitaciones.info/registrate-30-dias-gratis) o [Renueva tu plan](https://col.licitaciones.info/cliente/renovar-cuenta).
+
+ Regresar a 
+
+Este contrato se encuentra actualizado hasta 2025-07-12 09:47:01
+
+Información general del proceso:
+
+**Entidad:**
+Información limitada
+
+**Modalidad:**
+Subasta Inversa
+
+**Número:**
+Información limitada
+
+**Estado del proceso:**
+Convocatoria
+
+**Objeto:**
+ADQUISICIÓN DE EQUIPOS DE COMPUTO Y DEMÁS ELEMENTOS TECNOLÓGICOS PARA LAS DIFERENTES DEPENDENCIAS Y PROGRAMAS DE LA ADMINISTRACIÓN MUNICIPAL DE SALGAR, ANTIOQUIA.
+
+**Presupuesto oficial:**
+Información limitada
+
+**Asociado al proceso de paz:**
+
+**Localización:**
+Antioquia : Salgar
+
+**Dirección Física de Obtención de Documentos del Proceso:**
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+43211500 - Computadores
+
+**CPC:**
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos", "licicodigos": "104,105" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+90 Días
+
+**Dirección de ejecución del contrato:**
+CALLE 29 30 17 Salgar Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+No
+
+**Limitar este proceso a Pymes:**
+Si
+
+**Tipo de contrato:**
+Suministros
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+$ 180,491,735
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211500, 39121011, 43211706, 43212105, 43202007, 45111616, 43201803, 43222634, 43232312, 43232804 | ADQUISICIÓN DE EQUIPOS DE COMPUTO Y DEMÁS ELEMENTOS TECNOLÓGICOS PARA LAS DIFERENTES DEPENDENCIAS Y PROGRAMAS DE LA ADMINISTRACIÓN MUNICIPAL DE SALGAR, ANTIOQUIA. | Selección abreviada subasta inversa | SGP | $180.491.735 | UC SALGAR |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+20/Jun/2025 - 11:23 am
+
+**Publicación Estudios Previos:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación de estudios previos:**
+
+20/Jun/2025 - 12:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+20/Jun/2025 - 12:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+01/Jul/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+01/Jul/2025 - 06:00 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+03/Jul/2025 - 06:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+04/Jul/2025 - 05:15 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+04/Jul/2025 - 06:00 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+04/Jul/2025 - 06:00 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+11/Jul/2025 - 12:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jul/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+14/Jul/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/Jul/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/Jul/2025 - 09:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+15/Jul/2025 - 09:10 am
+
+**Informe de presentación de Ofertas:**
+
+15/Jul/2025 - 09:15 am
+
+**Publicación del informe de verificación o evaluación:**
+
+15/Jul/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+22/Jul/2025 - 06:00 pm
+
+**Apertura del sobre económico:**
+
+23/Jul/2025 - 10:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+23/Jul/2025 - 06:00 pm
+
+**Firma del Contrato:**
+
+23/Jul/2025 - 07:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+24/Jul/2025 - 06:00 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+24/Jul/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+Si
+
+**¿Plan de pagos?:**
+No
+
+**Seriedad de la oferta:**
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 23/Jul/2025 - 12:00 am | 07/Feb/2026 - 11:59 pm |
+| Pago de salarios | 15,00 | 23/Jul/2025 - 12:00 am | 07/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 23/Jul/2025 - 12:00 am | 07/Feb/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+23/Jul/2025 - 10:00 am
+
+**Fecha de inicio:**
+23/Jul/2025 - 02:00 pm
+
+**Fecha fin:**
+23/Jul/2025 - 02:10 pm
+
+Mensajes y observaciones:
+
+**Mensajes públicos:**
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8155184 | 7-11-2025 OBSERVACION SOLICITUD DE MODIFICACION INDICADORES FINANCIEROS | 11/Jul/2025 - 10:28 am |  | - |
+| Aclaraciones | CO1.MSG.8147628 | Observaciones Pliego de Condiciones Subasta Inversa Virtual No. SG-SA-SI-008-2025 | 10/Jul/2025 - 12:10 pm |  | - |
+| Aclaraciones | CO1.MSG.8133808 | Solicitud de aclaraciones - Proceso de Selección Abreviada No. SG-SA-SI-008-2025 | 08/Jul/2025 - 11:08 am |  | - |
+| General | CO1.MSG.8116418 | SG-SA-SI-008-2025 - AVISO LIMITACION A MIPYMES 2025 | 03/Jul/2025 - 05:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8116405 | RE: OBSERVACIONES SUMIMAS S.A.S, OBSERVACIONES AL PROYECTO DE PLIEGOS , OBSERVACIONES AL PROCESO | 03/Jul/2025 - 05:27 pm |  | - |
+| Avisos | CO1.REQ.8447573 | Publicación modificación | 03/Jul/2025 - 07:43 am |  |  |
+| Aclaraciones | CO1.MSG.8102035 | OBSERVACIONES AL PROCESO | 01/Jul/2025 - 04:23 pm |  | - |
+| Aclaraciones | CO1.MSG.8100397 | OBSERVACIONES AL PROYECTO DE PLIEGOS | 01/Jul/2025 - 01:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8099044 | OBSERVACIONES SUMIMAS S.A.S | 01/Jul/2025 - 10:26 am |  | - |
+
+×Close
+
+#### Mis notas
+
+Hoy 9:34 pm
+
+Crear nota
+
+No has creado tu primera nota.
+
+Acerca de
+
+[Nosotros](https://col.licitaciones.info/nosotros/nuestro-equipo)[Terminos y condiciones](https://col.licitaciones.info/terminos-condiciones)[Contactanos](https://col.licitaciones.info/cliente/contactenos)
+
+Internacional
+
+[Chile](https://chl.licitaciones.info/detalle-contrato)[Costa Rica](https://cri.licitaciones.info/detalle-contrato)[Ecuador](https://ecu.licitaciones.info/detalle-contrato)[Panamá](https://pan.licitaciones.info/detalle-contrato)[Perú](https://per.licitaciones.info/detalle-contrato)
+
+App móvil
+
+[](https://play.google.com/store/apps/details?id=com.setcon.licitacionesinfo)[](https://itunes.apple.com/us/app/licitaciones/id1210052711?mt=8)
+
+Siguenos
+
+[](https://www.facebook.com/licitacionesInfo/)[](https://www.youtube.com/channel/UCBNfdt_YYbADQfB2zDiyvlg)[](https://twitter.com/licitacionesInf/)
+
+Soporte
+
+Nuestro sitio web utiliza **cookies propias y de terceros** para obtener datos estadísticos de la navegación de nuestra familia de usuarios y mejorar nuestros servicios. Si aceptas o continúas navegando, consideramos que aceptas su uso. Puedes cambiar la configuración u obtener [más información aquí](https://col.licitaciones.info/cookies-policy)
+
+Aceptar
+
+Cargando

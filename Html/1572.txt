@@ -1,0 +1,210 @@
+Title: Licitaciones - ECSAN - Contratación mínima cuantía PN ECSAN MIC 013 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807b09fc5d8d9.15459747
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-16 22:29:10
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ADQUISICIÓN DE EQUIPOS PARA FOTOGRAFÍA PARA EL GRUPO DE COMUNICACIONES ESTRATÉGICAS DE LA ESCUELA DE CADETES DE POLICÍA GENERAL FRANCISCO DE PAULA SANTANDER.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45121600 - Accesorios para cámaras
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 45 A SUR NUMERO 50 A - 91 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 45121600 | EQUIPOS PARA FOTOGRAFIA | Mínima cuantía | Recursos propios | $5.000.000 | ESCUELA DE CADETES DE POLICÍA GENERAL FRANCISCO DE PAULA SANTANDER |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 09:47 am
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 10:00 am
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 10:00 am
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 10:00 am
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 10:00 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Abr/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+28/Abr/2025 - 03:00 pm
+
+**Apertura de sobres:**
+
+28/Abr/2025 - 03:03 pm
+
+**Informe de presentación de ofertas:**
+
+28/Abr/2025 - 03:07 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+29/Abr/2025 - 02:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+30/Abr/2025 - 02:00 pm
+
+**Aceptación de ofertas:**
+
+06/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+08/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/May/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 06/May/2025 - 06:00 pm | 20/Dic/2025 - 06:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 50,00 | 06/May/2025 - 06:00 pm | 20/Dic/2025 - 06:00 pm |
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(16/Jun/2025 - 04:17 am:10 PM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ECSAN en 6 horas de tiempo transcurrido (16/Jun/2025 - 04:17 am:10 PM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: SE CIERRA PROCESO TODA VEZ QUE SE DECLARÓ DESIERTO MEDIANTE RESOLUCION 090 DEL 23/May/2025
+
+**Fecha de la cancelación:**
+
+16/Jun/2025 - 04:17 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7928959 | RESOLUCION DECLARATORIA DESIERTO PROCESO ADQUISICION DE EQUIPOS PARA FOTOGRAFIA | 23/May/2025 - 11:58 am |  | - |
+| Reporte preliminar | CO1.AWD.2238426 | Informe de evaluación 4 CO1.AWD.2238426 | 08/May/2025 - 04:52 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238426 | Informe de evaluación 3 CO1.AWD.2238426 | 06/May/2025 - 02:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238426 | Informe de evaluación 2 CO1.AWD.2238426 | 02/May/2025 - 04:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2238426 | Informe de evaluación 1 CO1.AWD.2238426 | 29/Abr/2025 - 12:26 pm |  | - |
+| General | CO1.MSG.7787746 | AVISO NO LIMITACION MIPYMES | 23/Abr/2025 - 03:42 pm |  | - |

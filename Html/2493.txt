@@ -1,0 +1,103 @@
+Title: Licitaciones - DILOF - Solicitud de información a los Proveedores (SECOPII) PN OFTIC GRUMA 01 2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682e4efd6d5245.84100563
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:32:41
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+En atención de la programación contractual de las necesidades de la Policía Nacional para el año 2025, de manera respetuosa me permito solicitar información de la PLATAFORMA DE INTELIGENCIA EMPRESARIAL PARA ANÁLISIS Y VISUALIZACIÓN DE DATOS DE LA POLICÍA NACIONAL, es de anotar que este producto es exento de IVA, se requiriere diligenciar los anexos ESPECIFICACIONES TECNICAS MINIMAS REQUERIDAS como CUMPLE o NO CUMPLE en su totalidad, sin dejar un artículo en blanco.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232300 - Software de consultas y gestión de datos
+
+**Códigos adicionales UNSPSC:**
+
+81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+carrera 59 No. 26-21 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Años
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 05:04 pm
+
+**Plazo para solicitar aclaraciones:**
+
+26/May/2025 - 08:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+28/May/2025 - 10:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8063487 | ACLARACIÓN OBJETO PROCESO | 20/Jun/2025 - 10:00 am |  | - |
+| General | CO1.MSG.7967611 | ACLARACIÓN OFERTA | 30/May/2025 - 05:01 pm |  | - |
+| Avisos | CO1.REQ.8297034 | Publicación modificación | 26/May/2025 - 05:12 pm |  |  |
+| General | CO1.MSG.7929883 | RE: solicitud de extensionde plazo para entrega de la informacion - Cotizacion para el estudio de mercado | 26/May/2025 - 05:09 pm |  | - |

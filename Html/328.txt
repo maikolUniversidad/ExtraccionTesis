@@ -1,0 +1,120 @@
+Title: Licitaciones - FIDUCIARIA COLOMBIANA DE COMERCIO EXTERIOR S.A.
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6809744312d3a2.37244499
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+La Fiduciaria Colombiana de Comercio Exterior S.A. FIDUCOLDEX, está interesada en recibir propuestas para contratar el desarrollo e implementación de una herramienta tecnológica en modalidad SAAS para la automatización de la liquidación de impuestos en los pagos que realizan los Patrimonios Autónomos a partir de las facturas que son radicadas a la Fiduciaria, para asegurar la correcta liquidación de los impuestos, preferiblemente utilizando inteligencia artificial que permita mitigar riesgos y c
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81111509 - Servicios de desarrollo de aplicaciones para clientes de internet / intranet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 28 # 13 A 24 Piso 6 Torre B Bogotá D.C. Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+12 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 03:15 pm
+
+**Fecha de Firma del Contrato:**
+
+01/Jun/2025 - 12:00 am
+
+**Fecha de inicio de ejecución del contrato:**
+
+01/Jun/2025 - 12:00 am
+
+**Plazo de ejecución del contrato:**
+
+01/Jun/2026 - 12:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8156917 | Publicación modificación | 17/Jun/2025 - 10:02 am |  |  |
+| Avisos | CO1.REQ.8156917 | Publicación modificación | 15/May/2025 - 03:36 pm |  |  |
+| Avisos | CO1.REQ.8156917 | Publicación modificación | 05/May/2025 - 05:26 pm |  |  |

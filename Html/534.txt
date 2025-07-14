@@ -1,0 +1,286 @@
+Title: Licitaciones - MINISTERIO DE DEFENSA NACIONAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d12155f8ea8.01897353
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-06 06:53:27
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS DE SOPORTE TECNICO EN INFRAESTRUCTURA IBM EN MODALIDAD BOLSA DE HORAS PARA LA UNIDAD DE GESTION GENERAL DEL MINISTERIO DE DEFENSA NACIONAL
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software", "licicodigos": "102" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 54 N 26-25 CAN Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+160 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112300, 81112200 | PRESTACIÓN DE SERVICIOS DE SOPORTE TÉCNICO EN INFRAESTRUCTURA IBM EN MODALIDAD BOLSA DE HORAS PARA LA UNIDAD DE GESTION GENERAL DEL MINISTERIO DE DEFENSA NACIONAL | Contratación directa | Presupuesto de entidad nacional | $90.000.000 | Unidad de gestión General |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 06:20 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 10:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 10:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+22/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+22/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+26/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+27/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+28/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+28/May/2025 - 10:03 am
+
+**Informe de presentación de ofertas:**
+
+28/May/2025 - 10:05 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Jun/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+03/Jun/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+05/Jun/2025 - 08:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+09/Jun/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 05/Jun/2025 - 09:00 pm | 05/Ene/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 05/Jun/2025 - 09:00 pm | 05/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 05/Jun/2025 - 09:00 pm | 05/Dic/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** IDEALOGIC | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 90,000,000
+
+**Informes proceso de selección CO1.AWD.2267204 de 05/Jun/2025 - 04:48 am. Valor $90.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/May/2025 - 08:37 am |  |
+| Informe de evaluación | 30/May/2025 - 08:37 am |  |
+| Informe de selección | 05/Jun/2025 - 04:48 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2267204**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** IDEALOGIC SAS * **Tipo documento:** NIT * **Documento:** 901157921 | * **Nombre:** MICHAEL SMITH CABALLERO CORTES * **Tipo documento:** NIT * **Documento:** 80858877 | Bogotá - Distrito Capital de Bogotá | $90.000.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2267204****
+
+**Contrato CTO-195-2025-MDN-UGG-DA de IDEALOGIC SAS:**
+
+**ID del contrato en SECOP:**
+
+CTO-195-2025-MDN-UGG-DA
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+PRESTACION DE SERVICIOS DE SOPORTE TECNICO EN INFRAESTRUCTURA IBM EN MODALIDAD BOLSA DE HORAS PARA LA UNIDAD DE GESTION GENERAL DEL MINISTERIO DE DEFENSA NACIONAL
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112200 | PRESTACION DE SERVICIOS DE SOPORTE TECNICO EN INFRAESTRUCTURA IBM EN MODALIDAD BOLSA DE HORAS PARA LA UNIDAD DE GESTION GENERAL DEL MINISTERIO DE DEFENSA NACIONAL | 1.00 | UN | 345,591.00 | 90,000,000.00 | 345,591.00 | 90,000,000.00 |
+
+**Fecha de terminación del contrato:**
+
+05/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+160 Días
+
+**Cuantía a la firma del contrato:**
+
+$ 90,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | ACEPTACIÓN DE OFERTA 195 DE 2025.pdf |  |
+|  | OFERTA ECONÓMICA.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2267204 | Informe de selección CO1.AWD.2267204 | 05/Jun/2025 - 04:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2267204 | Informe de evaluación 1 CO1.AWD.2267204 | 30/May/2025 - 08:37 am |  | - |
+| Avisos | CO1.MSG.7950884 | La lista de oferentes del proceso Mínima Cuantía No. 020/2024 MDN-UGG-DA publicada por MINISTERIO DE DEFENSA NACIONAL | 28/May/2025 - 11:57 am |  | - |
+| General | CO1.MSG.7936664 | RESPUESTAS A OBSERVACIONES A LA INVITACIÓN PÚBLICA | 26/May/2025 - 12:43 pm |  | - |
+| Aclaraciones | CO1.MSG.7936626 | RESPUESTAS A OBSERVACIONES A LA INVITACIÓN PÚBLICA | 26/May/2025 - 12:37 pm |  | - |
+| General | CO1.MSG.7930949 | Aviso Informativo Mipymes Minima-cuantia-20-2025 | 23/May/2025 - 04:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7924674 | Observaciones | 22/May/2025 - 04:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7923917 | OBSERVACIONES A LA INVITACION | 22/May/2025 - 04:01 pm |  | - |

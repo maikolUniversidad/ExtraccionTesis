@@ -1,0 +1,252 @@
+Title: Licitaciones - FEDERACION COLOMBIANA DE MUNICIPIOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681baf2a806784.55815980
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:29:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Herramienta tecnológica para la automatización de procesos, permitiendo garantizar la mejora de servicios de tecnología de la Federación Colombiana de Municipios en cumplimiento de la función pública asignada - Simit.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232200 - Software de gestión de contenidos
+
+**Códigos adicionales UNSPSC:**
+
+43231500 - Software funcional específico de la empresa
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Cra 7 #74b-56 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+3 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 938,910,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43231500 | Herramienta tecnológica para la automatización de procesos, permitiendo garantizar la mejora de servicios de tecnología de la Federación Colombiana de Municipios en cumplimiento de la función pública asignada - Simit. | Licitación pública | Recursos propios | $938.910.000 | SECRETARÍA GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+07/May/2025 - 02:04 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+07/May/2025 - 05:00 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+07/May/2025 - 05:00 pm
+
+**Publicación de estudios previos:**
+
+07/May/2025 - 05:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+23/May/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+18/Jun/2025 - 12:16 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+18/Jun/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+18/Jun/2025 - 05:00 pm
+
+**Audiencia de asignación de Riesgos:**
+
+20/Jun/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+24/Jun/2025 - 10:00 am
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+26/Jun/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+26/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+03/Jul/2025 - 10:00 am
+
+**Apertura de Ofertas:**
+
+03/Jul/2025 - 10:05 am
+
+**Informe de presentación de Ofertas:**
+
+03/Jul/2025 - 10:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+08/Jul/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+15/Jul/2025 - 05:00 pm
+
+**Audiencia de Adjudicación:**
+
+22/Jul/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+22/Jul/2025 - 11:00 am
+
+**Firma del Contrato:**
+
+29/Jul/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Ago/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 01/Jul/2025 - 12:00 pm | 30/Oct/2026 - 12:00 pm |
+| Pago de salarios | 5,00 | 01/Jul/2025 - 12:00 pm | 30/Oct/2028 - 12:00 pm |
+| Calidad del servicio | 10,00 | 01/Jul/2025 - 12:00 pm | 30/Oct/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 01/Jul/2025 - 12:00 pm | 30/Oct/2026 - 12:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8150870 | RESPONDE BAG E INDEPRO | 10/Jul/2025 - 03:47 pm |  | - |
+| Reporte preliminar | CO1.AWD.2301215 | Informe de evaluación 1 CO1.AWD.2301215 | 08/Jul/2025 - 01:35 pm |  | - |
+| General | CO1.MSG.8126158 | RE: Duda para prueba técnica Dacartec | 07/Jul/2025 - 09:57 am |  | - |
+| Avisos | CO1.MSG.8117477 | Publicación de la lista de ofertas del proceso LP-02-FCM-2025 (Presentación de oferta). | 03/Jul/2025 - 08:52 pm |  | - |
+| Avisos | CO1.MSG.8112519 | La lista de oferentes del proceso LP-02-FCM-2025 (Presentación de oferta) publicada por FEDERACION COLOMBIANA DE MUNICIPIOS | 03/Jul/2025 - 10:15 am |  | - |
+| Avisos | CO1.REQ.8434361 | Publicación modificación | 26/Jun/2025 - 01:03 pm |  |  |
+| Aclaraciones | CO1.MSG.8086104 | RE: Observaciones al Pliego de Condiciones Proceso LP-02-FCM-2025, PRESENTACIÓN DE OBSERVACIONES AL PROCESO DE SELECICON, Observaciones proyecto pliego de condiciones, Observación al pliego de condiciones | 26/Jun/2025 - 11:23 am |  | - |
+| Aclaraciones | CO1.MSG.8070909 | Observaciones al Pliego de Condiciones Proceso LP-02-FCM-2025 | 24/Jun/2025 - 09:59 am |  | - |
+| Aclaraciones | CO1.MSG.8070852 | PRESENTACIÓN DE OBSERVACIONES AL PROCESO DE SELECICON | 24/Jun/2025 - 09:52 am |  | - |
+| Aclaraciones | CO1.MSG.8068518 | Observaciones proyecto pliego de condiciones | 20/Jun/2025 - 08:40 pm |  | - |
+| General | CO1.MSG.8064583 | Acta audiencia para precisar contenido y alcance del pliego de condiciones y revisión de la asignación de riesgos | 20/Jun/2025 - 11:27 am |  | - |
+| Aclaraciones | CO1.MSG.8063706 | Observación al pliego de condiciones | 20/Jun/2025 - 10:02 am |  | - |
+| General | CO1.MSG.8062563 | AUDIENCIA DE ALCANCE PLIEGOS Y RIESGOS | 20/Jun/2025 - 04:51 am |  | - |
+| General | CO1.MSG.8055568 | RE: Confirmación de requisitos para participación en audiencia - 20 de junio | 19/Jun/2025 - 05:08 am |  | - |
+| General | CO1.MSG.7994188 | RE: RE: RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO | 06/Jun/2025 - 12:46 pm |  | - |
+| General | CO1.MSG.7994189 | RESPEUSTA A LAS OBSERVACIONES Y CRONOGRAMA DEL PROCESO | 06/Jun/2025 - 12:45 pm |  | - |
+| General | CO1.MSG.7930730 | RESPUESTA OBSERVACIONES PROYECTO DE PLIEGO | 23/May/2025 - 03:47 pm |  | - |
+| Aclaraciones | CO1.MSG.7917716 | Observaciones al prepliego de condiciones del Proceso de Licitación pública FEDERACION COLOMBIANA DE MPIO.S Licitación LP-02-FCM-2025 [86921] | 21/May/2025 - 04:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7917467 | SOLICITUD ACLARACIONES | 21/May/2025 - 04:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7909388 | Observaciones Del Proyecto De Pliego | 20/May/2025 - 03:23 pm |  | - |
+| Aclaraciones | CO1.MSG.7907229 | Observaciones proyecto pliego de condiciones | 20/May/2025 - 10:59 am |  | - |
+| Aclaraciones | CO1.MSG.7902369 | Observaciones Proceso N° LP-02-FCM-2025 | 19/May/2025 - 03:05 pm |  | - |
+| Aclaraciones | CO1.MSG.7881629 | Observaciones proyecto de pliego | 14/May/2025 - 02:39 pm |  | - |
+| Aclaraciones | CO1.MSG.7862966 | Observaciones al Pliego de Condiciones - Proceso de Licitación Pública LP-02-FCM-2025 | 09/May/2025 - 07:51 pm |  | - |

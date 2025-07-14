@@ -1,0 +1,16 @@
+Title: Licitaciones - FONDO DE DESARROLLO LOCAL DE BOSA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685c6812c37d20.34720588
+
+Markdown Content:
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211500 - Computadores
+
+**Códigos adicionales UNSPSC:**
+
+13111000 - Resinas,25201700 - Sistemas relacionados con las comunicaciones de vuelo,26121604 - Cable para señales,26131501 - Centrales eléctricas de diesel,30141600 - Aislamiento especial,30161700 - Suelos,39112100 - Iluminación óptica,39121000 - Equipamiento para distribución y conversión de alimentación,39121400 - Lengüetas de conexión, conectadores y terminales,39121440 - Cable de extensión eléctrica,39121635 - Regulador de voltaje,43191500 - Dispositivos de comunicación personal,43201500 - Módulos o interfaces de procesadores de tablero (board) del sistema,43202100 - Accesorios de dispositivos de almacenamiento extraíbles,43211700 - Dispositivos informáticos de entrada de datos,43211900 - Monitores y pantallas de computador,43212100 - Impresoras de computador,45111500 - Atriles, sistemas de sonido y accesorios,45111603 - Pantallas o desplegadores para proyección,45111616 - Proyectores de video,45111700 - Equipo de composición y presentación de sonido, hardware y controladores,45111706 - Combinación de mezclador y amplificador de audio,45111800 - Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores,45121500 - Cámaras,49121500 - Equipos para camping y exteriores,52161500 - Equipos audiovisuales,52161600 - Accesorios de equipo audiovisual,56101500 - Muebles,56101700 - Muebles de oficina,56112100 - Asientos,60111400 - Decoraciones especiales para el aula y accesorios decorativos,60141100 - Juegos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -Equipos audiovisuales, -Mobiliario, -Electrodomésticos, -Plantas eléctricas, generadores eléctricas, -Tablets, dispositivos de bolsillo, teléfonos inteligentes, -Reguladores de voltaje, inversores, cargadores, fuentes, conversores, -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "104,105,115,128,139,227,423,454,489" }

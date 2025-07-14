@@ -1,0 +1,252 @@
+Title: Licitaciones - AGENCIA NACIONAL DEL ESPECTRO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6810266f4cda64.91230259
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 04:50:06
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Adquisición del equipo de seguridad de red perimetral (FortiAnalyzer) con su respectivo licenciamiento, soporte, garantía y mantenimiento, así como la renovación del licenciamiento, soporte, garantía y mantenimiento de la actual solución de seguridad perimetral en la Agencia Nacional del Espectro - ANE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222500 - Equipo de seguridad de red
+
+**Códigos adicionales UNSPSC:**
+
+43222600 - Equipo de servicio de red,43233200 - Software de seguridad y protección,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 14 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 93 # 17 - 45 piso 4 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 821,662,671
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222500, 43233200, 81111800 | Gestión TIC- Adquisición de equipos de Seguridad informática. | Selección abreviada subasta inversa | Recursos propios | $821.662.671 | ANE |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+28/Abr/2025 - 07:53 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+28/Abr/2025 - 11:59 pm
+
+**Publicación Estudios Previos:**
+
+28/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 05:35 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+12/May/2025 - 11:58 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+12/May/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+15/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+15/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+21/May/2025 - 06:59 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+26/May/2025 - 11:00 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+26/May/2025 - 11:02 am
+
+**Informe de presentación de Ofertas:**
+
+26/May/2025 - 11:03 am
+
+**Publicación del informe de verificación o evaluación:**
+
+29/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+04/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+06/Jun/2025 - 11:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+06/Jun/2025 - 11:59 am
+
+**Firma del Contrato:**
+
+09/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 04:00 am
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+10/Jun/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+10/Jun/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 30,00 | 09/Jun/2025 - 12:00 am | 15/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/Jun/2025 - 12:00 am | 15/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 16/Nov/2025 - 12:00 am | 16/Nov/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 16/Nov/2025 - 12:00 am | 16/Nov/2026 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+06/Jun/2025 - 11:10 am
+
+**Fecha de inicio:**
+
+06/Jun/2025 - 11:30 am
+
+**Fecha fin:**
+
+06/Jun/2025 - 11:45 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8249466 | Publicación modificación | 21/May/2025 - 03:05 pm |  |  |
+| Aclaraciones | CO1.MSG.7842390 | Observación Financiera - COINSA | 06/May/2025 - 06:19 pm |  | - |

@@ -1,0 +1,94 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE CUCUTA*
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6802b0c733ed69.74537110
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-21 15:22:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LOS EQUIPOS DE CÓMPUTO, IMPRESORAS, ESCANER, VIDEO BEAM Y ELEMENTOS ELECTRÓNICOS ASIGNADOS A LA REGIÓN DE POLICÍA NÚMERO 5, EL DEPARTAMENTO DE POLICÍA NORTE DE SANTANDER, COLEGIO NUESTRA SEÑORA DE FATIMA Y LAS DEMÁS UNIDADES POR LAS QUE LLEGARE A SER LEGALMENTE RESPONSABLE SEGÚN CANTIDADES Y ESPECIFICACIONES TÉCNICAS DESCRITAS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Norte de Santander : Cúcuta
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+73152100 - Servicios de mantenimiento y reparación de equipo de manufactura
+
+**Códigos adicionales UNSPSC:**
+
+81112300 - Mantenimiento y soporte de hardware de computador,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Equipos audiovisuales, -Servidores (Suministro y alquiler)", "licicodigos": "106,115,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+AVENIDA DEMETRIO MENDOZA ENTRE CALLES 22 Y 24 BARRIO SAN MATEO Cúcuta Norte de Santander COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+5 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+18/Abr/2025 - 02:59 pm
+
+**Plazo para solicitar aclaraciones:**
+
+22/Abr/2025 - 06:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+24/Abr/2025 - 06:00 pm

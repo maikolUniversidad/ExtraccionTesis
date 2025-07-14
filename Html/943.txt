@@ -1,0 +1,204 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA URABA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685ae231e68c84.37933448
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-01 11:12:15
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE LOS EQUIPOS DE CÓMPUTO y SERVIDORES DEL DEPARTAMENTO DE POLICÍA URABÁ
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Apartadó
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112303 - Mantenimiento de computadores “mainframe”
+
+**Códigos adicionales UNSPSC:**
+
+81112304 - Mantenimiento de servidores unix,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo, -Servidores (Suministro y alquiler)", "licicodigos": "106,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+4 Meses
+
+**Dirección de ejecución del contrato:**
+
+kilómetro 5 vía Carepa Apartadó Corregimiento el Reposo Apartadó Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 142,350,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112307 | CONTRATAR LOS SERVICIOS DE MANTENIMIENTO Y REPARACIÓN DE EQUIPOS INFORMÁTICOS, INCLUYENDO COMPUTADORAS DE ESCRITORIO, ESTACIONES DE TRABAJO Y COMPUTADORAS PORTÁTILES) | Mínima cuantía | Presupuesto de entidad nacional | $30.000.000 | DEPARTAMENTO DE POLICÍA URABÁ |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Jun/2025 - 12:17 pm
+
+**Publicación de estudios previos:**
+
+24/Jun/2025 - 12:20 pm
+
+**Publicación de la invitación:**
+
+24/Jun/2025 - 12:20 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Jun/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+25/Jun/2025 - 12:00 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 08:00 am
+
+**Respuesta a las observaciones a la invitación:**
+
+26/Jun/2025 - 08:01 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 08:01 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 10:01 am
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+26/Jun/2025 - 12:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/Jun/2025 - 02:01 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/Jun/2025 - 06:01 pm
+
+**Aceptación de ofertas:**
+
+26/Jun/2025 - 06:02 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 26/Jun/2025 - 06:00 pm | 26/May/2026 - 06:00 pm |
+| Calidad del servicio | 50,00 | 26/Jun/2025 - 06:00 pm | 26/Sep/2025 - 06:00 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.8091135 | Publicación de la lista de ofertas del proceso PN DEURA MIC 039 2025. | 27/Jun/2025 - 07:58 am |  | - |
+| Avisos | CO1.MSG.8091122 | La lista de oferentes del proceso PN DEURA MIC 039 2025 publicada por DEPARTAMENTO DE POLICIA URABA | 27/Jun/2025 - 07:56 am |  | - |
+| Reporte preliminar | CO1.AWD.2293003 | Informe de evaluación 1 CO1.AWD.2293003 | 27/Jun/2025 - 07:53 am |  | - |
+| General | CO1.MSG.8089592 | RE: Solicitud Documento | 26/Jun/2025 - 05:29 pm |  | - |
+| General | CO1.MSG.8088593 | Solicitud Documento | 26/Jun/2025 - 04:17 pm |  | - |
+| General | CO1.MSG.8083224 | AVISO NO LIMITACION MIPYMES | 25/Jun/2025 - 07:04 pm |  | - |

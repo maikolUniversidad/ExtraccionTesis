@@ -1,0 +1,259 @@
+Title: Licitaciones - CONSEJO PROFESIONAL NACIONAL DE INGENIERIA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6834b4fc0277f7.42715782
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 09:20:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Subasta Inversa
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+ADQUISICIÓN DE LICENCIAS DE ANTIVIRUS KASPERSKY NEXT EDR OPTIMUM PARA LA PROTECCIÓN DE LA INFRAESTRUCTURA TIC DEL COPNIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233200 - Software de seguridad y protección
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 16 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+CALLE 78 No. 9-57 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 72,097,500
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233200 | Renovación de licencias de Kaspersky Cloud | Selección abreviada subasta inversa | Recursos propios | $72.097.500 | ÁREA DE CONTRATACIÓN |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+26/May/2025 - 01:26 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+26/May/2025 - 03:00 pm
+
+**Publicación Estudios Previos:**
+
+26/May/2025 - 03:00 pm
+
+**Publicación de estudios previos:**
+
+26/May/2025 - 03:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+03/Jun/2025 - 11:59 pm
+
+**Respuesta a observaciones al Proyecto de Pliego de Condiciones:**
+
+04/Jun/2025 - 11:59 pm
+
+**Fecha prevista de Publicación del Pliego de Condiciones Definitivo:**
+
+06/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones al Pliego de Condiciones:**
+
+09/Jun/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+10/Jun/2025 - 07:57 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+10/Jun/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+11/Jun/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+12/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+12/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+16/Jun/2025 - 07:30 am
+
+**Apertura de sobre de requisitos habilitantes y técnicos:**
+
+16/Jun/2025 - 07:35 am
+
+**Informe de presentación de Ofertas:**
+
+16/Jun/2025 - 07:40 am
+
+**Publicación del informe de verificación o evaluación:**
+
+17/Jun/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+20/Jun/2025 - 11:59 pm
+
+**Apertura del sobre económico:**
+
+25/Jun/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Jun/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+27/Jun/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 11:59 pm
+
+**Aprobación de Póliza e inicio de ejecución del contrato:**
+
+01/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+12 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 25/Jun/2025 - 12:00 pm | 25/Ago/2027 - 11:59 pm |
+| Pago de salarios | 10,00 | 25/Jun/2025 - 12:00 pm | 25/Ago/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 25/Jun/2025 - 12:00 pm | 25/Ago/2027 - 11:59 pm |
+
+Configuración de subasta:
+
+**Utilizar subasta electrónica:**
+
+Si
+
+**Publicación de la lista de participantes de la subasta:**
+
+25/Jun/2025 - 09:30 am
+
+**Fecha de inicio:**
+
+25/Jun/2025 - 10:00 am
+
+**Fecha fin:**
+
+25/Jun/2025 - 10:10 am
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+(20/Jun/2025 - 08:19 am:38 AM(UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal COPNIA en 1 hora de tiempo transcurrido (20/Jun/2025 - 08:19 am:38 AM(UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: Proceso declarado desierto bajo la resolución R2025026499 del 19 junio de 2025
+
+**Fecha de la cancelación:**
+
+20/Jun/2025 - 08:19 am
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.8062803 | DECLATORIA DESIERTA PROCESO | 20/Jun/2025 - 08:16 am |  | - |
+| General | CO1.MSG.8024297 | RESPUESTA OBSERVACIONES PLIEGO DEFINITIVO | 12/Jun/2025 - 04:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8024284 | RE: 6-11-2025 OBSERVACIONES REQUISITOS RESTRICTIVOS | 12/Jun/2025 - 04:02 pm |  | - |
+| Aclaraciones | CO1.MSG.8019433 | 6-11-2025 OBSERVACIONES REQUISITOS RESTRICTIVOS | 11/Jun/2025 - 11:07 pm |  | - |

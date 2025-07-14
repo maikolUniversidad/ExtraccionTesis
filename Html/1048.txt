@@ -1,0 +1,262 @@
+Title: Licitaciones - MUNICIPIO SANTA ROSA DE OSOS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682247eacb1936.79441057
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-17 01:35:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+RENOVACIÓN DE LICENCIMIENTO Y MANTENIMIENTO POR UN (01) AÑO DE SOFTWARE ANTIMALWARE Y DE SEGURIDAD ENDPOINT SECURITY CLOUD, PARA LA ADMINISTRACIÓN MUNICIPAL DE SANTA ROSA DE OSOS, ANTIOQUIA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Antioquia : Santa Rosa De Osos
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222501 - Equipo de seguridad de red cortafuegos (firewall)
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Seguridad informática", "licicodigos": "103,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+30 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 31 Nro. 30 - 10 Santa Rosa De Osos Antioquia COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222501 | RENOVACIÓN DE LICENCIAMIENTO Y ACOMPAÑAMIENTO TÉCNICO UTP PROTECCIÓN 24X7 A 1 AÑO PARA SOLUCIÓN DE SEGURIDAD PERIMETRAL HARDWARE FIREWALL FORTIGATE 100F, PARA LA ADMINISTRACIÓN MUNICIPAL DE SANTA ROSA DE OSOS, ANTIOQUIA. | Mínima cuantía | Recursos propios | $12.000.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 02:07 pm
+
+**Publicación de estudios previos:**
+
+12/May/2025 - 02:30 pm
+
+**Publicación de la invitación:**
+
+12/May/2025 - 02:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+13/May/2025 - 02:30 pm
+
+**Plazo para recepción de observaciones:**
+
+13/May/2025 - 02:30 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+13/May/2025 - 04:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+13/May/2025 - 04:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 05:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 05:00 pm
+
+**Apertura de sobres:**
+
+14/May/2025 - 05:10 pm
+
+**Informe de presentación de ofertas:**
+
+14/May/2025 - 05:15 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+15/May/2025 - 10:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+16/May/2025 - 10:00 am
+
+**Aceptación de ofertas:**
+
+16/May/2025 - 11:00 am
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PC ON LINE ALTA TECNOLOGÍA SAS | - |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 22,420,000
+
+**Informes proceso de selección CO1.AWD.2252804 de 16/May/2025 - 10:28 am. Valor $22.420.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 15/May/2025 - 10:01 am |  |
+| Informe de selección | 16/May/2025 - 10:28 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2252804**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC ON LINE ALTA TECNOLOGIA SAS * **Tipo documento:** NIT * **Documento:** 900707916 | * **Nombre:** HECTOS EMILIO MEDINA SALGADO * **Tipo documento:** NIT * **Documento:** 86059341 | - | $22.420.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2252804****
+
+**Contrato CMC DOS 039 2025 de PC ON LINE ALTA TECNOLOGIA SAS:**
+
+**ID del contrato en SECOP:**
+
+CMC DOS 039 2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+RENOVACIÓN DE LICENCIMIENTO Y MANTENIMIENTO POR UN (01) AÑO DE SOFTWARE ANTIMALWARE Y DE SEGURIDAD ENDPOINT SECURITY CLOUD, PARA LA ADMINISTRACIÓN MUNICIPAL DE SANTA ROSA DE OSOS, ANTIOQUIA.
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 43233205 | Renovación de la suscripción para la solución de seguridad eset protect complete end point, para 190 equipos. Debe incluir: Instalación y configuración óptima, capacitación al administrador de red, técnicos de soporte y funcionarios de sistemas, soporte técnico preventivo y correctivo de manera remota en horario 8 x 5, con 12 meses de actualizaciones incluidas, al igual que envió de boletines periódicos acerca de temas de seguridad de la informática y buenas prácticas de seguridad de la informática. | 190,00 | UN | 118.500,00 | 118.000,00 | 22.515.000,00 | 22.420.000,00 |
+
+**Fecha de terminación del contrato:**
+
+15/May/2026 - 12:00 pm
+
+**Plazo de ejecución:**
+
+12 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 22,420,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 1. Estudios y Documentos Previos.pdf |  |
+|  | 2. Invitacion Publica.pdf |  |
+|  | 3. Aviso Limitacion Mipymes.pdf |  |
+|  | 4. Evaluacion propuesta.pdf |  |
+|  | 5. Aceptación de propuesta.pdf |  |
+|  | 6. Designación de Supervisión.pdf |  |
+|  | CDP 536 DE 2025.pdf |  |
+|  | PROPUESTA ECONOMICA.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2252804 | Informe de selección CO1.AWD.2252804 | 16/May/2025 - 10:28 am |  | - |
+| Reporte preliminar | CO1.AWD.2252804 | Informe de evaluación 1 CO1.AWD.2252804 | 15/May/2025 - 10:01 am |  | - |
+| General | CO1.MSG.7875932 | AVISO DE LIMITACIÓN A MIPYMES | 13/May/2025 - 04:43 pm |  | - |

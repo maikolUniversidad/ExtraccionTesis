@@ -1,0 +1,247 @@
+Title: Licitaciones - COLOMBIA COMPRA EFICIENTE
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680e0ff0a88b71.00508220
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:44:56
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Licitación Pública Acuerdo Marco de Precios (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+(i) Seleccionar a los proveedores de los servicios de Nube Pública y (ii) definir las condiciones para la contratación de los servicios de Nube Pública por parte de las Entidades Estatales que contraten bajo el amparo del Acuerdo Marco de Precios y (iii) las condiciones para el pago de los servicios de Nube Pública.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212200 - Sistemas de manejo de almacenamiento de datos de computador
+
+**Códigos adicionales UNSPSC:**
+
+81111800 - Servicios de sistemas y administración de componentes de sistemas,81112000 - Servicios de datos,81112100 - Servicios de internet,81112400 - Servicios de alquiler o arrendamiento de hardware de computador,81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Servicios en la nube (Cloud)", "licicodigos": "437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 34 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 7 # 26-20 piso. 17 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Chile, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Triángulo Norte - Honduras, México, Unión Europea, Comunidad Andina, Estados AELC, Alianza Pacífico - Chile, Alianza Pacífico - México, Alianza Pacífico - Perú, Corea, Costa Rica
+
+**Tipo de contrato:**
+
+Acuerdo Marco de Precios
+
+**Plazo del contrato:**
+
+2 Años
+
+**Puede ser prorrogado:**
+
+Si
+
+**Fecha de notificación de prorrogación:**
+
+01/Ago/2027 - 11:59 pm
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+27/Abr/2025 - 12:29 am
+
+**Publicación del aviso de convocatoria pública:**
+
+27/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+27/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+13/May/2025 - 11:58 pm
+
+**Publicación del Aviso (artículo 30 de la Ley 80 de 1993):**
+
+15/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Proyecto de Pliego de Condiciones:**
+
+21/May/2025 - 11:59 am
+
+**Audiencia de asignación de Riesgo:**
+
+30/May/2025 - 10:00 am
+
+**Fecha de publicación del pliego de condiciones definitivo:**
+
+25/Jun/2025 - 07:12 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+25/Jun/2025 - 11:59 pm
+
+**Fecha prevista de publicación del pliego de condiciones definitivo:**
+
+25/Jun/2025 - 11:59 pm
+
+**Audiencia de asignación de Riesgos:**
+
+01/Jul/2025 - 10:00 am
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/Jul/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+04/Ago/2025 - 11:59 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+05/Ago/2025 - 11:59 am
+
+**Plazo máximo para expedir adendas:**
+
+12/Ago/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Ago/2025 - 11:59 pm
+
+**Apertura de Ofertas:**
+
+20/Ago/2025 - 08:00 am
+
+**Informe de presentación de Ofertas:**
+
+20/Ago/2025 - 08:01 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+02/Sep/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+09/Sep/2025 - 05:00 pm
+
+**Audiencia de Adjudicación:**
+
+22/Sep/2025 - 09:00 am
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+25/Sep/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+30/Sep/2025 - 11:59 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+03/Oct/2025 - 11:59 pm
+
+**Entrega de la garantía única de cumplimiento:**
+
+08/Oct/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**Anticipos:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.8157342 | OBSERVACIONES PRESENTADAS POR IFX NETWORKS COLOMBIA SAS | 11/Jul/2025 - 03:03 pm |  | - |
+| General | CO1.MSG.8146035 | Acta audiencia de asiganación de riesgos Acuerdo Marco de Precios de Nube Pública V | 09/Jul/2025 - 08:23 pm |  | - |
+| Aclaraciones | CO1.MSG.8144137 | Observaciones al pliego definitivo | 09/Jul/2025 - 04:26 pm |  | - |
+| General | CO1.MSG.8121635 | Fecha y hora reanudación Audiencia de Asignación de Riesgos Nube Pública V | 04/Jul/2025 - 03:28 pm |  | - |
+| General | CO1.MSG.8118057 | Modificación cronograma Acuerdo Marco Nube Pública v | 04/Jul/2025 - 08:15 am |  | - |
+| Avisos | CO1.REQ.8445149 | Publicación modificación | 04/Jul/2025 - 08:00 am |  |  |
+| Aclaraciones | CO1.MSG.8117590 | OBSERVACIONES PLIEGO DE CONDICIONES PARA SELECCIONAR A LOS PROVEEDORES DEL AMP/SDA DE SERVICIOS DE NUBE PÚBLICA V | 03/Jul/2025 - 09:53 pm |  | - |
+| Aclaraciones | CO1.MSG.8117550 | Observaciones Pliego Condiciones Definitivo | 03/Jul/2025 - 09:28 pm |  | - |
+| Aclaraciones | CO1.MSG.8117541 | Observación | 03/Jul/2025 - 09:19 pm |  | - |
+| Aclaraciones | CO1.MSG.8117528 | Observaciones al Proceso Definitivo | 03/Jul/2025 - 09:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8117461 | Observacion | 03/Jul/2025 - 08:46 pm |  | - |
+| Aclaraciones | CO1.MSG.8117426 | Observaciones 2 | 03/Jul/2025 - 08:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8117404 | OBSERVACIONES AL PROCESO | 03/Jul/2025 - 08:23 pm |  | - |
+| Aclaraciones | CO1.MSG.8117371 | OBSERVACIONES PLIEGO DEFINITIVO LICITACION CCENEG-084-01-2025 - CLARO | 03/Jul/2025 - 08:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8117334 | Observaciones COINSA | 03/Jul/2025 - 07:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8117222 | Observaciones Pliego de condiciones Definitivo - Glocation | 03/Jul/2025 - 07:17 pm |  | - |
+| Aclaraciones | CO1.MSG.8117210 | Observaciones Grow Data SAS | 03/Jul/2025 - 07:12 pm |  | - |
+| Aclaraciones | CO1.MSG.8116970 | OBSERVACIONES 2 UNE - PROCESO CCENEG-084-01-2025 | 03/Jul/2025 - 07:05 pm |  | - |
+| Aclaraciones | CO1.MSG.8117173 | OBSERVACIONES AL PLIEGO DE CONDICIONES - ORACLE | 03/Jul/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8117162 | Observaciones Pliego definitivo | 03/Jul/2025 - 07:00 pm |  | - |
+| Aclaraciones | CO1.MSG.8117128 | Observaciones pliego de condiciones definitivo | 03/Jul/2025 - 06:54 pm |  | - |
+| Aclaraciones | CO1.MSG.8117080 | Observacion al pliego | 03/Jul/2025 - 06:45 pm |  | - |
+| Aclaraciones | CO1.MSG.8116981 | Comentarios ANDI CIDS al Pliego de condiciones definitivo AMP Nube Pública | 03/Jul/2025 - 06:32 pm |  | - |
+| Aclaraciones | CO1.MSG.8116980 | Observación al proceso v1 | 03/Jul/2025 - 06:29 pm |  | - |
+| Aclaraciones | CO1.MSG.8116923 | Observaciones Pliego de Condiciones Definitivo | 03/Jul/2025 - 06:22 pm |  | - |
+| Aclaraciones | CO1.MSG.8116806 | Observaciones al proceso CCENEG-084-01-2025 | 03/Jul/2025 - 06:13 pm |  | - |
+| Aclaraciones | CO1.MSG.8116549 | Observaciones a los Pliegos de Condiciones definitivos Colombia Telecomunicaciones | 03/Jul/2025 - 06:03 pm |  | - |
+| Aclaraciones | CO1.MSG.8116436 | OBSERVACIONES AL PLIEGO DE CONDICIONES DEFINITIVO | 03/Jul/2025 - 05:31 pm |  | - |
+| Aclaraciones | CO1.MSG.8115917 | Observaciones al Pliego de Condiciones | 03/Jul/2025 - 04:51 pm |  | - |
+| Aclaraciones | CO1.MSG.8115816 | OBSERVACIONES PROCESO No. CCENEG-084-01-2025 | 03/Jul/2025 - 04:48 pm |  | - |

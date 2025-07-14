@@ -1,0 +1,98 @@
+Title: Licitaciones - UNP - Solicitud de información a los Proveedores (SECOPII) SC-UNP-058-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682df36a9480c9.42387716
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 12:33:03
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+contratar la Adquisición del servicio de la plataforma Moodle para la construcción de cursos de la escuela de formación de la UNP
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43232505 - Software educacional multimedios
+
+**Códigos adicionales UNSPSC:**
+
+81112009 - Servicios de clasificación de datos o contenidos,81111800 - Servicios de sistemas y administración de componentes de sistemas,81111500 - Ingeniería de software o hardware,81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Carrera 63 # 14 - 97 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+21/May/2025 - 10:10 am
+
+**Plazo para solicitar aclaraciones:**
+
+23/May/2025 - 12:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Aclaraciones | CO1.MSG.7935185 | RESPUESTA A LA OBSERVACION | 26/May/2025 - 10:07 am |  | - |
+| Aclaraciones | CO1.MSG.7933645 | RE: Solicitud de aclaraciones e información adicional - Proceso SC-UNP-058-2025 | 25/May/2025 - 11:26 am |  | - |
+| Aclaraciones | CO1.MSG.7928533 | Solicitud de aclaraciones e información adicional - Proceso SC-UNP-058-2025 | 23/May/2025 - 11:19 am |  | - |

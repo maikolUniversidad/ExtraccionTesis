@@ -1,0 +1,254 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE GIGANTE HUILA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680980c988fe66.99184171
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-07 06:34:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADQUISICION E INSTALACION A TODO COSTO INCLUIDO DE EQUIPOS DE COMPUTO, ALMACENAMIENTO, SERVIDOR, RESPALDO DE ENERGIA, COMPONENTES TECNOLOGICOS Y PUNTOS ELECTRICOS PARA EL FORTALECIMIENTO OPERATIVO Y FUNCIONAL DE LA SECRETARIA DE HACIENDA Y TESORERIA DEL MUNICIPIO DE GIGANTE HUILA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Huila : Gigante
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43211507 - Computadores de escritorio
+
+**Códigos adicionales UNSPSC:**
+
+43211501 - Servidores de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Suministro equipos de cómputo, -Suministro partes de computador y/o Periféricos, -UPS y baterías de gran capacidad, -Instalaciones eléctricas, -Materiales para redes de comunicación, -Servidores (Suministro y alquiler)", "licicodigos": "104,105,109,241,438,495" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 13 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CALLE 3 CON CARRERA 4 ESQUINA Gigante Huila COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211507, 43211501 | ADQUISICION E INSTALACION A TODO COSTO INCLUIDO DE EQUIPOS DE COMPUTO, ALMACENAMIENTO, SERVIDOR, RESPALDO DE ENERGIA, COMPONENTES TECNOLOGICOS Y PUNTOS ELECTRICOS PARA EL FORTALECIMIENTO OPERATIVO Y FUNCIONAL DE LA SECRETARIA DE HACIENDA Y TESORERIA DEL MUNICIPIO DE GIGANTE - HUILA | Mínima cuantía | Recursos propios | $39.837.355 | Secretaría General y de Gobierno |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/Abr/2025 - 06:41 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+23/Abr/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+24/Abr/2025 - 11:59 pm
+
+**Plazo para recepción de observaciones:**
+
+24/Abr/2025 - 11:59 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+25/Abr/2025 - 04:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+25/Abr/2025 - 04:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+25/Abr/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+29/Abr/2025 - 09:00 am
+
+**Apertura de sobres:**
+
+29/Abr/2025 - 09:05 am
+
+**Informe de presentación de ofertas:**
+
+29/Abr/2025 - 09:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+30/Abr/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+02/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+05/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+06/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+07/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 12:00 pm | 07/Dic/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/May/2025 - 12:00 pm | 07/Jun/2025 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 29/Abr/2025 - 08:42 am | * **Nombre:** GIGAREDES COMUNICACIONES SAS | Gigante - Huila |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 38,850,000
+
+**Informes proceso de selección CO1.AWD.2239481 de 05/May/2025 - 10:02 am. Valor $38.850.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 30/Abr/2025 - 06:10 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 06:10 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 06:10 pm |  |
+| Informe de evaluación | 30/Abr/2025 - 06:10 pm |  |
+| Informe de evaluación | 05/May/2025 - 09:57 am |  |
+| Informe de evaluación | 05/May/2025 - 09:57 am |  |
+| Informe de selección | 05/May/2025 - 10:02 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2239481**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** GIGAREDES COMUNICACIONES SAS * **Tipo documento:** NIT * **Documento:** 900899804 | * **Nombre:** YIVIER LIBARDO DURAN ALVEAR * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1080180753 | Gigante - Huila | $38.850.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2239481****
+
+**Cuantía a la firma del contrato:**
+
+$ 38,850,000
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2239481 | Informe de selección CO1.AWD.2239481 | 05/May/2025 - 10:02 am |  | - |
+| Reporte preliminar | CO1.AWD.2239481 | Informe de evaluación 2 CO1.AWD.2239481 | 05/May/2025 - 09:57 am |  | - |
+| General | CO1.MSG.7828231 | SUBSANACION PROCESO No. MG-SH-MC-008-2025 | 02/May/2025 - 05:18 pm |  | - |
+| Reporte preliminar | CO1.AWD.2239481 | Informe de evaluación 1 CO1.AWD.2239481 | 30/Abr/2025 - 06:10 pm |  | - |
+| Avisos | CO1.MSG.7810843 | La lista de oferentes del proceso MG-SH-MC-008-2025 publicada por ALCALDIA MUNICIPIO DE GIGANTE HUILA | 29/Abr/2025 - 09:33 am |  | - |
+| Avisos | CO1.MSG.7810847 | Publicación de la lista de ofertas del proceso MG-SH-MC-008-2025. | 29/Abr/2025 - 09:33 am |  | - |
+| Avisos | CO1.REQ.8152722 | Publicación modificación | 25/Abr/2025 - 02:01 pm |  |  |
+| General | CO1.MSG.7799850 | Aviso limitación mipymes | 25/Abr/2025 - 01:58 pm |  | - |
+| Aclaraciones | CO1.MSG.7796800 | Solicitud limitación a Mipymes Municipal N° MG-SH-MC-008-2025 | 24/Abr/2025 - 09:53 pm |  | - |
+| Aclaraciones | CO1.MSG.7796557 | Solicitud limitación a Mipymes Municipal N° MG-SH-MC-008-2025 | 24/Abr/2025 - 08:00 pm |  | - |

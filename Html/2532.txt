@@ -1,0 +1,94 @@
+Title: Licitaciones - FONDO UNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682ce7dd790276.83603901
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-20 22:14:22
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+Se solicita cotización para la realización de un estudio de mercado con el fin de obtener referencias de costos y condiciones del servicio requerido en el marco del proyecto Brecha de Talento y empleo digital. La información recopilada permitirá estructurar el proceso de contratación, asegurando su viabilidad técnica y financiera. Los interesados pueden consultar los términos en el Anexo Técnico y el Formato de Cotización adjuntos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+80101507 - Servicios de asesoramiento sobre tecnologías de la información
+
+**Códigos adicionales UNSPSC:**
+
+80101600 - Gerencia de proyectos,80141501 - Análisis de mercados
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Interventoría - Consultoría - Estudios y diseños de sistemas de información y tecnología, -Selección de personal", "licicodigos": "117,386" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Edificio Manuel Murillo Toro; Carrera 8 entre Calles 12A y 12B; Bogotá, Colombia Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+6 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 03:34 pm
+
+**Plazo para solicitar aclaraciones:**
+
+22/May/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+26/May/2025 - 04:00 pm

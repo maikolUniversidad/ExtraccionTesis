@@ -1,0 +1,238 @@
+Title: Licitaciones - MUNICIPIO DE LA MESA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682bad3ebbc215.83776614
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 07:02:38
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+PRESTACION DE SERVICIOS PARA EL LICENCIAMIENTO DE LA PLATAFORMA NU CLOUD MEETING MEETINGS 1 WEBEX NU CLOUD MEETING 1. PARA EL USO DEL MUNICIPIO DE LA MESA CUNDINAMARCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : La Mesa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233502 - Software de video conferencias
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+LA MESA La Mesa Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+1 Años
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233502 | PRESTACION DE SERVICIOS PARA EL LICENCIAMIENTO DE LA PLATAFORMA NU CLOUD MEETING MEETINGS 1 WEBEX NU CLOUD MEETING 1. PARA EL USO DEL MUNICIPIO DE LA MESA CUNDINAMARCA | Mínima cuantía | Recursos propios | $5.000.000 | DIR PLANEACION |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/May/2025 - 04:08 pm
+
+**Publicación de estudios previos:**
+
+19/May/2025 - 05:00 pm
+
+**Publicación de la invitación:**
+
+19/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/May/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+21/May/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+21/May/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+21/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+22/May/2025 - 04:00 pm
+
+**Apertura de sobres:**
+
+22/May/2025 - 04:01 pm
+
+**Informe de presentación de ofertas:**
+
+22/May/2025 - 04:30 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+23/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+26/May/2025 - 03:00 pm
+
+**Aceptación de ofertas:**
+
+27/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 06:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+29/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 29/May/2025 - 12:00 pm | 29/Nov/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 29/May/2025 - 12:00 pm | 29/Nov/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** MCO GLOBAL SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 1,469,458
+
+**Informes proceso de selección CO1.AWD.2260423 de 29/May/2025 - 05:21 am. Valor $1.469.458**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 23/May/2025 - 01:06 pm |  |
+| Informe de evaluación | 26/May/2025 - 05:53 pm |  |
+| Informe de selección | 29/May/2025 - 05:21 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2260423**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MCO GLOBAL SAS * **Tipo documento:** NIT * **Documento:** 9007498203 | * **Nombre:** MIGUEL ARTURO SANCHEZ TORRES * **Tipo documento:** NIT * **Documento:** 7163606 | - Distrito Capital de Bogotá | $1.469.458 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2260423****
+
+**Cuantía a la firma del contrato:**
+
+$ 1,469,458
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2260423 | Informe de selección CO1.AWD.2260423 | 29/May/2025 - 05:21 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260423 | Informe de evaluación 2 CO1.AWD.2260423 | 26/May/2025 - 05:53 pm |  | - |
+| Avisos | CO1.MSG.7929351 | Publicación de la lista de ofertas del proceso SMC-006-2025. | 23/May/2025 - 01:07 pm |  | - |
+| Reporte preliminar | CO1.AWD.2260423 | Informe de evaluación 1 CO1.AWD.2260423 | 23/May/2025 - 01:06 pm |  | - |
+| Avisos | CO1.MSG.7924300 | La lista de oferentes del proceso SMC-006-2025 publicada por MUNICIPIO DE LA MESA | 22/May/2025 - 04:17 pm |  | - |
+| General | CO1.MSG.7920103 | RE: OBSERVACIONES ROYAL TECH GROUP SAS | 22/May/2025 - 09:51 am |  | - |

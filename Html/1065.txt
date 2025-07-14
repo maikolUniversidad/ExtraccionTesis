@@ -1,0 +1,132 @@
+Title: Licitaciones - CONSERVATORIO DE IBAGUE INSTITUCION EDUCATIVA TECNICA MUSICAL AMINA MELENDRO DE PULECIO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6833d9ddd769d0.98398580
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-30 11:28:47
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+SUMINISTRO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UN SISTEMA DE SONIDO PROFESIONAL EN LA SEDE SAN JORGE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Tolima : Ibagué
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+45111500 - Atriles, sistemas de sonido y accesorios
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 6 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 19 No. 9- 100 San Jorge vía Calambeo, Ibagué Tolima Ibagué Tolima COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 22,000,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 45111500 | SUMINISTRO, INSTALACIÓN Y PUESTA EN FUNCIONAMIENTO DE UN SISTEMA DE SONIDO PROFESIONAL EN LA SEDE SAN JORGE | Contratación régimen especial - Régimen especial | SGP | $22.000.000 | RECTORIA |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+25/May/2025 - 09:31 pm
+
+**Fecha de Firma del Contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+29/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+08/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8318441 | Publicación modificación | 29/May/2025 - 06:00 pm |  |  |

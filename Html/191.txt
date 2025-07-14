@@ -1,0 +1,323 @@
+Title: Licitaciones - ALCALDIA MUNICIPIO DE ARAUCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680924e4cc7e38.86067933
+
+Markdown Content:
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+ADECUACION Y DOTACIÓN DE LA INFRAESTRUCTURA TECNOLOGICA Y SERVICIO DE INTERNET EN LAS INSTITUCIONES EDUCATIVAS EN EL MUNICIPIO DE ARAUCA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Arauca : Arauca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43222600 - Equipo de servicio de red
+
+**Códigos adicionales UNSPSC:**
+
+43221700 - Equipo fijo de red y componentes,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,80111600 - Servicios de personal temporal,81111500 - Ingeniería de software o hardware,81112100 - Servicios de internet
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Acceso a internet, -Materiales para redes de comunicación", "licicodigos": "285,438" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 24 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+3 Meses
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 24 ENTRE 18 Y 20 Arauca Arauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Acuerdos comerciales (Lista de países):**
+
+Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 640,575,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43222600, 81112000, 81112100, 86101800, 43232100, 43221700, 43223300, 80111600, 81111500, 81101700 | ADECUACION Y DOTACION DE LA INFRAESTRUCTURA TECNOLOGICA Y SERVICIO DE INTERNET EN LAS INSTITUCIONES EDUCATIVAS EN EL MUNICIPIO DE ARAUCA | Selección abreviada menor cuantía | SGP | $495.677.267 | UNIDAD DE CONTRATACION ARAUCA |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+23/Abr/2025 - 12:34 pm
+
+**Publicación del aviso de convocatoria pública:**
+
+23/Abr/2025 - 11:59 pm
+
+**Publicación de estudios previos:**
+
+23/Abr/2025 - 11:59 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+02/May/2025 - 11:59 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a Mypes y/o MiPymes:**
+
+06/May/2025 - 11:59 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+12/May/2025 - 06:08 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+12/May/2025 - 11:59 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+12/May/2025 - 11:59 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+12/May/2025 - 11:59 pm
+
+**Plazo para manifestación de interés:**
+
+13/May/2025 - 11:59 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+14/May/2025 - 12:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+14/May/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+14/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+15/May/2025 - 05:00 pm
+
+**Apertura de Ofertas:**
+
+15/May/2025 - 05:10 pm
+
+**Informe de presentación de Ofertas:**
+
+15/May/2025 - 05:11 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 11:59 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 11:59 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+26/May/2025 - 11:59 pm
+
+**Firma del Contrato:**
+
+27/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+28/May/2025 - 05:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+28/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Buen manejo y correcta inversión del anticipo | 100,00 | 20/May/2025 - 11:59 pm | 20/Jun/2026 - 11:59 pm |
+| Cumplimiento del contrato | 20,00 | 20/May/2025 - 11:00 pm | 20/Jun/2026 - 11:59 pm |
+| Pago de salarios | 10,00 | 20/May/2025 - 11:59 pm | 20/Dic/2028 - 11:59 pm |
+| Calidad del servicio | 20,00 | 20/May/2025 - 11:59 pm | 20/Dic/2026 - 11:59 am |
+| Calidad y correcto funcionamiento de los bienes | 10,00 | 20/May/2025 - 11:59 pm | 20/Jun/2026 - 11:59 pm |
+
+**Buen manejo y correcta inversión del anticipo:**
+
+100,00% del valor del contrato, desde 20/May/2025 - 11:59 pm hasta 20/Jun/2026 - 11:59 pm
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** CONSORCIO INTERNET RURAL 2025 | Arauca |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 495,677,268
+
+**Informes proceso de selección CO1.AWD.2257179 de 26/May/2025 - 05:53 am. Valor $495.677.268**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/May/2025 - 07:02 pm |  |
+| Informe de evaluación | 20/May/2025 - 07:02 pm |  |
+| Informe de evaluación | 20/May/2025 - 07:02 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:10 pm |  |
+| Informe de evaluación | 26/May/2025 - 04:10 pm |  |
+| Informe de selección | 26/May/2025 - 05:53 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2257179**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** CONSORCIO INTERNET RURAL 2025 * **Tipo documento:** NIT * **Documento:** 901949112 | * **Nombre:** ANNY LISETH MELO ORTIZ * **Tipo documento:** Cédula de Ciudadanía * **Documento:** 1116788941 | Arauca - | $495.677.268 |  |  | - |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2257179****
+
+**Contrato 310-2025 de CONSORCIO INTERNET RURAL 2025:**
+
+**ID del contrato en SECOP:**
+
+310-2025
+
+**Versión:**
+
+1
+
+**Estado del contrato:**
+
+Firmado
+
+**Objeto de la firma del contrato:**
+
+ADECUACIÓN Y DOTACIÓN DE LA INFRAESTRUCTURA TECNOLÓGICA Y SERVICIO DE INTERNET EN LAS INSTITUCIONES EDUCATIVAS EN EL MUNICIPIO DE ARAUCA
+
+**Precios unitarios:**
+
+| Ref. Artículo | Código UNSPSC | Descripción | Cantidad | Unidad | Precio unitario estimado | Precio unitario | Precio total estimado | Precio Ent Estatal |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 81112100 | ADECUACION Y DOTACIÓN DE LA INFRAESTRUCTURA TECNOLOGICA Y SERVICIO DE INTERNET EN LAS INSTITUCIONES EDUCATIVAS EN EL MUNICIPIO DE ARAUCA | 1,00 | VG | 495.677.267,75 | 495.677.267,75 | 495.677.267,75 | 495.677.267,75 |
+
+**Fecha de terminación del contrato:**
+
+29/Dic/2025 - 11:59 pm
+
+**Plazo de ejecución:**
+
+7 Meses
+
+**Cuantía a la firma del contrato:**
+
+$ 495,677,268
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | 000-310 2025 CONSORCIO INTERNET RURAL 2025.pdf |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2257179 | Informe de selección CO1.AWD.2257179 | 26/May/2025 - 05:53 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257179 | Informe de evaluación 2 CO1.AWD.2257179 | 26/May/2025 - 04:10 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257179 | Informe de evaluación 1 CO1.AWD.2257179 | 20/May/2025 - 07:02 pm |  | - |
+| Avisos | CO1.REQ.8261476 | Publicación modificación | 19/May/2025 - 06:20 pm |  |  |
+| Avisos | CO1.MSG.7890847 | Publicación de la lista de ofertas del proceso 4SA-006-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 15/May/2025 - 06:05 pm |  | - |
+| Avisos | CO1.MSG.7890842 | La lista de oferentes del proceso 4SA-006-2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por ALCALDIA MUNICIPIO DE ARAUCA | 15/May/2025 - 06:04 pm |  | - |
+| Aclaraciones | CO1.MSG.7827872 | OBSERVACIONES AL PLIEGO DE CONDICIONES | 02/May/2025 - 04:43 pm |  | - |

@@ -1,0 +1,259 @@
+Title: Licitaciones - POLICIA METROPOLITANA DE CARTAGENA DE INDIAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ffc51d26356.19062338
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-13 06:28:14
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+MANTENIMIENTO PREVENTIVO Y CORRECTIVO A TODO COSTO DE EQUIPOS AUDIOVISUALES DE LA POLICÍA METROPOLITANA DE CARTAGENA DE INDIAS, INCLUYE REPUESTOS, CAMBIO DE PARTES Y ACCESORIOS
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Bolívar : Cartagena
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+52161547 - Amplificadores de audio
+
+**Códigos adicionales UNSPSC:**
+
+52161512 - Altoparlantes,52161521 - Receptores de multimedia,52161527 - Altavoces activos “subwoofer””,52161541 - Mezcladores de audio,52161551 - Micrófono inalámbrico y sistema de amplificación de instrumentos
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales", "licicodigos": "115" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+60 Días
+
+**Dirección de ejecución del contrato:**
+
+MANGA CALLE REAL 24-03 Cartagena Bolívar COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+7 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 04:45 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+29/Abr/2025 - 06:00 pm
+
+**Plazo para recepción de observaciones:**
+
+29/Abr/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+30/Abr/2025 - 06:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+30/Abr/2025 - 06:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/May/2025 - 10:00 am
+
+**Apertura de sobres:**
+
+05/May/2025 - 10:02 am
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 10:04 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+07/May/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+08/May/2025 - 11:59 pm
+
+**Aceptación de ofertas:**
+
+15/May/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+16/May/2025 - 04:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+16/May/2025 - 06:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 09/May/2025 - 06:00 pm | 30/Abr/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 09/May/2025 - 06:00 pm | 31/Dic/2028 - 12:00 am |
+| Calidad del servicio | 50,00 | 09/May/2025 - 06:00 pm | 30/Jun/2026 - 12:00 am |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NET COLOMBIA | Santander |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 40,000,000
+
+**Informes proceso de selección CO1.AWD.2266285 de 11/Jun/2025 - 09:19 am. Valor $40.000.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 29/May/2025 - 06:51 pm |  |
+| Informe de evaluación | 29/May/2025 - 06:51 pm |  |
+| Informe de evaluación | 29/May/2025 - 06:51 pm |  |
+| Informe de evaluación | 29/May/2025 - 06:51 pm |  |
+| Informe de evaluación | 04/Jun/2025 - 07:07 pm |  |
+| Informe de selección | 11/Jun/2025 - 09:19 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2266285**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NET COLOMBIA S.A.S. * **Tipo documento:** NIT * **Documento:** 900253863 | * **Nombre:** afife santander sanchez * **Tipo documento:** * **Documento:** 60325022 | - Santander | $40.000.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2266285****
+
+**ID del contrato en SECOP:**
+
+CO1.PCCNTR.7969849
+
+**Estado del contrato:**
+
+Borrador
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 40,000,000
+
+**Tiempo adicional:**
+
+0 Días
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2266285 | Informe de selección CO1.AWD.2266285 | 11/Jun/2025 - 09:19 am |  | - |
+| Objeciones | CO1.MSG.7967346 | [Respondido] RE:envío documentos de carácter subsanable | 11/Jun/2025 - 09:09 am |  | - |
+| Reporte preliminar | CO1.AWD.2266285 | Informe de evaluación 2 CO1.AWD.2266285 | 04/Jun/2025 - 07:07 pm |  | - |
+| Objeciones | CO1.MSG.7967346 | envío documentos de carácter subsanable | 30/May/2025 - 04:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2266285 | Informe de evaluación 1 CO1.AWD.2266285 | 29/May/2025 - 06:51 pm |  | - |
+| Reporte preliminar | CO1.AWD.2263604 | Informe de evaluación 1 CO1.AWD.2263604 | 26/May/2025 - 07:48 pm |  | - |
+| Reporte preliminar | CO1.AWD.2259351 | Informe de evaluación 1 CO1.AWD.2259351 | 22/May/2025 - 07:08 pm |  | - |
+| Reporte preliminar | CO1.AWD.2253125 | Informe de evaluación 2 CO1.AWD.2253125 | 22/May/2025 - 11:06 am |  | - |
+| Reporte preliminar | CO1.AWD.2253125 | Informe de evaluación 1 CO1.AWD.2253125 | 15/May/2025 - 06:31 pm |  | - |
+| Reporte preliminar | CO1.AWD.2249906 | Informe de evaluación 1 CO1.AWD.2249906 | 12/May/2025 - 07:32 pm |  | - |
+| Avisos | CO1.MSG.7851976 | Publicación de la lista de ofertas del proceso PN MECAR MIC 016-2025. | 08/May/2025 - 10:57 am |  | - |
+| Avisos | CO1.MSG.7851966 | La lista de oferentes del proceso PN MECAR MIC 016-2025 publicada por POLICIA METROPOLITANA DE CARTAGENA DE INDIAS | 08/May/2025 - 10:56 am |  | - |
+| Reporte preliminar | CO1.AWD.2245726 | Informe de evaluación 1 CO1.AWD.2245726 | 07/May/2025 - 07:44 pm |  | - |
+| General | CO1.MSG.7822513 | AVISO DE NO LIMITACION MIPYME | 30/Abr/2025 - 07:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7816623 | formatos editables | 30/Abr/2025 - 07:44 am |  | - |
+| Aclaraciones | CO1.MSG.7810516 | Solicitud publicación formatos a diligenciar en word | 29/Abr/2025 - 09:01 am |  | - |
+| Aclaraciones | CO1.MSG.7810308 | Certificación Mipyme y solicitud de limitar convocatoria a Mipymes del orden nacional | 29/Abr/2025 - 08:39 am |  | - |
+| Avisos | CO1.REQ.8171940 | Publicación modificación | 29/Abr/2025 - 07:53 am |  |  |
+| Aclaraciones | CO1.MSG.7809711 | Publicar la invitación del presente proceso | 28/Abr/2025 - 10:12 pm |  | - |

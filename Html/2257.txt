@@ -1,0 +1,101 @@
+Title: Licitaciones - Superintendencia de Transporte
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68125e08b029e3.30703754
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:39:31
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+RENOVACIÓN DEL SOPORTE, MANTENIMIENTO Y ACTUALIZACIONES DEL LICENCIAMIENTO DE LA HERRAMIENTA SCRIPTCASE PARA LA SUPERINTENDENCIA DE TRANSPORTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+43232300 - Software de consultas y gestión de datos,43232200 - Software de gestión de contenidos,43231500 - Software funcional específico de la empresa,43232400 - Programas de desarrollo
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Diseño, desarrollo y/o Mantenimiento de software, -Adquisición de licencias de software (Suministro)", "licicodigos": "102,103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 2 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Diagonal 25 G No 95 a – 85 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+1 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+30/Abr/2025 - 11:37 am
+
+**Plazo para solicitar aclaraciones:**
+
+05/May/2025 - 12:00 am
+
+**Fecha límite para responder la solicitud de información:**
+
+15/May/2025 - 05:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8190387 | Publicación modificación | 13/May/2025 - 12:26 pm |  |  |
+| Avisos | CO1.REQ.8190387 | Publicación modificación | 08/May/2025 - 12:02 pm |  |  |

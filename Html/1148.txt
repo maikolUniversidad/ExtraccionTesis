@@ -1,0 +1,220 @@
+Title: Licitaciones - UAE SETP AVANTE PASTO
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=685475b0e8c726.16066245
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-11 06:44:33
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar el servicio de correo electronico empresarial que permita la comunicacion interna y externa junto al almacenamiento de archivos en la nube de la Unidad Administrativa Especial del Sistema Estrategico de Transporte Público de Pasto UAE SETP AVANTE
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Nariño : Pasto
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233501 - Software de correo electrónico
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Servicios en la nube (Cloud)", "licicodigos": "103,437" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CAM ANGANOY LOS ROSALES II Pasto Nariño COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+Si
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+174 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233501 | Recursos para contratar el suministro de correo electronico para las cuentas de correo electronico institucional en los dominios que la UAE SETP AVANTE determine necesario. | Mínima cuantía | Recursos propios | $24.000.000 | Oficina Juridica de Contratacion |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+19/Jun/2025 - 03:34 pm
+
+**Publicación de estudios previos:**
+
+19/Jun/2025 - 06:00 pm
+
+**Publicación de la invitación:**
+
+19/Jun/2025 - 06:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+20/Jun/2025 - 11:00 pm
+
+**Plazo para recepción de observaciones:**
+
+20/Jun/2025 - 11:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+24/Jun/2025 - 06:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+24/Jun/2025 - 06:30 pm
+
+**Plazo máximo para expedir adendas:**
+
+24/Jun/2025 - 06:45 pm
+
+**Presentación de Ofertas:**
+
+26/Jun/2025 - 08:00 am
+
+**Apertura de sobres:**
+
+26/Jun/2025 - 08:05 am
+
+**Informe de presentación de ofertas:**
+
+26/Jun/2025 - 08:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+27/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+01/Jul/2025 - 06:00 pm
+
+**Aceptación de ofertas:**
+
+03/Jul/2025 - 06:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 02:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+04/Jul/2025 - 11:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 11/Jul/2025 - 08:00 am | 30/Jun/2026 - 11:00 pm |
+| Calidad del servicio | 20,00 | 11/Jul/2025 - 08:00 am | 30/Jun/2026 - 11:00 pm |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 15,951,936
+
+**Informes proceso de selección CO1.AWD.2293316 de 03/Jul/2025 - 05:50 am. Valor $15.951.936**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 27/Jun/2025 - 05:34 pm |  |
+| Informe de evaluación | 02/Jul/2025 - 05:45 pm |  |
+| Informe de selección | 03/Jul/2025 - 05:50 pm |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2293316 | Informe de selección CO1.AWD.2293316 | 03/Jul/2025 - 05:50 pm |  | - |
+| Objeciones | CO1.MSG.8100279 | [Respondido] RE:Respuesta Informe de Evaluación 01 | 03/Jul/2025 - 05:48 pm |  | - |
+| General | CO1.MSG.8109827 | informe de evaluación final | 02/Jul/2025 - 05:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293316 | Informe de evaluación 2 CO1.AWD.2293316 | 02/Jul/2025 - 05:45 pm |  | - |
+| Objeciones | CO1.MSG.8100279 | Respuesta Informe de Evaluación 01 | 01/Jul/2025 - 01:01 pm |  | - |
+| General | CO1.MSG.8095885 | informe de evaluación parcial | 27/Jun/2025 - 05:49 pm |  | - |
+| Reporte preliminar | CO1.AWD.2293316 | Informe de evaluación 1 CO1.AWD.2293316 | 27/Jun/2025 - 05:34 pm |  | - |
+| Avisos | CO1.MSG.8085081 | Publicación de la lista de ofertas del proceso 006-M.C-2025. | 26/Jun/2025 - 09:46 am |  | - |
+| Avisos | CO1.MSG.8085077 | La lista de oferentes del proceso 006-M.C-2025 publicada por UAE SETP AVANTE PASTO | 26/Jun/2025 - 09:45 am |  | - |
+| Avisos | CO1.REQ.8442292 | Publicación modificación | 25/Jun/2025 - 07:00 am |  |  |
+| General | CO1.MSG.8075256 | AVISO DE LIMITACION A MIPYMES | 24/Jun/2025 - 05:23 pm |  | - |
+| General | CO1.MSG.8074919 | RE: Solicitud de informacion | 24/Jun/2025 - 05:00 pm |  | - |

@@ -1,0 +1,271 @@
+Title: Licitaciones - CONSEJO PROFESIONAL NACIONAL DE ARQUITECTURA Y SUS PROFESIONES AUXILIARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=681018b6e0dca2.24623881
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-15 02:28:13
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Suministrar la renovación, configuración y adquisición de licencias de Adobe Creative Cloud para uso del CPNAA.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112500 - Servicios de alquiler o arrendamiento de licencias de software de computador
+
+**Códigos adicionales UNSPSC:**
+
+81112200 - Mantenimiento y soporte de software
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Carrera 6 Nro 26 B 85 Pisos 2°,3° y 4° del Edifico de la Sociedad Colombiana de Arquitectos Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Suministros
+
+**Plazo del contrato:**
+
+12 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 81112500, 81112200 | Suministrar la renovación, configuración y adquisición de licencias de Adobe Creative Cloud para uso del CPNAA. | Mínima cuantía | Recursos propios | $14.670.000 | Gestión Contractual |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+28/Abr/2025 - 06:50 pm
+
+**Publicación de estudios previos:**
+
+28/Abr/2025 - 08:00 pm
+
+**Publicación de la invitación:**
+
+28/Abr/2025 - 08:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+30/Abr/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+30/Abr/2025 - 05:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+02/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+02/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+02/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+05/May/2025 - 02:00 pm
+
+**Apertura de sobres:**
+
+05/May/2025 - 02:05 pm
+
+**Informe de presentación de ofertas:**
+
+05/May/2025 - 02:10 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+09/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+12/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+13/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+14/May/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+14/May/2025 - 02:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 14/May/2025 - 02:00 pm | 14/Sep/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 14/May/2025 - 02:00 pm | 14/May/2029 - 11:59 pm |
+| Calidad del servicio | 10,00 | 14/May/2025 - 02:00 pm | 14/Sep/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | 02/May/2025 - 03:38 pm | * **Nombre:** GRUPO VECTOR SAS | - |
+| 2 | 04/May/2025 - 08:52 pm | * **Nombre:** Royal Tech Group SAS | Barranquilla - Atlántico |
+| 3 | 05/May/2025 - 10:51 am | * **Nombre:** Green Know | Bogotá - Distrito Capital de Bogotá |
+| 4 | 05/May/2025 - 11:33 am | * **Nombre:** CYMETRIA GROUP S.A.S | Bogotá - Distrito Capital de Bogotá |
+| 5 | 05/May/2025 - 11:40 am | * **Nombre:** MEGACAD | Cali - Valle del Cauca |
+| 6 | 05/May/2025 - 01:12 pm | * **Nombre:** UPKS | Bogotá - Distrito Capital de Bogotá |
+| 7 | 05/May/2025 - 01:33 pm | * **Nombre:** C&S TECNOLOGIA S.A. | Antioquia |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 11,939,550
+
+**Informes proceso de selección CO1.AWD.2247660 de 14/May/2025 - 08:15 am. Valor $11.939.550**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 09/May/2025 - 04:19 pm |  |
+| Informe de evaluación | 09/May/2025 - 04:19 pm |  |
+| Informe de evaluación | 13/May/2025 - 03:14 pm |  |
+| Informe de evaluación | 13/May/2025 - 03:14 pm |  |
+| Informe de selección | 14/May/2025 - 08:15 am |  |
+| Informe de selección | 14/May/2025 - 08:15 am |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2247660**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** MEGACAD INGENIERÍA Y SISTEMAS SAS * **Tipo documento:** NIT * **Documento:** 805008189 | * **Nombre:** MARIA DEL PILAR MENA COLORADO * **Tipo documento:** * **Documento:** 66863932 | Cali - Valle del Cauca | $11.939.550 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2247660****
+
+**Cuantía a la firma del contrato:**
+
+$ 11,939,550
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2247660 | Informe de selección CO1.AWD.2247660 | 14/May/2025 - 08:15 am |  | - |
+| Reporte preliminar | CO1.AWD.2247660 | Informe de evaluación 2 CO1.AWD.2247660 | 13/May/2025 - 03:14 pm |  | - |
+| General | CO1.MSG.7874119 | Acta modificatoria - Designación del comité asesor y evaluador CPNAA-MC-08-2025 | 13/May/2025 - 02:12 pm |  | - |
+| Reporte preliminar | CO1.AWD.2247660 | Informe de evaluación 1 CO1.AWD.2247660 | 09/May/2025 - 04:19 pm |  | - |
+| General | CO1.MSG.7847354 | REQUERIMIENTOS DE SUBSANABILIDAD PROCESO N°. CPNAA-MC-08-2025 | 07/May/2025 - 04:15 pm |  | - |
+| Avisos | CO1.MSG.7836949 | Publicación de la lista de ofertas del proceso CPNAA-MC-08-2025. | 06/May/2025 - 07:51 am |  | - |
+| Avisos | CO1.MSG.7836943 | La lista de oferentes del proceso CPNAA-MC-08-2025 publicada por CONSEJO PROFESIONAL NACIONAL DE ARQUITECTURA Y SUS PROFESIONES AUXILIARES | 06/May/2025 - 07:50 am |  | - |
+| General | CO1.MSG.7827911 | AVISO DE NO LIMITAR A MIPYME PROCESO CPNAA-MC-08-2025 | 02/May/2025 - 04:47 pm |  | - |
+| General | CO1.MSG.7827874 | CONFORMACIÓN Y DESIGNACIÓN DEL COMITÉ ASESOR Y EVALUADOR PROCESO N°. CPNAA-MC-08-2025 | 02/May/2025 - 04:43 pm |  | - |

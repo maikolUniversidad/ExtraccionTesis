@@ -1,0 +1,188 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL TAUSA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=682d51cb970620.16871390
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-25 15:54:44
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS LOGISTICOS Y ADQUISICION DE BIENES E INSUMOS PARA EL DESARROLLO DE LA SEMANA DE LA JUVENTUD, APOYO AL CONSEJO MUNICIPAL DE JUVENTUDES Y RECONOCIMIENTO A LA LABOR DOCENTE VIGENCIA 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca: Tausa
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+91111603 - Servicios de cocina o preparación de comidas
+
+**Códigos adicionales UNSPSC:**
+
+53121603 - Morrales,27112309 - Lápiz marcador,49101701 - Medallas,81141601 - Logística,53103001 - Camisetas (t-shirts) para hombre
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Equipos audiovisuales, -Logística para realización eventos", "licicodigos": "115,175" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 9 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+5 Meses
+
+**Dirección de ejecución del contrato:**
+
+CRA 3·3-24 Tausa Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 91111603, 53121603, 27112309, 49101701, 81141601, 53103001 | PRESTACION DE SERVICIOS LOGISTICOS Y ADQUISICION DE BIENES E INSUMOS PARA EL DESARROLLO DE LA SEMANA DE LA JUVENTUD, APOYO AL CONSEJO MUNICIPAL DE JUVENTUDES Y RECONOCIMIENTO A LA LABOR DOCENTE VIGENCIA 2025 | Mínima cuantía | Recursos propios | $31.420.000 | SECRETARIA DE SALUD Y DESARROLLO SOCIAL |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+20/May/2025 - 10:46 pm
+
+**Publicación de estudios previos:**
+
+20/May/2025 - 11:00 pm
+
+**Publicación de la invitación:**
+
+20/May/2025 - 11:00 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+21/May/2025 - 05:00 pm
+
+**Plazo para recepción de observaciones:**
+
+21/May/2025 - 05:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+22/May/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+22/May/2025 - 07:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+22/May/2025 - 11:00 pm
+
+**Presentación de Ofertas:**
+
+23/May/2025 - 11:00 am
+
+**Apertura de sobres:**
+
+23/May/2025 - 11:05 am
+
+**Informe de presentación de ofertas:**
+
+23/May/2025 - 11:10 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+26/May/2025 - 05:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+27/May/2025 - 05:00 pm
+
+**Aceptación de ofertas:**
+
+28/May/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+29/May/2025 - 05:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/May/2025 - 05:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.MSG.7929403 | La lista de oferentes del proceso CMC-015-2025 publicada por ALCALDIA MUNICIPAL TAUSA | 23/May/2025 - 01:19 pm |  | - |

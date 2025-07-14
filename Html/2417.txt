@@ -1,0 +1,94 @@
+Title: Licitaciones - SENA REGIONAL VALLE Grupo Administrativo CBI
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68363dbdd2e4d9.54294498
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 17:34:01
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Contratar el suministro de material didáctico necesario para apoyar las actividades académicas y formativas del Centro de Biotecnología Industrial
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Valle del Cauca : Palmira
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+60141102 - Juegos de mesa
+
+**Códigos adicionales UNSPSC:**
+
+60121500 - Utensilios de dibujo, suministros y accesorios,60124317 - Masa para modelado,43211500 - Computadores,43211509 - Computadores de tableta
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Material didáctico y libros, -Tablets, dispositivos de bolsillo, teléfonos inteligentes", "licicodigos": "134,423" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 40 No 30-44 Palmira Valle del Cauca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Plazo del contrato:**
+
+30 Días
+
+Cronograma:
+
+**Fecha de publicación:**
+
+27/May/2025 - 04:04 pm
+
+**Plazo para solicitar aclaraciones:**
+
+30/May/2025 - 04:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+03/Jun/2025 - 04:00 pm

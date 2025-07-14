@@ -1,0 +1,92 @@
+Title: Licitaciones - DEPARTAMENTO DE POLICIA GUAINIA - DEGUN
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68222ac4c39e73.62954746
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-14 09:24:58
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+PRESTACIÓN DE SERVICIOS PARA EL MANTENIMIENTO CORRECTIVO A TODO COSTO DE EQUIPOS TECNOLÓGICOS (INCLUYENDO CAMBIO DE ACCESORIOS, REPUESTOS Y/O PARTES DE SER NECESARIOS) DEL DEPARTAMENTO DE POLICÍA GUAINÍA Y ESTACIÓN DE POLICÍA INÍRIDA
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Guainía : Inírida
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+81112306 - Mantenimiento de impresoras
+
+**Códigos adicionales UNSPSC:**
+
+72154066 - Mantenimiento general de equipos de oficina,81111812 - Servicio de mantenimiento o soporte del hardware del computador,81112307 - Mantenimiento de pc o puestos de trabajo o portátiles
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 N° 14 75 Inírida Guainía COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+12/May/2025 - 11:44 am
+
+**Fecha límite para responder la solicitud de información:**
+
+16/May/2025 - 06:00 pm
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8246116 | Publicación modificación | 12/May/2025 - 12:38 pm |  |  |

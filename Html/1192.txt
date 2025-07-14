@@ -1,0 +1,253 @@
+Title: Licitaciones - BENEFICENCIA DE CUNDINAMARCA - Contratación mínima cuantía IP
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68520a634e8743.36770836
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-09 06:55:11
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la compra de la actualización de la licencia corporativa del software de antivirus que atiendan los requerimientos técnicos de los equipos de cómputo de la entidad.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233205 - Software de seguridad de transacciones y de protección contra virus
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro)", "licicodigos": "103" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 8 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Calle 26 # 51-52 Torre Beneficencia Piso 6 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43233205 | CONTRATAR LA COMPRA DE LA ACTUALIZACIÓN DE LA LICENCIA CORPORATIVA DEL SOFTWARE DE ANTIVIRUS QUE ATIENDAN LOS REQUERIMIENTOS TÉCNICOS DE LOS EQUIPOS DE COMPUTO DE LA ENTIDAD. | Mínima cuantía | Recursos propios | $15.000.000 | Secretaría General |
+
+Cronograma:
+
+**Publicación de la invitación:**
+
+17/Jun/2025 - 06:00 pm
+
+**Publicación de estudios previos:**
+
+17/Jun/2025 - 06:00 pm
+
+**Fecha de publicación:**
+
+17/Jun/2025 - 07:25 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+18/Jun/2025 - 02:00 pm
+
+**Plazo para recepción de observaciones:**
+
+18/Jun/2025 - 02:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+18/Jun/2025 - 07:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+18/Jun/2025 - 07:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+18/Jun/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+19/Jun/2025 - 12:00 pm
+
+**Apertura de sobres:**
+
+20/Jun/2025 - 12:00 pm
+
+**Informe de presentación de ofertas:**
+
+20/Jun/2025 - 05:00 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/Jun/2025 - 06:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+24/Jun/2025 - 07:00 pm
+
+**Aceptación de ofertas:**
+
+25/Jun/2025 - 05:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+27/Jun/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+01/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 01/Jul/2025 - 12:00 pm | 30/Jun/2026 - 11:00 pm |
+| Pago de salarios | 10,00 | 17/Dic/2025 - 12:00 pm | 31/Dic/2028 - 12:00 pm |
+| Calidad del servicio | 20,00 | 01/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 01/Jul/2025 - 12:00 pm | 30/Jun/2026 - 12:00 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** PCM | Bogotá - Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 14,176,000
+
+**Informes proceso de selección CO1.AWD.2286987 de 25/Jun/2025 - 06:04 am. Valor $14.176.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/Jun/2025 - 04:59 pm |  |
+| Informe de selección | 25/Jun/2025 - 06:04 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2286987**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** PC MICROS SAS * **Tipo documento:** NIT * **Documento:** 860403052 | * **Nombre:** Jaime Santamaria Sanchez * **Tipo documento:** NIT * **Documento:** 19092812 | Bogotá - Distrito Capital de Bogotá | $14.176.000 | - |  | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2286987****
+
+**ID del contrato en SECOP:**
+
+MC-CPS-085 DE 2025
+
+**Estado del contrato:**
+
+Activo
+
+**Fecha de terminación del contrato:**
+
+31/Dic/2025 - 12:00 am
+
+**Cuantía a la firma del contrato:**
+
+$ 14,176,000
+
+**Tiempo adicional:**
+
+0 Días
+
+**Documentos del contrato:**
+
+| Tipo | Nombre | Descargar |
+| --- | --- | --- |
+|  | Documento del adjudicatario |  |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2286987 | Informe de selección CO1.AWD.2286987 | 25/Jun/2025 - 06:04 pm |  | - |
+| Reporte preliminar | CO1.AWD.2286987 | Informe de evaluación 1 CO1.AWD.2286987 | 20/Jun/2025 - 04:59 pm |  | - |
+| General | CO1.MSG.8067424 | ACTA DE CIERRE | 20/Jun/2025 - 04:54 pm |  | - |
+| Avisos | CO1.MSG.8065163 | La lista de oferentes del proceso IP - MÍNIMA CUANTIA 02 publicada por BENEFICENCIA DE CUNDINAMARCA | 20/Jun/2025 - 12:37 pm |  | - |

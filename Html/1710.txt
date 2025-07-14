@@ -1,0 +1,122 @@
+Title: Licitaciones - COLEGIO EL VIRREY JOSE SOLIS IED
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=68116b89b47f28.26796503
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-29 19:18:25
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+EL COLEGIO EL VIRREY JOSE SOLIS IED, NECESITA ACTUALIZACION SOFTWARE DE INVENTARIOS VIGENCIA 2025.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43233005 - Firmware de computador
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 4 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 No. 92A 31 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Decreto 092 de 2017
+
+**Plazo del contrato:**
+
+1 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Valor total estimado de adquisiciones:**
+
+$ 3,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 80101706, 43231512, 43233005 | GASTOS DE COMPUTADOR | Contratación régimen especial - Régimen especial | Presupuesto de entidad nacional | $3.500.000 | COLEGIO VIRREY JOSE SOLIS IED |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+29/Abr/2025 - 03:54 pm
+
+**Fecha de Firma del Contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+09/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+09/Jun/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+No

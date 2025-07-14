@@ -1,0 +1,291 @@
+Title: Licitaciones - COMANDO GENERAL DE LAS FUERZAS MILITARES
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6807cc6b397953.76433833
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-01 06:54:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Selección abreviada de menor cuantía (Ley 1150 de 2007)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Adjudicado
+
+**Objeto:**
+
+Contratar la adquisición de switch core, switch´s de acceso y sistema de prevención de intrusos (Incluye: Suministro de los bienes, transporte, mano de obra, elementos y accesorios necesarios para su instalación, migración, implementación, configuración, pruebas, y puesta en funcionamiento) a todo costo y todo incluido, de acuerdo con las especificaciones técnicas RESERVADAS del ANEXO.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+39121000 - Equipamiento para distribución y conversión de alimentación
+
+**Códigos adicionales UNSPSC:**
+
+32151800 - Dispositivos de control de seguridad,32151900 - Dispositivos de automatización de control de la conectividad,43221700 - Equipo fijo de red y componentes,43222600 - Equipo de servicio de red,43223300 - Dispositivos y equipos para instalación de conectividad de redes y Datacom,43232800 - Software de administración de redes,46151600 - Equipo de seguridad y control,43211502 - Servidores de computador de gama alta,43233203 - Software de manejo de seguridad de red o de redes privadas virtuales vpn
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Redes de transmisión de datos (Cableado estructurado), -Seguridad informática", "licicodigos": "99,297" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 20 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+Avenida el Dorado CAN Carrera 54 No 26-25 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Acuerdos comerciales (Lista de países):**
+
+Canadá, Estados Unidos, Triángulo Norte - El Salvador, Triángulo Norte - Guatemala, Comunidad Andina, Estados AELC
+
+**Tipo de contrato:**
+
+Compraventa
+
+**Plazo del contrato:**
+
+5 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación menor cuantía:**
+
+$ 1,423,500,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43211502, 43233203 | ADQUISICIÓN DE DISPOSITIVOS DE RED Y DE SEGURIDAD CCOCI | Selección abreviada menor cuantía | Presupuesto de entidad nacional | $867.301.204 | COMANDO GENERAL |
+
+Cronograma:
+
+**Fecha de publicación del proyecto de pliego de condiciones:**
+
+22/Abr/2025 - 11:38 am
+
+**Publicación del aviso de convocatoria pública:**
+
+22/Abr/2025 - 07:00 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 07:00 pm
+
+**Plazo para presentar observaciones al proyecto de Pliego de Condiciones:**
+
+29/Abr/2025 - 05:00 pm
+
+**Fecha de publicación del pliego de condiciones definitivo y demostración de interés:**
+
+06/May/2025 - 03:24 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones:**
+
+06/May/2025 - 05:00 pm
+
+**Expedición y publicación acto administrativo de apertura del proceso de selección:**
+
+06/May/2025 - 07:00 pm
+
+**Fecha Prevista de Publicación del Pliego de Condiciones Definitivo y Demonstración de Interés:**
+
+06/May/2025 - 07:00 pm
+
+**Fecha estimada para publicación del pliego de condiciones definitivo:**
+
+06/May/2025 - 07:00 pm
+
+**Plazo para manifestación de interés:**
+
+08/May/2025 - 04:00 pm
+
+**Presentación de Observaciones a los Pliegos de Condiciones definitivos:**
+
+08/May/2025 - 05:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+13/May/2025 - 07:00 pm
+
+**Respuesta a las observaciones al Pliego de Condiciones definitivos:**
+
+13/May/2025 - 07:00 pm
+
+**Presentación de Ofertas:**
+
+14/May/2025 - 02:00 pm
+
+**Apertura de Ofertas:**
+
+14/May/2025 - 02:03 pm
+
+**Informe de presentación de Ofertas:**
+
+14/May/2025 - 02:06 pm
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+20/May/2025 - 07:00 pm
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+23/May/2025 - 05:00 pm
+
+**Publicación Acto Administrativo de adjudicación o de Declaratoria de Desierto:**
+
+28/May/2025 - 07:00 pm
+
+**Firma del Contrato:**
+
+30/May/2025 - 07:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+04/Jun/2025 - 07:00 pm
+
+**Aprobación de las garantías o pólizas e inicio de ejecución del contrato:**
+
+06/Jun/2025 - 07:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+10 % del presupuesto oficial estimado del Proceso de Contratación o de la oferta
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 04/Jun/2025 - 08:00 am | 21/May/2026 - 11:59 pm |
+| Pago de salarios | 5,00 | 04/Jun/2025 - 08:00 am | 21/Nov/2028 - 11:59 pm |
+| Calidad del servicio | 10,00 | 04/Jun/2025 - 08:00 am | 21/May/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 30,00 | 04/Jun/2025 - 08:00 am | 21/Nov/2026 - 11:59 pm |
+
+Listado de oferentes y ofertas:
+
+| Posición | Fecha y hora de llegada | Proveedor | Ciudad |
+| --- | --- | --- | --- |
+| 1 | - | * **Nombre:** NETWORK & ACCESORIES SAS | Distrito Capital de Bogotá |
+
+Selección del proponente:
+
+**Cuantia del contrato:**
+
+$ 836,540,000
+
+**Informes proceso de selección CO1.AWD.2257216 de 29/May/2025 - 03:03 am. Valor $836.540.000**
+
+| Tipo de informe | Fecha y hora | Descargar |
+| --- | --- | --- |
+| Informe de evaluación | 20/May/2025 - 05:11 pm |  |
+| Informe de evaluación | 20/May/2025 - 05:11 pm |  |
+| Informe de evaluación | 29/May/2025 - 12:34 pm |  |
+| Informe de evaluación | 29/May/2025 - 12:34 pm |  |
+| Informe de selección | 29/May/2025 - 03:03 pm |  |
+
+Proponente seleccionado:
+
+**Adjudicatario Proceso de selección CO1.AWD.2257216**
+
+| Proveedor | Representante legal | Ubicación | Valor adjudicado | Unión Temp. o Consorcio | Documentos de formaliz. | Análisis |
+| --- | --- | --- | --- | --- | --- | --- |
+| * **Nombre:** NETWORK & ACCESORIES SAS * **Tipo documento:** NIT * **Documento:** 901159165 | * **Nombre:** YORGUIN MAURICIO NIÑO PRADA * **Tipo documento:** NIT * **Documento:** 91181962 | - Distrito Capital de Bogotá | $836.540.000 | - | - | Ver |
+
+Datos del contrato:
+
+**Proceso de selección **CO1.AWD.2257216****
+
+**Cuantía a la firma del contrato:**
+
+$ 836,540,000
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Reporte final | CO1.AWD.2257216 | Informe de selección CO1.AWD.2257216 | 29/May/2025 - 03:03 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257216 | Informe de evaluación 2 CO1.AWD.2257216 | 29/May/2025 - 12:34 pm |  | - |
+| General | CO1.MSG.7929373 | RE: Evaluación Técnica - Reservada | 23/May/2025 - 01:17 pm |  | - |
+| Avisos | CO1.MSG.7910929 | Publicación de la lista de ofertas del proceso 186COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta). | 20/May/2025 - 05:17 pm |  | - |
+| Reporte preliminar | CO1.AWD.2257216 | Informe de evaluación 1 CO1.AWD.2257216 | 20/May/2025 - 05:11 pm |  | - |
+| Avisos | CO1.MSG.7881412 | La lista de oferentes del proceso 186COGFM DIADF 2025 (Manifestación de interés (Menor Cuantía)) (Presentación de oferta) publicada por COMANDO GENERAL DE LAS FUERZAS MILITARES | 14/May/2025 - 02:08 pm |  | - |
+| Aclaraciones | CO1.MSG.7852683 | Observaciones de proceso 186COGFM DIADF 2025 | 08/May/2025 - 12:09 pm |  | - |
+| Aclaraciones | CO1.MSG.7849409 | RE: OBSERVACIONES PROCESO SWITCHES E IPS EJERCITO | 07/May/2025 - 07:07 pm |  | - |
+| Aclaraciones | CO1.MSG.7849421 | RE: REENVIO DE OBSERVACIONES AL PLIEGO TECNICO DEL PROCESO IPS Y SWITCHES PARA EJERCITO | 07/May/2025 - 07:07 pm |  | - |
+| General | CO1.MSG.7849390 | RE: Solicitud | 07/May/2025 - 07:03 pm |  | - |
+| Aclaraciones | CO1.MSG.7846033 | REENVIO DE OBSERVACIONES AL PLIEGO TECNICO DEL PROCESO IPS Y SWITCHES PARA EJERCITO | 07/May/2025 - 02:38 pm |  | - |
+| Aclaraciones | CO1.MSG.7845856 | OBSERVACIONES PROCESO SWITCHES E IPS EJERCITO | 07/May/2025 - 02:21 pm |  | - |
+| Aclaraciones | CO1.MSG.7814857 | OBSERVACIONES COMANDO GENERAL 186COGFM DIADF 2025 | 29/Abr/2025 - 04:48 pm |  | - |
+| Aclaraciones | CO1.MSG.7814734 | Observaciones al proceso_E&C | 29/Abr/2025 - 04:40 pm |  | - |
+| Aclaraciones | CO1.MSG.7814624 | Observaciones Grow Data SAS | 29/Abr/2025 - 04:34 pm |  | - |
+| Aclaraciones | CO1.MSG.7812382 | OBSERVACIONES AL PLIEGO PREVENCION DE INTRUSOS Y SWITCHES - RIGHT ON S.A.S | 29/Abr/2025 - 12:13 pm |  | - |
+| Aclaraciones | CO1.MSG.7812148 | OBSERVACIONES PROCESO 186COGFM DIADF 2025 | 29/Abr/2025 - 11:50 am |  | - |
+| Aclaraciones | CO1.MSG.7811968 | OBSERVACIONES PROCESO SWITCHES E IPS | 29/Abr/2025 - 11:35 am |  | - |
+| Aclaraciones | CO1.MSG.7805618 | RE: RE: FICHA TECNICA DEL PRESENTE PROCESO | 28/Abr/2025 - 11:18 am |  | - |
+| Aclaraciones | CO1.MSG.7802387 | OBSERVACIONES CÓDIGOS UNSPSC | 25/Abr/2025 - 06:33 pm |  | - |
+| Aclaraciones | CO1.MSG.7796391 | RE: Observaciones a prepliegos | 24/Abr/2025 - 07:05 pm |  | - |
+| General | CO1.MSG.7795608 | ACLARACIÓN PERFILES | 24/Abr/2025 - 06:37 pm |  | - |
+| Aclaraciones | CO1.MSG.7794110 | RE: FICHA TECNICA DEL PRESENTE PROCESO | 24/Abr/2025 - 03:19 pm |  | - |
+| Aclaraciones | CO1.MSG.7792399 | FICHA TECNICA DEL PRESENTE PROCESO | 24/Abr/2025 - 11:25 am |  | - |
+| Aclaraciones | CO1.MSG.7792002 | Observaciones a prepliegos | 24/Abr/2025 - 10:44 am |  | - |

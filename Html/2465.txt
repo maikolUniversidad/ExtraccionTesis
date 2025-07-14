@@ -1,0 +1,100 @@
+Title: Licitaciones - ANH - Solicitud de información a los Proveedores (SECOPII) ANH-EM-28-2025
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6830ab9bb4ed71.19065667
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-06-24 08:17:09
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Solicitud de información a los Proveedores (SECOPII)
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Terminado anormalmente o descartado
+
+**Objeto:**
+
+Contratar el servicio de mantenimiento preventivo y correctivo para los equipos de cómputo, mpresoras, escáneres y plotters destinados a los usuarios finales de la ANH con bolsa de repuestos.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+44103100 - Suministros para impresora, fax y fotocopiadora
+
+**Códigos adicionales UNSPSC:**
+
+81101700 - Ingeniería eléctrica y electrónica,81112300 - Mantenimiento y soporte de hardware de computador
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Mantenimiento e instalación de equipos de cómputo", "licicodigos": "106" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 3 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+Avenida calle 26 No. 59-65 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+Cronograma:
+
+**Fecha de publicación:**
+
+23/May/2025 - 11:52 am
+
+**Plazo para solicitar aclaraciones:**
+
+28/May/2025 - 05:00 pm
+
+**Fecha límite para responder la solicitud de información:**
+
+30/May/2025 - 05:00 pm
+
+Información de la finalización:
+
+**Motivo de la cancelación:**
+
+((UTC-05:00) Bogotá, Lima, Quito)">El proceso fue revocado/declarado desierto/cancelado por la Entidad Estatal ANH en 23/May/2025 - 03:34 am:41 PM ((UTC-05:00) Bogotá, Lima, Quito) Entidad Estatal: .
+
+**Fecha de la cancelación:**
+
+23/May/2025 - 03:34 pm

@@ -1,0 +1,133 @@
+Title: Licitaciones - UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=680ac3abaf7d79.70478453
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-07-12 13:47:07
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+Adquirir equipos especializados para el grupo LABORATORIO DE INVESTIGACION Y DESARROLLO EN ELECTRONICA Y REDES - LIDER a cargo del docente Roberto Ferro Escobar según las condiciones técnicas determinadas en el siguiente estudio; aprobado mediante la convocatoria A2 de 2025 Apoyo financiero para equipos y tecnologías de investigación de la Oficina de Investigaciones.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+41111970 - Sensor de temperatura
+
+**Códigos adicionales UNSPSC:**
+
+32101600 - Circuitos integrados,32101628 - Microcontroladores,26111701 - Baterías recargables,41114401 - Anemómetros,26111607 - Generadores solares,39121409 - Conectores de cables eléctricos,43222609 - Enrutadores (routers) de red,39121011 - Fuentes ininterrumpibles de potencia,43191631 - Clavijas de adaptadores o kits de campo o kits de viaje para teléfonos o módems,25131705 - Aviones no tripulados objetivo o de reconocimiento,31163302 - Montante para soldar,39131709 - Cableado eléctrico o conductos de cables
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Energía solar (Plantas - Paneles), -Sensores, -Metalmecánica (Diseño, construcción, servicios y equipos), -Materiales para redes de comunicación, -Aviones no tripulados, Drones, Cuadricóptero", "licicodigos": "93,113,288,438,489" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 11 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+CARRERA 7 N. 40 B - 53 Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+2 Meses
+
+Cronograma:
+
+**Fecha de publicación:**
+
+24/Abr/2025 - 05:48 pm
+
+**Fecha de Firma del Contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/May/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+04/Jul/2025 - 11:59 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 10,00 | 05/May/2025 - 12:00 pm | 04/Nov/2025 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 05/May/2025 - 12:00 pm | 04/Jul/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| Avisos | CO1.REQ.8165308 | Publicación modificación | 10/Jun/2025 - 02:15 pm |  |  |
+| Avisos | CO1.REQ.8165308 | Publicación modificación | 06/Jun/2025 - 02:09 pm |  |  |
+| Avisos | CO1.REQ.8165308 | Publicación modificación | 06/Jun/2025 - 02:07 pm |  |  |
+| Avisos | CO1.REQ.8165308 | Publicación modificación | 04/Jun/2025 - 03:04 pm |  |  |
+| Avisos | CO1.REQ.8165308 | Publicación modificación | 27/May/2025 - 02:57 pm |  |  |

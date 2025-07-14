@@ -1,0 +1,196 @@
+Title: Licitaciones - ALCALDIA MUNICIPAL DE SUESCA
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=6808068606cbf4.12400694
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-04-26 11:37:26
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Contratación mínima cuantía
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+En Evaluacion
+
+**Objeto:**
+
+ALQUILER DE IMPRESORAS, ESCANER Y FOTOCOPIADORAS QUE REQUIERAN LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPIO DE SUESCA EN EL OBJETO DE SU MISIONALIDAD.
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Suesca
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+43212110 - Impresoras de múltiples funciones
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Alquiler de computadores y software, -Impresiones, fotocopiado y alquiler de fotocopiadoras", "licicodigos": "107,334" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 7 documentos.
+
+Detalle de la planeación:
+
+**Plazo de validez de la oferta:**
+
+90 Días
+
+**Dirección de ejecución del contrato:**
+
+CL 8 5-55 Suesca Cundinamarca COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Otro
+
+**Plazo del contrato:**
+
+8 Meses
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Límite de contratación mínima cuantía:**
+
+$ 39,858,000
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 43212110 | ALQUILER DE IMPRESORAS, ESCANER Y FOTOCOPIADORAS QUE REQUIERAN LAS DEPENDENCIAS DE LA ALCALDIA MUNICIPIO DE SUESCA EN EL OBJETO DE SU MISIONALIDAD | Mínima cuantía | Recursos propios | $15.000.000 | SECRETARIA DE GOBIERNO |
+
+Cronograma:
+
+**Fecha de publicación:**
+
+22/Abr/2025 - 03:29 pm
+
+**Publicación de estudios previos:**
+
+22/Abr/2025 - 03:30 pm
+
+**Publicación de la invitación:**
+
+22/Abr/2025 - 03:30 pm
+
+**Plazo para manifestación de interés de limitar la convocatoria a MiPymes:**
+
+23/Abr/2025 - 12:00 pm
+
+**Plazo para recepción de observaciones:**
+
+23/Abr/2025 - 12:00 pm
+
+**Publicación del aviso de limitación a MiPymes o si podrá participar cualquier interesado:**
+
+23/Abr/2025 - 03:00 pm
+
+**Plazo máximo para expedir adendas:**
+
+23/Abr/2025 - 03:00 pm
+
+**Respuesta a las observaciones a la invitación:**
+
+23/Abr/2025 - 03:00 pm
+
+**Presentación de Ofertas:**
+
+25/Abr/2025 - 08:30 am
+
+**Apertura de sobres:**
+
+25/Abr/2025 - 08:33 am
+
+**Informe de presentación de ofertas:**
+
+25/Abr/2025 - 08:35 am
+
+**Publicación del informe de evaluación de las Ofertas:**
+
+28/Abr/2025 - 11:00 am
+
+**Presentación de observaciones al informe de verificación o evaluación:**
+
+29/Abr/2025 - 11:00 am
+
+**Aceptación de ofertas:**
+
+29/Abr/2025 - 03:00 pm
+
+**Entrega de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 12:00 pm
+
+**Aprobación de las garantías de ejecución del contrato:**
+
+30/Abr/2025 - 03:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+Si
+
+**¿Plan de pagos?:**
+
+No
+
+**Seriedad de la oferta:**
+
+No
+
+**Cumplimientos:**
+
+| Cumplimiento | Porcentaje del anticipo | Fecha vigencia desde | Fecha vigencia hasta |
+| --- | --- | --- | --- |
+| Cumplimiento del contrato | 20,00 | 30/Abr/2025 - 08:00 am | 30/Jul/2026 - 11:59 pm |
+| Calidad del servicio | 20,00 | 30/Abr/2025 - 08:00 am | 30/Jul/2026 - 11:59 pm |
+| Calidad y correcto funcionamiento de los bienes | 20,00 | 30/Abr/2025 - 08:00 am | 30/Jul/2026 - 11:59 pm |
+
+Mensajes y observaciones:
+
+| Tipo | Referencia | Asunto | Fecha | Más Información | Detalle de la modificación |
+| --- | --- | --- | --- | --- | --- |
+| General | CO1.MSG.7788177 | Respuesta a observaciones | 23/Abr/2025 - 04:12 pm |  | - |

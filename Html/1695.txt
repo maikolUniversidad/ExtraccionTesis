@@ -1,0 +1,141 @@
+Title: Licitaciones - COLEGIO TECNICO JAIME PARDO LEAL
+
+URL Source: https://col.licitaciones.info/detalle-contrato?random=683628742629f5.10666274
+
+Markdown Content:
+Este contrato se encuentra actualizado hasta 2025-05-27 16:02:51
+
+Información general del proceso:
+
+**Entidad:**
+
+Información limitada
+
+**Modalidad:**
+
+Régimen Especial
+
+**Número:**
+
+Información limitada
+
+**Estado del proceso:**
+
+Convocatoria
+
+**Objeto:**
+
+El servicio de la elaboración de carnets y actualización de datos de los estudiantes del Colegio Técnico Jaime Pardo leal año 2025
+
+**Presupuesto oficial:**
+
+Información limitada
+
+**Localización:**
+
+Cundinamarca : Bogotá D.C.
+
+Clasificación:
+
+**Clasificación UNSPSC por la entidad contratante:**
+
+55121802 - Tarjetas o bandas de identificación o productos similares
+
+**Clasificación Licitaciones.info:**
+
+{ "actividades_filter": "Adquisición de licencias de software (Suministro), -Carnetización", "licicodigos": "103,314" }
+
+Fuentes relacionadas:
+
+**Fuente 1:**
+
+Información limitada
+
+**Fuente para usuarios registrados en Secop2:**
+
+Información limitada
+
+Documentos del proceso:
+
+**Descargar todos los documentos:**
+
+Este proceso contiene 5 documentos.
+
+Detalle de la planeación:
+
+**Dirección de ejecución del contrato:**
+
+KR 10 A # 3 - 63 SUR Bogotá Distrito Capital de Bogotá COLOMBIA
+
+**Visita al lugar de ejecución:**
+
+No
+
+**Limitar este proceso a Pymes:**
+
+No
+
+**Tipo de contrato:**
+
+Prestación de servicios
+
+**Plazo del contrato:**
+
+45 Días
+
+Plan anual de adquisiciones:
+
+**Está en el plan anual de adquisiciones %s del año %d:**
+
+**Adquisiciones planeadas:**
+
+| Código UNSPSC | Descripción | Tipo | Fuente de los recursos | Valor total estimado | Unidad de contratación |
+| --- | --- | --- | --- | --- | --- |
+| 55121802 | Actualización de datos de los estudiantes, foto reciente, subir información a la página de la SED y la elaboración del Carne de cada uno de los estudiantes año lectivo 2025 | Contratación régimen especial (con ofertas) - Régimen especial | SGP | $2.000.000 | COLEGIO JAIME PARDO LEAL |
+
+Cronograma:
+
+**Fecha de publicación del proceso:**
+
+27/May/2025 - 02:54 pm
+
+**Fecha límite de presentación de ofertas:**
+
+29/May/2025 - 11:00 am
+
+**Fecha límite para la apertura de sobres:**
+
+29/May/2025 - 11:01 am
+
+**Fecha de Firma del Contrato:**
+
+05/Jun/2025 - 12:00 pm
+
+**Fecha de inicio de ejecución del contrato:**
+
+05/Jun/2025 - 12:00 pm
+
+**Plazo de ejecución del contrato:**
+
+15/Jul/2025 - 12:00 pm
+
+Configuración financiera:
+
+**Solicitud de garantías:**
+
+No
+
+**¿Plan de pagos?:**
+
+Si
+
+**Tabla plan de pagos:**
+
+| Pago | Porcentaje de pago |
+| --- | --- |
+| 1 | 100 |
+| **total** | **100** |
+
+**Anticipos:**
+
+No
