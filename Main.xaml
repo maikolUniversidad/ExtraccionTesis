@@ -415,6 +415,7 @@
                             <Sequence.Variables>
                               <Variable x:TypeArguments="x:String" Name="UbicacionCarpeta" />
                               <Variable x:TypeArguments="x:String" Name="UbicacionMover" />
+                              <Variable x:TypeArguments="x:String" Name="UbicacionCarpetaMover" />
                             </Sequence.Variables>
                             <sap:WorkflowViewStateService.ViewState>
                               <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -432,12 +433,12 @@
                                       <InArgument x:TypeArguments="x:String">C:\Users\Maikol Vergara\Downloads</InArgument>
                                     </ui:AssignOperation.Value>
                                   </ui:AssignOperation>
-                                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
+                                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
                                     <ui:AssignOperation.To>
-                                      <OutArgument x:TypeArguments="x:String">[UbicacionMover]</OutArgument>
+                                      <OutArgument x:TypeArguments="x:String">[UbicacionCarpetaMover]</OutArgument>
                                     </ui:AssignOperation.To>
                                     <ui:AssignOperation.Value>
-                                      <InArgument x:TypeArguments="x:String">Tesis_02</InArgument>
+                                      <InArgument x:TypeArguments="x:String">C:\Users\Maikol Vergara\Downloads\Tesis_02</InArgument>
                                     </ui:AssignOperation.Value>
                                   </ui:AssignOperation>
                                 </scg:List>
@@ -561,7 +562,7 @@
                                                                 </Assign>
                                                                 <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[Nuevo_Nombre]" />
                                                                 <ui:RenameFileX DisplayName="Renombrar archivo" FilePath="[UbicacionCarpeta+&quot;\&quot; +fileInfo.Name]" sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="RenameFileX_1" KeepExtension="True" NewName="[Nuevo_Nombre]" />
-                                                                <ui:MoveFile ContinueOnError="{x:Null}" DestinationResource="{x:Null}" PathResource="{x:Null}" Destination="[UbicacionCarpeta+&quot;\&quot;+UbicacionMover]" DisplayName="Mover archivo" sap:VirtualizedContainerService.HintSize="434,191" sap2010:WorkflowViewState.IdRef="MoveFile_1" Overwrite="True" Path="[UbicacionCarpeta+&quot;\&quot; + Nuevo_Nombre]" />
+                                                                <ui:MoveFile ContinueOnError="{x:Null}" DestinationResource="{x:Null}" PathResource="{x:Null}" Destination="[UbicacionCarpetaMover]" DisplayName="Mover archivo" sap:VirtualizedContainerService.HintSize="434,191" sap2010:WorkflowViewState.IdRef="MoveFile_1" Overwrite="True" Path="[UbicacionCarpeta+&quot;\&quot; + Nuevo_Nombre]" />
                                                                 <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="434,105" sap2010:WorkflowViewState.IdRef="Assign_7">
                                                                   <Assign.To>
                                                                     <OutArgument x:TypeArguments="x:Int32">[CanDocumentos]</OutArgument>
