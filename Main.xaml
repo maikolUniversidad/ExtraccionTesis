@@ -246,7 +246,7 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1949,5560" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1404,5560" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -597,7 +597,7 @@
                                               </ActivityAction>
                                             </ui:ForEachRow.Body>
                                           </ui:ForEachRow>
-                                          <ueab:WriteCellX Cell="[FilaActual.ByField(&quot;Descarga_Documentos&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="574,184" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[CanDocumentos]" />
+                                          <ueab:WriteCellX Cell="[FilaActual.ByIndex.Item(13)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="574,184" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[CanDocumentos]" />
                                         </Sequence>
                                       </uix:NCheckState.IfExists>
                                       <uix:NCheckState.IfNotExists>
