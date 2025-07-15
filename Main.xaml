@@ -121,10 +121,10 @@
       <x:String>UiPath.Shared.Activities.Business</x:String>
       <x:String>UiPath.UIAutomationNext.Models.ExtractData</x:String>
       <x:String>UiPath.DataTableUtilities</x:String>
-      <x:String>GlobalVariablesNamespace</x:String>
-      <x:String>GlobalConstantsNamespace</x:String>
       <x:String>UiPath.UIAutomationNext.Contracts</x:String>
       <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
     </sco:Collection>
   </TextExpression.NamespacesForImplementation>
   <TextExpression.ReferencesForImplementation>
@@ -246,7 +246,7 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1404,5560" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="realiza la extraccion de un html de pagina para guardarlo en la carpeta de descargas que viene de un arreglo de link para que ingrese en cada uno y extraiga todo el html " DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1949,6432" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -376,25 +376,25 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <ueab:SequenceX DisplayName="Ámbito del proceso de Excel único" sap:VirtualizedContainerService.HintSize="1404,5370" sap2010:WorkflowViewState.IdRef="SequenceX_1">
+    <ueab:SequenceX DisplayName="Ámbito del proceso de Excel único" sap:VirtualizedContainerService.HintSize="1404,6242" sap2010:WorkflowViewState.IdRef="SequenceX_1">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Utilice el archivo de Excel" sap:VirtualizedContainerService.HintSize="1370,5287" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="datos\Base de Datos Secop.xlsx">
+      <ueab:ExcelApplicationCard Password="{x:Null}" ReadFormatting="{x:Null}" SensitivityLabel="{x:Null}" DisplayName="Utilice el archivo de Excel" sap:VirtualizedContainerService.HintSize="1370,6159" sap2010:WorkflowViewState.IdRef="ExcelApplicationCard_1" ResizeWindow="None" SensitivityOperation="None" WorkbookPath="datos\Base de Datos Secop.xlsx">
         <ueab:ExcelApplicationCard.Body>
           <ActivityAction x:TypeArguments="ue:IWorkbookQuickHandle">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="ue:IWorkbookQuickHandle" Name="Excel" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1336,4995" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1336,5867" sap2010:WorkflowViewState.IdRef="Sequence_4">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <ueab:ExcelForEachRowX DisplayName="Para cada fila de Excel" EmptyRowBehavior="Stop" HasHeaders="True" sap:VirtualizedContainerService.HintSize="1302,4935" sap2010:WorkflowViewState.IdRef="ExcelForEachRowX_1" Range="[Excel.Sheet(&quot;Licitaciones&quot;)]" SaveAfterEachRow="False">
+              <ueab:ExcelForEachRowX DisplayName="Para cada fila de Excel" EmptyRowBehavior="Stop" HasHeaders="True" sap:VirtualizedContainerService.HintSize="1302,5807" sap2010:WorkflowViewState.IdRef="ExcelForEachRowX_1" Range="[Excel.Sheet(&quot;Licitaciones&quot;)]" SaveAfterEachRow="False">
                 <ueab:ExcelForEachRowX.Body>
                   <ActivityAction x:TypeArguments="ue:CurrentRowQuickHandle, x:Int32">
                     <ActivityAction.Argument1>
@@ -403,15 +403,15 @@
                     <ActivityAction.Argument2>
                       <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentIndex" />
                     </ActivityAction.Argument2>
-                    <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1268,4722" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                    <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1268,5594" sap2010:WorkflowViewState.IdRef="Sequence_5">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <If Condition="[String.IsNullOrEmpty(FilaActual.ByField(&quot;Descarga_Documentos&quot;).StringValue)]" DisplayName="Si" sap:VirtualizedContainerService.HintSize="1234,4662" sap2010:WorkflowViewState.IdRef="If_2">
+                      <If Condition="[String.IsNullOrEmpty(FilaActual.ByField(&quot;Descarga_Documentos&quot;).StringValue)]" DisplayName="Si" sap:VirtualizedContainerService.HintSize="1234,5534" sap2010:WorkflowViewState.IdRef="If_2">
                         <If.Then>
-                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="1232,4444" sap2010:WorkflowViewState.IdRef="Sequence_18">
+                          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="1232,5316" sap2010:WorkflowViewState.IdRef="Sequence_18">
                             <Sequence.Variables>
                               <Variable x:TypeArguments="x:String" Name="UbicacionCarpeta" />
                               <Variable x:TypeArguments="x:String" Name="UbicacionMover" />
@@ -444,13 +444,13 @@
                                 </scg:List>
                               </ui:MultipleAssign.AssignOperations>
                             </ui:MultipleAssign>
-                            <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Licitaciones - Contratos" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1198,4205" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="23136466-2763-4f1f-bdb3-c739171fb739" Version="V2">
+                            <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Licitaciones - Contratos" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1198,5077" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="23136466-2763-4f1f-bdb3-c739171fb739" Version="V2">
                               <uix:NApplicationCard.Body>
                                 <ActivityAction x:TypeArguments="x:Object">
                                   <ActivityAction.Argument>
                                     <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                                   </ActivityAction.Argument>
-                                  <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1164,3965" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                                  <Sequence DisplayName="Hacer" sap:VirtualizedContainerService.HintSize="1164,4837" sap2010:WorkflowViewState.IdRef="Sequence_7">
                                     <sap:WorkflowViewStateService.ViewState>
                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -458,9 +458,9 @@
                                     </sap:WorkflowViewStateService.ViewState>
                                     <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="1130,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_2" Url="[FilaActual(&quot;Enlace&quot;).ToString]" Version="V5" />
                                     <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="1130,122" sap2010:WorkflowViewState.IdRef="Delay_1" />
-                                    <uix:NCheckState DisplayName="Comprobar estado de aplicación 'Descargar todos los doc…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1130,3667" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
+                                    <uix:NCheckState DisplayName="Comprobar estado de aplicación 'Descargar todos los doc…'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="1130,4539" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="23136466-2763-4f1f-bdb3-c739171fb739" Version="V5">
                                       <uix:NCheckState.IfExists>
-                                        <Sequence DisplayName="Aparece el destino" sap:VirtualizedContainerService.HintSize="608,3385" sap2010:WorkflowViewState.IdRef="Sequence_11">
+                                        <Sequence DisplayName="Aparece el destino" sap:VirtualizedContainerService.HintSize="608,4257" sap2010:WorkflowViewState.IdRef="Sequence_11">
                                           <sap:WorkflowViewStateService.ViewState>
                                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -500,13 +500,13 @@
                                               <InArgument x:TypeArguments="x:Int32">0</InArgument>
                                             </Assign.Value>
                                           </Assign>
-                                          <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Para cada fila de la tabla de datos" sap:VirtualizedContainerService.HintSize="574,2611" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+                                          <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[GlobalVariablesNamespace.GlobalVariables.tablaExtraida]" DisplayName="Para cada fila de la tabla de datos" sap:VirtualizedContainerService.HintSize="574,3483" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
                                             <ui:ForEachRow.Body>
                                               <ActivityAction x:TypeArguments="sd:DataRow">
                                                 <ActivityAction.Argument>
                                                   <DelegateInArgument x:TypeArguments="sd:DataRow" Name="FilaExtraida" />
                                                 </ActivityAction.Argument>
-                                                <Sequence DisplayName="Cuerpo" sap:VirtualizedContainerService.HintSize="572,2431" sap2010:WorkflowViewState.IdRef="Sequence_13">
+                                                <Sequence DisplayName="Cuerpo" sap:VirtualizedContainerService.HintSize="572,3303" sap2010:WorkflowViewState.IdRef="Sequence_13">
                                                   <Sequence.Variables>
                                                     <Variable x:TypeArguments="si:FileInfo" Name="fileInfo" />
                                                   </Sequence.Variables>
@@ -518,7 +518,7 @@
                                                   <ui:GetEnvironmentFolder DisplayName="Get the download folder path." FolderPath="[GlobalVariablesNamespace.GlobalVariables.downloadFolderPath]" sap:VirtualizedContainerService.HintSize="538,117" sap2010:WorkflowViewState.IdRef="GetEnvironmentFolder_1" SpecialFolder="Desktop" />
                                                   <uix:NGoToUrl DisplayName="Ir a URL - " sap:VirtualizedContainerService.HintSize="538,114" sap2010:WorkflowViewState.IdRef="NGoToUrl_3" Url="[FilaExtraida(&quot;Documento_Url&quot;).ToString]" Version="V5" />
                                                   <Delay DisplayName="Retraso" Duration="00:00:05.5000000" sap:VirtualizedContainerService.HintSize="538,122" sap2010:WorkflowViewState.IdRef="Delay_2" />
-                                                  <ui:ForEachFileX DisplayName="For each file in the download folder" Folder="[UbicacionCarpeta]" sap:VirtualizedContainerService.HintSize="538,2018" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
+                                                  <ui:ForEachFileX DisplayName="For each file in the download folder" Folder="[UbicacionCarpeta]" sap:VirtualizedContainerService.HintSize="538,2890" sap2010:WorkflowViewState.IdRef="ForEachFileX_1" IncludeSubDirectories="False" OrderBy="NameAscFirst" SkipFolderWithoutPermission="False">
                                                     <ui:ForEachFileX.Body>
                                                       <ActivityAction x:TypeArguments="si:FileInfo, x:Int32">
                                                         <ActivityAction.Argument1>
@@ -527,7 +527,7 @@
                                                         <ActivityAction.Argument2>
                                                           <DelegateInArgument x:TypeArguments="x:Int32" Name="CurrentIndex" />
                                                         </ActivityAction.Argument2>
-                                                        <Sequence DisplayName="" sap:VirtualizedContainerService.HintSize="504,1735" sap2010:WorkflowViewState.IdRef="Sequence_15">
+                                                        <Sequence DisplayName="" sap:VirtualizedContainerService.HintSize="504,2607" sap2010:WorkflowViewState.IdRef="Sequence_15">
                                                           <Sequence.Variables>
                                                             <Variable x:TypeArguments="x:String" Name="Comparacion" />
                                                           </Sequence.Variables>
@@ -537,7 +537,46 @@
                                                             </scg:Dictionary>
                                                           </sap:WorkflowViewStateService.ViewState>
                                                           <ui:GetFileInfoX DisplayName="Get the file name." FilePath="[CurrentFile.FullName]" sap:VirtualizedContainerService.HintSize="470,165" sap2010:WorkflowViewState.IdRef="GetFileInfoX_1" Output="[fileInfo]" />
-                                                          <If Condition="[CurrentFile.FullName.Contains(FilaExtraida(&quot;Nombre&quot;).ToString())]" DisplayName="If the file name contains FilaExtraida(&quot;Nombre&quot;).ToString" sap:VirtualizedContainerService.HintSize="470,1510" sap2010:WorkflowViewState.IdRef="If_1">
+                                                          <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="470,114" sap2010:WorkflowViewState.IdRef="Assign_10">
+                                                            <Assign.To>
+                                                              <OutArgument x:TypeArguments="x:String">[NewName]</OutArgument>
+                                                            </Assign.To>
+                                                            <Assign.Value>
+                                                              <InArgument x:TypeArguments="x:String">[CurrentFile.FullName]</InArgument>
+                                                            </Assign.Value>
+                                                          </Assign>
+                                                          <If Condition="[CurrentFile.FullName.Contains(FilaExtraida(&quot;Nombre&quot;).ToString()) AndAlso CurrentFile.FullName.Contains(&quot;.crdownload&quot;)]" DisplayName="Si" sap:VirtualizedContainerService.HintSize="470,758" sap2010:WorkflowViewState.IdRef="If_3">
+                                                            <If.Then>
+                                                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="468,531" sap2010:WorkflowViewState.IdRef="Sequence_20">
+                                                                <sap:WorkflowViewStateService.ViewState>
+                                                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                  </scg:Dictionary>
+                                                                </sap:WorkflowViewStateService.ViewState>
+                                                                <Delay DisplayName="Retraso" Duration="00:00:15" sap:VirtualizedContainerService.HintSize="434,122" sap2010:WorkflowViewState.IdRef="Delay_4" />
+                                                                <WriteLine DisplayName="Escribir línea" sap:VirtualizedContainerService.HintSize="434,122" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Espera" />
+                                                                <Assign DisplayName="Assign the new name without the .crdownload extension.'" sap:VirtualizedContainerService.HintSize="434,114" sap2010:WorkflowViewState.IdRef="Assign_9">
+                                                                  <Assign.To>
+                                                                    <OutArgument x:TypeArguments="x:String">[NewName]</OutArgument>
+                                                                  </Assign.To>
+                                                                  <Assign.Value>
+                                                                    <InArgument x:TypeArguments="x:String">[CurrentFile.Name.Replace(".crdownload", "")]</InArgument>
+                                                                  </Assign.Value>
+                                                                </Assign>
+                                                                <WriteLine DisplayName="Escribir línea" sap:VirtualizedContainerService.HintSize="434,113" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="[NewName + &quot; Espera nuevo nombre&quot;]" />
+                                                              </Sequence>
+                                                            </If.Then>
+                                                            <If.Else>
+                                                              <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="468,89" sap2010:WorkflowViewState.IdRef="Sequence_21">
+                                                                <sap:WorkflowViewStateService.ViewState>
+                                                                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                                                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                                                  </scg:Dictionary>
+                                                                </sap:WorkflowViewStateService.ViewState>
+                                                              </Sequence>
+                                                            </If.Else>
+                                                          </If>
+                                                          <If Condition="[NewName.Contains(FilaExtraida(&quot;Nombre&quot;).ToString())]" DisplayName="If the file name contains FilaExtraida(&quot;Nombre&quot;).ToString" sap:VirtualizedContainerService.HintSize="470,1510" sap2010:WorkflowViewState.IdRef="If_1">
                                                             <If.Then>
                                                               <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="468,1292" sap2010:WorkflowViewState.IdRef="Sequence_16">
                                                                 <Sequence.Variables>
@@ -549,7 +588,7 @@
                                                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                                   </scg:Dictionary>
                                                                 </sap:WorkflowViewStateService.ViewState>
-                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[CurrentFile.FullName]" />
+                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[NewName + &quot; Nombre Final&quot;]" />
                                                                 <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[fileInfo.Name]" />
                                                                 <Delay DisplayName="Retraso" Duration="00:00:02" sap:VirtualizedContainerService.HintSize="434,122" sap2010:WorkflowViewState.IdRef="Delay_3" />
                                                                 <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="434,114" sap2010:WorkflowViewState.IdRef="Assign_4">
@@ -560,7 +599,7 @@
                                                                     <InArgument x:TypeArguments="x:String">[FilaActual("Codigo").ToString() + "_" + fileInfo.Name]</InArgument>
                                                                   </Assign.Value>
                                                                 </Assign>
-                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[Nuevo_Nombre]" />
+                                                                <ui:LogMessage DisplayName="Log the file name." sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[Nuevo_Nombre + &quot; Nuevo nombre subir &quot;]" />
                                                                 <ui:RenameFileX DisplayName="Renombrar archivo" FilePath="[UbicacionCarpeta+&quot;\&quot; +fileInfo.Name]" sap:VirtualizedContainerService.HintSize="434,175" sap2010:WorkflowViewState.IdRef="RenameFileX_1" KeepExtension="True" NewName="[Nuevo_Nombre]" />
                                                                 <ui:MoveFile ContinueOnError="{x:Null}" DestinationResource="{x:Null}" PathResource="{x:Null}" Destination="[UbicacionCarpetaMover]" DisplayName="Mover archivo" sap:VirtualizedContainerService.HintSize="434,191" sap2010:WorkflowViewState.IdRef="MoveFile_1" Overwrite="True" Path="[UbicacionCarpeta+&quot;\&quot; + Nuevo_Nombre]" />
                                                                 <Assign DisplayName="Asignar" sap:VirtualizedContainerService.HintSize="434,105" sap2010:WorkflowViewState.IdRef="Assign_7">
